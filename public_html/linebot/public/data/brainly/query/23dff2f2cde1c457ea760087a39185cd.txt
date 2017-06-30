@@ -1,0 +1,1576 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 5470977,
+                        "subject_id": 2,
+                        "user_id": 2753002,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "<br \/><br \/>\nChelsea Islan membayar Rp 39.000,00 untuk membeli 3 kg jerukdan 2 kg apel. Pada tempat yang sama Raisa membayarRp 59.000,00 untuk membeli 2 kg jeruk dan 5 kg apel.<br \/><br \/>\nHarga 1 kg jeruk adalah \u2026<br \/>",
+                        "created": "2016-03-17T08:16:48+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2016-03-17T08:19:58+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "\n<em>Chelsea<\/em> <em>Islan<\/em> membayar Rp 39.000,00 untuk membeli 3 kg jerukdan 2 kg apel. Pada tempat yang sama Raisa membayarRp 59.000,00 untuk membeli 2 kg jeruk dan 5 kg apel.\nHarga 1 kg jeruk adalah \u2026",
+                        "snippet_content": "\n<em>Chelsea<\/em> <em>Islan<\/em> membayar Rp 39.000,00 untuk membeli 3 kg jerukdan 2 kg apel. Pada tempat yang sama Raisa membayarRp"
+                    },
+                    "responses": [
+                        {
+                            "id": 6465724,
+                            "user_id": 1427688,
+                            "task_id": 5470977,
+                            "points": 5,
+                            "created": "2016-03-17T08:19:58+07:00",
+                            "content": "3j+2a=39000<br \/>2j+5a=59000<br \/><br \/>6j+4a=78000<br \/>6j+15a=177000<br \/><br \/>11a=99000<br \/>a=9000<br \/><br \/>3j+2a=39000<br \/>3j+18000=39000<br \/>3j=21000<br \/>j=7000<br \/><br \/>jeruk 7000",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 6465755,
+                            "user_id": 633314,
+                            "task_id": 5470977,
+                            "points": 5,
+                            "created": "2016-03-17T08:25:56+07:00",
+                            "content": "misal : jeruk (x), apel (y)<br \/>*eleminasi y<br \/>3x + 2y = 39.000\u2551x 5\u255115x + 10y = 195.000<br \/>2x + 5y = 59.000\u2551x 2\u2551<u>4x + 10y = 118.000 \u00a0\u00a0<\/u> -<br \/>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 11x = 77.000<br \/>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 x = <u>77.000<\/u><br \/>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 11<br \/>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 x = 7.000<br \/>jadi harga 1 kg jeruk Rp.7.000",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 0,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2016-12-06T16:46:43+07:00",
+                                "approver": {
+                                    "id": 2663844,
+                                    "nickname": "Mahaguru",
+                                    "points": 516177,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/db6\/c5fb7b6a68ce26ccea00dc12cb60d96f.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/df7\/fe8fb6dfa0d217a5d3fafa2a27e269ba.png"
+                                    },
+                                    "content_approved_count": 717808
+                                }
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 3768936,
+                                        "user_id": 2753002,
+                                        "content": "thxx",
+                                        "created": "2016-03-17T08:27:48+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 3768938,
+                                        "user_id": 633314,
+                                        "content": "iya",
+                                        "created": "2016-03-17T08:28:38+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 2
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1427688,
+                                "nick": "faizahnurlaili",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d1a\/a2511f5b8e868ac823199ae982e929a4.jpg"
+                            },
+                            {
+                                "id": 633314,
+                                "nick": "emafitriani",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/db3\/6f2b620f36a53373e3283e2ec0b78701.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 4185683,
+                        "subject_id": 10,
+                        "user_id": 2178392,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "siapa nama artis yang mirip chelsea island",
+                        "created": "2015-11-03T19:55:16+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2015-11-03T19:58:00+07:00",
+                        "the_best_resp_id": "4952420",
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "siapa nama artis yang mirip <em>chelsea<\/em> <em>islan<\/em>d",
+                        "snippet_content": "siapa nama artis yang mirip <em>chelsea<\/em> <em>islan<\/em>d"
+                    },
+                    "responses": [
+                        {
+                            "id": 4952356,
+                            "user_id": 67585,
+                            "task_id": 4185683,
+                            "points": 5,
+                            "created": "2015-11-03T19:58:00+07:00",
+                            "content": "tatjana sapira<br \/><br \/>semoga dapat membantu<br \/><br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 3023970,
+                                        "user_id": 2178392,
+                                        "content": "ya trima kasih",
+                                        "created": "2015-11-03T19:58:51+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        },
+                        {
+                            "id": 4952420,
+                            "user_id": 2209232,
+                            "task_id": 4185683,
+                            "points": 5,
+                            "created": "2015-11-03T19:59:52+07:00",
+                            "content": "Tatjana Saphira Hartmann",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 0,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 67585,
+                                "nick": "GracellaMK",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d6b\/c7a682d3fbf91ba1d33c160e280ada98.jpg"
+                            },
+                            {
+                                "id": 2209232,
+                                "nick": "rinny20",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d16\/7491637567eae63092f75cf3e4f2c2fd.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 4781394,
+                        "subject_id": 1,
+                        "user_id": 1809628,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "apa yang kamu bisa teladani dari chelsea islan!????plissss d jawab",
+                        "created": "2016-01-13T18:01:23+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2016-01-13T18:02:20+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [
+                            {
+                                "full": "https:\/\/id-static.z-dn.net\/files\/d9d\/d4896329dc51cdaceffd791c5f869735.jpg",
+                                "thumbnail": "https:\/\/id-static.z-dn.net\/files\/d1e\/8941c7e7c4f4beeac94affd3fa2aaf5e.jpg",
+                                "type": "image\/jpeg",
+                                "size": 55903,
+                                "hash": "d4896329dc51cdaceffd791c5f869735",
+                                "id": 1886238,
+                                "extension": "jpg"
+                            }
+                        ],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "apa yang kamu bisa teladani dari <em>chelsea<\/em> <em>islan<\/em>!????plissss d jawab",
+                        "snippet_content": "apa yang kamu bisa teladani dari <em>chelsea<\/em> <em>islan<\/em>!????plissss d jawab"
+                    },
+                    "responses": [
+                        {
+                            "id": 5684127,
+                            "user_id": 2459384,
+                            "task_id": 4781394,
+                            "points": 5,
+                            "created": "2016-01-13T18:02:20+07:00",
+                            "content": "percaya diri kyaknya yshhhhh",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2016-01-22T08:40:10+07:00",
+                                "approver": {
+                                    "id": 1183068,
+                                    "nickname": "Zuhh",
+                                    "points": 571945,
+                                    "grade": 3,
+                                    "gender": 1,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/dfc\/b1af72a5843afccba91c78d7ce6d2686.jpg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/d28\/1ef25a39b7a7383cda190250518b945e.jpg"
+                                    },
+                                    "content_approved_count": 38049
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 5684149,
+                            "user_id": 457457,
+                            "task_id": 4781394,
+                            "points": 5,
+                            "created": "2016-01-13T18:03:32+07:00",
+                            "content": "mungkin cantik, pinter",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2016-01-22T08:40:11+07:00",
+                                "approver": {
+                                    "id": 1183068,
+                                    "nickname": "Zuhh",
+                                    "points": 571945,
+                                    "grade": 3,
+                                    "gender": 1,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/dfc\/b1af72a5843afccba91c78d7ce6d2686.jpg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/d28\/1ef25a39b7a7383cda190250518b945e.jpg"
+                                    },
+                                    "content_approved_count": 38049
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2459384,
+                                "nick": "wildan104",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d4a\/5174b16cf2f9faef241eb660258cf46a.jpg"
+                            },
+                            {
+                                "id": 457457,
+                                "nick": "PrincessAncaidisa29",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/de4\/698e79e95a80745db7ff12f861773198.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 4811976,
+                        "subject_id": 1,
+                        "user_id": 546012,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 15,
+                            "ptsForResp": 8,
+                            "ptsForBest": 4
+                        },
+                        "content": "Tugas Bahasa Indonesia tentang Tokoh Idola<br \/><br \/>\nHal-Hal yang Patut Diteladani dari Chelsea Islan <br \/>\na.\tCara meraih prestasi<br \/>\nb.\tPengaturan aktivitas sehari-hari<br \/>\nc.\tUsaha-usaha untuk meningkatkan prestasi<br \/><br \/>",
+                        "created": "2016-01-17T13:08:16+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2016-01-17T13:11:53+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Tugas Bahasa Indonesia tentang Tokoh Idola\nHal-Hal yang Patut Diteladani dari <em>Chelsea<\/em> <em>Islan<\/em> \na.\tCara meraih prestasi\nb.\tPengaturan aktivitas sehari-hari\nc.\tUsaha-usaha untuk meningkatkan prestasi",
+                        "snippet_content": "Tugas Bahasa Indonesia tentang Tokoh Idola\nHal-Hal yang Patut Diteladani dari <em>Chelsea<\/em> <em>Islan<\/em> \na.\tCara meraih prestasi\nb.\tPengaturan aktivitas sehari"
+                    },
+                    "responses": [
+                        {
+                            "id": 5720677,
+                            "user_id": 2277167,
+                            "task_id": 4811976,
+                            "points": 8,
+                            "created": "2016-01-17T13:11:53+07:00",
+                            "content": "c usaha usaha untuk meningkatkan prestasi",
+                            "mark": 4,
+                            "marks_count": 1,
+                            "thanks": 0,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 3408141,
+                                        "user_id": 546012,
+                                        "content": "Maksud saya,Deskripsikan semua nya\u00a0",
+                                        "created": "2016-01-17T13:12:50+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        },
+                        {
+                            "id": 5720844,
+                            "user_id": 2323633,
+                            "task_id": 4811976,
+                            "points": 8,
+                            "created": "2016-01-17T13:27:33+07:00",
+                            "content": "a Cara meraih prestasi",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2277167,
+                                "nick": "aura331",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d57\/4195eb068c3ae738c38c71dc41f415f8.jpg"
+                            },
+                            {
+                                "id": 2323633,
+                                "nick": "DivyaRahma",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d66\/2566561b2dfe76c6d40f4968b904637c.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 7973216,
+                        "subject_id": 5,
+                        "user_id": 82852,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "tolong dong d cek penulisan dan artinya sudah benar blum.. dan yg sebagian tolong artiin k bahasa inggris. boleh dong pendapatnya yg ingin menambahkan ...<br \/><br \/>1. because intelligent is not the determinant of succes, but just a good person will get the best.<br \/>2. because I want to increase my knowlegde about relegion of islam.<br \/>3. because listening  music make me relax when I am in thoughtful.<br \/>4.aktris favorit saya adalh chelse islan karena dia cantik, pintar, aktingnya terlihat natural dan dua juga merupakan aktris muti talent.<br \/>5. pernahkah kamu mengalami insident saat latihan dance\/ saat memasak\/ saat mengendarai motor?<br \/>6. apa yang biasanya kamu suka untuk di masak?<br \/>7. kenapa kamu suka memasak dan siapa yang mengajari kamu memasak?<br \/><br \/><br \/>",
+                        "created": "2016-10-20T15:14:42+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2016-10-20T15:18:08+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "tolong dong d cek penulisan dan artinya sudah benar blum.. dan yg sebagian tolong artiin k bahasa inggris. boleh dong pendapatnya yg ingin menambahkan ...1. because intelligent is not the determinant of succes, but just a good person will get the best.2. because I want to increase my knowlegde about relegion of islam.3. because listening  music make me relax when I am in thoughtful.4.aktris favorit saya adalh <em>chelse<\/em> <em>islan<\/em> karena dia cantik, pintar, aktingnya terlihat natural dan dua juga merupakan aktris muti talent.5. pernahkah kamu mengalami insident saat latihan dance\/ saat memasak\/ saat mengendarai motor?6. apa yang biasanya kamu suka untuk di masak?7. kenapa kamu suka memasak dan siapa yang mengajari kamu memasak?",
+                        "snippet_content": "relax when I am in thoughtful.4.aktris favorit saya adalh <em>chelse<\/em> <em>islan<\/em> karena dia cantik, pintar, aktingnya terlihat natural dan dua"
+                    },
+                    "responses": [
+                        {
+                            "id": 9455696,
+                            "user_id": 3739837,
+                            "task_id": 7973216,
+                            "points": 5,
+                            "created": "2016-10-20T15:18:08+07:00",
+                            "content": "7. why you like cooking? and who teaching you cooking?<br \/>4. my favorite actris is chelse islan because she beautyful, smart,  she's acting  seem natural and she is actris multitalent<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 9456017,
+                            "user_id": 3164822,
+                            "task_id": 7973216,
+                            "points": 5,
+                            "created": "2016-10-20T15:32:30+07:00",
+                            "content": "1. udah betul<br \/>2. lebih baik kata religion of nya ditiadakan<br \/>3. thoughtful = bijaksana. apa maksudnya udah betul?<br \/>4. my favourite actress is chelsea islan because of her beautiful, smart, her acting look so natural, and she's also multitalented<br \/>5. have you ever exprerienced an incident when you practice dance\/when cooking\/when you riding a motorcycle?<br \/>6. what do you usually like to cook?<br \/>7. why you like cooking and who teach you to cook?",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2016-12-08T14:28:29+07:00",
+                                "approver": {
+                                    "id": 2663844,
+                                    "nickname": "Mahaguru",
+                                    "points": 516177,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/db6\/c5fb7b6a68ce26ccea00dc12cb60d96f.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/df7\/fe8fb6dfa0d217a5d3fafa2a27e269ba.png"
+                                    },
+                                    "content_approved_count": 717808
+                                }
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 5230498,
+                                        "user_id": 82852,
+                                        "content": "makasi ya.. oea saya boleh ga minta pin bb kamu atau line gitu. supaua saya bisa tanya tanya.. kalo ga keberatan,",
+                                        "created": "2016-10-20T15:42:38+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 5230521,
+                                        "user_id": 3164822,
+                                        "content": "pin ya d164a96a",
+                                        "created": "2016-10-20T15:44:20+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 5230557,
+                                        "user_id": 82852,
+                                        "content": "makasi.. oea satu lagi.. saya suka membca buku terutama buku dengan topik islami.. b inggrisny apa ya",
+                                        "created": "2016-10-20T15:46:38+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 5230584,
+                                        "user_id": 3164822,
+                                        "content": "i love reading books, especially books on the topic of islamic",
+                                        "created": "2016-10-20T15:49:32+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 5230630,
+                                        "user_id": 82852,
+                                        "content": "ok mkasi. oea ak udh add kamu d bbm.. kog blm masuk ya",
+                                        "created": "2016-10-20T15:54:26+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 5230498,
+                                "count": 7
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3739837,
+                                "nick": "lenamagdalenna",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d7b\/d3c73ba4fbd91beaf76b4a20b488060a.jpg"
+                            },
+                            {
+                                "id": 3164822,
+                                "nick": "glamour1",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d33\/10a33e283674538529ab62958a0e4960.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 9053441,
+                        "subject_id": 1,
+                        "user_id": 4405473,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Simaklah bacaan berikut! Laudya Chintya Bella Membuka Diri Di film terbarunya, Bukan Bintang Biasa, dia tak cuma berakting, tapi juga menyanyi. Bersama Chelsea Olivia, Ayushita, Raffi Ahmad, dan Dimas Beck yang tergabung dalam grup vokal Bukan Bintang Biasa, dia juga membuat album soundtrack. Kembali Bella mendapat cibiran karena dianggap tak memiliki dasar sebagai penyanyi profesional. \u201dAda yang bilang aji mumpung, jualan tampang, vokal paspasan, bahkan fals. Saya tak peduli, yang penting maju terus dan berkarya,\u201d tekad artis yang juga membintangi film horor Lentera Malam ini. 136 Aktif Berbahasa Indonesia Kelas VII SMP\/MTs Jika menuruti kata hati, berhenti di tengah jalan ketika menghadapi tantangan, dia pasti tak akan merengkuh kesuksesan. Semuanya untuk terus berkarya tak hanya berbuah popularitas. Gadis kelahiran 24 Februari 1988 ini bahkan berhasil meraih berbagai penghargaan bergengsi atas perannya sebagai Biyan dalam Virgin. April 2005, Bella merebut gelar Aktris Terpuji Festival Film Bandung (FFB), mengalahkan Marcella Zalianty dan Lidya Kandouw. Dia juga dinobatkan sebagai \u201dRising Star\u201d di ajang MTV Movie Award 2005. Pada tahun yang sama, dia menjadi nomine pemeran utama terbaik wanita di Festival Film Indonesia (FFI). Sebelum terjun ke film, Bella lebih dikenal sebagai pemain sinetron. Sejak tahun 2002, bungsu dari tiga bersaudara ini sudah main sinetron, antara lain, Senandung Masa Puber, Cinta Hilang Cinta Kembali, Juragan Jengkol, Virgin, Seminggu Tujuh Cinta, dan Apanya Dong. Dia juga mendukung variety show Extravaganza ABG di Trans TV. Merasa modal aktingnya cukup, Bella mencoba ikut kasting Virgin. Saat itu dia masih duduk di bangku kelas III SMA Harapan Bunda. Dia masuk 10 besar. \u201dTernyata saya beruntung diterima sebagai pemeran utama,\u201d katanya. Bella sadar, dunia akting cukup menjanjikan. Maka dia serius. Dia berguru pada Eka D Sitorus, pengasuh Sakti Acting School Jakarta. Sebelum berguru akting, dia hanya berbekal rasa percaya diri dan dukungan ibunda. Bella bukan berasal dari keluarga seni. \u201dNggak tahu, turunan darah siapa. Malah waktu kecil, saya pemalu. Saya nggak berani memulai obrolan dengan orang baru. Pokoknya parah deh. Semua berubah setelah saya remaja,\u201d cerita Bella. Untung saja dia punya saudara sepupu yang jadi bintang iklan. Dia sering diajak menemani pemotretan. Lambat laun, dia mengenal pergaulan lebih luas dan berani membuka diri. Sampai akhirnya, kehidupan berubah sejak sang mama diam-diam mengirimkan foto Bella ke majalan Kawanku. \u201dSaya jadi juara II pemilihan model,\u201d kata bintang iklan sandal dan obat jerawat ini. Sejak itu, dia mulai jadi bintang iklan. Tawaran sinetron pun datang, tapi dia tolak karena tinggal dan bersekolah di Bandung. \u201dSusah kalau harus tiap hari bolakbalik Bandung-Jakarta,\u201d cerita Bella yang pindah sekolah ke Jakarta setelah lulus SMP. Selama bermain sinetron dan film, dia selalu mendapatkan peran protagonis. \u201dJadi cewek baik hati, polos, dimarahi-marahi terus. Saya ingin peran antagonis. Tapi sampai sekarang belum pernah dapat.\u201d Bella juga sangat peduli perkembangan film Indonesia. Dia mengatakan, masyarakat adalah bagian yang turut menentukan mati-hidup perfilman. Kesenian 137 Tugas 7.2 Latihan 7.2 \u201dSaya pikir, film-film nasional tak kalah bagus dari film luar negeri,\u201d ujar Bella. Kemajuan film Indonesia, imbuhnya, juga ditentukan seberapa besar apresiasi masyarakat terhadap film-film karya anak negeri. \u201dSehebat-hebat film, tanpa mendapat apresiasi dari masyarakat, tidak berarti apa-apa.\u201d Maka dia mengajak segenap masyarakat untuk terus menonton film Indonesia. \u201dSaya berharap film Indonesia bisa dibanggakan dan menjadi lahan berkreasi anak bangsa.\u201d Dikutip dari Suara Merdeka, 5 Agustus 2007 Jawablah pertanyaan-pertanyaan berikut dengan jelas! 1. Siapakah tokoh idola pada bacaan tersebut? 2. Jelaskan identitas tokoh tersebut! 3. Apa keunggulan dari tokoh tersebut? 4. Sebutkan tokoh yang berprestasi seperti tokoh idola di atas! 5. Apa hal-hal yang dapat kamu teladani dari tokoh tersebut",
+                        "created": "2017-01-18T21:00:29+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-01-18T21:06:42+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Simaklah bacaan berikut! Laudya Chintya Bella Membuka Diri Di film terbarunya, Bukan Bintang Biasa, dia tak cuma berakting, tapi juga menyanyi. Bersama <em>Chelsea<\/em> Olivia, Ayushita, Raffi Ahmad, dan Dimas Beck yang tergabung dalam grup vokal Bukan Bintang Biasa, dia juga membuat album soundtrack. Kembali Bella mendapat cibiran karena dianggap tak memiliki dasar sebagai penyanyi profesional. \u201dAda yang bilang aji mumpung, jualan tampang, vokal paspasan, bahkan fals. Saya tak peduli, yang penting maju terus dan berkarya,\u201d tekad artis yang juga membintangi film horor Lentera Malam ini. 136 Aktif Berbahasa Indonesia Kelas VII SMP\/MTs Jika menuruti kata hati, berhenti di tengah jalan ketika menghadapi tantangan, dia pasti tak akan merengkuh kesuksesan. Semuanya untuk terus berkarya tak hanya berbuah popularitas. Gadis kelahiran 24 Februari 1988 ini bahkan berhasil meraih berbagai penghargaan bergengsi atas perannya sebagai Biyan dalam Virgin. April 2005, Bella merebut gelar Aktris Terpuji Festival Film Bandung (FFB), mengalahkan Marcella Zalianty dan Lidya Kandouw. Dia juga dinobatkan sebagai \u201dRising Star\u201d di ajang MTV Movie Award 2005. Pada tahun yang sama, dia menjadi nomine pemeran utama terbaik wanita di Festival Film Indonesia (FFI). Sebelum terjun ke film, Bella lebih dikenal sebagai pemain sinetron. Sejak tahun 2002, bungsu dari tiga bersaudara ini sudah main sinetron, antara lain, Senandung Masa Puber, Cinta Hilang Cinta Kembali, Juragan Jengkol, Virgin, Seminggu Tujuh Cinta, dan Apanya Dong. Dia juga mendukung variety show Extravaganza ABG di Trans TV. Merasa modal aktingnya cukup, Bella mencoba ikut kasting Virgin. Saat itu dia masih duduk di bangku kelas III SMA Harapan Bunda. Dia masuk 10 besar. \u201dTernyata saya beruntung diterima sebagai pemeran utama,\u201d katanya. Bella sadar, dunia akting cukup menjanjikan. Maka dia serius. Dia berguru pada Eka D Sitorus, pengasuh Sakti Acting School Jakarta. Sebelum berguru akting, dia hanya berbekal rasa percaya diri dan dukungan ibunda. Bella bukan berasal dari keluarga seni. \u201dNggak tahu, turunan darah siapa. Malah waktu kecil, saya pemalu. Saya nggak berani memulai obrolan dengan orang baru. Pokoknya parah deh. Semua berubah setelah saya remaja,\u201d cerita Bella. Untung saja dia punya saudara sepupu yang jadi bintang <em>iklan<\/em>. Dia sering diajak menemani pemotretan. Lambat laun, dia mengenal pergaulan lebih luas dan berani membuka diri. Sampai akhirnya, kehidupan berubah sejak sang mama diam-diam mengirimkan foto Bella ke majalan Kawanku. \u201dSaya jadi juara II pemilihan model,\u201d kata bintang <em>iklan<\/em> sandal dan obat jerawat ini. Sejak itu, dia mulai jadi bintang <em>iklan<\/em>. Tawaran sinetron pun datang, tapi dia tolak karena tinggal dan bersekolah di Bandung. \u201dSusah kalau harus tiap hari bolakbalik Bandung-Jakarta,\u201d cerita Bella yang pindah sekolah ke Jakarta setelah lulus SMP. Selama bermain sinetron dan film, dia selalu mendapatkan peran protagonis. \u201dJadi cewek baik hati, polos, dimarahi-marahi terus. Saya ingin peran antagonis. Tapi sampai sekarang belum pernah dapat.\u201d Bella juga sangat peduli perkembangan film Indonesia. Dia mengatakan, masyarakat adalah bagian yang turut menentukan mati-hidup perfilman. Kesenian 137 Tugas 7.2 Latihan 7.2 \u201dSaya pikir, film-film nasional tak kalah bagus dari film luar negeri,\u201d ujar Bella. Kemajuan film Indonesia, imbuhnya, juga ditentukan seberapa besar apresiasi masyarakat terhadap film-film karya anak negeri. \u201dSehebat-hebat film, tanpa mendapat apresiasi dari masyarakat, tidak berarti apa-apa.\u201d Maka dia mengajak segenap masyarakat untuk terus menonton film Indonesia. \u201dSaya berharap film Indonesia bisa dibanggakan dan menjadi lahan berkreasi anak bangsa.\u201d Dikutip dari Suara Merdeka, 5 Agustus 2007 Jawablah pertanyaan-pertanyaan berikut dengan jelas! 1. Siapakah tokoh idola pada bacaan tersebut? 2. Jelaskan identitas tokoh tersebut! 3. Apa keunggulan dari tokoh tersebut? 4. Sebutkan tokoh yang berprestasi seperti tokoh idola di atas! 5. Apa hal-hal yang dapat kamu teladani dari tokoh tersebut",
+                        "snippet_content": "Bukan Bintang Biasa, dia tak cuma berakting, tapi juga menyanyi. Bersama <em>Chelsea<\/em> Olivia, Ayushita, Raffi Ahmad, dan Dimas Beck yang tergabung dalam"
+                    },
+                    "responses": [
+                        {
+                            "id": 10820513,
+                            "user_id": 4401289,
+                            "task_id": 9053441,
+                            "points": 5,
+                            "created": "2017-01-18T21:06:42+07:00",
+                            "content": "1. Laudya chintia bella<br \/>2. dia seorang aktris<br \/>3. bisa membuat album soundtrack, aktris terpuji.",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 3,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4401289,
+                                "nick": "Aafni",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d20\/d85210d3355890da77ad356fb1579f22.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 2510899,
+                        "subject_id": 1,
+                        "user_id": 1173977,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Simaklah bacaan berikut!<br \/>\nLaudya Chintya Bella<br \/>\nMembuka Diri<br \/>\nDi film terbarunya, Bukan Bintang Biasa, dia tak cuma berakting, tapi juga<br \/>\nmenyanyi. Bersama Chelsea Olivia, Ayushita, Raffi Ahmad, dan Dimas Beck yang<br \/>\ntergabung dalam grup vokal Bukan Bintang Biasa, dia juga membuat album soundtrack.<br \/>\nKembali Bella mendapat cibiran karena dianggap tak memiliki dasar sebagai<br \/>\npenyanyi profesional. \u201dAda yang bilang aji mumpung, jualan tampang, vokal paspasan,<br \/>\nbahkan fals. Saya tak peduli, yang penting maju terus dan berkarya,\u201d<br \/>\ntekad artis yang juga membintangi film horor Lentera Malam ini.<br \/>\n136 Aktif Berbahasa Indonesia Kelas VII SMP\/MTs<br \/>\nJika menuruti kata hati, berhenti di tengah jalan<br \/>\nketika menghadapi tantangan, dia pasti tak akan<br \/>\nmerengkuh kesuksesan. Semuanya untuk terus<br \/>\nberkarya tak hanya berbuah popularitas. Gadis<br \/>\nkelahiran 24 Februari 1988 ini bahkan berhasil<br \/>\nmeraih berbagai penghargaan bergengsi atas<br \/>\nperannya sebagai Biyan dalam Virgin.<br \/>\nApril 2005, Bella merebut gelar Aktris Terpuji<br \/>\nFestival Film Bandung (FFB), mengalahkan Marcella<br \/>\nZalianty dan Lidya Kandouw. Dia juga dinobatkan<br \/>\nsebagai \u201dRising Star\u201d di ajang MTV Movie Award<br \/>\n2005. Pada tahun yang sama, dia menjadi nomine<br \/>\npemeran utama terbaik wanita di Festival Film Indonesia<br \/>\n(FFI).<br \/>\nSebelum terjun ke film, Bella lebih dikenal sebagai pemain sinetron. Sejak<br \/>\ntahun 2002, bungsu dari tiga bersaudara ini sudah main sinetron, antara lain,<br \/>\nSenandung Masa Puber, Cinta Hilang Cinta Kembali, Juragan Jengkol, Virgin,<br \/>\nSeminggu Tujuh Cinta, dan Apanya Dong. Dia juga mendukung variety show<br \/>\nExtravaganza ABG di Trans TV.<br \/>\nMerasa modal aktingnya cukup, Bella mencoba ikut kasting Virgin. Saat itu<br \/>\ndia masih duduk di bangku kelas III SMA Harapan Bunda. Dia masuk 10 besar.<br \/>\n\u201dTernyata saya beruntung diterima sebagai pemeran utama,\u201d katanya. Bella sadar,<br \/>\ndunia akting cukup menjanjikan. Maka dia serius. Dia berguru pada Eka D Sitorus,<br \/>\npengasuh Sakti Acting School Jakarta. Sebelum berguru akting, dia hanya<br \/>\nberbekal rasa percaya diri dan dukungan ibunda.<br \/>\nBella bukan berasal dari keluarga seni. \u201dNggak tahu, turunan darah siapa.<br \/>\nMalah waktu kecil, saya pemalu. Saya nggak berani memulai obrolan dengan<br \/>\norang baru. Pokoknya parah deh. Semua berubah setelah saya remaja,\u201d cerita<br \/>\nBella. Untung saja dia punya saudara sepupu yang jadi bintang iklan. Dia sering<br \/>\ndiajak menemani pemotretan. Lambat laun, dia mengenal pergaulan lebih luas<br \/>\ndan berani membuka diri. Sampai akhirnya, kehidupan berubah sejak sang mama<br \/>\ndiam-diam mengirimkan foto Bella ke majalan Kawanku. \u201dSaya jadi juara II<br \/>\npemilihan model,\u201d kata bintang iklan sandal dan obat jerawat ini.<br \/>\nSejak itu, dia mulai jadi bintang iklan. Tawaran sinetron pun datang, tapi dia<br \/>\ntolak karena tinggal dan bersekolah di Bandung. \u201dSusah kalau harus tiap hari bolakbalik<br \/>\nBandung-Jakarta,\u201d cerita Bella yang pindah sekolah ke Jakarta setelah lulus<br \/>\nSMP.<br \/>\nSelama bermain sinetron dan film, dia selalu mendapatkan peran protagonis.<br \/>\n\u201dJadi cewek baik hati, polos, dimarahi-marahi terus. Saya ingin peran antagonis.<br \/>\nTapi sampai sekarang belum pernah dapat.\u201d<br \/>\nBella juga sangat peduli perkembangan film Indonesia. Dia mengatakan,<br \/>\nmasyarakat adalah bagian yang turut menentukan mati-hidup perfilman.<br \/>\nKesenian 137<br \/>\nTugas 7.2<br \/>\nLatihan 7.2<br \/>\n\u201dSaya pikir, film-film nasional tak kalah bagus dari film luar negeri,\u201d ujar Bella.<br \/>\nKemajuan film Indonesia, imbuhnya, juga ditentukan seberapa besar apresiasi<br \/>\nmasyarakat terhadap film-film karya anak negeri. \u201dSehebat-hebat film, tanpa<br \/>\nmendapat apresiasi dari masyarakat, tidak berarti apa-apa.\u201d<br \/>\nMaka dia mengajak segenap masyarakat untuk terus menonton film<br \/>\nIndonesia. \u201dSaya berharap film Indonesia bisa dibanggakan dan menjadi lahan<br \/>\nberkreasi anak bangsa.\u201d<br \/>\nDikutip dari Suara Merdeka, 5 Agustus 2007<br \/>\nJawablah pertanyaan-pertanyaan berikut dengan jelas!<br \/>\n1. Siapakah tokoh idola pada bacaan tersebut?<br \/>\n2. Jelaskan identitas tokoh tersebut!<br \/>\n3. Apa keunggulan dari tokoh tersebut?<br \/>\n4. Sebutkan tokoh yang berprestasi seperti tokoh idola di atas!<br \/>\n5. Apa hal-hal yang dapat kamu teladani dari tokoh tersebut",
+                        "created": "2015-04-19T21:13:47+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2015-04-19T22:12:41+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Simaklah bacaan berikut!\nLaudya Chintya Bella\nMembuka Diri\nDi film terbarunya, Bukan Bintang Biasa, dia tak cuma berakting, tapi juga\nmenyanyi. Bersama <em>Chelsea<\/em> Olivia, Ayushita, Raffi Ahmad, dan Dimas Beck yang\ntergabung dalam grup vokal Bukan Bintang Biasa, dia juga membuat album soundtrack.\nKembali Bella mendapat cibiran karena dianggap tak memiliki dasar sebagai\npenyanyi profesional. \u201dAda yang bilang aji mumpung, jualan tampang, vokal paspasan,\nbahkan fals. Saya tak peduli, yang penting maju terus dan berkarya,\u201d\ntekad artis yang juga membintangi film horor Lentera Malam ini.\n136 Aktif Berbahasa Indonesia Kelas VII SMP\/MTs\nJika menuruti kata hati, berhenti di tengah jalan\nketika menghadapi tantangan, dia pasti tak akan\nmerengkuh kesuksesan. Semuanya untuk terus\nberkarya tak hanya berbuah popularitas. Gadis\nkelahiran 24 Februari 1988 ini bahkan berhasil\nmeraih berbagai penghargaan bergengsi atas\nperannya sebagai Biyan dalam Virgin.\nApril 2005, Bella merebut gelar Aktris Terpuji\nFestival Film Bandung (FFB), mengalahkan Marcella\nZalianty dan Lidya Kandouw. Dia juga dinobatkan\nsebagai \u201dRising Star\u201d di ajang MTV Movie Award\n2005. Pada tahun yang sama, dia menjadi nomine\npemeran utama terbaik wanita di Festival Film Indonesia\n(FFI).\nSebelum terjun ke film, Bella lebih dikenal sebagai pemain sinetron. Sejak\ntahun 2002, bungsu dari tiga bersaudara ini sudah main sinetron, antara lain,\nSenandung Masa Puber, Cinta Hilang Cinta Kembali, Juragan Jengkol, Virgin,\nSeminggu Tujuh Cinta, dan Apanya Dong. Dia juga mendukung variety show\nExtravaganza ABG di Trans TV.\nMerasa modal aktingnya cukup, Bella mencoba ikut kasting Virgin. Saat itu\ndia masih duduk di bangku kelas III SMA Harapan Bunda. Dia masuk 10 besar.\n\u201dTernyata saya beruntung diterima sebagai pemeran utama,\u201d katanya. Bella sadar,\ndunia akting cukup menjanjikan. Maka dia serius. Dia berguru pada Eka D Sitorus,\npengasuh Sakti Acting School Jakarta. Sebelum berguru akting, dia hanya\nberbekal rasa percaya diri dan dukungan ibunda.\nBella bukan berasal dari keluarga seni. \u201dNggak tahu, turunan darah siapa.\nMalah waktu kecil, saya pemalu. Saya nggak berani memulai obrolan dengan\norang baru. Pokoknya parah deh. Semua berubah setelah saya remaja,\u201d cerita\nBella. Untung saja dia punya saudara sepupu yang jadi bintang <em>iklan<\/em>. Dia sering\ndiajak menemani pemotretan. Lambat laun, dia mengenal pergaulan lebih luas\ndan berani membuka diri. Sampai akhirnya, kehidupan berubah sejak sang mama\ndiam-diam mengirimkan foto Bella ke majalan Kawanku. \u201dSaya jadi juara II\npemilihan model,\u201d kata bintang <em>iklan<\/em> sandal dan obat jerawat ini.\nSejak itu, dia mulai jadi bintang <em>iklan<\/em>. Tawaran sinetron pun datang, tapi dia\ntolak karena tinggal dan bersekolah di Bandung. \u201dSusah kalau harus tiap hari bolakbalik\nBandung-Jakarta,\u201d cerita Bella yang pindah sekolah ke Jakarta setelah lulus\nSMP.\nSelama bermain sinetron dan film, dia selalu mendapatkan peran protagonis.\n\u201dJadi cewek baik hati, polos, dimarahi-marahi terus. Saya ingin peran antagonis.\nTapi sampai sekarang belum pernah dapat.\u201d\nBella juga sangat peduli perkembangan film Indonesia. Dia mengatakan,\nmasyarakat adalah bagian yang turut menentukan mati-hidup perfilman.\nKesenian 137\nTugas 7.2\nLatihan 7.2\n\u201dSaya pikir, film-film nasional tak kalah bagus dari film luar negeri,\u201d ujar Bella.\nKemajuan film Indonesia, imbuhnya, juga ditentukan seberapa besar apresiasi\nmasyarakat terhadap film-film karya anak negeri. \u201dSehebat-hebat film, tanpa\nmendapat apresiasi dari masyarakat, tidak berarti apa-apa.\u201d\nMaka dia mengajak segenap masyarakat untuk terus menonton film\nIndonesia. \u201dSaya berharap film Indonesia bisa dibanggakan dan menjadi lahan\nberkreasi anak bangsa.\u201d\nDikutip dari Suara Merdeka, 5 Agustus 2007\nJawablah pertanyaan-pertanyaan berikut dengan jelas!\n1. Siapakah tokoh idola pada bacaan tersebut?\n2. Jelaskan identitas tokoh tersebut!\n3. Apa keunggulan dari tokoh tersebut?\n4. Sebutkan tokoh yang berprestasi seperti tokoh idola di atas!\n5. Apa hal-hal yang dapat kamu teladani dari tokoh tersebut",
+                        "snippet_content": "Bukan Bintang Biasa, dia tak cuma berakting, tapi juga\nmenyanyi. Bersama <em>Chelsea<\/em> Olivia, Ayushita, Raffi Ahmad, dan Dimas Beck yang\ntergabung dalam"
+                    },
+                    "responses": [
+                        {
+                            "id": 3213281,
+                            "user_id": 228426,
+                            "task_id": 2510899,
+                            "points": 5,
+                            "created": "2015-04-19T22:12:41+07:00",
+                            "content": "5. pantang menyerah (?)",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 15,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 228426,
+                                "nick": "femilasefti",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d7b\/3507e4a12ea73bc830f429b4ffe406d2.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 7,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 2753002,
+            "nick": "irwanpermadi06",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 3,
+                "comments": 1
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd0\/f14d925bad4fc05e15c76c2d1b2962ac.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d98\/1339efd6fee66868e028729402de4dcf.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd0\/f14d925bad4fc05e15c76c2d1b2962ac.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d98\/1339efd6fee66868e028729402de4dcf.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1427688,
+            "nick": "faizahnurlaili",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 53,
+                "comments": 9
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db1\/f9dbf7d3b61c21bf98bb2eaeacee88b7.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d1a\/a2511f5b8e868ac823199ae982e929a4.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db1\/f9dbf7d3b61c21bf98bb2eaeacee88b7.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d1a\/a2511f5b8e868ac823199ae982e929a4.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 633314,
+            "nick": "emafitriani",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 17,
+                "answers": 100,
+                "comments": 32
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9d\/fd1901be32de2d06793548eb13cab975.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db3\/6f2b620f36a53373e3283e2ec0b78701.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9d\/fd1901be32de2d06793548eb13cab975.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db3\/6f2b620f36a53373e3283e2ec0b78701.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 2178392,
+            "nick": "Alifiakhayna",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 18,
+                "comments": 17
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db3\/896b64c0aec283b6fab0328e00f03696.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dbf\/e5fb271310bf3fa95a9832ebceabf09f.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db3\/896b64c0aec283b6fab0328e00f03696.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dbf\/e5fb271310bf3fa95a9832ebceabf09f.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 67585,
+            "nick": "GracellaMK",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 448,
+                "comments": 19
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d23\/6182f10adb60a3f1ea1be816c1c88167.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6b\/c7a682d3fbf91ba1d33c160e280ada98.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d23\/6182f10adb60a3f1ea1be816c1c88167.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6b\/c7a682d3fbf91ba1d33c160e280ada98.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 2209232,
+            "nick": "rinny20",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 1,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dcf\/ac9c4d6bc5449f4f6a485e12ff7d0aa4.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d16\/7491637567eae63092f75cf3e4f2c2fd.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dcf\/ac9c4d6bc5449f4f6a485e12ff7d0aa4.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d16\/7491637567eae63092f75cf3e4f2c2fd.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1809628,
+            "nick": "amelia56",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 47,
+                "answers": 12,
+                "comments": 26
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d31\/56437eef226cf1568faf1c049fde5933.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d43\/119403ded49a6358f1b099b5e4fb00b2.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d31\/56437eef226cf1568faf1c049fde5933.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d43\/119403ded49a6358f1b099b5e4fb00b2.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 2459384,
+            "nick": "wildan104",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 27,
+                "answers": 53,
+                "comments": 7
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d0f\/bc009cad4fd8cf311f98d48b1a7bbc90.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d4a\/5174b16cf2f9faef241eb660258cf46a.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d0f\/bc009cad4fd8cf311f98d48b1a7bbc90.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d4a\/5174b16cf2f9faef241eb660258cf46a.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 457457,
+            "nick": "PrincessAncaidisa29",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 39,
+                "answers": 191,
+                "comments": 87
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d1a\/d7814d697eed8aad00e92f801ece7e0d.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de4\/698e79e95a80745db7ff12f861773198.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d1a\/d7814d697eed8aad00e92f801ece7e0d.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de4\/698e79e95a80745db7ff12f861773198.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 546012,
+            "nick": "cutmeutiaannis",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 306,
+                "answers": 185,
+                "comments": 282
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df5\/693f217fc0c5b54366de1ce580907f15.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d8b\/82581c8cd83c8b069d2d94160440876f.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df5\/693f217fc0c5b54366de1ce580907f15.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d8b\/82581c8cd83c8b069d2d94160440876f.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 2277167,
+            "nick": "aura331",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 11,
+                "answers": 4,
+                "comments": 4
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df4\/f96f7f2fdf6f84d42981312cb68eb0da.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d57\/4195eb068c3ae738c38c71dc41f415f8.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df4\/f96f7f2fdf6f84d42981312cb68eb0da.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d57\/4195eb068c3ae738c38c71dc41f415f8.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 2323633,
+            "nick": "DivyaRahma",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 33,
+                "answers": 62,
+                "comments": 24
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d68\/3256b30cba450814cead34fb8c32c97c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d66\/2566561b2dfe76c6d40f4968b904637c.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d68\/3256b30cba450814cead34fb8c32c97c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d66\/2566561b2dfe76c6d40f4968b904637c.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 82852,
+            "nick": "mulyarahmadani",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 40,
+                "answers": 120,
+                "comments": 44
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d2b\/0352a44e72054b5fa7fbd01684b7689e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df9\/972fcdcac0176968f0c67dbc8458d4ce.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d2b\/0352a44e72054b5fa7fbd01684b7689e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df9\/972fcdcac0176968f0c67dbc8458d4ce.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 3739837,
+            "nick": "lenamagdalenna",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 8,
+                "answers": 62,
+                "comments": 27
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db8\/566bc54d849398af98928727eb6be88d.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7b\/d3c73ba4fbd91beaf76b4a20b488060a.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db8\/566bc54d849398af98928727eb6be88d.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7b\/d3c73ba4fbd91beaf76b4a20b488060a.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 3164822,
+            "nick": "glamour1",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 11,
+                "answers": 1010,
+                "comments": 147
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d7d\/5ad70bc831f2adc269a3f3bad523e659.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d33\/10a33e283674538529ab62958a0e4960.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d7d\/5ad70bc831f2adc269a3f3bad523e659.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d33\/10a33e283674538529ab62958a0e4960.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        },
+        {
+            "id": 4405473,
+            "nick": "s0yidaifinne6rs",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4401289,
+            "nick": "Aafni",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 25,
+                "comments": 8
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d89\/53687c69441bf90846457ea532dd61c4.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d20\/d85210d3355890da77ad356fb1579f22.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d89\/53687c69441bf90846457ea532dd61c4.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d20\/d85210d3355890da77ad356fb1579f22.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 1173977,
+            "nick": "Wsjabang",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 29,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d1f\/85c16c1aacec2f4362611ebfdf780cfd.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d36\/45334924ae1c96ba8f81cd2de528806f.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d1f\/85c16c1aacec2f4362611ebfdf780cfd.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d36\/45334924ae1c96ba8f81cd2de528806f.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 228426,
+            "nick": "femilasefti",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 30,
+                "comments": 7
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db6\/f69b87020d9186b0f9263f8f1996024b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7b\/3507e4a12ea73bc830f429b4ffe406d2.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db6\/f69b87020d9186b0f9263f8f1996024b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7b\/3507e4a12ea73bc830f429b4ffe406d2.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        }
+    ],
+    "validated": false
+}

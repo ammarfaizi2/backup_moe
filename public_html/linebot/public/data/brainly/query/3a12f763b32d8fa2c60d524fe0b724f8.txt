@@ -1,0 +1,1140 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 10198014,
+                        "subject_id": 19,
+                        "user_id": 4727232,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 80,
+                            "ptsForResp": 40,
+                            "ptsForBest": 20
+                        },
+                        "content": "Kenapa spongebob warnanya kuning?<br \/><br \/>\nJawab guyss lagi baik nehh dikasihh banyak poin",
+                        "created": "2017-04-09T17:39:34+07:00",
+                        "responses": 2,
+                        "tickets": 3,
+                        "first_resp": "2017-04-09T17:41:00+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "2",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [
+                                {
+                                    "id": 6681421,
+                                    "user_id": 4858995,
+                                    "content": "karna aku suka warna kuning , karna spongebob itu lucu ",
+                                    "created": "2017-04-09T17:42:49+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                },
+                                {
+                                    "id": 6681499,
+                                    "user_id": 4857702,
+                                    "content": "ooo",
+                                    "created": "2017-04-09T17:49:53+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                }
+                            ],
+                            "last_id": 0,
+                            "count": 2
+                        },
+                        "highlighted_content": "<em>Kenapa<\/em> <em>spongebob<\/em> warnanya <em>kuning<\/em>?\nJawab guyss lagi baik nehh dikasihh banyak poin",
+                        "snippet_content": "<em>Kenapa<\/em> <em>spongebob<\/em> warnanya <em>kuning<\/em>?\nJawab guyss lagi baik nehh dikasihh banyak poin"
+                    },
+                    "responses": [
+                        {
+                            "id": 12288421,
+                            "user_id": 4857702,
+                            "task_id": 10198014,
+                            "points": 40,
+                            "created": "2017-04-09T17:41:00+07:00",
+                            "content": "***karena dia sponge***",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 12288518,
+                            "user_id": 4707060,
+                            "task_id": 10198014,
+                            "points": 40,
+                            "created": "2017-04-09T17:46:36+07:00",
+                            "content": "Karena nama spongebob dan bntknya terinspirasi dari spons pencuci piring atau spons pembersih kamar mandi. Spons kamar mandi biasanya brwarna kuning dan biasa terkena air<br \/><br \/>Mungkin itulah alasanya spongebob brwarna kuning",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4857702,
+                                "nick": "gwen10",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d44\/9a941614b9dcb45e0d4fb7850fe31e71.jpg"
+                            },
+                            {
+                                "id": 4707060,
+                                "nick": "SQueen",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d15\/0101b30915e925b70fd5a3a6d51b050c.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 3136612,
+                        "subject_id": 19,
+                        "user_id": 1716002,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "kenapa saya suka warna hijau? padahal saya suka spongebob . Kenapa spongebob warnannya kuning , saya suka warna hijau ?",
+                        "created": "2015-08-22T09:18:04+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2015-08-22T09:19:51+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [
+                                {
+                                    "id": 2461508,
+                                    "user_id": 1716002,
+                                    "content": "ya bisa jawab ga?",
+                                    "created": "2015-08-22T09:20:43+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                },
+                                {
+                                    "id": 2461513,
+                                    "user_id": 646525,
+                                    "content": "Bisaa donkk",
+                                    "created": "2015-08-22T09:22:28+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                },
+                                {
+                                    "id": 2461516,
+                                    "user_id": 1716002,
+                                    "content": "apa jawaban nya?",
+                                    "created": "2015-08-22T09:23:11+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                },
+                                {
+                                    "id": 2461541,
+                                    "user_id": 646525,
+                                    "content": "Kan aq udh jawab",
+                                    "created": "2015-08-22T09:33:15+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                },
+                                {
+                                    "id": 2461575,
+                                    "user_id": 1716002,
+                                    "content": "jawab apa?",
+                                    "created": "2015-08-22T09:55:49+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                }
+                            ],
+                            "last_id": 2461508,
+                            "count": 6
+                        },
+                        "highlighted_content": "<em>kenapa<\/em> saya suka warna hijau? padahal saya suka <em>spongebob<\/em> . <em>Kenapa<\/em> <em>spongebob<\/em> warnannya <em>kuning<\/em> , saya suka warna hijau ?",
+                        "snippet_content": "<em>kenapa<\/em> saya suka warna hijau? padahal saya suka <em>spongebob<\/em> . <em>Kenapa<\/em> <em>spongebob<\/em> warnannya <em>kuning<\/em> , saya suka warna hijau ?"
+                    },
+                    "responses": [
+                        {
+                            "id": 3906829,
+                            "user_id": 607107,
+                            "task_id": 3136612,
+                            "points": 5,
+                            "created": "2015-08-22T09:19:51+07:00",
+                            "content": "karena tai warnanya kuning\u00a0",
+                            "mark": 2,
+                            "marks_count": 3,
+                            "thanks": 1,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 2461505,
+                                        "user_id": 1716002,
+                                        "content": "kan tai ada warna hijau , saya suka warna hijau",
+                                        "created": "2015-08-22T09:20:14+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 2461512,
+                                        "user_id": 607107,
+                                        "content": "kamu tau dari mana tai ada hijau nya ? :v",
+                                        "created": "2015-08-22T09:21:39+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 2467076,
+                                        "user_id": 1716002,
+                                        "content": "sebenernya tai kamu warna hijau,cuma kamu ngga pernah liat warna tainya",
+                                        "created": "2015-08-23T14:19:46+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 2480284,
+                                        "user_id": 607107,
+                                        "content": "ngapain saya ngialt tai sendiri ? :v",
+                                        "created": "2015-08-25T08:02:27+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 4
+                            }
+                        },
+                        {
+                            "id": 3906835,
+                            "user_id": 646525,
+                            "task_id": 3136612,
+                            "points": 5,
+                            "created": "2015-08-22T09:21:30+07:00",
+                            "content": "Karena spongebob filmnya lucu mungkin kocak. Dan saya juga suka warna hijau padahal suka spongebob mungkin makanya kita suka warna hijau karena kita suka halaman yg hijau asri.",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 2461523,
+                                        "user_id": 1716002,
+                                        "content": "kamu suka warna hijau jangan kita jodoh lagi",
+                                        "created": "2015-08-22T09:24:25+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 2461539,
+                                        "user_id": 646525,
+                                        "content": "Masa . Terima dulu permintaan pertemanan aku kita ngobrol di brainlyy",
+                                        "created": "2015-08-22T09:32:49+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 2461572,
+                                        "user_id": 1716002,
+                                        "content": "wkwkkw",
+                                        "created": "2015-08-22T09:54:53+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 2480313,
+                                        "user_id": 1716002,
+                                        "content": "de bales kali pesan aku",
+                                        "created": "2015-08-25T08:19:08+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 4
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 607107,
+                                "nick": "ahmadnizar",
+                                "avatar": null
+                            },
+                            {
+                                "id": 646525,
+                                "nick": "kadekkarina",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d00\/a400414b8fccd0a7433c218d15500938.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 7644839,
+                        "subject_id": 4,
+                        "user_id": 3810856,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Kenapa sepongebob warnanya kuning?",
+                        "created": "2016-09-30T13:53:25+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2016-09-30T13:54:10+07:00",
+                        "the_best_resp_id": "9045589",
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "<em>Kenapa<\/em> <em>sepongebob<\/em> warnanya <em>kuning<\/em>?",
+                        "snippet_content": "<em>Kenapa<\/em> <em>sepongebob<\/em> warnanya <em>kuning<\/em>?"
+                    },
+                    "responses": [
+                        {
+                            "id": 9045568,
+                            "user_id": 3732491,
+                            "task_id": 7644839,
+                            "points": 5,
+                            "created": "2016-09-30T13:54:10+07:00",
+                            "content": "karena dia spons. dh kn?",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 9045589,
+                            "user_id": 3795739,
+                            "task_id": 7644839,
+                            "points": 5,
+                            "created": "2016-09-30T13:54:49+07:00",
+                            "content": "&gt;terkena radiasi radioaktive pewarna textil kuning spons <br \/>",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 2,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 7224473,
+                                        "user_id": 5082296,
+                                        "content": "emejing",
+                                        "created": "2017-05-31T18:36:08+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3732491,
+                                "nick": "akrsn",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dda\/89fdb4c7b9b5ca2e26f4051d0bd84de0.jpg"
+                            },
+                            {
+                                "id": 3795739,
+                                "nick": "irfannursahid4",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d10\/e93185d09fc7603aea4f662d25fdc05a.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 6863396,
+                        "subject_id": 18,
+                        "user_id": 3452208,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "kenapa spongbob warnanya kuning? :v",
+                        "created": "2016-08-19T08:08:52+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2016-08-19T08:09:16+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "<em>kenapa<\/em> <em>spongbob<\/em> warnanya <em>kuning<\/em>? :v",
+                        "snippet_content": "<em>kenapa<\/em> <em>spongbob<\/em> warnanya <em>kuning<\/em>? :v"
+                    },
+                    "responses": [
+                        {
+                            "id": 8146118,
+                            "user_id": 3450628,
+                            "task_id": 6863396,
+                            "points": 5,
+                            "created": "2016-08-19T08:09:16+07:00",
+                            "content": "karna dia suka warna kuning",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 8146121,
+                            "user_id": 3325356,
+                            "task_id": 6863396,
+                            "points": 5,
+                            "created": "2016-08-19T08:09:42+07:00",
+                            "content": "karena kata\"nya ada nama sponge sponge artinya spons",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3450628,
+                                "nick": "sintamunawarroh123",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d75\/e4b74306946f05cdfd526492bcaf0cd8.jpg"
+                            },
+                            {
+                                "id": 3325356,
+                                "nick": "IntanaTyarra",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d24\/cd32a5d979f0749b325f8bc46e57e2e9.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 4,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 4727232,
+            "nick": "Itsmeprincess",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 10,
+                "answers": 74,
+                "comments": 7
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d55\/d0e5fd8113f505a7fe9b4c66d70405bb.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d92\/71a99baf4276a2f85557d5e911128210.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d55\/d0e5fd8113f505a7fe9b4c66d70405bb.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d92\/71a99baf4276a2f85557d5e911128210.png"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 4857702,
+            "nick": "gwen10",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 21,
+                "comments": 34
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/daa\/d9eab388f10dca18989a58bb8ee98682.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d44\/9a941614b9dcb45e0d4fb7850fe31e71.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/daa\/d9eab388f10dca18989a58bb8ee98682.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d44\/9a941614b9dcb45e0d4fb7850fe31e71.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4858995,
+            "nick": "cindy783",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 6,
+                "comments": 3
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d3e\/ead3271c4c3e6eaa0b1649bfd7e4c5eb.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da8\/503a872bc861086973ff994cc6e5d24f.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d3e\/ead3271c4c3e6eaa0b1649bfd7e4c5eb.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da8\/503a872bc861086973ff994cc6e5d24f.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4707060,
+            "nick": "SQueen",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 33,
+                "answers": 75,
+                "comments": 16
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d6b\/5456e6b38d319b5368dbfd23ef15db34.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d15\/0101b30915e925b70fd5a3a6d51b050c.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d6b\/5456e6b38d319b5368dbfd23ef15db34.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d15\/0101b30915e925b70fd5a3a6d51b050c.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 1716002,
+            "nick": "gabriel1202",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 2,
+                "comments": 14
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d6b\/6366c507fdb21b02b477fa1100afdd13.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc4\/f8acf107c99d54f442a77d52efdf0608.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d6b\/6366c507fdb21b02b477fa1100afdd13.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc4\/f8acf107c99d54f442a77d52efdf0608.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 646525,
+            "nick": "kadekkarina",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 98,
+                "comments": 11
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de7\/7f9e392b57f6f7f218a89fb745b9dcf8.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d00\/a400414b8fccd0a7433c218d15500938.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de7\/7f9e392b57f6f7f218a89fb745b9dcf8.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d00\/a400414b8fccd0a7433c218d15500938.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 1713862,
+            "nick": "gabriellasabatinni",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 0,
+                "comments": 6
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d8e\/13f824fea21daef5731511c0ec251a8a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da3\/21ea171a2b16a36df534cae504449730.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d8e\/13f824fea21daef5731511c0ec251a8a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da3\/21ea171a2b16a36df534cae504449730.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 607107,
+            "nick": "ahmadnizar",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 14,
+                "answers": 17,
+                "comments": 16
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 3810856,
+            "nick": "AHFM43",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 13,
+                "answers": 1,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dcc\/c6ccaec5af44cc1095b351c6bd67a051.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d34\/55132a41cb2194b09a47deca21e8cd47.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dcc\/c6ccaec5af44cc1095b351c6bd67a051.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d34\/55132a41cb2194b09a47deca21e8cd47.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 3732491,
+            "nick": "akrsn",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 32,
+                "comments": 4
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d02\/21b0114fb0229201839564db7bb34671.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dda\/89fdb4c7b9b5ca2e26f4051d0bd84de0.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d02\/21b0114fb0229201839564db7bb34671.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dda\/89fdb4c7b9b5ca2e26f4051d0bd84de0.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 5082296,
+            "nick": "Anonymous990",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 8,
+                "comments": 2
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 3795739,
+            "nick": "irfannursahid4",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 11,
+                "answers": 82,
+                "comments": 10
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dca\/4accd7387d01eaad79f9fc17cb852d56.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d10\/e93185d09fc7603aea4f662d25fdc05a.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dca\/4accd7387d01eaad79f9fc17cb852d56.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d10\/e93185d09fc7603aea4f662d25fdc05a.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 3452208,
+            "nick": "ramdanz089",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 3450628,
+            "nick": "sintamunawarroh123",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 2,
+                "comments": 1
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d92\/b72927670004424ab43a7a248bb2dc86.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d75\/e4b74306946f05cdfd526492bcaf0cd8.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d92\/b72927670004424ab43a7a248bb2dc86.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d75\/e4b74306946f05cdfd526492bcaf0cd8.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 3325356,
+            "nick": "IntanaTyarra",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 36,
+                "answers": 63,
+                "comments": 14
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d28\/af32146fcc59d8a67ed67328f637a20c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d24\/cd32a5d979f0749b325f8bc46e57e2e9.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d28\/af32146fcc59d8a67ed67328f637a20c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d24\/cd32a5d979f0749b325f8bc46e57e2e9.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        }
+    ],
+    "validated": false
+}

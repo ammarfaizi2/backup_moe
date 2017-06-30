@@ -1,0 +1,173 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 1727972,
+                        "subject_id": 13,
+                        "user_id": 431566,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Tolong terjemahkan , makasih :)<br \/>\nTerjemahkeun kana basa indonesia petikan teks wacana dihandap ieu !<br \/>\n           Adat kabiaasaan Urang sunda<br \/>\n  Urang sunda mah tara poho kana adat kabiasaaan.Tata-titi jeung paripolah teh salawasna didadasaran ku adat anu geus maneuh.Kapan aya paribasana,urang sunda mah tara lali ka purwadaksi,maksudna tara poho kana tali paranti atawa kabiasaan anu geus di wariskeun ku karuhun.<br \/>\n      Salah sahiji tradisi anu di piara tepi ka ayeuna nyaeta dina cara-cara ngawinkeun.Lamun urang sunda aya nu rek ngawinkeun anakna,tara asal jadi kitu bae.Aya cara-carana luyu jeung kabiasaan.Jauh samemeh upacara kawinan,sok aya acara ngalamar heula, ti dinya tuluy seserahan,sarta di pungkas ku akad nikah.",
+                        "created": "2014-12-12T21:46:20+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2014-12-13T20:13:59+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Tolong terjemahkan , makasih :)\nTerjemahkeun kana basa indonesia petikan teks wacana dihandap ieu !\n           Adat kabiaasaan Urang sunda\n  Urang sunda mah tara poho kana adat kabiasaaan.Tata-titi jeung paripolah teh salawasna didadasaran <em>ku<\/em> adat anu geus maneuh.<em>Kapan<\/em> aya paribasana,urang sunda mah tara lali ka purwadaksi,maksudna tara poho kana tali paranti atawa kabiasaan anu geus di wariskeun <em>ku<\/em> karuhun.\n      Salah sahiji tradisi anu di piara tepi ka ayeuna nyaeta dina cara-cara ngawinkeun.Lamun urang sunda aya nu rek ngawinkeun anakna,tara asal jadi kitu bae.Aya cara-carana luyu jeung kabiasaan.Jauh samemeh upacara kawinan,sok aya acara ngalamar heula, ti dinya tuluy seserahan,sarta di pungkas <em>ku<\/em> akad <em>nikah.<\/em>",
+                        "snippet_content": "luyu jeung kabiasaan.Jauh samemeh upacara kawinan,sok aya acara ngalamar heula, ti dinya tuluy seserahan,sarta di pungkas <em>ku<\/em> akad <em>nikah.<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 2223043,
+                            "user_id": 1002882,
+                            "task_id": 1727972,
+                            "points": 5,
+                            "created": "2014-12-13T20:13:59+07:00",
+                            "content": "Adat Kebiasaan Orang Sunda<br \/>Orang sunda itu tidak lupa kepada adat kebiasaan. ....... dan perilaku selamanya didasari oleh adat yang sudah kuat.Sebab ada peribahasa,orang sunda itu tidak pernah lupa ke .......,maksudnya tidak lupa kepada ...... atau kebiasaan yang sudah diwariskan oleh nenek moyang.Salah satu tradisi yang di pelihara sampai sekarang adalah pada acara pernikahan.Kalau orang sunda ada yang mau mengawinkan anaknya,tidak asal jad begitu saja.Ada cara - cara menurut dengan kebiasaan.Jauh sebelum upacara pernikahan,biasanya ada acara melamar terlebih dahulu.disana langsung melakukan \"seserahan\",serta di ..... oleh akad nikah.<br \/><br \/>itu jawaban dari saya,maaf kalo ada yg kurang.soalnya saya gak terlalu tau. :)<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 2,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1002882,
+                                "nick": "BOZQ",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/df7\/ed8fe050718ec77859deb385c5070a26.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 1,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 431566,
+            "nick": "nadyaa0401",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 20,
+                "answers": 1,
+                "comments": 2
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d25\/c2c2c78ed4a5a58697245e98e5cdddff.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d2a\/0632aca4b5404a7a6ae7f19d5a3fd4f5.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d25\/c2c2c78ed4a5a58697245e98e5cdddff.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d2a\/0632aca4b5404a7a6ae7f19d5a3fd4f5.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 1002882,
+            "nick": "BOZQ",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 9,
+                "comments": 3
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dfe\/c9df667b7b24ae031fe31647597d09f4.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df7\/ed8fe050718ec77859deb385c5070a26.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dfe\/c9df667b7b24ae031fe31647597d09f4.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df7\/ed8fe050718ec77859deb385c5070a26.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        }
+    ],
+    "validated": false
+}

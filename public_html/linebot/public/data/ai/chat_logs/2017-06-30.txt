@@ -1,0 +1,3911 @@
+[
+    {
+        "time": "2017-06-30 00:00:31",
+        "actor": null,
+        "msg": "1",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 00:00:32",
+        "actor": null,
+        "msg": " Max",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 00:01:54",
+        "actor": null,
+        "msg": "Tamax",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 00:02:51",
+        "actor": null,
+        "msg": "2",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 00:04:20",
+        "actor": null,
+        "msg": "ketiax (thankyou)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 00:04:20",
+        "actor": null,
+        "msg": "3",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 00:04:26",
+        "actor": null,
+        "msg": "4",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 00:05:03",
+        "actor": null,
+        "msg": "Kelimax",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 00:05:51",
+        "actor": null,
+        "msg": "klimaks (hehe)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 00:12:51",
+        "actor": null,
+        "msg": "Duax",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 00:16:31",
+        "actor": null,
+        "msg": "S-soko janai..... \nUn..... Un-aaaaahhh !!!! I-itaaii !!!!! \nAh, Yamettee!\nKo-kokowa Damee!!\nHmm~, Ahh, ah ... yame- aaah... \nHnnnn...... nyaaaannh....\nMphh , Kimochiiiiiii~\nah ah ah aaaaahhhhh\nIKKEH !\nKIMOCHI !!!!\nikkeehh ikkeh ikkkeeehhh ahnnn\nAhhhh! \nHayaku!! Motto Hayaku!!\nMphh ahhh\nikkehhhh!? aaaaahhhhnnn!!!\nMOTTOO HAYAAKKUUUUU !!!\nHAYYAAAAAKKKKKUUUU !!!!!\nIKKEEHHH!!! AAAWWHH AAHH MMPHH AGH AGH NYIAAAANHH AWHH\nMPPHHHH ,, KIMOOCCHHIIIIIII\nAHHHHHH!!!!!!!!!!!!!!!!!!!!!!!!!!!\nMou ikkai.....\nHmm~, Ahh, ah ..\nMphh , Kimochiiiiiii~\nah ah ah aaaaahhhhh\nIKKEH !\nKIMOCHI !!!!\nikkeehh ikkeh ikkkeeehhh ahnnn\nAhhhh!\nHayaku!! Motto Hayaku!!\nMphh ahhh\nikkehhhh!? aaaaahhhhnnn!!!\nMOTTOO HAYAAKKUUUUU !!!\nHAYYAAAAAKKKKKUUUU !!!!! MMPHH!!! IKKEEHHH!!! AAAWWHH AAHH AGH AGH OOGGHH AWHH\nMPPHHHH ,, KIMOOCCHHIIIIIII\nAHHHHHH!!!!!!!!!!!!!!!!!!!!!!!!!!! \nMou ikkai mou ikkai uhn-aaaahh...\nHmm~, Ahh, ah ..\nMphh , Kimochiiiiiii~\nah ah ah aaaaahhhhh\nIKKEH !\nKIMOCHI !!!!\nCytikkeehh ikkeh ikkkeeehhh ahnnn\nAhhhh!\nHayaku!! Motto Hayaku!!\nMphh ahhh\nikkehhhh!? aaaaahhhhnnn!!!\nMOTTOO HAYAAKKUUUUU !!!\nHAYYAAAAAKKKKKUUUU !!!!!\nIKKEEHHH!!! AAAWWHH AAHH MMMPPHHH AGH AGH OOGGHH AWHH\nMPPHHHH ,, KIMOOCCHHIIIIIII\nAHHHHHH!!!!!!!!!!!!!!!!!!!!!!!!!!! \nAh, Yamettee!\nKo-kokowa Damee!!\nHmm~, Ahh, ah ..\nMphh , Kimochiiiiiii~\nah ah ah aaaaahhhhh awh oogghh unnhhh ahhnnn ah ah aahh....\nureshii yoo...S-soko janai..... \nUn..... Un-aaaaahhh !!!! I-itaaii !!!!! \nAh, Yamettee!\nKo-kokowa Damee!!\nHmm~, Ahh, ah ... yame- aaah... \nHnnnn...... nyaaaannh....\nMphh , Kimochiiiiiii~\nah ah ah aaaaahhhhh\nIKKEH !\nKIMOCHI !!!!\nikkeehh ikkeh ikkkeeehhh ahnnn\nAhhhh! \nHayaku!! Motto Hayaku!!\nMphh ahhh\nikkehhhh!? aaaaahhhhnnn!!!\nMOTTOO HAYAAKKUUUUU !!!\nHAYYAAAAAKKKKKUUUU !!!!!\nIKKEEHHH!!! AAAWWHH AAHH MMPHH AGH AGH NYIAAAANHH AWHH\nMPPHHHH ,, KIMOOCCHHIIIIIII\nAHHHHHH!!!!!!!!!!!!!!!!!!!!!!!!!!!\nMou ikkai.....\nHmm~, Ahh, ah ..\nMphh , Kimochiiiiiii~\nah ah ah aaaaahhhhh\nIKKEH !\nKIMOCHI !!!!\nikkeehh ikkeh ikkkeeehhh ahnnn\nAhhhh!\nUreshi yo~",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 00:17:21",
+        "actor": null,
+        "msg": "desah onlen dih",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 00:17:26",
+        "actor": null,
+        "msg": "titit lo donlot?",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 00:17:31",
+        "actor": null,
+        "msg": "Njir ikkeh\" (haha)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 05:41:25",
+        "actor": null,
+        "msg": "Gmna manggilnya? =_=",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 05:41:50",
+        "actor": null,
+        "msg": "Cri aja caranya :v",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 05:44:02",
+        "actor": null,
+        "msg": "Njer langka tuh :v",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 05:46:32",
+        "actor": null,
+        "msg": "Kejadian td malam (sad)",
+        "reply": "Ini masih pagi kak "
+    },
+    {
+        "time": "2017-06-30 05:46:46",
+        "actor": null,
+        "msg": "Kan gua bilang td malam (flip)",
+        "reply": "Ini masih pagi kak "
+    },
+    {
+        "time": "2017-06-30 05:47:11",
+        "actor": null,
+        "msg": "Sabar2 :v",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 05:54:22",
+        "actor": null,
+        "msg": "Pagi\"udh di perhatiin:v",
+        "reply": "Selamat pagi kak . Selamat beraktifitas."
+    },
+    {
+        "time": "2017-06-30 05:55:16",
+        "actor": null,
+        "msg": "Ya",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 05:59:18",
+        "actor": null,
+        "msg": ":v",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 05:59:50",
+        "actor": null,
+        "msg": "d rmh gw juga ada trap lo (laugh)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 06:00:01",
+        "actor": null,
+        "msg": "Njer skrng di soul ads crow :v",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 06:00:14",
+        "actor": null,
+        "msg": "Trap apaan :v",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 06:01:27",
+        "actor": null,
+        "msg": "Wah dah pada bangun ni",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 06:01:31",
+        "actor": null,
+        "msg": "ya mirip gitu (laugh)\nToples khong guan isinya krupuk (laugh)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 06:01:42",
+        "actor": null,
+        "msg": "Dri tdi :v",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 06:01:45",
+        "actor": null,
+        "msg": "bukan pada bangun...\nga tdr malah",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 06:01:58",
+        "actor": null,
+        "msg": "@kolek jowo mas?",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 06:02:25",
+        "actor": null,
+        "msg": "Hhhh orang jawa kok",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 06:03:03",
+        "actor": null,
+        "msg": "Jawa ning ndi mas?",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 06:03:08",
+        "actor": null,
+        "msg": "Bedebah sinyal gw jelek lgi -_-",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 06:03:31",
+        "actor": null,
+        "msg": "@Ghiffary Emir awkmu yo wong jowo toh?",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 06:04:18",
+        "actor": null,
+        "msg": "Jawanya kendal mas \nDekat pantai sendang sikucing...",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 06:04:44",
+        "actor": null,
+        "msg": "Ora, cuman iso basa jawa (dad)@ID.\u7d79\u5cf6Septiawan[V1ce] ",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 06:04:58",
+        "actor": null,
+        "msg": "Kamvreeet (Axe)(Har Har)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 06:05:07",
+        "actor": null,
+        "msg": "Ngapa anjir (dad) @ID.\u7d79\u5cf6Septiawan[V1ce] ",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 06:05:20",
+        "actor": null,
+        "msg": "@kolek oh oke salam kenal mas (terimakasih)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 06:05:27",
+        "actor": null,
+        "msg": "Tak pikir kon wong jowo kampret (laugh)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 06:05:29",
+        "actor": null,
+        "msg": "Bisa tpi dikit dikit",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 06:06:22",
+        "actor": null,
+        "msg": "Ok mas ghifarry",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 06:06:45",
+        "actor": null,
+        "msg": "Tak pikir kon wong jowo kampret (laugh)\n\nKaga, cuman bisa doang wkwk",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 06:07:14",
+        "actor": null,
+        "msg": "btw @kolek Ente kerja atau kuliah?",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 06:07:53",
+        "actor": null,
+        "msg": "Masih sekolah",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 06:08:10",
+        "actor": null,
+        "msg": "SMA?",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 06:08:34",
+        "actor": null,
+        "msg": "SMK bro",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 06:13:15",
+        "actor": null,
+        "msg": "Hadir",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 06:13:30",
+        "actor": null,
+        "msg": "Gk tidur dari semalem (cry)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 06:21:25",
+        "actor": null,
+        "msg": "Hadeh",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 06:25:20",
+        "actor": null,
+        "msg": "@KENSHIN miris amat lu",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 06:27:11",
+        "actor": null,
+        "msg": "-__-",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 06:28:35",
+        "actor": null,
+        "msg": "Soalnya Jam 11 - jam 5 Download Film lebih cepet (tertawa)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 06:43:13",
+        "actor": null,
+        "msg": "Dassar",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 07:02:24",
+        "actor": null,
+        "msg": "aloo",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 07:02:34",
+        "actor": null,
+        "msg": "Pc gw brother @\u00a0 ",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 07:02:58",
+        "actor": null,
+        "msg": "gue kan dah bohong ama kalian\n\nPedih (tepuktangan)(haha)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 07:11:21",
+        "actor": null,
+        "msg": ".",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 07:33:44",
+        "actor": null,
+        "msg": "\"Eromanga Sensei & Oreimo\"\nhttps:\/\/line.me\/S\/sticker\/8875",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 07:33:46",
+        "actor": null,
+        "msg": "Mak",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 07:33:49",
+        "actor": null,
+        "msg": "@HANABI HIMAWARI\ud83c\udf86\ud83c\udf3b ",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 07:33:56",
+        "actor": null,
+        "msg": "Sticker eromanga mak",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 07:34:20",
+        "actor": null,
+        "msg": "Bot",
+        "reply": "Ya, ada apa kak ?"
+    },
+    {
+        "time": "2017-06-30 07:34:26",
+        "actor": null,
+        "msg": "Jam berapa sekarang?",
+        "reply": "Sekarang jam 07:34:26 pagi"
+    },
+    {
+        "time": "2017-06-30 07:34:33",
+        "actor": null,
+        "msg": "Laper",
+        "reply": "Sabar kak , Beli makanan aja"
+    },
+    {
+        "time": "2017-06-30 07:34:37",
+        "actor": null,
+        "msg": "Beliin",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 07:34:42",
+        "actor": null,
+        "msg": "Bhaks",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 07:38:51",
+        "actor": null,
+        "msg": "Lu add ig ku ttg anime @anime_circle_",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 07:44:23",
+        "actor": null,
+        "msg": "Tersummon(Har Har)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 07:46:40",
+        "actor": null,
+        "msg": "Smk mana suaranyaaaaaa",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:15:54",
+        "actor": null,
+        "msg": "Ohayou'-')~",
+        "reply": "Ohayou kak , selamat beraktiftas \ud83d\ude19"
+    },
+    {
+        "time": "2017-06-30 08:16:34",
+        "actor": null,
+        "msg": "Ya kaget. Alien join",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:16:46",
+        "actor": null,
+        "msg": "q_anime high shool dxd",
+        "reply": "Mohon maaf anime \"high shool dxd\" tidak ditemukan !"
+    },
+    {
+        "time": "2017-06-30 08:17:00",
+        "actor": null,
+        "msg": "Summon",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:17:01",
+        "actor": null,
+        "msg": "Telat responya nih bot",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:17:04",
+        "actor": null,
+        "msg": "Ahahah",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:17:11",
+        "actor": null,
+        "msg": "Ohayou ^^",
+        "reply": "Ohayou kak , selamat beraktiftas \ud83d\ude19"
+    },
+    {
+        "time": "2017-06-30 08:17:14",
+        "actor": null,
+        "msg": "q_anime boku no pico",
+        "reply": "1639 : Boku no Pico\n4866 : Pico x CoCo x Chico\n5391 : Pico to Chico\n\n\nUntuk mencari info anime ketik \"i_anime [spasi] id_anime\"\nContoh :\ni_anime 100"
+    },
+    {
+        "time": "2017-06-30 08:17:22",
+        "actor": null,
+        "msg": "bingung gua",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:17:30",
+        "actor": null,
+        "msg": "giliran q anime pico baru muncul",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:17:36",
+        "actor": null,
+        "msg": "ngeselin nih bot",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:17:47",
+        "actor": null,
+        "msg": "q_anime boku no hero",
+        "reply": "30943 : Ojiichan wa Boku no Hero\n31964 : Boku no Hero Academia\n33486 : Boku no Hero Academia 2nd Season\n33929 : Boku no Hero Academia: Sukue! Kyuujo Kunren!\n35262 : Boku no Hero Academia 2nd Season: Hero Note\n35459 : Boku no Hero Academia: Training of the Dead\n\n\nUntuk mencari info anime ketik \"i_anime [spasi] id_anime\"\nContoh :\ni_anime 100"
+    },
+    {
+        "time": "2017-06-30 08:18:00",
+        "actor": null,
+        "msg": "i_anime 33929",
+        "reply": [
+            "https:\/\/myanimelist.cdn-dena.com\/images\/anime\/5\/83988.jpg",
+            "Id : 33929\nTitle : Boku no Hero Academia: Sukue! Kyuujo Kunren!\nEnglish : \nSynonyms : Boku no Hero Academia Jump Festa 2016 Special; Rescue! Rescue Training!\nEpisodes : 1\nScore : 7.69\nType : OVA\nStatus : Finished Airing\nStart Date : 2017-04-04\nEnd Date : 2017-04-04\nSynopsis : OVA bundled with 13th manga volume.\n"
+        ]
+    },
+    {
+        "time": "2017-06-30 08:18:10",
+        "actor": null,
+        "msg": "Sip bisa",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:18:11",
+        "actor": null,
+        "msg": ":V",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:22:53",
+        "actor": null,
+        "msg": "Uhm helo v:",
+        "reply": "Halo juga kak "
+    },
+    {
+        "time": "2017-06-30 08:24:57",
+        "actor": null,
+        "msg": "Event akan diadakan setelah member memcapai 30 \nMenyelesaikan quest akan mendapatkan gift\nYoroshiku^^",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:25:17",
+        "actor": null,
+        "msg": "Serius ? (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:25:35",
+        "actor": null,
+        "msg": "Boong kali dia (bohong)(haha)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:25:40",
+        "actor": null,
+        "msg": "Anjayy",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:25:45",
+        "actor": null,
+        "msg": "wkkwkwkw",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:25:45",
+        "actor": null,
+        "msg": "Bnrn njirr",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:25:51",
+        "actor": null,
+        "msg": "Nggeh ",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:26:43",
+        "actor": null,
+        "msg": "Kalo boong nanti ditelanjangin sama mimi peri v:",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:26:55",
+        "actor": null,
+        "msg": "Anjay mimi peri (flip)(haha)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:27:02",
+        "actor": null,
+        "msg": "Mimi perinya lu dahal ",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:27:04",
+        "actor": null,
+        "msg": "Wkw",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:27:09",
+        "actor": null,
+        "msg": "Baka ",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:27:16",
+        "actor": null,
+        "msg": "Stikernya (slap)(argh)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:27:36",
+        "actor": null,
+        "msg": "Penggemar miper lu (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:27:58",
+        "actor": null,
+        "msg": "Fans beratnya dia",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:28:17",
+        "actor": null,
+        "msg": "anjay",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:28:36",
+        "actor": null,
+        "msg": "Heheh",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:28:43",
+        "actor": null,
+        "msg": "Siapa?untuk siapa?",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:28:57",
+        "actor": null,
+        "msg": "Keset ho",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:29:27",
+        "actor": null,
+        "msg": "@Yoga. yoga-kun ka?",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:29:27",
+        "actor": null,
+        "msg": "Yo -,-",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:29:33",
+        "actor": null,
+        "msg": "Yoga-kunn ",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:29:43",
+        "actor": null,
+        "msg": "Nani (-_-)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:29:53",
+        "actor": null,
+        "msg": "Miss miss (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:30:05",
+        "actor": null,
+        "msg": "Maho detected",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:30:12",
+        "actor": null,
+        "msg": "F1k1-kun?",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:30:12",
+        "actor": null,
+        "msg": "Orang maho datang",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:30:20",
+        "actor": null,
+        "msg": "Maho minna (haha)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:30:21",
+        "actor": null,
+        "msg": "Fiki-kunn ",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:30:36",
+        "actor": null,
+        "msg": "Maho njer",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:30:37",
+        "actor": null,
+        "msg": "Siapa yg maho weh",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:30:43",
+        "actor": null,
+        "msg": "FAK ",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:30:52",
+        "actor": null,
+        "msg": "Noh die",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:30:53",
+        "actor": null,
+        "msg": "Noh die",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:30:54",
+        "actor": null,
+        "msg": "@\u2022AVC\u2122F1K1 (kiss)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:30:55",
+        "actor": null,
+        "msg": "Noh",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:31:03",
+        "actor": null,
+        "msg": "Yo kay",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:31:04",
+        "actor": null,
+        "msg": "Maho detected (flip)(haha)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:31:07",
+        "actor": null,
+        "msg": "@\u30b7\u30b2  Orang ini maho proo",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:31:20",
+        "actor": null,
+        "msg": "Gile mah erro",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:31:27",
+        "actor": null,
+        "msg": "Begitu juga dengan ini (kanan)@A R Y A ",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:31:36",
+        "actor": null,
+        "msg": "Sama aj",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:31:38",
+        "actor": null,
+        "msg": "Weheh",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:31:40",
+        "actor": null,
+        "msg": "Nandatto",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:31:46",
+        "actor": null,
+        "msg": "~(dad)~",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:32:20",
+        "actor": null,
+        "msg": "Sip lah guys, @\u2022AVC\u2122F1K1 @Yoga. \n\nPotong kaneki wes mari (centang)\nGarek kuru tok (haha)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:32:33",
+        "actor": null,
+        "msg": "q_anime Rakudai kishi no cavarly",
+        "reply": "Mohon maaf anime \"Rakudai kishi no cavarly\" tidak ditemukan !"
+    },
+    {
+        "time": "2017-06-30 08:32:44",
+        "actor": null,
+        "msg": "q_anime rakudai",
+        "reply": "1199 : Nintama Rantarou\n30296 : Rakudai Kishi no Cavalry\n\n\nUntuk mencari info anime ketik \"i_anime [spasi] id_anime\"\nContoh :\ni_anime 100"
+    },
+    {
+        "time": "2017-06-30 08:32:58",
+        "actor": null,
+        "msg": "i_anime 30296",
+        "reply": [
+            "https:\/\/myanimelist.cdn-dena.com\/images\/anime\/9\/76493.jpg",
+            "Id : 30296\nTitle : Rakudai Kishi no Cavalry\nEnglish : Chivalry of a Failed Knight\nSynonyms : A Chivalry of the Failed Knight; Rakudai Kishi no Eiyuutan; A Tale of Worst One\nEpisodes : 12\nScore : 7.77\nType : TV\nStatus : Finished Airing\nStart Date : 2015-10-03\nEnd Date : 2015-12-19\nSynopsis : There are some humans capable of using magical power to manifest their souls as weapons and control forces beyond normal comprehension. These people are known as Blazers, and those who are recognized as such can undergo training at academies to become Mage-Knights. Ikki Kurogane is an aspiring Mage-Knight, despite being considered the worst student at Hagun Academy as an F-ranked Blazer\u2014the lowest rank possible.\n\n\n\nOne morning, he accidentally stumbles upon Stella Vermillion, a visiting princess and A-ranked Blazer who has just enrolled at Hagun, in a state of undress. As a result, she challenges him to a duel where the loser will be the winner\u2019s slave. It seems like a surefire win for Stella, but could there be more to Ikki than meets the eye?\n\n\n\n[i]Rakudai Kishi no Cavalry[\/i] tells the story of Ikki\u2019s valiant efforts to qualify for an upcoming tournament that could bring him a step closer to his dreams, aided by Stella. Together, they will prove that hard work can overcome the limits set upon them.\n"
+        ]
+    },
+    {
+        "time": "2017-06-30 08:33:08",
+        "actor": null,
+        "msg": ":v",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:33:28",
+        "actor": null,
+        "msg": "A en je a ye",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:34:36",
+        "actor": null,
+        "msg": "njer :v",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:35:00",
+        "actor": null,
+        "msg": "q_anime tokyo ghoul",
+        "reply": "22319 : Tokyo Ghoul\n27899 : Tokyo Ghoul \u221aA\n30458 : Tokyo Ghoul: \"Jack\"\n31297 : Tokyo Ghoul: \"Pinto\"\n\n\nUntuk mencari info anime ketik \"i_anime [spasi] id_anime\"\nContoh :\ni_anime 100"
+    },
+    {
+        "time": "2017-06-30 08:35:01",
+        "actor": null,
+        "msg": "@Yoga. sip lah, 2 hari or turun 1kg (haha)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:35:09",
+        "actor": null,
+        "msg": "ekspresi gw pas liat loli yg moe (laugh)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:35:12",
+        "actor": null,
+        "msg": "bedebah sinyalnyamasih jelek -_-",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:35:15",
+        "actor": null,
+        "msg": "i_anime 31297",
+        "reply": [
+            "https:\/\/myanimelist.cdn-dena.com\/images\/anime\/3\/78666.jpg",
+            "Id : 31297\nTitle : Tokyo Ghoul: \"Pinto\"\nEnglish : \nSynonyms : \nEpisodes : 1\nScore : 7.56\nType : OVA\nStatus : Finished Airing\nStart Date : 2015-12-25\nEnd Date : 2015-12-25\nSynopsis : The OVA adapts the third story in the [i]Tokyo Ghoul: Hibi[\/i] novel when Shuu Tsukiyama and Chie Hori met.\n"
+        ]
+    },
+    {
+        "time": "2017-06-30 08:35:23",
+        "actor": null,
+        "msg": "njer :v@ID.\u7d79\u5cf6Septiawan[V1ce] emejing :v",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:35:42",
+        "actor": null,
+        "msg": "Battle kemrIn gw kayak lawan hantu nying (laugh)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:35:53",
+        "actor": null,
+        "msg": ":v sama :v",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:36:12",
+        "actor": null,
+        "msg": "di hit kgk bisa situ hit bisa (Flip Table)(Har Har)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:36:30",
+        "actor": null,
+        "msg": "lah",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:36:31",
+        "actor": null,
+        "msg": "B.indonesia gabisa apa (flip)(haha) gamudeng , mudeng dikit doang :v",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:36:41",
+        "actor": null,
+        "msg": "wkwkwkw",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:36:47",
+        "actor": null,
+        "msg": "Loh ",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:36:50",
+        "actor": null,
+        "msg": "itu gua ngambil datanya dari myanimelist",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:36:59",
+        "actor": null,
+        "msg": "yanji",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:37:04",
+        "actor": null,
+        "msg": "Males lagii kalo ke indoin:V",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:37:07",
+        "actor": null,
+        "msg": "Bro",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:37:16",
+        "actor": null,
+        "msg": "Kanji",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:37:23",
+        "actor": null,
+        "msg": "P",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:37:53",
+        "actor": null,
+        "msg": "@Yoga. sip lah, 2 hari or turun 1kg (haha)\n\nCie (haha) apalah daya yang berat makin bertambah (sad) naik 1ton (haha)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:38:04",
+        "actor": null,
+        "msg": "Anjerr males (flip)(haha)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:38:19",
+        "actor": null,
+        "msg": "Diet dong",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:38:30",
+        "actor": null,
+        "msg": "klo diderah gua kanji=genit",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:38:32",
+        "actor": null,
+        "msg": "wkwk",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:38:33",
+        "actor": null,
+        "msg": "Tak nak (:p)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:39:14",
+        "actor": null,
+        "msg": "Diet dong (2)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:39:19",
+        "actor": null,
+        "msg": "Test",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:39:32",
+        "actor": null,
+        "msg": "@Yoga. kok kepingin kyk masamune yo (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:39:56",
+        "actor": null,
+        "msg": "Untuk apa diet kalo ujung2nya juga gendut lagi (haha)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:39:58",
+        "actor": null,
+        "msg": "senasib pernah ngalamin :v",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:40:18",
+        "actor": null,
+        "msg": "Haha masamune",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:40:24",
+        "actor": null,
+        "msg": "Untuk apa diet kalo ujung2nya juga gendut lagi (haha)\n\nGk akanlaa, klo dibarengi olahraga",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:40:34",
+        "actor": null,
+        "msg": "GYm",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:40:37",
+        "actor": null,
+        "msg": "@\u2022AVC\u2122F1K1 sedap fik (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:40:53",
+        "actor": null,
+        "msg": "Saking gantenge, nolak2 (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:40:56",
+        "actor": null,
+        "msg": "Ngarep njirr (flip)(haha) @\u30b7\u30b2 ",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:41:10",
+        "actor": null,
+        "msg": "Iya ga apa",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:41:17",
+        "actor": null,
+        "msg": "Kim Ryan kanji",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:41:27",
+        "actor": null,
+        "msg": "Ini dari tadi pasangan suami istri bertengkar aja",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:41:34",
+        "actor": null,
+        "msg": "@Yoga. tpi sawangane kata 'kurus' sama 'kerempeng' masih jauh dari harapan kyknya",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:42:09",
+        "actor": null,
+        "msg": "hey",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:42:10",
+        "actor": null,
+        "msg": "Yo (hai)(haha) @Adheas_Ramadhan ",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:42:13",
+        "actor": null,
+        "msg": "Halo",
+        "reply": "Halo juga kak "
+    },
+    {
+        "time": "2017-06-30 08:42:25",
+        "actor": null,
+        "msg": "Halo -,-",
+        "reply": "Halo juga kak "
+    },
+    {
+        "time": "2017-06-30 08:42:25",
+        "actor": null,
+        "msg": "Welcome",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:42:35",
+        "actor": null,
+        "msg": "Yo :v",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:42:43",
+        "actor": null,
+        "msg": "Apaan sih noh bot (flip)(argh)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:43:11",
+        "actor": null,
+        "msg": "ga wei",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:43:12",
+        "actor": null,
+        "msg": "Yeahhh welkammmm",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:43:14",
+        "actor": null,
+        "msg": "Nenekkk",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:43:37",
+        "actor": null,
+        "msg": "@Adheas_Ramadhan (keset) ",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:43:43",
+        "actor": null,
+        "msg": "Cih",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:43:52",
+        "actor": null,
+        "msg": "wei",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:44:02",
+        "actor": null,
+        "msg": "Lpo yog",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:44:07",
+        "actor": null,
+        "msg": "@[Hyanna]\u6709\u0273\u0251t\u0e23u keluar ku nek(sentil)(tertawa)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:44:13",
+        "actor": null,
+        "msg": "Lu*",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:44:28",
+        "actor": null,
+        "msg": "gw ngelag jga menderita :v",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:44:32",
+        "actor": null,
+        "msg": "167ur",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:45:06",
+        "actor": null,
+        "msg": "Nekkk keluaarr kau. (tertawa)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:45:08",
+        "actor": null,
+        "msg": "@\u2022AVC\u2122F1K1 sumpah fik, jek jauh dari kata tsb meskipun 2 hari turun 1 kg \ud83d\ude02",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:45:31",
+        "actor": null,
+        "msg": "What's up Aku...",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:45:38",
+        "actor": null,
+        "msg": "Tertera (flip)(haha)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:45:53",
+        "actor": null,
+        "msg": "Padahal pengen kuru cepet (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:45:55",
+        "actor": null,
+        "msg": "Yo (hai)(haha) @Liovana Lional [\u98a8]\u00a7 ",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:46:03",
+        "actor": null,
+        "msg": "Grup apa dh (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:46:27",
+        "actor": null,
+        "msg": "Group anu",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:46:30",
+        "actor": null,
+        "msg": "Sedino or ga mandek kuru engkok ro :v (haha) @\u30b7\u30b2 ",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:46:39",
+        "actor": null,
+        "msg": "Nek vn (tertawa)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:46:42",
+        "actor": null,
+        "msg": "Kau kenapaa (flip)(haha) @[Hyanna]\u6709\u0273\u0251t\u0e23u ",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:46:46",
+        "actor": null,
+        "msg": "Yo (hai)(haha) @Liovana Lional [\u98a8]\u00a7 \n\nYo-_-",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:46:55",
+        "actor": null,
+        "msg": "VN nek @[Hyanna]\u6709\u0273\u0251t\u0e23u ",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:47:22",
+        "actor": null,
+        "msg": "Digigit semut @Yoga. (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:47:39",
+        "actor": null,
+        "msg": "Ogah syetan @\u2022AVC\u2122F1K1 (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:47:50",
+        "actor": null,
+        "msg": "Jangan tag tag (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:47:51",
+        "actor": null,
+        "msg": "Hae",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:47:53",
+        "actor": null,
+        "msg": "Gigit semut stiker gitu apa effectnya opa (flip)(haha)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:48:15",
+        "actor": null,
+        "msg": "Yoga gak boleh protes. (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:48:26",
+        "actor": null,
+        "msg": "Iyainn (haha)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:48:27",
+        "actor": null,
+        "msg": "Grup apa ni? :v",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:48:33",
+        "actor": null,
+        "msg": "Haeee Retno (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:48:39",
+        "actor": null,
+        "msg": "Grup anu (aha)(haha)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:48:40",
+        "actor": null,
+        "msg": "Yoroshiku nee minna (^_^)v(\u2267\u25bd\u2266)(^\u3002^)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:48:42",
+        "actor": null,
+        "msg": "Bagosss (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:48:51",
+        "actor": null,
+        "msg": "Retno warkop (haha) hae",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:48:52",
+        "actor": null,
+        "msg": "Minta vn nekkk (argh)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:48:53",
+        "actor": null,
+        "msg": "Gblk (slap)(dad)a",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:49:02",
+        "actor": null,
+        "msg": "Ogahhhh...(dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:49:04",
+        "actor": null,
+        "msg": "\uff3c(^o^)\uff0f",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:49:06",
+        "actor": null,
+        "msg": "Loli pop (lolipop)(tertawa)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:49:16",
+        "actor": null,
+        "msg": "@\u2022AVC\u2122F1K1 om mau loli?",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:49:19",
+        "actor": null,
+        "msg": "Wait...",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:49:20",
+        "actor": null,
+        "msg": "Saia suka loli ",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:49:22",
+        "actor": null,
+        "msg": "No",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:49:23",
+        "actor": null,
+        "msg": "No",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:49:24",
+        "actor": null,
+        "msg": "No",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:49:26",
+        "actor": null,
+        "msg": "No",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:49:35",
+        "actor": null,
+        "msg": "Vn neekk vn ",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:49:44",
+        "actor": null,
+        "msg": "Ogah syetan",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:49:55",
+        "actor": null,
+        "msg": "Saiton nirojim (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:49:58",
+        "actor": null,
+        "msg": "Pc",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:50:01",
+        "actor": null,
+        "msg": "Lolinya shige kan syetan memang (grr)(haha)(grr)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:50:05",
+        "actor": null,
+        "msg": "Cantik yahh (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:50:05",
+        "actor": null,
+        "msg": "Pece dah vn",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:50:26",
+        "actor": null,
+        "msg": "Gk vn gw mahal (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:50:36",
+        "actor": null,
+        "msg": "Suka sama yg trap :v",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:50:52",
+        "actor": null,
+        "msg": "Anzer :v",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:51:24",
+        "actor": null,
+        "msg": "Kenalin om pedo :v",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:51:38",
+        "actor": null,
+        "msg": "Awas kecyduk :v",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:51:48",
+        "actor": null,
+        "msg": "Njaayyyy",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:51:55",
+        "actor": null,
+        "msg": "VN",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:52:08",
+        "actor": null,
+        "msg": "Saya hauss VN",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:52:18",
+        "actor": null,
+        "msg": "Vn iku opo? (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:52:42",
+        "actor": null,
+        "msg": "Heleh (karate)(tertawa) gatau lu?",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:53:00",
+        "actor": null,
+        "msg": "G",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:53:05",
+        "actor": null,
+        "msg": "Emg np?",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:53:15",
+        "actor": null,
+        "msg": "Anjayy (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:53:15",
+        "actor": null,
+        "msg": "Ni VN",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:53:27",
+        "actor": null,
+        "msg": "Eta terangkanlah (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:53:29",
+        "actor": null,
+        "msg": "@\u2022AVC\u2122F1K1 sasageyoo sasageyoo",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:53:31",
+        "actor": null,
+        "msg": "Tapi saya mau suara loli",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:53:35",
+        "actor": null,
+        "msg": "Shinzou wo sasageyoo",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:53:36",
+        "actor": null,
+        "msg": "Voice note (flip)(haha)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:53:48",
+        "actor": null,
+        "msg": "Pedo",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:53:54",
+        "actor": null,
+        "msg": "(sing)(dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:54:03",
+        "actor": null,
+        "msg": "Sasageyoo",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:54:03",
+        "actor": null,
+        "msg": "Nek",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:54:04",
+        "actor": null,
+        "msg": "Sasageyoo",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:54:07",
+        "actor": null,
+        "msg": "Nek",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:54:10",
+        "actor": null,
+        "msg": "Shinzou wo sasageyoo",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:54:24",
+        "actor": null,
+        "msg": "Knp g mau join ke grup AAIH",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:54:46",
+        "actor": null,
+        "msg": "Share hentong boleh gk?",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:54:51",
+        "actor": null,
+        "msg": "hah..bukan gk mao join..males aja gtu (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:54:56",
+        "actor": null,
+        "msg": "Ngak (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:54:57",
+        "actor": null,
+        "msg": "Kagakk boleh (flip)(haha)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:55:04",
+        "actor": null,
+        "msg": "Gw gaplok lu (slap)(dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:55:05",
+        "actor": null,
+        "msg": "Disini join",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:55:12",
+        "actor": null,
+        "msg": "Di itu g join",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:55:16",
+        "actor": null,
+        "msg": "Sok iye lu (slap)(dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:55:20",
+        "actor": null,
+        "msg": "Ohh (ooh)(tertawa)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:55:29",
+        "actor": null,
+        "msg": "apaan sih (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:55:37",
+        "actor": null,
+        "msg": "Anjeng (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:55:46",
+        "actor": null,
+        "msg": "Saya ss lah",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:55:56",
+        "actor": null,
+        "msg": "silakan(dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:56:04",
+        "actor": null,
+        "msg": "Emang apa untungnya (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:56:14",
+        "actor": null,
+        "msg": "Knpa sih",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:56:20",
+        "actor": null,
+        "msg": "Ehh..terserahmu deh (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:56:25",
+        "actor": null,
+        "msg": "Tak kenal waktu",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:56:35",
+        "actor": null,
+        "msg": "Pasti ada ya dibenci (tertawa)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:56:52",
+        "actor": null,
+        "msg": "Ngak (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:57:01",
+        "actor": null,
+        "msg": "Ngapain gw dendam (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:57:01",
+        "actor": null,
+        "msg": "Hoo",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:57:20",
+        "actor": null,
+        "msg": "Masuk lagi ya biar g sepi ",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:57:35",
+        "actor": null,
+        "msg": "Udh rame ahh..(dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:57:46",
+        "actor": null,
+        "msg": "-_-",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:57:49",
+        "actor": null,
+        "msg": "Tapi bahas nya jgn terlalu mainstream",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:57:59",
+        "actor": null,
+        "msg": "Join lagi",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:58:02",
+        "actor": null,
+        "msg": "Gak ush capek capek undang gw lah (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:58:07",
+        "actor": null,
+        "msg": "Cuek aja (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:58:41",
+        "actor": null,
+        "msg": "Kesambet apa y nih orang ",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:59:19",
+        "actor": null,
+        "msg": "Kesambet batu apung (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:59:25",
+        "actor": null,
+        "msg": "Hoo apa karna saya tidak akan menarik kata2 saya kembali (tertawa)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:59:29",
+        "actor": null,
+        "msg": "\/\/emangbisa",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:59:40",
+        "actor": null,
+        "msg": "Maksudnya (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:59:48",
+        "actor": null,
+        "msg": "Masih gue liatin",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:59:52",
+        "actor": null,
+        "msg": "avaan tuh",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 08:59:57",
+        "actor": null,
+        "msg": "marshmello nyasar ke dangdut (laugh)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:00:00",
+        "actor": null,
+        "msg": "Apaan yog (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:00:07",
+        "actor": null,
+        "msg": "njer :v",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:00:08",
+        "actor": null,
+        "msg": "Anjerrr (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:00:25",
+        "actor": null,
+        "msg": "gw lagi di pasar tmn gw ngajakin beli kaset dngdut",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:00:26",
+        "actor": null,
+        "msg": "Masih gue liatin su (flip)(haha)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:00:33",
+        "actor": null,
+        "msg": "Eh gue manggilnya apa masa su (haha)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:00:40",
+        "actor": null,
+        "msg": "Apa yg elu liatin (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:00:40",
+        "actor": null,
+        "msg": "njer dangdutan :v",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:00:45",
+        "actor": null,
+        "msg": "Curiga (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:00:46",
+        "actor": null,
+        "msg": "ANEH NENEK sekarang",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:00:50",
+        "actor": null,
+        "msg": "well acctually gw gk terlalu suka dngdut",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:01:01",
+        "actor": null,
+        "msg": "gw malah gk suka :v",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:01:04",
+        "actor": null,
+        "msg": "Jangan panggil gw nenek (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:01:13",
+        "actor": null,
+        "msg": "Gue liatin kalean ini (lihat)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:01:19",
+        "actor": null,
+        "msg": "OOr is better",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:01:22",
+        "actor": null,
+        "msg": "Kn gua ngikutin anak2",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:01:28",
+        "actor": null,
+        "msg": "Panggil nenek",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:01:29",
+        "actor": null,
+        "msg": "what?",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:01:37",
+        "actor": null,
+        "msg": "Idih dilihatin :v",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:01:40",
+        "actor": null,
+        "msg": "Anjayyy..seterahlu lah (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:01:45",
+        "actor": null,
+        "msg": ".",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:01:48",
+        "actor": null,
+        "msg": "oor=One Ok Rock",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:01:58",
+        "actor": null,
+        "msg": "evuset :v",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:02:03",
+        "actor": null,
+        "msg": "Ati\" ntar di jadiin lauk ama yoga :v",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:02:08",
+        "actor": null,
+        "msg": "gw lebih suka ost anime :v",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:02:15",
+        "actor": null,
+        "msg": "Gw panggang",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:02:16",
+        "actor": null,
+        "msg": "Humph",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:02:17",
+        "actor": null,
+        "msg": "Sih",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:02:19",
+        "actor": null,
+        "msg": "Wkwkwkwk",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:02:19",
+        "actor": null,
+        "msg": "Jangan panggil gw nenek (dad)\n\nTerus panggil apa (hehe)...opah(aha)(haha)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:02:27",
+        "actor": null,
+        "msg": "Kutu Loncat (laugh)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:02:32",
+        "actor": null,
+        "msg": "Lauk apaan woii (flip)(haha)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:02:37",
+        "actor": null,
+        "msg": ":v",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:02:37",
+        "actor": null,
+        "msg": "Ga rakus saia",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:02:40",
+        "actor": null,
+        "msg": "Panggil biasa aja lah..emang gk bisa (rage)(dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:02:47",
+        "actor": null,
+        "msg": "Lu lihatin mulu :v",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:02:55",
+        "actor": null,
+        "msg": "Ayam syetan. (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:03:17",
+        "actor": null,
+        "msg": "http:\/\/line.me\/R\/ti\/g\/3rHKGe-Vra\n\n_-_",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:03:18",
+        "actor": null,
+        "msg": "Panggil diri sendiri dia (atas)(haha)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:03:19",
+        "actor": null,
+        "msg": "FR33 LIN3 PR3MIUM CLONE & NO CLONE VERSI 7.6.2!\nTERBARU & VITUR LEBIH LENGKAP!\n\nMAU? EASY RULES \u2935\n\u21aa Add OA dibwh ini (ss) \nhttps:\/\/line.me\/R\/ti\/p\/%40qee7040f\n\n\u21aa Share caption ini ke 5 grup min 30 member atau ke 30 teman active kamu.\n\nDone Rules? Send ss ke OA diatas",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:03:42",
+        "actor": null,
+        "msg": "Orgil (atas)(bawah)(dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:03:51",
+        "actor": null,
+        "msg": "Panggil dia hidayah (ooh)(hahaha)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:04:05",
+        "actor": null,
+        "msg": "Boleh lah..(dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:04:08",
+        "actor": null,
+        "msg": ":v ngomong avaan tuh :v",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:04:15",
+        "actor": null,
+        "msg": "Anjai wkw",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:04:23",
+        "actor": null,
+        "msg": "Pokemon (laugh)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:04:31",
+        "actor": null,
+        "msg": "njer :v",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:04:36",
+        "actor": null,
+        "msg": "nyari pokemon tuh bocah (laugh)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:05:10",
+        "actor": null,
+        "msg": "Free Giftt \ud83c\udf81\n<brr>\n<brr>\nEtt.. Bukan disini \ud83d\ude10\nTapi disini tempatnya! \u2193\nhttp:\/\/line.me\/ti\/p\/@ggn1205x\nAll about :\n- Quotes \u2714\n- Anime \u2714\n- Kpop \u2714\n- Meme \u2714\n- Lockscreen \u2714\n- Tesib \u2714\nDisini juga sering ngadain:\n- Giveaway \u2605\n- Event \u2605\n- Games \u2605\nDll.\nOpen curhat jugaa!!buruan add!\n http:\/\/line.me\/ti\/p\/@ggn1205x\n",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:06:38",
+        "actor": null,
+        "msg": "Vangkek lah nek kau (pisau)(tertawa)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:06:46",
+        "actor": null,
+        "msg": "Vakekok",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:06:56",
+        "actor": null,
+        "msg": "Pop ice (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:07:03",
+        "actor": null,
+        "msg": "yo(Har Har)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:07:14",
+        "actor": null,
+        "msg": "Ingin diisep kau (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:07:14",
+        "actor": null,
+        "msg": "(pisau)(tertawa)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:07:15",
+        "actor": null,
+        "msg": ":v",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:07:18",
+        "actor": null,
+        "msg": "Aus (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:07:20",
+        "actor": null,
+        "msg": "(karate chop)(Har Har)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:07:23",
+        "actor": null,
+        "msg": "kehabisan kata2 :v gw",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:07:27",
+        "actor": null,
+        "msg": "Mau pop ice (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:07:46",
+        "actor": null,
+        "msg": "Fik knapa? (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:07:53",
+        "actor": null,
+        "msg": "Trap",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:07:58",
+        "actor": null,
+        "msg": "Super",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:08:03",
+        "actor": null,
+        "msg": "@\u2693Pop Ice[1]\u4ef2\u9593\u265bAVC\u2606 kau ingin membuat kami menjadi haus v:",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:08:25",
+        "actor": null,
+        "msg": "Ada punya pic nya felix?",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:08:28",
+        "actor": null,
+        "msg": "(karate chop)(Har Har)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:08:34",
+        "actor": null,
+        "msg": "Felix re:zero",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:08:37",
+        "actor": null,
+        "msg": "Gak nekk",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:08:57",
+        "actor": null,
+        "msg": ":v",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:09:06",
+        "actor": null,
+        "msg": "Share",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:09:12",
+        "actor": null,
+        "msg": "Fak yu nek (pisau)(tertawa)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:09:19",
+        "actor": null,
+        "msg": "Fak",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:09:36",
+        "actor": null,
+        "msg": "Apa sihh (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:09:47",
+        "actor": null,
+        "msg": "Pasti ada masalah g mau join (ooh)(tertawa)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:10:35",
+        "actor": null,
+        "msg": "Gaada somvlak (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:10:42",
+        "actor": null,
+        "msg": "99% dari 100% 1% ilang psti ada masalah (hmm)(hahaha)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:10:42",
+        "actor": null,
+        "msg": "Nih anak batu (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:10:54",
+        "actor": null,
+        "msg": "Sok tai(dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:11:03",
+        "actor": null,
+        "msg": "(dad)ni ngomongin apa sih",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:11:08",
+        "actor": null,
+        "msg": "Heweh",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:11:24",
+        "actor": null,
+        "msg": "(dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:11:36",
+        "actor": null,
+        "msg": "Udah (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:11:38",
+        "actor": null,
+        "msg": "Ngak kok",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:11:41",
+        "actor": null,
+        "msg": "Test",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:11:46",
+        "actor": null,
+        "msg": "....",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:11:46",
+        "actor": null,
+        "msg": "Nek klau saya ad salah gomen ya (tertawa) ",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:11:58",
+        "actor": null,
+        "msg": "Mohon maaf lahir batin",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:12:10",
+        "actor": null,
+        "msg": "Kan waktu lebaran udh gw maafin (slap)(dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:12:12",
+        "actor": null,
+        "msg": "Wih keren name nya (tertawa)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:12:16",
+        "actor": null,
+        "msg": "Hooo",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:12:20",
+        "actor": null,
+        "msg": "Tau ga arti nya.. ",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:12:27",
+        "actor": null,
+        "msg": "Mohon maaf lahir batin juga lah..",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:12:43",
+        "actor": null,
+        "msg": "Lebaran udh lewat(slap)(tertawa)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:13:07",
+        "actor": null,
+        "msg": "Belom sebulan dan seminggu kan (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:13:11",
+        "actor": null,
+        "msg": "Masih lah (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:13:32",
+        "actor": null,
+        "msg": "Saia merasakan keberadaan makhluk astral sedang berdua di group (haha)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:13:47",
+        "actor": null,
+        "msg": "Mana (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:13:48",
+        "actor": null,
+        "msg": "Gamudeng yang klen bicarain somplak (flip)(haha)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:14:01",
+        "actor": null,
+        "msg": "Maaf, @[Hyanna]\u6709\u0273\u0251t\u0e23u @Yoga. @\u2022AVC\u2122F1K1 \n\nAnda tercyduk",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:14:06",
+        "actor": null,
+        "msg": "Lu ama fiki (-_-)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:14:07",
+        "actor": null,
+        "msg": "@Yoga. Aing macan (tiger)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:14:09",
+        "actor": null,
+        "msg": "Bisik",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:14:38",
+        "actor": null,
+        "msg": "Anjirrr",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:14:38",
+        "actor": null,
+        "msg": "Gue gaikut ikut (flip)(argh)...gue korban disini (flip)(argh)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:14:49",
+        "actor": null,
+        "msg": "Aing maung (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:14:59",
+        "actor": null,
+        "msg": "Kenapaa gue macan (???) (flip)(haha) @NiKO\u2662 ",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:15:11",
+        "actor": null,
+        "msg": "Akhirnyaah",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:15:12",
+        "actor": null,
+        "msg": "Saia",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:15:14",
+        "actor": null,
+        "msg": "Punya",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:15:15",
+        "actor": null,
+        "msg": "Loli pop (hmm)(haha)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:15:16",
+        "actor": null,
+        "msg": "Waktu",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:15:18",
+        "actor": null,
+        "msg": "Untuk",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:15:23",
+        "actor": null,
+        "msg": "I",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:15:24",
+        "actor": null,
+        "msg": "HEAR",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:15:26",
+        "actor": null,
+        "msg": "LOLIIIIIIIIIII",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:15:32",
+        "actor": null,
+        "msg": "Aw",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:15:35",
+        "actor": null,
+        "msg": "Buka",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:15:36",
+        "actor": null,
+        "msg": "ULULULULULLULULULULULULULULLULULULULULULULULULLUULLULULULULULLULUULULULULULULULULULULUL",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:15:36",
+        "actor": null,
+        "msg": "Line",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:15:37",
+        "actor": null,
+        "msg": ":v",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:15:45",
+        "actor": null,
+        "msg": "*gochiusa ending intensifies*",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:15:47",
+        "actor": null,
+        "msg": "Bye",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:15:49",
+        "actor": null,
+        "msg": "Gajetot (haha)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:16:00",
+        "actor": null,
+        "msg": "Where? Op",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:16:04",
+        "actor": null,
+        "msg": "Sagiri latjoer maz (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:16:11",
+        "actor": null,
+        "msg": "@Yoga. Maholuk astral (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:16:18",
+        "actor": null,
+        "msg": "Kmna lu nek? ",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:16:29",
+        "actor": null,
+        "msg": "Sagiri latchur",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:16:50",
+        "actor": null,
+        "msg": "@NiKO\u2662 pikomu latcur mas (hmm)(hmm)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:17:19",
+        "actor": null,
+        "msg": "@NiKO\u2662 sabodo teuing (laugh)(aha)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:17:32",
+        "actor": null,
+        "msg": "Loli tpi latjoer (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:17:34",
+        "actor": null,
+        "msg": "Woah nekopoi :v",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:17:39",
+        "actor": null,
+        "msg": "Udh gk suci (flip)(dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:17:44",
+        "actor": null,
+        "msg": "Mainstream",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:17:55",
+        "actor": null,
+        "msg": "Heil sinon (hand)(dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:17:57",
+        "actor": null,
+        "msg": "A",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:17:57",
+        "actor": null,
+        "msg": "Nikopoi (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:17:58",
+        "actor": null,
+        "msg": "En",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:17:59",
+        "actor": null,
+        "msg": "Je",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:18:00",
+        "actor": null,
+        "msg": "Ngaksesnya nekopoi ni",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:18:00",
+        "actor": null,
+        "msg": "A",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:18:01",
+        "actor": null,
+        "msg": "Ye",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:18:01",
+        "actor": null,
+        "msg": "Nekpoi (haha)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:18:02",
+        "actor": null,
+        "msg": "Miskin",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:18:05",
+        "actor": null,
+        "msg": "Mending HH",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:18:10",
+        "actor": null,
+        "msg": "Yes",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:18:15",
+        "actor": null,
+        "msg": "HH is de best",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:18:23",
+        "actor": null,
+        "msg": "@HAN-\u4ef2\u9593-\u7e01[\ud83d\udd34] mending xvideos.com (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:18:39",
+        "actor": null,
+        "msg": "@NiKO\u2662 mending redporn.com",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:18:51",
+        "actor": null,
+        "msg": "Anjayy woii (flip)(haha)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:18:57",
+        "actor": null,
+        "msg": "@HAN-\u4ef2\u9593-\u7e01[\ud83d\udd34] mending pornhub.com (dad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:19:10",
+        "actor": null,
+        "msg": "Mesum\n-najwa",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:19:12",
+        "actor": null,
+        "msg": "@NiKO\u2662 mending cerdas.com",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:19:19",
+        "actor": null,
+        "msg": "UDAH AH",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:19:33",
+        "actor": null,
+        "msg": "@HAN-\u4ef2\u9593-\u7e01[\ud83d\udd34] mending google.com",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:20:10",
+        "actor": null,
+        "msg": "@NiKO\u2662 (laugh) ish ish, mending samehadaku.net",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:20:25",
+        "actor": null,
+        "msg": "Samehada nah",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:20:30",
+        "actor": null,
+        "msg": "Tp ya",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:20:30",
+        "actor": null,
+        "msg": "Hentai bgst",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:20:37",
+        "actor": null,
+        "msg": "Sebagus2nya website anime",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:20:37",
+        "actor": null,
+        "msg": "@HAN-\u4ef2\u9593-\u7e01[\ud83d\udd34] mending oploverz.in",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:20:44",
+        "actor": null,
+        "msg": "9anime.com",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:20:45",
+        "actor": null,
+        "msg": "Heleh nek (tertawa)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:20:54",
+        "actor": null,
+        "msg": "Sama",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:21:01",
+        "actor": null,
+        "msg": "Crunchyroll.com",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:21:05",
+        "actor": null,
+        "msg": "Meownime.com ",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:21:06",
+        "actor": null,
+        "msg": "Nahaa (laugh)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:22:00",
+        "actor": null,
+        "msg": "Huhu",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:23:50",
+        "actor": null,
+        "msg": "Bacod (coffee break)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:26:36",
+        "actor": null,
+        "msg": "Salken",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:26:42",
+        "actor": null,
+        "msg": "Bicik",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:26:49",
+        "actor": null,
+        "msg": "Salken jga",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:27:20",
+        "actor": null,
+        "msg": "bs diem gk?^",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:27:27",
+        "actor": null,
+        "msg": "dr kmren bicik\u00b2 mulu",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:27:30",
+        "actor": null,
+        "msg": "Kuyyy diorder (sini)(line)\n50 \u00a9 = 8K\n100\u00a9 = 16K \n150 \u00a9 = 24K\n200\u00a9 = 32K\nBerlaku kelipatan (ok)\nViapul tsel ..\nFastgift (ok)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:27:44",
+        "actor": null,
+        "msg": "Bacod mulu(coffee break)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:29:04",
+        "actor": null,
+        "msg": "Lama2 gw nikahin kalian br3 (laugh)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:29:19",
+        "actor": null,
+        "msg": "apaan lagi tuh -_-",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:29:26",
+        "actor": null,
+        "msg": "Siapa yg mau nikah (hai)(tertawa)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:29:44",
+        "actor": null,
+        "msg": "Kuyyy diorder (sini)(line)\n50 \u00a9 = 8K\n100\u00a9 = 16K \n150 \u00a9 = 24K\n200\u00a9 = 32K\nBerlaku kelipatan (ok)\nViapul tsel ..\nFastgift (ok)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:29:45",
+        "actor": null,
+        "msg": "Undangan jan lupa (kopi)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:29:53",
+        "actor": null,
+        "msg": "Sepi kayak hati nya @Cadel ",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:30:04",
+        "actor": null,
+        "msg": "Jan lupa ngundang gw juga(coffee break)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:30:05",
+        "actor": null,
+        "msg": "(2)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:30:05",
+        "actor": null,
+        "msg": "@\u300cI| Wahyu |I\u202e \u300c ",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:30:06",
+        "actor": null,
+        "msg": "(aha)(tertawa)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:30:10",
+        "actor": null,
+        "msg": "(3)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:30:31",
+        "actor": null,
+        "msg": "@Kanna Kamui\ud83d\udca1\ud83c\ude34\ud83d\ude80 kmu tau aja",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:30:43",
+        "actor": null,
+        "msg": "Iy donk",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:30:50",
+        "actor": null,
+        "msg": "Napa jadi ikut ikut minum(claw)(coffee break)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:30:51",
+        "actor": null,
+        "msg": "Mna file FgO nya @ID.\u7d79\u5cf6Septiawan[V1ce]? ",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:31:11",
+        "actor": null,
+        "msg": "@Kanna Kamui\ud83d\udca1\ud83c\ude34\ud83d\ude80 punya kontak a tyas kah",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:31:28",
+        "actor": null,
+        "msg": "Ndak punya",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:31:51",
+        "actor": null,
+        "msg": "Haii :3",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:31:52",
+        "actor": null,
+        "msg": "Bodo ah(coffee break)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:31:54",
+        "actor": null,
+        "msg": "Hmm",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:32:01",
+        "actor": null,
+        "msg": "@Yuiyuyui_ jga",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:32:06",
+        "actor": null,
+        "msg": "Hai jg @Yuiyuyui_ ",
+        "reply": "Hai juga . Apa kabar?"
+    },
+    {
+        "time": "2017-06-30 09:32:08",
+        "actor": null,
+        "msg": "Pinter ah (kopi)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:32:08",
+        "actor": null,
+        "msg": "Bodo",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:32:44",
+        "actor": null,
+        "msg": "Zero kuhh",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:32:53",
+        "actor": null,
+        "msg": "Gw ?",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:33:03",
+        "actor": null,
+        "msg": "Cieeee",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:33:09",
+        "actor": null,
+        "msg": "Perlu gw share muka org nya? ",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:33:36",
+        "actor": null,
+        "msg": "Ayu kuh",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:33:57",
+        "actor": null,
+        "msg": "Kana doi nya info anime ? (syok)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:33:58",
+        "actor": null,
+        "msg": "Dasar bot",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:34:09",
+        "actor": null,
+        "msg": "Njer",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:34:14",
+        "actor": null,
+        "msg": "Cieeee",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:34:23",
+        "actor": null,
+        "msg": "Zero (claw)(tertawa)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:34:30",
+        "actor": null,
+        "msg": "Huhu",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:34:31",
+        "actor": null,
+        "msg": "(pisau)(tertawa)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:34:45",
+        "actor": null,
+        "msg": "W ndak punya doi woy (pistol)(tertawa)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:35:03",
+        "actor": null,
+        "msg": "Mau punya ga",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:35:11",
+        "actor": null,
+        "msg": "up",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:35:15",
+        "actor": null,
+        "msg": "Ndak",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:35:17",
+        "actor": null,
+        "msg": "Nanti ae",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:35:25",
+        "actor": null,
+        "msg": "Nanti",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:35:30",
+        "actor": null,
+        "msg": "Iya si info anime (haha)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:35:56",
+        "actor": null,
+        "msg": "Sepi(coffee break)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:36:03",
+        "actor": null,
+        "msg": "@\ud83c\udf39Serestia\ud83c\udfa8 gmn kabar nya?",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:36:09",
+        "actor": null,
+        "msg": "Baek ato buruk?",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:36:16",
+        "actor": null,
+        "msg": "Baik kok",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:36:18",
+        "actor": null,
+        "msg": "Tumben sepi",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:36:23",
+        "actor": null,
+        "msg": "Kamu sendiri",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:36:24",
+        "actor": null,
+        "msg": "Ooh",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:36:28",
+        "actor": null,
+        "msg": "Buruk ato jelek",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:36:34",
+        "actor": null,
+        "msg": "Baik ",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:36:41",
+        "actor": null,
+        "msg": "Et dah",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:36:43",
+        "actor": null,
+        "msg": "Kan opsi nya cma 2 itu (haha)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:36:49",
+        "actor": null,
+        "msg": "Sama ae ntu mah (kapak)(tertawa)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:36:50",
+        "actor": null,
+        "msg": "Bisik",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:36:54",
+        "actor": null,
+        "msg": "Ndak dua dua nya",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:36:55",
+        "actor": null,
+        "msg": "Bagus deh",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:37:09",
+        "actor": null,
+        "msg": "Bacod(coffee break)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:37:49",
+        "actor": null,
+        "msg": "bs diem gk?!",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:38:13",
+        "actor": null,
+        "msg": "bicik bacod bicik bacod mulu",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:38:21",
+        "actor": null,
+        "msg": "Oke ku diem(coffee break)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:41:36",
+        "actor": null,
+        "msg": "@Kanna Kamui\ud83d\udca1\ud83c\ude34\ud83d\ude80 si itu punya siapa",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:41:58",
+        "actor": null,
+        "msg": "Ndak tao @Cadel ",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:42:05",
+        "actor": null,
+        "msg": "Ahhh~",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:42:06",
+        "actor": null,
+        "msg": "Gw",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:42:09",
+        "actor": null,
+        "msg": "Liatin",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:42:13",
+        "actor": null,
+        "msg": "Hehehehheeeee",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:42:14",
+        "actor": null,
+        "msg": "Punyamu aja @Cadel ",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:42:17",
+        "actor": null,
+        "msg": "Halo",
+        "reply": "Halo juga kak "
+    },
+    {
+        "time": "2017-06-30 09:42:22",
+        "actor": null,
+        "msg": "Tes",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:42:36",
+        "actor": null,
+        "msg": "Bastep",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:43:02",
+        "actor": null,
+        "msg": "^rpc beib",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:43:10",
+        "actor": null,
+        "msg": "Wkwk",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:43:12",
+        "actor": null,
+        "msg": "Sabae",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:43:13",
+        "actor": null,
+        "msg": "@Kanna Kamui\ud83d\udca1\ud83c\ude34\ud83d\ude80 cieee",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:43:13",
+        "actor": null,
+        "msg": "Cieeee",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:43:17",
+        "actor": null,
+        "msg": "Typo",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:43:22",
+        "actor": null,
+        "msg": "Njer",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:43:36",
+        "actor": null,
+        "msg": "(pisau)(marah)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:43:39",
+        "actor": null,
+        "msg": "Selamat siang",
+        "reply": "Ini masih pagi lho kak  \ud83d\ude0c"
+    },
+    {
+        "time": "2017-06-30 09:43:52",
+        "actor": null,
+        "msg": "Eh iya.. ",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:43:59",
+        "actor": null,
+        "msg": "Marahan nie yeee",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:44:17",
+        "actor": null,
+        "msg": "Marahan ama sapa @Cadel ?jawab di pc ae",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:44:32",
+        "actor": null,
+        "msg": "tenggelm pasti (sad)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:45:07",
+        "actor": null,
+        "msg": "Ga pernah tenggelam (slap)(tertawa)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:45:10",
+        "actor": null,
+        "msg": "ada yg lagi dimalang \/ tinggal dimalang??",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:45:23",
+        "actor": null,
+        "msg": "@Kanna Kamui\ud83d\udca1\ud83c\ude34\ud83d\ude80 ku teg sni aja yaaa",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:45:23",
+        "actor": null,
+        "msg": "Halo",
+        "reply": "Halo juga kak "
+    },
+    {
+        "time": "2017-06-30 09:45:28",
+        "actor": null,
+        "msg": "Ohayou",
+        "reply": "Ohayou kak , selamat beraktiftas \ud83d\ude19"
+    },
+    {
+        "time": "2017-06-30 09:45:30",
+        "actor": null,
+        "msg": "Hmm",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:45:32",
+        "actor": null,
+        "msg": "Ealah",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:45:32",
+        "actor": null,
+        "msg": "rinem nya (chinese hand sign)(Forever Alone)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:45:34",
+        "actor": null,
+        "msg": "Woy",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:45:39",
+        "actor": null,
+        "msg": "Jgn @Cadel ",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:45:42",
+        "actor": null,
+        "msg": "Kao dah janji",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:45:48",
+        "actor": null,
+        "msg": "Eh",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:45:54",
+        "actor": null,
+        "msg": "999+ next",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:45:54",
+        "actor": null,
+        "msg": "Nice rename",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:46:23",
+        "actor": null,
+        "msg": "palelu nais",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:47:08",
+        "actor": null,
+        "msg": "Cengeng (duck)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:47:16",
+        "actor": null,
+        "msg": "Nihh permen (lolipop)(duck)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:47:25",
+        "actor": null,
+        "msg": "Kok sepi grup?",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:47:52",
+        "actor": null,
+        "msg": "Ato mau permen yg ini (pegang)(duck)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:48:16",
+        "actor": null,
+        "msg": "itu bkn permen (slap)(Rage Face)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:48:22",
+        "actor": null,
+        "msg": "itu alat perkakas",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:48:50",
+        "actor": null,
+        "msg": "@Kanna Kamui\ud83d\udca1\ud83c\ude34\ud83d\ude80 status mu nyindir aku yaa",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:49:23",
+        "actor": null,
+        "msg": "Nice permen",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:49:26",
+        "actor": null,
+        "msg": "Vangke jaringan",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:49:46",
+        "actor": null,
+        "msg": "Ndak",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:49:55",
+        "actor": null,
+        "msg": "Kn nti status dah lama",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:50:01",
+        "actor": null,
+        "msg": "*u",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:50:41",
+        "actor": null,
+        "msg": " 2 hari yg lalu kan aku nyindir kmu@Kanna Kamui\ud83d\udca1\ud83c\ude34\ud83d\ude80 ",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:51:01",
+        "actor": null,
+        "msg": "Iy kh?",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:51:10",
+        "actor": null,
+        "msg": "Enggak tuh",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:51:12",
+        "actor": null,
+        "msg": "Ya udah",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:51:20",
+        "actor": null,
+        "msg": "Aku nyindir kalian berdua deh",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:51:33",
+        "actor": null,
+        "msg": "Njer",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:51:43",
+        "actor": null,
+        "msg": "(pistol)(tertawa)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:51:55",
+        "actor": null,
+        "msg": "Cieeee",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:52:25",
+        "actor": null,
+        "msg": "Hmm",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:52:59",
+        "actor": null,
+        "msg": "@Kanna Kamui\ud83d\udca1\ud83c\ude34\ud83d\ude80 jgn marahan nanti dia ku spik loh",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:53:26",
+        "actor": null,
+        "msg": "Marahan ama sapa seh?",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:53:34",
+        "actor": null,
+        "msg": "@Cadel jawab di pc",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:54:06",
+        "actor": null,
+        "msg": "Aduh mainnya di pc",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:54:08",
+        "actor": null,
+        "msg": "Hmmm",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:54:13",
+        "actor": null,
+        "msg": "Njer",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:54:16",
+        "actor": null,
+        "msg": "Hmm",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:54:26",
+        "actor": null,
+        "msg": "(pisau)(tertawa)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:54:39",
+        "actor": null,
+        "msg": "@Kanna Kamui\ud83d\udca1\ud83c\ude34\ud83d\ude80 d sni aja ",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:54:51",
+        "actor": null,
+        "msg": "(slap)(haha)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:54:52",
+        "actor": null,
+        "msg": "(kapak)(marah)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:54:56",
+        "actor": null,
+        "msg": "Biar orang a tau",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:55:04",
+        "actor": null,
+        "msg": "(marah)(marah)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:55:10",
+        "actor": null,
+        "msg": "Woy,jgn munafik",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:55:19",
+        "actor": null,
+        "msg": "Janji g boleh di ingkari",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:55:21",
+        "actor": null,
+        "msg": "@Kanna Kamui\ud83d\udca1\ud83c\ude34\ud83d\ude80 ku teg nama a ya ",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:55:32",
+        "actor": null,
+        "msg": "Taolah",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:55:35",
+        "actor": null,
+        "msg": "njir up :v",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:56:01",
+        "actor": null,
+        "msg": "@Kanna Kamui\ud83d\udca1\ud83c\ude34\ud83d\ude80ku blm janji ",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:56:12",
+        "actor": null,
+        "msg": "Udh",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:56:19",
+        "actor": null,
+        "msg": "Walaupun ndak ngucapin",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:56:21",
+        "actor": null,
+        "msg": "Ato ngetik",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:56:23",
+        "actor": null,
+        "msg": "Sama aja",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:57:00",
+        "actor": null,
+        "msg": "hahahaha",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:57:02",
+        "actor": null,
+        "msg": "(Flip Table)(Har Har)",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:57:23",
+        "actor": null,
+        "msg": "@Kanna Kamui\ud83d\udca1\ud83c\ude34\ud83d\ude80 bisa anda ss kn",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:57:45",
+        "actor": null,
+        "msg": "@\ud83d\udd30Agam\ud83d\udd30kata off",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:58:06",
+        "actor": null,
+        "msg": "@Kanna Kamui\ud83d\udca1\ud83c\ude34\ud83d\ude80bercanda kok ",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:59:02",
+        "actor": null,
+        "msg": "@\u202b\u202e\u200f\u300eiapneS  CVIN\u300f @\u202b\u202e\u200f\u300eiapneS  CVIN\u300f @\u202b\u202e\u200f\u300eiapneS  CVIN\u300f @\u202b\u202e\u200f\u300eiapneS  CVIN\u300f ",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:59:22",
+        "actor": null,
+        "msg": "Nah hening",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:59:42",
+        "actor": null,
+        "msg": "Own pertama spa@\u202b\u202e\u200f\u300eiapneS  CVIN\u300f ",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 09:59:47",
+        "actor": null,
+        "msg": "Aku ga di tag ?",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 10:00:20",
+        "actor": null,
+        "msg": "@\ud83c\udf39Serestia\ud83c\udfa8 ",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 10:00:22",
+        "actor": null,
+        "msg": "Dah",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 10:00:32",
+        "actor": null,
+        "msg": "Ada apa ngetag-tag",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 10:00:45",
+        "actor": null,
+        "msg": "Ntah",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 10:00:55",
+        "actor": null,
+        "msg": "Cieee",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 10:01:09",
+        "actor": null,
+        "msg": "Eh eh eh",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 10:01:20",
+        "actor": null,
+        "msg": "Galham",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 10:01:29",
+        "actor": null,
+        "msg": "Cieee",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 10:01:47",
+        "actor": null,
+        "msg": "@Kanna Kamui\ud83d\udca1\ud83c\ude34\ud83d\ude80 tOlong bangunin nah",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 10:02:09",
+        "actor": null,
+        "msg": "http:\/\/line.me\/R\/ti\/g\/fFrJuBTwI8\n\n:v",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 10:02:20",
+        "actor": null,
+        "msg": "Bot",
+        "reply": "Ya, ada apa kak ?"
+    },
+    {
+        "time": "2017-06-30 10:02:29",
+        "actor": null,
+        "msg": ":v",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 10:02:32",
+        "actor": null,
+        "msg": "shexec uptime",
+        "reply": " 10:02:32 up 45 min,  1 user,  load average: 0.21, 0.07, 0.02\n"
+    },
+    {
+        "time": "2017-06-30 10:02:40",
+        "actor": null,
+        "msg": "@Cadel bangunin sapa?",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 10:02:53",
+        "actor": null,
+        "msg": "Nanti gw matiin lu ya bot",
+        "reply": null
+    },
+    {
+        "time": "2017-06-30 10:03:29",
+        "actor": null,
+        "msg": "@\u061f\u1d5cHayati\u035b.l\u035bel\u1dcfa\ud83d\udc3e\nD rata kn kah\u202e ",
+        "reply": null
+    }
+]

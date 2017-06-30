@@ -1,0 +1,2216 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 8898093,
+                        "subject_id": 5,
+                        "user_id": 4174189,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "bahasa inggris mengapa aku begitu menyayangimu adalah<br \/>",
+                        "created": "2016-12-31T18:34:21+07:00",
+                        "responses": 2,
+                        "tickets": 3,
+                        "first_resp": "2016-12-31T18:35:11+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "bahasa <em>inggris<\/em> mengapa <em>aku<\/em> begitu <em>menyayangimu<\/em> adalah",
+                        "snippet_content": "bahasa <em>inggris<\/em> mengapa <em>aku<\/em> begitu <em>menyayangimu<\/em> adalah"
+                    },
+                    "responses": [
+                        {
+                            "id": 10636484,
+                            "user_id": 4335601,
+                            "task_id": 8898093,
+                            "points": 5,
+                            "created": "2016-12-31T18:35:11+07:00",
+                            "content": "why do i love you so much",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 2,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 10636507,
+                            "user_id": 3555082,
+                            "task_id": 8898093,
+                            "points": 5,
+                            "created": "2016-12-31T18:43:35+07:00",
+                            "content": "why do i so love you?<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 5778649,
+                                        "user_id": 4338877,
+                                        "content": "Why i really love you juga bisa",
+                                        "created": "2017-01-01T12:26:16+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 5778797,
+                                        "user_id": 3555082,
+                                        "content": "ya deh",
+                                        "created": "2017-01-01T12:49:57+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 2
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4335601,
+                                "nick": "Clara1111111",
+                                "avatar": null
+                            },
+                            {
+                                "id": 3555082,
+                                "nick": "irdaamanda",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d6e\/cd46a53cfa510eb8abc884bccc5621bb.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 2268264,
+                        "subject_id": 5,
+                        "user_id": 893570,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "weeeeeeeeeeee<br \/><br \/>\napa bahasa inggris y <br \/><br \/>\naku benarr-benar menyayangi mu dengan hati yang begitu tulus <br \/><br \/>\ntolong aq y weh",
+                        "created": "2015-03-11T21:18:52+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2015-03-11T21:19:46+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "weeeeeeeeeeee\napa bahasa <em>inggris<\/em> y \n<em>aku<\/em> benarr-benar <em>menyayangi mu<\/em> dengan hati yang begitu tulus \ntolong aq y weh",
+                        "snippet_content": "weeeeeeeeeeee\napa bahasa <em>inggris<\/em> y \n<em>aku<\/em> benarr-benar <em>menyayangi mu<\/em> dengan hati yang begitu tulus \ntolong aq y weh"
+                    },
+                    "responses": [
+                        {
+                            "id": 2883508,
+                            "user_id": 1173864,
+                            "task_id": 2268264,
+                            "points": 5,
+                            "created": "2015-03-11T21:19:46+07:00",
+                            "content": "I really love you with my heart",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 1838643,
+                                        "user_id": 893570,
+                                        "content": "maksih banyak y udh bantu aq",
+                                        "created": "2015-03-11T21:22:09+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        },
+                        {
+                            "id": 2883511,
+                            "user_id": 465115,
+                            "task_id": 2268264,
+                            "points": 5,
+                            "created": "2015-03-11T21:19:55+07:00",
+                            "content": "I really love you with a heart so sincerely",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1173864,
+                                "nick": "Nasywaazzhra",
+                                "avatar": null
+                            },
+                            {
+                                "id": 465115,
+                                "nick": "andisophi",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/da9\/2e6a0f46649929c11784a7ec2748b434.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 2683299,
+                        "subject_id": 5,
+                        "user_id": 1114576,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Ubahkan ke dalam bahasa inggris \"Maafkan aku,guru favoritku sayang<br \/>\nAku menyayangimu..\"",
+                        "created": "2015-05-14T22:43:56+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2015-05-14T22:45:19+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [
+                                {
+                                    "id": 2177165,
+                                    "user_id": 1227169,
+                                    "content": "I'm sorry,my favourite teacher... I love you",
+                                    "created": "2015-05-14T22:52:27+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                }
+                            ],
+                            "last_id": 0,
+                            "count": 1
+                        },
+                        "highlighted_content": "Ubahkan ke dalam bahasa <em>inggris<\/em> \"Maafkan <em>aku<\/em>,guru favoritku sayang\n<em>Aku<\/em> <em>menyayangimu..<\/em>\"",
+                        "snippet_content": "Ubahkan ke dalam bahasa <em>inggris<\/em> \"Maafkan <em>aku<\/em>,guru favoritku sayang\n<em>Aku<\/em> <em>menyayangimu..<\/em>\""
+                    },
+                    "responses": [
+                        {
+                            "id": 3427970,
+                            "user_id": 1463588,
+                            "task_id": 2683299,
+                            "points": 5,
+                            "created": "2015-05-14T22:45:19+07:00",
+                            "content": "I'm sorry, my favorite teacher. i love you",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2015-06-16T08:54:24+07:00",
+                                "approver": {
+                                    "id": 1183068,
+                                    "nickname": "Zuhh",
+                                    "points": 572395,
+                                    "grade": 3,
+                                    "gender": 1,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/dfc\/b1af72a5843afccba91c78d7ce6d2686.jpg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/d28\/1ef25a39b7a7383cda190250518b945e.jpg"
+                                    },
+                                    "content_approved_count": 38120
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 3427978,
+                            "user_id": 1384935,
+                            "task_id": 2683299,
+                            "points": 5,
+                            "created": "2015-05-14T22:46:28+07:00",
+                            "content": "i'm sorry, my favorite teacher. I love you (dalam artian kegurunya itu) ",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2015-06-16T08:54:26+07:00",
+                                "approver": {
+                                    "id": 1183068,
+                                    "nickname": "Zuhh",
+                                    "points": 572395,
+                                    "grade": 3,
+                                    "gender": 1,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/dfc\/b1af72a5843afccba91c78d7ce6d2686.jpg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/d28\/1ef25a39b7a7383cda190250518b945e.jpg"
+                                    },
+                                    "content_approved_count": 38120
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1463588,
+                                "nick": "xoxoxoxoxoxo",
+                                "avatar": null
+                            },
+                            {
+                                "id": 1384935,
+                                "nick": "ruth1",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 8160951,
+                        "subject_id": 18,
+                        "user_id": 4049755,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "artikan dalam bahasa inggris.maafkan semua kesalahan ku karna aku akan selalu menyayangimu",
+                        "created": "2016-11-01T16:14:20+07:00",
+                        "responses": 3,
+                        "tickets": 3,
+                        "first_resp": "2016-11-01T16:19:41+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "artikan dalam bahasa <em>inggris<\/em>.maafkan semua kesalahan ku karna <em>aku<\/em> akan selalu <em>menyayangimu<\/em>",
+                        "snippet_content": "artikan dalam bahasa <em>inggris<\/em>.maafkan semua kesalahan ku karna <em>aku<\/em> akan selalu <em>menyayangimu<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 9693347,
+                            "user_id": 383977,
+                            "task_id": 8160951,
+                            "points": 5,
+                            "created": "2016-11-01T16:19:41+07:00",
+                            "content": "please forgive all of my mistakes because I will always love you",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 2,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 9695510,
+                            "user_id": 4052971,
+                            "task_id": 8160951,
+                            "points": 5,
+                            "created": "2016-11-01T18:15:14+07:00",
+                            "content": "Dalam bahasa inggris nya, Please forgive all the mistakes I because I will always love you",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 9695524,
+                            "user_id": 4052971,
+                            "task_id": 8160951,
+                            "points": 5,
+                            "created": "2016-11-01T18:15:39+07:00",
+                            "content": "Dalam bahasa inggris nya, Please forgive all the mistakes I because I will always love you",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 383977,
+                                "nick": "aprilkhn",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d60\/77e66523b2103020c627e0721bc6ddea.jpg"
+                            },
+                            {
+                                "id": 4052971,
+                                "nick": "Agungrenaldi34",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dc2\/506cb45bada582ebfaf6058eacbb6798.jpg"
+                            },
+                            {
+                                "id": 4052971,
+                                "nick": "Agungrenaldi34",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dc2\/506cb45bada582ebfaf6058eacbb6798.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 4840671,
+                        "subject_id": 5,
+                        "user_id": 9850,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 99,
+                            "ptsForResp": 50,
+                            "ptsForBest": 25
+                        },
+                        "content": "Tolong terjemahin ke bahasa inggris, yang bener yahhh, jangan pake google translate :')<br \/><br \/>\nDear diary...<br \/><br \/>\nHari ini tepat 654 hari sejak pertama aku mengenalmu.. berawal dari 3 maret 2014, bertemu di social media dan kita tidak memulai perkenalan secara baik baik, aku dan kau sering beradu pendapat. Kita tidak pernah bertemu.. setiap hari kita mengobrol, hingga semua berubah ketika 2 november 2014 kau menginginkan hubungan kita lebih dari sekedar teman, aku bingung, jujur aku sudah menganggapmu seperti kakak ku sendiri. Aku tak tau, aku memblokir semua akun social mediamu, aku tak ingin berkomunikasi lagi denganmu... hingga kau membuatku sadar, mungkin aku dapat menerimamu.. dan ketika kau mulai memanggilku honey, semua terasa aneh... tak seperti dulu, aku adalah adik mu dan kau adalah kakakku, hari demi hari berlalu seperti biasa saja, dan jujur aku menyayangimu.. di hari jadi hubungan kita yang pertama, kaulah yang mengucapkannya tepat pada jam 23:14, waktu yang sama saat kita pertama kali memulai hubungan ini. <br \/>\nmulailah terjadi banyak konflik diantara kita, kau di dropout dari kampusmu.. kau tak pernah bercerita padaku tentang apa masalahmu.. aku marah.. <br \/>\nDan ketika kau mengakui perbuatanmu kalau kau pernah bersetubuh dengan kakak kelas mu saat SMA, aku benci padamu, aku benar benar benci... aku tidak ingin mendengar kejujuranmu itu.. aku tidak butuh.. bagiku,  tidak semua hal kau ceritakan padaku... itu membuatku sakit .. aku ingin mengakhiri hubungan ini.. aku mengakhirinya tanpa persetujuanmu.. aku menghapus semua chat dari mu, memblokir semua akunmu, mengganti no hp ku, dan mencoba untuk bangkit.. aku masih sangat menayangimu hingga sekarang... meskipun kita tak pernah berjumpa hingga kini... 1 tahun bukanlah waktu yang singkat untukku.. umur kita memang terpaut 5 tahun, tapi aku nyaman denganmu... mencoba move on, aku diliputi kesedihan, sering kali aku merasa hp ku berdering dan berharap itu darimu, padahal hp itu sama sekali tak berdering.. aku menangis.. aku marah.. <br \/>\nPikiranku mulai tergerak, aku mulai menjalani hidupku dengan normal, mendengar musik yang ceria, makan coklah yang banyak, dan berbelaja dengan gembira..<br \/><br \/>\nUntuk lelaki yang pernah aku sayangi.. iyaa.. dirimu... ku harap kau bisa lebih baik dari yang dulu..  hingga kinipun masih terbayang jelas dirimu di benakku..  pada diary inilah aku mencurahkan segalanya.... untukmu... belum seorangpun dapat menggantikan mu... aku ingin tau kabarmu, tapi semua telah usai...<br \/>\nHingga kini pun, aku masih sering bersedih ketika mengingat kenangan kita.. kita yang dulu pernah ada, kini hanya aku dan kau, bukan kita.<br \/><br \/>\nTerimakasih untuk segalanya :')<br \/>",
+                        "created": "2016-01-19T19:49:44+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2016-01-19T20:09:32+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Tolong terjemahin ke bahasa <em>inggris<\/em>, yang bener yahhh, jangan pake google translate :')\nDear diary...\nHari ini tepat 654 hari sejak pertama <em>aku<\/em> mengenalmu.. berawal dari 3 maret 2014, bertemu di social media dan kita tidak memulai perkenalan secara baik baik, <em>aku<\/em> dan kau sering beradu pendapat. Kita tidak pernah bertemu.. setiap hari kita mengobrol, hingga semua berubah ketika 2 november 2014 kau menginginkan hubungan kita lebih dari sekedar teman, <em>aku<\/em> bingung, jujur <em>aku<\/em> sudah menganggapmu seperti kakak ku sendiri. <em>Aku<\/em> tak tau, <em>aku<\/em> memblokir semua akun social mediamu, <em>aku<\/em> tak ingin berkomunikasi lagi denganmu... hingga kau membuatku sadar, mungkin <em>aku<\/em> dapat menerimamu.. dan ketika kau mulai memanggilku honey, semua terasa aneh... tak seperti dulu, <em>aku<\/em> adalah adik mu dan kau adalah kakakku, hari demi hari berlalu seperti biasa saja, dan jujur <em>aku<\/em> <em>menyayangimu..<\/em> di hari jadi hubungan kita yang pertama, kaulah yang mengucapkannya tepat pada jam 23:14, waktu yang sama saat kita pertama kali memulai hubungan ini. \nmulailah terjadi banyak konflik diantara kita, kau di dropout dari kampusmu.. kau tak pernah bercerita padaku tentang apa masalahmu.. <em>aku<\/em> marah.. \nDan ketika kau mengakui perbuatanmu kalau kau pernah bersetubuh dengan kakak kelas mu saat SMA, <em>aku<\/em> benci padamu, <em>aku<\/em> benar benar benci... <em>aku<\/em> tidak ingin mendengar kejujuranmu itu.. <em>aku<\/em> tidak butuh.. bagiku,  tidak semua hal kau ceritakan padaku... itu membuatku sakit .. <em>aku<\/em> ingin mengakhiri hubungan ini.. <em>aku<\/em> mengakhirinya tanpa persetujuanmu.. <em>aku<\/em> menghapus semua chat dari mu, memblokir semua akunmu, mengganti no hp ku, dan mencoba untuk bangkit.. <em>aku<\/em> masih sangat menayangimu hingga sekarang... meskipun kita tak pernah berjumpa hingga kini... 1 tahun bukanlah waktu yang singkat untukku.. umur kita memang terpaut 5 tahun, tapi <em>aku<\/em> nyaman denganmu... mencoba move on, <em>aku<\/em> diliputi kesedihan, sering kali <em>aku<\/em> merasa hp ku berdering dan berharap itu darimu, padahal hp itu sama sekali tak berdering.. <em>aku<\/em> menangis.. <em>aku<\/em> marah.. \nPikiranku mulai tergerak, <em>aku<\/em> mulai menjalani hidupku dengan normal, mendengar musik yang ceria, makan coklah yang banyak, dan berbelaja dengan gembira..\nUntuk lelaki yang pernah <em>aku<\/em> sayangi.. iyaa.. dirimu... ku harap kau bisa lebih baik dari yang dulu..  hingga kinipun masih terbayang jelas dirimu di benakku..  pada diary inilah <em>aku<\/em> mencurahkan segalanya.... untukmu... belum seorangpun dapat menggantikan mu... <em>aku<\/em> ingin tau kabarmu, tapi semua telah usai...\nHingga kini pun, <em>aku<\/em> masih sering bersedih ketika mengingat kenangan kita.. kita yang dulu pernah ada, kini hanya <em>aku<\/em> dan kau, bukan kita.\nTerimakasih untuk segalanya :')",
+                        "snippet_content": "adalah kakakku, hari demi hari berlalu seperti biasa saja, dan jujur <em>aku<\/em> <em>menyayangimu..<\/em> di hari jadi hubungan kita yang pertama, kaulah yang"
+                    },
+                    "responses": [
+                        {
+                            "id": 5750011,
+                            "user_id": 1202561,
+                            "task_id": 4840671,
+                            "points": 50,
+                            "created": "2016-01-19T20:09:32+07:00",
+                            "content": "Dear diary<br \/>Today precisely\u00a0654 days since i know you.. starting from 3 March 2014, i met you in social media and we did not start a\u00a0good introduction, me\u00a0and you often argue. We never met .. every day we talked, until all changed when 2 november 2014 you wanted our relationship is more than just friends, I'm confused, to be honest I already think that you are\u00a0my own brother. I do not know, I blocked all off your\u00a0social media accounts, I don't want to communicate again with you ... until you made me realize, maybe I can accept you.. and when did you start calling me honey, everything feels strange ... not like before, I was your brother and you are my sister, day after day passed as usual, and to be honest I love you .. in the day so our first relationship, you're the one who said it exactly at 23:14, the same time when we first start this relationship.<span>\u00a0a lot of conflict started\u00a0between us, you're in dropout of youre college .. you never told me about what's the problem .. I'm angry ..\nAnd when you admit what you did if you ever had sexual relations with your seniors in high school, I hate you, I really hate ... I do not want to hear that your honesty .. I don't need .. to me, not all the things you tell me .. . it makes me sick .. I want to end this relationship to end it without your consent .. I .. I delete all of your chat, block all account, replacing my phone number, and tried to wake up .. I'm still love you\u00a0until now ... even though we never met until now ... one year is not a short time for me .. we are adrift for 5 years, but I'm comfortable with you ... i try to move on, I was overwhelmed with sadness, I often felt my phone rang and hope that from you, but the phone did not ring .. I cried .. I'm angry ..\nMy mind started to tick, I began to live my life normally, listening to cherfull music, eating lot of chocolate, and shoping ..\n\nFor a man I have ever loved .. yess .. you ... I hope you can do better than the first .. until now i still love you.. in this diary I devote everything .... you ... yet no one can replace you ... I want to know you, but all was over ...\nUp to now no, I'm still sad when considering our memories .. we were once there, now just me and you, not us.<br \/><br \/>i hope this help \\(^_^)\/<\/span>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 5750295,
+                            "user_id": 2458084,
+                            "task_id": 4840671,
+                            "points": 50,
+                            "created": "2016-01-19T20:18:15+07:00",
+                            "content": "Dear diary<br \/>Today right from the first 654 days that i know you.. starting from 3 March 2014, we met in social media and we didn't have a good start as introduction, you and me often argue. <br \/>We never met .. every day we talk, until all changed when 2 november 2014 you wanted our relationship is more than just friends, i'm confused, honestly i already think you like my own brother. I don't know, i blocked all your social accounts, i don't want to communicate again with you ... until you made me realize, maybe i can accept ur proposal .. and when did you start calling me honey, strange.. all is not as it used to be, i was your sister and you are my brother, day after day passed as usual, and to be honest I love you.. <br \/>in the day our first relationship, you're the one who said it exactly at 23:14, the same time when we first start this relationship. <br \/>a lot conflict start happening between us, you're dropout from your college.. you never told me about the problem .. I'm mad <br \/>And when you admit what you did, you ever had sexual relations with your seniors in high school, I hate you, I really hate ... I don't want to hear that your honesty.. I don't need.. to me, not all of it you could tell me... <br \/>it makes me sick.. I want to end this relationship.. without your consent.. I delete all of your chat, block all your account, replacing my phone number, and tried to move on.. <br \/>I'm still very love you until now... though we never met until now... one year is not a short time for me.. we have 5 years age different, but i'm comfortable with you.. <br \/>trying to move on, I was overwhelmed with sadness, I often felt my phone rang and expect it from you, but the phone didn't ring .. I cried .. I'm angry <br \/>my mind was beginning to get excited, I began to live my life normally, listening to cheerful music, eating a lot of chocolate, and go to shopping happily.. <br \/>To a man I ever loved.. yes you... I hope you can do better than before.. until now i still have vivid memories about you..  <br \/>in this diary I devote everything.. to you.. yet no one can replace you... I want to know what happen with you, but all over. <br \/>Up to now, I'm still sad when remembering our memories.. we were once there, now just me and you, not us. <br \/><br \/>maaf kalau ada yang salah :)",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1202561,
+                                "nick": "Fagas",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d58\/92a55e1ada37f8cc28ebd8e8316f5d94.jpg"
+                            },
+                            {
+                                "id": 2458084,
+                                "nick": "opukey",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d59\/1e851915061389ce2cf909c178edff12.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10709000,
+                        "subject_id": 5,
+                        "user_id": 5057891,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Tolong jwb dong ! Artikan dalam bahasa inggris ya,,<br \/>\n  Hari yg tak dinantikan pun tiba,kini saat'a kita akan berpisah dan nanti malam hari terakhir kita bertemu di majlis ta'lim daarur rohman .. Ku harap nanti engkau tak akan melupakanku,aku menyayangimu,sahabatku ..<br \/>\n Majlis Ta'lim Daarur Rohman punya cerita ..<br \/><br \/>\n Jawab dong !!!",
+                        "created": "2017-05-18T21:53:27+07:00",
+                        "responses": 2,
+                        "tickets": 3,
+                        "first_resp": "2017-05-18T21:57:24+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "6",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Tolong jwb dong ! Artikan dalam bahasa <em>inggris<\/em> ya,,\n  Hari yg tak dinantikan pun tiba,kini saat'a kita akan berpisah dan nanti malam hari terakhir kita bertemu di majlis ta'lim daarur rohman .. Ku harap nanti engkau tak akan melupakanku,<em>aku<\/em> <em>menyayangimu<\/em>,sahabatku ..\n Majlis Ta'lim Daarur Rohman punya cerita ..\n Jawab dong !!!",
+                        "snippet_content": "ta'lim daarur rohman .. Ku harap nanti engkau tak akan melupakanku,<em>aku<\/em> <em>menyayangimu<\/em>,sahabatku ..\n Majlis Ta'lim Daarur Rohman punya cerita ..\n Jawab"
+                    },
+                    "responses": [
+                        {
+                            "id": 12980883,
+                            "user_id": 4535913,
+                            "task_id": 10709000,
+                            "points": 5,
+                            "created": "2017-05-18T21:57:24+07:00",
+                            "content": "The day that is not waiting for it  to arrive , now when we will be separated and tonight the last day we met in majlis ta'lim daarur rahman ... <br \/>I hope you will not forget me , I love you , my friend...... <br \/>majlis ta'lim daarur rahman has a story ......",
+                            "mark": 2,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 7120616,
+                                        "user_id": 4535913,
+                                        "content": "Hari yang tidak di nantikan  pun tiba, sekarang saat kita akan berpisah dan malam ini di hari terakhir kita bertemu di majelis ta'lim daarur rahman ...<br \/>Saya harap Anda tidak akan melupakan saya, saya mencintaimu, teman saya ......<br \/>Majlis ta'lim daarur rahman punya cerita ......",
+                                        "created": "2017-05-18T21:59:21+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        },
+                        {
+                            "id": 12981119,
+                            "user_id": 4223408,
+                            "task_id": 10709000,
+                            "points": 5,
+                            "created": "2017-05-18T22:07:07+07:00",
+                            "content": "Answer:<br \/><br \/>The day that is not waiting for,it has arrived.    It's time we split up. and  tonight is our last time  meet togather at majlis ta'lim daarur rohman<br \/> . I hope you will never forget me in the future.<br \/>I love you, my friend .. Majlis Ta'lim Daarur Rohman has a story.<br \/><br \/>Thanks",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 7,
+                            "source": "10",
+                            "client_type": "6",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4535913,
+                                "nick": "LIZA0",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d15\/bd613417068075acea51bf8792e09b5d.jpg"
+                            },
+                            {
+                                "id": 4223408,
+                                "nick": "HR212",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d2f\/acc28eea9f22af9eb275f2bc2aa004ad.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 5175359,
+                        "subject_id": 5,
+                        "user_id": 2561738,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Aku sangat mencintai dan menyayangimu.. Aku tak ingin kehilanganmu,kita lewati kerasnya dunia bersama-sama.Jng tinggalkan aku seorang diri,karena aku tak bisa melangkahkan kakiku pada dunia seluas ini sendirian.Kita telah melangkah sejauh ini,kita telah melewati banyak hal,semudah itu mengangkat kedua tangan?        Pleasee transletekan ke inggris",
+                        "created": "2016-02-20T18:51:25+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2016-02-20T18:57:45+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "<em>Aku<\/em> sangat mencintai dan <em>menyayangimu..<\/em> <em>Aku<\/em> tak ingin kehilanganmu,kita lewati kerasnya dunia bersama-sama.Jng tinggalkan <em>aku<\/em> seorang diri,karena <em>aku<\/em> tak bisa melangkahkan kakiku pada dunia seluas ini sendirian.Kita telah melangkah sejauh ini,kita telah melewati banyak hal,semudah itu mengangkat kedua tangan?        Pleasee transletekan ke <em>inggris<\/em>",
+                        "snippet_content": "<em>Aku<\/em> sangat mencintai dan <em>menyayangimu..<\/em> <em>Aku<\/em> tak ingin kehilanganmu,kita lewati kerasnya dunia bersama-sama.Jng tinggalkan <em>aku<\/em> seorang diri,karena <em>aku<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 6121488,
+                            "user_id": 2584166,
+                            "task_id": 5175359,
+                            "points": 5,
+                            "created": "2016-02-20T18:57:45+07:00",
+                            "content": "<span>I love you so much. I don't want to lose you, we pass the rigors of the world together. Don't leave me alone, because I don't could be stepped my foot in this wide world alone. We've come this far, we have been through so much, so easily raise both arms<span>?<\/span><\/span><br \/>",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 3619443,
+                                        "user_id": 2632123,
+                                        "content": "hebat:)\"",
+                                        "created": "2016-02-23T16:56:34+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 3619454,
+                                        "user_id": 2584166,
+                                        "content": "Kenapa? :D",
+                                        "created": "2016-02-23T16:57:50+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 2
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2584166,
+                                "nick": "Cindy0026",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/de7\/02feff48fb6ef742f08f43b5553be908.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 2466793,
+                        "subject_id": 5,
+                        "user_id": 758361,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Apa sih bahasa ingris nya...<br \/>\n\"Walaupun kamu meninggalkan aku aku tetap menyayangi mu... aku sangat-sangat menyayangi mu.. bahkan sangat-sangat merindukan mu\"... contoh doank",
+                        "created": "2015-04-13T15:05:44+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2015-04-13T15:12:22+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [
+                                {
+                                    "id": 2006077,
+                                    "user_id": 1319463,
+                                    "content": "ga tau gua",
+                                    "created": "2015-04-13T15:08:06+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                },
+                                {
+                                    "id": 2006109,
+                                    "user_id": 344511,
+                                    "content": "lagi galau cie :D",
+                                    "created": "2015-04-13T15:12:45+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                }
+                            ],
+                            "last_id": 0,
+                            "count": 2
+                        },
+                        "highlighted_content": "Apa sih bahasa <em>ingris<\/em> nya...\n\"Walaupun kamu meninggalkan <em>aku<\/em> <em>aku<\/em> tetap <em>menyayangi mu<\/em>... <em>aku<\/em> sangat-sangat <em>menyayangi mu<\/em>.. bahkan sangat-sangat merindukan mu\"... contoh doank",
+                        "snippet_content": "Apa sih bahasa <em>ingris<\/em> nya...\n\"Walaupun kamu meninggalkan <em>aku<\/em> <em>aku<\/em> tetap <em>menyayangi mu<\/em>... <em>aku<\/em> sangat-sangat <em>menyayangi mu<\/em>.. bahkan sangat-sangat merindukan"
+                    },
+                    "responses": [
+                        {
+                            "id": 3155593,
+                            "user_id": 344511,
+                            "task_id": 2466793,
+                            "points": 5,
+                            "created": "2015-04-13T15:12:22+07:00",
+                            "content": "Although you left me, but i still love you ... I'm very very fond of you .. even very very miss you \"<br \/><br \/><br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 3155739,
+                            "user_id": 798581,
+                            "task_id": 2466793,
+                            "points": 5,
+                            "created": "2015-04-13T15:33:22+07:00",
+                            "content": "<span>\"Even if you leave me I still love you ... I'm very, very fond of you .. even very-very miss you<span>\"<\/span><\/span><br \/><br \/><br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 344511,
+                                "nick": "minmun",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/df7\/220fb7cbb2bb9772106a658dec9cae08.jpg"
+                            },
+                            {
+                                "id": 798581,
+                                "nick": "crisantya",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d81\/9c287cb463da216d607e368bba317d90.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10608595,
+                        "subject_id": 5,
+                        "user_id": 4271850,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Translate kan ke bahasa inggris.<br \/>Ibuku seseorang yang sangat posesif. Ia bahkan menelfon ku berkali kali saat aku pulang telat. Ia ibu yang sangat perhatian. Ketika aku sakit, ia akan panik. Ia bahkan memberikan perhatian penuh saat aku sakit. Dia juga pandai dalam hal memasak. Masakannya sangat enak menurut ku. Ibuku kadang suka mengatur, tapi itu tidak masalah karna itu bukti dia sayang padaku. Dia akan sangat sedih jika aku tidak menuruti perkataannya. Dia bahkan menangis saat aku tdk mendengar perkataannya. Mungkin itu terlihat buruk, tapi aku sangat\" menyayanginya. Aku tidak bisa bayangkan jika hidup tanpanya. Aku harap aku bisa menjaganya dengan baik.",
+                        "created": "2017-05-11T18:17:00+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2017-05-11T18:21:39+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Translate kan ke bahasa <em>inggris<\/em>.Ibuku seseorang yang sangat posesif. Ia bahkan menelfon ku berkali kali saat <em>aku<\/em> pulang telat. Ia ibu yang sangat perhatian. Ketika <em>aku<\/em> sakit, ia akan panik. Ia bahkan memberikan perhatian penuh saat <em>aku<\/em> sakit. Dia juga pandai dalam hal memasak. Masakannya sangat enak menurut ku. Ibuku kadang suka mengatur, tapi itu tidak masalah karna itu bukti dia sayang padaku. Dia akan sangat sedih jika <em>aku<\/em> tidak menuruti perkataannya. Dia bahkan menangis saat <em>aku<\/em> tdk mendengar perkataannya. Mungkin itu terlihat buruk, tapi <em>aku<\/em> sangat\" <em>menyayanginy<\/em>a. <em>Aku<\/em> tidak bisa bayangkan jika hidup tanpanya. <em>Aku<\/em> harap <em>aku<\/em> bisa menjaganya dengan baik.",
+                        "snippet_content": "<em>aku<\/em> tdk mendengar perkataannya. Mungkin itu terlihat buruk, tapi <em>aku<\/em> sangat\" <em>menyayanginy<\/em>a. <em>Aku<\/em> tidak bisa bayangkan jika hidup tanpanya. <em>Aku<\/em> harap <em>aku<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 12847360,
+                            "user_id": 5019718,
+                            "task_id": 10608595,
+                            "points": 5,
+                            "created": "2017-05-11T18:21:39+07:00",
+                            "content": "My mother is a very possessive person. He even called me many times when I got home late. She was a very considerate mother. When I get sick, he will panic. He even gave my full attention when I was sick. He is also good at cooking. The cuisine is very tasty to me. My mother sometimes likes to organize, but it does not matter because it's proof she loves me. He will be very sad if I do not obey his words. She even cried when I did not hear her words. Maybe it looks bad, but I love it so much I can not imagine if I live without it I wish I could keep it well.<br \/>maaf klo ad yg salah",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 7040004,
+                                        "user_id": 3301604,
+                                        "content": "She, not he",
+                                        "created": "2017-05-11T18:42:39+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        },
+                        {
+                            "id": 12847890,
+                            "user_id": 3301604,
+                            "task_id": 10608595,
+                            "points": 5,
+                            "created": "2017-05-11T18:41:33+07:00",
+                            "content": "My mom is a very possessive person. She even called me several of times when I got home late. She's a very concerned mother. When I was sick, she would be panicked. She even gave me full attention when I was sick. She is also clever at cooking. Her food is very delicious, in my oppinion. My mother were bossy sometimes, but it wouldn't be a problem because it's a proof that she love me. She will be really sad if I didn't listen to her. She even cried if I didn't listen to her words. Maybe it look bad, but I really love her. I can't imagine if I live without her. I hope I can take care of her nicely.<br \/><br \/><br \/><br \/>Buat jwbn terbaik ya<br \/>\u00a0<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5019718,
+                                "nick": "Herryjz",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dd0\/ff4d4ae078108086cd5a90ab7398cd12.jpg"
+                            },
+                            {
+                                "id": 3301604,
+                                "nick": "AmyG",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dc3\/4acc71735754132ff8e57783661f309f.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 9,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 4174189,
+            "nick": "rara672",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 8,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4335601,
+            "nick": "Clara1111111",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 44,
+                "comments": 7
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 3555082,
+            "nick": "irdaamanda",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 45,
+                "answers": 189,
+                "comments": 59
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d0a\/d2407804ffaa7ab39e482fc285918b60.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6e\/cd46a53cfa510eb8abc884bccc5621bb.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d0a\/d2407804ffaa7ab39e482fc285918b60.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6e\/cd46a53cfa510eb8abc884bccc5621bb.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 4338877,
+            "nick": "Novyansa",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 6,
+                "answers": 4,
+                "comments": 2
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d15\/8101322130b225fb5513d5a7ea648a86.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d39\/4b330736359859c3877ccf6c1ccccafb.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d15\/8101322130b225fb5513d5a7ea648a86.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d39\/4b330736359859c3877ccf6c1ccccafb.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 893570,
+            "nick": "fransiskakaban12",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 6,
+                "answers": 10,
+                "comments": 19
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d89\/2da83465a0776907a8856d121bc166fd.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d96\/1c097799e6ae6607580afb45ea5a32c1.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d89\/2da83465a0776907a8856d121bc166fd.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d96\/1c097799e6ae6607580afb45ea5a32c1.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 1173864,
+            "nick": "Nasywaazzhra",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 19,
+                "answers": 26,
+                "comments": 6
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 465115,
+            "nick": "andisophi",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 38,
+                "answers": 95,
+                "comments": 44
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dfa\/8d4f954b14c44afa80123d9fb9bc70dc.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da9\/2e6a0f46649929c11784a7ec2748b434.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dfa\/8d4f954b14c44afa80123d9fb9bc70dc.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da9\/2e6a0f46649929c11784a7ec2748b434.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 1114576,
+            "nick": "Rara777",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 57,
+                "answers": 23,
+                "comments": 1
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d00\/6180c99dbe61001f4a468d9d5317e569.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db0\/923bc9c41362c00a04a24700aa5445c7.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d00\/6180c99dbe61001f4a468d9d5317e569.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db0\/923bc9c41362c00a04a24700aa5445c7.png"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1227169,
+            "nick": "realrara95",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 32,
+                "answers": 7,
+                "comments": 1
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d0c\/e0d06a779f0cbc86c85a73facf2742f5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dad\/ccaa7e02a87c1d5aae21aa09ebd34673.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d0c\/e0d06a779f0cbc86c85a73facf2742f5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dad\/ccaa7e02a87c1d5aae21aa09ebd34673.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1463588,
+            "nick": "xoxoxoxoxoxo",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 4,
+                "comments": 1
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 1384935,
+            "nick": "ruth1",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 35,
+                "comments": 29
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 4049755,
+            "nick": "nasril2",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 383977,
+            "nick": "aprilkhn",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 48,
+                "answers": 126,
+                "comments": 34
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dab\/b3aa97e85830cb5ca34f91ee91aef108.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d60\/77e66523b2103020c627e0721bc6ddea.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dab\/b3aa97e85830cb5ca34f91ee91aef108.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d60\/77e66523b2103020c627e0721bc6ddea.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 4052971,
+            "nick": "Agungrenaldi34",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 2,
+                "comments": 2
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db0\/e34b2bc6d4a7d06088b56bec6caf2b83.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc2\/506cb45bada582ebfaf6058eacbb6798.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db0\/e34b2bc6d4a7d06088b56bec6caf2b83.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc2\/506cb45bada582ebfaf6058eacbb6798.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 9850,
+            "nick": "Dianagatha",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 69,
+                "answers": 382,
+                "comments": 47
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d36\/d333c713f174b6606fdee15e63a53baf.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d28\/d402f2a24e23680a8a96f7b48878610e.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d36\/d333c713f174b6606fdee15e63a53baf.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d28\/d402f2a24e23680a8a96f7b48878610e.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        },
+        {
+            "id": 1202561,
+            "nick": "Fagas",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 14,
+                "answers": 279,
+                "comments": 135
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/ddc\/8ead77bc8bee1cb2ff575d76fd7a01c1.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d58\/92a55e1ada37f8cc28ebd8e8316f5d94.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/ddc\/8ead77bc8bee1cb2ff575d76fd7a01c1.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d58\/92a55e1ada37f8cc28ebd8e8316f5d94.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 2458084,
+            "nick": "opukey",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 70,
+                "comments": 14
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d05\/23b032d96b05d5f2eff886ce3795058f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d59\/1e851915061389ce2cf909c178edff12.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d05\/23b032d96b05d5f2eff886ce3795058f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d59\/1e851915061389ce2cf909c178edff12.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 5057891,
+            "nick": "aifahnurhaqiqi",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 6,
+                "answers": 1,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4535913,
+            "nick": "LIZA0",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 87,
+                "answers": 555,
+                "comments": 702
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d3a\/a03322c46d391a7a40ad3444873396f1.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d15\/bd613417068075acea51bf8792e09b5d.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d3a\/a03322c46d391a7a40ad3444873396f1.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d15\/bd613417068075acea51bf8792e09b5d.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        },
+        {
+            "id": 4223408,
+            "nick": "HR212",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 2463,
+                "comments": 442
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dcc\/800ca30b807b4ca50c79f19cd4f2f94b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d2f\/acc28eea9f22af9eb275f2bc2aa004ad.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dcc\/800ca30b807b4ca50c79f19cd4f2f94b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d2f\/acc28eea9f22af9eb275f2bc2aa004ad.jpg"
+            },
+            "ranks": {
+                "color": "#ffbe32",
+                "names": [
+                    "BrainlyTeacher",
+                    "BrainlyElite",
+                    "Apprentice",
+                    "Spam Fighter ",
+                    "EnglishLiterature-GeoffreyChaucer",
+                    "Jenius"
+                ],
+                "count": 6
+            },
+            "ranks_ids": [
+                91,
+                27,
+                20,
+                17,
+                111,
+                7
+            ]
+        },
+        {
+            "id": 2561738,
+            "nick": "NiLuhTarissaA",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 15,
+                "answers": 117,
+                "comments": 55
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d47\/9144563622bef7dca1146ac00db57a13.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df0\/1e1f795e195f50f34edfda164130d5db.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d47\/9144563622bef7dca1146ac00db57a13.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df0\/1e1f795e195f50f34edfda164130d5db.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 2584166,
+            "nick": "Cindy0026",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 41,
+                "comments": 14
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df3\/a09fb7b730dc33c2eb9684df3e9c35d1.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de7\/02feff48fb6ef742f08f43b5553be908.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df3\/a09fb7b730dc33c2eb9684df3e9c35d1.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de7\/02feff48fb6ef742f08f43b5553be908.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 2632123,
+            "nick": "Refan111",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 22,
+                "answers": 25,
+                "comments": 42
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da1\/d3ba253d8ad071167fa2cf1fe72d3b0a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d66\/bdb610d9905ee61b28aecbca5d22e383.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da1\/d3ba253d8ad071167fa2cf1fe72d3b0a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d66\/bdb610d9905ee61b28aecbca5d22e383.jpg"
+            },
+            "ranks": {
+                "color": "#000000",
+                "names": [],
+                "count": 0
+            },
+            "ranks_ids": null
+        },
+        {
+            "id": 758361,
+            "nick": "cibet",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 15,
+                "comments": 14
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df5\/a9afb00caba5755c44256c89941b728d.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d81\/d5e89c1489dfb178a9f35b9d18cc96f0.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df5\/a9afb00caba5755c44256c89941b728d.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d81\/d5e89c1489dfb178a9f35b9d18cc96f0.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 344511,
+            "nick": "minmun",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 171,
+                "comments": 46
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d77\/ee47bcd6540e67c8b16b622808c1b090.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df7\/220fb7cbb2bb9772106a658dec9cae08.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d77\/ee47bcd6540e67c8b16b622808c1b090.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df7\/220fb7cbb2bb9772106a658dec9cae08.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 1319463,
+            "nick": "Adiva257",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 8,
+                "answers": 8,
+                "comments": 3
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 798581,
+            "nick": "crisantya",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 60,
+                "answers": 252,
+                "comments": 352
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de2\/7ffeb6ee400e82d1b8ec67953f7357ee.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d81\/9c287cb463da216d607e368bba317d90.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de2\/7ffeb6ee400e82d1b8ec67953f7357ee.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d81\/9c287cb463da216d607e368bba317d90.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 4271850,
+            "nick": "sarahn48",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 22,
+                "answers": 10,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d75\/3b37e2bc1849a50c442ae51492a569f1.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/deb\/4f8e5a2e05a7bb783046db3710444f1e.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d75\/3b37e2bc1849a50c442ae51492a569f1.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/deb\/4f8e5a2e05a7bb783046db3710444f1e.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 3301604,
+            "nick": "AmyG",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 25,
+                "comments": 9
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d1e\/08710d81aa348e18529fef48629a371b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc3\/4acc71735754132ff8e57783661f309f.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d1e\/08710d81aa348e18529fef48629a371b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc3\/4acc71735754132ff8e57783661f309f.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 5019718,
+            "nick": "Herryjz",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 154,
+                "comments": 58
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d40\/d7044bae705f403c646920982a036b28.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd0\/ff4d4ae078108086cd5a90ab7398cd12.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d40\/d7044bae705f403c646920982a036b28.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd0\/ff4d4ae078108086cd5a90ab7398cd12.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        }
+    ],
+    "validated": false
+}

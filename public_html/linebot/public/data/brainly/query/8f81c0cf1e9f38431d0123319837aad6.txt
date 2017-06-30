@@ -1,0 +1,3528 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 10288460,
+                        "subject_id": 15,
+                        "user_id": 4899903,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Dalam bahasa jepang ada yg dimaksud \"nekopoi\". Apa itu nekopoi ??",
+                        "created": "2017-04-16T19:29:10+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-04-16T19:54:01+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "6",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Dalam bahasa jepang ada yg dimaksud \"<em>nekopoi<\/em>\". Apa itu <em>nekopoi<\/em> ??",
+                        "snippet_content": "Dalam bahasa jepang ada yg dimaksud \"<em>nekopoi<\/em>\". Apa itu <em>nekopoi<\/em> ??"
+                    },
+                    "responses": [
+                        {
+                            "id": 12412105,
+                            "user_id": 4900060,
+                            "task_id": 10288460,
+                            "points": 5,
+                            "created": "2017-04-16T19:54:01+07:00",
+                            "content": "Neko itu kucing<br \/>Poi itu mirip<br \/>Jadi nekopoi itu Mirip kucing<br \/>",
+                            "mark": 3,
+                            "marks_count": 1,
+                            "thanks": 2,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "6",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2017-04-17T10:51:11+07:00",
+                                "approver": {
+                                    "id": 434311,
+                                    "nickname": "GayuhTR",
+                                    "points": 11464,
+                                    "grade": 2,
+                                    "gender": 1,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/de0\/e1be47c58e66c0f238a2b3c3e96a8621.jpg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/d12\/945103ef0ab3a277e0cf6372014268f2.jpg"
+                                    },
+                                    "content_approved_count": 142
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4900060,
+                                "nick": "EromangaSensei",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dcc\/d64c1269c9bf7c8ba1d506bd796bfd3e.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10794895,
+                        "subject_id": 3,
+                        "user_id": 5088063,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "zaman neozoikum ditandai dengan adanya..",
+                        "created": "2017-05-27T22:18:06+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2017-05-27T22:19:56+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "zaman <em>neozoi<\/em>kum ditandai dengan adanya..",
+                        "snippet_content": "zaman <em>neozoi<\/em>kum ditandai dengan adanya.."
+                    },
+                    "responses": [
+                        {
+                            "id": 13107003,
+                            "user_id": 5089547,
+                            "task_id": 10794895,
+                            "points": 5,
+                            "created": "2017-05-27T22:19:56+07:00",
+                            "content": "Neozoikum merupakan zaman batu muda. Sehingga manusia purba menciptakan alat alat dari batu namun masih sederhana dan kecil",
+                            "mark": 2,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "6",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 13107011,
+                            "user_id": 5016371,
+                            "task_id": 10794895,
+                            "points": 5,
+                            "created": "2017-05-27T22:20:38+07:00",
+                            "content": "kepunahan pada reptil besar,dan munculnya mamalia besar seperti gajah berbulu (mammuthus)",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5089547,
+                                "nick": "Saaiya",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d52\/99e5c1b0106462258aed354c24bc0587.jpg"
+                            },
+                            {
+                                "id": 5016371,
+                                "nick": "Afank1",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d2d\/969233e5dda2dd4f3d1755a3d1cb02cc.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10750255,
+                        "subject_id": 10,
+                        "user_id": 4593329,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Zaman Neozoikum\/kenozoikum ini dibagi menjadi dua,yaitu?",
+                        "created": "2017-05-22T18:00:24+07:00",
+                        "responses": 2,
+                        "tickets": 3,
+                        "first_resp": "2017-05-22T18:03:24+07:00",
+                        "the_best_resp_id": "13039927",
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Zaman <em>Neozoi<\/em>kum\/kenozoikum ini dibagi menjadi dua,yaitu?",
+                        "snippet_content": "Zaman <em>Neozoi<\/em>kum\/kenozoikum ini dibagi menjadi dua,yaitu?"
+                    },
+                    "responses": [
+                        {
+                            "id": 13039927,
+                            "user_id": 688184,
+                            "task_id": 10750255,
+                            "points": 5,
+                            "created": "2017-05-22T18:03:24+07:00",
+                            "content": "1. tersier, dibagi lagi menjadi 5, yaitu: palaeosen, eosen, oligosen, miozen, pilosen<br \/>2. kwartier, dibagi lagi menjadi 2,yaitu: pleistosen dan holosen ^.^",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 13039969,
+                            "user_id": 5053258,
+                            "task_id": 10750255,
+                            "points": 5,
+                            "created": "2017-05-22T18:05:23+07:00",
+                            "content": "Zaman tersier dan zaman kuarter <br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "6",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 688184,
+                                "nick": "uciiicx",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d5d\/3a95fbad5534dddf46c0767b14fcbf8c.jpg"
+                            },
+                            {
+                                "id": 5053258,
+                                "nick": "Jeshika10",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dcd\/d06c0044bda5cd95e9e8a6cf1a1c7fac.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10835620,
+                        "subject_id": 3,
+                        "user_id": 5108714,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "deskripsikan mengenai zaman neozoikum",
+                        "created": "2017-05-31T09:34:35+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2017-05-31T13:19:25+07:00",
+                        "the_best_resp_id": "13163208",
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "deskripsikan mengenai zaman <em>neozoi<\/em>kum",
+                        "snippet_content": "deskripsikan mengenai zaman <em>neozoi<\/em>kum"
+                    },
+                    "responses": [
+                        {
+                            "id": 13163208,
+                            "user_id": 4958369,
+                            "task_id": 10835620,
+                            "points": 5,
+                            "created": "2017-05-31T13:19:25+07:00",
+                            "content": "Zaman nezoikum berlangsung sekitar 60 juta tahun. Zaman nezoikum dibagi menjadi 2<br \/>1.zaman tersier : pada zaman tersier jenis reptil raksasa mulai lenyap <br \/>2.zaman kuarter : zaman kuarter di mulai kira\" semenjak 600.000 thn yg lalu, pda zaman ini mulai ada manusia<br \/><br \/>Maaf klo slh",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 7226031,
+                                        "user_id": 5108714,
+                                        "content": "hya terimakasih kakak",
+                                        "created": "2017-05-31T23:03:11+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 7231072,
+                                        "user_id": 4958369,
+                                        "content": "iyh",
+                                        "created": "2017-06-01T19:05:51+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 2
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4958369,
+                                "nick": "febryana2275",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dd7\/0a6df36b1979c7528719094010a58c5c.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10632388,
+                        "subject_id": 10,
+                        "user_id": 4513253,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Apa pengertian zaman neozoikum\/kenozoikum? ",
+                        "created": "2017-05-13T18:28:04+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2017-05-13T18:29:56+07:00",
+                        "the_best_resp_id": "12879693",
+                        "source": "10",
+                        "client_type": "6",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Apa pengertian zaman <em>neozoi<\/em>kum\/kenozoikum? ",
+                        "snippet_content": "Apa pengertian zaman <em>neozoi<\/em>kum\/kenozoikum? "
+                    },
+                    "responses": [
+                        {
+                            "id": 12879683,
+                            "user_id": 5015909,
+                            "task_id": 10632388,
+                            "points": 5,
+                            "created": "2017-05-13T18:29:56+07:00",
+                            "content": "zaman neozoikum adalah zaman bumi baru (bumi sudah terbentuk seluruhnya), zaman ini berlangsung sekitar 65 juta tahun yang lalu.\u00a0<br \/>Semoga Membantu :)",
+                            "mark": 2,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2017-05-13T21:01:32+07:00",
+                                "approver": {
+                                    "id": 769860,
+                                    "nickname": "FinandaAzzahra",
+                                    "points": 229259,
+                                    "grade": 3,
+                                    "gender": 1,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/d0c\/6ee04d2ff577ac4bf43151589bf9b495.jpg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/d97\/12b9ab0379cd174d2da341b2a25835ee.jpg"
+                                    },
+                                    "content_approved_count": 15368
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 12879693,
+                            "user_id": 3876502,
+                            "task_id": 10632388,
+                            "points": 5,
+                            "created": "2017-05-13T18:31:06+07:00",
+                            "content": "Zaman Neozoikum\/Kenozoikum adalah zaman yg disebut dengan zaman baru. Periode ini terjadi sekira 60 juta tahun yg lalu. Zaman Neozoikum dibagi menjadi 2, yaitu zaman tersier dan zaman kuater.<br \/><br \/>Semoga membantu",
+                            "mark": 3,
+                            "marks_count": 2,
+                            "thanks": 2,
+                            "user_best_rank_id": 7,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2017-05-13T21:01:21+07:00",
+                                "approver": {
+                                    "id": 769860,
+                                    "nickname": "FinandaAzzahra",
+                                    "points": 229259,
+                                    "grade": 3,
+                                    "gender": 1,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/d0c\/6ee04d2ff577ac4bf43151589bf9b495.jpg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/d97\/12b9ab0379cd174d2da341b2a25835ee.jpg"
+                                    },
+                                    "content_approved_count": 15368
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5015909,
+                                "nick": "AisyahNurAfifah2803",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/de1\/999e00df7cb8610902688f4270f41efa.jpg"
+                            },
+                            {
+                                "id": 3876502,
+                                "nick": "kiki877",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d8b\/6ef8b4353ba70bf72c92de230eff90c8.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10736175,
+                        "subject_id": 10,
+                        "user_id": 5070151,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "sebutkan ciri ciri zaman nesozoikum",
+                        "created": "2017-05-21T18:08:48+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-05-21T18:18:01+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "sebutkan ciri ciri zaman <em>nesozoi<\/em>kum",
+                        "snippet_content": "sebutkan ciri ciri zaman <em>nesozoi<\/em>kum"
+                    },
+                    "responses": [
+                        {
+                            "id": 13022146,
+                            "user_id": 5056343,
+                            "task_id": 10736175,
+                            "points": 5,
+                            "created": "2017-05-21T18:18:01+07:00",
+                            "content": "ciri ciri zaman nesozoikum<br \/>1.merupakan puncak dari hewan mamalia<br \/>2.hewan reptil telah punah<br \/>3.berlangsung sekitar 60jt tahun\u00a0",
+                            "mark": 3,
+                            "marks_count": 2,
+                            "thanks": 0,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2017-05-24T17:56:50+07:00",
+                                "approver": {
+                                    "id": 2725586,
+                                    "nickname": "ayaalifia",
+                                    "points": 189144,
+                                    "grade": 1,
+                                    "gender": 1,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/df5\/934f4f71aea915b12deb300fec86eb7c.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/dc9\/e57ccf691d07299935385633d4fd27a2.png"
+                                    },
+                                    "content_approved_count": 17476
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5056343,
+                                "nick": "faizahfarhzira",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/ddf\/f72d4ea4bf84dfefa54af8ff229e8ea0.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10897882,
+                        "subject_id": 10,
+                        "user_id": 5136450,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 14,
+                            "ptsForResp": 7,
+                            "ptsForBest": 4
+                        },
+                        "content": "ciri-ciri zaman paleozoikum,mesozoikum dan neozoikum",
+                        "created": "2017-06-06T17:19:40+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-06-06T18:41:09+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "ciri-ciri zaman paleozoikum,mesozoikum dan <em>neozoi<\/em>kum",
+                        "snippet_content": "ciri-ciri zaman paleozoikum,mesozoikum dan <em>neozoi<\/em>kum"
+                    },
+                    "responses": [
+                        {
+                            "id": 13246145,
+                            "user_id": 1484096,
+                            "task_id": 10897882,
+                            "points": 7,
+                            "created": "2017-06-06T18:41:09+07:00",
+                            "content": "Azoikum = Belum ada kehidupan, bumi masih berupa meteor yang panas<br \/>Paleozoikum = Bumi mulai dingin dan terbentuk kutub, pada zaman ini mulai hidup makhluk hidup bersel satu<br \/>mesozoikum = makhluk bersel satu mulai berevolusi membentuk reptil besar (dinosaurus)<br \/>neozoikum=<br \/>-tersier = banyak hidup mamalia berekor panjang (kera)<br \/>quartener = mulai hidup manusia<br \/><br \/>maaf kalau salah, kira2 seperti itu yg saya ingat. click terimakasih ya",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1484096,
+                                "nick": "ilfanrizaldi",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d8e\/a6684135aef1aee0e3973e429c53b424.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 3839255,
+                        "subject_id": 10,
+                        "user_id": 2030764,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "apa yang dimaksud zaman mesozoikum dan zaman neozoikum?",
+                        "created": "2015-10-10T18:16:25+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-05-14T08:38:23+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "apa yang dimaksud zaman mesozoikum dan zaman <em>neozoi<\/em>kum?",
+                        "snippet_content": "apa yang dimaksud zaman mesozoikum dan zaman <em>neozoi<\/em>kum?"
+                    },
+                    "responses": [
+                        {
+                            "id": 12884934,
+                            "user_id": 4381248,
+                            "task_id": 3839255,
+                            "points": 5,
+                            "created": "2017-05-14T08:38:23+07:00",
+                            "content": "Zaman Mesozoikum : zamanketika permukaan bumi sudah di tumbuhi oleh tanaman2. (mulai ada hutan)<br \/>Suhu stabil\u00a0<br \/>di zaman ini hidup Dinosaurus dan kerabat2nya, mamalia besar, primata dan burung\u00a0<br \/><br \/>Zaman Neozoikum \u00a0: kira2 60 juta tahun yang lalu. Merupakan zaman tonggak kehidupan manusia.\u00a0<br \/>Suhu dan kehidupan mulai stabil.\u00a0<br \/>DInosaurus punah\u00a0<br \/>Bumi mengalami bencana besar (Armagedon). Ada hujan meteor, gempa, tsunami karena lempeng2 bumi bergerak.\u00a0<br \/><br \/>Zaman Neo dibagi dua yaitu Tersier dan Kuarter. Kuarter itu zaman es. Di Zaman Kuarter di bagi dua lagi yaitu Pleistosen (aluvium) di mana di sini awal kehidupan manusia purba kala, dan zaman Holosein dimana muncul Homo Sapien.\u00a0",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4381248,
+                                "nick": "frazaa",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/da5\/edba6775f661e58cff4eda65a3b73d16.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10820178,
+                        "subject_id": 3,
+                        "user_id": 5102822,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Jelaskan apa yang di maksud masa mesozoikum dan masa neozoikum",
+                        "created": "2017-05-30T06:10:10+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2017-06-19T23:22:12+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Jelaskan apa yang di maksud masa mesozoikum dan masa <em>neozoi<\/em>kum",
+                        "snippet_content": "Jelaskan apa yang di maksud masa mesozoikum dan masa <em>neozoi<\/em>kum"
+                    },
+                    "responses": [
+                        {
+                            "id": 13322874,
+                            "user_id": 4872287,
+                            "task_id": 10820178,
+                            "points": 5,
+                            "created": "2017-06-19T23:22:12+07:00",
+                            "content": "mezozoikum<br \/>adalah zaman batu tengah <br \/>ciri ciri : peralatannya dari batu yang agak di haluskan<br \/>hasil budaya :kapak sumatra \/pabble<br \/>manusia pendukung :megantropus paleojavanicus , homo wajerkensis , dll<br \/><br \/>neolitikum<br \/>zaman batu muda <br \/>ciri ciri :peralatannya sudah di haluskan<br \/>hasil budaya : kapak lonjong dan kapak beliung persegi <br \/>manusia pendukung :homo sapiens ,dll<br \/><br \/>maaf kalau salah..",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 2,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2017-06-20T06:49:13+07:00",
+                                "approver": {
+                                    "id": 3173028,
+                                    "nickname": "ErikCatosLawijaya",
+                                    "points": 107855,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/d6f\/0c669beb3be55ffa166a22e717d407d0.jpg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/d5a\/b725f45b39e03a3446027f81dc939b7f.jpg"
+                                    },
+                                    "content_approved_count": 3380
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 13323251,
+                            "user_id": 4539106,
+                            "task_id": 10820178,
+                            "points": 5,
+                            "created": "2017-06-20T06:19:55+07:00",
+                            "content": "MESOZOIKUM<br \/><br \/>Mesozoikum merupakan zaman purba tengah atau zaman sekunder.<br \/>Ciri-ciri:<br \/>\u2022 mamalia, amphibi, aves, dan tumbuhan berbunga mulai ada<br \/>\u2022 lamanya 140 juta tahun<br \/> \u2022 muncul reptil besar yakni dinosaurus<br \/><br \/>NEOZOIKUM<br \/><br \/>Neozoikum merupakan zaman purba baru yang dimuai sejak 60 juta tahun yang lalu.<br \/>Neozoikum menjadi 2 yaitu:<br \/>1. Zaman tersier<br \/>2. Zaman kuartener<br \/>\u2022 pleistosen atau dilivium (mulai muncul manusia kera)<br \/>\u2022 holosen atau aluvium (mulai muncul Homo sapiens).<br \/><br \/><br \/>",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 7,
+                            "source": "10",
+                            "client_type": "6",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2017-06-20T06:48:50+07:00",
+                                "approver": {
+                                    "id": 3173028,
+                                    "nickname": "ErikCatosLawijaya",
+                                    "points": 107855,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/d6f\/0c669beb3be55ffa166a22e717d407d0.jpg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/d5a\/b725f45b39e03a3446027f81dc939b7f.jpg"
+                                    },
+                                    "content_approved_count": 3380
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4872287,
+                                "nick": "gadhaa1",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d0d\/4d20b6cbbf21ed574dbf7fdc101776a9.jpg"
+                            },
+                            {
+                                "id": 4539106,
+                                "nick": "samehadatoel20",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d6c\/2f06bbe88fc88cc8d4a62fff28958a9b.jpeg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10694573,
+                        "subject_id": 10,
+                        "user_id": 5053693,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "pembagian zaman prasejarah di Indonesia menjadi zaman arkaekum paleozoikum mesozoikum dan Neozoikum didasarkan pada",
+                        "created": "2017-05-17T22:50:25+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2017-05-17T22:53:12+07:00",
+                        "the_best_resp_id": "12961254",
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "pembagian zaman prasejarah di Indonesia menjadi zaman arkaekum paleozoikum mesozoikum dan <em>Neozoi<\/em>kum didasarkan pada",
+                        "snippet_content": "pembagian zaman prasejarah di Indonesia menjadi zaman arkaekum paleozoikum mesozoikum dan <em>Neozoi<\/em>kum didasarkan pada"
+                    },
+                    "responses": [
+                        {
+                            "id": 12961250,
+                            "user_id": 5054137,
+                            "task_id": 10694573,
+                            "points": 5,
+                            "created": "2017-05-17T22:53:12+07:00",
+                            "content": "periodesasi secara geologi",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 12961254,
+                            "user_id": 4990021,
+                            "task_id": 10694573,
+                            "points": 5,
+                            "created": "2017-05-17T22:53:30+07:00",
+                            "content": "didasarkan pada senjata yg manusia purba saat itu pakai untuk kegiatan sehari hari, contohnya neozoikum yaitu pada zaman itu manusia purba menggunakan senjata batu dengan teknologi yg sudah cukup modern daripada senjata sebelumnya.",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5054137,
+                                "nick": "mdepay51",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/de5\/994e4993fbab054163eec53ca020e174.jpg"
+                            },
+                            {
+                                "id": 4990021,
+                                "nick": "AmjadDaLopez",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dfe\/85bf5caa69814ea896aa7aba9b6f9eec.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10614180,
+                        "subject_id": 10,
+                        "user_id": 5024779,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "2. berdasar pembabakan zaman pra aksara , tanda tanda kehidupan dimulai pada zaman...<br \/>a.arkaikum<br \/>b.neozoikun<br \/>c.palaeozoikum<br \/>d.mesozoikun<br \/><br \/>3. fosil manusia pra aksara yg ditemukan di desa sangiran, sebelah utara surakarta, pd thn 1941 adlh...<br \/>a.homo sapiens<br \/>b.homo soloensis<br \/>c.meganthropus paloeojavanicus<br \/>d.pithecanthropus mojokertensis<br \/><br \/>4.menurut ahli paleoantropologi Indonesia yaitu Teuku Jacob fosil manusia pra aksara yang merupakan keturunan langsung Pithecanthropus erectus adalah...<br \/>a. .meganthropus paloeojavanicus<br \/>b.homo wajakensis<br \/>c.homo sapiens<br \/>d.homo soloensis<br \/><br \/>5. menurut kern, bahasa Melayu yang berkembang di Nusantara serumpun dengan bahasa yang ada di Kamboja. hal ini menunjukkan bahwa penduduk Nusantara mungkin berasal dari....<br \/>a. afrika<br \/>b.yunan<br \/>c.australia<br \/>d.papua nugini<br \/><br \/>pliss dong jawab!",
+                        "created": "2017-05-11T21:55:51+07:00",
+                        "responses": 1,
+                        "tickets": 3,
+                        "first_resp": "2017-05-12T04:43:27+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "2. berdasar pembabakan zaman pra aksara , tanda tanda kehidupan dimulai pada zaman...a.arkaikumb.<em>neozoi<\/em>kunc.palaeozoikumd.mesozoikun3. fosil manusia pra aksara yg ditemukan di desa sangiran, sebelah utara surakarta, pd thn 1941 adlh...a.homo sapiensb.homo soloensisc.meganthropus paloeojavanicusd.pithecanthropus mojokertensis4.menurut ahli paleoantropologi Indonesia yaitu Teuku Jacob fosil manusia pra aksara yang merupakan keturunan langsung Pithecanthropus erectus adalah...a. .meganthropus paloeojavanicusb.homo wajakensisc.homo sapiensd.homo soloensis5. menurut kern, bahasa Melayu yang berkembang di Nusantara serumpun dengan bahasa yang ada di Kamboja. hal ini menunjukkan bahwa penduduk Nusantara mungkin berasal dari....a. afrikab.yunanc.australiad.papua nuginipliss dong jawab!",
+                        "snippet_content": "2. berdasar pembabakan zaman pra aksara , tanda tanda kehidupan dimulai pada zaman...a.arkaikumb.<em>neozoi<\/em>kunc.palaeozoikumd.mesozoikun3. fosil manusia pra aksara yg"
+                    },
+                    "responses": [
+                        {
+                            "id": 12856355,
+                            "user_id": 5013191,
+                            "task_id": 10614180,
+                            "points": 5,
+                            "created": "2017-05-12T04:43:27+07:00",
+                            "content": "no2b. dan 5 a. maaf ya cuma itu yang saya tahu.",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5013191,
+                                "nick": "adila62",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d00\/282076f36abd103752a373a0ff579ee3.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10588514,
+                        "subject_id": 10,
+                        "user_id": 4494347,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "1. Menurut ilmu geologi zaman dimana belum ada kehidupan disebut zaman........<br \/>2. Zaman Neozoikum terbagi atas....... zaman , yaitu zaman .......<br \/>3. Zaman kuarter terbagi atas....... Zaman, yaitu zaman .......",
+                        "created": "2017-05-09T20:08:09+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2017-05-09T20:12:14+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "1. Menurut ilmu geologi zaman dimana belum ada kehidupan disebut zaman........2. Zaman <em>Neozoi<\/em>kum terbagi atas....... zaman , yaitu zaman .......3. Zaman kuarter terbagi atas....... Zaman, yaitu zaman .......",
+                        "snippet_content": "1. Menurut ilmu geologi zaman dimana belum ada kehidupan disebut zaman........2. Zaman <em>Neozoi<\/em>kum terbagi atas....... zaman , yaitu zaman .......3. Zaman kuarter"
+                    },
+                    "responses": [
+                        {
+                            "id": 12817962,
+                            "user_id": 4629074,
+                            "task_id": 10588514,
+                            "points": 5,
+                            "created": "2017-05-09T20:12:14+07:00",
+                            "content": "1. Arkaikum<br \/>2. 2,yaitu tertier dan kuartier<br \/>Maaf No.3 gk tau<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "6",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 12818053,
+                            "user_id": 5004631,
+                            "task_id": 10588514,
+                            "points": 5,
+                            "created": "2017-05-09T20:14:10+07:00",
+                            "content": "1.arkaikum<br \/>2. 2 jaman yaitu tertier dan quartier",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "6",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4629074,
+                                "nick": "Anisyaharani",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/da0\/eafac6f403b840ddd6a0b621e6e3b388.jpg"
+                            },
+                            {
+                                "id": 5004631,
+                                "nick": "Tharis02",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dc9\/8d4cf8f6ac9af9100c8be8ac9e0fc7b7.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10613917,
+                        "subject_id": 10,
+                        "user_id": 5024779,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "zaman pra aksara yang berlangsung sekitar 140 juta thn yang lalu adlh....<br \/>a. arkaikum<br \/>b. neozoikum<br \/>c. mesozoikum<br \/>d. palaeozoikum",
+                        "created": "2017-05-11T21:39:21+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2017-05-11T21:40:15+07:00",
+                        "the_best_resp_id": "12853899",
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "zaman pra aksara yang berlangsung sekitar 140 juta thn yang lalu adlh....a. arkaikumb. <em>neozoi<\/em>kumc. mesozoikumd. palaeozoikum",
+                        "snippet_content": "zaman pra aksara yang berlangsung sekitar 140 juta thn yang lalu adlh....a. arkaikumb. <em>neozoi<\/em>kumc. mesozoikumd. palaeozoikum"
+                    },
+                    "responses": [
+                        {
+                            "id": 12853854,
+                            "user_id": 2084179,
+                            "task_id": 10613917,
+                            "points": 5,
+                            "created": "2017-05-11T21:40:15+07:00",
+                            "content": "C. mesozoikum <br \/><br \/>semoga membantu :)",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 2,
+                            "user_best_rank_id": 7,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 12853899,
+                            "user_id": 5021968,
+                            "task_id": 10613917,
+                            "points": 5,
+                            "created": "2017-05-11T21:42:03+07:00",
+                            "content": "c. zaman mesozoikum 140 tahun yg lalu",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 2,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2084179,
+                                "nick": "Riskafrebianti",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d09\/01302453ebcf79723a7cdbe172192aab.jpg"
+                            },
+                            {
+                                "id": 5021968,
+                                "nick": "cindyseptiani3",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d0a\/3a6059ddd4ab0ac0d1a163cf8ceb30a8.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10866487,
+                        "subject_id": 10,
+                        "user_id": 5122955,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Dinosaurus muncul pertama kali pada zaman....<br \/>\na. Zaman Mesozoikum<br \/>\nb. Zaman arkaikum<br \/>\nc. Zaman palaeozoikum<br \/>\nd. Zaman neozoikum",
+                        "created": "2017-06-03T15:04:46+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-06-03T15:05:24+07:00",
+                        "the_best_resp_id": "13203960",
+                        "source": "10",
+                        "client_type": "6",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Dinosaurus muncul pertama kali pada zaman....\na. Zaman Mesozoikum\nb. Zaman arkaikum\nc. Zaman palaeozoikum\nd. Zaman <em>neozoi<\/em>kum",
+                        "snippet_content": "Dinosaurus muncul pertama kali pada zaman....\na. Zaman Mesozoikum\nb. Zaman arkaikum\nc. Zaman palaeozoikum\nd. Zaman <em>neozoi<\/em>kum"
+                    },
+                    "responses": [
+                        {
+                            "id": 13203960,
+                            "user_id": 2440930,
+                            "task_id": 10866487,
+                            "points": 5,
+                            "created": "2017-06-03T15:05:24+07:00",
+                            "content": "A.Zaman Mesozoikum (Zaman Reptil)<br \/>Semoga membantu^-^",
+                            "mark": 5,
+                            "marks_count": 3,
+                            "thanks": 2,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "6",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2017-06-10T12:02:11+07:00",
+                                "approver": {
+                                    "id": 2725586,
+                                    "nickname": "ayaalifia",
+                                    "points": 189144,
+                                    "grade": 1,
+                                    "gender": 1,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/df5\/934f4f71aea915b12deb300fec86eb7c.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/dc9\/e57ccf691d07299935385633d4fd27a2.png"
+                                    },
+                                    "content_approved_count": 17476
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2440930,
+                                "nick": "Farikha25",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d58\/b055af3bde77b872e004beaa4ca86197.png"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10888908,
+                        "subject_id": 3,
+                        "user_id": 5131587,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Zaman yang berdasarkan atas bahan-bahan berupa peninggalan hasil kebudayaan. Pengertian dari...<br \/>\na. Zaman prasejarah<br \/>\nb. Zaman mesozoikum<br \/>\nc. Zaman Neozoikum<br \/>\nd. Zaman arkeologi<br \/>\ne. Zaman sejarah",
+                        "created": "2017-06-05T20:36:50+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2017-06-05T20:37:35+07:00",
+                        "the_best_resp_id": "13234471",
+                        "source": "10",
+                        "client_type": "6",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Zaman yang berdasarkan atas bahan-bahan berupa peninggalan hasil kebudayaan. Pengertian dari...\na. Zaman prasejarah\nb. Zaman mesozoikum\nc. Zaman <em>Neozoi<\/em>kum\nd. Zaman arkeologi\ne. Zaman sejarah",
+                        "snippet_content": "Zaman yang berdasarkan atas bahan-bahan berupa peninggalan hasil kebudayaan. Pengertian dari...\na. Zaman prasejarah\nb. Zaman mesozoikum\nc. Zaman <em>Neozoi<\/em>kum\nd"
+                    },
+                    "responses": [
+                        {
+                            "id": 13234471,
+                            "user_id": 5130604,
+                            "task_id": 10888908,
+                            "points": 5,
+                            "created": "2017-06-05T20:37:35+07:00",
+                            "content": "A.Zaman Prasejarah Semoga Membantu",
+                            "mark": 3,
+                            "marks_count": 2,
+                            "thanks": 1,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "6",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 7260421,
+                                        "user_id": 5131708,
+                                        "content": "A.zaman prasejarah",
+                                        "created": "2017-06-05T20:38:32+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        },
+                        {
+                            "id": 13234478,
+                            "user_id": 5127545,
+                            "task_id": 10888908,
+                            "points": 5,
+                            "created": "2017-06-05T20:37:47+07:00",
+                            "content": "d zaman arkeologi kayaknya :v",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5130604,
+                                "nick": "umar2016",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d1b\/e721c55a04f8ebfbd629913761aca5b9.png"
+                            },
+                            {
+                                "id": 5127545,
+                                "nick": "Abdulasad",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d64\/b3465af08e7d7459f4747ca1cf0801a3.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10709104,
+                        "subject_id": 10,
+                        "user_id": 4652977,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "1).zaman ketika bumi masih panas. <br \/>2).dibagi menjadi dua zaman, yaitu archaikum dan pracambrikum<br \/>3).periode ini berlangsung sekira 2.500 juta tahun yg lalu. <br \/><br \/>keterangan di atas menunjukan ciri ciri zaman... <br \/><br \/>A. azoikum<br \/>B. palezoikum<br \/>C. mesozoikum<br \/>D. neozoikum",
+                        "created": "2017-05-18T22:00:41+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-05-18T22:01:28+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "1).zaman ketika bumi masih panas. 2).dibagi menjadi dua zaman, yaitu archaikum dan pracambrikum3).periode ini berlangsung sekira 2.500 juta tahun yg lalu. keterangan di atas menunjukan ciri ciri zaman... A. azoikumB. palezoikumC. mesozoikumD. <em>neozoi<\/em>kum",
+                        "snippet_content": "periode ini berlangsung sekira 2.500 juta tahun yg lalu. keterangan di atas menunjukan ciri ciri zaman... A. azoikumB. palezoikumC. mesozoikumD. <em>neozoi<\/em>kum"
+                    },
+                    "responses": [
+                        {
+                            "id": 12980975,
+                            "user_id": 5028434,
+                            "task_id": 10709104,
+                            "points": 5,
+                            "created": "2017-05-18T22:01:28+07:00",
+                            "content": "B. palezoikum<br \/>#maaf kalo salah",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5028434,
+                                "nick": "jemima4",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d11\/154179fdd28f016ab9bcebeb05110bd0.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10838658,
+                        "subject_id": 10,
+                        "user_id": 5105534,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "1)  perhatikan keterangan berikut !<br \/> 1) Zaman ketika bumi masih     sangat panas <br \/>2) Dibagi Menjadi dua Zaman, yaitu archaikum dan pracambium<br \/>3) periode ini berlangsung sekitar 2.500 juta tahun yang lalu <br \/><br \/>keterangan di atas menunjukan ciri-ciri zaman..<br \/>a) Azoikum          c) Paleozoikum<br \/>b) Mesozoikum   d) Neozoikum<br \/><br \/><br \/>2) Salah satu karakteristik zaman mezolitikum adalah <br \/>a) sudah mengenal becocok tanam<br \/>b) Menggunakan peralatan logam<br \/>c) Mampu membuat tembikar<br \/>d) Mulai hidup menetap<br \/><br \/>3) Jika persediaan makanan menipis tindakan masyarakat pada masa berburu dan mengumpulkan makanan..<br \/>a) mencari tempat baru<br \/>b) memeliara binatang ternak <br \/>c) menanam jenis tanaman baru<br \/>d) membuka hutan sebagai lahan baru <br \/><br \/>4) secara geologi, periodisasi masa praksara dibagi berdasarkan arkeologis. dasar periodisasi masa praaksara secara arkeologis adalah..<br \/>a) Lapisan hasil tanah penggalian<br \/>b) hasil budaya manusia purba <br \/>c) volume otak manusia purba<br \/>d) daerah penemuan artefak ",
+                        "created": "2017-05-31T17:15:16+07:00",
+                        "responses": 2,
+                        "tickets": 3,
+                        "first_resp": "2017-05-31T17:19:23+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "1)  perhatikan keterangan berikut ! 1) Zaman ketika bumi masih     sangat panas 2) Dibagi Menjadi dua Zaman, yaitu archaikum dan pracambium3) periode ini berlangsung sekitar 2.500 juta tahun yang lalu keterangan di atas menunjukan ciri-ciri zaman..a) Azoikum          c) Paleozoikumb) Mesozoikum   d) <em>Neozoi<\/em>kum2) Salah satu karakteristik zaman mezolitikum adalah a) sudah mengenal becocok tanamb) Menggunakan peralatan logamc) Mampu membuat tembikard) Mulai hidup menetap3) Jika persediaan makanan menipis tindakan masyarakat pada masa berburu dan mengumpulkan makanan..a) mencari tempat barub) memeliara binatang ternak c) menanam jenis tanaman barud) membuka hutan sebagai lahan baru 4) secara geologi, periodisasi masa praksara dibagi berdasarkan arkeologis. dasar periodisasi masa praaksara secara arkeologis adalah..a) Lapisan hasil tanah penggalianb) hasil budaya manusia purba c) volume otak manusia purbad) daerah penemuan artefak ",
+                        "snippet_content": "atas menunjukan ciri-ciri zaman..a) Azoikum          c) Paleozoikumb) Mesozoikum   d) <em>Neozoi<\/em>kum2) Salah satu karakteristik zaman mezolitikum adalah a) sudah mengenal becocok"
+                    },
+                    "responses": [
+                        {
+                            "id": 13166247,
+                            "user_id": 5110355,
+                            "task_id": 10838658,
+                            "points": 5,
+                            "created": "2017-05-31T17:19:23+07:00",
+                            "content": "3. A<br \/>4. C<br \/><br \/>itu saja yang bisa saya bantu, selebihnya googling sendiri<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 13166261,
+                            "user_id": 5028493,
+                            "task_id": 10838658,
+                            "points": 5,
+                            "created": "2017-05-31T17:20:52+07:00",
+                            "content": "1 a<br \/>2 d<br \/>3 b<br \/>4 b<br \/>semoga bermanfaat <br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5110355,
+                                "nick": "1Fatta",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d01\/6c8026cbe42c31938dda8cfcd2f496d9.jpg"
+                            },
+                            {
+                                "id": 5028493,
+                                "nick": "aniksundaridiligent",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dfc\/648f54d015a85cd03227289f8059c343.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10718192,
+                        "subject_id": 10,
+                        "user_id": 5056828,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 20,
+                            "ptsForResp": 10,
+                            "ptsForBest": 5
+                        },
+                        "content": "1.perhatikan tempat tempat berikut!<br \/>\n(1) gua leang-leang<br \/>\n(2) liang bua<br \/>\n(3) gua sampung<br \/>\n(4) gua prajekan<br \/>\nfosil austromelanesoid ditemukan di kjokkenmodinger pada nomor...<br \/>\na.1 dan 2<br \/>\nb.2 dan 3<br \/>\nc.2 dan 4<br \/>\nd.3 dan 4<br \/><br \/>\n2.perhatikan data dibawah ini!<br \/>\n(1) zaman neozoikum<br \/>\n(2) zaman mesozoikum<br \/>\n(3) zaman paleolitikum <br \/>\n(4) zaman mesolitikum <br \/>\n(5) zaman neolitikum<br \/>\ndari data tersebut yang termasuk pembagian prasejarah indonesia berdasarkan arkeologinya adalah...<br \/>\na.1,2dan3<br \/>\nb.1,3dan 4<br \/>\nc.1,3dan 5<br \/>\nd.3,4dan 5<br \/><br \/>\n3.tahap tahap pembagian zaman logam berdasarkan pada...<br \/>\na.bahan pembuatannya<br \/>\nb.bentuk benda bendanya<br \/>\nc.manusia pendukung nya<br \/>\nd.ciri ciri kehidupan masyarakatnya<br \/><br \/>\n4.zaman neolitikum merupakan suatu revolusi dalam kehidupan manusia indonesia,karenna...<br \/>\na.datangnya bangsa melayu gelombang pertama<br \/>\nb.masuknya pengaruh kebudayaan hindu <br \/>\nc.adanya perubahan cara hidup dari food gathering ke food producing<br \/>\nd.teknik pembuatan perkakas makin halus<br \/><br \/>\n5.bukti masuknya agama buddha ke indonesia pada abad 5 masehi adalah...<br \/>\na.adanya pedagang yang suka merantau<br \/>\nb.temuan prasarti kutai<br \/>\nc.berdirinya bangunan borobudur yang megah <br \/>\nd. temuan patung amarawati di sulawesi selatan<br \/><br \/>\n6.salah seorang anggota walisanga yang mengajarkan ajaran tasawuf adalah<br \/>\na.sunan kalijaga<br \/>\nb,sunan muria<br \/>\nc. sunan gunung jati<br \/>\nd.sunan kudus<br \/><br \/>\nmohon bantuannya...",
+                        "created": "2017-05-19T18:40:44+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2017-05-19T18:46:07+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "1.perhatikan tempat tempat berikut!\n(1) gua leang-leang\n(2) liang bua\n(3) gua sampung\n(4) gua prajekan\nfosil austromelanesoid ditemukan di kjokkenmodinger pada nomor...\na.1 dan 2\nb.2 dan 3\nc.2 dan 4\nd.3 dan 4\n2.perhatikan data dibawah ini!\n(1) zaman <em>neozoi<\/em>kum\n(2) zaman mesozoikum\n(3) zaman paleolitikum \n(4) zaman mesolitikum \n(5) zaman neolitikum\ndari data tersebut yang termasuk pembagian prasejarah indonesia berdasarkan arkeologinya adalah...\na.1,2dan3\nb.1,3dan 4\nc.1,3dan 5\nd.3,4dan 5\n3.tahap tahap pembagian zaman logam berdasarkan pada...\na.bahan pembuatannya\nb.bentuk benda bendanya\nc.manusia pendukung nya\nd.ciri ciri kehidupan masyarakatnya\n4.zaman neolitikum merupakan suatu revolusi dalam kehidupan manusia indonesia,karenna...\na.datangnya bangsa melayu gelombang pertama\nb.masuknya pengaruh kebudayaan hindu \nc.adanya perubahan cara hidup dari food gathering ke food producing\nd.teknik pembuatan perkakas makin halus\n5.bukti masuknya agama buddha ke indonesia pada abad 5 masehi adalah...\na.adanya pedagang yang suka merantau\nb.temuan prasarti kutai\nc.berdirinya bangunan borobudur yang megah \nd. temuan patung amarawati di sulawesi selatan\n6.salah seorang anggota walisanga yang mengajarkan ajaran tasawuf adalah\na.sunan kalijaga\nb,sunan muria\nc. sunan gunung jati\nd.sunan kudus\nmohon bantuannya...",
+                        "snippet_content": "d.3 dan 4\n2.perhatikan data dibawah ini!\n(1) zaman <em>neozoi<\/em>kum\n(2) zaman mesozoikum\n(3) zaman paleolitikum \n(4) zaman mesolitikum \n(5"
+                    },
+                    "responses": [
+                        {
+                            "id": 12993832,
+                            "user_id": 4454385,
+                            "task_id": 10718192,
+                            "points": 10,
+                            "created": "2017-05-19T18:46:07+07:00",
+                            "content": "1. C<br \/>2. D<br \/>3. D<br \/>4.C<br \/>5.B<br \/>6.C<br \/>semoga membantu<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 7127624,
+                                        "user_id": 5056828,
+                                        "content": "trima kasih",
+                                        "created": "2017-05-19T18:47:26+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 7127641,
+                                        "user_id": 4454385,
+                                        "content": "Sama sama",
+                                        "created": "2017-05-19T18:48:06+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 2
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4454385,
+                                "nick": "Asmuva",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d82\/602812547e8262c36d30ec874cff96eb.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 18,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 4899903,
+            "nick": "dsgjathwt",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d86\/37083fc90ef266044452a562a305c0b5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc5\/d1fcb705cbfaf5bf7b60df001a4d779f.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d86\/37083fc90ef266044452a562a305c0b5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc5\/d1fcb705cbfaf5bf7b60df001a4d779f.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4900060,
+            "nick": "EromangaSensei",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 1,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d68\/26c69f63175f481e3a14d08488dc7360.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dcc\/d64c1269c9bf7c8ba1d506bd796bfd3e.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d68\/26c69f63175f481e3a14d08488dc7360.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dcc\/d64c1269c9bf7c8ba1d506bd796bfd3e.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 5088063,
+            "nick": "lidyakarlina",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 6,
+                "comments": 2
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d46\/e7443cd66f9756c1ed0418e931cd8605.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc4\/c5ac3a85dae11424fb1d7b0df1fb5ae4.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d46\/e7443cd66f9756c1ed0418e931cd8605.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc4\/c5ac3a85dae11424fb1d7b0df1fb5ae4.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 5089547,
+            "nick": "Saaiya",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 132,
+                "comments": 38
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de5\/7bdecc1d98b7356c489ad1ed321d478c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d52\/99e5c1b0106462258aed354c24bc0587.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de5\/7bdecc1d98b7356c489ad1ed321d478c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d52\/99e5c1b0106462258aed354c24bc0587.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 5016371,
+            "nick": "Afank1",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 39,
+                "comments": 14
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d73\/b0b798f35ccc139194474253837a1820.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d2d\/969233e5dda2dd4f3d1755a3d1cb02cc.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d73\/b0b798f35ccc139194474253837a1820.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d2d\/969233e5dda2dd4f3d1755a3d1cb02cc.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 4593329,
+            "nick": "oswald93",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 24,
+                "answers": 2,
+                "comments": 13
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d56\/fb059d32881dc6b7e4d0d1472fd9004c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d28\/38822c819c86886457848d22414f1faa.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d56\/fb059d32881dc6b7e4d0d1472fd9004c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d28\/38822c819c86886457848d22414f1faa.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 688184,
+            "nick": "uciiicx",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 383,
+                "comments": 49
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d88\/8b8801fb3c4c8835cd2a776d8571904e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d5d\/3a95fbad5534dddf46c0767b14fcbf8c.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d88\/8b8801fb3c4c8835cd2a776d8571904e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d5d\/3a95fbad5534dddf46c0767b14fcbf8c.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        },
+        {
+            "id": 5053258,
+            "nick": "Jeshika10",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 1,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d40\/7c046b0cbcbd003383000ac23ead4519.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dcd\/d06c0044bda5cd95e9e8a6cf1a1c7fac.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d40\/7c046b0cbcbd003383000ac23ead4519.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dcd\/d06c0044bda5cd95e9e8a6cf1a1c7fac.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 5108714,
+            "nick": "anam109",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 0,
+                "comments": 3
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d95\/4fd92115e29015682b64ca1a9068c01d.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da2\/fb9ab6a8d17fb2e38c0cb8aab413fd21.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d95\/4fd92115e29015682b64ca1a9068c01d.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da2\/fb9ab6a8d17fb2e38c0cb8aab413fd21.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4958369,
+            "nick": "febryana2275",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 9,
+                "answers": 25,
+                "comments": 9
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d59\/a6f50ae5e50f89a5c7a1604d0d31ffcc.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd7\/0a6df36b1979c7528719094010a58c5c.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d59\/a6f50ae5e50f89a5c7a1604d0d31ffcc.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd7\/0a6df36b1979c7528719094010a58c5c.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 4513253,
+            "nick": "Nurkam",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db5\/ffdb413f6641c58a1b6fc6a7f5465d9e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ddb\/39adaad6d8f44b76f82d45fea6d877d2.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db5\/ffdb413f6641c58a1b6fc6a7f5465d9e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ddb\/39adaad6d8f44b76f82d45fea6d877d2.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 5015909,
+            "nick": "AisyahNurAfifah2803",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 439,
+                "comments": 164
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da7\/fe4a0f9e55fa17e3e81ec0f55d370e12.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de1\/999e00df7cb8610902688f4270f41efa.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da7\/fe4a0f9e55fa17e3e81ec0f55d370e12.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de1\/999e00df7cb8610902688f4270f41efa.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        },
+        {
+            "id": 3876502,
+            "nick": "kiki877",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 2726,
+                "comments": 532
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d43\/35248f31767d83170dfec54bb4b01dfc.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d8b\/6ef8b4353ba70bf72c92de230eff90c8.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d43\/35248f31767d83170dfec54bb4b01dfc.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d8b\/6ef8b4353ba70bf72c92de230eff90c8.jpg"
+            },
+            "ranks": {
+                "color": "#ffbe32",
+                "names": [
+                    "BrainlyElite",
+                    "Spam Fighter ",
+                    "Apprentice",
+                    "KsatriaBrainly",
+                    "Jenius"
+                ],
+                "count": 5
+            },
+            "ranks_ids": [
+                27,
+                17,
+                20,
+                23,
+                7
+            ]
+        },
+        {
+            "id": 5070151,
+            "nick": "pettrick",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 1
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d42\/977418b46b8ed286c9f1119b46f81806.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db7\/852b7d06f5f0073804cac8790b5a5fc7.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d42\/977418b46b8ed286c9f1119b46f81806.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db7\/852b7d06f5f0073804cac8790b5a5fc7.png"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 5056343,
+            "nick": "faizahfarhzira",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 16,
+                "answers": 166,
+                "comments": 222
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d87\/065820ccdd5037c77aa66695ae7a82f0.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ddf\/f72d4ea4bf84dfefa54af8ff229e8ea0.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d87\/065820ccdd5037c77aa66695ae7a82f0.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ddf\/f72d4ea4bf84dfefa54af8ff229e8ea0.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 5136450,
+            "nick": "mutiararizkypujianto",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1484096,
+            "nick": "ilfanrizaldi",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 13,
+                "answers": 247,
+                "comments": 106
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc6\/278c934f03a7d67b8ff3384e5cbdc711.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d8e\/a6684135aef1aee0e3973e429c53b424.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc6\/278c934f03a7d67b8ff3384e5cbdc711.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d8e\/a6684135aef1aee0e3973e429c53b424.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 2030764,
+            "nick": "hilwaa1",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 6,
+                "answers": 0,
+                "comments": 2
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d59\/9315de307531991202482c300bbec0c8.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc9\/c5acec94c6ff796c71f2340aa1cc0f73.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d59\/9315de307531991202482c300bbec0c8.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc9\/c5acec94c6ff796c71f2340aa1cc0f73.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4381248,
+            "nick": "frazaa",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 9,
+                "answers": 66,
+                "comments": 9
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dba\/715b6cbc4e540a7075a3e0b2da8d4251.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da5\/edba6775f661e58cff4eda65a3b73d16.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dba\/715b6cbc4e540a7075a3e0b2da8d4251.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da5\/edba6775f661e58cff4eda65a3b73d16.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 5102822,
+            "nick": "hybie6393",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4872287,
+            "nick": "gadhaa1",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 609,
+                "comments": 190
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9d\/7bb9500d45a56d25aa9707aed1c2a448.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d0d\/4d20b6cbbf21ed574dbf7fdc101776a9.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9d\/7bb9500d45a56d25aa9707aed1c2a448.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d0d\/4d20b6cbbf21ed574dbf7fdc101776a9.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        },
+        {
+            "id": 4539106,
+            "nick": "samehadatoel20",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 22,
+                "answers": 3876,
+                "comments": 380
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df4\/5ddf04b460fae46142c744033800f732.jpeg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6c\/2f06bbe88fc88cc8d4a62fff28958a9b.jpeg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df4\/5ddf04b460fae46142c744033800f732.jpeg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6c\/2f06bbe88fc88cc8d4a62fff28958a9b.jpeg"
+            },
+            "ranks": {
+                "color": "#ffbe32",
+                "names": [
+                    "Apprentice",
+                    "Spam Fighter ",
+                    "History-Herodotus ",
+                    "Jenius"
+                ],
+                "count": 4
+            },
+            "ranks_ids": [
+                20,
+                17,
+                125,
+                7
+            ]
+        },
+        {
+            "id": 5053693,
+            "nick": "cole2",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 10,
+                "answers": 5,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d06\/a930835de835f68dac409a1320abb007.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d79\/e9d76fc6130a199c6ed57c76747d231f.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d06\/a930835de835f68dac409a1320abb007.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d79\/e9d76fc6130a199c6ed57c76747d231f.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 5054137,
+            "nick": "mdepay51",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 11,
+                "comments": 9
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4d\/7e24453884964d6643b9a33b0520fd5f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de5\/994e4993fbab054163eec53ca020e174.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4d\/7e24453884964d6643b9a33b0520fd5f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de5\/994e4993fbab054163eec53ca020e174.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4990021,
+            "nick": "AmjadDaLopez",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 24,
+                "comments": 6
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dbd\/c60bca335f6cbd8e2a0091e31b26ab0e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dfe\/85bf5caa69814ea896aa7aba9b6f9eec.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dbd\/c60bca335f6cbd8e2a0091e31b26ab0e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dfe\/85bf5caa69814ea896aa7aba9b6f9eec.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 5024779,
+            "nick": "nuravyzahro",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 0,
+                "comments": 4
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d26\/ec6210caa65776316cb2454fde683734.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dfd\/fd5fb578a1989d4b9fff6d44a0af216c.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d26\/ec6210caa65776316cb2454fde683734.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dfd\/fd5fb578a1989d4b9fff6d44a0af216c.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 5013191,
+            "nick": "adila62",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 54,
+                "comments": 41
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d84\/5f385a08bdd8348a7a8989da59cf6bcf.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d00\/282076f36abd103752a373a0ff579ee3.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d84\/5f385a08bdd8348a7a8989da59cf6bcf.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d00\/282076f36abd103752a373a0ff579ee3.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 4494347,
+            "nick": "Tasya2410",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 35,
+                "answers": 148,
+                "comments": 33
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 4629074,
+            "nick": "Anisyaharani",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 109,
+                "comments": 11
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d51\/cb05f838b822513dea3a7e106accf2db.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da0\/eafac6f403b840ddd6a0b621e6e3b388.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d51\/cb05f838b822513dea3a7e106accf2db.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da0\/eafac6f403b840ddd6a0b621e6e3b388.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 5004631,
+            "nick": "Tharis02",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 1,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd1\/3e3dc9aee329b1da7ff4b896a0e208d0.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc9\/8d4cf8f6ac9af9100c8be8ac9e0fc7b7.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd1\/3e3dc9aee329b1da7ff4b896a0e208d0.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc9\/8d4cf8f6ac9af9100c8be8ac9e0fc7b7.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 2084179,
+            "nick": "Riskafrebianti",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 31,
+                "answers": 2976,
+                "comments": 683
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4c\/84149c213b124c501e96aa53bdb68c52.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d09\/01302453ebcf79723a7cdbe172192aab.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4c\/84149c213b124c501e96aa53bdb68c52.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d09\/01302453ebcf79723a7cdbe172192aab.jpg"
+            },
+            "ranks": {
+                "color": "#ffbe32",
+                "names": [
+                    "Spam Fighter ",
+                    "Apprentice",
+                    "KsatriaBrainly",
+                    "BrainlyElite",
+                    "Jenius"
+                ],
+                "count": 5
+            },
+            "ranks_ids": [
+                17,
+                20,
+                23,
+                27,
+                7
+            ]
+        },
+        {
+            "id": 5021968,
+            "nick": "cindyseptiani3",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 13,
+                "comments": 5
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d03\/f65028ff5ea7235f1b3513c9560a6b00.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d0a\/3a6059ddd4ab0ac0d1a163cf8ceb30a8.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d03\/f65028ff5ea7235f1b3513c9560a6b00.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d0a\/3a6059ddd4ab0ac0d1a163cf8ceb30a8.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 5122955,
+            "nick": "9798",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d2b\/012226910c744bd073b11ed1baa02119.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc3\/ed2c91f15934d3dc193b51c37dbf1450.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d2b\/012226910c744bd073b11ed1baa02119.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc3\/ed2c91f15934d3dc193b51c37dbf1450.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 2440930,
+            "nick": "Farikha25",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 1514,
+                "comments": 65
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d52\/c115611a37429280d22c55b7d059f8ab.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d58\/b055af3bde77b872e004beaa4ca86197.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d52\/c115611a37429280d22c55b7d059f8ab.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d58\/b055af3bde77b872e004beaa4ca86197.png"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Apprentice",
+                    "Spam Fighter ",
+                    "Si Hebat"
+                ],
+                "count": 3
+            },
+            "ranks_ids": [
+                20,
+                17,
+                6
+            ]
+        },
+        {
+            "id": 5131587,
+            "nick": "Ibrahimadha",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 5131708,
+            "nick": "gresciella",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 6,
+                "answers": 0,
+                "comments": 3
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dcd\/f45ca1c9c8d65d0e74d546f7bfdaaf8c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d28\/f9426361e928f886dddaff7b005cfab2.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dcd\/f45ca1c9c8d65d0e74d546f7bfdaaf8c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d28\/f9426361e928f886dddaff7b005cfab2.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 5130604,
+            "nick": "umar2016",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 12,
+                "comments": 5
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de5\/386e358db6d2b5a6a770be6b30252527.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d1b\/e721c55a04f8ebfbd629913761aca5b9.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de5\/386e358db6d2b5a6a770be6b30252527.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d1b\/e721c55a04f8ebfbd629913761aca5b9.png"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 5127545,
+            "nick": "Abdulasad",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 8,
+                "answers": 480,
+                "comments": 75
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9f\/2cc9a953d83ccf0f1d1d4085eaa9ab4b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d64\/b3465af08e7d7459f4747ca1cf0801a3.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9f\/2cc9a953d83ccf0f1d1d4085eaa9ab4b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d64\/b3465af08e7d7459f4747ca1cf0801a3.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        },
+        {
+            "id": 4652977,
+            "nick": "fia424",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 6,
+                "comments": 4
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d8c\/c8f8570ceee38cbfa1f46b822cccd866.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dff\/4aefd433ffdd3f289285c28cb5cb6ac5.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d8c\/c8f8570ceee38cbfa1f46b822cccd866.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dff\/4aefd433ffdd3f289285c28cb5cb6ac5.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 5028434,
+            "nick": "jemima4",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 309,
+                "comments": 75
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc7\/6b1c38c111861752bc047fab2b2082e9.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d11\/154179fdd28f016ab9bcebeb05110bd0.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc7\/6b1c38c111861752bc047fab2b2082e9.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d11\/154179fdd28f016ab9bcebeb05110bd0.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 5105534,
+            "nick": "indah1843",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 9,
+                "answers": 4,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#000000",
+                "names": [],
+                "count": 0
+            },
+            "ranks_ids": null
+        },
+        {
+            "id": 5110355,
+            "nick": "1Fatta",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 92,
+                "comments": 13
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d6b\/c5166f4acce27b28d8c8cd6b77287dd1.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d01\/6c8026cbe42c31938dda8cfcd2f496d9.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d6b\/c5166f4acce27b28d8c8cd6b77287dd1.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d01\/6c8026cbe42c31938dda8cfcd2f496d9.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 5028493,
+            "nick": "aniksundaridiligent",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 52,
+                "answers": 45,
+                "comments": 80
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4d\/eb44aec0db9e9d46d705cf9122021f77.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dfc\/648f54d015a85cd03227289f8059c343.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4d\/eb44aec0db9e9d46d705cf9122021f77.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dfc\/648f54d015a85cd03227289f8059c343.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 5056828,
+            "nick": "dindafami24",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 1,
+                "comments": 6
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df5\/9daf73ce903cc51d59aaa4a98000dfa7.bmp",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d69\/b9868c4930fb09b8b3a1a9c8bc46b5ba.bmp"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df5\/9daf73ce903cc51d59aaa4a98000dfa7.bmp",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d69\/b9868c4930fb09b8b3a1a9c8bc46b5ba.bmp"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4454385,
+            "nick": "Asmuva",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 23,
+                "comments": 6
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d2a\/cd925bae44528a700daf43ee15742e43.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d82\/602812547e8262c36d30ec874cff96eb.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d2a\/cd925bae44528a700daf43ee15742e43.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d82\/602812547e8262c36d30ec874cff96eb.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        }
+    ],
+    "validated": false
+}

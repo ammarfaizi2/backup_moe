@@ -1,0 +1,864 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 7784523,
+                        "subject_id": 5,
+                        "user_id": 931743,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Ladyboy artinya apa?",
+                        "created": "2016-10-09T17:53:07+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2016-10-09T17:54:16+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "<em>Ladyboy<\/em> artinya apa?",
+                        "snippet_content": "<em>Ladyboy<\/em> artinya apa?"
+                    },
+                    "responses": [
+                        {
+                            "id": 9230240,
+                            "user_id": 3882110,
+                            "task_id": 7784523,
+                            "points": 5,
+                            "created": "2016-10-09T17:54:16+07:00",
+                            "content": "Jawabannya banci...............",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 9230246,
+                            "user_id": 3883446,
+                            "task_id": 7784523,
+                            "points": 5,
+                            "created": "2016-10-09T17:54:31+07:00",
+                            "content": "pusatnya para waria,maaf kalo salah<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3882110,
+                                "nick": "qey4",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/de8\/f86e3c518ad778f29cdd37dfb1174884.jpg"
+                            },
+                            {
+                                "id": 3883446,
+                                "nick": "sylvia23206",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d9d\/cc198150f7f34d5b34bd105979202c45.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 6392955,
+                        "subject_id": 18,
+                        "user_id": 2330731,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "apa sih ladyboy itu ?",
+                        "created": "2016-07-09T11:37:48+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2016-07-09T11:41:47+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "apa sih <em>ladyboy<\/em> itu ?",
+                        "snippet_content": "apa sih <em>ladyboy<\/em> itu ?"
+                    },
+                    "responses": [
+                        {
+                            "id": 7669523,
+                            "user_id": 3185567,
+                            "task_id": 6392955,
+                            "points": 5,
+                            "created": "2016-07-09T11:41:47+07:00",
+                            "content": "ladyboy itu cewek jad jadian bukan cewek asli.<br \/>kalo di indo biasa disebut wariah",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 4362252,
+                                        "user_id": 2330731,
+                                        "content": "oh..gitu,mksh",
+                                        "created": "2016-07-09T11:44:56+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        },
+                        {
+                            "id": 7669570,
+                            "user_id": 1668249,
+                            "task_id": 6392955,
+                            "points": 5,
+                            "created": "2016-07-09T12:18:59+07:00",
+                            "content": "Perempuan yang sifat dan tingkah lakunya seperti laki-laki",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3185567,
+                                "nick": "Hyejin1",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/de6\/1ccea64ac23ba648b8084cc9af2a3c27.jpg"
+                            },
+                            {
+                                "id": 1668249,
+                                "nick": "Alfinka99",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dbd\/a26b3b1a566f2d0faa96fcb4fda09a29.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10762641,
+                        "subject_id": 13,
+                        "user_id": 4986840,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Paribasa Bali punika kabuatang pisan ring tembang lan...boya ja tios maka tatujon anggen pengelut kekawian ring tembang punika.<br \/>a. Geguritan.<br \/>b. Prosa.<br \/>c. Gancaran.<br \/>d. Satua.",
+                        "created": "2017-05-23T14:43:09+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-05-23T14:45:39+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Paribasa Bali punika kabuatang pisan ring tembang lan...boya ja tios maka tatujon anggen pengelut kekawian ring tembang punika.a. Geguritan.b. Prosa.c. Gancaran.d. Satua.",
+                        "snippet_content": "Paribasa Bali punika kabuatang pisan ring tembang lan...boya ja tios maka tatujon anggen pengelut kekawian ring tembang punika.a. Geguritan.b"
+                    },
+                    "responses": [
+                        {
+                            "id": 13054996,
+                            "user_id": 4923756,
+                            "task_id": 10762641,
+                            "points": 5,
+                            "created": "2017-05-23T14:45:39+07:00",
+                            "content": "menurut saya jawabannya A. Geguritan, karena kalau prosa, gancaran, apalagi satua itu tdk mungkin<br \/><br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 5,
+                            "user_best_rank_id": 7,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4923756,
+                                "nick": "setiadewii",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d1f\/b6f1ee48e2af8fae1a1f143ea1598cc5.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10644899,
+                        "subject_id": 5,
+                        "user_id": 5021118,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Text 5<br \/>Once upon a tme, King Rock brought his bast knights and soldiers to besiege Vernon caste.<br \/>They surrounded the caste bor days, trappingtheLord Vernon inskde.<br \/>However, they refused to surrender. They fought hard to defend their castle.<br \/>One day, Sir Paul, a brave and courageous knight, put on a disguise and went outof vemnon caste. Ho walked stalhtltyty oter bhe<br \/>king' s camp. H However, he was discovered by the king's oldiers. They chased after him shouting, \"A spyl A spyt<br \/>Sir Thompson, one of the king's knights, caught him. They fought badly. Sir Paul tried to run away quickly to the Vernon castle.<br \/>However, Sir Thompson could catch up with him again.<br \/>Just as he was abput stab Sir Paul with his sword, he heard someone screaming, 'Please don't kll him,\"<br \/>Looking up. Sir Paul saw a beautful lady with fair hair. It was his sister, Lady Evia.<br \/>\"Both of you are brave knights, 'She said, \"This war has been fought by brave and chivalrous knights and soldiers. But, we women<br \/>and children suffer because thereis no food b al\".<br \/>SrPauland Sir Thompson loked al'ono andtherdumblaunded, They were surprised by whatthe lady had said. Noone had ever been<br \/>brave enough to speakto the knights ike ths. They promised Lady Etia to tell hir king and King Rock made an<br \/>them would choose a knight won, the king would end the slug. Butif the lord's knightlost, the king would take over Lord Verron's caste<br \/>and his people mustsurrender, Sir Paud was chosen to fight for Lord Vernon and Sir Thompson was chosen for the king.<br \/>Both knights were strong and powerful. They fought like wo ferce llons in the sun. Suddenly, Sir Paul struck a blow so strong that Sir<br \/>Thompson fellto the ground. Vernon's people cheered while the king's army groaned. Sir Thompson bowed his head humbly and<br \/>prepared dhimself for death.<br \/>nt. Each of<br \/>They chased after him shouting, \"A spyl A spy!\"<br \/>Who said \"Aspyt A spy!\"?<br \/>a. King Rock<br \/>b. The Lord Vernon<br \/>0. The king Rock's soldiers<br \/>d. The Lord Vernon's soldiers<br \/>34.<br \/>e. Sir Thompson<br \/>What would have happened if the tw\u00f3 knights had not obeyed what Lady Etvia had said?<br \/>a. Women and children would have been brave<br \/>b. The two knight would have been starving<br \/>C. The two knight would have been brave<br \/>d. Women and children would have suffered<br \/>e. They were surprised<br \/>What is the relationship between Sir Paul and Lady Etvia?<br \/>a. Lady Etvia is his wife<br \/>b. Sir Paul is her brother<br \/>C. Both of them are knights<br \/>36.<br \/>d. Lady Etvia is his aunt<br \/>e. Lord Vemon.<br \/>Who was Lady Etvia actually?<br \/>a. She was the beautiful and wise lady<br \/>b. She was mother of Sir Thompson<br \/>C. She was a friend of both Sir Thompson and Sir Paul<br \/>d. She was the beautiful lady who loved wars<br \/>e. She was beautiful lady who loved them<br \/>37.<br \/>38. How did the story end?<br \/>a. It ended disappointedly<br \/>b. it ended unclearly<br \/>C. itended unhappily<br \/>d. it ended happily<br \/>6. it ended excited.<br \/>",
+                        "created": "2017-05-14T20:18:24+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2017-05-14T20:35:52+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [
+                            {
+                                "full": "https:\/\/id-static.z-dn.net\/files\/de9\/d75ebb6fa451a9525e58cc1e7c1a8db3.jpg",
+                                "thumbnail": "https:\/\/id-static.z-dn.net\/files\/dcd\/59bc671f1f698da29c96ed1b95cc8ffd.jpg",
+                                "type": "image\/jpeg",
+                                "size": 356614,
+                                "hash": "d75ebb6fa451a9525e58cc1e7c1a8db3",
+                                "id": 5187656,
+                                "extension": "jpg"
+                            }
+                        ],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Text 5Once upon a tme, King Rock brought his bast knights and soldiers to besiege Vernon caste.They surrounded the caste bor days, trappingtheLord Vernon inskde.However, they refused to surrender. They fought hard to defend their castle.One day, Sir Paul, a brave and courageous knight, put on a disguise and went outof vemnon caste. Ho walked stalhtltyty oter bheking' s camp. H However, he was discovered by the king's oldiers. They chased after him shouting, \"A spyl A spytSir Thompson, one of the king's knights, caught him. They fought badly. Sir Paul tried to run away quickly to the Vernon castle.However, Sir Thompson could catch up with him again.Just as he was abput stab Sir Paul with his sword, he heard someone screaming, 'Please don't kll him,\"Looking up. Sir Paul saw a beautful lady with fair hair. It was his sister, Lady Evia.\"Both of you are brave knights, 'She said, \"This war has been fought by brave and chivalrous knights and soldiers. But, we womenand children suffer because thereis no food b al\".SrPauland Sir Thompson loked al'ono andtherdumblaunded, They were surprised by whatthe lady had said. Noone had ever beenbrave enough to speakto the knights ike ths. They promised Lady Etia to tell hir king and King Rock made anthem would choose a knight won, the king would end the slug. Butif the lord's knightlost, the king would take over Lord Verron's casteand his people mustsurrender, Sir Paud was chosen to fight for Lord Vernon and Sir Thompson was chosen for the king.Both knights were strong and powerful. They fought like wo ferce llons in the sun. Suddenly, Sir Paul struck a blow so strong that SirThompson fellto the ground. Vernon's people cheered while the king's army groaned. Sir Thompson bowed his head humbly andprepared dhimself for death.nt. Each ofThey chased after him shouting, \"A spyl A spy!\"Who said \"Aspyt A spy!\"?a. King Rockb. The Lord Vernon0. The king Rock's soldiersd. The Lord Vernon's soldiers34.e. Sir ThompsonWhat would have happened if the tw\u00f3 knights had not obeyed what Lady Etvia had said?a. Women and children would have been braveb. The two knight would have been starvingC. The two knight would have been braved. Women and children would have sufferede. They were surprisedWhat is the relationship between Sir Paul and Lady Etvia?a. Lady Etvia is his wifeb. Sir Paul is her brotherC. Both of them are knights36.d. Lady Etvia is his aunte. Lord Vemon.Who was Lady Etvia actually?a. She was the beautiful and wise <em>ladyb<\/em>. She was mother of Sir ThompsonC. She was a friend of both Sir Thompson and Sir Pauld. She was the beautiful lady who loved warse. She was beautiful lady who loved them37.38. How did the story end?a. It ended disappointedlyb. it ended unclearlyC. itended unhappilyd. it ended happily6. it ended excited.",
+                        "snippet_content": "was Lady Etvia actually?a. She was the beautiful and wise <em>ladyb<\/em>. She was mother of Sir ThompsonC. She was a friend"
+                    },
+                    "responses": [
+                        {
+                            "id": 12897694,
+                            "user_id": 4986480,
+                            "task_id": 10644899,
+                            "points": 5,
+                            "created": "2017-05-14T20:35:52+07:00",
+                            "content": "haa ini semua dijawab ya",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 12900862,
+                            "user_id": 5037050,
+                            "task_id": 10644899,
+                            "points": 5,
+                            "created": "2017-05-14T23:40:04+07:00",
+                            "content": "33. D <br \/>34. D<br \/>35.B<br \/>36. A<br \/>37. D<br \/>sepertinya",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 2,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "2",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4986480,
+                                "nick": "chacha212",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d0a\/b850cffd32815af161cb9ff9d454516d.jpg"
+                            },
+                            {
+                                "id": 5037050,
+                                "nick": "atp11",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d4d\/0534cca0ecdf4d13c7866f9ba8b86e68.png"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 4,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 931743,
+            "nick": "zainandajuliyanti",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 65,
+                "answers": 2,
+                "comments": 19
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4a\/9534cae5d13e5ab1746172809fbb63ef.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db2\/02eb26d73f208245d8e9c1493695a487.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4a\/9534cae5d13e5ab1746172809fbb63ef.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db2\/02eb26d73f208245d8e9c1493695a487.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 3882110,
+            "nick": "qey4",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 50,
+                "comments": 5
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d74\/f1e78a731990645a7e07d5b8060ba401.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de8\/f86e3c518ad778f29cdd37dfb1174884.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d74\/f1e78a731990645a7e07d5b8060ba401.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de8\/f86e3c518ad778f29cdd37dfb1174884.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 3883446,
+            "nick": "sylvia23206",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 26,
+                "comments": 3
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d33\/eef31ccfd1bd539f739092621cd68994.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d9d\/cc198150f7f34d5b34bd105979202c45.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d33\/eef31ccfd1bd539f739092621cd68994.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d9d\/cc198150f7f34d5b34bd105979202c45.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 2330731,
+            "nick": "dantiasri",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 20,
+                "answers": 35,
+                "comments": 10
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db1\/faebc5009c8921a4e651d1ce973f6ae8.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de0\/18fe8d54609a004981f5006da2c806bd.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db1\/faebc5009c8921a4e651d1ce973f6ae8.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de0\/18fe8d54609a004981f5006da2c806bd.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 3185567,
+            "nick": "Hyejin1",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 26,
+                "comments": 3
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d0b\/db408db22ade9b3b87bdca5cc39f3af2.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de6\/1ccea64ac23ba648b8084cc9af2a3c27.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d0b\/db408db22ade9b3b87bdca5cc39f3af2.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de6\/1ccea64ac23ba648b8084cc9af2a3c27.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 1668249,
+            "nick": "Alfinka99",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 82,
+                "answers": 911,
+                "comments": 185
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d77\/3ec73e37da7b77546c8590e117506c69.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dbd\/a26b3b1a566f2d0faa96fcb4fda09a29.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d77\/3ec73e37da7b77546c8590e117506c69.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dbd\/a26b3b1a566f2d0faa96fcb4fda09a29.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        },
+        {
+            "id": 4986840,
+            "nick": "DexVeda",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 44,
+                "answers": 25,
+                "comments": 59
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d7c\/170773bbbd92dc50ce9da46315d299fc.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d62\/5fd6937f85c1f2ebcbc8484def123412.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d7c\/170773bbbd92dc50ce9da46315d299fc.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d62\/5fd6937f85c1f2ebcbc8484def123412.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4923756,
+            "nick": "setiadewii",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 1249,
+                "comments": 274
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da6\/320a0513af6026f70c5d2646ead689b2.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d1f\/b6f1ee48e2af8fae1a1f143ea1598cc5.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da6\/320a0513af6026f70c5d2646ead689b2.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d1f\/b6f1ee48e2af8fae1a1f143ea1598cc5.jpg"
+            },
+            "ranks": {
+                "color": "#ffbe32",
+                "names": [
+                    "BrainlyElite",
+                    "Apprentice",
+                    "Spam Fighter ",
+                    "Jenius"
+                ],
+                "count": 4
+            },
+            "ranks_ids": [
+                27,
+                20,
+                17,
+                7
+            ]
+        },
+        {
+            "id": 5021118,
+            "nick": "DewiEkaTriyani",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 29,
+                "answers": 43,
+                "comments": 7
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d5f\/31953ac6f3ddaf67937ac8db3ae3c5cf.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da6\/06bac24ef5bdb6583cd6791edf969521.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d5f\/31953ac6f3ddaf67937ac8db3ae3c5cf.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da6\/06bac24ef5bdb6583cd6791edf969521.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4986480,
+            "nick": "chacha212",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 58,
+                "answers": 55,
+                "comments": 53
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/ddc\/c60dd34ec286dcba3c76428819be4f48.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d0a\/b850cffd32815af161cb9ff9d454516d.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/ddc\/c60dd34ec286dcba3c76428819be4f48.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d0a\/b850cffd32815af161cb9ff9d454516d.jpg"
+            },
+            "ranks": {
+                "color": "#000000",
+                "names": [],
+                "count": 0
+            },
+            "ranks_ids": null
+        },
+        {
+            "id": 5037050,
+            "nick": "atp11",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 36,
+                "comments": 13
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd2\/63dd9ed0d999c29408d294e07bd62b8b.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d4d\/0534cca0ecdf4d13c7866f9ba8b86e68.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd2\/63dd9ed0d999c29408d294e07bd62b8b.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d4d\/0534cca0ecdf4d13c7866f9ba8b86e68.png"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        }
+    ],
+    "validated": false
+}

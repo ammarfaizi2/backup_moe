@@ -1,0 +1,814 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 804093,
+                        "subject_id": 11,
+                        "user_id": 536598,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 54,
+                            "ptsForResp": 27,
+                            "ptsForBest": 14
+                        },
+                        "content": "Bagaimana Bisa Loch Ness(Plesiosaurus) Masih Ada? Dan Bagaimana Dia Dapat Bertahan Hidup Dari Serangan Meteor?",
+                        "created": "2014-09-23T18:03:05+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2014-09-23T18:08:14+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Bagaimana Bisa Loch Ness(<em>Plesiosaurus<\/em>) Masih Ada? Dan Bagaimana Dia Dapat Bertahan Hidup Dari Serangan Meteor?",
+                        "snippet_content": "Bagaimana Bisa Loch Ness(<em>Plesiosaurus<\/em>) Masih Ada? Dan Bagaimana Dia Dapat Bertahan Hidup Dari Serangan Meteor?"
+                    },
+                    "responses": [
+                        {
+                            "id": 1034596,
+                            "user_id": 504318,
+                            "task_id": 804093,
+                            "points": 27,
+                            "created": "2014-09-23T18:08:14+07:00",
+                            "content": "Sebenarnya Plesiosaurus itu sdh punah saat ini, plesiosaurus punah saat meteor menghancurkan bumi menjadi zaman tidak ada kehidupan.",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 750054,
+                                        "user_id": 536598,
+                                        "content": "Lalu Mengapa Loch Ness Sering Kali Membunuh Para Nelayan?",
+                                        "created": "2014-09-23T18:23:12+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 757937,
+                                        "user_id": 504318,
+                                        "content": "Itu hanya sebuah rekayasa, paling nelayan terbunuh karena Hiu",
+                                        "created": "2014-09-24T04:27:02+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 767250,
+                                        "user_id": 536598,
+                                        "content": "Tapi ITu Sebuah Danau. Dari Mana Hiu Itu Berasal? Apakah Ada Orang Yang Sengaja Menaruh Bibit Hiu Di Danau Itu?",
+                                        "created": "2014-09-24T19:59:16+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 3
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 504318,
+                                "nick": "opinovi",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d74\/7ec7df5c9035a4a5710bcf97055a535d.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 865999,
+                        "subject_id": 11,
+                        "user_id": 536598,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Apa Yang Terjadi Dengan Para Nelayan Di Sungai Scotlandia.? Orang Bilang Itu Seekor Loch Ness(Plesiosaurus)...? Jika Itu Hiu,Dari Mana Bibit Hitu Itu Berasal..?Karena Nelayan Itu Mati Di Sebuah Danau..",
+                        "created": "2014-09-27T21:26:55+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2014-09-27T21:42:44+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [
+                                {
+                                    "id": 800372,
+                                    "user_id": 536598,
+                                    "content": "Tolong Jawablah... Karena Saya Ada Tes Mengenai Dinosaurus",
+                                    "created": "2014-09-27T21:41:18+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                }
+                            ],
+                            "last_id": 0,
+                            "count": 1
+                        },
+                        "highlighted_content": "Apa Yang Terjadi Dengan Para Nelayan Di Sungai Scotlandia.? Orang Bilang Itu Seekor Loch Ness(<em>Plesiosaurus<\/em>)...? Jika Itu Hiu,Dari Mana Bibit Hitu Itu Berasal..?Karena Nelayan Itu Mati Di Sebuah Danau..",
+                        "snippet_content": "Apa Yang Terjadi Dengan Para Nelayan Di Sungai Scotlandia.? Orang Bilang Itu Seekor Loch Ness(<em>Plesiosaurus<\/em>)...? Jika Itu Hiu,Dari Mana Bibit"
+                    },
+                    "responses": [
+                        {
+                            "id": 1113672,
+                            "user_id": 570106,
+                            "task_id": 865999,
+                            "points": 5,
+                            "created": "2014-09-27T21:42:44+07:00",
+                            "content": "tidak mungkin hiu karena hiu tidak hidup di air tawar<br \/><br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 800402,
+                                        "user_id": 536598,
+                                        "content": "Ya Itu Dia,Orang Bilang Hiu Lah Pelakunya...",
+                                        "created": "2014-09-27T21:43:15+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        },
+                        {
+                            "id": 1114487,
+                            "user_id": 567401,
+                            "task_id": 865999,
+                            "points": 5,
+                            "created": "2014-09-28T01:38:56+07:00",
+                            "content": "misteri loch ness sudah berkembang sejak dulu ,ada yang menganggapnya itu hanya mitos. tetapi ada beberapa orang yang berhasil mengabadikan penampakannya meskipun agak kurang jelas. ciri fisik loch ness mirip brontosaurus bedanya loch ness mempunyai leher yang sangat panjang dan kulitnya agak licin. tetapi kalaupun memang ada inggris tentunya sudah dapat mendeteksi dengan peralatan canggih para ilmuwanya.",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 801658,
+                                        "user_id": 536598,
+                                        "content": "Tetapi Inggris Sudah Pernah Dan Menemuka Hasil Kuat Tentang Fakta Itu.?",
+                                        "created": "2014-09-28T07:28:52+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 827543,
+                                        "user_id": 536598,
+                                        "content": "Ya,Itu Betul,Jika Inggris Mempunyai Peralatan Canggih.Tetapi,Fotografer Terkenal Inggris Sudah Menemukan Hasil Kuat Tentang Loch Ness,Lagipula Loch Ness Bukan Mirip Brontosaurus,Karena Brontosaurus Adalah Hewan Terbesar Dan Leher Terpanjang.Sekilas Loch Ness Adalah Plesiosaurus.Lihat Saja Di Google Image",
+                                        "created": "2014-09-30T08:52:33+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 831763,
+                                        "user_id": 567401,
+                                        "content": "tapi jika benar itu fakta, tentu dengan badan yang sangat besar. keberadaan loch ness tentunya sangat mudah ditemui, mengingat cerita tentang loch ness bukan 10 - 20 tahun yang lalu. tapi ratusan tahun. bahkan ilmuwan inggris pun ada yang meragukan foto2 yang di dapat oleh orang2 yang katanya melihatnya.",
+                                        "created": "2014-09-30T17:33:10+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 840206,
+                                        "user_id": 536598,
+                                        "content": "Karena Loch Ness(Plesiosaurus) Sering Berada Di Air....",
+                                        "created": "2014-10-01T08:43:33+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 4
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 570106,
+                                "nick": "fonderz",
+                                "avatar": null
+                            },
+                            {
+                                "id": 567401,
+                                "nick": "kikicimut31",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d5f\/2e854c43484abf4f4fa5ab76632889bc.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 2599265,
+                        "subject_id": 1,
+                        "user_id": 1062884,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 80,
+                            "ptsForResp": 40,
+                            "ptsForBest": 20
+                        },
+                        "content": "New Brainly 100<br \/>\nEdisi Road To UN SMP 2015 H-1<br \/>\nQuiz Bahasa Indonesia :<br \/>\nKeterangan\u2192<br \/>\n\u21e8Dimohon untuk menjawab dengan cara yang lengkap.<br \/>\n\u21e8Dilarang Spam atau Hal Yang merugikan <br \/>\n\u21e8Kolom komentar selalu tersedia jika ingin berkomentar<br \/><br \/>\nPerhatikan paragraf berikut ini.<br \/>\n         Fosil monster laut tertua berusia 85 juta tahun berhasil ditemukan di Antartika. Penemuan monster tersebut, yang sebenarnya adalah reptil laut purba jenis Plesiosaur, membuat para ilmuwan berpikir bahwa reptil sudah ada di Antartika 15 juta tahun sebelum waktu yang diperkirakan. Plesiosaurur menyebar ke seluruh Bumi pada waktu antara 205-65 juta tahun yang lalu, serta mencapai belahan Bumi selatan pada pertengahan era Jurrasic. Sebagian besar spesimen disimpan di dalam museum, termasuk fosil pohon yang serupa dengan Plesiosaur.<br \/><br \/>\n1. Gagasan pokok paragraf tersebut adalah...<br \/>\nA) Plesiosaur menyebar ke seluruh Bumi pada waktu antara 205-65 juta tahun yang lalu<br \/>\nB) Fosil reptil laut purba tertua jenis Plesiosaur ditemukan di Antartika<br \/>\nC) Fosil pohon yang serupa dengan Plesiosaur disimpan di museum<br \/>\nD) Reptil sudah ada di Antartika 15 juta tahun sebelum waktu yang diperkirakan<br \/><br \/>\nBacalah teks berita berikut dengan seksama<br \/>\nTeks 1<br \/>\nKarya inovasi siswa SMA Muhammadiyah 1 Babat, Kabupaten Lamongan, berupa kertas dari kotoran kuda menjadi Juara 1 Kompetisi Business Plan ASEAN Preneur Idea Canvas 2011. Karya itu di presentasikan di National Universitiy of Singapore(NUS), Singapura pada 26 Agustus lalu. Tim yang beranggotakan David,Balqis,Dyah,Ayu,Vivid,Nurfaidah, dan Muhammad Teguh berhak atas hadiah 1.000 dolar Singapura.<br \/><br \/>\nTeks 2<br \/>\nMahasiswa Fakultas Farmasi Universitas Gadjah Mada Yogyakarta, Nuvi Gustriawanto, menjadi juara kategori pemula Kompetisi Konseling Pasien 2011 tingkat dunia di Thailand. Pada kompetisi itu, Nuvi berhasil mengungguli 19 pesaing lainnya yang berasal dari berbagai negara. Nuvi mengisahkan, pada tahap eliminasi, dirinya harus memberikan konseling kepada pasien terkait infeksi gigitan hewan. Pada tahap berikutnya, terkait dengan hormon replacement therapy pada kasus menopause wanita.<br \/><br \/>\n2. Kesamaan informasi pada kedua teks berita tersebut adalah ...<br \/>\nA) Kejuaraan dilaksanakan pada tanggal 26 Agustus<br \/>\nB) Para kontestan meraih juara di kompetisi tingkat internasional<br \/>\nC) Peraih juara berasal dari daerah yang sama, yaitu dari Yogyakarta<br \/>\nD) Kompetisi yang diperlombakan merupakan hasil karya ilmiah<br \/><br \/>\n3. Perbedaan penyajian kedua teks berita tersebut adalah...<br \/>\nA) Teks 1 : Apa,Kapan,Bagaimana, Dimana<br \/>\n    Teks 2 : Mengapa, Di mana, Siapa, Kapan<br \/>\nB) Teks 1 : Kapan,Bagaimana, Siapa, Apa<br \/>\n    Teks 2 : Bagaimana, Siapa, Apa, Kapan<br \/>\nC) Teks 1 : Apa, Di mana, Siapa, Apa<br \/>\n    Teks 2 : Di mana,Kapan, Siapa, Bagaimana<br \/>\nD) Teks 1 : Siapa, Kapan, Apa, Kapan<br \/>\n    Teks 2 : Di mana, Apa, Bagaimana, Dimana<br \/><br \/>\nSelamat Mengerjakan...",
+                        "created": "2015-05-03T15:46:02+07:00",
+                        "responses": 2,
+                        "tickets": 3,
+                        "first_resp": "2015-05-03T15:50:41+07:00",
+                        "the_best_resp_id": "3320994",
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [
+                                {
+                                    "id": 2110570,
+                                    "user_id": 1062884,
+                                    "content": "Bahasa Indonesia pelajaran yang dikhususkan utk membaca",
+                                    "created": "2015-05-03T15:48:08+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                },
+                                {
+                                    "id": 2110660,
+                                    "user_id": 1062884,
+                                    "content": "Sampai jumpa di soal berikutnya",
+                                    "created": "2015-05-03T15:59:10+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                }
+                            ],
+                            "last_id": 0,
+                            "count": 2
+                        },
+                        "highlighted_content": "New Brainly 100\nEdisi Road To UN SMP 2015 H-1\nQuiz Bahasa Indonesia :\nKeterangan\u2192\n\u21e8Dimohon untuk menjawab dengan cara yang lengkap.\n\u21e8Dilarang Spam atau Hal Yang merugikan \n\u21e8Kolom komentar selalu tersedia jika ingin berkomentar\nPerhatikan paragraf berikut ini.\n         Fosil monster laut tertua berusia 85 juta tahun berhasil ditemukan di Antartika. Penemuan monster tersebut, yang sebenarnya adalah reptil laut purba jenis Plesiosaur, membuat para ilmuwan berpikir bahwa reptil sudah ada di Antartika 15 juta tahun sebelum waktu yang diperkirakan. <em>Plesiosaurur<\/em> menyebar ke seluruh Bumi pada waktu antara 205-65 juta tahun yang lalu, serta mencapai belahan Bumi selatan pada pertengahan era Jurrasic. Sebagian besar spesimen disimpan di dalam museum, termasuk fosil pohon yang serupa dengan Plesiosaur.\n1. Gagasan pokok paragraf tersebut adalah...\nA) Plesiosaur menyebar ke seluruh Bumi pada waktu antara 205-65 juta tahun yang lalu\nB) Fosil reptil laut purba tertua jenis Plesiosaur ditemukan di Antartika\nC) Fosil pohon yang serupa dengan Plesiosaur disimpan di museum\nD) Reptil sudah ada di Antartika 15 juta tahun sebelum waktu yang diperkirakan\nBacalah teks berita berikut dengan seksama\nTeks 1\nKarya inovasi siswa SMA Muhammadiyah 1 Babat, Kabupaten Lamongan, berupa kertas dari kotoran kuda menjadi Juara 1 Kompetisi Business Plan ASEAN Preneur Idea Canvas 2011. Karya itu di presentasikan di National Universitiy of Singapore(NUS), Singapura pada 26 Agustus lalu. Tim yang beranggotakan David,Balqis,Dyah,Ayu,Vivid,Nurfaidah, dan Muhammad Teguh berhak atas hadiah 1.000 dolar Singapura.\nTeks 2\nMahasiswa Fakultas Farmasi Universitas Gadjah Mada Yogyakarta, Nuvi Gustriawanto, menjadi juara kategori pemula Kompetisi Konseling Pasien 2011 tingkat dunia di Thailand. Pada kompetisi itu, Nuvi berhasil mengungguli 19 pesaing lainnya yang berasal dari berbagai negara. Nuvi mengisahkan, pada tahap eliminasi, dirinya harus memberikan konseling kepada pasien terkait infeksi gigitan hewan. Pada tahap berikutnya, terkait dengan hormon replacement therapy pada kasus menopause wanita.\n2. Kesamaan informasi pada kedua teks berita tersebut adalah ...\nA) Kejuaraan dilaksanakan pada tanggal 26 Agustus\nB) Para kontestan meraih juara di kompetisi tingkat internasional\nC) Peraih juara berasal dari daerah yang sama, yaitu dari Yogyakarta\nD) Kompetisi yang diperlombakan merupakan hasil karya ilmiah\n3. Perbedaan penyajian kedua teks berita tersebut adalah...\nA) Teks 1 : Apa,Kapan,Bagaimana, Dimana\n    Teks 2 : Mengapa, Di mana, Siapa, Kapan\nB) Teks 1 : Kapan,Bagaimana, Siapa, Apa\n    Teks 2 : Bagaimana, Siapa, Apa, Kapan\nC) Teks 1 : Apa, Di mana, Siapa, Apa\n    Teks 2 : Di mana,Kapan, Siapa, Bagaimana\nD) Teks 1 : Siapa, Kapan, Apa, Kapan\n    Teks 2 : Di mana, Apa, Bagaimana, Dimana\nSelamat Mengerjakan...",
+                        "snippet_content": "sudah ada di Antartika 15 juta tahun sebelum waktu yang diperkirakan. <em>Plesiosaurur<\/em> menyebar ke seluruh Bumi pada waktu antara 205-65 juta"
+                    },
+                    "responses": [
+                        {
+                            "id": 3320994,
+                            "user_id": 148009,
+                            "task_id": 2599265,
+                            "points": 40,
+                            "created": "2015-05-03T15:50:41+07:00",
+                            "content": "1. b<br \/>2. b<br \/>3. c <br \/>maaf kalo salah",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 2,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 2110635,
+                                        "user_id": 1062884,
+                                        "content": "Oh, maksud guru anda adalah, langsung membaca tujuan dan maksud yg diinginkan soal-nya, Rights?",
+                                        "created": "2015-05-03T15:56:55+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 2110654,
+                                        "user_id": 148009,
+                                        "content": "nah betul itu jd ga makan waktu",
+                                        "created": "2015-05-03T15:58:31+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 2110658,
+                                        "user_id": 1062884,
+                                        "content": "Hehehe, terimakasih telah mau berbagi tips bersama",
+                                        "created": "2015-05-03T15:58:52+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 2110664,
+                                        "user_id": 148009,
+                                        "content": "sip lah sama sama ka btw no 3 salah ya?",
+                                        "created": "2015-05-03T15:59:44+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 2111611,
+                                        "user_id": 1333022,
+                                        "content": "maaf kak Tadi internet lemot hujan",
+                                        "created": "2015-05-03T18:51:40+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 2110635,
+                                "count": 12
+                            }
+                        },
+                        {
+                            "id": 3321024,
+                            "user_id": 30327,
+                            "task_id": 2599265,
+                            "points": 40,
+                            "created": "2015-05-03T15:54:09+07:00",
+                            "content": "Bismillah...<br \/><br \/>1.<span>B) Fosil reptil laut purba tertua jenis Plesiosaur ditemukan di Antartika<br \/>2.<\/span>B) Para kontestan meraih juara di kompetisi tingkat internasional<br \/>3.<span>A) Teks 1 : Apa,Kapan,Bagaimana, Dimana<br \/> Teks 2 : Mengapa, Di mana, Siapa, Kapan<\/span><br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 2,
+                            "user_best_rank_id": 7,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 2110643,
+                                        "user_id": 30327,
+                                        "content": "Gaboleh diedit ya kak?",
+                                        "created": "2015-05-03T15:57:34+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 2110645,
+                                        "user_id": 1062884,
+                                        "content": "Maaf, udah terpilih jawaban terbaik-nya dek ^^",
+                                        "created": "2015-05-03T15:57:37+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 2110647,
+                                        "user_id": 1062884,
+                                        "content": "Boleh kok, silakan",
+                                        "created": "2015-05-03T15:57:47+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 2110648,
+                                        "user_id": 1062884,
+                                        "content": "Yang salah harus diperbaiki",
+                                        "created": "2015-05-03T15:57:57+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 2110657,
+                                        "user_id": 30327,
+                                        "content": "Oke kak",
+                                        "created": "2015-05-03T15:58:40+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 2110643,
+                                "count": 9
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 148009,
+                                "nick": "EgiSimpson",
+                                "avatar": null
+                            },
+                            {
+                                "id": 30327,
+                                "nick": "Wyhanayuwana",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/df4\/a66ff83dfa981481d82740f382ba650b.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 3,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 536598,
+            "nick": "VictorDaSantos",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 9,
+                "answers": 29,
+                "comments": 71
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d00\/ac5084c981b2a03ff305d5f7d82a959e.jpeg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d3e\/59c38aa423888e32794a34a9a89c52b5.jpeg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d00\/ac5084c981b2a03ff305d5f7d82a959e.jpeg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d3e\/59c38aa423888e32794a34a9a89c52b5.jpeg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 504318,
+            "nick": "opinovi",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 52,
+                "comments": 13
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dfd\/0d7fbd3ec1200dd1bd37921bd3d83def.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d74\/7ec7df5c9035a4a5710bcf97055a535d.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dfd\/0d7fbd3ec1200dd1bd37921bd3d83def.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d74\/7ec7df5c9035a4a5710bcf97055a535d.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 570106,
+            "nick": "fonderz",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 2,
+                "comments": 4
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 567401,
+            "nick": "kikicimut31",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 158,
+                "answers": 321,
+                "comments": 230
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dbc\/0efb48d6b5cd0c25c35c227018a887c1.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d5f\/2e854c43484abf4f4fa5ab76632889bc.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dbc\/0efb48d6b5cd0c25c35c227018a887c1.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d5f\/2e854c43484abf4f4fa5ab76632889bc.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 1062884,
+            "nick": "NewBrainly100",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 151,
+                "answers": 1270,
+                "comments": 6605
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "BrainlyTeacher",
+                    "KsatriaBrainly",
+                    "Si Hebat"
+                ],
+                "count": 3
+            },
+            "ranks_ids": [
+                91,
+                23,
+                6
+            ]
+        },
+        {
+            "id": 1333022,
+            "nick": "wibowo1231",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 14,
+                "answers": 743,
+                "comments": 748
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc2\/065c707b677fb28b7b7dcc38524b6fa0.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dde\/ce7df84a1204be9ca1e5ffc76b1ee604.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc2\/065c707b677fb28b7b7dcc38524b6fa0.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dde\/ce7df84a1204be9ca1e5ffc76b1ee604.jpg"
+            },
+            "ranks": {
+                "color": "#ffbe32",
+                "names": [
+                    "Jenius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                7
+            ]
+        },
+        {
+            "id": 148009,
+            "nick": "EgiSimpson",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 30,
+                "comments": 11
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 30327,
+            "nick": "Wyhanayuwana",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 16,
+                "answers": 2146,
+                "comments": 202
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd7\/ca6dcbcb89b71728f8ad92dae341e353.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df4\/a66ff83dfa981481d82740f382ba650b.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd7\/ca6dcbcb89b71728f8ad92dae341e353.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df4\/a66ff83dfa981481d82740f382ba650b.jpg"
+            },
+            "ranks": {
+                "color": "#ffbe32",
+                "names": [
+                    "Apprentice",
+                    "Spam Fighter ",
+                    "Jenius"
+                ],
+                "count": 3
+            },
+            "ranks_ids": [
+                20,
+                17,
+                7
+            ]
+        }
+    ],
+    "validated": false
+}

@@ -1,0 +1,173 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 7658158,
+                        "subject_id": 1,
+                        "user_id": 3817910,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "ubahlah kalimat kalimat berikut menjadi kalimat tidak langsung <br \/>a.) \"Cepat kalian kemari!Di sini ada banyak barang lucu!\",panggil Sekar pada kami.<br \/>b.)\"Hei kamu yang berbaju merah!Jangan duduk di situ!,teriak perempuan itu padaku.<br \/>c.)Jangan tutup pintu itu Andi!\"larang pandu<br \/>d.)Dian berlari kemudian menghampiriku dan berbisik,\"Cowok indamanmuudah datang tuh!\"<br \/>e.)\"Apa yang harus kami persiapkan untuk perjalanan ini,Miss?\"tanya Bagas pada seorang guru.<br \/><br \/><br \/>NB:Tlng di jawab ya?Dan mohon sekali di jawab dengan benar?....",
+                        "created": "2016-10-01T11:34:25+07:00",
+                        "responses": 1,
+                        "tickets": 3,
+                        "first_resp": "2016-10-01T11:48:42+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "ubahlah kalimat kalimat berikut menjadi kalimat tidak langsung a.) \"Cepat kalian kemari!Di sini ada banyak barang lucu!\",panggil Sekar pada kami.b.)\"Hei kamu yang berbaju merah!Jangan duduk di situ!,teriak perempuan itu padaku.c.)Jangan tutup pintu itu Andi!\"larang pandud.)<em>Dian<\/em> berlari kemudian menghampiriku dan berbisik,\"<em>Cowok<\/em> indamanmuudah datang tuh!\"e.)\"Apa yang harus kami persiapkan untuk perjalanan ini,Miss?\"tanya Bagas pada seorang guru.NB:Tlng di jawab ya?Dan mohon sekali di jawab dengan <em>benar<\/em>?....",
+                        "snippet_content": "perempuan itu padaku.c.)Jangan tutup pintu itu Andi!\"larang pandud.)<em>Dian<\/em> berlari kemudian menghampiriku dan berbisik,\"<em>Cowok<\/em> indamanmuudah datang tuh!\"e"
+                    },
+                    "responses": [
+                        {
+                            "id": 9064565,
+                            "user_id": 3611250,
+                            "task_id": 7658158,
+                            "points": 5,
+                            "created": "2016-10-01T11:48:42+07:00",
+                            "content": "a.Sekar memanggil bahwa ada banyak barang lucu<br \/>b.Perempuan itu berteriak agar orang yang berbaju merah tidak boleh duduk di situ<br \/>c.Pandu melarang Andi untuk menutup pintu<br \/>d.Aku di hampiri oleh Dian bahwa cowok idaman sudah datang<br \/>e.Bagas bertanya kepada seorang guru yang harus disiapkan dalam perjalanan ",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3611250,
+                                "nick": "Cacazhafira2005",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/db7\/f0eb0a1deb72778e7e2a7fc0ee8507ee.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 1,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 3817910,
+            "nick": "Belva11111",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de5\/771e49a5e55eb51c2f146ce56df0367b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df7\/922f214a0799170c4f1d510f60362fa1.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de5\/771e49a5e55eb51c2f146ce56df0367b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df7\/922f214a0799170c4f1d510f60362fa1.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 3611250,
+            "nick": "Cacazhafira2005",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 23,
+                "answers": 522,
+                "comments": 108
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4d\/1244eaff26129deb90229a55696adfdf.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db7\/f0eb0a1deb72778e7e2a7fc0ee8507ee.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4d\/1244eaff26129deb90229a55696adfdf.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db7\/f0eb0a1deb72778e7e2a7fc0ee8507ee.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        }
+    ],
+    "validated": false
+}

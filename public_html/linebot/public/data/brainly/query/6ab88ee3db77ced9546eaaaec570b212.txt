@@ -1,0 +1,999 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 2444075,
+                        "subject_id": 2,
+                        "user_id": 1350398,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "ada 3 orang yg membawa pacar...<br \/>\njika di hitung dengan keseluruhan..<br \/>\nmereka ada 5 orang...<br \/>\nsiapa yg jomblo?<br \/>\ntuliskan dengan Caranya!",
+                        "created": "2015-04-09T14:35:51+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2015-04-09T15:01:00+07:00",
+                        "the_best_resp_id": "3123365",
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "ada 3 orang yg membawa pacar...\njika di hitung dengan keseluruhan..\nmereka ada 5 orang...\n<em>siapa<\/em> yg <em>jomblo<\/em>?\ntuliskan dengan Caranya!",
+                        "snippet_content": "ada 3 orang yg membawa pacar...\njika di hitung dengan keseluruhan..\nmereka ada 5 orang...\n<em>siapa<\/em> yg <em>jomblo<\/em>?\ntuliskan dengan Caranya!"
+                    },
+                    "responses": [
+                        {
+                            "id": 3123365,
+                            "user_id": 1348091,
+                            "task_id": 2444075,
+                            "points": 5,
+                            "created": "2015-04-09T15:01:00+07:00",
+                            "content": "yg bawa pacar 3 orang ,seharusnya ada = 3x2=6 orang<br \/>sedangkan bila di hitung keseluruhan ada \u00a0 \u00a0 \u00a0 \u00a0 5orang<br \/><strong>jadi orang yang jombol ada 6 orang - 5orang = 1 orang <\/strong><br \/>",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 0,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1348091,
+                                "nick": "RitaPuspitaSari",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d6e\/ffa636d176ecce00d3eabc8101b13c7e.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 8440325,
+                        "subject_id": 1,
+                        "user_id": 1891296,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "ini sambungan cerpen penulis terkenal<br \/>\n\u201dAmpuni Kanda, Adindaku tercinta.\u201d<br \/>\n\u201dSudah, tak usah obral rayuan gombal. Gimana dengan nama penaku?\u201d<br \/>\n\u201dBagaimana kalau nama belakang diikuti nama ayah, jadinya \u2026 Reka Sutardi!\u201d<br \/>\n\u201dAku gak mau. Nama ayah gak keren!\u201d<br \/>\nSore baru saja datang, ketika Reka yang membawa selembar kertas duduk di samping Reki yang sedang serius membaca majalah olahraga.<br \/>\n\u201dMas, ini nih, biodata yang baru saja kubuat. Dibaca ya, trus dikritisi.\u201d<br \/>\n\u201dIni biodata untuk apa? Kok prestasi menang menggambar waktu TK juga kamu tulis?\u201d<br \/>\n\u201cYa biodata untuk bukuku, Mas. Gimana, sih.\u201d<br \/>\nReki mengerutkan kening. \u201cBukannya prestasi yang berkaitan ama menulis saja yang perlu kamu cantumkan?\u201d<br \/>\n\u201cNggak apa-apa kan, malah lebih bagus, biar pembaca bisa merasa lebih dekat denganku.\u201d<br \/>\n\u201cOh, begitu, ya.\u201d Reki pun memilih untuk mengalah kemudian meneruskan membaca biodata yang dibuat Reka.<br \/>\nBaru beberapa kalimat, tiba-tiba Reki teringat sesuatu. \u201cEh, ngomong-omong, tulisantulisanmu sudah dimuat di berapa media sih, kok sudah mau dibukukan?\u201d<br \/>\n\u201cEng \u2026 belum satu pun.\u201d<br \/>\nReki terkejut juga mendengar jawaban adiknya. Namun ada pemikiran lain muncul di otaknya. Mungkin Reka Cuma belum mujur. \u201cPadahal kamu sudah nulis banyak, ya? Kamu sudah menulis berapa cerpen? Puisi? Atau novel? Mau gak kalau Mas bantuin cari penerbit? Bawa sini tulisan-tulisanmu biar Mas Reki lihat.\u201d<br \/>\nReka menjawab lirih, terlihat malu-malu. \u201dAku kan belum menulis satu pun.\u201d<br \/>\n\u201cHaaa!!!\u201d Kali ini keterkejutan itu memuncak. Reki melongo selebar-lebarnya. \u201dJadi, kemarin-kemarin ribut-ribut bikin foto close up, terus bikin nama pena, membuat biodata \u2026 untuk apa?\u201d<br \/>\nReka merengut. \u201dUntuk persiapan, dong. Kalau tiba-tiba Reka harus punya buku dan belum punya foto, nama pena ama biodata yang oke bisa-bisa para penggemar Reka kabur dan tidak tertarik lagi. Trus kalau sekali nulis langsung menang lomba trus diwawancarai ama banyak wartawan \u2026 gimana hayo?\u201d<br \/>\nReki spontan menepuk keningnya sembari menggeleng-gelengkan kepala. Reki bingung sendiri. Proses untuk menjadi penulis, setahu Reki adalah dengan banyak membaca, menulis, lalu mengirim ke berbagai media, di samping terus mengikuti lomba-lomba penulisan. Sementara Reka? Memangnya selama ini Reka baca buku panduan menjadi penulis hebat yang mana, ya? Meski dengan lemas dan semangat mendukung, Reka yang sudah menguap habis, Reki masih sempat juga memberi nasihat. \u201cUntuk jadi penulis, kamu harus menulis yang banyak dong, Reka.\u201d<br \/>\n\u201cBeres, Mas. Itu sih wajib, ntar juga Reka kerjain.\u201d<br \/>\nSumber: Nadia dkk. The Story of Jomblo. 2005<br \/>\npertanyaan<br \/>\n1. siapa sajakah tokoh dalam cerpen tersebut?<br \/>\n2. jelaskan watak masing-masing tokoh!<br \/>\n3. apa amanat yang ingin disampaikan oleh pengarang kepada pembaca?<br \/>",
+                        "created": "2016-11-17T16:30:18+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2016-11-17T16:35:48+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "ini sambungan cerpen penulis terkenal\n\u201dAmpuni Kanda, Adindaku tercinta.\u201d\n\u201dSudah, tak usah obral rayuan gombal. Gimana dengan nama penaku?\u201d\n\u201dBagaimana kalau nama belakang diikuti nama ayah, jadinya \u2026 Reka Sutardi!\u201d\n\u201dAku gak mau. Nama ayah gak keren!\u201d\nSore baru saja datang, ketika Reka yang membawa selembar kertas duduk di samping Reki yang sedang serius membaca majalah olahraga.\n\u201dMas, ini nih, biodata yang baru saja kubuat. Dibaca ya, trus dikritisi.\u201d\n\u201dIni biodata untuk apa? Kok prestasi menang menggambar waktu TK juga kamu tulis?\u201d\n\u201cYa biodata untuk bukuku, Mas. Gimana, sih.\u201d\nReki mengerutkan kening. \u201cBukannya prestasi yang berkaitan ama menulis saja yang perlu kamu cantumkan?\u201d\n\u201cNggak apa-apa kan, malah lebih bagus, biar pembaca bisa merasa lebih dekat denganku.\u201d\n\u201cOh, begitu, ya.\u201d Reki pun memilih untuk mengalah kemudian meneruskan membaca biodata yang dibuat Reka.\nBaru beberapa kalimat, tiba-tiba Reki teringat sesuatu. \u201cEh, ngomong-omong, tulisantulisanmu sudah dimuat di berapa media sih, kok sudah mau dibukukan?\u201d\n\u201cEng \u2026 belum satu pun.\u201d\nReki terkejut juga mendengar jawaban adiknya. Namun ada pemikiran lain muncul di otaknya. Mungkin Reka Cuma belum mujur. \u201cPadahal kamu sudah nulis banyak, ya? Kamu sudah menulis berapa cerpen? Puisi? Atau novel? Mau gak kalau Mas bantuin cari penerbit? Bawa sini tulisan-tulisanmu biar Mas Reki lihat.\u201d\nReka menjawab lirih, terlihat malu-malu. \u201dAku kan belum menulis satu pun.\u201d\n\u201cHaaa!!!\u201d Kali ini keterkejutan itu memuncak. Reki melongo selebar-lebarnya. \u201dJadi, kemarin-kemarin ribut-ribut bikin foto close up, terus bikin nama pena, membuat biodata \u2026 untuk apa?\u201d\nReka merengut. \u201dUntuk persiapan, dong. Kalau tiba-tiba Reka harus punya buku dan belum punya foto, nama pena ama biodata yang oke bisa-bisa para penggemar Reka kabur dan tidak tertarik lagi. Trus kalau sekali nulis langsung menang lomba trus diwawancarai ama banyak wartawan \u2026 gimana hayo?\u201d\nReki spontan menepuk keningnya sembari menggeleng-gelengkan kepala. Reki bingung sendiri. Proses untuk menjadi penulis, setahu Reki adalah dengan banyak membaca, menulis, lalu mengirim ke berbagai media, di samping terus mengikuti lomba-lomba penulisan. Sementara Reka? Memangnya selama ini Reka baca buku panduan menjadi penulis hebat yang mana, ya? Meski dengan lemas dan semangat mendukung, Reka yang sudah menguap habis, Reki masih sempat juga memberi nasihat. \u201cUntuk jadi penulis, kamu harus menulis yang banyak dong, Reka.\u201d\n\u201cBeres, Mas. Itu sih wajib, ntar juga Reka kerjain.\u201d\nSumber: Nadia dkk. The Story of <em>Jomblo.<\/em> 2005\npertanyaan\n1. <em>siapa<\/em> sajakah tokoh dalam cerpen tersebut?\n2. jelaskan watak masing-masing tokoh!\n3. apa amanat yang ingin disampaikan oleh pengarang kepada pembaca?",
+                        "snippet_content": "wajib, ntar juga Reka kerjain.\u201d\nSumber: Nadia dkk. The Story of <em>Jomblo.<\/em> 2005\npertanyaan\n1. <em>siapa<\/em> sajakah tokoh dalam cerpen tersebut?\n2"
+                    },
+                    "responses": [
+                        {
+                            "id": 10011687,
+                            "user_id": 4162154,
+                            "task_id": 8440325,
+                            "points": 5,
+                            "created": "2016-11-17T16:35:48+07:00",
+                            "content": "1 . reka dan reki <br \/>2. semangat , tidak putus asa  kalau reki suka menasehati <br \/>3. jangan putus asa dalam apa yang sedang di hadapi . tetap konsisten dan berpendirian...",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4162154,
+                                "nick": "tugas22",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dba\/b69be1b6841afa5d7976345c11fca4c1.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 1494142,
+                        "subject_id": 10,
+                        "user_id": 78207,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 30,
+                            "ptsForResp": 15,
+                            "ptsForBest": 8
+                        },
+                        "content": "Bantu gan.. <br \/>\nCari peta kedatangan bangsa barat ke indonesia<br \/>\nlalu<br \/>\n1. negara mana sajakah yang datang ke indonesia?<br \/>\n2. bagaimana mereka melakukan perjalanan ke indonesia?<br \/>\n3. daerah mana saja yang mereka datangi pada masa awal?<br \/>\n4. siapa sajakah tokoh dari masing masing bangsa tersebut?<br \/>\n5. jelaskan apa yang mereka lakukan ketika pertama datang ke indonesia!<br \/><br \/>\nNB : yang jawab ngasal ane sumpahin mandul+jomblo seumur hidup :v",
+                        "created": "2014-11-18T19:56:15+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2014-11-18T20:07:28+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Bantu gan.. \nCari peta kedatangan bangsa barat ke indonesia\nlalu\n1. negara mana sajakah yang datang ke indonesia?\n2. bagaimana mereka melakukan perjalanan ke indonesia?\n3. daerah mana saja yang mereka datangi pada masa awal?\n4. <em>siapa<\/em> sajakah tokoh dari masing masing bangsa tersebut?\n5. jelaskan apa yang mereka lakukan ketika pertama datang ke indonesia!\nNB : yang jawab ngasal ane sumpahin mandul+<em>jomblo<\/em> seumur hidup :v",
+                        "snippet_content": "3. daerah mana saja yang mereka datangi pada masa awal?\n4. <em>siapa<\/em> sajakah tokoh dari masing masing bangsa tersebut?\n5. jelaskan apa"
+                    },
+                    "responses": [
+                        {
+                            "id": 1906563,
+                            "user_id": 898282,
+                            "task_id": 1494142,
+                            "points": 15,
+                            "created": "2014-11-18T20:07:28+07:00",
+                            "content": "1portugis blnda jepang\u00a0 (bngsa barat)<br \/>2alat2 yg modern<br \/>3tarakan, pulau jawa dan kalimantan<br \/><br \/>5 mengambil rempah@ dan simpatikk rakyatt<br \/><br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 2,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 898282,
+                                "nick": "aminahindahsari",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d54\/3fe5e378be2934ca42f8f5d127bc5b95.png"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 8461987,
+                        "subject_id": 1,
+                        "user_id": 4172758,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Apa yang dimaksus Simile Dan Metafora,Yang jomblo Sapa tau bisa pcran ;)",
+                        "created": "2016-11-18T20:42:52+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2016-11-18T20:46:25+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [
+                                {
+                                    "id": 5499842,
+                                    "user_id": 4038880,
+                                    "content": "belajar aja dulu yang pinter baru",
+                                    "created": "2016-11-18T20:54:32+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                },
+                                {
+                                    "id": 5499879,
+                                    "user_id": 4070817,
+                                    "content": "hmm",
+                                    "created": "2016-11-18T20:57:01+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                },
+                                {
+                                    "id": 5499905,
+                                    "user_id": 4038880,
+                                    "content": "WTF ?",
+                                    "created": "2016-11-18T20:58:44+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                },
+                                {
+                                    "id": 5500689,
+                                    "user_id": 4172758,
+                                    "content": "Udh pinter sihh",
+                                    "created": "2016-11-18T22:30:53+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                },
+                                {
+                                    "id": 5530333,
+                                    "user_id": 4038880,
+                                    "content": "hahah .anjay",
+                                    "created": "2016-11-22T19:42:15+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                }
+                            ],
+                            "last_id": 5499842,
+                            "count": 6
+                        },
+                        "highlighted_content": "Apa yang dimaksus Simile Dan Metafora,Yang <em>jomblo<\/em> <em>Sapa<\/em> tau bisa pcran ;)",
+                        "snippet_content": "Apa yang dimaksus Simile Dan Metafora,Yang <em>jomblo<\/em> <em>Sapa<\/em> tau bisa pcran ;)"
+                    },
+                    "responses": [
+                        {
+                            "id": 10040088,
+                            "user_id": 4070817,
+                            "task_id": 8461987,
+                            "points": 5,
+                            "created": "2016-11-18T20:46:25+07:00",
+                            "content": "simile adalah majas perumpamaan. metafora itu majas perbandingan",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2016-11-18T22:53:21+07:00",
+                                "approver": {
+                                    "id": 1260414,
+                                    "nickname": "NadiaHikari",
+                                    "points": 70794,
+                                    "grade": 2,
+                                    "gender": 1,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/d63\/8656161d3ac083f2ce6faa0e5742ecb0.jpg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/d3d\/b513f8d77734fd467cb8f6e5c7f2ee83.jpg"
+                                    },
+                                    "content_approved_count": 2244
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 10042039,
+                            "user_id": 1292899,
+                            "task_id": 8461987,
+                            "points": 5,
+                            "created": "2016-11-18T22:29:46+07:00",
+                            "content": "simile adalah \u00a0majas perumpamaan tau perbandingan<br \/>metafora adalah kata kiasan yang menggunakan perbandingan yang singkat dan padat ( tanpa membandingkan)",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 5500696,
+                                        "user_id": 1292899,
+                                        "content": "penjelasan ini lebih padat dan jelas",
+                                        "created": "2016-11-18T22:32:58+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4070817,
+                                "nick": "ridhoahmad002",
+                                "avatar": null
+                            },
+                            {
+                                "id": 1292899,
+                                "nick": "sangarfahmi",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 8461807,
+                        "subject_id": 1,
+                        "user_id": 4172758,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Apa artinya Adopsi,AdaptasiTerjemahan.Yg JOMBLO Merapat Sapa tau Jodoh bisa pacaran ;)",
+                        "created": "2016-11-18T20:35:08+07:00",
+                        "responses": 1,
+                        "tickets": 3,
+                        "first_resp": "2016-11-18T20:38:45+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [
+                                {
+                                    "id": 5499781,
+                                    "user_id": 4172758,
+                                    "content": "Foto profilnya apa??",
+                                    "created": "2016-11-18T20:51:07+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                },
+                                {
+                                    "id": 5499854,
+                                    "user_id": 4038880,
+                                    "content": "hahaha. wanjjirr. profilnya foto cewe resee gtu lho",
+                                    "created": "2016-11-18T20:55:10+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                },
+                                {
+                                    "id": 5500003,
+                                    "user_id": 3830240,
+                                    "content": "Itu lu tanya adopsi,adaptasi doank ato sama terjemahannya??",
+                                    "created": "2016-11-18T21:05:50+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                },
+                                {
+                                    "id": 5500022,
+                                    "user_id": 4172758,
+                                    "content": "Udh di add kan",
+                                    "created": "2016-11-18T21:07:26+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                },
+                                {
+                                    "id": 5500043,
+                                    "user_id": 4038880,
+                                    "content": "yoman....",
+                                    "created": "2016-11-18T21:09:05+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                }
+                            ],
+                            "last_id": 5499781,
+                            "count": 12
+                        },
+                        "highlighted_content": "Apa artinya Adopsi,AdaptasiTerjemahan.Yg <em>JOMBLO<\/em> Merapat <em>Sapa<\/em> tau Jodoh bisa pacaran ;)",
+                        "snippet_content": "Apa artinya Adopsi,AdaptasiTerjemahan.Yg <em>JOMBLO<\/em> Merapat <em>Sapa<\/em> tau Jodoh bisa pacaran ;)"
+                    },
+                    "responses": [
+                        {
+                            "id": 10039835,
+                            "user_id": 4038880,
+                            "task_id": 8461807,
+                            "points": 5,
+                            "created": "2016-11-18T20:38:45+07:00",
+                            "content": "Adopsi<span>\u00a0adalah tindakan mengadopsi; diadopsi. Mengadopsi adalah untuk mengambil ke dalam keluarga seseorang (anak dari orang tua lain), terutama akibat perbuatan hukum formal. Hal ini juga dapat berarti tindakan hukum mengasumsikan orangtua seorang anak yang bukan milik sendiri.<br \/><br \/><\/span>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 5499597,
+                                        "user_id": 4172758,
+                                        "content": "Salah itu ;)",
+                                        "created": "2016-11-18T20:40:02+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 5499759,
+                                        "user_id": 4038880,
+                                        "content": "napa salah ???",
+                                        "created": "2016-11-18T20:49:40+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 5499763,
+                                        "user_id": 4038880,
+                                        "content": "btw buku gw gni lho!! wahh,buku salah cetak ini",
+                                        "created": "2016-11-18T20:50:01+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 5499770,
+                                        "user_id": 4172758,
+                                        "content": "Haha gua dah tau kok jwban nya ,tpi itu slah ;)",
+                                        "created": "2016-11-18T20:50:46+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 5499859,
+                                        "user_id": 4038880,
+                                        "content": "what do you mean ??",
+                                        "created": "2016-11-18T20:55:39+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 5
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4038880,
+                                "nick": "nadhilaafaf",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/db0\/3c0b47dd92d23013008baf23bf280da0.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 5,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 1350398,
+            "nick": "Adha7498",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 3,
+                "comments": 3
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1348091,
+            "nick": "RitaPuspitaSari",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 56,
+                "comments": 24
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dfc\/d14f04c484004ccd96d46828052d3691.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6e\/ffa636d176ecce00d3eabc8101b13c7e.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dfc\/d14f04c484004ccd96d46828052d3691.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6e\/ffa636d176ecce00d3eabc8101b13c7e.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 1891296,
+            "nick": "margakuma",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 269,
+                "answers": 68,
+                "comments": 162
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 4162154,
+            "nick": "tugas22",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 22,
+                "comments": 4
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d65\/6bc6a9d08ce7159e039183ad73ea45f5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dba\/b69be1b6841afa5d7976345c11fca4c1.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d65\/6bc6a9d08ce7159e039183ad73ea45f5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dba\/b69be1b6841afa5d7976345c11fca4c1.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 78207,
+            "nick": "TunkuSalim",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 8,
+                "answers": 7,
+                "comments": 1
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d44\/1a14da39d68ef423676720f40b29ea7a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d01\/878073387620b1f833ac779ead7dd5d9.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d44\/1a14da39d68ef423676720f40b29ea7a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d01\/878073387620b1f833ac779ead7dd5d9.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 898282,
+            "nick": "aminahindahsari",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 152,
+                "comments": 26
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dba\/d5bb576a087e1abaaa6225d7e418e655.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d54\/3fe5e378be2934ca42f8f5d127bc5b95.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dba\/d5bb576a087e1abaaa6225d7e418e655.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d54\/3fe5e378be2934ca42f8f5d127bc5b95.png"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 4172758,
+            "nick": "faliqagil",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 11,
+                "answers": 13,
+                "comments": 46
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dae\/606a6c62858dde9fc721fa79159b6703.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dfe\/b6af17e5c77f6e3d0169bbcfd1353ff6.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dae\/606a6c62858dde9fc721fa79159b6703.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dfe\/b6af17e5c77f6e3d0169bbcfd1353ff6.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4038880,
+            "nick": "nadhilaafaf",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 22,
+                "comments": 24
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9b\/54f916bbd8696be336be5278f4b9af31.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db0\/3c0b47dd92d23013008baf23bf280da0.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9b\/54f916bbd8696be336be5278f4b9af31.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db0\/3c0b47dd92d23013008baf23bf280da0.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4070817,
+            "nick": "ridhoahmad002",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 76,
+                "comments": 17
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 1292899,
+            "nick": "sangarfahmi",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 16,
+                "comments": 7
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 3830240,
+            "nick": "kharismagaluh3",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 10,
+                "comments": 3
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9e\/2409716ed5014e01e033002c7ec0f4ef.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df1\/71df77bd0afc519fbdb240c29e327023.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9e\/2409716ed5014e01e033002c7ec0f4ef.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df1\/71df77bd0afc519fbdb240c29e327023.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        }
+    ],
+    "validated": false
+}

@@ -1,0 +1,1958 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 7334752,
+                        "subject_id": 4,
+                        "user_id": 3674209,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Apakah aa fatkhul huda itu jodohku dimasa depan?",
+                        "created": "2016-09-13T22:22:17+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2016-09-13T22:23:14+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Apakah aa fatkhul huda itu <em>jodohku<\/em> <em>dimasa<\/em> depan?",
+                        "snippet_content": "Apakah aa fatkhul huda itu <em>jodohku<\/em> <em>dimasa<\/em> depan?"
+                    },
+                    "responses": [
+                        {
+                            "id": 8668655,
+                            "user_id": 3498495,
+                            "task_id": 7334752,
+                            "points": 5,
+                            "created": "2016-09-13T22:23:14+07:00",
+                            "content": "Membuat Pertanyaan Itu Yg berbobot dan memiliki arti!!!!<br \/>pertanyaan seperti ini tidak ada makna nya!!!",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 8668657,
+                            "user_id": 3663507,
+                            "task_id": 7334752,
+                            "points": 5,
+                            "created": "2016-09-13T22:23:20+07:00",
+                            "content": "wah itu yang kuasa yang tahu makasih",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3498495,
+                                "nick": "BlackBird911",
+                                "avatar": null
+                            },
+                            {
+                                "id": 3663507,
+                                "nick": "fitria183",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d89\/94481421909f39507658a973d3f0a44c.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 2259556,
+                        "subject_id": 10,
+                        "user_id": 1271996,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "saya sudah lama tidak memiliki pasangan, sewaktu saya mencari jawaban atas kegundahan hati saya, saya menemukan website ini, untuk itu saya berinisiatif untuk bertanya tentang kehidupan pribadi saya yang penuh dengan lika-liku. intinya dimana jodoh saya ?",
+                        "created": "2015-03-10T22:35:05+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2015-03-10T22:39:52+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [
+                                {
+                                    "id": 1832835,
+                                    "user_id": 1228605,
+                                    "content": "jodoh itu bagian dari rejeki, harus diminta kepada Pemberi rejeki, dan harus diusahakan. tidak cukup hanya berupaya salah satu dari keduanya.",
+                                    "created": "2015-03-11T04:53:40+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                }
+                            ],
+                            "last_id": 0,
+                            "count": 1
+                        },
+                        "highlighted_content": "saya sudah lama tidak memiliki pasangan, sewaktu saya mencari jawaban atas kegundahan hati saya, saya menemukan website ini, untuk itu saya berinisiatif untuk bertanya tentang kehidupan pribadi saya yang penuh dengan lika-liku. intinya <em>dimana<\/em> <em>jodoh<\/em> saya ?",
+                        "snippet_content": "menemukan website ini, untuk itu saya berinisiatif untuk bertanya tentang kehidupan pribadi saya yang penuh dengan lika-liku. intinya <em>dimana<\/em> <em>jodoh<\/em> saya ?"
+                    },
+                    "responses": [
+                        {
+                            "id": 2871891,
+                            "user_id": 362266,
+                            "task_id": 2259556,
+                            "points": 5,
+                            "created": "2015-03-10T22:39:52+07:00",
+                            "content": "Yakin dan percaya, jodoh itu tidak kemana, Jodoh ditangan Tuhan, tidak perlu risau tentang yang begituan.<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 2,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 362266,
+                                "nick": "sararosa16",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d5b\/b9f5b5d4cc0bdb28d84e6f1cac9bee11.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 8214887,
+                        "subject_id": 1,
+                        "user_id": 4073837,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "di mana jodoh si ridho",
+                        "created": "2016-11-04T11:27:41+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2016-11-04T11:28:09+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "<em>di mana<\/em> <em>jodoh<\/em> si ridho",
+                        "snippet_content": "<em>di mana<\/em> <em>jodoh<\/em> si ridho"
+                    },
+                    "responses": [
+                        {
+                            "id": 9748842,
+                            "user_id": 4062637,
+                            "task_id": 8214887,
+                            "points": 5,
+                            "created": "2016-11-04T11:28:09+07:00",
+                            "content": "maksudnya apa<br \/>nggak nerti",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 9748845,
+                            "user_id": 4063851,
+                            "task_id": 8214887,
+                            "points": 5,
+                            "created": "2016-11-04T11:28:20+07:00",
+                            "content": "jawabannya adalah di suatu tempat",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 5369830,
+                                        "user_id": 4073837,
+                                        "content": "dia mau sama kamu",
+                                        "created": "2016-11-04T11:29:14+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 5369832,
+                                        "user_id": 4063851,
+                                        "content": "maksud ??",
+                                        "created": "2016-11-04T11:29:34+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 5369843,
+                                        "user_id": 4073837,
+                                        "content": "bapak kau gilak?",
+                                        "created": "2016-11-04T11:32:34+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 5369846,
+                                        "user_id": 4063851,
+                                        "content": "ga jelas",
+                                        "created": "2016-11-04T11:33:12+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 4
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4062637,
+                                "nick": "adam460",
+                                "avatar": null
+                            },
+                            {
+                                "id": 4063851,
+                                "nick": "sofia135",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 4071011,
+                        "subject_id": 9,
+                        "user_id": 1395500,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "\"jodohkan pertanyaan berikutini dengan jawaban yg tepat\"<br \/><br \/>\n A.pemilihan umum          F.jujur <br \/>\n B.pemilu tahun 1971       G.pemilu tahun 1955<br \/>\n C.pemilu tahun 2004       H.bebas<br \/>\n D.rahasia                       I.adil<br \/>\n E.langsung                    J.pemilu tahun 1977<br \/><br \/><br \/>\n1.berlangsung serentak bagi selruh warga negara yg memenuhi                   <br \/>\n   syarat tanpa perbedaan ....                                                                                      <br \/><br \/>\n2.pemilih menentukan pilihannya sesuai keinginan sendiri<br \/>\n   tanpa tekanan dan paksaan dari siapa pun.....<br \/>\n3. apa yang telah di pilih dijamin tidak ada pihak manapun yang <br \/>\n   mengetahui dengan cara apa pun ....<br \/>\n4.semua yang terlibat dalam pelaksanaan pemilu harus <br \/>\n   bertindak jujur sesuai ketentuan yg berlaku...<br \/>\n5.setiap pemilih dan peserta pemilu di perlakukan adil bebas <br \/>\n   dari kecurangan dari pihak manapun ....<br \/>\n6. pemilu untuk memilih dpr dan konstituante dan merupakan <br \/>\n   pemilu pertama sejak indonesia merdeka.....<br \/>\n7.pemilu yg diberlakukan demokrasi langsung,dimana rakyat<br \/>\n   memilih langsung wakil wakil nya,serta presiden dan wakil<br \/>\npresiden...<br \/>",
+                        "created": "2015-10-27T22:34:29+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2015-10-27T23:29:01+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "\"<em>jodohkan<\/em> pertanyaan berikutini dengan jawaban yg tepat\"\n A.pemilihan umum          F.jujur \n B.pemilu tahun 1971       G.pemilu tahun 1955\n C.pemilu tahun 2004       H.bebas\n D.rahasia                       I.adil\n E.langsung                    J.pemilu tahun 1977\n1.berlangsung serentak bagi selruh warga negara yg memenuhi                   \n   syarat tanpa perbedaan ....                                                                                      \n2.pemilih menentukan pilihannya sesuai keinginan sendiri\n   tanpa tekanan dan paksaan dari siapa pun.....\n3. apa yang telah di pilih dijamin tidak ada pihak manapun yang \n   mengetahui dengan cara apa pun ....\n4.semua yang terlibat dalam pelaksanaan pemilu harus \n   bertindak jujur sesuai ketentuan yg berlaku...\n5.setiap pemilih dan peserta pemilu di perlakukan adil bebas \n   dari kecurangan dari pihak manapun ....\n6. pemilu untuk memilih dpr dan konstituante dan merupakan \n   pemilu pertama sejak indonesia merdeka.....\n7.pemilu yg diberlakukan demokrasi langsung,<em>dimana<\/em> rakyat\n   memilih langsung wakil wakil nya,serta presiden dan wakil\npresiden...",
+                        "snippet_content": "\"<em>jodohkan<\/em> pertanyaan berikutini dengan jawaban yg tepat\"\n A.pemilihan umum          F.jujur \n B.pemilu tahun 1971       G.pemilu tahun 1955\n C"
+                    },
+                    "responses": [
+                        {
+                            "id": 4865095,
+                            "user_id": 2151499,
+                            "task_id": 4071011,
+                            "points": 5,
+                            "created": "2015-10-27T23:29:01+07:00",
+                            "content": "1.C<br \/>2.H<br \/>3.D<br \/>4.F<br \/>5.I<br \/>6.G<br \/>7.A<br \/>",
+                            "mark": 3,
+                            "marks_count": 3,
+                            "thanks": 8,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2151499,
+                                "nick": "tirtasaripratiwi",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d46\/42e4ec0f11b8068a10e7d341b15b1fe5.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 9296843,
+                        "subject_id": 1,
+                        "user_id": 4495105,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Kutipan dari novel\u00a0Memang Jodoh\u00a0karya Marah Rusli di bawah ini yang menggambarkan bagian orientasi di mana perwatakan tokoh dilihat dari penggambaran oleh tokoh lain adalah \u2026.<br \/><br \/>Select your answer.<br \/><br \/>1Ayah dan ibu Hamli, yang telah berdandan pula, pergi menyaksikan makanan-makanan itu di beranda belakang dan sungguh mereka tercengang melihat kecakapan menantunya menyediakan dan mengatur makanan yang dibuatnya sendiri itu dan yang telah disaksikan oleh mereka, tentang lezat cita rasanya.<br \/>2Tanpa disadarinya, hatinya tertarik kepada Din Wati, yang tak dihiraukannya dan baru sekejap mata dilihatnya. Darahnya bagai terserap dan hatinya berdebar-debar tanpa sebab. Tetapi, karena dirasakannya penyakit pilunya datang lagi dengan hebatnya, dia termenung kembali sambil bersedih hati.<br \/>3\u201cAyu Wati, kemenakan Mamanda yang Mamanda sayangi!\u201d kata Patih dengan suara yang lemah lembut. \u201cLenyapkanlah dari dalam hati Ananda keinginan kawin dengan anak sekolah orang seberang yang belum tentu segala-galanya itu. Terimalah permintaan Suria, yang di dalam segala hal berpadanan benar dengan Ananda; sama-sama berasal tinggi, sama-sama muda belia, sama-sama bagus dan cantik. Sedangkan dia berpangkat dan berkuasa, dan Ananda akan menjadi putri dalam kabupaten.\u201d<br \/>4Walaupun Din Wati tak hendak melihat kembali siswa yang tinggal dalam stasiun itu, tanpa disengajanya, menoleh juga dia kepada Hamli. \u201cYang seorang ini, berlainan benar kelakuannya dengan yang telah pergi tadi. Pendiam, tak banyak lagak dan tak pula mata keranjang. Tetapi, mengapa dia berduka cita dan seperti orang yang sangat bersedih hati?\u201d<br \/>5\u201cKebangsawananku, rupaku yang tampan, kepandaian dan pangkatku yang lumayan serta umurku yang masih muda, bukankah semuanya itu penarik hati yang amat kuat bagi perempuan Padang, jika tak boleh kukatakan idaman ibu-ibu Padang yang punya anak gadis?\u201d<br \/><br \/><br \/><br \/>",
+                        "created": "2017-02-06T09:29:06+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-02-06T09:31:44+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Kutipan dari novel\u00a0Memang <em>Jodoh<\/em>\u00a0karya Marah Rusli di bawah ini yang menggambarkan bagian orientasi <em>di mana<\/em> perwatakan tokoh dilihat dari penggambaran oleh tokoh lain adalah \u2026.Select your answer.1Ayah dan ibu Hamli, yang telah berdandan pula, pergi menyaksikan makanan-makanan itu di beranda belakang dan sungguh mereka tercengang melihat kecakapan menantunya menyediakan dan mengatur makanan yang dibuatnya sendiri itu dan yang telah disaksikan oleh mereka, tentang lezat cita rasanya.2Tanpa disadarinya, hatinya tertarik kepada Din Wati, yang tak dihiraukannya dan baru sekejap mata dilihatnya. Darahnya bagai terserap dan hatinya berdebar-debar tanpa sebab. Tetapi, karena dirasakannya penyakit pilunya datang lagi dengan hebatnya, dia termenung kembali sambil bersedih hati.3\u201cAyu Wati, kemenakan Mamanda yang Mamanda sayangi!\u201d kata Patih dengan suara yang lemah lembut. \u201cLenyapkanlah dari dalam hati Ananda keinginan kawin dengan anak sekolah orang seberang yang belum tentu segala-galanya itu. Terimalah permintaan Suria, yang di dalam segala hal berpadanan benar dengan Ananda; sama-sama berasal tinggi, sama-sama muda belia, sama-sama bagus dan cantik. Sedangkan dia berpangkat dan berkuasa, dan Ananda akan menjadi putri dalam kabupaten.\u201d4Walaupun Din Wati tak hendak melihat kembali siswa yang tinggal dalam stasiun itu, tanpa disengajanya, menoleh juga dia kepada Hamli. \u201cYang seorang ini, berlainan benar kelakuannya dengan yang telah pergi tadi. Pendiam, tak banyak lagak dan tak pula mata keranjang. Tetapi, mengapa dia berduka cita dan seperti orang yang sangat bersedih hati?\u201d5\u201cKebangsawananku, rupaku yang tampan, kepandaian dan pangkatku yang lumayan serta umurku yang masih muda, bukankah semuanya itu penarik hati yang amat kuat bagi perempuan Padang, jika tak boleh kukatakan idaman ibu-ibu Padang yang punya anak gadis?\u201d",
+                        "snippet_content": "Kutipan dari novel\u00a0Memang <em>Jodoh<\/em>\u00a0karya Marah Rusli di bawah ini yang menggambarkan bagian orientasi <em>di mana<\/em> perwatakan tokoh dilihat dari penggambaran"
+                    },
+                    "responses": [
+                        {
+                            "id": 11113968,
+                            "user_id": 3272025,
+                            "task_id": 9296843,
+                            "points": 5,
+                            "created": "2017-02-06T09:31:44+07:00",
+                            "content": "jawaban yang benar pada no 4",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3272025,
+                                "nick": "AfifaMuning",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d2f\/bf52310576ee8f5192e4f5d6076604a3.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10542606,
+                        "subject_id": 14,
+                        "user_id": 4627537,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 25,
+                            "ptsForResp": 13,
+                            "ptsForBest": 7
+                        },
+                        "content": "banyak orang mengatakan di zaman ini melakukan berzina dimana pun terutama di tempat umum itu sudah biasa, bahkan dari orang tua sendiri membolehkan ! sekarang apa pendapat anda pada semua mengenai ini tindakkan apa yang akan kalian lakukakan? apa kalian akan membiarkan, apa kalian merasa kiamat sudah dekat? bagi yang merasa jika tidak sanggup menegur mari kita mulai dari diri sendiri, menjaga diri dari perbuatan zina yang benci allah,  allah mengatakan di surah an nur ayat 26 \" laki - laki yang keji untuk perempuan yang keji dan perempuan yang baik untuk laki - laki yang baik\" jadi jodoh nggak pernah ada yang tertukar.",
+                        "created": "2017-05-06T15:53:20+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2017-05-06T15:57:29+07:00",
+                        "the_best_resp_id": "12757578",
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [
+                                {
+                                    "id": 6978235,
+                                    "user_id": 4627537,
+                                    "content": "pendapat dari diri sendiri bukan spdari org lain",
+                                    "created": "2017-05-06T15:57:19+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                }
+                            ],
+                            "last_id": 0,
+                            "count": 1
+                        },
+                        "highlighted_content": "banyak orang mengatakan di zaman ini melakukan berzina <em>dimana<\/em> pun terutama di tempat umum itu sudah biasa, bahkan dari orang tua sendiri membolehkan ! sekarang apa pendapat anda pada semua mengenai ini tindakkan apa yang akan kalian lakukakan? apa kalian akan membiarkan, apa kalian merasa kiamat sudah dekat? bagi yang merasa jika tidak sanggup menegur mari kita mulai dari diri sendiri, menjaga diri dari perbuatan zina yang benci allah,  allah mengatakan di surah an nur ayat 26 \" laki - laki yang keji untuk perempuan yang keji dan perempuan yang baik untuk laki - laki yang baik\" jadi <em>jodoh<\/em> nggak pernah ada yang tertukar.",
+                        "snippet_content": "banyak orang mengatakan di zaman ini melakukan berzina <em>dimana<\/em> pun terutama di tempat umum itu sudah biasa, bahkan dari orang tua sendiri"
+                    },
+                    "responses": [
+                        {
+                            "id": 12757543,
+                            "user_id": 4986929,
+                            "task_id": 10542606,
+                            "points": 13,
+                            "created": "2017-05-06T15:57:29+07:00",
+                            "content": "memperbaiki diri agar tdk ikut ikutan seperti itu,,,bergaul dgn orang orang yg baik,,,dinggal dilingkungan pesantren",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 6978269,
+                                        "user_id": 4627537,
+                                        "content": "hanks ya sudah jawab",
+                                        "created": "2017-05-06T16:07:15+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 6980869,
+                                        "user_id": 4986929,
+                                        "content": "gk kok ,,,gk naik darah,,mff klo cara ku sedikit kasar menurut mu,,,",
+                                        "created": "2017-05-06T19:44:35+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 6981648,
+                                        "user_id": 4627537,
+                                        "content": "nggak papa kok aku cuma bercanda, maaf kalau berlebihan",
+                                        "created": "2017-05-06T20:35:48+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 6983662,
+                                        "user_id": 4986929,
+                                        "content": "iya gk papa,,aku jga minta mff",
+                                        "created": "2017-05-07T06:26:44+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 6984670,
+                                        "user_id": 4627537,
+                                        "content": "ya",
+                                        "created": "2017-05-07T09:13:38+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 6978269,
+                                "count": 8
+                            }
+                        },
+                        {
+                            "id": 12757578,
+                            "user_id": 4972579,
+                            "task_id": 10542606,
+                            "points": 13,
+                            "created": "2017-05-06T16:02:01+07:00",
+                            "content": "menurut saya ... <br \/>tindakan yng harus d lakukukan<br \/>1 . membentengi diri dengan iman <br \/>2. berteman dengan orang2 yng dpat menjauhkan kita dri perbuatan munkar<br \/>3.memilah mna yang baik &amp; buruk<br \/>4. menjaga pandangan dari lwan jenis <br \/>5. menjaga batasan terhadap yang bukan mahram ny <br \/><br \/>maaf klu jwbn ny kurng tepat\/ salah<br \/>",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 6978270,
+                                        "user_id": 4972579,
+                                        "content": "oh...mksih",
+                                        "created": "2017-05-06T16:07:17+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 6978274,
+                                        "user_id": 4627537,
+                                        "content": "sehaarusnya aku yang berterimakasih karena sudah mau menjawab pertanyaanku",
+                                        "created": "2017-05-06T16:08:35+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 6978286,
+                                        "user_id": 4627537,
+                                        "content": "makasih ya, oh iya mendalami ilmu agama itu penting karena skaang menurutku mungkin banyak yan nggak mau tau soal agama, tapi lebih pentingnya lagi di amalkan",
+                                        "created": "2017-05-06T16:10:51+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 6978357,
+                                        "user_id": 4972579,
+                                        "content": "yap smangat y buat mendalami ilmu agama",
+                                        "created": "2017-05-06T16:25:22+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 6978366,
+                                        "user_id": 4627537,
+                                        "content": "ok",
+                                        "created": "2017-05-06T16:26:03+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 6978270,
+                                "count": 6
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4986929,
+                                "nick": "uzhma2",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d8c\/381856858acc1c8d5379f6892165e43e.jpg"
+                            },
+                            {
+                                "id": 4972579,
+                                "nick": "SpiritStudy",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d2f\/5df2a219daa77f45aa5a76292cb93749.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10738587,
+                        "subject_id": 10,
+                        "user_id": 1790812,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 50,
+                            "ptsForResp": 25,
+                            "ptsForBest": 13
+                        },
+                        "content": "1.Siapakah yang menyebarkan kristen katholik di bagian Indonesia Timur?                  <br \/>\n2.Dimanakah tempat belanda menyerah pada Jepang?<br \/>\n3.Apa itu gerakan 3A..Sebutkan tujuannya!<br \/>\n4.Sebutkan organisasi sosial pada jaman Jepang?<br \/>\n5.Apa yang dimaksud dengan Jawa Hokokai?<br \/>\n6.Sebutkan Organisasi Islam pada jaman Jepang?<br \/>\n7.Sebutkan Oerganisasi militer pada tahun 1943?<br \/>\n8.Apa tujuan Romusa?<br \/>\n9.Apa arti Jugungonvu?<br \/>\n10.Apa yang dilakukan Jepang dalam mengexploitasi SDA di Indonesia?<br \/>\n11.Sebutkan 3 bentuk perjuangan pada zaman jepang .. Dan siapa pemimpinnya?<br \/>\n12.Sebutkan 3 perlawanan daerah di Indonesia.. Dan siapa pemimpinnya?<br \/>\n13.Jelaskan bagaimana kondisi pendidikan masyarakat?<br \/>\n14.Apa yang dimaksud dengan ajaran Shimtoisme?<br \/>\n15.BPUPKI di bentuk pada tanggal berapa ..dan siapa ketuanya?<br \/>\n16.Apa hasil panitia 9 (Jakarta charter)?<br \/>\n17.Kenapa BPUPKI Dibubarkan ?<br \/>\n18.Jelaskan peristiwa rengas dengklok?<br \/>\n19.Siapa yang termasuk golongan tua .. Dan siapa golongan muda?<br \/>\n20.Dimana proklamasi dirumuskan?<br \/>\n21.Bagaimana cara pemberitaan berita proklamasi ?<br \/>\n22.PPKI mengadakan rapat : <br \/>\n#Tanggal 18 Agustus hasil keputusan:..?<br \/>\n#Tanggal 19 dan hasil keputusan?<br \/>\n# Tanggal 22 dan hasil keputusan?<br \/>\n#Tanggal 23 dan hasil keputusan?<br \/><br \/><br \/>\n...Yang bisa jawab semua atau setengah nya gw Doain Cepet naik haji.. Rejeki lancar .. Jodoh lancar !!<br \/>",
+                        "created": "2017-05-21T19:38:50+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-05-21T20:18:59+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "6",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "1.Siapakah yang menyebarkan kristen katholik di bagian Indonesia Timur?                  \n2.Dimanakah tempat belanda menyerah pada Jepang?\n3.Apa itu gerakan 3A..Sebutkan tujuannya!\n4.Sebutkan organisasi sosial pada jaman Jepang?\n5.Apa yang dimaksud dengan Jawa Hokokai?\n6.Sebutkan Organisasi Islam pada jaman Jepang?\n7.Sebutkan Oerganisasi militer pada tahun 1943?\n8.Apa tujuan Romusa?\n9.Apa arti Jugungonvu?\n10.Apa yang dilakukan Jepang dalam mengexploitasi SDA di Indonesia?\n11.Sebutkan 3 bentuk perjuangan pada zaman jepang .. Dan siapa pemimpinnya?\n12.Sebutkan 3 perlawanan daerah di Indonesia.. Dan siapa pemimpinnya?\n13.Jelaskan bagaimana kondisi pendidikan masyarakat?\n14.Apa yang dimaksud dengan ajaran Shimtoisme?\n15.BPUPKI di bentuk pada tanggal berapa ..dan siapa ketuanya?\n16.Apa hasil panitia 9 (Jakarta charter)?\n17.Kenapa BPUPKI Dibubarkan ?\n18.Jelaskan peristiwa rengas dengklok?\n19.Siapa yang termasuk golongan tua .. Dan siapa golongan muda?\n20.<em>Dimana<\/em> proklamasi dirumuskan?\n21.Bagaimana cara pemberitaan berita proklamasi ?\n22.PPKI mengadakan rapat : \n#Tanggal 18 Agustus hasil keputusan:..?\n#Tanggal 19 dan hasil keputusan?\n# Tanggal 22 dan hasil keputusan?\n#Tanggal 23 dan hasil keputusan?\n...Yang bisa jawab semua atau setengah nya gw Doain Cepet naik haji.. Rejeki lancar .. <em>Jodoh<\/em> lancar !!",
+                        "snippet_content": "19.Siapa yang termasuk golongan tua .. Dan siapa golongan muda?\n20.<em>Dimana<\/em> proklamasi dirumuskan?\n21.Bagaimana cara pemberitaan berita proklamasi ?\n22.PPKI"
+                    },
+                    "responses": [
+                        {
+                            "id": 13026072,
+                            "user_id": 5061698,
+                            "task_id": 10738587,
+                            "points": 25,
+                            "created": "2017-05-21T20:18:59+07:00",
+                            "content": "15.pada tanggal 1 maret 1945,oleh jendral kumakichi harada<br \/>Dan ketuanya Dr.Radjiman Widyodiningrat<br \/>20.jl pegangsaan timur no 56,jakarta",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "6",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5061698,
+                                "nick": "zahraanwar",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 5652864,
+                        "subject_id": 20,
+                        "user_id": 2814573,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "menurut kalian jika ada wanita yang mengalami korban pemerkosaan  dimasa lalunya namun ia tidak hamil apakah pantas dimasa depan ia mendapatkan jodoh yang baik??",
+                        "created": "2016-04-03T21:09:14+07:00",
+                        "responses": 2,
+                        "tickets": 4,
+                        "first_resp": "2016-04-03T21:18:53+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "menurut kalian jika ada wanita yang mengalami korban pemerkosaan  <em>dimasa<\/em> lalunya namun ia tidak hamil apakah pantas <em>dimasa<\/em> depan ia mendapatkan <em>jodoh<\/em> yang baik??",
+                        "snippet_content": "menurut kalian jika ada wanita yang mengalami korban pemerkosaan  <em>dimasa<\/em> lalunya namun ia tidak hamil apakah pantas <em>dimasa<\/em> depan ia mendapatkan <em>jodoh<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 6695733,
+                            "user_id": 2792094,
+                            "task_id": 5652864,
+                            "points": 5,
+                            "created": "2016-04-03T21:18:53+07:00",
+                            "content": "menurutku pantas. <br \/>karena kejadian buruk dimasalalunya bukan atas kemauannya dan bahkan kejadian itu tidak ia inginkan terjadi,  jadi secara tidak langsung sebenarnya wanita itu tidak bersalah atas kejadian di masa lalunya",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 6695805,
+                            "user_id": 2832837,
+                            "task_id": 5652864,
+                            "points": 5,
+                            "created": "2016-04-03T21:21:54+07:00",
+                            "content": "asalkan dia bisa berubah kpd hal lebih baik knp tidak???",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2792094,
+                                "nick": "nurulnvr",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dbc\/3b0baaef5df3dcc207a50a2c87feea4c.jpg"
+                            },
+                            {
+                                "id": 2832837,
+                                "nick": "AlyaNingrumFairuz",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d37\/ca53f18223ddd7053c89bf8110906176.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 5430476,
+                        "subject_id": 5,
+                        "user_id": 1281004,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "tolong yang pinter inggris bantu artiin yaa, tp jangan mke google translate. HELP!*Merayakan tahun baru ke pantai jodoh*<br \/>\nTahun baru kemarin, tanggal 01 januari 2016 saya dan teman-teman saya pergi ke pantai jodoh untuk merayakan tahun baru di pantai tersebut.<br \/>\nPerjalanan dari rumah saya menuju pantai jodoh menempuh waktu sekitar 2 jam kurang lebihnya. Di sepanjang jalan saya bertemu teman-teman lain yang akan merayakan tahun baru juga. Perjalanan menuju pantai sangat melelahkan karena jalannya agak rusak dan berkelok-kelok. Sebelum sampai di pantai kami di pintu masuk dimintai karcis yang harus dibayarkan Rp. 6.000,-\/orang untuk menikmati wahana pantai tersebu. dan akhirnya saya dan teman-teman sampai di pantai tersebut. Disana saya dan teman-teman saya bermain air, bermain pasir untuk menghilangkan rasa stress dan sekaligus merayakan tahun baru. Tidak terasa terik matahari sudah mulai menyengat dan akhirnya saya dan teman-teman berteduh di bawah pohon cemara, dan saya membeli makanan, minuman dan jajan untuk dinikmati bersama-sama.<br \/>\nSesudah makanan tersebut habis saya dan teman-teman berpikir untuk pulang karena hari sudah mulai siang. Dan akhirnya saya dan teman-teman pulang ke rumah masing-masing. Diperjalanan menuju rumah, saya dan teman-teman melihat orang kecelakaan, di jalan raya pantura dan saya menolong orang yang terjatuh tersebut dan saya mengantarkan orang itu ke puskesmas terdekat situ, dan sesampai di puskesmas, saya pergi untuk melanjutkan perjalanan pulang karena hari sudah mulai sore. Dan akhirnya saya sampai dirumah sekitar jam 5 kurang 10 menit. Saya langsung mandi, sesudah selesai mandi saya makan dan beristirahat.<br \/>",
+                        "created": "2016-03-14T08:28:04+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2016-03-14T08:39:50+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "tolong yang pinter inggris bantu artiin yaa, tp jangan mke google translate. HELP!*Merayakan tahun baru ke pantai <em>jodoh<\/em>*\nTahun baru kemarin, tanggal 01 januari 2016 saya dan teman-teman saya pergi ke pantai <em>jodoh<\/em> untuk merayakan tahun baru di pantai tersebut.\nPerjalanan dari rumah saya menuju pantai <em>jodoh<\/em> menempuh waktu sekitar 2 jam kurang lebihnya. Di sepanjang jalan saya bertemu teman-teman lain yang akan merayakan tahun baru juga. Perjalanan menuju pantai sangat melelahkan karena jalannya agak rusak dan berkelok-kelok. Sebelum sampai di pantai kami di pintu masuk dimintai karcis yang harus dibayarkan Rp. 6.000,-\/orang untuk menikmati wahana pantai tersebu. dan akhirnya saya dan teman-teman sampai di pantai tersebut. <em>Disana<\/em> saya dan teman-teman saya bermain air, bermain pasir untuk menghilangkan rasa stress dan sekaligus merayakan tahun baru. Tidak terasa terik matahari sudah mulai menyengat dan akhirnya saya dan teman-teman berteduh di bawah pohon cemara, dan saya membeli makanan, minuman dan jajan untuk dinikmati bersama-sama.\nSesudah makanan tersebut habis saya dan teman-teman berpikir untuk pulang karena hari sudah mulai siang. Dan akhirnya saya dan teman-teman pulang ke rumah masing-masing. Diperjalanan menuju rumah, saya dan teman-teman melihat orang kecelakaan, di jalan raya pantura dan saya menolong orang yang terjatuh tersebut dan saya mengantarkan orang itu ke puskesmas terdekat situ, dan sesampai di puskesmas, saya pergi untuk melanjutkan perjalanan pulang karena hari sudah mulai sore. Dan akhirnya saya sampai dirumah sekitar jam 5 kurang 10 menit. Saya langsung mandi, sesudah selesai mandi saya makan dan beristirahat.",
+                        "snippet_content": "tolong yang pinter inggris bantu artiin yaa, tp jangan mke google translate. HELP!*Merayakan tahun baru ke pantai <em>jodoh<\/em>*\nTahun baru kemarin"
+                    },
+                    "responses": [
+                        {
+                            "id": 6420929,
+                            "user_id": 2432902,
+                            "task_id": 5430476,
+                            "points": 5,
+                            "created": "2016-03-14T08:39:50+07:00",
+                            "content": "Celebrating new year in Jodoh beach<br \/>last new year on the 1st january 2016, my friends and i went to pantai Jodoh to celebrate new year there<br \/><br \/><br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 7,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2017-02-20T23:14:10+07:00",
+                                "approver": {
+                                    "id": 2663844,
+                                    "nickname": "Mahaguru",
+                                    "points": 1162,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/db6\/c5fb7b6a68ce26ccea00dc12cb60d96f.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/df7\/fe8fb6dfa0d217a5d3fafa2a27e269ba.png"
+                                    },
+                                    "content_approved_count": 718062
+                                }
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 3748543,
+                                        "user_id": 2432902,
+                                        "content": "eventually we arrived at the beach and we played  in the water and sand to relieve our stress and also",
+                                        "created": "2016-03-14T08:54:53+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 3748548,
+                                        "user_id": 2432902,
+                                        "content": "celebrating new year. the sun shone brighter so we sat under a tree. i bought food, drink, and snacks for us to enjoy.after we",
+                                        "created": "2016-03-14T08:56:14+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 3748553,
+                                        "user_id": 2432902,
+                                        "content": "finished eating, we decided to go home bcs its already afternoon. we finally  went  home to our own houses. to our",
+                                        "created": "2016-03-14T08:57:32+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 3748565,
+                                        "user_id": 2432902,
+                                        "content": "on the way home, my friends and i saw an accident on the Pantura road. we decided to help the person and brought him to he nearest hospital.",
+                                        "created": "2016-03-14T09:03:07+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 3748567,
+                                        "user_id": 2432902,
+                                        "content": "and i continued my journey home bcs its already late. i arrived home at 4.50. i directly took a bath and then ate and took a rest",
+                                        "created": "2016-03-14T09:04:21+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 3748543,
+                                "count": 8
+                            }
+                        },
+                        {
+                            "id": 6421280,
+                            "user_id": 2734685,
+                            "task_id": 5430476,
+                            "points": 5,
+                            "created": "2016-03-14T09:40:59+07:00",
+                            "content": "The new year yesterday, 01 January 2016 Date Me And Friends I Go To Shore mate for a review of the New Year celebrations at the beach.<br \/>Journey from Home I Go take a mate Coast Time About 2 hours More or less. Along the way I met friends lying Yang will celebrate the New Year also. Journey to Beach Very tiring BECAUSE way Somewhat Damaged and winding serpentine. BEFORE Until Beach in Door SIGN We held Tickets Must be paid Rp. 6000, - \/ person to review Enjoy rides tersebu Beach. And finally I and Friends At The Beach. There's Me And My friends have been conditioned Playing, Playing sand to review relieve stress and celebrate the New Year at a Time. DO NOT you feel sting sun Already Starting And finally I and friends to take shelter in the Lower spruce, and I buy food, drinks and snacks for the review be enjoyed together.<br \/>After the FOOD Out of Me And Friends Thinking to review BECAUSE Round Day Already Started afternoon. And finally I and friends Pulang Ke their homes. While on their way towards the house, I and friends Seeing Accident orangutan, on a highway north coast And I help orangutans The Toffees are And I drove orangutan ITU Ke nearest health clinic in situ, Dan Arriving at the clinic, I Went to review resume Journey Home BECAUSE Day already sick Start. And finally I got home Approximately 5 hours less 10 minutes. I Direct shower, shower Done After I Eat and rest.",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "2",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2432902,
+                                "nick": "Harmonies",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d9f\/d4a931637e60dff2d5cceec767aeb776.jpeg"
+                            },
+                            {
+                                "id": 2734685,
+                                "nick": "fiqranmunawar1409",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d27\/1692066daa6a6785782090b4ef7361dc.png"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 9,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 3674209,
+            "nick": "Novi111111111",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 8,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 3498495,
+            "nick": "BlackBird911",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 135,
+                "comments": 9
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 3663507,
+            "nick": "fitria183",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 126,
+                "comments": 25
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d1d\/c7a1fca031cf1d782a83f8b23f636da1.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d89\/94481421909f39507658a973d3f0a44c.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d1d\/c7a1fca031cf1d782a83f8b23f636da1.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d89\/94481421909f39507658a973d3f0a44c.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 1271996,
+            "nick": "septishrh",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 4,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1228605,
+            "nick": "iboed",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 138,
+                "comments": 141
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/ddb\/3c2d8c4a3b70bba6d5a81d44607f369b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de7\/d0ae7dd6c4e1c7915853894a222833f6.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/ddb\/3c2d8c4a3b70bba6d5a81d44607f369b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de7\/d0ae7dd6c4e1c7915853894a222833f6.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 362266,
+            "nick": "sararosa16",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 6,
+                "answers": 30,
+                "comments": 10
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d38\/8a3365454c3fc842a9cc2319fc8b5420.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d5b\/b9f5b5d4cc0bdb28d84e6f1cac9bee11.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d38\/8a3365454c3fc842a9cc2319fc8b5420.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d5b\/b9f5b5d4cc0bdb28d84e6f1cac9bee11.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 4073837,
+            "nick": "arjsj",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 0,
+                "comments": 4
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4062637,
+            "nick": "adam460",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 12,
+                "answers": 9,
+                "comments": 17
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4063851,
+            "nick": "sofia135",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 404,
+                "comments": 107
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 1395500,
+            "nick": "bungadeliacitra",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 53,
+                "answers": 29,
+                "comments": 17
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d42\/da744f10391912a8cc85ec01ef234138.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dcd\/f91c5c71737c5ddc132ce6d486b80c04.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d42\/da744f10391912a8cc85ec01ef234138.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dcd\/f91c5c71737c5ddc132ce6d486b80c04.jpg"
+            },
+            "ranks": {
+                "color": "#000000",
+                "names": [],
+                "count": 0
+            },
+            "ranks_ids": null
+        },
+        {
+            "id": 2151499,
+            "nick": "tirtasaripratiwi",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 24,
+                "comments": 2
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d68\/40d62fc3c28a78370d382764b4bedd7c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d46\/42e4ec0f11b8068a10e7d341b15b1fe5.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d68\/40d62fc3c28a78370d382764b4bedd7c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d46\/42e4ec0f11b8068a10e7d341b15b1fe5.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4495105,
+            "nick": "athen2",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 10,
+                "answers": 0,
+                "comments": 3
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d28\/2d128c8afe96d8a145298d24a8b84020.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d20\/81f2c177e223b09c1f5320e9363427a8.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d28\/2d128c8afe96d8a145298d24a8b84020.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d20\/81f2c177e223b09c1f5320e9363427a8.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 3272025,
+            "nick": "AfifaMuning",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 7,
+                "comments": 1
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d29\/be42e3b86f1b6935900cce281a8e78c5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d2f\/bf52310576ee8f5192e4f5d6076604a3.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d29\/be42e3b86f1b6935900cce281a8e78c5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d2f\/bf52310576ee8f5192e4f5d6076604a3.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4627537,
+            "nick": "han0173",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 554,
+                "comments": 326
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dbd\/80bb9795233deda9987f1868355111e6.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da4\/fb2a21af771aa4732cdb4d0ac14d7ec2.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dbd\/80bb9795233deda9987f1868355111e6.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da4\/fb2a21af771aa4732cdb4d0ac14d7ec2.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        },
+        {
+            "id": 4986929,
+            "nick": "uzhma2",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 11,
+                "answers": 22,
+                "comments": 9
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d31\/c643e7a29fccb105cd99bb7900157ed5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d8c\/381856858acc1c8d5379f6892165e43e.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d31\/c643e7a29fccb105cd99bb7900157ed5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d8c\/381856858acc1c8d5379f6892165e43e.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4972579,
+            "nick": "SpiritStudy",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 163,
+                "comments": 57
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dda\/570d3e56bc97ea124a8b1ebc74781dc8.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d2f\/5df2a219daa77f45aa5a76292cb93749.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dda\/570d3e56bc97ea124a8b1ebc74781dc8.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d2f\/5df2a219daa77f45aa5a76292cb93749.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 1790812,
+            "nick": "Trivaldi",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 10,
+                "answers": 7,
+                "comments": 5
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d42\/2f34f581e52dd24f15453219edf94353.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d1d\/0761d0bc65a75df9ccaf7280c9f01e2c.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d42\/2f34f581e52dd24f15453219edf94353.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d1d\/0761d0bc65a75df9ccaf7280c9f01e2c.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 5061698,
+            "nick": "zahraanwar",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 3,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 2814573,
+            "nick": "fhashelfa",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 8,
+                "answers": 12,
+                "comments": 9
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d36\/4733fc3a6338f681927ad6163f84a879.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d27\/a4322eff714937a119bfaafbc10aa67c.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d36\/4733fc3a6338f681927ad6163f84a879.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d27\/a4322eff714937a119bfaafbc10aa67c.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 2792094,
+            "nick": "nurulnvr",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 278,
+                "comments": 40
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d87\/f8d893cf168d572b63574b3f5ef5c4b0.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dbc\/3b0baaef5df3dcc207a50a2c87feea4c.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d87\/f8d893cf168d572b63574b3f5ef5c4b0.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dbc\/3b0baaef5df3dcc207a50a2c87feea4c.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 2832837,
+            "nick": "AlyaNingrumFairuz",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 35,
+                "answers": 59,
+                "comments": 11
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d91\/5199ce5bdc7a91585af6726d4be594f5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d37\/ca53f18223ddd7053c89bf8110906176.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d91\/5199ce5bdc7a91585af6726d4be594f5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d37\/ca53f18223ddd7053c89bf8110906176.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 1281004,
+            "nick": "lailatulkaromah",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 37,
+                "answers": 142,
+                "comments": 62
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dcb\/8a3c15332a0b2b4778a4deb10ac31fbf.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d78\/3b47f6c8d50bf8969c88ca7c3ed2bb15.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dcb\/8a3c15332a0b2b4778a4deb10ac31fbf.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d78\/3b47f6c8d50bf8969c88ca7c3ed2bb15.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 2432902,
+            "nick": "Harmonies",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 16,
+                "answers": 927,
+                "comments": 258
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d16\/37f14498a99196372a46faa4d4273e2f.jpeg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d9f\/d4a931637e60dff2d5cceec767aeb776.jpeg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d16\/37f14498a99196372a46faa4d4273e2f.jpeg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d9f\/d4a931637e60dff2d5cceec767aeb776.jpeg"
+            },
+            "ranks": {
+                "color": "#ffbe32",
+                "names": [
+                    "Apprentice",
+                    "Spam Fighter ",
+                    "Jenius"
+                ],
+                "count": 3
+            },
+            "ranks_ids": [
+                20,
+                17,
+                7
+            ]
+        },
+        {
+            "id": 2734685,
+            "nick": "fiqranmunawar1409",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 11,
+                "answers": 9,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d0b\/ef20c34d0fe5fb6500741002de80adc8.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d27\/1692066daa6a6785782090b4ef7361dc.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d0b\/ef20c34d0fe5fb6500741002de80adc8.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d27\/1692066daa6a6785782090b4ef7361dc.png"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        }
+    ],
+    "validated": false
+}

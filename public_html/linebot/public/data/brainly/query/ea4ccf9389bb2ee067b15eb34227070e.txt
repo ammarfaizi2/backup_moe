@@ -1,0 +1,1604 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 10832102,
+                        "subject_id": 1,
+                        "user_id": 1057187,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 20,
+                            "ptsForResp": 10,
+                            "ptsForBest": 5
+                        },
+                        "content": "Apa saja unsur intrinsik dan ektrinsik dari cerpen ini<br \/><br \/>\n Jala nelayan<br \/><br \/>\nTiga jengkal lagi matahari menyelinap di balik gunung. Gumpalan awan merayap, menari mem- bayangi langit jingga. Udara sore mendesah. Ombak menampar sampan nelayan yang meminjam napas di dermaga.<br \/>\nGemericik air laut bersuara merdu. Bukit-bukit biru tua beserta kerlingan matahari di batas senja. Layar mengembang. Burung-burung riang di udara, elok dipandang, indah dinikmati dan dikunyah, ditelan hati galau dan pikiran gelisah. Tetapi yang demikian mungkin hanyalah romantika penghuni kota yang iseng, bukan buat Basri yang mencari nafkah. Jam kerja Basri diperpanjang karena ikan yang diperoleh belum seberapa.<br \/>\nTuhan Maha Pemurah. Siang malam ikan di laut dikuras sekian nafsu, sekian perut, dan segunung harapan, namun masih saja tersisa rezeki bagi mereka yang bersabar dan mencari. Tak bosan-bosan orang menyebarkan racun, melempar bom; meng- hancurkan terumbu karang, meledakkan tempat ikan berkembang biak, membabat habis kekinian dan masa depan binatang laut, tetapi tetap saja Tuhan bermurah hati walau langsung atau tidak bayi-bayi dalam gendongan ikut memikul beban dan tiap hari bertambah berat, semakin parah.<br \/>\nPelan-pelan Basri mengangkat jangkar, me- mandang arah dermaga tempat nelayan dan tengkulak tawar-menawar harga ikan. Matahari sudah hampir hilang. Bapak tiga anak itu bergerak cepat. Layar mulai dipasang. Sebuah termos plastik dekat kemudi dibuka. Sebaris senyum melintas di bibirnya sebelum menutup kembali termos plastik. Di benaknya tiba-tiba muncul wajah putri sulung yang memesan kaus kaki putih, sepatu, dan topi cokelat guna mengikuti lomba gerak jalan antarsekolah. Andaikata ikan tersebut laku tinggi pasti putrinya bahagia.<br \/><br \/>\nTengkulak terakhir duduk tenang di bibir dermaga. Sesekali tatapannya memandang sampan nelayan mendekati. Wajahnya tak berekspresi. Bila saja batang leher perempuan itu tidak bergerak karena memandang dua ember iklan yang ia beli pada nelayan- nelayan sebelumnya, keberadaannya boleh dibilang mirip gentong.<br \/>\n\u201dCepat!\u201d perempuan berbadan subur itu me- nyambut. \u201dSudah sore!\u201d<br \/>\nBasri melempar jangkar; menepikan sampan dan terburu-buru menginjak daratan sambil menjinjing termos ikan. \u201dMau jual berapa?\u201d tengkulak meng- hadang dengan pertanyaan tatkala ia memperlihatkan jenis-jenis ikan yang diperolehnya.<br \/>\n\u201dMaunya berapa. Saya bingung lantaran tidak tahu-menahu harga?\u201d ia balik tertanya.<br \/>\n\u201dKamu dong, bilang,\u201d perempuan itu berkata sambil membolak-balik ikan dalam termos dengan pandangan tak bernafsu. \u201dAyo, sudah sore,\u201d ia me- nyelipkan empat lembar uang ribuan ke tangan Basri.<br \/>\n\u201dSegini?\u201d katanya dengan suara hampir tak keluar. \u201dTidak,\u201d ia menggeleng.<br \/>\n\u201dJangan segini sebab ikan-ikan itu kan banyak.\u201d\u201dSiapa bilang ikan ini sedikit? Kamu kan tahu saya tak bisa langsung menjual sore ini. Saya hanya bisa menjualnya besok pagi. Untuk itu mesti kuawetkan. Saya akan membutuhkan uang untuk membeli es batu segala.\u201d<br \/>\n\u201dTetapi harga es batu berapa, sih? Sekiranya ibu mau membayar lebih, saya bisa mencukupi kebutuhan keluarga.\u201d Basri berkata spontan.<br \/>\n\u201dYa, sudahlah,\u201d perempuan itu menanggapi, bersikap mengalah. \u201dSaya tambah seribu.\u201d<br \/>\nBasri berpikir-pikir. Kepalanya menunduk. Lama baru kemudian ia menggeleng.<br \/>\n\u201dMau?\u201d perempuan itu memperingatkan. \u201dKalau mau, ambil. Kalau tidak saya pulang. Ayo! Sudah sore,\u201d perempuan itu berkata serius dengan nada mengandung ancaman.<br \/>\nBasri berpikir keras. Sepasang sepatu hitam, kaus kaki putih, topi cokelat, dan ikat pinggang hitam yang digantung depan toko pakaian di lorong pasar di kota<br \/>\nkecamatan menari-nari di pelupuk matanya. Seandai- nya ia mampu mendapatkan uang lebih tentu dapat memenuhi keinginan putrinya. Ternyata dia kecewa karena tidak mampu membelikan pesanan putrinya.<br \/>\nSebuah bus antarkota berhenti di jalan raya. Pedagang ikan berbadan gemuk melompat ke bus lalu terdengar kendaraan itu menderu, jauh, semakin jauh, menghilang di tikungan jalan.<br \/>\nBasri tak berkutik. Hari itu ia bukan hanya gagal memperoleh uang, tetapi kalah dalam segala per- mainan. Ia menggaruk kepala, menarik-embuskan napas kemudian mencari di mana puntung rokoknya disimpan. Ia menggeleng. Rupanya ia tidak sekedar menggertak, pikirnya. \u201dMentang-mentang . . . ,\u201d suara Basri meletus bagai gunung api memuntahkan lahar. Seandainya ia seorang tengkulak, maka apa yang akan dilakukannya. Pasti ia akan berbuat yang sama.",
+                        "created": "2017-05-30T23:46:11+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-06-23T11:34:42+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "6",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Apa saja unsur intrinsik dan ektrinsik dari cerpen ini\n Jala nelayan\nTiga jengkal lagi matahari menyelinap di balik gunung. Gumpalan awan merayap, menari mem- bayangi langit jingga. Udara sore mendesah. Ombak menampar sampan nelayan yang meminjam napas di dermaga.\nGemericik air laut bersuara merdu. Bukit-bukit biru tua beserta kerlingan matahari di batas senja. Layar mengembang. Burung-burung riang di udara, elok dipandang, indah dinikmati dan dikunyah, ditelan hati galau dan pikiran gelisah. Tetapi yang demikian mungkin hanyalah romantika penghuni kota yang iseng, bukan buat Basri yang mencari nafkah. Jam kerja Basri diperpanjang karena ikan yang diperoleh belum seberapa.\nTuhan Maha Pemurah. Siang malam ikan di laut dikuras sekian nafsu, sekian perut, dan segunung harapan, namun masih saja tersisa rezeki bagi mereka yang bersabar dan mencari. Tak bosan-bosan orang menyebarkan racun, melempar bom; meng- hancurkan terumbu karang, meledakkan tempat ikan berkembang biak, membabat habis kekinian dan masa depan binatang laut, tetapi tetap saja Tuhan bermurah hati walau langsung atau tidak bayi-bayi dalam gendongan ikut memikul beban dan tiap hari bertambah berat, semakin parah.\nPelan-pelan Basri mengangkat jangkar, me- mandang arah dermaga tempat nelayan dan tengkulak tawar-menawar harga ikan. Matahari sudah hampir hilang. Bapak tiga anak itu bergerak cepat. Layar mulai dipasang. Sebuah termos plastik dekat kemudi dibuka. Sebaris senyum melintas di bibirnya sebelum menutup kembali termos plastik. Di benaknya tiba-tiba muncul wajah putri sulung yang memesan kaus kaki putih, sepatu, dan topi cokelat guna mengikuti lomba gerak jalan antarsekolah. Andaikata ikan tersebut laku tinggi pasti putrinya bahagia.\nTengkulak terakhir duduk tenang di bibir dermaga. Sesekali tatapannya memandang sampan nelayan mendekati. Wajahnya tak berekspresi. Bila saja batang leher perempuan itu tidak bergerak karena memandang dua ember iklan yang ia beli pada nelayan- nelayan sebelumnya, keberadaannya boleh dibilang mirip <em>gentong.<\/em>\n\u201dCepat!\u201d perempuan berbadan subur itu me- nyambut. \u201dSudah sore!\u201d\nBasri melempar jangkar; menepikan sampan dan terburu-buru menginjak daratan sambil menjinjing termos ikan. \u201d<em>Mau<\/em> jual berapa?\u201d tengkulak meng- hadang dengan pertanyaan tatkala ia memperlihatkan jenis-jenis ikan yang diperolehnya.\n\u201dMaunya berapa. Saya bingung lantaran tidak tahu-menahu harga?\u201d ia balik tertanya.\n\u201dKamu dong, bilang,\u201d perempuan itu berkata sambil membolak-balik ikan dalam termos dengan pandangan tak bernafsu. \u201dAyo, sudah sore,\u201d ia me- nyelipkan empat lembar uang ribuan ke tangan Basri.\n\u201dSegini?\u201d katanya dengan suara hampir tak keluar. \u201dTidak,\u201d ia menggeleng.\n\u201dJangan segini sebab ikan-ikan itu <em>kan<\/em> banyak.\u201d\u201dSiapa bilang ikan ini sedikit? Kamu <em>kan<\/em> tahu saya tak bisa langsung menjual sore ini. Saya hanya bisa menjualnya besok pagi. Untuk itu mesti kuawetkan. Saya akan membutuhkan uang untuk membeli es batu segala.\u201d\n\u201dTetapi harga es batu berapa, sih? Sekiranya ibu <em>mau<\/em> membayar lebih, saya bisa mencukupi kebutuhan keluarga.\u201d Basri berkata spontan.\n\u201dYa, sudahlah,\u201d perempuan itu menanggapi, bersikap mengalah. \u201dSaya tambah seribu.\u201d\nBasri berpikir-pikir. Kepalanya menunduk. Lama baru kemudian ia menggeleng.\n\u201d<em>Mau<\/em>?\u201d perempuan itu memperingatkan. \u201dKalau <em>mau<\/em>, ambil. Kalau tidak saya pulang. Ayo! Sudah sore,\u201d perempuan itu berkata serius dengan nada mengandung ancaman.\nBasri berpikir keras. Sepasang sepatu hitam, kaus kaki putih, topi cokelat, dan ikat pinggang hitam yang digantung depan toko pakaian di lorong pasar di kota\nkecamatan menari-nari di pelupuk matanya. Seandai- nya ia mampu mendapatkan uang lebih tentu dapat memenuhi keinginan putrinya. Ternyata dia kecewa karena tidak mampu membelikan pesanan putrinya.\nSebuah bus antarkota berhenti di jalan raya. Pedagang ikan berbadan gemuk melompat ke bus lalu terdengar kendaraan itu menderu, jauh, semakin jauh, menghilang di tikungan jalan.\nBasri tak berkutik. Hari itu ia bukan hanya gagal memperoleh uang, tetapi kalah dalam segala per- mainan. Ia menggaruk kepala, menarik-embuskan napas kemudian mencari di mana puntung rokoknya disimpan. Ia menggeleng. Rupanya ia tidak sekedar menggertak, pikirnya. \u201dMentang-mentang . . . ,\u201d suara Basri meletus bagai gunung api memuntahkan lahar. Seandainya ia seorang tengkulak, maka apa yang akan dilakukannya. Pasti ia akan berbuat yang sama.",
+                        "snippet_content": "yang ia beli pada nelayan- nelayan sebelumnya, keberadaannya boleh dibilang mirip <em>gentong.<\/em>\n\u201dCepat!\u201d perempuan berbadan subur itu me- nyambut. \u201dSudah sore!\u201d\nBasri"
+                    },
+                    "responses": [
+                        {
+                            "id": 13331250,
+                            "user_id": 4180944,
+                            "task_id": 10832102,
+                            "points": 10,
+                            "created": "2017-06-23T11:34:42+07:00",
+                            "content": "<br \/>Paragraf 3 : intrinsik<br \/>Paragraf 5 : ektrinsik",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "6",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4180944,
+                                "nick": "essel120503",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d61\/0bd6d0c85131b16fbbf5503fadd4b360.png"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 5108297,
+                        "subject_id": 18,
+                        "user_id": 1145647,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 29,
+                            "ptsForResp": 15,
+                            "ptsForBest": 8
+                        },
+                        "content": "1).saha anu jadi palaku dina eta dongeng?<br \/>\n2)Kumaha pasipatan eta plaku?<br \/><br \/><br \/>\nKu kapinteranana, Sakadang Peucang<br \/>\njadi raja di sampalana bant\u00e9ng,<br \/>\nmunding, kuda, uncal, jeung mencek.<br \/>\nDina hiji po\u00e9, peucang leutik anak raja ulin di sisi<br \/>\ntegal, mulungan buah malaka asak kabeukina.<br \/>\nKeur ngeunah-ngeunah ngahakanan buah malaka<br \/>\ndi nu iuh, handapeun tangkal nu meuhpeuy<br \/>\nbuahna, ana breng t\u00e9h birat sato-sato ti tegal<br \/>\nlalumpatan. Bant\u00e9ng sapi jeung p\u00e9d\u00e9tna, kuda<br \/>\njeung belona, munding jeung \u00e9n\u00e9ngna, uncal<br \/>\njeung kopong, paburu-buru ka leuweung<br \/>\ntingcaringeus, sabab aya pikasieuneun, nya \u00e9ta<br \/>\npapatong hihiberan luhureun tegal.<br \/>\nSato-sato lumpatna awahing sieun, balangah teu<br \/>\nn\u00e9njo tincakeun. Ley\u00e9 ba\u00e9 munding pel\u00e9n ged\u00e9<br \/>\nnincak anak raja peucang, nu keur tumaninah<br \/>\ndepa ngahakanan buah malaka asak t\u00e9a.<br \/>\nAnak peucang ngadeng\u00e9k nyerieun, matak reuwas<br \/>\nsakur nu aya, sarta tuluy bapana dib\u00e9jaan. Raja<br \/>\npeucang, bapana, karunyaeun ka anak, tuluy<br \/>\nmar\u00e9ntah supaya munding dit\u00e9wak dibawa ka<br \/>\npangadilan. Raja peucang teu suka, ka hakim<br \/>\nm\u00e9nta sangkan si munding dihukum, bongan<br \/>\nbalangah. Hakimna singa, panghuluna bant\u00e9ng,<br \/>\njaksana kuda, r\u00e9ngr\u00e9nganana mah rupa-rupa<br \/>\nsato s\u00e9j\u00e9n. Sakab\u00e9h sato aya dina sidang<br \/>\npangadilan.<br \/>\nC\u00e9k Singa, \u201dNaon sababna man\u00e9h munding,<br \/>\nlumpat t\u00e9h nyilakakeun anak raja?\u201d<br \/>\nC\u00e9k munding, \u201dKula lumpat t\u00e9hlantaran sieun ku<br \/>\npapatong. Sabab hihiberan ba\u00e9 di luhureun tegal,<br \/>\ntempat kula nyatuan, kawas-kawas ar\u00e9k nyamber<br \/>\nkula. Kula sieun dibawa ka luhur.\u201d<br \/>\nC\u00e9k singa, \u201dKu naon man\u00e9h papatong mak\u00e9 ar\u00e9k<br \/>\nnyamber munding?\u201d<br \/>\nC\u00e9k papatong, \u201dKula mah ngalayang sot\u00e9h lain<br \/>\nar\u00e9k nyamber munding, tapi ngigel ngeunah<br \/>\nditabeuhan ku belentuk. Kang-king-kung dina<br \/>\nbalungbang!\u201d<br \/>\nC\u00e9k singa, \u201dNaha man\u00e9h belentuk, mak\u00e9<br \/>\nnabeuhan papatong?\u201d<br \/>\nC\u00e9k belentuk, \u201dNa, da kula mah lain nabeuhan<br \/>\npapatong, tapi nabeuhan k\u00e9ong jeung tetenggek,<br \/>\nka mana mendi t\u00e9h mamawa ba\u00e9 imah.\u201d<br \/>\nC\u00e9k singa, Naha man\u00e9h k\u00e9ong, tetenggek,<br \/>\nmamawa ba\u00e9 imah, matak ba\u00e9 ditabeuhan<br \/>\nbelentuk.\u201d<br \/>\nC\u00e9k k\u00e9ong jeung tetenggek, \u201dDibabawa sot\u00e9h<br \/>\nimah, lain hayang ditabeuhan belentuk, tapi sieun<br \/>\nkasundut cika-cika mamawa ba\u00e9 obor, seuneuna<br \/>\nucas-acos matak hariwang batur. Kumaha mun<br \/>\nimah kula kahuruan.\u201d<br \/>\nC\u00e9k singa, \u201dNaha man\u00e9h cika-cika mamawa ba\u00e9<br \/>\nobor, matak ba\u00e9 ngahariwangkeun batur. Tuh<br \/>\ngeuning k\u00e9ong jeung tetenggek mamawa ba\u00e9<br \/>\nimahna ka mana mendi t\u00e9h, da sieuneun kar\u00e9rab<br \/>\nku obor man\u00e9h!\u201d<br \/>\nC\u00e9k cika-cika, \u201dDuka kula mah mawa obor sot\u00e9h<br \/>\nlain r\u00e9k ngaduruk imah batur, tapi sieun tiporos<br \/>\nkana liang keuyeup. Sapaparat galengan liang<br \/>\nkeuyeup ba\u00e9. Mun kula tiporos t\u00e9h saha nu baris<br \/>\nnulungan?\u201d<br \/>\nC\u00e9k singa, \u201dNaha keuyeup man\u00e9h gagabah teuing.<br \/>\nNyieun liang t\u00e9h m\u00e9akeun tincakeun batur? Heug<br \/>\nba\u00e9 cika-cika kapaksa mamawa obor ari indit-<br \/>\ninditan t\u00e9h, sabab sieun tiporos!\u201d<br \/>\nC\u00e9k keuyeup, \u201dNyieun liang-liang sot\u00e9h kula mah<br \/>\nsieun ku hurang, sieun kacolok panon. Da<br \/>\nkumisna cararang, sukuna raranggoas.\u201d<br \/>\nC\u00e9k singa, \u201dNaha hurang man\u00e9h t\u00e9h ku matak<br \/>\nrungkangeun batur? Tuh, keuyeup og\u00e9<br \/>\nrungkangeun ku kumis man\u00e9h, mana nyumput g\u00e9<br \/>\nnyieun liang!\u201d<br \/>\nC\u00e9k hurang, \u201dKumis-kumis kula, dibawa-bawa ku<br \/>\nkula. Sakadang keuyeup ba\u00e9 \u00e9ta mah salah<br \/>\nsorangan mak\u00e9 borangan.\u201d<br \/>\nC\u00e9k singa, Tah, atuh keuyeup anu salah t\u00e9h,<br \/>\nsarta kudu dihukum. P\u00e9k ayeuna tincak<br \/>\ntonggongna ku munding, cara anak raja peucang<br \/>\nt\u00e9a!\u201d<br \/>\nTuluy tonggong keuyeup t\u00e9h ditincak ku munding.<br \/>\nTug tepi ka ayeuna, dina tonggong keuyeup aya<br \/>\nnu siga tapak urut c\u00e9k\u00e9r munding.",
+                        "created": "2016-02-14T22:22:22+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2016-02-14T22:48:39+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "1).saha anu jadi palaku dina eta dongeng?\n2)Kumaha pasipatan eta plaku?\nKu kapinteranana, Sakadang Peucang\njadi raja di sampalana <em>bant\u00e9ng<\/em>,\nmunding, kuda, uncal, jeung mencek.\nDina hiji po\u00e9, peucang leutik anak raja ulin di sisi\ntegal, mulungan buah malaka asak kabeukina.\nKeur ngeunah-ngeunah ngahakanan buah malaka\ndi nu iuh, handapeun tangkal nu meuhpeuy\nbuahna, ana breng t\u00e9h birat sato-sato ti tegal\nlalumpatan. <em>Bant\u00e9ng<\/em> sapi jeung p\u00e9d\u00e9tna, kuda\njeung belona, munding jeung \u00e9n\u00e9ngna, uncal\njeung kopong, paburu-buru ka leuweung\ntingcaringeus, sabab aya pikasieuneun, nya \u00e9ta\npapatong hihiberan luhureun tegal.\nSato-sato lumpatna awahing sieun, balangah teu\nn\u00e9njo tincakeun. Ley\u00e9 ba\u00e9 munding pel\u00e9n ged\u00e9\nnincak anak raja peucang, nu keur tumaninah\ndepa ngahakanan buah malaka asak t\u00e9a.\nAnak peucang ngadeng\u00e9k nyerieun, matak reuwas\nsakur nu aya, sarta tuluy bapana dib\u00e9jaan. Raja\npeucang, bapana, karunyaeun ka anak, tuluy\nmar\u00e9ntah supaya munding dit\u00e9wak dibawa ka\npangadilan. Raja peucang teu suka, ka hakim\nm\u00e9nta sangkan si munding dihukum, bongan\nbalangah. Hakimna singa, panghuluna <em>bant\u00e9ng<\/em>,\njaksana kuda, r\u00e9ngr\u00e9nganana <em>mah<\/em> rupa-rupa\nsato s\u00e9j\u00e9n. Sakab\u00e9h sato aya dina sidang\npangadilan.\nC\u00e9k Singa, \u201dNaon sababna man\u00e9h munding,\nlumpat t\u00e9h nyilakakeun anak raja?\u201d\nC\u00e9k munding, \u201dKula lumpat t\u00e9hlantaran sieun ku\npapatong. Sabab hihiberan ba\u00e9 di luhureun tegal,\ntempat kula nyatuan, kawas-kawas ar\u00e9k nyamber\nkula. Kula sieun dibawa ka luhur.\u201d\nC\u00e9k singa, \u201dKu naon man\u00e9h papatong mak\u00e9 ar\u00e9k\nnyamber munding?\u201d\nC\u00e9k papatong, \u201dKula <em>mah<\/em> ngalayang sot\u00e9h lain\nar\u00e9k nyamber munding, tapi ngigel ngeunah\nditabeuhan ku belentuk. <em>Kang<\/em>-king-kung dina\nbalungbang!\u201d\nC\u00e9k singa, \u201dNaha man\u00e9h belentuk, mak\u00e9\nnabeuhan papatong?\u201d\nC\u00e9k belentuk, \u201dNa, da kula <em>mah<\/em> lain nabeuhan\npapatong, tapi nabeuhan k\u00e9ong jeung tetenggek,\nka mana mendi t\u00e9h mamawa ba\u00e9 imah.\u201d\nC\u00e9k singa, Naha man\u00e9h k\u00e9ong, tetenggek,\nmamawa ba\u00e9 imah, matak ba\u00e9 ditabeuhan\nbelentuk.\u201d\nC\u00e9k k\u00e9ong jeung tetenggek, \u201dDibabawa sot\u00e9h\nimah, lain hayang ditabeuhan belentuk, tapi sieun\nkasundut cika-cika mamawa ba\u00e9 obor, seuneuna\nucas-acos matak hariwang batur. Kumaha mun\nimah kula kahuruan.\u201d\nC\u00e9k singa, \u201dNaha man\u00e9h cika-cika mamawa ba\u00e9\nobor, matak ba\u00e9 ngahariwangkeun batur. Tuh\ngeuning k\u00e9ong jeung tetenggek mamawa ba\u00e9\nimahna ka mana mendi t\u00e9h, da sieuneun kar\u00e9rab\nku obor man\u00e9h!\u201d\nC\u00e9k cika-cika, \u201dDuka kula <em>mah<\/em> mawa obor sot\u00e9h\nlain r\u00e9k ngaduruk imah batur, tapi sieun tiporos\nkana liang keuyeup. Sapaparat galengan liang\nkeuyeup ba\u00e9. Mun kula tiporos t\u00e9h saha nu baris\nnulungan?\u201d\nC\u00e9k singa, \u201dNaha keuyeup man\u00e9h gagabah teuing.\nNyieun liang t\u00e9h m\u00e9akeun tincakeun batur? Heug\nba\u00e9 cika-cika kapaksa mamawa obor ari indit-\ninditan t\u00e9h, sabab sieun tiporos!\u201d\nC\u00e9k keuyeup, \u201dNyieun liang-liang sot\u00e9h kula <em>mah<\/em>\nsieun ku hurang, sieun kacolok panon. Da\nkumisna cararang, sukuna raranggoas.\u201d\nC\u00e9k singa, \u201dNaha hurang man\u00e9h t\u00e9h ku matak\nrungkangeun batur? Tuh, keuyeup og\u00e9\nrungkangeun ku kumis man\u00e9h, mana nyumput g\u00e9\nnyieun liang!\u201d\nC\u00e9k hurang, \u201dKumis-kumis kula, dibawa-bawa ku\nkula. Sakadang keuyeup ba\u00e9 \u00e9ta <em>mah<\/em> salah\nsorangan mak\u00e9 borangan.\u201d\nC\u00e9k singa, Tah, atuh keuyeup anu salah t\u00e9h,\nsarta kudu dihukum. P\u00e9k ayeuna tincak\ntonggongna ku munding, cara anak raja peucang\nt\u00e9a!\u201d\nTuluy tonggong keuyeup t\u00e9h ditincak ku munding.\nTug tepi ka ayeuna, dina tonggong keuyeup aya\nnu siga tapak urut c\u00e9k\u00e9r munding.",
+                        "snippet_content": "hakim\nm\u00e9nta sangkan si munding dihukum, bongan\nbalangah. Hakimna singa, panghuluna <em>bant\u00e9ng<\/em>,\njaksana kuda, r\u00e9ngr\u00e9nganana <em>mah<\/em> rupa-rupa\nsato s\u00e9j\u00e9n. Sakab\u00e9h sato"
+                    },
+                    "responses": [
+                        {
+                            "id": 6048255,
+                            "user_id": 2596459,
+                            "task_id": 5108297,
+                            "points": 15,
+                            "created": "2016-02-14T22:48:39+07:00",
+                            "content": "1. Pelaku utamanya : Peucang dan munding.<br \/>tapi di pertanyaan tidak ada kriteria spesifik \"pelaku yang mana?\"<br \/>apa pelaku yang menyebabkan munding nincak peucang? berarti jawabannya keuyeup.<br \/>kalau tidak ada pertanyaan khusus merujuk ke siapa, tulis semua hewan yang ada di dialog.<br \/><br \/>2. Nah ini juga nyambung ke pertanyaan awal, harus diketahui dulu \"siapa\" yg dimaksud.<br \/>Menurutku Peucang = Pintar (ada di kalimat awal)<br \/>Munding = Ngga tau apa-apa<br \/>Raja peucang = Keras sifatnya<br \/>Keuyeup = Menerima apa yang sudah ditetapkan oleh Raja bahwa dia yang menyebabkan anak raja terinjak munding.",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 2,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 3568180,
+                                        "user_id": 1145647,
+                                        "content": "kira-kira amanatnya apa ya?",
+                                        "created": "2016-02-15T06:12:10+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 3568181,
+                                        "user_id": 1145647,
+                                        "content": "kira-kira amanatnya apa?",
+                                        "created": "2016-02-15T06:12:42+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 3568182,
+                                        "user_id": 1145647,
+                                        "content": "kira\u00b2 amanatnya apa?",
+                                        "created": "2016-02-15T06:13:27+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 3568183,
+                                        "user_id": 1145647,
+                                        "content": "kira\u00b2 amanat nya apa?",
+                                        "created": "2016-02-15T06:15:01+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 4
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2596459,
+                                "nick": "JNJpororoca",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/db3\/bfebc96c31dba345e91fa6740420aae0.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10635786,
+                        "subject_id": 1,
+                        "user_id": 983790,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Bacalah drama berikut dengan seksama gunarto : (heran) min masih saja terima jahitan,bu .. ? bukan tak usah lagi ia bekerja banting tulang sekarang? ibu : biarlah narto, nanti kalau dia sudah bersuami kepandaiannya itu tidak akan sia sia gunarto : ( memandang ibu dan mendekati dengan penuh kasih)sebenarnya bu, hendak kukatakan penghasilan kita belum cukup untuk makan kita sekeluarga. ( Diam sebentar ) tapi, bagaimana dengan lamaran orang itu , bu ? ibu : mintarsih tampaknya belum mau bersuami, tapi orang itu mendesak juga ? gunarto : tapi apa salah nya bu. Uang kan banyak bu ibu : ah .. uang, narto gunarto : maaf bu bukan maksudku menjual adikku sendiri.aku sudah terlalu mata duitan , mungkin dalam hidup yang penu derita ini <br \/>\nJelaskan tokoh dan penokohan dalam penggalan drama tersebut !<br \/>",
+                        "created": "2017-05-14T09:17:10+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-05-14T09:20:08+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Bacalah drama berikut dengan seksama gunarto : (heran) min masih saja terima jahitan,bu .. ? bukan tak usah lagi ia bekerja <em>banting<\/em> tulang sekarang? ibu : biarlah narto, nanti kalau dia sudah bersuami kepandaiannya itu tidak akan sia sia gunarto : ( memandang ibu dan mendekati dengan penuh kasih)sebenarnya bu, hendak kukatakan penghasilan kita belum cukup untuk makan kita sekeluarga. ( Diam sebentar ) tapi, bagaimana dengan lamaran orang itu , bu ? ibu : mintarsih tampaknya belum <em>mau<\/em> bersuami, tapi orang itu mendesak juga ? gunarto : tapi apa salah nya bu. Uang <em>kan<\/em> banyak bu ibu : ah .. uang, narto gunarto : maaf bu bukan maksudku menjual adikku sendiri.aku sudah terlalu mata duitan , mungkin dalam hidup yang penu derita ini \nJelaskan tokoh dan penokohan dalam penggalan drama tersebut !",
+                        "snippet_content": "Bacalah drama berikut dengan seksama gunarto : (heran) min masih saja terima jahitan,bu .. ? bukan tak usah lagi ia bekerja <em>banting<\/em> tulang sekarang"
+                    },
+                    "responses": [
+                        {
+                            "id": 12885432,
+                            "user_id": 5033828,
+                            "task_id": 10635786,
+                            "points": 5,
+                            "created": "2017-05-14T09:20:08+07:00",
+                            "content": "Tokoh Ibu (baik,sabar dan bersyukur) <br \/>Gunarto ( Matrealistis) <br \/>Penokohannya (dialog antara ibu dan gunarto) ",
+                            "mark": 1,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "6",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5033828,
+                                "nick": "Uyayu",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d92\/21b957db92dc2234b4cfedeeb842dce1.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10752701,
+                        "subject_id": 10,
+                        "user_id": 5076343,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "1.untuk mengenang berdirinya organisasi budi utomo di indonesia tanggal 20 mei ditetapkan sebagain hari ?<br \/>a.pahlawan<br \/>b.pendidikan nasional<br \/>c.kebangkitan nasional<br \/>d.organisasi nasional<br \/><br \/>2.berdirinya VOC atas usul ?<br \/>a.J.P. coen<br \/>b.cornelis de houtman<br \/>c.pieter both<br \/>d.jacob van neck<br \/><br \/>3.aturan yg mewajibkan rakyat priangan menanam kopi dan menyerah hasilnya kepada VOC disebut ?<br \/>a.tanam paksa<br \/>b.preanger stelsel<br \/>c.adu domba<br \/>d.benteng stelsel<br \/><br \/>4.diantara tindakan dalam bidang pemerintahan berupa membagi pulau jawa menjadi 9 karesidenan dilakukan oleh ?<br \/>a.van den bosch<br \/>b.rafles<br \/>c.daendels<br \/>d.van der capelen<br \/><br \/>5.perlawanan yg dilakukan oleh rakyat indonesia kepada bangsa barat disebabkan ?<br \/>a.bangsa indonesia sudah pandai<br \/>b.bangsa barat memonopoli perdagangan dan mencampuri urusan kerajaan indonesia<br \/>c.tidak mau dijajah lagi<br \/>d.ingin hidup bebas dan merdeka<br \/><br \/>6.terjadinya pertempuran 5 hari disemarang dilatarbelakangi oleh tindakan pasukan jepang oleh melakukan penembakan terhadap seorang tokoh yg sedang memeriksa cadangan air minum disemarang, yaitu ?<br \/>a.dr.sajito<br \/>b.dr.muwardi<br \/>c.dr.karyadi<br \/>d.dr.ciptomangunkusumo<br \/><br \/>7.perubahan besar yg terjadi pada bangsa indonesia setelah diproklamasikannya kemerdekaan indonesia adalah ?<br \/>a.berkembangnya paham liberalisme<br \/>b.terbentuknya negara indonesia yg merdeka<br \/>c.munculnya golongan elit nasional dalam pemerintahan<br \/>d.meningkatnya kesadaran nasional bangsa indonesia<br \/><br \/>8.salah seorang tokoh pemuda yg  berperan dalam peristiwa upacara proklamasi kemerdekaan adalah ? <br \/>a.latif hendraningrat<br \/>b.arif rachman hakim<br \/>c.suwiryo<br \/>d.supriyadi<br \/><br \/>9.kedudukan jepang semakin terdesak dalam perang melawan sekutu pada akhir tahun 1944. hal tersebut disebabkan oleh ?<br \/>a.daerah jajahan jepang banyak yg melepaskan diri<br \/>b.terjadinya perebutan kekuasaan dalam pemerintahan dijepang<br \/>c.pasukan jepang mengalami kekalahan dalam perang melawan sekutu<br \/>d.pemerintakan pendudukan jepang diindonesia tidak didukung dari rakyat jepang<br \/><br \/>10.selain menggunakan media komunikasi, penyebarluasan berita proklamasi kemerdekaan indonesia jga menggunakan ?<br \/>a.surat<br \/>b.bantuan dari negara lain<br \/>c.dari mulut ke mulut<br \/>d.pergi ke daerah2 diindonesia<br \/><br \/>11. dalam sidang BPUPKI tanggal 1 juni 1945 terdapat hal khusus atau keistimewaan dari pidato ir.soekarno mengemukakan antara lain ? <br \/>a.mengusulkan nama bagi dasar negara yaitu pancasila<br \/>b.berhasil meningkatkan semangat paerjuangan rakyat indonesia <br \/>c.keinginan menyatukan berbagain organisasi politik diindonesia<br \/>d. pandangan atau usul mengenain bentuk negara indonesia<br \/><br \/>12.arti penting pembentuka BPUPKI bagi bangsa indonesia adalah ?<br \/>a.berhasil memilih presiden dan wakil presiden<br \/>b.berhasil membuat rancangan UUD dan GBHN<br \/>c.berhasil memproklamasikan kemerdekaan indonesia <br \/>d.berhasil merumuskan dasar negara dan rancangan UUD<br \/><br \/>13.meskipun telah diproklamasikan kemerdekaan indonesia, perjuangan bangsa indonesia tetnyata belum berakhir sebab ?<br \/>a.bangsa indonesia harus membentuk dan menjalan kan pemerintahan sendiri<br \/>b.bangsa indonesia harus mengisi dan mempertahankan indonesia<br \/>c.pasukan jepang masih berada diindonesia<br \/>d.semua bangsa didunia belum mengakui kemerdekaan indonesia<br \/><br \/>15.berikut ini yg merupakan hasil sidang PPKI ke tiga adalah ? <br \/>a.pembentukan badan keamanan rakyat<br \/>b.pekerjaan sehari hari presiden dibantu oleh sebuah komite nasional <br \/>c.pembagian wilayah indonesia menjadi 8 provinsi<br \/>d.pembubaran partai partai politik diindonesia ",
+                        "created": "2017-05-22T19:31:34+07:00",
+                        "responses": 1,
+                        "tickets": 3,
+                        "first_resp": "2017-05-22T19:46:36+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "1.untuk mengenang berdirinya organisasi budi utomo di indonesia tanggal 20 mei ditetapkan sebagain hari ?a.pahlawanb.pendidikan nasionalc.kebangkitan nasionald.organisasi nasional2.berdirinya VOC atas usul ?a.J.P. coenb.cornelis de houtmanc.pieter bothd.jacob van neck3.aturan yg mewajibkan rakyat priangan menanam kopi dan menyerah hasilnya kepada VOC disebut ?a.tanam paksab.preanger stelselc.adu dombad.<em>benteng<\/em> stelsel4.diantara tindakan dalam bidang pemerintahan berupa membagi pulau jawa menjadi 9 karesidenan dilakukan oleh ?a.van den boschb.raflesc.daendelsd.van der capelen5.perlawanan yg dilakukan oleh rakyat indonesia kepada bangsa barat disebabkan ?a.bangsa indonesia sudah pandaib.bangsa barat memonopoli perdagangan dan mencampuri urusan kerajaan indonesiac.tidak <em>mau<\/em> dijajah lagid.ingin hidup bebas dan merdeka6.terjadinya pertempuran 5 hari disemarang dilatarbelakangi oleh tindakan pasukan jepang oleh melakukan penembakan terhadap seorang tokoh yg sedang memeriksa cadangan air minum disemarang, yaitu ?a.dr.sajitob.dr.muwardic.dr.karyadid.dr.ciptomangunkusumo7.perubahan besar yg terjadi pada bangsa indonesia setelah diproklamasikannya kemerdekaan indonesia adalah ?a.berkembangnya paham liberalismeb.terbentuknya negara indonesia yg merdekac.munculnya golongan elit nasional dalam pemerintahand.meningkatnya kesadaran nasional bangsa indonesia8.salah seorang tokoh pemuda yg  berperan dalam peristiwa upacara proklamasi kemerdekaan adalah ? a.latif hendraningratb.arif rachman hakimc.suwiryod.supriyadi9.kedudukan jepang semakin terdesak dalam perang melawan sekutu pada akhir tahun 1944. hal tersebut disebabkan oleh ?a.daerah jajahan jepang banyak yg melepaskan dirib.terjadinya perebutan kekuasaan dalam pemerintahan dijepangc.pasukan jepang mengalami kekalahan dalam perang melawan sekutud.pemerintakan pendudukan jepang diindonesia tidak didukung dari rakyat jepang10.selain menggunakan media komunikasi, penyebarluasan berita proklamasi kemerdekaan indonesia jga menggunakan ?a.suratb.bantuan dari negara lainc.dari mulut ke mulutd.pergi ke daerah2 diindonesia11. dalam sidang BPUPKI tanggal 1 juni 1945 terdapat hal khusus atau keistimewaan dari pidato ir.soekarno mengemukakan antara lain ? a.mengusulkan nama bagi dasar negara yaitu pancasilab.berhasil meningkatkan semangat paerjuangan rakyat indonesia c.keinginan menyatukan berbagain organisasi politik diindonesiad. pandangan atau usul mengenain bentuk negara indonesia12.arti penting pembentuka BPUPKI bagi bangsa indonesia adalah ?a.berhasil memilih presiden dan wakil presidenb.berhasil membuat rancangan UUD dan GBHNc.berhasil memproklamasikan kemerdekaan indonesia d.berhasil merumuskan dasar negara dan rancangan UUD13.meskipun telah diproklamasikan kemerdekaan indonesia, perjuangan bangsa indonesia tetnyata belum berakhir sebab ?a.bangsa indonesia harus membentuk dan menjalan <em>kan<\/em> pemerintahan sendirib.bangsa indonesia harus mengisi dan mempertahankan indonesiac.pasukan jepang masih berada diindonesiad.semua bangsa didunia belum mengakui kemerdekaan indonesia15.berikut ini yg merupakan hasil sidang PPKI ke tiga adalah ? a.pembentukan badan keamanan rakyatb.pekerjaan sehari hari presiden dibantu oleh sebuah komite nasional c.pembagian wilayah indonesia menjadi 8 provinsid.pembubaran partai partai politik diindonesia ",
+                        "snippet_content": "hasilnya kepada VOC disebut ?a.tanam paksab.preanger stelselc.adu dombad.<em>benteng<\/em> stelsel4.diantara tindakan dalam bidang pemerintahan berupa membagi pulau jawa"
+                    },
+                    "responses": [
+                        {
+                            "id": 13043176,
+                            "user_id": 826546,
+                            "task_id": 10752701,
+                            "points": 5,
+                            "created": "2017-05-22T19:46:36+07:00",
+                            "content": "1 c\\<br \/>2 a<br \/>3 b<br \/>4c<br \/>5d<br \/>6c<br \/>8a<br \/>9c<br \/>10c<br \/>11 a<br \/>12d<br \/>13 b<br \/>15 a",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 2,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 826546,
+                                "nick": "zakkyhandsome",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10750209,
+                        "subject_id": 11,
+                        "user_id": 5075525,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "1. Pada kolom yang berisi data angka bila kolomnya kurang lebar maka yang akan terjadi adalah data angka ditampilkan...a. tidak tampak sama sekalib. berupa deretan tanda pagar (####)c. tampak sebagiand. tidak jelas2. Berikut ini adalah bagian yang terdapat pada toolbar Home adalah...a. New, Open, dan Saveb. Bold, Italic, dan Underlinec. Line, Oval, dan TextBoxd. Jawaban a, b, dan c benar semua3. Microsoft Excel adalah sebuah program aplikasi yang berbasis operating system...a. Linuxb. Windowsc. Unixd. Mas OS4. Berikut adalah kegunaan program pengolah angka, kecuali..a. membuat data statistikb. laporan keuanganc. perhitungan rumusd. membuat surat lamaran5. Horizontal scroll bar berfungsi untuk...a. memunculkan toolbarb. menggeser lembar kerja ke kanan dan ke kiric. mengopi data atau duplikat datad. menghapus data6. Perangkat lunak komputer yang digunakan untuk pengolahan angka antara lain..a. CorelDRAWb. Ms.Wordc. Ms. Exceld. Lembar kerja7. Ikon yang digunakan untuk membuat baris tabel adalah...a. Increase Decimalb. Bordersc. Decrease Indentd. Increase Indent8. Pada menu bar yang dapat kita lihat adalah...a. kumpulan ikonb. columnc. kumpulan menud. worksheet9. Ikon bergambar gunting berfungsi untuk..a. membuka dokumenb. menghapus dokumenc. menyimpan dokumend. memotong\/mengapus teks10. Ikon berikut berfungsi untuk menyalin teks adalah..a. copyb. pastec. viewd. replace11. Tampilan pertama kali ketika membuka program Microsoft Excel 2007 Word adalah...a. book 1b. program 1c. document 1d. worksheet12. Bagian yang berisi informasi tentang status kursor dan status proses yang sedang dikerjakan disebut...a. status barb. menu barc. title bard. scrol bar13. Untuk menampilkan submenu Number pada microsoft excel 2007 melalui tab menu...a. homeb. insertc. page layoutd. mailings14. pertemuan baris dan kolom disebut..a. rangeb. cellsc. sheetd. field15. perintah yang dilakukan untuk membuka workbook baru pada microsoft excel 2007 melalui tab menu adalah klik...a. Office Button &gt; pilih new &gt; blank workbook &gt; createb. tab home &gt; pilih new &gt; blank workbook &gt; createc. File &gt; new &gt; blank workbookd. insert &gt; new workbook16. Format rename sheet artinya mengganti nama...a. fileb. sheetc. keterangand. folder17. pada saat kita tidak memerlukan lagi salah satu sheet, maka kita dapat menghapusnya dengan cara...a. klik kiri pada sheet yang maksud &gt; klik deleteb. klik kanan pada sheet yang dimaksud &gt; klik delete c. klik kanan &gt; pilih select all &gt; tekan tombol deleted. tekan tombol delete pada keybord18. perintah untuk memodifikasi lebar kolom pada lembar kerja excel adalah...a. row widthb. cell widthc. column breakd. column width19. dua tipe penyimpanan file yang disediakan oleh excel 2007 adalah...a. saveb. save sheetc. save dan save asd. keep20. kegunaan perintah wrap text pada kotak dialog alignment adalah untuk...a. memilih perataan secara vertikalb. mengatur agar ukuran baris dapat menyesuaikan dengan panjang teksc. mengatur ukuran barisd. mengatur derajat kemiringan suatu teks21. tipe data yang penulisannya selalu diawali tanda = adalah...a. textb. formulac. alphanumericd. numeric22. fungsi vlookup dan hlookup digunakan untuk membaca suatu...a. tabelb. datac. grafikd. rumus23. untuk membuka buku kerja yang sudah ada dapat juga dilakukan dengan cara menekan tombol... pada keyborda. ctrl+nb. ctrl+vc. ctrl+sd. ctrl+o24. apabila kita mempunyai rumus =2^2*3+4-3, maka hasilnya adalah..a. 13b. 16c. 65d. 25625. Graphics berfungsi untuk...a. membuat gambarb. menampilkan informasi dalam bentuk gambarc. membuat bidang kerja terlihat indah dan penuhd. menganalisis hasil perhitungan",
+                        "created": "2017-05-22T17:57:26+07:00",
+                        "responses": 1,
+                        "tickets": 5,
+                        "first_resp": "2017-05-22T23:30:19+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "6",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "1. Pada kolom yang berisi data angka bila kolomnya kurang lebar maka yang <em>akan<\/em> terjadi adalah data angka ditampilkan...a. tidak tampak sama sekalib. berupa deretan tanda pagar (####)c. tampak sebagiand. tidak jelas2. Berikut ini adalah bagian yang terdapat pada toolbar Home adalah...a. New, Open, dan Saveb. Bold, Italic, dan Underlinec. Line, Oval, dan TextBoxd. Jawaban a, b, dan c benar semua3. Microsoft Excel adalah sebuah program aplikasi yang berbasis operating system...a. Linuxb. Windowsc. Unixd. <em>Mas<\/em> OS4. Berikut adalah kegunaan program pengolah angka, kecuali..a. membuat data statistikb. laporan keuanganc. perhitungan rumusd. membuat surat lamaran5. Horizontal scroll bar berfungsi untuk...a. memunculkan toolbarb. menggeser lembar kerja ke kanan dan ke kiric. mengopi data atau duplikat datad. menghapus data6. Perangkat lunak komputer yang digunakan untuk pengolahan angka antara lain..a. CorelDRAWb. Ms.Wordc. Ms. Exceld. Lembar kerja7. Ikon yang digunakan untuk membuat baris tabel adalah...a. Increase Decimalb. Bordersc. Decrease Indentd. Increase Indent8. Pada menu bar yang dapat kita lihat adalah...a. kumpulan ikonb. columnc. kumpulan menud. worksheet9. Ikon bergambar <em>gunting<\/em> berfungsi untuk..a. membuka dokumenb. menghapus dokumenc. menyimpan dokumend. memotong\/mengapus teks10. Ikon berikut berfungsi untuk menyalin teks adalah..a. copyb. pastec. viewd. replace11. Tampilan pertama kali ketika membuka program Microsoft Excel 2007 Word adalah...a. book 1b. program 1c. document 1d. worksheet12. Bagian yang berisi informasi tentang status kursor dan status proses yang sedang dikerjakan disebut...a. status barb. menu barc. title bard. scrol bar13. Untuk menampilkan submenu Number pada microsoft excel 2007 melalui tab menu...a. homeb. insertc. page layoutd. mailings14. pertemuan baris dan kolom disebut..a. rangeb. cellsc. sheetd. field15. perintah yang dilakukan untuk membuka workbook baru pada microsoft excel 2007 melalui tab menu adalah klik...a. Office Button &gt; pilih new &gt; blank workbook &gt; createb. tab home &gt; pilih new &gt; blank workbook &gt; createc. File &gt; new &gt; blank workbookd. insert &gt; new workbook16. Format rename sheet artinya mengganti nama...a. fileb. sheetc. keterangand. folder17. pada saat kita tidak memerlukan lagi salah satu sheet, maka kita dapat menghapusnya dengan cara...a. klik kiri pada sheet yang maksud &gt; klik deleteb. klik kanan pada sheet yang dimaksud &gt; klik delete c. klik kanan &gt; pilih select all &gt; tekan tombol deleted. tekan tombol delete pada keybord18. perintah untuk memodifikasi lebar kolom pada lembar kerja excel adalah...a. row widthb. cell widthc. column breakd. column width19. dua tipe penyimpanan file yang disediakan oleh excel 2007 adalah...a. saveb. save sheetc. save dan save asd. keep20. kegunaan perintah wrap text pada kotak dialog alignment adalah untuk...a. memilih perataan secara vertikalb. mengatur agar ukuran baris dapat menyesuaikan dengan panjang teksc. mengatur ukuran barisd. mengatur derajat kemiringan suatu teks21. tipe data yang penulisannya selalu diawali tanda = adalah...a. textb. formulac. alphanumericd. numeric22. fungsi vlookup dan hlookup digunakan untuk membaca suatu...a. tabelb. datac. grafikd. rumus23. untuk membuka buku kerja yang sudah ada dapat juga dilakukan dengan cara menekan tombol... pada keyborda. ctrl+nb. ctrl+vc. ctrl+sd. ctrl+o24. apabila kita mempunyai rumus =2^2*3+4-3, maka hasilnya adalah..a. 13b. 16c. 65d. 25625. Graphics berfungsi untuk...a. membuat gambarb. menampilkan informasi dalam bentuk gambarc. membuat bidang kerja terlihat indah dan penuhd. menganalisis hasil perhitungan",
+                        "snippet_content": "1. Pada kolom yang berisi data angka bila kolomnya kurang lebar maka yang <em>akan<\/em> terjadi adalah data angka ditampilkan...a. tidak tampak"
+                    },
+                    "responses": [
+                        {
+                            "id": 13048480,
+                            "user_id": 5077592,
+                            "task_id": 10750209,
+                            "points": 5,
+                            "created": "2017-05-22T23:30:19+07:00",
+                            "content": "1. C.tampak sebagian<br \/>3. B.Windows<br \/>4. Perhitungan rumus",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5077592,
+                                "nick": "muzaki4192",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d6c\/f346189b56f7accfc1fcf5d44a805aab.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10944412,
+                        "subject_id": 1,
+                        "user_id": 5156110,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "2. Bacalah kutipan drama berikut dengan seksama kemudian kerjakan dua soal dibawah ini!<br \/><br \/>\nBrilian\t: Sekarang serahkan hp kalian, kami akan minta uang tembusan! (mendorong Dimi masuk)<br \/>\nDimi\t: ka\u2026ka\u2026kami tidak bawa hp (gugup)<br \/>\nBrilian\t: Periksa kantongnya!<br \/>\nTimmy\t: Siap bos (memeriksa kantong)<br \/>\nMarkus\t: ada gak? Ini tempat apa? (matanya melotot)<br \/>\nTimmy\t: Ruang menyimpan perkakas bekas (sambil meraba kantong si anak) ini bos hpnya (mengeluarkan hp)<br \/>\nMarkus\t: Tanyakan nomor hp orang tuanya! Hubungi untuk minta tembusan!<br \/>\nTimmy\t: Siap bos<br \/><br \/><br \/>\nLatar kutipan drama tersebut adalah\u2026<br \/>\na.gudang\td.rumah<br \/>\nb.kamar\te.kantor<br \/>\nc.garasi<br \/><br \/><br \/><br \/><br \/><br \/><br \/>\n3. Bacalah kutipan berikut dengan seksama!<br \/><br \/>\nMasut: Guru terima kasih atas illmu yang guru berikan kepadaku apalah artinya diriku andai tidak ada guru<br \/>\nGuru: Masut, kamu harus tahu meskipun kita mempunyai illmu hanya sedikit, namun tetap harus diberikan kepada orang lain<br \/>\n(istri Masut masuk keruangan membawa the hangat)<br \/>\nIstri Masut: Lebih baik kalau ngoborlnya, sambil minum teh hangat (menyodorkan cangkir)<br \/>\nGuru: Bisa saja istri kamu, Ut<br \/><br \/>\nAmanat yang terkandung dalam drama tersebut adalah\u2026<br \/><br \/>\na. kita harus berterima kasih kepada guru karena guru merupakan seseorang yang sangat berjasa karena telah memberikan kita banyak illmu.<br \/>\nb. kita harus melupakan guru karena guru merupakan orang yang tidak berjasa<br \/>\nc. guru adalah orang yang berjasa dalam hidup Masut<br \/>\nd. guru mencerminkan hal-hal yang baik<br \/>\ne. kita harus berterima kasih kepada guru karena guru membawa kita ke perbuatan yang terpuji<br \/><br \/><br \/><br \/>\n4. Bacalah kutipan berikut dengan seksama!<br \/><br \/>\nMasut: Guru terima kasih atas illmu yang guru berikan kepadaku apalah artinya diriku andai tidak ada guru<br \/>\nGuru: Masut, kamu harus tahu meskipun kita mempunyai illmu hanya sedikit, namun tetap harus diberikan kepada orang lain<br \/>\n(istri Masut masuk keruangan membawa the hangat)<br \/>\nIstri Masut: Lebih baik kalau ngoborlnya, sambil minum teh hangat (menyodorkan cangkir)<br \/>\nGuru: Bisa saja istri kamu, Ut<br \/><br \/><br \/>\nWatak Masut dari drama tersebut adalah\u2026<br \/><br \/>\na.jahat<br \/>\nb.tidak tau berterimakasih<br \/>\nc.baik<br \/>\nd.tidak sopan<br \/>\ne.pemarah<br \/><br \/><br \/><br \/><br \/><br \/><br \/>\n5. Bacalah kutipan drama berikut!<br \/>\nAni\t: Tolong Santi, tugasmu membersihkan papan tulis aku akan menyapu lantai<br \/>\nSanti\t: Baiklah Ani, oh ya, andi belum datang kita tunggu saja<br \/>\nAni\t: Belum, mugkin sebentar lagi andi datang kita tunggu saja<br \/>\nSanti\t: Itu dia suruh datang, cepat Andi tolong bersihkan meja dan bangku dengan kemoceng!<br \/>\nAndi\t: Baik Santi<br \/><br \/>\nLatar  waktu dalam kutipan drama diatas adalah\u2026<br \/><br \/>\na.Pagi hari dikelas\td.pagi hari dirumah<br \/>\nb.siang hari dikantor\te.sore hari dirumah sakit<br \/>\nc.malam hari dikelas<br \/><br \/><br \/>\n6.Perhatikan penggalan drama dibawah ini!<br \/><br \/>\n\u201cDari mana saja kau, Berdrun? Hari sudah petang tapi kau baru pulang\u201d Tanya ayah sambil berkacak pinggang.<br \/><br \/>\nDialog diatas diucapkan dengan nada\u2026<br \/><br \/>\na.keras sambil bercanda<br \/>\nb.marah dan serius<br \/>\nc.rendah dan penuh Tanya<br \/>\nd.penuh kasih sayang<br \/>\ne.merasa dendam<br \/><br \/><br \/><br \/><br \/>\n7. Bacalah kutipan drama berikut!<br \/><br \/>\nToni\t: Andi! Sebentar, jangan pulang dulu! (sambil melambaikan tangan usai pelajaran di sekolah)<br \/>\nAni\t: Ya, ton, ada apa? Sini kita duduk di teras! (mereka kemudian duduk berhadapan)<br \/>\nToni\t: Begini, mengapa kamu beberapa kali tidak datang main bola dilapangan?<br \/>\nItang: ya an. Kami sangat membutuhkanmu dilapangan! <br \/>\nPandu\t: Maafkan ucapanku dikelas kemarin, Ani<br \/>\nAni\t: Aku memang perempuan, tetapi aku menyukai sepak bola! <br \/>\nToni, Itang, danPandu: (bersama-sama) Betul, kami sangat membutuhkanmu!<br \/>\nAni\t: Oke jika itu mau kalian, besok aku akan bergabung dengan kalian dilapangan tapi syaratnya kalian tidak melecehkanku lagi sebagai ketua!<br \/><br \/>\nTokoh utama dalam teks drama tersebut ialah\u2026<br \/><br \/>\na.Toni\td.Pandu<br \/>\nb.Ani\te.Toni dan Itang<br \/>\nc.Itang",
+                        "created": "2017-06-14T08:46:11+07:00",
+                        "responses": 2,
+                        "tickets": 3,
+                        "first_resp": "2017-06-14T08:54:38+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "6",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "2. Bacalah kutipan drama berikut dengan seksama kemudian kerjakan dua soal dibawah ini!\nBrilian\t: Sekarang serahkan hp kalian, kami akan minta uang tembusan! (mendorong Dimi masuk)\nDimi\t: <em>ka<\/em>\u2026<em>ka<\/em>\u2026kami tidak bawa hp (gugup)\nBrilian\t: Periksa kantongnya!\nTimmy\t: Siap bos (memeriksa <em>kantong<\/em>)\nMarkus\t: ada gak? Ini tempat apa? (matanya melotot)\nTimmy\t: Ruang menyimpan perkakas bekas (sambil meraba <em>kantong<\/em> si anak) ini bos hpnya (mengeluarkan hp)\nMarkus\t: Tanyakan nomor hp orang tuanya! Hubungi untuk minta tembusan!\nTimmy\t: Siap bos\nLatar kutipan drama tersebut adalah\u2026\na.gudang\td.rumah\nb.kamar\te.kantor\nc.garasi\n3. Bacalah kutipan berikut dengan seksama!\nMasut: Guru terima kasih atas illmu yang guru berikan kepadaku apalah artinya diriku andai tidak ada guru\nGuru: Masut, kamu harus tahu meskipun kita mempunyai illmu hanya sedikit, namun tetap harus diberikan kepada orang lain\n(istri Masut masuk keruangan membawa the hangat)\nIstri Masut: Lebih baik kalau ngoborlnya, sambil minum teh hangat (menyodorkan cangkir)\nGuru: Bisa saja istri kamu, Ut\nAmanat yang terkandung dalam drama tersebut adalah\u2026\na. kita harus berterima kasih kepada guru karena guru merupakan seseorang yang sangat berjasa karena telah memberikan kita banyak illmu.\nb. kita harus melupakan guru karena guru merupakan orang yang tidak berjasa\nc. guru adalah orang yang berjasa dalam hidup Masut\nd. guru mencerminkan hal-hal yang baik\ne. kita harus berterima kasih kepada guru karena guru membawa kita ke perbuatan yang terpuji\n4. Bacalah kutipan berikut dengan seksama!\nMasut: Guru terima kasih atas illmu yang guru berikan kepadaku apalah artinya diriku andai tidak ada guru\nGuru: Masut, kamu harus tahu meskipun kita mempunyai illmu hanya sedikit, namun tetap harus diberikan kepada orang lain\n(istri Masut masuk keruangan membawa the hangat)\nIstri Masut: Lebih baik kalau ngoborlnya, sambil minum teh hangat (menyodorkan cangkir)\nGuru: Bisa saja istri kamu, Ut\nWatak Masut dari drama tersebut adalah\u2026\na.jahat\nb.tidak tau berterimakasih\nc.baik\nd.tidak sopan\ne.pemarah\n5. Bacalah kutipan drama berikut!\nAni\t: Tolong Santi, tugasmu membersihkan papan tulis aku akan menyapu lantai\nSanti\t: Baiklah Ani, oh ya, andi belum datang kita tunggu saja\nAni\t: Belum, mugkin sebentar lagi andi datang kita tunggu saja\nSanti\t: Itu dia suruh datang, cepat Andi tolong bersihkan meja dan bangku dengan kemoceng!\nAndi\t: Baik Santi\nLatar  waktu dalam kutipan drama diatas adalah\u2026\na.Pagi hari dikelas\td.pagi hari dirumah\nb.siang hari dikantor\te.sore hari dirumah sakit\nc.malam hari dikelas\n6.Perhatikan penggalan drama dibawah ini!\n\u201cDari mana saja kau, Berdrun? Hari sudah petang tapi kau baru pulang\u201d Tanya ayah sambil berkacak pinggang.\nDialog diatas diucapkan dengan nada\u2026\na.keras sambil bercanda\nb.marah dan serius\nc.rendah dan penuh Tanya\nd.penuh kasih sayang\ne.merasa dendam\n7. Bacalah kutipan drama berikut!\nToni\t: Andi! Sebentar, jangan pulang dulu! (sambil melambaikan tangan usai pelajaran di sekolah)\nAni\t: Ya, ton, ada apa? Sini kita duduk di teras! (mereka kemudian duduk berhadapan)\nToni\t: Begini, mengapa kamu beberapa kali tidak datang main bola dilapangan?\nItang: ya an. Kami sangat membutuhkanmu dilapangan! \nPandu\t: Maafkan ucapanku dikelas kemarin, Ani\nAni\t: Aku memang perempuan, tetapi aku menyukai sepak bola! \nToni, Itang, danPandu: (bersama-sama) Betul, kami sangat membutuhkanmu!\nAni\t: Oke jika itu <em>mau<\/em> kalian, besok aku akan bergabung dengan kalian dilapangan tapi syaratnya kalian tidak melecehkanku lagi sebagai ketua!\nTokoh utama dalam teks drama tersebut ialah\u2026\na.Toni\td.Pandu\nb.Ani\te.Toni dan Itang\nc.Itang",
+                        "snippet_content": "hp kalian, kami akan minta uang tembusan! (mendorong Dimi masuk)\nDimi\t: <em>ka<\/em>\u2026<em>ka<\/em>\u2026kami tidak bawa hp (gugup)\nBrilian\t: Periksa kantongnya!\nTimmy"
+                    },
+                    "responses": [
+                        {
+                            "id": 13305189,
+                            "user_id": 2778175,
+                            "task_id": 10944412,
+                            "points": 5,
+                            "created": "2017-06-14T08:54:38+07:00",
+                            "content": "2.a<br \/>3.d<br \/>4.c<br \/>5.a<br \/>6.b<br \/>7.b                                                                         .              ",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 13305206,
+                            "user_id": 4892003,
+                            "task_id": 10944412,
+                            "points": 5,
+                            "created": "2017-06-14T08:58:48+07:00",
+                            "content": "2.a<br \/>3.a<br \/>4.c<br \/>5.a<br \/>6.B<br \/>7.b<br \/><br \/>Maaf klo salah,, kak<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2778175,
+                                "nick": "safridadwiangraini",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dca\/b2ccdca77f28aad791855d76e06e3eb5.jpg"
+                            },
+                            {
+                                "id": 4892003,
+                                "nick": "Dwi1513",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dd1\/414db4ee3ab8c127d8aa595fe4499885.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10604728,
+                        "subject_id": 4,
+                        "user_id": 3985644,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 12,
+                            "ptsForResp": 6,
+                            "ptsForBest": 3
+                        },
+                        "content": "B.     Bacalah pernyataan di bawah ini. Pilihlah jawaban yang dianggap paling benar.<br \/>\n1.        Suatu kelompok hewan mempunyai ciri-ciri sebagai berikut.<br \/>\na)        tubuhnya tersusun dari dua lapis sel (diploblastik)<br \/>\nb)        tubuhnya mempunyai rongga usus disebut gastrovaskuler<br \/>\nc)        anggotanya menyusun terumbu karang<br \/>\nd)        anggotanya ada yang hidup soliter\/koloni hidup mengambang di laut atau menempel pada substrat sebagai polip<br \/>\nKelompok hewan yang mempunyai ciri-ciri tersebut di atas adalah\u2026<br \/>\na.    Porifera<br \/>\nb.    Mollusca<br \/>\nc.    Echinodermata<br \/>\nd.    Plathelmynthes<br \/>\ne.    Coelenterata<br \/><br \/>\n2.        Ditemukan suatu organisme dengan ciri-ciri.<br \/>\n1)        Tubuh memiliki sisik<br \/>\n2)        Rangka tersusun atas endoskeleton<br \/>\n3)        Bertulang belakang<br \/>\n4)        Bernapas dengan paru-paru<br \/>\n5)        Tipe reproduksi adalah ovipar<br \/>\nDi dalam klasifikasi makhluk hidup, organisme yang memiliki ciri-ciri tersebut termasuk ke dalam kelas \u2026.<br \/>\na.    Pisces<br \/>\nb.    Amfibi<br \/>\nc.    Reptilian<br \/>\nd.    Aves<br \/>\ne.    Mamalia<br \/><br \/>\n3.        Perhatikan gambar berikut di bawah ini.<br \/><br \/>\nHewan-hewan pada gambar mempunyai hubungan kekerabatan yang dekat sehingga dikelompokkan dalam ordo yang sama berdasarkan \u2026.<br \/>\na.    adanya telinga<br \/>\nb.    penutup tubuh<br \/>\nc.    cara berkembang biak<br \/>\nd.    jumlah anggota gerak<br \/>\ne.    jenis makanan<br \/><br \/>\n4.        Berikut ini merupakan berbagai macam ikan.<br \/>\n1)   Ikan pari<br \/>\n2)   Ikan bandeng<br \/>\n3)   Ikan hiu<br \/>\n4)   Ikan gurame<br \/>\n5)   Ikan mas<br \/>\nKelompok ikan yang bertulang rawan (chondrychties) adalah \u2026.<br \/>\na.    1 dan 3<br \/>\nb.    2 dan 4<br \/>\nc.    3 dan 5<br \/>\nd.    3 dan 4<br \/>\ne.    4 dan 5<br \/><br \/>\n5.        Fase pada Cnidaria\/Coelenterata yang dapat bergerak bebas dan melakukan perkawinan disebut \u2026.<br \/>\na.    planula<br \/>\nb.    polip<br \/>\nc.    medusa<br \/>\nd.    skifistoma<br \/>\ne.    spikula<br \/><br \/><br \/>\n6.        Perhatikan ciri khas setiap anggota kelompok arthropoda berikut.<br \/>\nI.<br \/>\nCrustacea<br \/>\nMemiliki 5 pasang kaki jalan pada cephalotorax dan 5 pasang kaki renang pada abdomennya<br \/>\nII.<br \/>\nArachnida<br \/>\nTubuhnya terdiri atas cephalotorax dan abdomen yang beruas<br \/>\nIII.<br \/>\nMyriopoda<br \/>\nTubuhnya terdiri atas caput dan abdomen<br \/>\nIV.<br \/>\nInsecta<br \/>\nTubuh beruas-ruas dan pada setiap ruas terdapat sepasang kaki<br \/>\nCiri khas dari setiap kelompok yang benar ditunjukkan oleh \u2026.<br \/>\na.    I dan II<br \/>\nb.    I dan III<br \/>\nc.    I dan IV<br \/>\nd.    II dan III<br \/>\ne.    II dan IV<br \/><br \/><br \/>\n7.        Ciri-ciri hewan vertebrata:<br \/>\nNo.<br \/>\nHewan<br \/>\nRuang Jantung<br \/>\nSuhu Tubuh<br \/>\nFertilisasi<br \/>\na.<br \/>\nPisces<br \/>\n2<br \/>\nPoikiloterm<br \/>\nInternal, ovipar<br \/>\nb.<br \/>\nAmphibi<br \/>\n3<br \/>\nPoikiloterm<br \/>\nEksternal, ovipar<br \/>\nc.<br \/>\nReptil<br \/>\n4<br \/>\nHomoiterm<br \/>\nEksternal, ovovivipar<br \/>\nd.<br \/>\nAves<br \/>\n4<br \/>\nPoikiloterm<br \/>\nInternal, ovipar<br \/>\ne.<br \/>\nMamalia<br \/>\n4<br \/>\nHomoiterm<br \/>\nOvipar<br \/><br \/><br \/>\n8.      Kanguru, koala, dan kuskus adalah kelompok hewan yang termasuk dalam kelas mamalia ordo ....<br \/>\na.       Monotremata<br \/>\nb.      Marsupialia<br \/>\nc.       Ungulata<br \/>\nd.      Priata<br \/>\ne.       Squamata<br \/><br \/>\n9.      Hewan bertubuh lunak yang memiliki ciri bergerak menggunakan otot perut berasal dari kelas ....<br \/>\na.       Amphineura<br \/>\nb.      Gastropoda<br \/>\nc.       Scaphopoda<br \/>\nd.      Cephalopoda<br \/>\ne.       Hirudinea<br \/><br \/>\n10.  Dibawah ini adalah siklus hidup berurutan yang benar pada Fasciola hepatica adalah ....<br \/>\na.       Mirasidium, sporokista, redia, metaserkaria, serkaria, kista<br \/>\nb.      Mirasidium, sporokista, kista , serkaria, metaserkaria, redia<br \/>\nc.       Mirasidium, sporokista, redia, serkaria, metaserkaria, kista<br \/>\nd.      Sporokista, mirasidium, , redia, serkaria, metaserkaria, kista<br \/>\ne.       Sporokista, mirasidium, redia, metaserkaria, serkaria, kista<br \/><br \/>\nTolong di bantu yah!!!",
+                        "created": "2017-05-11T12:39:25+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2017-05-11T12:55:02+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "6",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "B.     Bacalah pernyataan di bawah ini. Pilihlah jawaban yang dianggap paling benar.\n1.        Suatu kelompok hewan mempunyai ciri-ciri sebagai berikut.\na)        tubuhnya tersusun dari dua lapis sel (diploblastik)\nb)        tubuhnya mempunyai rongga usus disebut gastrovaskuler\nc)        anggotanya menyusun terumbu karang\nd)        anggotanya ada yang hidup soliter\/koloni hidup mengambang di laut atau menempel pada substrat sebagai polip\nKelompok hewan yang mempunyai ciri-ciri tersebut di atas adalah\u2026\na.    Porifera\nb.    Mollusca\nc.    Echinodermata\nd.    Plathelmynthes\ne.    Coelenterata\n2.        Ditemukan suatu organisme dengan ciri-ciri.\n1)        Tubuh memiliki sisik\n2)        Rangka tersusun atas endoskeleton\n3)        Bertulang belakang\n4)        Bernapas dengan paru-paru\n5)        Tipe reproduksi adalah ovipar\nDi dalam klasifikasi makhluk hidup, organisme yang memiliki ciri-ciri tersebut termasuk ke dalam kelas \u2026.\na.    Pisces\nb.    Amfibi\nc.    Reptilian\nd.    Aves\ne.    Mamalia\n3.        Perhatikan gambar berikut di bawah ini.\nHewan-hewan pada gambar mempunyai hubungan kekerabatan yang dekat sehingga dikelompokkan dalam ordo yang sama berdasarkan \u2026.\na.    adanya telinga\nb.    penutup tubuh\nc.    cara berkembang biak\nd.    jumlah anggota gerak\ne.    jenis makanan\n4.        Berikut ini merupakan berbagai macam <em>ikan.<\/em>\n1)   <em>Ikan<\/em> pari\n2)   <em>Ikan<\/em> <em>bandeng<\/em>\n3)   <em>Ikan<\/em> hiu\n4)   <em>Ikan<\/em> gurame\n5)   <em>Ikan<\/em> <em>mas<\/em>\nKelompok <em>ikan<\/em> yang bertulang rawan (chondrychties) adalah \u2026.\na.    1 dan 3\nb.    2 dan 4\nc.    3 dan 5\nd.    3 dan 4\ne.    4 dan 5\n5.        Fase pada Cnidaria\/Coelenterata yang dapat bergerak bebas dan melakukan perkawinan disebut \u2026.\na.    planula\nb.    polip\nc.    medusa\nd.    skifistoma\ne.    spikula\n6.        Perhatikan ciri khas setiap anggota kelompok arthropoda berikut.\nI.\nCrustacea\nMemiliki 5 pasang kaki jalan pada cephalotorax dan 5 pasang kaki renang pada abdomennya\nII.\nArachnida\nTubuhnya terdiri atas cephalotorax dan abdomen yang beruas\nIII.\nMyriopoda\nTubuhnya terdiri atas caput dan abdomen\nIV.\nInsecta\nTubuh beruas-ruas dan pada setiap ruas terdapat sepasang kaki\nCiri khas dari setiap kelompok yang benar ditunjukkan oleh \u2026.\na.    I dan II\nb.    I dan III\nc.    I dan IV\nd.    II dan III\ne.    II dan IV\n7.        Ciri-ciri hewan vertebrata:\nNo.\nHewan\nRuang Jantung\nSuhu Tubuh\nFertilisasi\na.\nPisces\n2\nPoikiloterm\nInternal, ovipar\nb.\nAmphibi\n3\nPoikiloterm\nEksternal, ovipar\nc.\nReptil\n4\nHomoiterm\nEksternal, ovovivipar\nd.\nAves\n4\nPoikiloterm\nInternal, ovipar\ne.\nMamalia\n4\nHomoiterm\nOvipar\n8.      Kanguru, koala, dan kuskus adalah kelompok hewan yang termasuk dalam kelas mamalia ordo ....\na.       Monotremata\nb.      Marsupialia\nc.       Ungulata\nd.      Priata\ne.       Squamata\n9.      Hewan bertubuh lunak yang memiliki ciri bergerak menggunakan otot perut berasal dari kelas ....\na.       Amphineura\nb.      Gastropoda\nc.       Scaphopoda\nd.      Cephalopoda\ne.       Hirudinea\n10.  Dibawah ini adalah siklus hidup berurutan yang benar pada Fasciola hepatica adalah ....\na.       Mirasidium, sporokista, redia, metaserkaria, serkaria, kista\nb.      Mirasidium, sporokista, kista , serkaria, metaserkaria, redia\nc.       Mirasidium, sporokista, redia, serkaria, metaserkaria, kista\nd.      Sporokista, mirasidium, , redia, serkaria, metaserkaria, kista\ne.       Sporokista, mirasidium, redia, metaserkaria, serkaria, kista\nTolong di bantu yah!!!",
+                        "snippet_content": "merupakan berbagai macam <em>ikan.<\/em>\n1)   <em>Ikan<\/em> pari\n2)   <em>Ikan<\/em> <em>bandeng<\/em>\n3)   <em>Ikan<\/em> hiu\n4)   <em>Ikan<\/em> gurame\n5)   <em>Ikan<\/em> <em>mas<\/em>\nKelompok <em>ikan<\/em> yang"
+                    },
+                    "responses": [
+                        {
+                            "id": 12841700,
+                            "user_id": 5021818,
+                            "task_id": 10604728,
+                            "points": 6,
+                            "created": "2017-05-11T12:55:02+07:00",
+                            "content": "yang pertama jawabannya yaitu  coelenterata <br \/>nomor 2 jawabannya yaitu reptilian<br \/>nomor tiga dikelompokkan berdasarkan jumlah anggota geraknya <br \/>no 4 jawabannya 1 dan 3 yaitu ikan pari dan ikan hiu <br \/>no 5 medusa <br \/>no 6 kalo gak salah jawabannya D ",
+                            "mark": 4,
+                            "marks_count": 1,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 7044669,
+                                        "user_id": 3985644,
+                                        "content": "Nmor 7, 8, 9, 10 bisa gak di jawabkan sekalian",
+                                        "created": "2017-05-11T23:46:08+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5021818,
+                                "nick": "anastasyasianipar",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/de3\/409e45f5ea7b438858cdac3d91d021f1.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10596310,
+                        "subject_id": 4,
+                        "user_id": 3985644,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 17,
+                            "ptsForResp": 9,
+                            "ptsForBest": 5
+                        },
+                        "content": "A.  Bacalah pernyataan berikut dan berikan penilaian Salah (S) atau Benar (B) tentang pernyataan tersebut. Bila pernyataan tersebut Salah (S) dan tulis kalimat pembenarannya!<br \/><br \/>\n1.        B \u2013 S  Beberapa sifat mendasar sel hewan adalah multiseluler, eukariotik, dan memiliki  dinding sel<br \/>\n2.        B \u2013 S  Chondrichthyes merupakan kelompok ikan bertulang sejati\/keras <br \/>\n3.        B \u2013 S  Coolenterata termasuk hewan diploblastic yang berarti mempunyai tiga lapisan lembaga yakni endoderm, mesoderm, dan eksoderm<br \/>\n4.        B \u2013 S Ophidia adalah subordo dari ordo Squamata kelas reptilian yang mempunyai ciri terdapat empat tungkai<br \/>\n5.        B \u2013 S Kelompok hewan yang memiliki tulang belakang (vertebrata) terdapat empat kelas yakni mamalia, pisces, amfibi, dan aves.<br \/>\n6.        B \u2013 S Primata adalah kelompok hewan mamalia yang mempunyai mata menghadap ke depan.<br \/>\n7.        B \u2013 S  Gary peliharaan dari Spongebob (siput) merupakan salah satu dari filum Mollusca.<br \/>\n8.        B \u2013 S Permukaan tubuh mamalia terdapat bulu yang tumbuh.<br \/>\n9.        B \u2013 S  Gastropoda adalah hewan yang bergerak menggunakan otot perut sedangkan chepalopoda merupakan hewan yang mempunyai kaki tertempel langsung dari kepala.<br \/>\n10.    B \u2013 S  Fasciola hepatica merupakan salah satu contoh spesies parasit dari Filum Nemathelminthes<br \/>\n11.    B \u2013 S Fungsi dari eksoskelton pada arthropoda adalah sebagai pelindung tubuh yang kuat.<br \/>\n12.    B \u2013 S Burung kasuari, penguin, dan itik adalah termasuk kedalam ordo burung tidak terbang (Neognathae).<br \/><br \/>\nB.     Bacalah pernyataan di bawah ini. Pilihlah jawaban yang dianggap paling benar.<br \/>\n1.        Suatu kelompok hewan mempunyai ciri-ciri sebagai berikut.<br \/>\na)        tubuhnya tersusun dari dua lapis sel (diploblastik)<br \/>\nb)        tubuhnya mempunyai rongga usus disebut gastrovaskuler<br \/>\nc)        anggotanya menyusun terumbu karang<br \/>\nd)        anggotanya ada yang hidup soliter\/koloni hidup mengambang di laut atau menempel pada substrat sebagai polip<br \/>\nKelompok hewan yang mempunyai ciri-ciri tersebut di atas adalah\u2026<br \/>\na.    Porifera<br \/>\nb.    Mollusca<br \/>\nc.    Echinodermata<br \/>\nd.    Plathelmynthes<br \/>\ne.    Coelenterata<br \/><br \/>\n2.        Ditemukan suatu organisme dengan ciri-ciri.<br \/>\n1)        Tubuh memiliki sisik<br \/>\n2)        Rangka tersusun atas endoskeleton<br \/>\n3)        Bertulang belakang<br \/>\n4)        Bernapas dengan paru-paru<br \/>\n5)        Tipe reproduksi adalah ovipar<br \/>\nDi dalam klasifikasi makhluk hidup, organisme yang memiliki ciri-ciri tersebut termasuk ke dalam kelas \u2026.<br \/>\na.    Pisces<br \/>\nb.    Amfibi<br \/>\nc.    Reptilian<br \/>\nd.    Aves<br \/>\ne.    Mamalia<br \/><br \/>\n3.        Perhatikan gambar berikut di bawah ini.<br \/><br \/>\nHewan-hewan pada gambar mempunyai hubungan kekerabatan yang dekat sehingga dikelompokkan dalam ordo yang sama berdasarkan \u2026.<br \/>\na.    adanya telinga<br \/>\nb.    penutup tubuh<br \/>\nc.    cara berkembang biak<br \/>\nd.    jumlah anggota gerak<br \/>\ne.    jenis makanan<br \/><br \/>\n4.        Berikut ini merupakan berbagai macam ikan.<br \/>\n1)   Ikan pari<br \/>\n2)   Ikan bandeng<br \/>\n3)   Ikan hiu<br \/>\n4)   Ikan gurame<br \/>\n5)   Ikan mas<br \/>\nKelompok ikan yang bertulang rawan (chondrychties) adalah \u2026.<br \/>\na.    1 dan 3<br \/>\nb.    2 dan 4<br \/>\nc.    3 dan 5<br \/>\nd.    3 dan 4<br \/>\ne.    4 dan 5<br \/><br \/>\n5.        Fase pada Cnidaria\/Coelenterata yang dapat bergerak bebas dan melakukan perkawinan disebut \u2026.<br \/>\na.    planula<br \/>\nb.    polip<br \/>\nc.    medusa<br \/>\nd.    skifistoma<br \/>\ne.    spikula<br \/><br \/><br \/>\n6.        Perhatikan ciri khas setiap anggota kelompok arthropoda berikut.<br \/>\nI.<br \/>\nCrustacea<br \/>\nMemiliki 5 pasang kaki jalan pada cephalotorax dan 5 pasang kaki renang pada abdomennya<br \/>\nII.<br \/>\nArachnida<br \/>\nTubuhnya terdiri atas cephalotorax dan abdomen yang beruas<br \/>\nIII.<br \/>\nMyriopoda<br \/>\nTubuhnya terdiri atas caput dan abdomen<br \/>\nIV.<br \/>\nInsecta<br \/>\nTubuh beruas-ruas dan pada setiap ruas terdapat sepasang kaki<br \/>\nCiri khas dari setiap kelompok yang benar ditunjukkan oleh \u2026.<br \/>\na.    I dan II<br \/>\nb.    I dan III<br \/>\nc.    I dan IV<br \/>\nd.    II dan III<br \/>\ne.    II dan IV<br \/><br \/><br \/>\n7.        Ciri-ciri hewan vertebrata:<br \/>\nNo.<br \/>\nHewan<br \/>\nRuang Jantung<br \/>\nSuhu Tubuh<br \/>\nFertilisasi<br \/>\na.<br \/>\nPisces<br \/>\n2<br \/>\nPoikiloterm<br \/>\nInternal, ovipar<br \/>\nb.<br \/>\nAmphibi<br \/>\n3<br \/>\nPoikiloterm<br \/>\nEksternal, ovipar<br \/>\nc.<br \/>\nReptil<br \/>\n4<br \/>\nHomoiterm<br \/>\nEksternal, ovovivipar<br \/>\nd.<br \/>\nAves<br \/>\n4<br \/>\nPoikiloterm<br \/>\nInternal, ovipar<br \/>\ne.<br \/>\nMamalia<br \/>\n4<br \/>\nHomoiterm<br \/>\nOvipar<br \/><br \/><br \/>\n8.      Kanguru, koala, dan kuskus adalah kelompok hewan yang termasuk dalam kelas mamalia ordo ....<br \/>\na.       Monotremata<br \/>\nb.      Marsupialia<br \/>\nc.       Ungulata<br \/>\nd.      Priata<br \/>\ne.       Squamata<br \/><br \/>\n9.      Hewan bertubuh lunak yang memiliki ciri bergerak menggunakan otot perut berasal dari kelas ....<br \/>\na.       Amphineura<br \/>\nb.      Gastropoda<br \/>\nc.       Scaphopoda<br \/>\nd.      Cephalopoda<br \/>\ne.       Hirudinea<br \/><br \/>\n10.  Dibawah ini adalah siklus hidup berurutan yang benar pada Fasciola hepatica adalah ....<br \/>\na.       Mirasidium, sporokista, redia, metaserkaria, serkaria, kista<br \/>\nb.      Mirasidium, sporokista, kista , serkaria, metaserkaria, redia<br \/>\nc.       Mirasidium, sporokista, redia, serkaria, metaserkaria, kista<br \/>\nd.      Sporokista, mirasidium, , redia, serkaria, metaserkaria, kista<br \/>\ne.       Sporokista, mirasidium, redia, metaserkaria, serkaria, kista<br \/><br \/>\nTolong di bantu yah!!<br \/>",
+                        "created": "2017-05-10T11:02:08+07:00",
+                        "responses": 1,
+                        "tickets": 15,
+                        "first_resp": "2017-05-16T08:46:32+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "6",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "A.  Bacalah pernyataan berikut dan berikan penilaian Salah (S) atau Benar (B) tentang pernyataan tersebut. Bila pernyataan tersebut Salah (S) dan tulis kalimat pembenarannya!\n1.        B \u2013 S  Beberapa sifat mendasar sel hewan adalah multiseluler, eukariotik, dan memiliki  dinding sel\n2.        B \u2013 S  Chondrichthyes merupakan kelompok <em>ikan<\/em> bertulang sejati\/keras \n3.        B \u2013 S  Coolenterata termasuk hewan diploblastic yang berarti mempunyai tiga lapisan lembaga yakni endoderm, mesoderm, dan eksoderm\n4.        B \u2013 S Ophidia adalah subordo dari ordo Squamata kelas reptilian yang mempunyai ciri terdapat empat tungkai\n5.        B \u2013 S Kelompok hewan yang memiliki tulang belakang (vertebrata) terdapat empat kelas yakni mamalia, pisces, amfibi, dan aves.\n6.        B \u2013 S Primata adalah kelompok hewan mamalia yang mempunyai mata menghadap ke depan.\n7.        B \u2013 S  Gary peliharaan dari Spongebob (siput) merupakan salah satu dari filum Mollusca.\n8.        B \u2013 S Permukaan tubuh mamalia terdapat bulu yang tumbuh.\n9.        B \u2013 S  Gastropoda adalah hewan yang bergerak menggunakan otot perut sedangkan chepalopoda merupakan hewan yang mempunyai kaki tertempel langsung dari kepala.\n10.    B \u2013 S  Fasciola hepatica merupakan salah satu contoh spesies parasit dari Filum Nemathelminthes\n11.    B \u2013 S Fungsi dari eksoskelton pada arthropoda adalah sebagai pelindung tubuh yang kuat.\n12.    B \u2013 S Burung kasuari, penguin, dan itik adalah termasuk kedalam ordo burung tidak terbang (Neognathae).\nB.     Bacalah pernyataan di bawah ini. Pilihlah jawaban yang dianggap paling benar.\n1.        Suatu kelompok hewan mempunyai ciri-ciri sebagai berikut.\na)        tubuhnya tersusun dari dua lapis sel (diploblastik)\nb)        tubuhnya mempunyai rongga usus disebut gastrovaskuler\nc)        anggotanya menyusun terumbu karang\nd)        anggotanya ada yang hidup soliter\/koloni hidup mengambang di laut atau menempel pada substrat sebagai polip\nKelompok hewan yang mempunyai ciri-ciri tersebut di atas adalah\u2026\na.    Porifera\nb.    Mollusca\nc.    Echinodermata\nd.    Plathelmynthes\ne.    Coelenterata\n2.        Ditemukan suatu organisme dengan ciri-ciri.\n1)        Tubuh memiliki sisik\n2)        Rangka tersusun atas endoskeleton\n3)        Bertulang belakang\n4)        Bernapas dengan paru-paru\n5)        Tipe reproduksi adalah ovipar\nDi dalam klasifikasi makhluk hidup, organisme yang memiliki ciri-ciri tersebut termasuk ke dalam kelas \u2026.\na.    Pisces\nb.    Amfibi\nc.    Reptilian\nd.    Aves\ne.    Mamalia\n3.        Perhatikan gambar berikut di bawah ini.\nHewan-hewan pada gambar mempunyai hubungan kekerabatan yang dekat sehingga dikelompokkan dalam ordo yang sama berdasarkan \u2026.\na.    adanya telinga\nb.    penutup tubuh\nc.    cara berkembang biak\nd.    jumlah anggota gerak\ne.    jenis makanan\n4.        Berikut ini merupakan berbagai macam <em>ikan.<\/em>\n1)   <em>Ikan<\/em> pari\n2)   <em>Ikan<\/em> <em>bandeng<\/em>\n3)   <em>Ikan<\/em> hiu\n4)   <em>Ikan<\/em> gurame\n5)   <em>Ikan<\/em> <em>mas<\/em>\nKelompok <em>ikan<\/em> yang bertulang rawan (chondrychties) adalah \u2026.\na.    1 dan 3\nb.    2 dan 4\nc.    3 dan 5\nd.    3 dan 4\ne.    4 dan 5\n5.        Fase pada Cnidaria\/Coelenterata yang dapat bergerak bebas dan melakukan perkawinan disebut \u2026.\na.    planula\nb.    polip\nc.    medusa\nd.    skifistoma\ne.    spikula\n6.        Perhatikan ciri khas setiap anggota kelompok arthropoda berikut.\nI.\nCrustacea\nMemiliki 5 pasang kaki jalan pada cephalotorax dan 5 pasang kaki renang pada abdomennya\nII.\nArachnida\nTubuhnya terdiri atas cephalotorax dan abdomen yang beruas\nIII.\nMyriopoda\nTubuhnya terdiri atas caput dan abdomen\nIV.\nInsecta\nTubuh beruas-ruas dan pada setiap ruas terdapat sepasang kaki\nCiri khas dari setiap kelompok yang benar ditunjukkan oleh \u2026.\na.    I dan II\nb.    I dan III\nc.    I dan IV\nd.    II dan III\ne.    II dan IV\n7.        Ciri-ciri hewan vertebrata:\nNo.\nHewan\nRuang Jantung\nSuhu Tubuh\nFertilisasi\na.\nPisces\n2\nPoikiloterm\nInternal, ovipar\nb.\nAmphibi\n3\nPoikiloterm\nEksternal, ovipar\nc.\nReptil\n4\nHomoiterm\nEksternal, ovovivipar\nd.\nAves\n4\nPoikiloterm\nInternal, ovipar\ne.\nMamalia\n4\nHomoiterm\nOvipar\n8.      Kanguru, koala, dan kuskus adalah kelompok hewan yang termasuk dalam kelas mamalia ordo ....\na.       Monotremata\nb.      Marsupialia\nc.       Ungulata\nd.      Priata\ne.       Squamata\n9.      Hewan bertubuh lunak yang memiliki ciri bergerak menggunakan otot perut berasal dari kelas ....\na.       Amphineura\nb.      Gastropoda\nc.       Scaphopoda\nd.      Cephalopoda\ne.       Hirudinea\n10.  Dibawah ini adalah siklus hidup berurutan yang benar pada Fasciola hepatica adalah ....\na.       Mirasidium, sporokista, redia, metaserkaria, serkaria, kista\nb.      Mirasidium, sporokista, kista , serkaria, metaserkaria, redia\nc.       Mirasidium, sporokista, redia, serkaria, metaserkaria, kista\nd.      Sporokista, mirasidium, , redia, serkaria, metaserkaria, kista\ne.       Sporokista, mirasidium, redia, metaserkaria, serkaria, kista\nTolong di bantu yah!!",
+                        "snippet_content": "merupakan berbagai macam <em>ikan.<\/em>\n1)   <em>Ikan<\/em> pari\n2)   <em>Ikan<\/em> <em>bandeng<\/em>\n3)   <em>Ikan<\/em> hiu\n4)   <em>Ikan<\/em> gurame\n5)   <em>Ikan<\/em> <em>mas<\/em>\nKelompok <em>ikan<\/em> yang"
+                    },
+                    "responses": [
+                        {
+                            "id": 12920744,
+                            "user_id": 4448825,
+                            "task_id": 10596310,
+                            "points": 9,
+                            "created": "2017-05-16T08:46:32+07:00",
+                            "content": "10 jawabanya c bro.......",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4448825,
+                                "nick": "GalvinZH",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d21\/7d529539e2b631307b03347bf52e1753.png"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10525633,
+                        "subject_id": 4,
+                        "user_id": 4960678,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "apa rangka tubuh,ruang jantung,suhu tubuh,penutup tubuh dari hewan kucing,nyamuk,katak,ikan mas",
+                        "created": "2017-05-04T22:26:02+07:00",
+                        "responses": 1,
+                        "tickets": 8,
+                        "first_resp": "2017-05-12T11:27:38+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "apa rangka tubuh,ruang <em>jantung<\/em>,suhu tubuh,penutup tubuh dari hewan kucing,nyamuk,katak,<em>ikan<\/em> <em>mas<\/em>",
+                        "snippet_content": "apa rangka tubuh,ruang <em>jantung<\/em>,suhu tubuh,penutup tubuh dari hewan kucing,nyamuk,katak,<em>ikan<\/em> <em>mas<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 12859377,
+                            "user_id": 4981811,
+                            "task_id": 10525633,
+                            "points": 5,
+                            "created": "2017-05-12T11:27:38+07:00",
+                            "content": "eksoskeleton yang tersusun zat kutub,",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 7046436,
+                                        "user_id": 4981811,
+                                        "content": "maksudnya zat kitin",
+                                        "created": "2017-05-12T11:28:03+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4981811,
+                                "nick": "hari92",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10932250,
+                        "subject_id": 1,
+                        "user_id": 4377320,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": " dibawah ini termasuk deskripsi apakah , deskripsi keadaan fisik, keadaan sekitar, watak atau tingkah perbuatan, gagasan tokoh atau tindakan perbuatan dan jelaskan maksud\/arti  pernyataan dari deskripsi dibawah ini!<br \/><br \/>1. menjelang pukul 10, pesaing enong berdatangan. mereka adalah gadis-gadis muda berbadan padat dan berbibir penuh. make up tebal macam perempuan di televisi, potongan rambut masa kini, berbaju bak orang kota. Merona-rona. Sementara enong, pakaiannya seperti orang mau mengaji khatam quran. jilbabnya lusuh. ia bahkan tak berbedak.<br \/><br \/>2. namun, alis satunya, lebat sekali. Rahang nya seperti manusia Neanderthal. Matanya, sudah mata manusia modern meski agak juling. Namun, mata itu seperti mata anak kecil, jenaka sekali, dan selalu berbinar.<br \/><br \/>tolong dijawab ya dibantu <br \/><br \/>contohnya :<br \/>\" Man jadda wajada!\"<br \/>Teriak laki-laki muda bertubuh kurus itu lantang. telunjuknya lurus teracung tinggi ke udara, suaranya menggelegar, sorot matanya berkilat-kilat menikam kami satu persatu. wajah serius, alis matanya hampir bertemu dan otot gerahamnya bertonjolan, seakan mengerahkan segenap tenaga dalamnya untuk menaklukkan jiwa kami. sungguh mengingatkan aku kepada karakter tokoh sakti mantraguna di film layar tancap di kampungku,..<br \/>pemilik mata setajam sembilu ini kurus kering dan tinggi semampai. jenggot ringkasnya tumbuh jarang-jarang. mukanya dingin seperti besi, mulutnya lebih sering terkatup, membentuk garis tipis yang tegas. gerakannya tenang menggelisahkan. mengingatkan aku kepada belalang sembah yang diam-diam bisa tiba-tiba melesatkan kaki gergajinya menangkap lalat yang sedang tetbang siang.<br \/>terlihat bahwa fisik yang digambarkan ialah pemuda bertubuh kurus kering dan tinggi, matanya berliat tajam, memilki jenggot yang tumbuh jarang, mukanya dingin, mulutnya terkatup membentuk garis tipis yang tegas, mengingatkan penulis seperti belalang.",
+                        "created": "2017-06-11T21:18:06+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-06-12T00:30:34+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": " dibawah ini termasuk deskripsi apakah , deskripsi keadaan fisik, keadaan sekitar, watak atau tingkah perbuatan, gagasan tokoh atau tindakan perbuatan dan jelaskan maksud\/arti  pernyataan dari deskripsi dibawah ini!1. menjelang pukul 10, pesaing enong berdatangan. mereka adalah gadis-gadis muda berbadan padat dan berbibir penuh. make up tebal macam perempuan di televisi, potongan rambut masa kini, berbaju bak orang kota. Merona-rona. Sementara enong, pakaiannya seperti orang <em>mau<\/em> mengaji khatam quran. jilbabnya lusuh. ia bahkan tak berbedak.2. namun, alis satunya, lebat sekali. Rahang nya seperti manusia Neanderthal. Matanya, sudah mata manusia modern meski agak juling. Namun, mata itu seperti mata anak kecil, jenaka sekali, dan selalu berbinar.tolong dijawab ya dibantu contohnya :\" <em>Man<\/em> jadda wajada!\"Teriak laki-laki muda bertubuh kurus itu <em>lantang.<\/em> telunjuknya lurus teracung tinggi ke udara, suaranya menggelegar, sorot matanya berkilat-kilat menikam kami satu persatu. wajah serius, alis matanya hampir bertemu dan otot gerahamnya bertonjolan, seakan mengerahkan segenap tenaga dalamnya untuk menaklukkan jiwa kami. sungguh mengingatkan aku kepada karakter tokoh sakti mantraguna di film layar tancap di kampungku,..pemilik mata setajam sembilu ini kurus kering dan tinggi semampai. jenggot ringkasnya tumbuh jarang-jarang. mukanya dingin seperti besi, mulutnya lebih sering terkatup, membentuk garis tipis yang tegas. gerakannya tenang menggelisahkan. mengingatkan aku kepada belalang sembah yang diam-diam bisa tiba-tiba melesatkan kaki gergajinya menangkap lalat yang sedang tetbang siang.terlihat bahwa fisik yang digambarkan ialah pemuda bertubuh kurus kering dan tinggi, matanya berliat tajam, memilki jenggot yang tumbuh jarang, mukanya dingin, mulutnya terkatup membentuk garis tipis yang tegas, mengingatkan penulis seperti belalang.",
+                        "snippet_content": "contohnya :\" <em>Man<\/em> jadda wajada!\"Teriak laki-laki muda bertubuh kurus itu <em>lantang.<\/em> telunjuknya lurus teracung tinggi ke udara, suaranya menggelegar, sorot matanya"
+                    },
+                    "responses": [
+                        {
+                            "id": 13293029,
+                            "user_id": 5150225,
+                            "task_id": 10932250,
+                            "points": 5,
+                            "created": "2017-06-12T00:30:34+07:00",
+                            "content": "setahu saya itu contoh deskripsi keadaan <br \/><br \/><br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "6",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5150225,
+                                "nick": "fathonmunandar",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d70\/eb471283269f50e508fb6320190968fd.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 10,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 1057187,
+            "nick": "accounting",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 2,
+                "comments": 3
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4180944,
+            "nick": "essel120503",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 14,
+                "answers": 3,
+                "comments": 5
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d40\/66048254831f002d21601d0070dccc97.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d61\/0bd6d0c85131b16fbbf5503fadd4b360.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d40\/66048254831f002d21601d0070dccc97.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d61\/0bd6d0c85131b16fbbf5503fadd4b360.png"
+            },
+            "ranks": {
+                "color": "#000000",
+                "names": [],
+                "count": 0
+            },
+            "ranks_ids": null
+        },
+        {
+            "id": 1145647,
+            "nick": "agnesalkania",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 13,
+                "answers": 17,
+                "comments": 21
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 2596459,
+            "nick": "JNJpororoca",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 13,
+                "comments": 1
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da4\/ccea276bd31f84893ccf47e971351bc5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db3\/bfebc96c31dba345e91fa6740420aae0.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da4\/ccea276bd31f84893ccf47e971351bc5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db3\/bfebc96c31dba345e91fa6740420aae0.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 983790,
+            "nick": "Puputlindamelat",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 5033828,
+            "nick": "Uyayu",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 16,
+                "comments": 7
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dbb\/76bb91e8a95b0bb8f02dc6431839b126.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d92\/21b957db92dc2234b4cfedeeb842dce1.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dbb\/76bb91e8a95b0bb8f02dc6431839b126.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d92\/21b957db92dc2234b4cfedeeb842dce1.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 5076343,
+            "nick": "putrishabirah009",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 2,
+                "comments": 1
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 826546,
+            "nick": "zakkyhandsome",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 15,
+                "answers": 115,
+                "comments": 47
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 5075525,
+            "nick": "Hengky084",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d70\/4b37c79509aef07fbf9a18d98fdd9b44.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d22\/c1a288b784ab42b0c43309cdd55775dc.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d70\/4b37c79509aef07fbf9a18d98fdd9b44.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d22\/c1a288b784ab42b0c43309cdd55775dc.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 5077592,
+            "nick": "muzaki4192",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 13,
+                "comments": 13
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4e\/fdb432320ee05edec18c72c12eb06a3f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6c\/f346189b56f7accfc1fcf5d44a805aab.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4e\/fdb432320ee05edec18c72c12eb06a3f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6c\/f346189b56f7accfc1fcf5d44a805aab.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 5156110,
+            "nick": "Yolandafransiska",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de3\/060ea1befaf893ee139e1246eeb5ddf2.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d54\/5005e3e14550045e043e0d1ddefa3543.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de3\/060ea1befaf893ee139e1246eeb5ddf2.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d54\/5005e3e14550045e043e0d1ddefa3543.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 2778175,
+            "nick": "safridadwiangraini",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 65,
+                "comments": 9
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4e\/041414cac3ba3eb6ee1d3b6f73f08c95.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dca\/b2ccdca77f28aad791855d76e06e3eb5.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4e\/041414cac3ba3eb6ee1d3b6f73f08c95.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dca\/b2ccdca77f28aad791855d76e06e3eb5.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 4892003,
+            "nick": "Dwi1513",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 11,
+                "comments": 11
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dfc\/655ffda559fc6c42494afb280c9c567d.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd1\/414db4ee3ab8c127d8aa595fe4499885.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dfc\/655ffda559fc6c42494afb280c9c567d.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd1\/414db4ee3ab8c127d8aa595fe4499885.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 3985644,
+            "nick": "andimuhirfan07",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 24,
+                "answers": 1,
+                "comments": 14
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 5021818,
+            "nick": "anastasyasianipar",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 20,
+                "comments": 7
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db5\/56cb3bc370fa0540feef8fa3512c79e2.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de3\/409e45f5ea7b438858cdac3d91d021f1.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db5\/56cb3bc370fa0540feef8fa3512c79e2.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de3\/409e45f5ea7b438858cdac3d91d021f1.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4448825,
+            "nick": "GalvinZH",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 40,
+                "answers": 22,
+                "comments": 52
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d2d\/fcc2b7151a228da0df6ea00dec8b3795.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d21\/7d529539e2b631307b03347bf52e1753.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d2d\/fcc2b7151a228da0df6ea00dec8b3795.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d21\/7d529539e2b631307b03347bf52e1753.png"
+            },
+            "ranks": {
+                "color": "#000000",
+                "names": [],
+                "count": 0
+            },
+            "ranks_ids": null
+        },
+        {
+            "id": 4960678,
+            "nick": "Alfian190901",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 9,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dcf\/b19c506928cdbf8d70d1a03a488a65e8.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d8c\/fbf86f220318ec601aa29cad7162c07e.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dcf\/b19c506928cdbf8d70d1a03a488a65e8.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d8c\/fbf86f220318ec601aa29cad7162c07e.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4981811,
+            "nick": "hari92",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 40,
+                "comments": 3
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 4377320,
+            "nick": "baim221",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 39,
+                "answers": 11,
+                "comments": 1
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 5150225,
+            "nick": "fathonmunandar",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 10,
+                "answers": 4,
+                "comments": 1
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dfc\/75df312902852c6ead70fc8685cd7b30.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d70\/eb471283269f50e508fb6320190968fd.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dfc\/75df312902852c6ead70fc8685cd7b30.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d70\/eb471283269f50e508fb6320190968fd.jpg"
+            },
+            "ranks": {
+                "color": "#000000",
+                "names": [],
+                "count": 0
+            },
+            "ranks_ids": null
+        }
+    ],
+    "validated": false
+}

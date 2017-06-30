@@ -1,0 +1,173 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 8424117,
+                        "subject_id": 1,
+                        "user_id": 921284,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 15,
+                            "ptsForResp": 8,
+                            "ptsForBest": 4
+                        },
+                        "content": "Keluarga Darmiati ingin sekali membeli<br \/>\npiano, sebab semua anggota keluarga<br \/>\nDarmiati menyukai musik. Rencana<br \/>\nmembeli piano ini sangat didukung Rena.<br \/>\nDi dalam dirinya ada semangat membara<br \/>\nuntuk mahir bermain piano. Setelah<br \/>\nbermusyawarah, akhirnya keluarga Darmiati<br \/>\nsepakat membeli piano. Rena senang<br \/>\nsekali ketika papanya memutuskan ini.<br \/>\nDengan riang ia ikut papanya pergi ke toko<br \/>\nalat musik.<br \/>\nHari Jumat, hari yang sangat ditunggutunggu<br \/>\nRena. Truk pembawa piano yang<br \/>\ndibeli Papa akan datang ke rumahnya. Rena<br \/>\ndan kakaknya, Sari, sudah menyiapkan<br \/>\ntempat untuk menaruh piano itu.<br \/>\n82 Bahasa Indonesia untuk SMP\/MTs Kelas IX<br \/>\nPapa punya kamar kerja. Kamar kerja<br \/>\nitu luas sekali. Papa hanya mengisinya<br \/>\ndengan meja komputer dan rak buku. Ketika<br \/>\nmembeli rumah ini, Papa kebingungan<br \/>\nhendak digunakan untuk apa kamar yang<br \/>\nsatu itu, akhirnya digunakan untuk kamar<br \/>\nkerja. Nah, karena tempatnya masih luas<br \/>\nRena dan Sari memutuskan pianonya<br \/>\nditaruh di sana saja. Lagi pula, akhir-akhir<br \/>\nini Papa jarang memakai komputer kamar<br \/>\nkerja dan lebih sering bekerja di laptop milik<br \/>\nkantor. Rena, Sari, atau siapa pun bakal<br \/>\nbisa bebas berlatih piano tanpa mengganggu<br \/>\nPapa. Teng ... teng ... teng - teng -<br \/>\nteng - teng - teng ....<br \/>\n\u201cRajinnya anak Mama!\u201d ujar Mama<br \/>\nsenang sambil membawakan susu. Sore<br \/>\nitu Rena sedang berlatih piano. \u201cMakin pintar<br \/>\nkamu, Ren. Mama senang punya anak<br \/>\npintar seperti kamu.\u201d<br \/>\n\u201cRena cinta musik, Ma. Bagi Rena,<br \/>\nmusik itu indah. Dan musik yang paling<br \/>\nindah menurut Rena adalah dentingan piano.<br \/>\nTerasa begitu mengalun di hati,\u201d ujar<br \/>\nRena sambil memainkan lagu-lagu lainnya.<br \/>\n\u201cSebenarnya kenapa kamu menyukai<br \/>\nmusik? Apa yang membuatmu ingin belajar<br \/>\npiano?\u201d tanya Mama.<br \/>\n\u201cSoalnya Rena dilahirkan dalam<br \/>\nkeluarga yang suka musik. Papa, Mama,<br \/>\nKak Sari juga pecinta musik, kan? Masa<br \/>\nRena jadi pecinta ...... pecinta olahraga<br \/>\ngulat? Ya nggak lucu dong, ma,\u201d canda<br \/>\nRena.<br \/>\nMama tertawa. \u201cMama daftarkan saja<br \/>\nkamu ke tempat les piano ya, Ren? Bakat<br \/>\npianomu jangan disia-siakan, harus<br \/>\ndikembangkan.\u201d<br \/>\n\u201cWah, nggak usah, Ma. Nggak usah<br \/>\nrepot-repot. Rena cinta musik, nggak<br \/>\nberarti harus les musik juga dong. Lihat<br \/>\naja Kak Sari, pinter banget nyanyi, tapi<br \/>\nnggak ikut les nyanyi.\u201d<br \/>\nSetiap hari kamu selalu menggunakan<br \/>\nwaktumu untuk main komputer, main sama<br \/>\nteman-teman, bersepeda, dan lainnya.<br \/>\nSayang jika waktumu tidak digunakan<br \/>\nuntuk hal yang lebih berguna. Hidup jangan<br \/>\ndisia-siakan!\u201d<br \/>\nRena terdiam. \u201cIya sih, tapi kalau Rena<br \/>\nikut les piano, nanti jadi nggak ada waktu<br \/>\nbuat kumpul-kumpul sama teman-teman<br \/>\nanggota Musical Do Re Mi.\u201d<br \/>\n\u201cApa? Musical Do Re Mi itu apa,<br \/>\nRen?\u201d tanya Mama penasaran.<br \/>\n\u201cRena punya kelompok, Ma. Ketua<br \/>\nkelompoknya Shanti. Kami menamakannya<br \/>\nMusical Do Re Mi karena anggotanya<br \/>\nsemua pecinta musik. Rena baru saja<br \/>\nbergabung dengan kelompok itu,\u201d jelas<br \/>\nRena. \u201cSebenarnya sih nggak susah untuk<br \/>\njadi anggota kelompok itu. Cuma harus<br \/>\nmemenuhi syarat aja.\u201d<br \/>\n\u201cOh, begitu ... .\u201d<br \/>\n\u201cShanti punya kertas yang isinya<br \/>\nsyarat-syarat jadi anggota. Syaratnya<br \/>\nbanyak sekali, kurang lebih ada dua puluh<br \/>\nlima syarat. Rena nggak usah menuhin<br \/>\nsemuanya, Rena bisa milih. Di antara syarat<br \/>\nitu, ada syarat harus bisa jago main piano<br \/>\ndan punya piano. Lalu ada juga syarat yang<br \/>\nbilang anggota harus punya banyak waktu<br \/>\nbuat kumpul-kumpul, rapat, atau jalan-jalan.<br \/>\nRena pilih dua syarat itu. Makanya ... \u201c<br \/>\n\u201cMakanya kamu mendukung sekali<br \/>\nrencana membeli piano?\u201d<br \/>\n\u201cHe-eh.\u201d<br \/>\n\u201cRena, Rena! Mama pikir kamu mau<br \/>\nserius menekuni dunia musik. Ternyata<br \/>\nhanya untuk memenuhi persyaratan Shanti<br \/>\nsaja. Ren, di rumah ini, yang paling banyak<br \/>\npunya waktu untuk latihan piano itu cuma<br \/>\nkamu. Kak Sari sibuk belajar, Papa sibuk<br \/>\nkerja, Mama sibuk mengurus rumah. Tapi<br \/>\nkerjaan kamu sehari-hari, selain sekolah itu<br \/>\nmaiiin saja. Kalau begitu, piano ini akan siasia!\u201d<br \/>\ntegur Mama.<br \/>\n\u201cPiano ini mahal, Ren. Kalau tidak<br \/>\nterpakai, banyak uang yang terbuang<br \/>\npercuma. Lagi pula kamu punya bakat main<br \/>\npiano. Siapa tahu kalau serius menekuni<br \/>\ndunia musik, kamu bisa jadi musikus yang<br \/>\nterkenal di seluruh Indonesia atau bahkan<br \/>\nmancanegara. Kalau berlatih serius dan giat,<br \/>\nKegemaran Manusia 83<br \/>\nbukan sekadar main-main, siapa tahu nanti<br \/>\nada orang yang mendengar permainan<br \/>\npianomu yang bagus, terus menawarimu<br \/>\ntampil di panggung besar. Kalau kamu<br \/>\nnggak mau, bisa-bisa orang lain yang dapat<br \/>\nkesempatan itu. Terus kalau dia jadi<br \/>\nmusikus terkenal, mewakili Indonesia ke<br \/>\nperlombaan musik sedunia, bagaimana?<br \/>\nKamu bakal menyesal, kan? Hidup itu harus<br \/>\ndiisi kegiatan-kegiatan berguna!\u201d Nasihat<br \/>\nMama panjaaang - lebar.<br \/>\nRena terdiam. Ucapan Mama benar<br \/>\njuga. Piano itu kan mahal, sayang banget<br \/>\nkalau disia-siain. Lagi pula yang paling<br \/>\nbanyak punya waktu untuk setia main piano<br \/>\nkan cuma dia sendiri.<br \/>\nAh ... hati Rena jadi terusik. Kini di<br \/>\nhatinya tertanam keinginan untuk lebih<br \/>\ndalam lagi mempelajari musik.<br \/><br \/>\nPertanyaannya = Tentukan Dan Temukan Rekuansi isi Cerpen dengan Kehidupan sehari-hari?",
+                        "created": "2016-11-16T19:11:17+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2016-11-17T06:17:04+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Keluarga Darmiati ingin sekali membeli\npiano, sebab semua anggota keluarga\nDarmiati menyukai musik. Rencana\nmembeli piano ini sangat didukung Rena.\nDi dalam dirinya ada semangat membara\nuntuk <em>mahir<\/em> bermain piano. Setelah\nbermusyawarah, akhirnya keluarga Darmiati\nsepakat membeli piano. Rena senang\nsekali ketika <em>papanya<\/em> memutuskan ini.\nDengan riang ia ikut <em>papanya<\/em> pergi ke toko\nalat musik.\nHari Jumat, hari yang sangat ditunggutunggu\nRena. Truk pembawa piano yang\ndibeli Papa akan datang ke rumahnya. Rena\ndan kakaknya, Sari, sudah menyiapkan\ntempat untuk menaruh piano itu.\n82 Bahasa Indonesia untuk SMP\/MTs Kelas IX\nPapa punya kamar kerja. Kamar kerja\nitu luas sekali. Papa hanya mengisinya\ndengan meja komputer dan rak buku. Ketika\nmembeli rumah ini, Papa kebingungan\nhendak digunakan untuk apa kamar yang\nsatu itu, akhirnya digunakan untuk kamar\nkerja. Nah, karena tempatnya masih luas\nRena dan Sari memutuskan pianonya\nditaruh di sana saja. Lagi pula, akhir-akhir\nini Papa jarang memakai komputer kamar\nkerja dan lebih sering bekerja di laptop milik\nkantor. Rena, Sari, atau <em>siapa<\/em> pun bakal\nbisa bebas berlatih piano tanpa mengganggu\nPapa. Teng ... teng ... teng - teng -\nteng - teng - teng ....\n\u201cRajinnya anak Mama!\u201d ujar Mama\nsenang sambil membawakan susu. Sore\nitu Rena sedang berlatih piano. \u201cMakin pintar\nkamu, Ren. Mama senang punya anak\npintar seperti kamu.\u201d\n\u201cRena cinta musik, Ma. Bagi Rena,\nmusik itu indah. Dan musik yang paling\nindah menurut Rena adalah dentingan piano.\nTerasa begitu mengalun di hati,\u201d ujar\nRena sambil memainkan lagu-lagu lainnya.\n\u201cSebenarnya kenapa kamu menyukai\nmusik? Apa yang membuatmu ingin belajar\npiano?\u201d tanya Mama.\n\u201cSoalnya Rena dilahirkan dalam\nkeluarga yang suka musik. Papa, Mama,\nKak Sari juga pecinta musik, kan? Masa\nRena jadi pecinta ...... pecinta olahraga\ngulat? Ya nggak lucu dong, ma,\u201d canda\nRena.\nMama tertawa. \u201cMama daftarkan saja\nkamu ke tempat les piano ya, Ren? Bakat\npianomu jangan disia-siakan, harus\ndikembangkan.\u201d\n\u201cWah, nggak usah, Ma. Nggak usah\nrepot-repot. Rena cinta musik, nggak\nberarti harus les musik juga dong. Lihat\naja Kak Sari, pinter banget nyanyi, tapi\nnggak ikut les nyanyi.\u201d\nSetiap hari kamu selalu menggunakan\nwaktumu untuk main komputer, main sama\nteman-teman, bersepeda, dan lainnya.\nSayang jika waktumu tidak digunakan\nuntuk hal yang lebih berguna. Hidup jangan\ndisia-siakan!\u201d\nRena terdiam. \u201cIya sih, tapi kalau Rena\nikut les piano, nanti jadi nggak ada waktu\nbuat kumpul-kumpul sama teman-teman\nanggota Musical Do Re Mi.\u201d\n\u201cApa? Musical Do Re Mi itu apa,\nRen?\u201d tanya Mama penasaran.\n\u201cRena punya kelompok, Ma. Ketua\nkelompoknya Shanti. Kami menamakannya\nMusical Do Re Mi karena anggotanya\nsemua pecinta musik. Rena baru saja\nbergabung dengan kelompok itu,\u201d jelas\nRena. \u201cSebenarnya sih nggak susah untuk\njadi anggota kelompok itu. Cuma harus\nmemenuhi syarat aja.\u201d\n\u201cOh, begitu ... .\u201d\n\u201cShanti punya kertas yang isinya\nsyarat-syarat jadi anggota. Syaratnya\nbanyak sekali, kurang lebih ada dua puluh\nlima syarat. Rena nggak usah menuhin\nsemuanya, Rena bisa milih. Di antara syarat\nitu, ada syarat harus bisa jago main piano\ndan punya piano. Lalu ada juga syarat yang\nbilang anggota harus punya banyak waktu\nbuat kumpul-kumpul, rapat, atau jalan-jalan.\nRena pilih dua syarat itu. Makanya ... \u201c\n\u201cMakanya kamu mendukung sekali\nrencana membeli piano?\u201d\n\u201cHe-eh.\u201d\n\u201cRena, Rena! Mama pikir kamu mau\nserius menekuni dunia musik. Ternyata\nhanya untuk memenuhi persyaratan Shanti\nsaja. Ren, di rumah ini, yang paling banyak\npunya waktu untuk latihan piano itu cuma\nkamu. Kak Sari sibuk belajar, Papa sibuk\nkerja, Mama sibuk mengurus rumah. Tapi\nkerjaan kamu sehari-hari, selain sekolah itu\nmaiiin saja. Kalau begitu, piano ini akan siasia!\u201d\ntegur Mama.\n\u201cPiano ini mahal, Ren. Kalau tidak\nterpakai, banyak uang yang terbuang\npercuma. Lagi pula kamu punya bakat main\npiano. <em>Siapa<\/em> tahu kalau serius menekuni\ndunia musik, kamu bisa jadi musikus yang\nterkenal di seluruh Indonesia atau bahkan\nmancanegara. Kalau berlatih serius dan giat,\nKegemaran Manusia 83\nbukan sekadar main-main, <em>siapa<\/em> tahu nanti\nada orang yang mendengar permainan\npianomu yang bagus, terus menawarimu\ntampil di panggung besar. Kalau kamu\nnggak mau, bisa-bisa orang lain yang dapat\nkesempatan itu. Terus kalau dia jadi\nmusikus terkenal, mewakili Indonesia ke\nperlombaan musik sedunia, bagaimana?\nKamu bakal menyesal, kan? Hidup itu harus\ndiisi kegiatan-kegiatan berguna!\u201d Nasihat\nMama panjaaang - lebar.\nRena terdiam. Ucapan Mama benar\njuga. Piano itu kan mahal, sayang banget\nkalau disia-siain. Lagi pula yang paling\nbanyak punya waktu untuk setia main piano\nkan cuma dia sendiri.\nAh ... hati Rena jadi terusik. Kini di\nhatinya tertanam keinginan untuk lebih\ndalam lagi mempelajari musik.\nPertanyaannya = Tentukan Dan Temukan Rekuansi isi Cerpen dengan Kehidupan sehari-hari?",
+                        "snippet_content": "bermusyawarah, akhirnya keluarga Darmiati\nsepakat membeli piano. Rena senang\nsekali ketika <em>papanya<\/em> memutuskan ini.\nDengan riang ia ikut <em>papanya<\/em> pergi ke toko"
+                    },
+                    "responses": [
+                        {
+                            "id": 10004266,
+                            "user_id": 4163202,
+                            "task_id": 8424117,
+                            "points": 8,
+                            "created": "2016-11-17T06:17:04+07:00",
+                            "content": "setelah bermusyawarah, akhirnya keluarga Darmiati sepakat untuk membeli piano",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4163202,
+                                "nick": "deaSartika1",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d0d\/39c0a7ba56c01da866b7e00b09aa7148.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 1,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 921284,
+            "nick": "megadya720",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 8,
+                "comments": 4
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de4\/896e492bbb8874412524231beaad8ef0.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d84\/6488d6bc71e2441d9cde6c4b9ae56069.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de4\/896e492bbb8874412524231beaad8ef0.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d84\/6488d6bc71e2441d9cde6c4b9ae56069.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4163202,
+            "nick": "deaSartika1",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 5,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d8c\/96783fd9d5e58cf917308f2e160fd8a4.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d0d\/39c0a7ba56c01da866b7e00b09aa7148.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d8c\/96783fd9d5e58cf917308f2e160fd8a4.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d0d\/39c0a7ba56c01da866b7e00b09aa7148.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        }
+    ],
+    "validated": false
+}

@@ -1,0 +1,170 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 3193404,
+                        "subject_id": 10,
+                        "user_id": 1744181,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "kapan jodoh saya datang...? : )",
+                        "created": "2015-08-26T13:19:40+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2015-08-26T13:20:51+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "<em>kapan<\/em> <em>jodoh<\/em> saya <em>datang...<\/em>? : )",
+                        "snippet_content": "<em>kapan<\/em> <em>jodoh<\/em> saya <em>datang...<\/em>? : )"
+                    },
+                    "responses": [
+                        {
+                            "id": 3954501,
+                            "user_id": 818191,
+                            "task_id": 3193404,
+                            "points": 5,
+                            "created": "2015-08-26T13:20:51+07:00",
+                            "content": "jodoh di tangan tuhan... ^_^<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 5,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 818191,
+                                "nick": "Milafia",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d33\/56e3da7181f3037353c2b935f6c935eb.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 1,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 1744181,
+            "nick": "kayla27",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 818191,
+            "nick": "Milafia",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 85,
+                "comments": 2
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4a\/bb1433ee8414ba0fe14bf2ac1d03c529.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d33\/56e3da7181f3037353c2b935f6c935eb.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4a\/bb1433ee8414ba0fe14bf2ac1d03c529.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d33\/56e3da7181f3037353c2b935f6c935eb.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        }
+    ],
+    "validated": false
+}

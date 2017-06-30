@@ -1,0 +1,2047 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 4759773,
+                        "subject_id": 1,
+                        "user_id": 1890643,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 13,
+                            "ptsForResp": 7,
+                            "ptsForBest": 4
+                        },
+                        "content": "Carilah sampiran dari pantun berikut ini :<br \/><br \/>\n.................\u2026.\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.<br \/>\n\u2026.\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..\u2026\u2026\u2026\u2026\u2026.<br \/>\nJadi orang jangan sombong<br \/>\nAgar tidak dikucilkan teman <br \/><br \/>\na. Jalan - jalan ke Semarang<br \/>\nJangan lupa bawa kerajinan<br \/><br \/>\nb. Jalan - jalan ke tanah lapang<br \/>\nPulangnya sandalku hilang<br \/><br \/>\nc. Buah jambu buah delima<br \/>\nDimakan sama orang gila<br \/><br \/>\nD. Makan manggis sama kelengkeng<br \/>\nDuduknya di pinggir jalan ",
+                        "created": "2016-01-11T18:45:37+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2016-01-11T18:48:23+07:00",
+                        "the_best_resp_id": "5659665",
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Carilah sampiran dari pantun berikut ini :\n.................\u2026.\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.\n\u2026.\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..\u2026\u2026\u2026\u2026\u2026.\nJadi orang jangan sombong\nAgar tidak dikucilkan teman \na. Jalan - jalan ke Semarang\nJangan lupa bawa kerajinan\nb. Jalan - jalan ke tanah lapang\nPulangnya <em>sandalku<\/em> hilang\nc. Buah jambu buah delima\nDimakan sama orang gila\nD. Makan manggis sama kelengkeng\nDuduknya di pinggir jalan ",
+                        "snippet_content": "Jangan lupa bawa kerajinan\nb. Jalan - jalan ke tanah lapang\nPulangnya <em>sandalku<\/em> hilang\nc. Buah jambu buah delima\nDimakan sama orang gila"
+                    },
+                    "responses": [
+                        {
+                            "id": 5659665,
+                            "user_id": 2443151,
+                            "task_id": 4759773,
+                            "points": 7,
+                            "created": "2016-01-11T18:48:23+07:00",
+                            "content": "Antara A dan D <br \/>Karena sajaknya sama ",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 2,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2443151,
+                                "nick": "Brainly06",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d4f\/16a47852e0bcefca8e89c246f6c7afee.png"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 7802705,
+                        "subject_id": 1,
+                        "user_id": 3891509,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 40,
+                            "ptsForResp": 20,
+                            "ptsForBest": 10
+                        },
+                        "content": "Akar Sebuah Hati<br \/><br \/>\nHujan semakin deras dan petir sekali-kali menyambar membuat hatiku agak takut. Kulirik arlojiku, waktu sudah cukup larut. Tapi, aku masih berdiri di halte menunggu bus yang searah tujuan rumahku.<br \/>\n\u201cNaik taksi saja, Non.\u201d Tiba-tiba seorang lelaki tua penjual rokok yang mengkal di halte bus itu memberikan saran. Aku mengangguk dan tersenyum. Sejenak aku dilanda bimbang. Tapi ketika sebuah taksi melintas di hadapanku, aku menghentikannya juga. Sampai rumah dengan susah payah kubuka gerendel pitu pagar besi, sementara hujan mengguyur tubuhku.<br \/>\n\u201cKenapa tidak membawa payung?\u201d tiba-tiba ibuku sudah muncul di ambang pintu. \u201cKukira hari ini tidak akan turun hujan.\u201d \u201cHujan, tidak hujan kau harus bawa, kan tidak berat,\u201d kata ibu lagi seraya membalikkan tubuhnya ke dalam rumah. Aku hanya bisa mengangkat bahu dan segera melepas sepatuku yang sudah basah dan kotor. Begitulah ibu, melihat aku basah kuyup. Ibu bukannya iba dan membawakan handuk untukku, tapi malah menegur keaalpaanku.<br \/>\nKalau ibu tahu tadi aku pulang naik taksi, ibu pasti akan marah dan mengatakan aku \u201csi royal\u201d tidak peduli dengan keadaan yang kuhadapi. \u201cMakan dulu Ti! Tapi terserah kalau kau mau sakit\u2026,\u201d ujar ibu seraya melongokkan kepalanya sesaat dari balik pintu. Aku hanya mengangguk dan menggeliatkan tubuh di atas ranjang. Dengan malas akhirnya kuseret juga sandalku ke ruang makan.<br \/>\nIbu memang keras mendidikku. Sejak kecil setelah ayah tiada, ibu mengurus aku dan kakakku, Sisi, seorang diri. Ibu tidak pernah menggaji seorang pembantu rumah tangga, semua dikerjakannya sendiri. Untuk menambah uang pensiunan ayah yang tidak seberapa, ibu rajin membuat seprai dan bantal kursi, juga topi unik untuk dijual kepada kawan-kawannya dengan cara mencicilnya. Tetapi, meski hidup hemat dan sederhana, ibu sangat mementingkan pendidikanku dan Sisi. Untuk mendapatkan sebuah sepatu baru pada saat itu rasanya sulit sekali. Padahal kakiku sering lecet karena pakunya menonjol keluar. Ibu lebih suka mengeluarkan uangnya untuk biaya les-les tambahan. Selain itu ibu pun menerapkan disiplin yang kurasa cukup keras. Kakakku sisi pernah diberi tugas mencatat kalimat \u201csaya tidak akan lupa lagi\u201d sebanyak 100 kali setiap hari selama seminggu, hanya karena Sisi pulang sekolah sebelum waktunya. Ia tidak mengerjakan PR sekolahnya. Di lain waktu ibu pun pernah menghukumku mondar-mandir sebanyak 25 kali, antara serambi depan sampai dapur, hanya karena aku menyerahkan pekerjaan rumah menggambarku kepada Sisi. Aku memang tidak pandai menggambar.<br \/>\n\u201cGunakan tanganmu, jangan bergantung dan menyusahkan orang lain,\u201d Begitu katanya. Bahkan kami tidak boleh menangis bila menghadapi apapun yang membuat kami ingin menangis. Ibu akan membentak kami dan mengatakan, \u201cSi Cengeng.\u201d<br \/>\nIbu memang berkesan kaku dan keras, tapi itulah kenyataannya. Bahkan setelah Sisi duduk di bangku SMP, ibu mengharuskan Sisi untk memasuki perguruan pencak silat atau karate, walau Sisi akhirnya memilih Taekwondo.<br \/>\n\u201cSuatu saat nanti, kau pun akan memahami dan menyadarinya,\u201d begitu ucap Sisi suatu hari ketika menyampaikan keherananku akan sikap ibu akhir-akhir ini.<br \/>\nSumber: 25 Naskah terbaik Lomba Cerpen 2001 dengan pengubahan<br \/><br \/>\nBacalah teks cerpen di atas, lalu jawablah pertanyaan-pertanyaan di bawah ini!<br \/><br \/>\n1. Uraikanlah konflik\/masalah yang terdapat dalam cerpen di atas!<br \/>\n2. Apa penyebab konflik tersebut?<br \/>\n3. Jelaskan maksud kalimat \u201cGunakan tanganmu, jangan bergantung dan menyusahkan orang lain!\u201d<br \/>\n4. Sebutkan 3 amanat\/hikmah yang terdapat dalam cerpen di atas!<br \/><br \/><br \/><br \/>\nTolong dibantu ya, kawan!",
+                        "created": "2016-10-10T19:39:38+07:00",
+                        "responses": 1,
+                        "tickets": 3,
+                        "first_resp": "2016-10-11T17:08:16+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Akar Sebuah Hati\nHujan semakin deras dan petir sekali-kali menyambar membuat hatiku agak takut. Kulirik arlojiku, waktu sudah cukup larut. Tapi, aku masih berdiri di halte menunggu bus yang searah tujuan rumahku.\n\u201cNaik taksi saja, Non.\u201d Tiba-tiba seorang lelaki tua penjual rokok yang mengkal di halte bus itu memberikan saran. Aku mengangguk dan tersenyum. Sejenak aku dilanda bimbang. Tapi ketika sebuah taksi melintas di hadapanku, aku menghentikannya juga. Sampai rumah dengan susah payah kubuka gerendel pitu pagar besi, sementara hujan mengguyur tubuhku.\n\u201cKenapa tidak membawa payung?\u201d tiba-tiba ibuku sudah muncul di ambang pintu. \u201cKukira hari ini tidak akan turun hujan.\u201d \u201cHujan, tidak hujan kau harus bawa, kan tidak berat,\u201d kata ibu lagi seraya membalikkan tubuhnya ke dalam rumah. Aku hanya bisa mengangkat bahu dan segera melepas sepatuku yang sudah basah dan kotor. Begitulah ibu, melihat aku basah kuyup. Ibu bukannya iba dan membawakan handuk untukku, tapi malah menegur keaalpaanku.\nKalau ibu tahu tadi aku pulang naik taksi, ibu pasti akan marah dan mengatakan aku \u201csi royal\u201d tidak peduli dengan keadaan yang kuhadapi. \u201cMakan dulu Ti! Tapi terserah kalau kau mau sakit\u2026,\u201d ujar ibu seraya melongokkan kepalanya sesaat dari balik pintu. Aku hanya mengangguk dan menggeliatkan tubuh di atas ranjang. Dengan malas akhirnya kuseret juga <em>sandalku<\/em> ke ruang makan.\nIbu memang keras mendidikku. Sejak kecil setelah ayah tiada, ibu mengurus aku dan kakakku, Sisi, seorang diri. Ibu tidak pernah menggaji seorang pembantu rumah tangga, semua dikerjakannya sendiri. Untuk menambah uang pensiunan ayah yang tidak seberapa, ibu rajin membuat seprai dan bantal kursi, juga topi unik untuk dijual kepada kawan-kawannya dengan cara mencicilnya. Tetapi, meski hidup hemat dan sederhana, ibu sangat mementingkan pendidikanku dan Sisi. Untuk mendapatkan sebuah sepatu baru pada saat itu rasanya sulit sekali. Padahal kakiku sering lecet karena pakunya menonjol keluar. Ibu lebih suka mengeluarkan uangnya untuk biaya les-les tambahan. Selain itu ibu pun menerapkan disiplin yang kurasa cukup keras. Kakakku sisi pernah diberi tugas mencatat kalimat \u201csaya tidak akan lupa lagi\u201d sebanyak 100 kali setiap hari selama seminggu, hanya karena Sisi pulang sekolah sebelum waktunya. Ia tidak mengerjakan PR sekolahnya. Di lain waktu ibu pun pernah menghukumku mondar-mandir sebanyak 25 kali, antara serambi depan sampai dapur, hanya karena aku menyerahkan pekerjaan rumah menggambarku kepada Sisi. Aku memang tidak pandai menggambar.\n\u201cGunakan tanganmu, jangan bergantung dan menyusahkan orang lain,\u201d Begitu katanya. Bahkan kami tidak boleh menangis bila menghadapi apapun yang membuat kami ingin menangis. Ibu akan membentak kami dan mengatakan, \u201cSi Cengeng.\u201d\nIbu memang berkesan kaku dan keras, tapi itulah kenyataannya. Bahkan setelah Sisi duduk di bangku SMP, ibu mengharuskan Sisi untk memasuki perguruan pencak silat atau karate, walau Sisi akhirnya memilih Taekwondo.\n\u201cSuatu saat nanti, kau pun akan memahami dan menyadarinya,\u201d begitu ucap Sisi suatu hari ketika menyampaikan keherananku akan sikap ibu akhir-akhir ini.\nSumber: 25 Naskah terbaik Lomba Cerpen 2001 dengan pengubahan\nBacalah teks cerpen di atas, lalu jawablah pertanyaan-pertanyaan di bawah ini!\n1. Uraikanlah konflik\/masalah yang terdapat dalam cerpen di atas!\n2. Apa penyebab konflik tersebut?\n3. Jelaskan maksud kalimat \u201cGunakan tanganmu, jangan bergantung dan menyusahkan orang lain!\u201d\n4. Sebutkan 3 amanat\/hikmah yang terdapat dalam cerpen di atas!\nTolong dibantu ya, kawan!",
+                        "snippet_content": "dan menggeliatkan tubuh di atas ranjang. Dengan malas akhirnya kuseret juga <em>sandalku<\/em> ke ruang makan.\nIbu memang keras mendidikku. Sejak kecil setelah"
+                    },
+                    "responses": [
+                        {
+                            "id": 9269971,
+                            "user_id": 3668569,
+                            "task_id": 7802705,
+                            "points": 20,
+                            "created": "2016-10-11T17:08:16+07:00",
+                            "content": "jangan selalu bertinggi hati sebab tidak ada gunanya",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3668569,
+                                "nick": "morsbeen",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d6e\/a926655687c01e5120f4caee0f18181e.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 3483957,
+                        "subject_id": 1,
+                        "user_id": 1769379,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "MINTA TOLONG YAAA<br \/>\nPukul sebelas malam, beberapa hari setelah gempa mengguncang Kota Yogyakarta, kami memasuki tempat parkir tiga lantai di sebuah rumah sakit besar kota itu. Di tempat parkir ini bukan deretan mobil yang berjejer rapi, tapi ratusan pasien korban gempa yang tergeletak dengan perlengkapan seadanya. Sepintas, aku melihat seorang anak kecil berbaju putih dengan tompel kecil di tangan kirinya yang tengah duduk di samping ibunya. Ketika kuhampiri, ia kemudian menunjuk ke arah seorang ibu dan berlari. Tak lama kemudian, ibu tersebut bangun. Setelah beberapa saat berbincang-bincang, aku lantas menanyakan keberadaan anak tadi pada si Ibu. Dalam hati aku bertanya-tanya mengapa anak tadi tidak datang lagi? Tak kusangka si Ibu mengatakan bahwa tidak mungkin anak tersebut menungguinya. Anaknya telah meninggal beberapa hari yang lalu ketika gempa terjadi. Aku kemudian menanyakan apakah anaknya tersebut memiliki tompel di tangan kirinya. Si ibu pun mengiyakannya.<br \/>\nCerita pengalaman di atas termasuk jenis cerita pengalaman .\u2026<br \/><br \/>\nPilih jawaban kamu.<br \/>\n1<br \/>\nmenyenangkan<br \/>\n2<br \/>\nmenyebalkan<br \/>\n3<br \/>\naneh<br \/>\n4<br \/>\nmengharukan<br \/>\n5<br \/>\nlucu<br \/><br \/>\nSOAL DUA <br \/><br \/>\nCerita pengalaman diceritakan kepada orang lain dengan tujuan .\u2026<br \/><br \/>\nPilih jawaban kamu.<br \/>\n1<br \/>\nagar orang lain dapat mengambil hikmah atas kejadian tersebut<br \/>\n2<br \/>\nagar orang lain mengetahui ceritanya<br \/>\n3<br \/>\nagar orang lain bisa membuat cerita yang lebih bagus<br \/>\n4<br \/>\nagar pendengar bisa memberikan tanggapan atau saran atas cerita tersebut<br \/>\n5<br \/>\nagar pelaku tidak merasa malu lagi<br \/><br \/>\nSOAL 3 <br \/><br \/>\nKetika itu, aku terburu-buru keluar dari kemah. Seluruh peserta kemping diminta untuk segera berkumpul di lapangan. Dengan sigap, aku pun segera bergegas menuju lapangan kemudian langsung berbaris. Tapi, tidak kusangka, ketika aku melihat ke bawah. Aku salah mengenakan alas kaki. Kaki kiriku mengenakan sandal jepit berwarna ungu, sementara kaki kananku mengenakan sandal jepit berwarna merah. Rupanya, sandalku tertukar dengan temanku. tak hanya itu, jilbabku ternyata berantakan, bak ditiup angin puting beliung.<br \/>\nCerita lucu berdasarkan pengalaman di atas adalah .\u2026<br \/><br \/>\nPilih jawaban kamu.<br \/>\n1<br \/>\nPelaku merasa malu karena sandalnya tertukar.<br \/>\n2<br \/>\nJilbab pelaku terkena puting beliung.<br \/>\n3<br \/>\nPelaku bergegas menuju lapangan.<br \/>\n4<br \/>\nSandal pelaku tertukar dengan temannya.<br \/>\n5<br \/>\nPeserta kemping diminta segera berkumpul di lapangan.<br \/>",
+                        "created": "2015-09-14T19:15:57+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2015-09-14T20:09:55+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "MINTA TOLONG YAAA\nPukul sebelas malam, beberapa hari setelah gempa mengguncang Kota Yogyakarta, kami memasuki tempat parkir tiga lantai di sebuah rumah sakit besar kota itu. Di tempat parkir ini bukan deretan mobil yang berjejer rapi, tapi ratusan pasien korban gempa yang tergeletak dengan perlengkapan seadanya. Sepintas, aku melihat seorang anak kecil berbaju putih dengan tompel kecil di tangan kirinya yang tengah duduk di samping ibunya. Ketika kuhampiri, ia kemudian menunjuk ke arah seorang ibu dan berlari. Tak lama kemudian, ibu tersebut bangun. Setelah beberapa saat berbincang-bincang, aku lantas menanyakan keberadaan anak tadi pada si Ibu. Dalam hati aku bertanya-tanya mengapa anak tadi tidak datang lagi? Tak kusangka si Ibu mengatakan bahwa tidak mungkin anak tersebut menungguinya. Anaknya telah meninggal beberapa hari yang lalu ketika gempa terjadi. Aku kemudian menanyakan apakah anaknya tersebut memiliki tompel di tangan kirinya. Si ibu pun mengiyakannya.\nCerita pengalaman di atas termasuk jenis cerita pengalaman .\u2026\nPilih jawaban kamu.\n1\nmenyenangkan\n2\nmenyebalkan\n3\naneh\n4\nmengharukan\n5\nlucu\nSOAL DUA \nCerita pengalaman diceritakan kepada orang lain dengan tujuan .\u2026\nPilih jawaban kamu.\n1\nagar orang lain dapat mengambil hikmah atas kejadian tersebut\n2\nagar orang lain mengetahui ceritanya\n3\nagar orang lain bisa membuat cerita yang lebih bagus\n4\nagar pendengar bisa memberikan tanggapan atau saran atas cerita tersebut\n5\nagar pelaku tidak merasa malu lagi\nSOAL 3 \nKetika itu, aku terburu-buru keluar dari kemah. Seluruh peserta kemping diminta untuk segera berkumpul di lapangan. Dengan sigap, aku pun segera bergegas menuju lapangan kemudian langsung berbaris. Tapi, tidak kusangka, ketika aku melihat ke bawah. Aku salah mengenakan alas kaki. Kaki kiriku mengenakan sandal jepit berwarna ungu, sementara kaki kananku mengenakan sandal jepit berwarna merah. Rupanya, <em>sandalku<\/em> tertukar dengan temanku. tak hanya itu, jilbabku ternyata berantakan, bak ditiup angin puting beliung.\nCerita lucu berdasarkan pengalaman di atas adalah .\u2026\nPilih jawaban kamu.\n1\nPelaku merasa malu karena sandalnya tertukar.\n2\nJilbab pelaku terkena puting beliung.\n3\nPelaku bergegas menuju lapangan.\n4\nSandal pelaku tertukar dengan temannya.\n5\nPeserta kemping diminta segera berkumpul di lapangan.",
+                        "snippet_content": "berwarna ungu, sementara kaki kananku mengenakan sandal jepit berwarna merah. Rupanya, <em>sandalku<\/em> tertukar dengan temanku. tak hanya itu, jilbabku ternyata berantakan, bak"
+                    },
+                    "responses": [
+                        {
+                            "id": 4242713,
+                            "user_id": 1883019,
+                            "task_id": 3483957,
+                            "points": 5,
+                            "created": "2015-09-14T20:09:55+07:00",
+                            "content": "1=4 <br \/>2=1<br \/>3=4<br \/>mudah mudahan jawabannya tidak salah",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1883019,
+                                "nick": "annisafirzam26",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dc3\/ee6caef96481b336483de173c1f4a7cc.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10869047,
+                        "subject_id": 2,
+                        "user_id": 2624086,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Sebuah tangga di sandarkan pada tembok dengan kaku tangga berbentuk sudut 45\u00b0 terhadap lantai. Jika jarak kaku tangga dan tembok adalah 1,5m , maka tinggi tembok yang dapat di capai tangga adalah.. <br \/><br \/>\nPakai cara ya terimakasih:)",
+                        "created": "2017-06-04T00:42:02+07:00",
+                        "responses": 2,
+                        "tickets": 3,
+                        "first_resp": "2017-06-04T00:46:03+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "6",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Sebuah tangga di <em>sandarkan<\/em> pada tembok dengan kaku tangga berbentuk sudut 45\u00b0 terhadap lantai. Jika jarak kaku tangga dan tembok adalah 1,5m , maka tinggi tembok yang dapat di capai tangga adalah.. \nPakai cara ya terimakasih:)",
+                        "snippet_content": "Sebuah tangga di <em>sandarkan<\/em> pada tembok dengan kaku tangga berbentuk sudut 45\u00b0 terhadap lantai. Jika jarak kaku tangga dan tembok adalah 1"
+                    },
+                    "responses": [
+                        {
+                            "id": 13207970,
+                            "user_id": 2643922,
+                            "task_id": 10869047,
+                            "points": 5,
+                            "created": "2017-06-04T00:46:03+07:00",
+                            "content": "\u03b1 = 45<br \/>x = 1, 5<br \/>tan \u03b1\u00a0 = y\/x<br \/>y = x . tan \u03b1<br \/>y = 1,5 x tan 45<br \/>y =1,5 x (1)<br \/>y = 1, 5 m<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 7,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2017-06-04T03:17:35+07:00",
+                                "approver": {
+                                    "id": 3173028,
+                                    "nickname": "ErikCatosLawijaya",
+                                    "points": 104101,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/d6f\/0c669beb3be55ffa166a22e717d407d0.jpg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/d5a\/b725f45b39e03a3446027f81dc939b7f.jpg"
+                                    },
+                                    "content_approved_count": 3280
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 13208161,
+                            "user_id": 3173028,
+                            "task_id": 10869047,
+                            "points": 5,
+                            "created": "2017-06-04T03:17:26+07:00",
+                            "content": "Mapel : Matematika<br \/>Kelas : X SMA<br \/>Bab : Trigonometri<br \/><br \/>Pembahasan :<br \/>Tan 45 = Tinggi Tembok\/Jarak Kaki tangga ke Tembok<br \/>1 = Tinggi Tembok\/1,5<br \/>Tinggi Tembok = 1,5 m",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 0,
+                            "user_best_rank_id": 7,
+                            "source": "10",
+                            "client_type": "6",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2017-06-04T06:34:58+07:00",
+                                "approver": {
+                                    "id": 1452641,
+                                    "nickname": "kaaylaa",
+                                    "points": 86849,
+                                    "grade": 2,
+                                    "gender": 1,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/d01\/c5e014d9f58171a0f796cec1507b8429.jpg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/db4\/5b8ba804288e649e0a299e30501b228a.jpg"
+                                    },
+                                    "content_approved_count": 5320
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2643922,
+                                "nick": "DB45",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dc0\/57ac77dbc99f402a9c32c095fa516492.jpg"
+                            },
+                            {
+                                "id": 3173028,
+                                "nick": "ErikCatosLawijaya",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d6f\/0c669beb3be55ffa166a22e717d407d0.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10852219,
+                        "subject_id": 2,
+                        "user_id": 5116168,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "sebuah tangga di sandarkan pada tembok. panjang tangga 7,5 m dan jarak antara ujung atas tangga dengan lantai 6 m . hitunglah jarak tembok dengan ujung bawah tangga",
+                        "created": "2017-06-02T04:21:18+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-06-02T04:25:25+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "sebuah tangga di <em>sandarkan<\/em> pada tembok. panjang tangga 7,5 m dan jarak antara ujung atas tangga dengan lantai 6 m . hitunglah jarak tembok dengan ujung bawah tangga",
+                        "snippet_content": "sebuah tangga di <em>sandarkan<\/em> pada tembok. panjang tangga 7,5 m dan jarak antara ujung atas tangga dengan lantai 6 m . hitunglah"
+                    },
+                    "responses": [
+                        {
+                            "id": 13185666,
+                            "user_id": 3173028,
+                            "task_id": 10852219,
+                            "points": 5,
+                            "created": "2017-06-02T04:25:25+07:00",
+                            "content": "Mapel : Matematika<br \/>Kelas : VIII SMP<br \/>Bab : Teorema Pythagoras<br \/><br \/>Pembahasan :<br \/>Skema membentuk segitiga siku siku, dengan :<br \/>Tinggi = 6 m<br \/>Sisi Miring = 7,5 m<br \/><br \/>Alas = \u221a[(7,5)\u00b2 - 6\u00b2]<br \/>Alas = 9\/2 m<br \/>Alad = 4,5 m",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 0,
+                            "user_best_rank_id": 7,
+                            "source": "10",
+                            "client_type": "6",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2017-06-02T05:42:58+07:00",
+                                "approver": {
+                                    "id": 1950785,
+                                    "nickname": "JabbarValendra",
+                                    "points": 67503,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/d4f\/807426c5d1155f354da988ce309728da.jpg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/dfe\/54ff0f0cd4328ebc6fef1a847219c0c3.jpg"
+                                    },
+                                    "content_approved_count": 3886
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3173028,
+                                "nick": "ErikCatosLawijaya",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d6f\/0c669beb3be55ffa166a22e717d407d0.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10787831,
+                        "subject_id": 2,
+                        "user_id": 5090526,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "sebuah tangga panjangnya 20m di sandarkan ke tembok ,sudut yang di bentuk 45 derajat ,berapa tinggi tembok",
+                        "created": "2017-05-27T03:00:10+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-05-27T03:10:28+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "sebuah tangga panjangnya 20m di <em>sandarkan<\/em> ke tembok ,sudut yang di bentuk 45 derajat ,berapa tinggi tembok",
+                        "snippet_content": "sebuah tangga panjangnya 20m di <em>sandarkan<\/em> ke tembok ,sudut yang di bentuk 45 derajat ,berapa tinggi tembok"
+                    },
+                    "responses": [
+                        {
+                            "id": 13096084,
+                            "user_id": 4663969,
+                            "task_id": 10787831,
+                            "points": 5,
+                            "created": "2017-05-27T03:10:28+07:00",
+                            "content": "Mis tinggi tembok = y<br \/>Panjang tangga = r<br \/>Sin 45 = y\/r<br \/>\u00bd\u221a2 = y\/20<br \/>y = 20\u00d7\u00bd\u221a2 = 10\u221a2 m",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2017-05-27T08:59:02+07:00",
+                                "approver": {
+                                    "id": 2663844,
+                                    "nickname": "Mahaguru",
+                                    "points": 516177,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/db6\/c5fb7b6a68ce26ccea00dc12cb60d96f.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/df7\/fe8fb6dfa0d217a5d3fafa2a27e269ba.png"
+                                    },
+                                    "content_approved_count": 717808
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4663969,
+                                "nick": "sandysuhendra",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/db2\/7d7b8cc46daed2e449c2321c97b1f115.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10749806,
+                        "subject_id": 2,
+                        "user_id": 5075350,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Sebuah tangga yang panjangnya 15m di sandarkan pada sebuah tembok. Sudut yang di bentuk tangga dan tanah sebesar 60\u00b0 tentukan tinggi tembok yang di capai tangga",
+                        "created": "2017-05-22T17:30:08+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2017-05-29T18:00:10+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Sebuah tangga yang panjangnya 15m di <em>sandarkan<\/em> pada sebuah tembok. Sudut yang di bentuk tangga dan tanah sebesar 60\u00b0 tentukan tinggi tembok yang di capai tangga",
+                        "snippet_content": "Sebuah tangga yang panjangnya 15m di <em>sandarkan<\/em> pada sebuah tembok. Sudut yang di bentuk tangga dan tanah sebesar 60\u00b0 tentukan tinggi tembok"
+                    },
+                    "responses": [
+                        {
+                            "id": 13133090,
+                            "user_id": 5099611,
+                            "task_id": 10749806,
+                            "points": 5,
+                            "created": "2017-05-29T18:00:10+07:00",
+                            "content": "Gunakan aturan Sin<br \/>Mudahnya, Sin =\u00a0<strong><\/strong>[tex] \\frac{depan}{miring} [\/tex]<br \/><br \/>Yang ditanyakan adalah tinggi tembok yang dicapai tangga, maka artinya sisi DEPAN.<br \/><br \/>Sin60\u00b0 =\u00a0[tex] \\frac{ \\sqrt{3} }{2} [\/tex]<br \/><br \/>Maka<br \/><br \/>[tex] \\frac{Depan}{15} =  \\frac{ \\sqrt{x}}{2} [\/tex]<br \/><br \/>Kemudian didapatkan, sisi Depan sepanjang =\u00a0[tex] \\frac{15 \\sqrt{3} }{2} [\/tex] meter<br \/><br \/>",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 0,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5099611,
+                                "nick": "yossebastiands",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dd7\/0adda8227f9e87cce95536331f4ebde8.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10948211,
+                        "subject_id": 2,
+                        "user_id": 5157448,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "sebuah tangga yang panjang 15 m di sandarkan pada sebuah tembok sudut yang dibentuk tangga dan tanah sebesar 60\u00b0 tentukan tinggi tembok dari tanah",
+                        "created": "2017-06-15T11:01:02+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2017-06-15T11:04:35+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "sebuah tangga yang panjang 15 m di <em>sandarkan<\/em> pada sebuah tembok sudut yang dibentuk tangga dan tanah sebesar 60\u00b0 tentukan tinggi tembok dari tanah",
+                        "snippet_content": "sebuah tangga yang panjang 15 m di <em>sandarkan<\/em> pada sebuah tembok sudut yang dibentuk tangga dan tanah sebesar 60\u00b0 tentukan tinggi tembok"
+                    },
+                    "responses": [
+                        {
+                            "id": 13309212,
+                            "user_id": 5104766,
+                            "task_id": 10948211,
+                            "points": 5,
+                            "created": "2017-06-15T11:04:35+07:00",
+                            "content": "tinggi tembok = 15 sin 60 = 15 . 1\/2 \u221a3 = 7,5 \u221a3 m<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2017-06-15T11:10:59+07:00",
+                                "approver": {
+                                    "id": 2643922,
+                                    "nickname": "DB45",
+                                    "points": 233146,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/dc0\/57ac77dbc99f402a9c32c095fa516492.jpg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/d1b\/c48179498af42ba043c37033de2ee6ad.jpg"
+                                    },
+                                    "content_approved_count": 3110
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 13309427,
+                            "user_id": 3173028,
+                            "task_id": 10948211,
+                            "points": 5,
+                            "created": "2017-06-15T12:06:05+07:00",
+                            "content": "Mapel : Matematika<br \/>Kelas : X SMA<br \/>Bab : Trigonometri<br \/><br \/>Pembahasan :<br \/>Sin 60\u00b0 = Tinggi\/Panjang<br \/>1\/2 \u221a3 = Tinggi\/15<br \/>Tinggi = 15\/2 \u221a3 cm",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 7,
+                            "source": "10",
+                            "client_type": "6",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2017-06-15T12:56:06+07:00",
+                                "approver": {
+                                    "id": 1390053,
+                                    "nickname": "TentorNF",
+                                    "points": 26851,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/d46\/9e94a8fb7f84e6b80d5bc4026b0c2ea8.jpg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/d90\/23590c2a99e430899d94016129594858.jpg"
+                                    },
+                                    "content_approved_count": 2327
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5104766,
+                                "nick": "anitaana",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/df7\/3d3fb4bd6ce38750fced4a59cd2b99ce.jpg"
+                            },
+                            {
+                                "id": 3173028,
+                                "nick": "ErikCatosLawijaya",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d6f\/0c669beb3be55ffa166a22e717d407d0.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10850552,
+                        "subject_id": 2,
+                        "user_id": 5115346,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "sebuah tangga yang panjangnya 4 meter di sandarkan pada dinding sudut yang di bentuk oleh tangga dan lantai 45\u00b0 tentukan nilai dinding? ",
+                        "created": "2017-06-01T22:02:39+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2017-06-01T22:05:28+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "sebuah tangga yang panjangnya 4 meter di <em>sandarkan<\/em> pada dinding sudut yang di bentuk oleh tangga dan lantai 45\u00b0 tentukan nilai dinding? ",
+                        "snippet_content": "sebuah tangga yang panjangnya 4 meter di <em>sandarkan<\/em> pada dinding sudut yang di bentuk oleh tangga dan lantai 45\u00b0 tentukan nilai dinding? "
+                    },
+                    "responses": [
+                        {
+                            "id": 13183759,
+                            "user_id": 180347,
+                            "task_id": 10850552,
+                            "points": 5,
+                            "created": "2017-06-01T22:05:28+07:00",
+                            "content": "antara dinding dan lantai sudutnya adl 90\u00ba<br \/><br \/>maka<br \/>panjang tangga = s akar 2<br \/>4 = s akar 2<br \/>4 : akar 2 = s<br \/>2 akar 2 = s<br \/><br \/>maka nilai dinding adl s = 2 akar 2 meter",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 7,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 13184894,
+                            "user_id": 228480,
+                            "task_id": 10850552,
+                            "points": 5,
+                            "created": "2017-06-01T23:59:15+07:00",
+                            "content": "sin 45 = dinding \/tangga<br \/>1\/2 \u00d7 \u221a2 = x\/4<br \/>\u221a2 = x\/4 x 2\/1<br \/>\u221a2 = x\/2<br \/>x = 2\u221a2 m. <br \/> Tinggi dinding = 2\u221a2 meter.",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 7,
+                            "source": "10",
+                            "client_type": "6",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 180347,
+                                "nick": "Beta27",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/de0\/485e92fe1fc170c04b5955026874b6d5.jpg"
+                            },
+                            {
+                                "id": 228480,
+                                "nick": "dnnyz07",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/daf\/70fa76dfef989f785454afd735057f51.png"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10635150,
+                        "subject_id": 2,
+                        "user_id": 5033714,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Sebuah sandal harganya 40.000,00 jika sandalnya tersebut diberi diskon 15% harga sandal menjadi ...",
+                        "created": "2017-05-14T07:55:55+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2017-05-14T07:58:05+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "6",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Sebuah sandal harganya 40.000,00 jika <em>sandaln<\/em>ya tersebut diberi diskon 15% harga sandal menjadi ...",
+                        "snippet_content": "Sebuah sandal harganya 40.000,00 jika <em>sandaln<\/em>ya tersebut diberi diskon 15% harga sandal menjadi ..."
+                    },
+                    "responses": [
+                        {
+                            "id": 12884476,
+                            "user_id": 4891119,
+                            "task_id": 10635150,
+                            "points": 5,
+                            "created": "2017-05-14T07:58:05+07:00",
+                            "content": "100-15 = 85%<br \/>85 : 100 = 17\/20<br \/>17\/20 \u00d7 40.000<br \/>= 17 \u00d7 2.000<br \/>= 34.000",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2017-05-14T08:00:22+07:00",
+                                "approver": {
+                                    "id": 156329,
+                                    "nickname": "andhikahanif",
+                                    "points": 124535,
+                                    "grade": 2,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/dfe\/95df8531d0e1ce9d7397bf0b3a04b700.jpg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/d4c\/5b640af71646ec374abdae0cf1c92afa.jpg"
+                                    },
+                                    "content_approved_count": 7942
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 12884478,
+                            "user_id": 4622819,
+                            "task_id": 10635150,
+                            "points": 5,
+                            "created": "2017-05-14T07:58:12+07:00",
+                            "content": "Diskon=15\/100\u00d7Rp.40.000=Rp.6000,00<br \/>Jadi, harganya=Rp.40.000,00-Rp.6.000,00=Rp.34.000,00<br \/><br \/>Semoga membantuu.. :)",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2017-05-14T08:00:24+07:00",
+                                "approver": {
+                                    "id": 156329,
+                                    "nickname": "andhikahanif",
+                                    "points": 124535,
+                                    "grade": 2,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/dfe\/95df8531d0e1ce9d7397bf0b3a04b700.jpg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/d4c\/5b640af71646ec374abdae0cf1c92afa.jpg"
+                                    },
+                                    "content_approved_count": 7942
+                                }
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 7062422,
+                                        "user_id": 4891119,
+                                        "content": "34.000, salah ketik",
+                                        "created": "2017-05-14T07:58:37+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 7062424,
+                                        "user_id": 4622819,
+                                        "content": "oh iya",
+                                        "created": "2017-05-14T07:59:02+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 2
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4891119,
+                                "nick": "Miceldevinaa",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d8f\/f8b840f2d8631f483ef8c0c79f086366.jpg"
+                            },
+                            {
+                                "id": 4622819,
+                                "nick": "dayyanna",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/df5\/5eefa0fe2b7705bfb5e338d40eea066c.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10644835,
+                        "subject_id": 1,
+                        "user_id": 506662,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 11,
+                            "ptsForResp": 6,
+                            "ptsForBest": 3
+                        },
+                        "content": "ringkaslah teks berikut ini...!!!!!!<br \/><br \/>\nLagu gist of a friend menceritakan bahwa teman adalah segalanya dalam hidup kita.  Tanpa teman kita bukan apa-apa. Meski terkadang kita merasa bahwa kita mampu menjadi yang terbaik dengan kemampuan kita sendiri, karena kita berfikir mimpi kita adalah milik dan perjuangan kita sendiri. Padahal sebenarnya itu salah, karena dalam mencapai mimpi itu kita akan mengalami kesilitan dan  tidak bisa menjalaninya sendiri tanpa bantuan dari teman. Ketika kamu menyadari hal itu, kamu akan merasa dan mengerti arti dari teman.<br \/>\nHidupmu akan menjadi lebih baik bila kamu memiliki teman, di sepanjang hidupmu kamu akan lebih bahagia dalam menjalani hidup. Teman akan membantumu menemukan keindahan dirimu sendiri yang menakjubkan. Itulah hal yang akan kau rasakan saat kamu membuka hatimu dan percaya akan karunia seorang teman.<br \/>\nTeman adalah seseorang yang tahu keadaanmu saat kamu hilang dan ketakutan. Dan ia ada saat kamu sedang sedih ataupun senang. Dia adalah orang yang bisa kau andalkan. Yang selalu menjaga dan mengerti perasaanmu, ia selalu disampingmu dimanapun kamu berada. Dia akan setia denganmu.<br \/>\nBahkan ketika harapanmu hancur sangat  dalam dan kamu merasa putus asa, ketika kamu merasa kamu sendirian dan kesepian. Saat kamu tidak tahu jalan untuk kau lalui dan tak ada yang memberimu arah. Dia tetap setia denganmu dan kamu tidak sendirian. Betapa tulus hati seorang teman untukmu.",
+                        "created": "2017-05-14T20:15:51+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-05-14T20:41:53+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "6",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "ringkaslah teks berikut ini...!!!!!!\nLagu gist of a friend menceritakan bahwa teman adalah segalanya dalam hidup kita.  Tanpa teman kita bukan apa-apa. Meski terkadang kita merasa bahwa kita mampu menjadi yang terbaik dengan kemampuan kita sendiri, karena kita berfikir mimpi kita adalah milik dan perjuangan kita sendiri. Padahal sebenarnya itu salah, karena dalam mencapai mimpi itu kita akan mengalami kesilitan dan  tidak bisa menjalaninya sendiri tanpa bantuan dari teman. Ketika kamu menyadari hal itu, kamu akan merasa dan mengerti arti dari teman.\nHidupmu akan menjadi lebih baik bila kamu memiliki teman, di sepanjang hidupmu kamu akan lebih bahagia dalam menjalani hidup. Teman akan membantumu menemukan keindahan dirimu sendiri yang menakjubkan. Itulah hal yang akan kau rasakan saat kamu membuka hatimu dan percaya akan karunia seorang teman.\nTeman adalah seseorang yang tahu keadaanmu saat kamu hilang dan ketakutan. Dan ia ada saat kamu sedang sedih ataupun senang. Dia adalah orang yang bisa kau <em>andalkan<\/em>. Yang selalu menjaga dan mengerti perasaanmu, ia selalu disampingmu dimanapun kamu berada. Dia akan setia denganmu.\nBahkan ketika harapanmu hancur sangat  dalam dan kamu merasa putus asa, ketika kamu merasa kamu sendirian dan kesepian. Saat kamu tidak tahu jalan untuk kau lalui dan tak ada yang memberimu arah. Dia tetap setia denganmu dan kamu tidak sendirian. Betapa tulus hati seorang teman untukmu.",
+                        "snippet_content": "kamu sedang sedih ataupun senang. Dia adalah orang yang bisa kau <em>andalkan<\/em>. Yang selalu menjaga dan mengerti perasaanmu, ia selalu disampingmu dimanapun"
+                    },
+                    "responses": [
+                        {
+                            "id": 12897897,
+                            "user_id": 5036246,
+                            "task_id": 10644835,
+                            "points": 6,
+                            "created": "2017-05-14T20:41:53+07:00",
+                            "content": "Teman adalah segalanya",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "6",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 7071612,
+                                        "user_id": 506662,
+                                        "content": "tolong beri pnjelasan yg jlas!!!!!!",
+                                        "created": "2017-05-14T21:04:26+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5036246,
+                                "nick": "Serin140517",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d4a\/5b84a5c5802e7a83e8f10384030ccfbc.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 11,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 1890643,
+            "nick": "AzzahraFath",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 48,
+                "answers": 968,
+                "comments": 777
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d73\/eab708b80e9cc3973a94cee1424c2bc1.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7b\/7ce702414cfa3b921c040335dccc666c.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d73\/eab708b80e9cc3973a94cee1424c2bc1.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7b\/7ce702414cfa3b921c040335dccc666c.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        },
+        {
+            "id": 2443151,
+            "nick": "Brainly06",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 8,
+                "answers": 73,
+                "comments": 66
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d17\/b5f1a4e1bec937c273124014b0e16f8b.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d4f\/16a47852e0bcefca8e89c246f6c7afee.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d17\/b5f1a4e1bec937c273124014b0e16f8b.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d4f\/16a47852e0bcefca8e89c246f6c7afee.png"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 3891509,
+            "nick": "babyulightupmyworld",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 3668569,
+            "nick": "morsbeen",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 13,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d71\/e557ec5e5756d1b26cd978589cc6d5d8.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6e\/a926655687c01e5120f4caee0f18181e.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d71\/e557ec5e5756d1b26cd978589cc6d5d8.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6e\/a926655687c01e5120f4caee0f18181e.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 1769379,
+            "nick": "AnnisaylianvtaM",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 20,
+                "answers": 8,
+                "comments": 5
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d29\/70e27f941cdc392df95c16880bd56c54.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d82\/f0d87fbd878d52a92a5584e47dcbc374.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d29\/70e27f941cdc392df95c16880bd56c54.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d82\/f0d87fbd878d52a92a5584e47dcbc374.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1883019,
+            "nick": "annisafirzam26",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 2,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d61\/0c56597e793c31967b743443f7c85b16.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc3\/ee6caef96481b336483de173c1f4a7cc.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d61\/0c56597e793c31967b743443f7c85b16.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc3\/ee6caef96481b336483de173c1f4a7cc.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 2624086,
+            "nick": "rhnth",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 51,
+                "answers": 5,
+                "comments": 1
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 2643922,
+            "nick": "DB45",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 14265,
+                "comments": 4335
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d1b\/c48179498af42ba043c37033de2ee6ad.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc0\/57ac77dbc99f402a9c32c095fa516492.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d1b\/c48179498af42ba043c37033de2ee6ad.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc0\/57ac77dbc99f402a9c32c095fa516492.jpg"
+            },
+            "ranks": {
+                "color": "#ffbe32",
+                "names": [
+                    "BrainlyDoctor",
+                    "Anti Spammer",
+                    "BrainlyElite",
+                    "Moderator",
+                    "Jenius"
+                ],
+                "count": 5
+            },
+            "ranks_ids": [
+                32,
+                11,
+                27,
+                19,
+                7
+            ]
+        },
+        {
+            "id": 3173028,
+            "nick": "ErikCatosLawijaya",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 176,
+                "answers": 3802,
+                "comments": 2153
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d5a\/b725f45b39e03a3446027f81dc939b7f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6f\/0c669beb3be55ffa166a22e717d407d0.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d5a\/b725f45b39e03a3446027f81dc939b7f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6f\/0c669beb3be55ffa166a22e717d407d0.jpg"
+            },
+            "ranks": {
+                "color": "#ffbe32",
+                "names": [
+                    "Apprentice",
+                    "Spam Fighter ",
+                    "BrainlyElite",
+                    "GameMaker",
+                    "KsatriaBrainly",
+                    "Jenius"
+                ],
+                "count": 6
+            },
+            "ranks_ids": [
+                20,
+                17,
+                27,
+                24,
+                23,
+                7
+            ]
+        },
+        {
+            "id": 5116168,
+            "nick": "andreanaprilioputra",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 5090526,
+            "nick": "SAMUELSKYWARS48",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4663969,
+            "nick": "sandysuhendra",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 1120,
+                "comments": 311
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d52\/ccb5953bb397922835388e06ebf479a7.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db2\/7d7b8cc46daed2e449c2321c97b1f115.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d52\/ccb5953bb397922835388e06ebf479a7.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db2\/7d7b8cc46daed2e449c2321c97b1f115.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "BrainlyElite",
+                    "Si Hebat"
+                ],
+                "count": 2
+            },
+            "ranks_ids": [
+                27,
+                6
+            ]
+        },
+        {
+            "id": 5075350,
+            "nick": "sofiaqasanah3147",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 5099611,
+            "nick": "yossebastiands",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 6,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc7\/c13c6f21ba8ff70d6964b3e8e7a517d5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd7\/0adda8227f9e87cce95536331f4ebde8.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc7\/c13c6f21ba8ff70d6964b3e8e7a517d5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd7\/0adda8227f9e87cce95536331f4ebde8.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 5157448,
+            "nick": "bilaaa04",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 6,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d66\/16b6d365ee54860eb33d2c38619e6c15.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ddc\/fc9d90f4c0c50cf6ce664c33f6f26289.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d66\/16b6d365ee54860eb33d2c38619e6c15.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ddc\/fc9d90f4c0c50cf6ce664c33f6f26289.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 5104766,
+            "nick": "anitaana",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 92,
+                "comments": 15
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d0c\/bb606788d1046cdfffab95e261c081a4.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df7\/3d3fb4bd6ce38750fced4a59cd2b99ce.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d0c\/bb606788d1046cdfffab95e261c081a4.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df7\/3d3fb4bd6ce38750fced4a59cd2b99ce.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 5115346,
+            "nick": "soalsmk",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 180347,
+            "nick": "Beta27",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 60,
+                "answers": 7962,
+                "comments": 4704
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dee\/911e6dd42c159e7494ccb1c247a2b68f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de0\/485e92fe1fc170c04b5955026874b6d5.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dee\/911e6dd42c159e7494ccb1c247a2b68f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de0\/485e92fe1fc170c04b5955026874b6d5.jpg"
+            },
+            "ranks": {
+                "color": "#ffbe32",
+                "names": [
+                    "BrainlyDoctor",
+                    "BrainlyElite",
+                    "Jenius"
+                ],
+                "count": 3
+            },
+            "ranks_ids": [
+                32,
+                27,
+                7
+            ]
+        },
+        {
+            "id": 228480,
+            "nick": "dnnyz07",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 143,
+                "answers": 7307,
+                "comments": 3554
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dab\/fa2afb3befc5bb05d66e7b782d8ca3d8.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/daf\/70fa76dfef989f785454afd735057f51.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dab\/fa2afb3befc5bb05d66e7b782d8ca3d8.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/daf\/70fa76dfef989f785454afd735057f51.png"
+            },
+            "ranks": {
+                "color": "#ffbe32",
+                "names": [
+                    "Junior",
+                    "BrainlyDoctor",
+                    "BrainlyElite",
+                    "Moderator",
+                    "Jenius"
+                ],
+                "count": 5
+            },
+            "ranks_ids": [
+                15,
+                32,
+                27,
+                19,
+                7
+            ]
+        },
+        {
+            "id": 5033714,
+            "nick": "muhammadfahjrin",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d31\/d0c3d561db14717be439378028608124.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db0\/27fb65227dd1404948d1db721107589f.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d31\/d0c3d561db14717be439378028608124.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db0\/27fb65227dd1404948d1db721107589f.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4891119,
+            "nick": "Miceldevinaa",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 53,
+                "comments": 21
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d02\/bbf0f9579af8f23c19ccb5bc308344dc.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d8f\/f8b840f2d8631f483ef8c0c79f086366.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d02\/bbf0f9579af8f23c19ccb5bc308344dc.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d8f\/f8b840f2d8631f483ef8c0c79f086366.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 4622819,
+            "nick": "dayyanna",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 36,
+                "answers": 224,
+                "comments": 126
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d3f\/355367774779cff00c03ff47c8927637.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df5\/5eefa0fe2b7705bfb5e338d40eea066c.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d3f\/355367774779cff00c03ff47c8927637.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df5\/5eefa0fe2b7705bfb5e338d40eea066c.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 506662,
+            "nick": "khasafila",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 202,
+                "answers": 183,
+                "comments": 93
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 5036246,
+            "nick": "Serin140517",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 19,
+                "comments": 7
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de2\/ac2ef190f3fd521e05c60cc49c69fdc0.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d4a\/5b84a5c5802e7a83e8f10384030ccfbc.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de2\/ac2ef190f3fd521e05c60cc49c69fdc0.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d4a\/5b84a5c5802e7a83e8f10384030ccfbc.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        }
+    ],
+    "validated": false
+}

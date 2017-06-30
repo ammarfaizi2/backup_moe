@@ -1,0 +1,677 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 6095483,
+                        "subject_id": 1,
+                        "user_id": 1680642,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Minta komentar nya bagus atau tidak cuplikan cerpen di bawah ini !     \"Assalamu'alaikum,bu..!!\" teriak Dinda dari luar rumah sambil mengetuk pintu.<br \/>\n     \"aduh Dindaa.. buka pintunya pelan pelan napa,kayanya semangat bgt nih.\" protes bu eva.<br \/>\n     \"abis ibu buka pintunya lama sih.\" jawab Dinda sambil nylonong masuk ke dalam.<br \/>\n     \"eh..eh..eh main nylonong masuk  aja,sepatu kamu buka dulu tuh\" tegur bu Eva.<br \/>\n     \"hehehe.. Dinda lupa\" sambil memegang jidat dan Dinda pun segera balik ke luar rumah.<br \/>\n     \"Oiya.. Ayu dan Alin mana?\" tanya bu Eva.<br \/>\n     \"Hah.. emg belum pulang bu?\" jawab Dinda sambil membuka sepatu dan menaruhnya di rak.<br \/>\n     \"ya kalo udh pulang mah ibu ga bakal nanya atuh neng..\" jawab bu Eva bernada sunda.<br \/>\n     \"hmm.. gatau dah, kirain udh pulang.. yaudah Dinda masuk dulu ya bu, Dinda capek mau istirahat\" jawab Dinda dan ia pun segera masuk ke dalam rumah.<br \/>\n     \"udah mau maghrib kaya gini tapi kok Ayu sama Alin belum pulang juga yaa (menghela napas)\" kemudian bu Eva pun masuk kedalam rumah.<br \/>\n     Ketika bu Eva ingin menutup pintu, tiba tiba datanglah Ayu dan Alin<br \/>\n     \"Assalamu'alaikum\" ucap Alin dan Ayu.<br \/>\n     \"Wa'alaikum salam, Aduh Ayu.. Alin.. dari mana aja sih kamu kok jam segini baru pulang\" jawab bu Eva dengan sedikit khawatir.<br \/>\n     \"maaf bu tadi kita main sebentar\" jawab Ayu.<br \/>\n     \"hehehe.. iya tante\" cetus Alin sambil cengar cengir.<br \/>\n     \"yaudah sana cepat masuk mandi siap siap sholat maghrib\" seru bu Eva.<br \/>\n     \"iya bu\" jawab Ayu.<br \/>\n     Mereka pun segera masuk ke dalam kamarnya masing masing yang kebetulan saling berdetetan.<br \/>\n     Ayu,Alin,dan Dinda adalah saling bersahabat mereka tinggal satu rumah bersama bu Eva yaitu ibunya Ayu sekaligus tantenya Alin.<br \/>\n      Dinda adalah anak yatim piatu sejak kecil, awalnya Dinda tinggal bersama Om nya di Jakarta yg bekerja sebagai TNI, karena Om nya pindah tugas ke Sumatra maka Dinda memutuskan untuk melanjutkan sekolahnya di Jakarta dan tinggal bersama bu Eva yg kebetulan adalah sahabat ibundanya, sedangkan keluarganya Dinda berada di kampung halamannya yaitu Indramayu.<br \/>\n      Bu Eva juga seorang perantau dari Bandung, ia bekerja sebagai karyawan swasta, keluarga besar bu Eva berada di Bandung, ia merantau bersama anak dan sepupunya yaitu Ayu dan Alin.",
+                        "created": "2016-05-13T20:03:07+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2016-05-13T20:05:25+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Minta komentar nya bagus atau tidak cuplikan cerpen di bawah ini !     \"Assalamu'alaikum,bu..!!\" teriak Dinda dari luar rumah sambil mengetuk pintu.\n     \"aduh Dindaa.. buka pintunya pelan pelan napa,kayanya semangat bgt nih.\" protes bu eva.\n     \"abis ibu buka pintunya lama sih.\" jawab Dinda sambil nylonong masuk ke dalam.\n     \"eh..eh..eh main nylonong masuk  aja,sepatu kamu buka dulu tuh\" tegur bu Eva.\n     \"hehehe.. Dinda lupa\" sambil memegang jidat dan Dinda pun segera balik ke luar rumah.\n     \"Oiya.. Ayu dan Alin mana?\" tanya bu Eva.\n     \"Hah.. emg <em>belum<\/em> pulang bu?\" jawab Dinda sambil membuka sepatu dan menaruhnya di rak.\n     \"<em>ya<\/em> kalo udh pulang <em>mah<\/em> ibu ga bakal nanya atuh neng..\" jawab bu Eva bernada sunda.\n     \"hmm.. gatau dah, kirain udh pulang.. yaudah Dinda masuk dulu <em>ya<\/em> bu, Dinda capek mau istirahat\" jawab Dinda dan ia pun segera masuk ke dalam rumah.\n     \"udah mau maghrib kaya gini tapi kok Ayu sama Alin <em>belum<\/em> pulang juga yaa (menghela napas)\" kemudian bu Eva pun masuk kedalam rumah.\n     Ketika bu Eva ingin menutup pintu, tiba tiba datanglah Ayu dan Alin\n     \"Assalamu'alaikum\" ucap Alin dan Ayu.\n     \"Wa'alaikum salam, Aduh Ayu.. Alin.. dari mana aja sih kamu kok jam segini baru pulang\" jawab bu Eva dengan sedikit khawatir.\n     \"maaf bu tadi kita main sebentar\" jawab Ayu.\n     \"hehehe.. iya tante\" cetus Alin sambil cengar cengir.\n     \"yaudah sana cepat masuk <em>mandi<\/em> siap siap sholat maghrib\" seru bu Eva.\n     \"iya bu\" jawab Ayu.\n     Mereka pun segera masuk ke dalam kamarnya masing masing yang kebetulan saling berdetetan.\n     Ayu,Alin,dan Dinda adalah saling bersahabat mereka tinggal satu rumah bersama bu Eva yaitu ibunya Ayu sekaligus tantenya Alin.\n      Dinda adalah anak yatim piatu sejak kecil, awalnya Dinda tinggal bersama Om nya di Jakarta yg bekerja sebagai TNI, karena Om nya pindah tugas ke Sumatra maka Dinda memutuskan untuk melanjutkan sekolahnya di Jakarta dan tinggal bersama bu Eva yg kebetulan adalah sahabat ibundanya, sedangkan keluarganya Dinda berada di kampung halamannya yaitu Indramayu.\n      Bu Eva juga seorang perantau dari Bandung, ia bekerja sebagai karyawan swasta, keluarga besar bu Eva berada di Bandung, ia merantau bersama anak dan sepupunya yaitu Ayu dan Alin.",
+                        "snippet_content": "pulang bu?\" jawab Dinda sambil membuka sepatu dan menaruhnya di rak.\n     \"<em>ya<\/em> kalo udh pulang <em>mah<\/em> ibu ga bakal nanya atuh neng"
+                    },
+                    "responses": [
+                        {
+                            "id": 7262888,
+                            "user_id": 3037046,
+                            "task_id": 6095483,
+                            "points": 5,
+                            "created": "2016-05-13T20:05:25+07:00",
+                            "content": "bagus tapi menurut saya kalimat nya kurang efektif dan sedikit gaul mungkin bisa di sopan kan kalimat nya ",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 4167478,
+                                        "user_id": 1680642,
+                                        "content": "yg kurang efektif dan kurang sopan coba tolong di benerin",
+                                        "created": "2016-05-13T20:08:11+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 4167497,
+                                        "user_id": 3037046,
+                                        "content": "seperti kata napa mungkin bisa di gantikan dengan kenapa",
+                                        "created": "2016-05-13T20:09:29+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 2
+                            }
+                        },
+                        {
+                            "id": 7262945,
+                            "user_id": 2560246,
+                            "task_id": 6095483,
+                            "points": 5,
+                            "created": "2016-05-13T20:08:18+07:00",
+                            "content": "Komentar saya : Cerpennya bagus kok. Wataknya juga nyambung sama cerita. Tapi, yang kurang cuma satu. Masa, di ceritanya nggak ada yang nagis-nagisan sih? Maaf banget kalo kritikan Naya kurang bagus ",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 4167519,
+                                        "user_id": 1680642,
+                                        "content": "itu sebenernya belum selesai.. ceritanya masih panjang.. soalnya sya mau posting cerpen tersebut ke blog saya, makanya sya minta komentarnya apakah cerpen tersebut layak untuk di posting atau tidak..",
+                                        "created": "2016-05-13T20:12:47+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 4167522,
+                                        "user_id": 2560246,
+                                        "content": "Layak kok. Apalagagi kalo ceritanya begini :)))))",
+                                        "created": "2016-05-13T20:13:19+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 4167554,
+                                        "user_id": 1680642,
+                                        "content": "oke thanks ya",
+                                        "created": "2016-05-13T20:15:56+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 4167565,
+                                        "user_id": 2560246,
+                                        "content": "Ia, sama-sama",
+                                        "created": "2016-05-13T20:17:00+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 4168496,
+                                        "user_id": 1680642,
+                                        "content": "dan ini blog saya rendytr.mywapblog.com",
+                                        "created": "2016-05-13T22:19:19+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 5
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3037046,
+                                "nick": "nailyqoneta",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d27\/b9325004ec8f8704f730e362b16078f6.jpg"
+                            },
+                            {
+                                "id": 2560246,
+                                "nick": "InayahRoihanah",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d75\/88f7f91a221645cd38010d4d8d85a78b.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10944412,
+                        "subject_id": 1,
+                        "user_id": 5156110,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "2. Bacalah kutipan drama berikut dengan seksama kemudian kerjakan dua soal dibawah ini!<br \/><br \/>\nBrilian\t: Sekarang serahkan hp kalian, kami akan minta uang tembusan! (mendorong Dimi masuk)<br \/>\nDimi\t: ka\u2026ka\u2026kami tidak bawa hp (gugup)<br \/>\nBrilian\t: Periksa kantongnya!<br \/>\nTimmy\t: Siap bos (memeriksa kantong)<br \/>\nMarkus\t: ada gak? Ini tempat apa? (matanya melotot)<br \/>\nTimmy\t: Ruang menyimpan perkakas bekas (sambil meraba kantong si anak) ini bos hpnya (mengeluarkan hp)<br \/>\nMarkus\t: Tanyakan nomor hp orang tuanya! Hubungi untuk minta tembusan!<br \/>\nTimmy\t: Siap bos<br \/><br \/><br \/>\nLatar kutipan drama tersebut adalah\u2026<br \/>\na.gudang\td.rumah<br \/>\nb.kamar\te.kantor<br \/>\nc.garasi<br \/><br \/><br \/><br \/><br \/><br \/><br \/>\n3. Bacalah kutipan berikut dengan seksama!<br \/><br \/>\nMasut: Guru terima kasih atas illmu yang guru berikan kepadaku apalah artinya diriku andai tidak ada guru<br \/>\nGuru: Masut, kamu harus tahu meskipun kita mempunyai illmu hanya sedikit, namun tetap harus diberikan kepada orang lain<br \/>\n(istri Masut masuk keruangan membawa the hangat)<br \/>\nIstri Masut: Lebih baik kalau ngoborlnya, sambil minum teh hangat (menyodorkan cangkir)<br \/>\nGuru: Bisa saja istri kamu, Ut<br \/><br \/>\nAmanat yang terkandung dalam drama tersebut adalah\u2026<br \/><br \/>\na. kita harus berterima kasih kepada guru karena guru merupakan seseorang yang sangat berjasa karena telah memberikan kita banyak illmu.<br \/>\nb. kita harus melupakan guru karena guru merupakan orang yang tidak berjasa<br \/>\nc. guru adalah orang yang berjasa dalam hidup Masut<br \/>\nd. guru mencerminkan hal-hal yang baik<br \/>\ne. kita harus berterima kasih kepada guru karena guru membawa kita ke perbuatan yang terpuji<br \/><br \/><br \/><br \/>\n4. Bacalah kutipan berikut dengan seksama!<br \/><br \/>\nMasut: Guru terima kasih atas illmu yang guru berikan kepadaku apalah artinya diriku andai tidak ada guru<br \/>\nGuru: Masut, kamu harus tahu meskipun kita mempunyai illmu hanya sedikit, namun tetap harus diberikan kepada orang lain<br \/>\n(istri Masut masuk keruangan membawa the hangat)<br \/>\nIstri Masut: Lebih baik kalau ngoborlnya, sambil minum teh hangat (menyodorkan cangkir)<br \/>\nGuru: Bisa saja istri kamu, Ut<br \/><br \/><br \/>\nWatak Masut dari drama tersebut adalah\u2026<br \/><br \/>\na.jahat<br \/>\nb.tidak tau berterimakasih<br \/>\nc.baik<br \/>\nd.tidak sopan<br \/>\ne.pemarah<br \/><br \/><br \/><br \/><br \/><br \/><br \/>\n5. Bacalah kutipan drama berikut!<br \/>\nAni\t: Tolong Santi, tugasmu membersihkan papan tulis aku akan menyapu lantai<br \/>\nSanti\t: Baiklah Ani, oh ya, andi belum datang kita tunggu saja<br \/>\nAni\t: Belum, mugkin sebentar lagi andi datang kita tunggu saja<br \/>\nSanti\t: Itu dia suruh datang, cepat Andi tolong bersihkan meja dan bangku dengan kemoceng!<br \/>\nAndi\t: Baik Santi<br \/><br \/>\nLatar  waktu dalam kutipan drama diatas adalah\u2026<br \/><br \/>\na.Pagi hari dikelas\td.pagi hari dirumah<br \/>\nb.siang hari dikantor\te.sore hari dirumah sakit<br \/>\nc.malam hari dikelas<br \/><br \/><br \/>\n6.Perhatikan penggalan drama dibawah ini!<br \/><br \/>\n\u201cDari mana saja kau, Berdrun? Hari sudah petang tapi kau baru pulang\u201d Tanya ayah sambil berkacak pinggang.<br \/><br \/>\nDialog diatas diucapkan dengan nada\u2026<br \/><br \/>\na.keras sambil bercanda<br \/>\nb.marah dan serius<br \/>\nc.rendah dan penuh Tanya<br \/>\nd.penuh kasih sayang<br \/>\ne.merasa dendam<br \/><br \/><br \/><br \/><br \/>\n7. Bacalah kutipan drama berikut!<br \/><br \/>\nToni\t: Andi! Sebentar, jangan pulang dulu! (sambil melambaikan tangan usai pelajaran di sekolah)<br \/>\nAni\t: Ya, ton, ada apa? Sini kita duduk di teras! (mereka kemudian duduk berhadapan)<br \/>\nToni\t: Begini, mengapa kamu beberapa kali tidak datang main bola dilapangan?<br \/>\nItang: ya an. Kami sangat membutuhkanmu dilapangan! <br \/>\nPandu\t: Maafkan ucapanku dikelas kemarin, Ani<br \/>\nAni\t: Aku memang perempuan, tetapi aku menyukai sepak bola! <br \/>\nToni, Itang, danPandu: (bersama-sama) Betul, kami sangat membutuhkanmu!<br \/>\nAni\t: Oke jika itu mau kalian, besok aku akan bergabung dengan kalian dilapangan tapi syaratnya kalian tidak melecehkanku lagi sebagai ketua!<br \/><br \/>\nTokoh utama dalam teks drama tersebut ialah\u2026<br \/><br \/>\na.Toni\td.Pandu<br \/>\nb.Ani\te.Toni dan Itang<br \/>\nc.Itang",
+                        "created": "2017-06-14T08:46:11+07:00",
+                        "responses": 2,
+                        "tickets": 3,
+                        "first_resp": "2017-06-14T08:54:38+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "6",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "2. Bacalah kutipan drama berikut dengan seksama kemudian kerjakan dua soal dibawah ini!\nBrilian\t: Sekarang serahkan hp kalian, kami akan minta uang tembusan! (mendorong Dimi masuk)\nDimi\t: ka\u2026ka\u2026kami tidak bawa hp (gugup)\nBrilian\t: Periksa kantongnya!\nTimmy\t: Siap bos (memeriksa kantong)\nMarkus\t: ada gak? Ini tempat apa? (matanya melotot)\nTimmy\t: Ruang menyimpan perkakas bekas (sambil meraba kantong si anak) ini bos hpnya (mengeluarkan hp)\nMarkus\t: Tanyakan nomor hp orang tuanya! Hubungi untuk minta tembusan!\nTimmy\t: Siap bos\nLatar kutipan drama tersebut adalah\u2026\na.gudang\td.rumah\nb.kamar\te.kantor\nc.garasi\n3. Bacalah kutipan berikut dengan seksama!\nMasut: Guru terima kasih atas illmu yang guru berikan kepadaku apalah artinya diriku andai tidak ada guru\nGuru: Masut, kamu harus tahu meskipun kita mempunyai illmu hanya sedikit, namun tetap harus diberikan kepada orang lain\n(istri Masut masuk keruangan membawa the hangat)\nIstri Masut: Lebih baik kalau ngoborlnya, sambil minum teh hangat (menyodorkan cangkir)\nGuru: Bisa saja istri kamu, Ut\nAmanat yang terkandung dalam drama tersebut adalah\u2026\na. kita harus berterima kasih kepada guru karena guru merupakan seseorang yang sangat berjasa karena telah memberikan kita banyak illmu.\nb. kita harus melupakan guru karena guru merupakan orang yang tidak berjasa\nc. guru adalah orang yang berjasa dalam hidup Masut\nd. guru mencerminkan hal-hal yang baik\ne. kita harus berterima kasih kepada guru karena guru membawa kita ke perbuatan yang terpuji\n4. Bacalah kutipan berikut dengan seksama!\nMasut: Guru terima kasih atas illmu yang guru berikan kepadaku apalah artinya diriku andai tidak ada guru\nGuru: Masut, kamu harus tahu meskipun kita mempunyai illmu hanya sedikit, namun tetap harus diberikan kepada orang lain\n(istri Masut masuk keruangan membawa the hangat)\nIstri Masut: Lebih baik kalau ngoborlnya, sambil minum teh hangat (menyodorkan cangkir)\nGuru: Bisa saja istri kamu, Ut\nWatak Masut dari drama tersebut adalah\u2026\na.jahat\nb.tidak tau berterimakasih\nc.baik\nd.tidak sopan\ne.pemarah\n5. Bacalah kutipan drama berikut!\nAni\t: Tolong Santi, tugasmu membersihkan papan tulis aku akan menyapu lantai\nSanti\t: Baiklah Ani, oh <em>ya<\/em>, <em>andi<\/em> <em>belum<\/em> datang kita tunggu saja\nAni\t: <em>Belum<\/em>, mugkin sebentar lagi <em>andi<\/em> datang kita tunggu saja\nSanti\t: Itu dia suruh datang, cepat <em>Andi<\/em> tolong bersihkan meja dan bangku dengan kemoceng!\n<em>Andi<\/em>\t: Baik Santi\nLatar  waktu dalam kutipan drama diatas adalah\u2026\na.Pagi hari dikelas\td.pagi hari dirumah\nb.siang hari dikantor\te.sore hari dirumah sakit\nc.malam hari dikelas\n6.Perhatikan penggalan drama dibawah ini!\n\u201cDari mana saja kau, Berdrun? Hari sudah petang tapi kau baru pulang\u201d Tanya ayah sambil berkacak pinggang.\nDialog diatas diucapkan dengan nada\u2026\na.keras sambil bercanda\nb.marah dan serius\nc.rendah dan penuh Tanya\nd.penuh kasih sayang\ne.merasa dendam\n7. Bacalah kutipan drama berikut!\nToni\t: <em>Andi<\/em>! Sebentar, jangan pulang dulu! (sambil melambaikan tangan usai pelajaran di sekolah)\nAni\t: <em>Ya<\/em>, ton, ada apa? Sini kita duduk di teras! (mereka kemudian duduk berhadapan)\nToni\t: Begini, mengapa kamu beberapa kali tidak datang main bola dilapangan?\nItang: <em>ya<\/em> an. Kami sangat membutuhkanmu dilapangan! \nPandu\t: Maafkan ucapanku dikelas kemarin, Ani\nAni\t: Aku memang perempuan, tetapi aku menyukai sepak bola! \nToni, Itang, danPandu: (bersama-sama) Betul, kami sangat membutuhkanmu!\nAni\t: Oke jika itu <em>mau<\/em> kalian, besok aku akan bergabung dengan kalian dilapangan tapi syaratnya kalian tidak melecehkanku lagi sebagai ketua!\nTokoh utama dalam teks drama tersebut ialah\u2026\na.Toni\td.Pandu\nb.Ani\te.Toni dan Itang\nc.Itang",
+                        "snippet_content": "tulis aku akan menyapu lantai\nSanti\t: Baiklah Ani, oh <em>ya<\/em>, <em>andi<\/em> <em>belum<\/em> datang kita tunggu saja\nAni\t: <em>Belum<\/em>, mugkin sebentar lagi <em>andi<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 13305189,
+                            "user_id": 2778175,
+                            "task_id": 10944412,
+                            "points": 5,
+                            "created": "2017-06-14T08:54:38+07:00",
+                            "content": "2.a<br \/>3.d<br \/>4.c<br \/>5.a<br \/>6.b<br \/>7.b                                                                         .              ",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 13305206,
+                            "user_id": 4892003,
+                            "task_id": 10944412,
+                            "points": 5,
+                            "created": "2017-06-14T08:58:48+07:00",
+                            "content": "2.a<br \/>3.a<br \/>4.c<br \/>5.a<br \/>6.B<br \/>7.b<br \/><br \/>Maaf klo salah,, kak<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2778175,
+                                "nick": "safridadwiangraini",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dca\/b2ccdca77f28aad791855d76e06e3eb5.jpg"
+                            },
+                            {
+                                "id": 4892003,
+                                "nick": "Dwi1513",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dd1\/414db4ee3ab8c127d8aa595fe4499885.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 8484358,
+                        "subject_id": 5,
+                        "user_id": 4076669,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "complete these sentences with comparative degree!<br \/>1.andi is 165 cm tall. donna is 167 cm tall. so, donna is..than andi.<br \/>2.the red jacket is 60.000 rupiahs. the blue jacket costs 75.000 rupiahs. the red jacket is.... than the blue jacket.<br \/>3.my father is 45 years old. my mother is 46 years old. so, my mother is....than my father.<br \/>4.roger is 12 years old. danu is 15 years old. so, roger is....than danu.<br \/>5.Bengawan Solo River is long but nil  River is...thann bengawan solo river.<br \/>6. a buffalo Is big. but, an elephant is...than a cow.<br \/>7.a horse runs...than a goat.<br \/>8.a car's price is usually...than a motorbike's price.<br \/>9.most students think mathematic is...than sosial science.<br \/>10.a hill is...than a mountain.<br \/><br \/> complete these sentences with superlative degree!<br \/>1.the elephant is the...animal on the earth.<br \/>2.maya is the...student in my class. she never comes late to school.<br \/>3.cheetah is known as the...runner animal on the earth.<br \/>4.an ant may be the...animal in the world.<br \/>5.jakarta is the...city in indonesia.<br \/>6.arnold cleans his room twice a day. that's way his room is the...among our rooms.<br \/>7.there are four tall student in my class.but the...student is raka.<br \/>8.mr.ron is the...teacher in our school. he never gets angry to us.<br \/>9.almost all students think mathematic is the...subject in the school.<br \/>10.those jackets are expensive.but the...jacket is the red one.<br \/><br \/> complete the sentences use a comparative!<br \/>1.you are not very tall. your brother is...<br \/>2.austin doesn't work  very hard. I work...<br \/>3.my bed is not very comfortable. your is...<br \/>4.your plan is not very good. My plan is...<br \/>5. these flowers are not very nice. the blue ones are....<br \/>6.my beg is not very heavy. your bag is....<br \/>7. I am not interested in art. I am...in history <br \/>8. this Knife is not very sharp. have you got a...one? <br \/>9. London is not very beautiful Paris in...<br \/>10.  it is not warm today.it was...yesterday <br \/><br \/>tolong ya kak dijawab dan artikan buat besok dikumpulin",
+                        "created": "2016-11-20T19:56:18+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2016-11-20T20:08:53+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "complete these sentences with comparative degree!1.<em>andi<\/em> is 165 cm tall. donna is 167 cm tall. so, donna is..than <em>andi<\/em>.2.the red jacket is 60.000 rupiahs. the <em>blue<\/em> jacket costs 75.000 rupiahs. the red jacket is.... than the <em>blue<\/em> jacket.3.my father is 45 years old. my mother is 46 years old. so, my mother is....than my father.4.roger is 12 years old. danu is 15 years old. so, roger is....than danu.5.Bengawan Solo River is long but nil  River is...thann bengawan solo river.6. a buffalo Is big. but, an elephant is...than a cow.7.a horse runs...than a goat.8.a car's price is usually...than a motorbike's price.9.most students think mathematic is...than sosial science.10.a hill is...than a mountain. complete these sentences with superlative degree!1.the elephant is the...animal on the earth.2.maya is the...student in my class. she never comes late to school.3.cheetah is known as the...runner animal on the earth.4.an ant <em>may<\/em> be the...animal in the world.5.jakarta is the...city in indonesia.6.arnold cleans his room twice a day. that's way his room is the...among our rooms.7.there are four tall student in my class.but the...student is raka.8.mr.ron is the...teacher in our school. he never gets angry to us.9.almost all students think mathematic is the...subject in the school.10.those jackets are expensive.but the...jacket is the red one. complete the sentences use a comparative!1.you are not very tall. your brother is...2.austin doesn't work  very hard. I work...3.my bed is not very comfortable. your is...4.your plan is not very good. My plan is...5. these flowers are not very nice. the <em>blue<\/em> ones are....6.my beg is not very heavy. your bag is....7. I am not interested in art. I am...in history 8. this Knife is not very sharp. have you got a...one? 9. London is not very beautiful Paris in...10.  it is not warm today.it was...yesterday tolong <em>ya<\/em> kak dijawab dan artikan buat besok dikumpulin",
+                        "snippet_content": "cm tall. donna is 167 cm tall. so, donna is..than <em>andi<\/em>.2.the red jacket is 60.000 rupiahs. the <em>blue<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 10072478,
+                            "user_id": 219824,
+                            "task_id": 8484358,
+                            "points": 5,
+                            "created": "2016-11-20T20:08:53+07:00",
+                            "content": "1.taller\n2.cheaper\n3.older\n4.younger\n5.longer\n6.bigger\n7.faster\n8.more expensive\n9.harder\n10.smaller\n\n1.biggest\n2.most discipline\n3.fastest\n4.smallest\n5.busiest\n6.cleanest\n7.tallest\n8.most patient\n9.hardest\n10.most expensive\n\n1.taller\n2.harder\n3.more comfortable\n4.better\n5.\n6.heavier\n7.more interested\n8.sharper\n9.\n10.warmer\n\n",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 219824,
+                                "nick": "Sheren24VenLiu",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d70\/015717e1a270806458b5aae34465ccd1.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 3,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 1680642,
+            "nick": "rendytr9",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 77,
+                "answers": 16,
+                "comments": 52
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#000000",
+                "names": [],
+                "count": 0
+            },
+            "ranks_ids": null
+        },
+        {
+            "id": 3037046,
+            "nick": "nailyqoneta",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 13,
+                "comments": 3
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4c\/c294db99614fac5a4e871af8aa4ca2e6.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d27\/b9325004ec8f8704f730e362b16078f6.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4c\/c294db99614fac5a4e871af8aa4ca2e6.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d27\/b9325004ec8f8704f730e362b16078f6.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 2560246,
+            "nick": "InayahRoihanah",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 68,
+                "answers": 210,
+                "comments": 141
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4d\/2b64ee21e38bcd846af3f3fe91d34579.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d75\/88f7f91a221645cd38010d4d8d85a78b.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4d\/2b64ee21e38bcd846af3f3fe91d34579.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d75\/88f7f91a221645cd38010d4d8d85a78b.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 5156110,
+            "nick": "Yolandafransiska",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de3\/060ea1befaf893ee139e1246eeb5ddf2.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d54\/5005e3e14550045e043e0d1ddefa3543.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de3\/060ea1befaf893ee139e1246eeb5ddf2.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d54\/5005e3e14550045e043e0d1ddefa3543.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 2778175,
+            "nick": "safridadwiangraini",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 65,
+                "comments": 9
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4e\/041414cac3ba3eb6ee1d3b6f73f08c95.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dca\/b2ccdca77f28aad791855d76e06e3eb5.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4e\/041414cac3ba3eb6ee1d3b6f73f08c95.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dca\/b2ccdca77f28aad791855d76e06e3eb5.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 4892003,
+            "nick": "Dwi1513",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 11,
+                "comments": 11
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dfc\/655ffda559fc6c42494afb280c9c567d.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd1\/414db4ee3ab8c127d8aa595fe4499885.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dfc\/655ffda559fc6c42494afb280c9c567d.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd1\/414db4ee3ab8c127d8aa595fe4499885.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4076669,
+            "nick": "nandrie",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 16,
+                "answers": 44,
+                "comments": 11
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da5\/88babc2761f3954cc474e4943f5e70bb.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d4f\/73c4691c86736fb06d094a6b399949ad.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da5\/88babc2761f3954cc474e4943f5e70bb.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d4f\/73c4691c86736fb06d094a6b399949ad.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 219824,
+            "nick": "Sheren24VenLiu",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 10,
+                "answers": 70,
+                "comments": 17
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d8f\/641849d6fdd22fd8c71175816bd63dc4.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d70\/015717e1a270806458b5aae34465ccd1.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d8f\/641849d6fdd22fd8c71175816bd63dc4.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d70\/015717e1a270806458b5aae34465ccd1.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        }
+    ],
+    "validated": false
+}

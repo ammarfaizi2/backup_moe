@@ -1,0 +1,1531 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 6281947,
+                        "subject_id": 18,
+                        "user_id": 2840226,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "ibadah sejati menurut roma 12:1",
+                        "created": "2016-05-29T15:44:52+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2016-05-29T15:51:18+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "<em>ibadah<\/em> <em>sejati<\/em> menurut roma 12:1",
+                        "snippet_content": "<em>ibadah<\/em> <em>sejati<\/em> menurut roma 12:1"
+                    },
+                    "responses": [
+                        {
+                            "id": 7502087,
+                            "user_id": 3120730,
+                            "task_id": 6281947,
+                            "points": 5,
+                            "created": "2016-05-29T15:51:18+07:00",
+                            "content": "tubuh mu sebagai persembahan yang hidup,dan yang kudus dan yang berkenan di mata tuhan ",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3120730,
+                                "nick": "FransAndita",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dcb\/0b8c0165a1610b72d5227d3af3773540.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 6471298,
+                        "subject_id": 18,
+                        "user_id": 3236896,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "apa arti ibadah yang sejati",
+                        "created": "2016-07-26T20:21:42+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2016-07-26T20:22:59+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [
+                            {
+                                "full": "https:\/\/id-static.z-dn.net\/files\/d54\/c4754114bc5eb45243da63e88cebe067.jpg",
+                                "thumbnail": "https:\/\/id-static.z-dn.net\/files\/d08\/de7063c0ed7f281e30ff0fce363ef117.jpg",
+                                "type": "image\/jpeg",
+                                "size": 3566953,
+                                "hash": "c4754114bc5eb45243da63e88cebe067",
+                                "id": 2803836,
+                                "extension": "jpg"
+                            }
+                        ],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "apa arti <em>ibadah<\/em> yang <em>sejati<\/em>",
+                        "snippet_content": "apa arti <em>ibadah<\/em> yang <em>sejati<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 7756058,
+                            "user_id": 3233084,
+                            "task_id": 6471298,
+                            "points": 5,
+                            "created": "2016-07-26T20:22:59+07:00",
+                            "content": "ibadah adalah suatu kegiatan agama yg dilakukan untuk mendapatkan pahala dan memperkuat iman seseorang",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 7756166,
+                            "user_id": 3213924,
+                            "task_id": 6471298,
+                            "points": 5,
+                            "created": "2016-07-26T20:25:37+07:00",
+                            "content": "ibadah adalah.. sebuah perintah yg diturunkan  oleh tuhan kita dan harus kita jalani sebagai umat yg beragama",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3233084,
+                                "nick": "Igelprasetyo",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d47\/7984addbd968e7a050e9dd50c73c77c7.jpg"
+                            },
+                            {
+                                "id": 3213924,
+                                "nick": "dila338",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d07\/3d90b8f09223e76639d471621b6a416d.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 6433009,
+                        "subject_id": 2,
+                        "user_id": 3211791,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "sebutkan bentuk ibadah yg sejati",
+                        "created": "2016-07-24T10:28:05+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2016-07-24T10:35:33+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "sebutkan bentuk <em>ibadah<\/em> yg <em>sejati<\/em>",
+                        "snippet_content": "sebutkan bentuk <em>ibadah<\/em> yg <em>sejati<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 7722041,
+                            "user_id": 3211455,
+                            "task_id": 6433009,
+                            "points": 5,
+                            "created": "2016-07-24T10:35:33+07:00",
+                            "content": "Beramal tanpa ketauhan orang orang ",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3211455,
+                                "nick": "Violent5",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dbd\/1debc56876a6dd33a786b3779573ff2b.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 7449025,
+                        "subject_id": 3,
+                        "user_id": 3716818,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "1.Jelaskan hubungan pengudusan hari sabat dengan ibadah yang sejati<br \/><br \/>\n2. Mengapa nyanyian yang benar menurut firman tuhan adalahj nyanyian yang himne<br \/><br \/>\n3. sebutkan 3isi dari nyanyian pujian bangsa israel kepada allah<br \/><br \/>\ntolong dijawab dengan benar",
+                        "created": "2016-09-20T19:26:07+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2016-09-22T19:08:31+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "1.Jelaskan hubungan pengudusan hari sabat dengan <em>ibadah<\/em> yang <em>sejati<\/em>\n2. Mengapa nyanyian yang benar menurut firman tuhan adalahj nyanyian yang himne\n3. sebutkan 3isi dari nyanyian pujian bangsa israel kepada allah\ntolong dijawab dengan benar",
+                        "snippet_content": "1.Jelaskan hubungan pengudusan hari sabat dengan <em>ibadah<\/em> yang <em>sejati<\/em>\n2. Mengapa nyanyian yang benar menurut firman tuhan adalahj nyanyian yang himne"
+                    },
+                    "responses": [
+                        {
+                            "id": 8865549,
+                            "user_id": 3699875,
+                            "task_id": 7449025,
+                            "points": 5,
+                            "created": "2016-09-22T19:08:31+07:00",
+                            "content": "ndjdnwlfkqkfjfjfjfjfjfkkfkfkfkkdksjd",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3699875,
+                                "nick": "rafa130",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dba\/3dcb4178d9c4eac5ee70c6a2dd064efc.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 7441433,
+                        "subject_id": 3,
+                        "user_id": 3716818,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "                                                         Kristen<br \/><br \/>\n1. Bagaimana situasi para jemaat mula-mula setelah Yesus naik keSurga ?<br \/>\n   Jwb : <br \/>\n2. Jelaskan hubungan pengudusan hari sabat dengan ibadah yang sejati ?<br \/>\n   Jwb : <br \/>\n3. Sebutkan 3 isi dari nyanyian pujian bangsa israel kepala Allah ?<br \/>\n   Jwb : <br \/>\n4. Mengapa nyanyian yang benar menurut firman Tuhan adalah nyanyian yang Himne ?<br \/>\n   Jwb : <br \/><br \/>\nTolong jawab dengan benar",
+                        "created": "2016-09-20T15:01:22+07:00",
+                        "responses": 1,
+                        "tickets": 13,
+                        "first_resp": "2016-09-23T19:43:38+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "                                                         Kristen\n1. Bagaimana situasi para jemaat mula-mula setelah Yesus naik keSurga ?\n   Jwb : \n2. Jelaskan hubungan pengudusan hari sabat dengan <em>ibadah<\/em> yang <em>sejati<\/em> ?\n   Jwb : \n3. Sebutkan 3 isi dari nyanyian pujian bangsa israel kepala Allah ?\n   Jwb : \n4. Mengapa nyanyian yang benar menurut firman Tuhan adalah nyanyian yang Himne ?\n   Jwb : \nTolong jawab dengan benar",
+                        "snippet_content": "Yesus naik keSurga ?\n   Jwb : \n2. Jelaskan hubungan pengudusan hari sabat dengan <em>ibadah<\/em> yang <em>sejati<\/em> ?\n   Jwb : \n3. Sebutkan 3 isi dari nyanyian pujian"
+                    },
+                    "responses": [
+                        {
+                            "id": 8889966,
+                            "user_id": 3701791,
+                            "task_id": 7441433,
+                            "points": 5,
+                            "created": "2016-09-23T19:43:38+07:00",
+                            "content": "1.menyebar kan tentang firman Tuhan bagi jemaat2<br \/>2.dengan hikmat<br \/>3.slamat datang,dariterbit matahari,dan malam kudus<br \/>4.karena bersifat memuji Tuhan Yesus Kristus",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3701791,
+                                "nick": "alex190",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 2856066,
+                        "subject_id": 4,
+                        "user_id": 1543501,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "[Selamat Menunaikan Ibadah Puasa] Latihan ujian akhir semester Biologi SMA: Berikut ini ciri-ciri tumbuhan paku, kecuali \u2026..<br \/>\na. mengalami metagenesis<br \/>\nb. tubuhnya berupa thalus<br \/>\nc. sudah memiliki xylem dan floem<br \/>\nd. reproduksi vegetatif dengan menggunakan spora<br \/>\ne. memiliki akar, batang, dan daun yang sejati",
+                        "created": "2015-06-12T01:36:14+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2015-06-22T01:28:53+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "[Selamat Menunaikan <em>Ibadah<\/em> Puasa] Latihan ujian akhir semester Biologi SMA: Berikut ini ciri-ciri tumbuhan paku, kecuali \u2026..\na. mengalami metagenesis\nb. tubuhnya berupa thalus\nc. sudah memiliki xylem dan floem\nd. reproduksi vegetatif dengan menggunakan spora\ne. memiliki akar, batang, dan daun yang <em>sejati<\/em>",
+                        "snippet_content": "[Selamat Menunaikan <em>Ibadah<\/em> Puasa] Latihan ujian akhir semester Biologi SMA: Berikut ini ciri-ciri tumbuhan paku, kecuali \u2026..\na. mengalami metagenesis\nb"
+                    },
+                    "responses": [
+                        {
+                            "id": 3666882,
+                            "user_id": 1552614,
+                            "task_id": 2856066,
+                            "points": 5,
+                            "created": "2015-06-22T01:28:53+07:00",
+                            "content": "b. tubuhnya berupa thalus",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1552614,
+                                "nick": "hendraot82",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 9867145,
+                        "subject_id": 14,
+                        "user_id": 4689050,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "ayat pertama yang diturunkan sejatinya untuk menuntun manusia terhindar dari kebodohan yang berupa perintah a sholat b ibadah C menulis d membaca",
+                        "created": "2017-03-15T19:48:17+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2017-03-15T19:49:38+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "ayat pertama yang diturunkan <em>sejati<\/em>nya untuk menuntun manusia terhindar dari kebodohan yang berupa perintah a sholat b <em>ibadah<\/em> C menulis d membaca",
+                        "snippet_content": "ayat pertama yang diturunkan <em>sejati<\/em>nya untuk menuntun manusia terhindar dari kebodohan yang berupa perintah a sholat b <em>ibadah<\/em> C menulis d membaca"
+                    },
+                    "responses": [
+                        {
+                            "id": 11843304,
+                            "user_id": 4670425,
+                            "task_id": 9867145,
+                            "points": 5,
+                            "created": "2017-03-15T19:49:38+07:00",
+                            "content": "menurut saya b.ibadah<br \/>maaf kalau salah",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 11843335,
+                            "user_id": 4727368,
+                            "task_id": 9867145,
+                            "points": 5,
+                            "created": "2017-03-15T19:50:04+07:00",
+                            "content": "d membaca yaitu surah al alaq ayat 1-5 yaitu bacalah dengan meyebut nama tuhanmu",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4670425,
+                                "nick": "RINKAKITA",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d75\/bac736008609751581bbc11a2643473a.jpg"
+                            },
+                            {
+                                "id": 4727368,
+                                "nick": "slamatsyaputra",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d3a\/b503c49fb8318a65e7c58aa5cfad6a9f.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 6432980,
+                        "subject_id": 9,
+                        "user_id": 3211791,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "pengertian ibada yg sejati",
+                        "created": "2016-07-24T10:21:23+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2016-07-24T10:23:13+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "pengertian <em>ibada<\/em> yg <em>sejati<\/em>",
+                        "snippet_content": "pengertian <em>ibada<\/em> yg <em>sejati<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 7721955,
+                            "user_id": 3212052,
+                            "task_id": 6432980,
+                            "points": 5,
+                            "created": "2016-07-24T10:23:13+07:00",
+                            "content": "Di zaman modern ini, kesadaran seseorang terhadap perkara-perkara spiritual cenderung semakin berkurang karena dianggap tidak relevan lagi dengan perkembangan zaman. Ibadah yang seharusnya menjadi salah satu kebutuhan rohani bagi orang yang mengakui bahwa dirinya beragama malah terkadang dianggap remeh, kurang menjawab kebutuhan, membosankan, dianggap sudah kuno, dan sebagainya. Namun, ada juga orang yang rajin beribadah, namun tidak mengalami perubahan dalam hidupnya, secara spiritual pun juga tidak bertumbuh",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 7721978,
+                            "user_id": 3211736,
+                            "task_id": 6432980,
+                            "points": 5,
+                            "created": "2016-07-24T10:26:19+07:00",
+                            "content": "taat melaksanakan apa yang di perintah kan allah",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3212052,
+                                "nick": "Aristhy",
+                                "avatar": null
+                            },
+                            {
+                                "id": 3211736,
+                                "nick": "tobi12",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d87\/34e8df6376eb27819cc9340e9c07573d.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 8386778,
+                        "subject_id": 18,
+                        "user_id": 4133617,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "1. dibawah ini yang merupakan penghambat &amp; penghancur sebuah perkesutuan adalah...<br \/>a. kurang jujur<br \/>b. kurang kaya<br \/>c.melayani<br \/>d. kurang tampan<br \/><br \/>2. ciri paguyuban persekutuan yang utama adalah...<br \/>a. adanya susunan organisasi yg lengkap<br \/>b. dipimpin oleh org\" yg bertanggung jwb<br \/>c. mempunyai tempat ibadah<br \/>d. adanya komunikasi &amp; interaksi yg terus- menerus<br \/><br \/>3. cth persekutuan dlm masyarakat adalah...<br \/>a. kelompok ibu\" PKK<br \/>b. penonton pertandingan sepak bola<br \/>c. org\" yg berada dipasar<br \/>d. banyak org yg berhimpun di satu tmp<br \/><br \/>4. unsur perekat parsatuan dlm diri para mirid adalah...<br \/>a. kesamaan nasib<br \/>b. roh kudus<br \/>c. sama\" sebangsa<br \/>d. memiliki pekerjaan yg sama<br \/><br \/>5. para rasul senantiasa bersatu &amp; sehati karena mendpt daya kekuatan dari...<br \/>a. para ahli taurat<br \/>b. imam\" kepala<br \/>c. roh kudus<br \/>d. imam &amp; diakon<br \/><br \/>6. edo yg dulu yg suka berjudi, sekarang telah berubah &amp; tekun dlm kegiatan gereja. berkat roh kudus, edo bertobat dgn meninggalkan...<br \/>a. hidup yg lama menujuh hidup yg baru<br \/>b. org tua yg lama &amp; ikut org tua yg baru<br \/>c. gereja yg lama menujuh gereja yg baru<br \/>d. kebiasaan\" baru yg menyenangkan",
+                        "created": "2016-11-14T20:50:16+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2016-11-14T21:10:45+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "1. dibawah ini yang merupakan penghambat &amp; penghancur sebuah perkesutuan adalah...a. kurang jujurb. kurang kayac.melayanid. kurang tampan2. ciri paguyuban persekutuan yang utama adalah...a. adanya susunan organisasi yg lengkapb. dipimpin oleh org\" yg bertanggung jwbc. mempunyai tempat <em>ibadahd.<\/em> adanya komunikasi &amp; interaksi yg terus- menerus3. cth persekutuan dlm masyarakat adalah...a. kelompok ibu\" PKKb. penonton pertandingan sepak bolac. org\" yg berada dipasard. banyak org yg berhimpun di satu tmp4. unsur perekat parsatuan dlm diri para mirid adalah...a. kesamaan nasibb. roh kudusc. sama\" sebangsad. memiliki pekerjaan yg sama5. para rasul senantiasa bersatu &amp; <em>sehati<\/em> karena mendpt daya kekuatan dari...a. para ahli tauratb. imam\" kepalac. roh kudusd. imam &amp; diakon6. edo yg dulu yg suka berjudi, sekarang telah berubah &amp; tekun dlm kegiatan gereja. berkat roh kudus, edo bertobat dgn meninggalkan...a. hidup yg lama menujuh hidup yg barub. org tua yg lama &amp; ikut org tua yg baruc. gereja yg lama menujuh gereja yg barud. kebiasaan\" baru yg menyenangkan",
+                        "snippet_content": "organisasi yg lengkapb. dipimpin oleh org\" yg bertanggung jwbc. mempunyai tempat <em>ibadahd.<\/em> adanya komunikasi &amp; interaksi yg terus- menerus3. cth persekutuan dlm masyarakat"
+                    },
+                    "responses": [
+                        {
+                            "id": 9950975,
+                            "user_id": 4141588,
+                            "task_id": 8386778,
+                            "points": 5,
+                            "created": "2016-11-14T21:10:45+07:00",
+                            "content": "1.\u00a0a. kurang jujur<br \/>2.\u00a0a. adanya susunan organisasi yang lengkap<br \/>3.\u00a0a. kelompok ibu pkk<br \/>4.\u00a0b. roh kudus<br \/>5.\u00a0c. roh kudus<br \/>6.\u00a0a. hidup yang lama menuju hidup yang baru",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4141588,
+                                "nick": "shieraalion01shiera",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d60\/45d625ae443b508ac7a07de32be3ee87.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 9,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 2840226,
+            "nick": "patricia3o",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 3120730,
+            "nick": "FransAndita",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 7,
+                "comments": 1
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dff\/3b4fdd07881f6f5a1fd418c707ed19cc.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dcb\/0b8c0165a1610b72d5227d3af3773540.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dff\/3b4fdd07881f6f5a1fd418c707ed19cc.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dcb\/0b8c0165a1610b72d5227d3af3773540.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 3236896,
+            "nick": "marcos2",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 3233084,
+            "nick": "Igelprasetyo",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 6,
+                "answers": 51,
+                "comments": 8
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d15\/3de136e46bdaf5e4d9a83a1f4fb07bd6.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d47\/7984addbd968e7a050e9dd50c73c77c7.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d15\/3de136e46bdaf5e4d9a83a1f4fb07bd6.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d47\/7984addbd968e7a050e9dd50c73c77c7.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 3213924,
+            "nick": "dila338",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 24,
+                "comments": 4
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d95\/3d0925765ce5c56b587e3f90dbd6b2f5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d07\/3d90b8f09223e76639d471621b6a416d.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d95\/3d0925765ce5c56b587e3f90dbd6b2f5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d07\/3d90b8f09223e76639d471621b6a416d.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 3211791,
+            "nick": "slav",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 11,
+                "comments": 1
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d46\/20b4f3b9e1c706b5fe970841579c8732.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de6\/6f2e0f625e6866834f21c14b9865fc55.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d46\/20b4f3b9e1c706b5fe970841579c8732.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de6\/6f2e0f625e6866834f21c14b9865fc55.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 3211455,
+            "nick": "Violent5",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 12,
+                "answers": 60,
+                "comments": 28
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d63\/4fd624927071d32eb39c6a432258bc0f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dbd\/1debc56876a6dd33a786b3779573ff2b.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d63\/4fd624927071d32eb39c6a432258bc0f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dbd\/1debc56876a6dd33a786b3779573ff2b.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 3716818,
+            "nick": "marus",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 3,
+                "comments": 2
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db3\/723bc9e52103f3f6e4e31816b001e42c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d93\/019974dae5d5237afc5cfc6716cdbb4b.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db3\/723bc9e52103f3f6e4e31816b001e42c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d93\/019974dae5d5237afc5cfc6716cdbb4b.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 3699875,
+            "nick": "rafa130",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 16,
+                "answers": 13,
+                "comments": 11
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dee\/737e8d1739464e80770a40908f091ea1.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dba\/3dcb4178d9c4eac5ee70c6a2dd064efc.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dee\/737e8d1739464e80770a40908f091ea1.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dba\/3dcb4178d9c4eac5ee70c6a2dd064efc.jpg"
+            },
+            "ranks": {
+                "color": "#000000",
+                "names": [],
+                "count": 0
+            },
+            "ranks_ids": null
+        },
+        {
+            "id": 3701791,
+            "nick": "alex190",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 6,
+                "comments": 2
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1543501,
+            "nick": "DempsterBatwael803",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d09\/d6505c6a7bf009c8af5539f87db9be60.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d13\/4151690c75b7d3de0d2bf20c9fea51a8.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d09\/d6505c6a7bf009c8af5539f87db9be60.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d13\/4151690c75b7d3de0d2bf20c9fea51a8.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1552614,
+            "nick": "hendraot82",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 10,
+                "answers": 18,
+                "comments": 18
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4689050,
+            "nick": "tiaraazz1",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 4,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de6\/c44eed63d69a36d6fa7038cc9ec85a1b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dac\/be8a4bb182665c3ca32a7364f75ad5db.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de6\/c44eed63d69a36d6fa7038cc9ec85a1b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dac\/be8a4bb182665c3ca32a7364f75ad5db.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4670425,
+            "nick": "RINKAKITA",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 24,
+                "answers": 59,
+                "comments": 30
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d60\/19b603f4793020b81e8a905f1bfc0186.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d75\/bac736008609751581bbc11a2643473a.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d60\/19b603f4793020b81e8a905f1bfc0186.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d75\/bac736008609751581bbc11a2643473a.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 4727368,
+            "nick": "slamatsyaputra",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 108,
+                "comments": 59
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db1\/d7bb6b4c9235f1fdae8320114ad41d1d.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d3a\/b503c49fb8318a65e7c58aa5cfad6a9f.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db1\/d7bb6b4c9235f1fdae8320114ad41d1d.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d3a\/b503c49fb8318a65e7c58aa5cfad6a9f.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 3212052,
+            "nick": "Aristhy",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 2,
+                "comments": 1
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 3211736,
+            "nick": "tobi12",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 4,
+                "comments": 5
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d36\/13c37b92baf416e74d8b41d3fa2d5623.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d87\/34e8df6376eb27819cc9340e9c07573d.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d36\/13c37b92baf416e74d8b41d3fa2d5623.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d87\/34e8df6376eb27819cc9340e9c07573d.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4133617,
+            "nick": "bellvania2",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 13,
+                "answers": 7,
+                "comments": 1
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dda\/2f1df7273db62a3669e2331861f5d368.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db2\/c91b9a18d05ea212dcb4adbe0f15e837.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dda\/2f1df7273db62a3669e2331861f5d368.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db2\/c91b9a18d05ea212dcb4adbe0f15e837.jpg"
+            },
+            "ranks": {
+                "color": "#000000",
+                "names": [],
+                "count": 0
+            },
+            "ranks_ids": null
+        },
+        {
+            "id": 4141588,
+            "nick": "shieraalion01shiera",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 16,
+                "comments": 3
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4b\/a06413c72fe65b0c28c43a6901133018.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d60\/45d625ae443b508ac7a07de32be3ee87.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4b\/a06413c72fe65b0c28c43a6901133018.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d60\/45d625ae443b508ac7a07de32be3ee87.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        }
+    ],
+    "validated": false
+}

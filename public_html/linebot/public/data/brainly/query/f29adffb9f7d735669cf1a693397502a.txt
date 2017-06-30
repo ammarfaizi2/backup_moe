@@ -1,0 +1,184 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 2410968,
+                        "subject_id": 5,
+                        "user_id": 393673,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "susun paragraf tersebut dalam urutan yang baik, sehingga dapat menjadi cerita yang Bagus<br \/><br \/>\nThe Golden Stag<br \/>\n\t( Bagian A.)   One beautiful morning Sita was gathering flowers in the forest not far from the hut. Suddenly, she saw something so slowly that she dropped all her flowers on the ground.<br \/>\n\t\u201c Oh Rama, Lakshmana, come and look ! Look, what a beautiful animal !\u2019\u2019 she shouted  and ran back to the hut.<br \/>\n\tRama and Lakshmana hurried out of the hut and looked. There, quietly grazing was the most wonderful stag  they had ever seen. Its skin shone like gold, and on its small graceful head the two antlers were covered with precious gems.<br \/>\n\u201c Please Rama, catch him for me,\u201d Sita begged her husband. I\u2019ll keep it as a pet and It will brighten these lonely days. When we go back to the place it will remind us of our days in the forest.\u201d<br \/><br \/>\n( Bagian B ).Inside the hut Sita and Lakshmana waited for Rama. Many hours went by but he did not return. Sita became more and more worried. What had happened to Rama ? Perhaps Lakshmana had been right and giants had attacked him. Perhaps he had lost his way. He must be in danger.\u201d Lakshama,can\u2019t you go and look for Rama ?\u2019\u2019 she sad. But Lakshama shook his head.<br \/>\n\t\u201c Rama told me to stay here and guard you. There is too much danger in this forest. I can\u2019t leave you alone and unprotected.\u201d He siad firmly.<br \/><br \/>\n( Bagian C ) Lakshmana was not happy when he saw the bright anima. \u201cIt might be an evil or even a giant who has changed himself. I have never seen a stag with golden skin and antlers of precious germs,\u201d he warned.<br \/>\n\tBut Rama, who loved his wife very much, agreed to catch the animal for her. He took his bow and arrows and said to his brother,\u201d Guard your sister well, Lakshmana, I\u2019ll go and catch the  deer.\u201d<br \/>\n\tIt was as if the deer heard his words, for he stopped eating and ran away among the trees.<br \/>\n\t\u201c Quick, Rama ! He is running away !\u201d Sita exclaimed and Rama chased after it into the forest.<br \/><br \/>\n( Bagian D ) Again they waited. The minutes went by slowly. Then they heard a cry of pain. \u201cOh, Sita, oh Lakshmana, I\u2019m dying,\u201d it was Rama\u2019s voice.<br \/>\n\tSita jumped  up as though bitten by a snake.<br \/>\n\t\u201c Lakshmana, quick, hurry, go ! Help Rama, he is in danger !\u2019\u2019 she shouted at Lakshmana.<br \/>\n\tBut Lakshmana remained calm<br \/>\n\t\u201cDon\u2019t be afraid Sita,\u201d he said gently.\u201dRama is not in danger. Nobody can defeat Rama in battle, and nobody can do him harm. Rama is the mightiest warrior on earth.\u201d<br \/>\n\u201c But Lakshmana, that was Rama\u2019s voice, crying for help,\u201d sobbed Sita.<br \/><br \/>\n( Bagian E )\tAll this time the demon-king Ravana was hiding behind the trees near the hut. The golden stag was his friend Maricha who had taken Rama away from the hut. Finally Rama became tired of chasing and he shoot the deer in his leg. Maricha changed into his true giant shape and startled Rama. Before he could kill him with  a second arrow, Maricha lifted his head and cried,\u201d Oh Ravana, I\u2019m dying.\u201d Then he fell dead.<br \/>\n\tBut the plan had gone as Ravana had stoped. Sita had sent Lakshaman away and now she was alone.<br \/><br \/>\n( Bagian F ) Lakshmana sprang up. Sita\u2019s words hurt him deeply. Tears came to his eyes. \u201c Sita\u201d, he said deeply hurt. \u201c You don\u2019t know what you are saying. I have never thought of taking Rama\u2019s place. Rama is dearer to me than my own life. Very well, since you wish it, I shall disobey my brother and leave you here alone. I pray that the Gods and the spirits of the forest may protect you. I feel there is much evill in this forest.\u201d<br \/><br \/>\n( Bagain G ) \u201cIt\u2019s a trick,\u201danswered Lakshmana. \u201cI cannot leave you alone. Rama asked me to look after you.\u201d Sita became very angry. And in her anger she sais terrible things. \u201c Lakshmana, now I know what  you really are. You are nothing but a traitor. All these years you have said that you loved Rama. But in your heart do not, I\u2019m sure you hope he will die so that you can take his place.\u201d<br \/>",
+                        "created": "2015-04-04T20:05:30+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2015-04-04T21:36:22+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "susun paragraf tersebut dalam urutan yang baik, sehingga dapat menjadi cerita yang Bagus\nThe Golden Stag\n\t( Bagian A.)   One beautiful morning Sita was gathering flowers in the forest not far from the hut. Suddenly, she saw something so slowly that she dropped all her flowers on the ground.\n\t\u201c Oh Rama, Lakshmana, come and look ! Look, what a beautiful animal !\u2019\u2019 she shouted  and ran back to the hut.\n\tRama and Lakshmana hurried out of the hut and looked. There, quietly grazing was the most wonderful stag  they had ever seen. Its skin shone like gold, and on its small graceful head the two antlers were covered with precious gems.\n\u201c Please Rama, catch him for me,\u201d Sita begged her husband. I\u2019ll keep it as a pet and It will brighten these lonely days. When we go back to the place it will remind us of our days in the forest.\u201d\n( Bagian B ).Inside the hut Sita and Lakshmana waited for Rama. Many hours went by but he did not return. Sita became more and more worried. What had happened to Rama ? Perhaps Lakshmana had been right and giants had attacked him. Perhaps he had lost his way. He must be in danger.\u201d Lakshama,can\u2019t you go and look for Rama ?\u2019\u2019 she sad. But Lakshama shook his head.\n\t\u201c Rama told me to stay here and guard you. There is too much danger in this forest. I can\u2019t leave you alone and unprotected.\u201d He siad firmly.\n( Bagian C ) Lakshmana was not happy when he saw the bright <em>anima.<\/em> \u201cIt might be an evil or even a giant who has changed himself. I have never seen a stag with golden skin and antlers of precious germs,\u201d he warned.\n\tBut Rama, who loved his wife very much, agreed to catch the animal for her. He took his bow and arrows and said to his brother,\u201d Guard your sister well, Lakshmana, I\u2019ll go and catch the  deer.\u201d\n\tIt was as if the deer heard his words, for he stopped eating and ran away among the trees.\n\t\u201c Quick, Rama ! He is running away !\u201d Sita exclaimed and Rama chased after it into the forest.\n( Bagian D ) Again they waited. The minutes went by slowly. Then they heard a cry of pain. \u201cOh, Sita, oh Lakshmana, I\u2019m dying,\u201d it was Rama\u2019s voice.\n\tSita jumped  up as though bitten by a snake.\n\t\u201c Lakshmana, quick, hurry, go ! Help Rama, he is in danger !\u2019\u2019 she shouted at Lakshmana.\n\tBut Lakshmana remained calm\n\t\u201cDon\u2019t be afraid Sita,\u201d he said gently.\u201dRama is not in danger. Nobody can defeat Rama in battle, and nobody can do him <em>harm<\/em>. Rama is the mightiest warrior on earth.\u201d\n\u201c But Lakshmana, that was Rama\u2019s voice, crying for help,\u201d sobbed Sita.\n( Bagian E )\tAll this time the demon-king Ravana was hiding behind the trees near the hut. The golden stag was his friend Maricha who had taken Rama away from the hut. Finally Rama became tired of chasing and he shoot the deer in his leg. Maricha changed into his true giant shape and startled Rama. Before he could kill him with  a second arrow, Maricha lifted his head and cried,\u201d Oh Ravana, I\u2019m dying.\u201d Then he fell dead.\n\tBut the plan had gone as Ravana had stoped. Sita had sent Lakshaman away and now she was alone.\n( Bagian F ) Lakshmana sprang up. Sita\u2019s words hurt him deeply. Tears came to his eyes. \u201c Sita\u201d, he said deeply hurt. \u201c You don\u2019t know what you are saying. I have never thought of taking Rama\u2019s place. Rama is dearer to me than my own life. Very well, since you wish it, I shall disobey my brother and leave you here alone. I pray that the Gods and the spirits of the forest may protect you. I feel there is much evill in this forest.\u201d\n( Bagain G ) \u201cIt\u2019s a trick,\u201danswered Lakshmana. \u201cI cannot leave you alone. Rama asked me to look after you.\u201d Sita became very angry. And in her anger she sais terrible things. \u201c Lakshmana, now I know what  you really are. You are nothing but a traitor. All these years you have said that you loved Rama. But in your heart do not, I\u2019m sure you hope he will die so that you can take his place.\u201d",
+                        "snippet_content": "Bagian C ) Lakshmana was not happy when he saw the bright <em>anima.<\/em> \u201cIt might be an evil or even a giant who"
+                    },
+                    "responses": [
+                        {
+                            "id": 3082072,
+                            "user_id": 1335551,
+                            "task_id": 2410968,
+                            "points": 5,
+                            "created": "2015-04-04T21:36:22+07:00",
+                            "content": "A, C, B, D, G, F, E<br \/>itu jawabannya<br \/>sorry kalau salah ehehhee",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2016-02-12T17:13:18+07:00",
+                                "approver": {
+                                    "id": 625864,
+                                    "nickname": "Didinthemasjek",
+                                    "points": 196852,
+                                    "grade": 2,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/da2\/873a4e9822851299b26e7950bc6189ec.jpg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/ded\/655e15af637a9d28bc6807c5efa565b3.jpg"
+                                    },
+                                    "content_approved_count": 24823
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1335551,
+                                "nick": "Pauline16",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d07\/9080eba7fb32f7b5c67f757c6b6041e2.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 1,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 393673,
+            "nick": "ingki",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 315,
+                "answers": 156,
+                "comments": 88
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc9\/62bcfd63faf189e0b6f4863c3a12b5aa.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df7\/3d0f4bcca11da713a104b94410bb28ac.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc9\/62bcfd63faf189e0b6f4863c3a12b5aa.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df7\/3d0f4bcca11da713a104b94410bb28ac.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 1335551,
+            "nick": "Pauline16",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 14,
+                "answers": 85,
+                "comments": 32
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d80\/f7b8b97588cd10d77bb247a390d62d5e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d07\/9080eba7fb32f7b5c67f757c6b6041e2.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d80\/f7b8b97588cd10d77bb247a390d62d5e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d07\/9080eba7fb32f7b5c67f757c6b6041e2.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        }
+    ],
+    "validated": false
+}

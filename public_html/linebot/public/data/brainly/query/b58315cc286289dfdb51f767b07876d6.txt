@@ -1,0 +1,1860 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 4207522,
+                        "subject_id": 2,
+                        "user_id": 2234228,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "fendi berada 12 meter di depan fredi. fredi berada 24 meter di depan rudi. rudi berada 31 meter di belakang kevin. a. siapa yg menjadi juara 1 ? b. siapa yg menjadi juata ke 2? c. berapa meter jarak pemenang 1 dgn peserta urutan ke 2? d. berapa meter jarak pemenang 1 dgn peserta urutan ke 3?",
+                        "created": "2015-11-05T16:44:28+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2015-11-05T16:52:28+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "fendi berada 12 meter di depan <em>fredi.<\/em> <em>fredi<\/em> berada 24 meter di depan rudi. rudi berada 31 meter di belakang kevin. a. <em>siapa<\/em> yg menjadi juara 1 ? b. <em>siapa<\/em> yg menjadi juata ke 2? c. berapa meter jarak pemenang 1 dgn peserta urutan ke 2? d. berapa meter jarak pemenang 1 dgn peserta urutan ke 3?",
+                        "snippet_content": "fendi berada 12 meter di depan <em>fredi.<\/em> <em>fredi<\/em> berada 24 meter di depan rudi. rudi berada 31 meter di belakang kevin. a"
+                    },
+                    "responses": [
+                        {
+                            "id": 4975627,
+                            "user_id": 2234317,
+                            "task_id": 4207522,
+                            "points": 5,
+                            "created": "2015-11-05T16:52:28+07:00",
+                            "content": "juara 1 nya klo gk salah fendi... trus juara 2 nya kevin.. \nklo jarak pemenang pertama dan kedua kyk nya 5 meter\ndan jarak pemenang pertama dan kedua 12 meter",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2234317,
+                                "nick": "XavieraAngelica1",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/df9\/e4af46df147499518a92ce71503684d3.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 125616,
+                        "subject_id": 1,
+                        "user_id": 90369,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 50,
+                            "ptsForResp": 25,
+                            "ptsForBest": 13
+                        },
+                        "content": "\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 ADVOKAT<br \/>Suatus sore dua anak muda, mereka adalah mahasiswa Fakultas Hukum yg sedang terlibat diskusi kecil, nama mereka adalah Fredi dan Ibrahim:<br \/>Fredi :Apa ya, kepanjangan dari ADVOKAT?<br \/>Ibrahim : Ada Duit adVOKasi All ouT!<br \/>Fredi : Hah....!!<br \/><br \/>1. Sebutkan unsur lucu yg ada dalam teks Anekdot tersebut!<br \/>2. Siapakah Tokoh yg dibahas dalam Teks Anekdot tersebut?<br \/>3. Apakah inti dari Teks Anekdot tersebut?",
+                        "created": "2014-04-10T00:12:15+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2014-04-10T02:57:06+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 ADVOKATSuatus sore dua anak muda, mereka adalah mahasiswa Fakultas Hukum yg sedang terlibat diskusi kecil, nama mereka adalah <em>Fredi<\/em> dan Ibrahim:<em>Fredi<\/em> :Apa ya, kepanjangan dari ADVOKAT?Ibrahim : Ada Duit adVOKasi All ouT!<em>Fredi<\/em> : Hah....!!1. Sebutkan unsur lucu yg ada dalam teks Anekdot tersebut!2. <em>Siapa<\/em>kah Tokoh yg dibahas dalam Teks Anekdot tersebut?3. Apakah inti dari Teks Anekdot tersebut?",
+                        "snippet_content": "mahasiswa Fakultas Hukum yg sedang terlibat diskusi kecil, nama mereka adalah <em>Fredi<\/em> dan Ibrahim:<em>Fredi<\/em> :Apa ya, kepanjangan dari ADVOKAT?Ibrahim : Ada"
+                    },
+                    "responses": [
+                        {
+                            "id": 200542,
+                            "user_id": 82143,
+                            "task_id": 125616,
+                            "points": 25,
+                            "created": "2014-04-10T02:57:06+07:00",
+                            "content": "1. pengertian\/kepanjangan dari advokat yang diplesetkan menjadi Ada Duit Advokasi All Out<br \/>2. Advokat\/Pengacara<br \/>3. Kritikan\/ Sindiran kepada para advokat<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 2,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 82143,
+                                "nick": "meliagalok",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d1d\/93413bde5e7fededc7bd3941086b293a.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 8268195,
+                        "subject_id": 1,
+                        "user_id": 106418,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 20,
+                            "ptsForResp": 10,
+                            "ptsForBest": 5
+                        },
+                        "content": "Bacalah dengan saksama teks berikut!<br \/>\nSekolah RSBI<br \/>\nSuatu hari di suatu SMA.<br \/>\nPak Guru : \u201cAnak-anak, sebentar lagi sekolah kita akan menjadi sekolah RSBI. Berhubung sekolah kita mau jadi RSBI, saya mau tanya kepada kalian, apa yang akan kalian siapkan. Alan, apa persiapan kamu?\u2019<br \/>\nAlan : \u201cHarus banyak makan makanan bergizi Pak, biar sehat.\u201d<br \/>\nPak Guru : \u201cKalau kamu, Fredi?\u201d<br \/>\nFredi : \u201cHarus banyak belajar, Pak.\u201d<br \/>\nPak Guru : \u201cKalau kamu, Muklis?\u201d<br \/>\nMuklis : \u201cHarus banyak duit, Pak. Kalau udah RSBI pasti kita harus bayar lebih mahal.\u201d<br \/><br \/>\nJawablah pertanyaan-pertanyaan berikut berdasarkan stuktur nya !<br \/><br \/>\nAbstraksi :<br \/>\nOrientasi :<br \/>\nKrisis       :<br \/>\nReaksi     :<br \/>\nKoda       :<br \/><br \/>\n2. Pada anekdot tersebut terdapat unsur sindiran. Siapa pihak yang disindir?<br \/>\n3. Dalam anekdot tersebut juga terdapat konjungsi. Sebutkan konjungsi yang dimaksud beserta fungsinya!<br \/>\n4. Apa yang dapat simpulkan isi dari anekdot tersebut?<br \/><br \/><br \/>\nTolong bantuan nya . yang bantu semoga pahala nya bertambah ,dan akan mendapat kan balasan dari tuhan . AMIN.",
+                        "created": "2016-11-07T20:51:31+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2016-11-07T22:18:04+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Bacalah dengan saksama teks berikut!\nSekolah RSBI\nSuatu hari di suatu SMA.\nPak Guru : \u201cAnak-anak, sebentar lagi sekolah kita akan menjadi sekolah RSBI. Berhubung sekolah kita mau jadi RSBI, saya mau tanya kepada kalian, apa yang akan kalian siapkan. Alan, apa persiapan kamu?\u2019\nAlan : \u201cHarus banyak makan makanan bergizi Pak, biar sehat.\u201d\nPak Guru : \u201cKalau kamu, <em>Fredi<\/em>?\u201d\n<em>Fredi<\/em> : \u201cHarus banyak belajar, Pak.\u201d\nPak Guru : \u201cKalau kamu, Muklis?\u201d\nMuklis : \u201cHarus banyak duit, Pak. Kalau udah RSBI pasti kita harus bayar lebih mahal.\u201d\nJawablah pertanyaan-pertanyaan berikut berdasarkan stuktur nya !\nAbstraksi :\nOrientasi :\nKrisis       :\nReaksi     :\nKoda       :\n2. Pada anekdot tersebut terdapat unsur sindiran. <em>Siapa<\/em> pihak yang disindir?\n3. Dalam anekdot tersebut juga terdapat konjungsi. Sebutkan konjungsi yang dimaksud beserta fungsinya!\n4. Apa yang dapat simpulkan isi dari anekdot tersebut?\nTolong bantuan nya . yang bantu semoga pahala nya bertambah ,dan akan mendapat kan balasan dari tuhan . AMIN.",
+                        "snippet_content": "banyak makan makanan bergizi Pak, biar sehat.\u201d\nPak Guru : \u201cKalau kamu, <em>Fredi<\/em>?\u201d\n<em>Fredi<\/em> : \u201cHarus banyak belajar, Pak.\u201d\nPak Guru : \u201cKalau kamu, Muklis"
+                    },
+                    "responses": [
+                        {
+                            "id": 9813076,
+                            "user_id": 203745,
+                            "task_id": 8268195,
+                            "points": 10,
+                            "created": "2016-11-07T22:18:04+07:00",
+                            "content": "Pada anekdot tersebut terdapat unsur sindiran. Pihak yang disindir yaitu\u00a0Alan dan Fredy . Karena hal yang mereka siapkan untuk menjadi sekolah RSBI adalah makan banyak banyak dan belajar. Jika hanya makan dan belajar itu akan berpengaruh pada keuangan untuk membayar sekolahnya.\u00a0<br \/><br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 203745,
+                                "nick": "Arum12",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d4d\/3b940ff225bc0dcc30e68b12250afa42.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 8053837,
+                        "subject_id": 1,
+                        "user_id": 421973,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 20,
+                            "ptsForResp": 10,
+                            "ptsForBest": 5
+                        },
+                        "content": "Bacalah dengan saksama teks berikut!<br \/>\n       Sekolah RSBI<br \/>\n      Suatu hari di suatu SMA.<br \/>\n      Pak Guru   :     \u201cAnak-anak, sebentar lagi sekolah kita akan menjadi sekolah RSBI. Berhubung sekolah kita mau jadi RSBI, saya mau tanya kepada kalian, apa yang akan kalian siapkan. Alan, apa persiapan kamu?\u2019<br \/>\n      Alan           :     \u201cHarus banyak makan makanan bergizi Pak, biar sehat.\u201d<br \/>\n      Pak Guru   :     \u201cKalau kamu, Fredi?\u201d<br \/>\n      Fredi          :     \u201cHarus banyak belajar, Pak.\u201d<br \/>\n      Pak Guru   :     \u201cKalau kamu, Muklis?\u201d<br \/>\n      Muklis        :     \u201cHarus banyak duit, Pak. Kalau udah RSBI pasti kita harus bayar lebih mahal.\u201d<br \/><br \/>\n      Jawablah pertanyaan-pertanyaan berikut!<br \/>\n      1.   Identifikasilah anekdot tersebut dengan melengkapi diagram berikut.<br \/>\nAbstraksi<br \/>\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026<br \/>\nOrientasi<br \/>\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026<br \/>\nKrisis<br \/>\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026<br \/>\nReaksi<br \/>\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026<br \/>\nKoda<br \/>\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026<br \/>\n      2.   Pada anekdot tersebut terdapat unsur sindiran. Siapa pihak yang disindir?<br \/>\n      3.   Dalam anekdot tersebut juga terdapat konjungsi. Sebutkan konjungsi yang dimaksud beserta fungsinya!<br \/>\n      4.   Apa yang dapat simpulkan isi dari anekdot tersebut?",
+                        "created": "2016-10-25T19:23:40+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2016-10-25T19:32:43+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Bacalah dengan saksama teks berikut!\n       Sekolah RSBI\n      Suatu hari di suatu SMA.\n      Pak Guru   :     \u201cAnak-anak, sebentar lagi sekolah kita akan menjadi sekolah RSBI. Berhubung sekolah kita mau jadi RSBI, saya mau tanya kepada kalian, apa yang akan kalian siapkan. Alan, apa persiapan kamu?\u2019\n      Alan           :     \u201cHarus banyak makan makanan bergizi Pak, biar sehat.\u201d\n      Pak Guru   :     \u201cKalau kamu, <em>Fredi<\/em>?\u201d\n      <em>Fredi<\/em>          :     \u201cHarus banyak belajar, Pak.\u201d\n      Pak Guru   :     \u201cKalau kamu, Muklis?\u201d\n      Muklis        :     \u201cHarus banyak duit, Pak. Kalau udah RSBI pasti kita harus bayar lebih mahal.\u201d\n      Jawablah pertanyaan-pertanyaan berikut!\n      1.   Identifikasilah anekdot tersebut dengan melengkapi diagram berikut.\nAbstraksi\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\nOrientasi\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\nKrisis\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\nReaksi\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\nKoda\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\n      2.   Pada anekdot tersebut terdapat unsur sindiran. <em>Siapa<\/em> pihak yang disindir?\n      3.   Dalam anekdot tersebut juga terdapat konjungsi. Sebutkan konjungsi yang dimaksud beserta fungsinya!\n      4.   Apa yang dapat simpulkan isi dari anekdot tersebut?",
+                        "snippet_content": "banyak makan makanan bergizi Pak, biar sehat.\u201d\n      Pak Guru   :     \u201cKalau kamu, <em>Fredi<\/em>?\u201d\n      <em>Fredi<\/em>          :     \u201cHarus banyak belajar, Pak.\u201d\n      Pak Guru   :     \u201cKalau kamu, Muklis"
+                    },
+                    "responses": [
+                        {
+                            "id": 9562404,
+                            "user_id": 4006856,
+                            "task_id": 8053837,
+                            "points": 10,
+                            "created": "2016-10-25T19:32:43+07:00",
+                            "content": "Subekter kon wis mari a? #kentung\n",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 0,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4006856,
+                                "nick": "andre3105",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d74\/fa674297032734b96001574637c3bf59.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10451712,
+                        "subject_id": 2,
+                        "user_id": 4918151,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Setelah 8 bulan, uang tabungan Fredi di bank berjumlah Rp 2.592.000. Bank tersebut memberi jasa simpanan bunga sebesar 12% per tahun. Besar tabungan awal Fredi adalh?",
+                        "created": "2017-04-28T19:19:15+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-04-28T19:23:57+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Setelah 8 bulan, uang tabungan <em>Fredi<\/em> di bank berjumlah Rp 2.592.000. Bank tersebut memberi jasa <em>simpa<\/em>nan bunga sebesar 12% per tahun. Besar tabungan awal <em>Fredi<\/em> adalh?",
+                        "snippet_content": "Setelah 8 bulan, uang tabungan <em>Fredi<\/em> di bank berjumlah Rp 2.592.000. Bank tersebut memberi jasa <em>simpa<\/em>nan bunga sebesar 12% per"
+                    },
+                    "responses": [
+                        {
+                            "id": 12627742,
+                            "user_id": 4958745,
+                            "task_id": 10451712,
+                            "points": 5,
+                            "created": "2017-04-28T19:23:57+07:00",
+                            "content": "8 bulan=8%<br \/>2.592.000\u00d78\/100=2.380.000",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4958745,
+                                "nick": "FADHILAHFR",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d94\/000997301c31242fb68d340107bd8714.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 8903923,
+                        "subject_id": 1,
+                        "user_id": 3278924,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Kegiatan Pascates<br \/>\n(Sumaryo)<br \/><br \/>\n(Beberapa siswa duduk di ruang OSIS. Ada yang membaca, mengetik, duduk santai, dan sebagian asyik berdebat. Saat itu, tidak ada pelajaran karena tes baru saja berakhir dan pengurus OSIS sedang mempersiapkan segala sesuatu untuk menyukseskan classmeeting). <br \/><br \/>\nBirowo: Hai, asyik sekali. Sedang apa kalian ? <br \/><br \/>\nFredo : ini kami sedang mempersiapkan pertandingan antarkelas biar sukses.<br \/><br \/>\n Birowo: Kalau boleh, saya usul agar pertandingan antarkelas ini diganti kegiatan lain saja biar tidak menjenuhkan. Sebab, setiap akhir caturwulan, kita, kan, sudah mengadakan classmeeting. Aku.\u2026 <br \/><br \/>\nRirin : (langsung memotong pembicaraan dan menyela dengan keras dan intonasi tinggi) Ah... kau ini ada-ada saja, saya tidak setuju usulmu Habis, biasanya kamu senang mencari ulah dan mengganggu saia! Tak mungkin engkau dapat memberikan ide yang cemerlang. <br \/><br \/>\nDedi : (Menangani dengan sabar dan tegas) Sabar dam, Rin, siapa tahu pendapat Birowo merupakan ide segar. Silakan lanjutkan, Wo\u2026. <br \/><br \/>\nBirowo: Terima kasih. Begini, saya mengusulkan agar kegiatan ini diisi dengan mendaki gunung. Dengan mendaki gunung dan lintas alam, kita akan lebih akrab dengan lingkungan, lebih mencintai alam, dan terlebih dapat ikut melestarikan alam yang telah banyak mengalami kerusakan. Di sekolah kita, kan, banyak siswa yang memiliki hobi panjat gunung dan lintas alam. Dengan demikian, kegiatan juga merupakan penyaluran hobi yang positif. Seiain itu, panjat gunung ini juga dapat dijadikan saran mawas diri agar kita lebih mensyukuri karunia-Nya.<br \/><br \/>\nRini : Wah sok pintar! Apapun alasannya, aku menolak usuimu. Bagaimanapun, classmeeting ini banyak memiliki nilai tambah. Kita dapat lebih santai, biaya murah meriah, tidak perlu pergi jauh-jauh untuk lebih mengakrabkan persahabatan, dan hampir dapat dinikmati oleh semua siswa. Sudahlah, masih banyak kelebihan lainnya. Kalau Birowo tidak setuju, biar saja dia tidak ikut. <br \/><br \/>\nFreda : Ramai sekali perdebatan pagi ini. Hati boleh panas, tapi kepala harus tetap dingin.<br \/><br \/>\nRini : Langsung saja Fred, bagaimana pendapatmu? <br \/><br \/>\nFredo : Ya galak amat, maaf, ya.. (sambil tersenyum) Begini, saya pikir, pendapat Birowo, teman kita ini, bagus juga. Rekan kita banyak yang hobi mendaki gunung dan pecinta alam Lagi pula kegiatan itu memang merupakan olahraga segar dan menantang, sesuai dengan jiwa remaja Namun, kita juga perlu mengingat sebagian besar rekan kita belum pernah mendaki gunung, padahal mendaki gunung memerlukan persiapan yang matang\", baik fisik maupun psikis. Kita, kan, juga tidak bisa memaksakan mereka harus ikut mendaki gunung. <br \/><br \/>\nDedi : iya .. .\u2026ya .Lagi pula, sekarang musim hujan. Berbahaya jika dipaksakan mendaki gunung. Bagi yang siap, memang tidak begitu menjadi masalah <br \/><br \/>\nBirowo : Lalu\u2026 .? <br \/><br \/>\nDedi : Bagaimana seumpama ide-ide kita tadi diramu? Acara classmeeting tetap berjalan seperti rencana karena selain merupakan program sekolah, juga memang banyak nilai positifnya. Begitu juga acara panjat gunung dan lintas alam yang tetap kudukung. Hanya pelaksanaannya kita alihkan setelah penerimaan rapor. Kan, sebentar lagi libur caturwulan.<br \/><br \/>\nDedi : Tepat sekali. Sekolah kita memiliki kelompok lintas alam dan panjat gunung yang juga dapat mengharumkan nama almamater. Bagaimana kalau kita matangkan rencana ini? \" <br \/><br \/>\nRini : Kalau memang begitu alasannya, aku bisa menerima. Namun, aku atau teman yang lain jangan dipaksa ikut panjat gunung, lho. Ngeri rasanya. Takut dan tidak kuat. <br \/><br \/>\nBirowo: Rasa-rasanya benar juga. Jika demikian, rencana tetap kita susun, tetapi yang  ikut lintas alam dan panjat gunung hanya yang berminat saja. itupun kalau memang fisik dan mental peserta sudah terlatih Demi keamanan, teman yang lain nanti dulu saja. Juga kau, Rin.. , jangan-jangan, nanti kalau ikut. malah pingsan. Nanti aku yang repot (Sambil tertawa) ' <br \/><br \/>\nRini : ih,... tak usah, ya.... <br \/><br \/>\nFreda:; Baik, mari kita susun yang matang rencana bersama ini biar sukses. <br \/><br \/><br \/>\nA.\tCarilah Tema, Amanat, Plot\/Alur, Karakter, Dialog, Latar, Bahasa, dan Interpelasi dari Naskah Drama Tersebut<br \/>",
+                        "created": "2017-01-03T15:16:20+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2017-01-03T15:21:12+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Kegiatan Pascates\n(Sumaryo)\n(Beberapa siswa duduk di ruang OSIS. Ada yang membaca, mengetik, duduk santai, dan sebagian asyik berdebat. Saat itu, tidak ada pelajaran karena tes baru saja berakhir dan pengurus OSIS sedang mempersiapkan segala sesuatu untuk menyukseskan classmeeting). \nBirowo: Hai, asyik sekali. Sedang apa kalian ? \n<em>Fredo<\/em> : ini kami sedang mempersiapkan pertandingan antarkelas biar sukses.\n Birowo: Kalau boleh, saya usul agar pertandingan antarkelas ini diganti kegiatan lain saja biar tidak menjenuhkan. Sebab, setiap akhir caturwulan, kita, kan, sudah mengadakan classmeeting. Aku.\u2026 \nRirin : (langsung memotong pembicaraan dan menyela dengan keras dan intonasi tinggi) Ah... kau ini ada-ada saja, saya tidak setuju usulmu Habis, biasanya kamu senang mencari ulah dan mengganggu saia! Tak mungkin engkau dapat memberikan ide yang cemerlang. \nDedi : (Menangani dengan sabar dan tegas) Sabar dam, Rin, <em>siapa<\/em> tahu pendapat Birowo merupakan ide segar. Silakan lanjutkan, Wo\u2026. \nBirowo: Terima kasih. Begini, saya mengusulkan agar kegiatan ini diisi dengan mendaki gunung. Dengan mendaki gunung dan lintas alam, kita akan lebih akrab dengan lingkungan, lebih mencintai alam, dan terlebih dapat ikut melestarikan alam yang telah banyak mengalami kerusakan. Di sekolah kita, kan, banyak siswa yang memiliki hobi panjat gunung dan lintas alam. Dengan demikian, kegiatan juga merupakan penyaluran hobi yang positif. Seiain itu, panjat gunung ini juga dapat dijadikan saran mawas diri agar kita lebih mensyukuri karunia-Nya.\nRini : Wah sok pintar! Apapun alasannya, aku menolak usuimu. Bagaimanapun, classmeeting ini banyak memiliki nilai tambah. Kita dapat lebih santai, biaya murah meriah, tidak perlu pergi jauh-jauh untuk lebih mengakrabkan persahabatan, dan hampir dapat dinikmati oleh semua siswa. Sudahlah, masih banyak kelebihan lainnya. Kalau Birowo tidak setuju, biar saja dia tidak ikut. \nFreda : Ramai sekali perdebatan pagi ini. Hati boleh panas, tapi kepala harus tetap dingin.\nRini : Langsung saja Fred, bagaimana pendapatmu? \n<em>Fredo<\/em> : Ya galak amat, maaf, ya.. (sambil tersenyum) Begini, saya pikir, pendapat Birowo, teman kita ini, bagus juga. Rekan kita banyak yang hobi mendaki gunung dan pecinta alam Lagi pula kegiatan itu memang merupakan olahraga segar dan menantang, sesuai dengan jiwa remaja Namun, kita juga perlu mengingat sebagian besar rekan kita belum pernah mendaki gunung, padahal mendaki gunung memerlukan persiapan yang matang\", baik fisik maupun psikis. Kita, kan, juga tidak bisa memaksakan mereka harus ikut mendaki gunung. \nDedi : iya .. .\u2026ya .Lagi pula, sekarang musim hujan. Berbahaya jika dipaksakan mendaki gunung. Bagi yang siap, memang tidak begitu menjadi masalah \nBirowo : Lalu\u2026 .? \nDedi : Bagaimana seumpama ide-ide kita tadi diramu? Acara classmeeting tetap berjalan seperti rencana karena selain merupakan program sekolah, juga memang banyak nilai positifnya. Begitu juga acara panjat gunung dan lintas alam yang tetap kudukung. Hanya pelaksanaannya kita alihkan setelah penerimaan rapor. Kan, sebentar lagi libur caturwulan.\nDedi : Tepat sekali. Sekolah kita memiliki kelompok lintas alam dan panjat gunung yang juga dapat mengharumkan nama almamater. Bagaimana kalau kita matangkan rencana ini? \" \nRini : Kalau memang begitu alasannya, aku bisa menerima. Namun, aku atau teman yang lain jangan dipaksa ikut panjat gunung, lho. Ngeri rasanya. Takut dan tidak kuat. \nBirowo: Rasa-rasanya benar juga. Jika demikian, rencana tetap kita susun, tetapi yang  ikut lintas alam dan panjat gunung hanya yang berminat saja. itupun kalau memang fisik dan mental peserta sudah terlatih Demi keamanan, teman yang lain nanti dulu saja. Juga kau, Rin.. , jangan-jangan, nanti kalau ikut. malah pingsan. Nanti aku yang repot (Sambil tertawa) ' \nRini : ih,... tak usah, ya.... \nFreda:; Baik, mari kita susun yang matang rencana bersama ini biar sukses. \nA.\tCarilah Tema, Amanat, Plot\/Alur, Karakter, Dialog, Latar, Bahasa, dan Interpelasi dari Naskah Drama Tersebut",
+                        "snippet_content": "sesuatu untuk menyukseskan classmeeting). \nBirowo: Hai, asyik sekali. Sedang apa kalian ? \n<em>Fredo<\/em> : ini kami sedang mempersiapkan pertandingan antarkelas biar sukses.\n Birowo: Kalau"
+                    },
+                    "responses": [
+                        {
+                            "id": 10645155,
+                            "user_id": 4329948,
+                            "task_id": 8903923,
+                            "points": 5,
+                            "created": "2017-01-03T15:21:12+07:00",
+                            "content": "beauty with a purpose",
+                            "mark": 4,
+                            "marks_count": 1,
+                            "thanks": 0,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 10645388,
+                            "user_id": 4336082,
+                            "task_id": 8903923,
+                            "points": 5,
+                            "created": "2017-01-03T15:57:06+07:00",
+                            "content": "tema osis menyelanggarakan pertandingan antar kls",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4329948,
+                                "nick": "brian147",
+                                "avatar": null
+                            },
+                            {
+                                "id": 4336082,
+                                "nick": "FAUZISVNZ",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 3446613,
+                        "subject_id": 1,
+                        "user_id": 1813854,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 25,
+                            "ptsForResp": 13,
+                            "ptsForBest": 7
+                        },
+                        "content": " Ubahlah teks anekdot dibawah ini dengan menggantinya menjadi kalimat tidak langsung dan buatlah dengan kalimat anda sendiri!<br \/>\nSekolah RSBI<br \/>\nSuatu hari di suatu SMA.<br \/>\nPak Guru : \"Anak-anak, sebentar lagi sekolah kita akan menjadi sekolah RSBI. Berhubung sekolah kita mau jadi sekolah RSBI, saya mau tanya kepada kalian, apa yang akan kalian siapkan. Alan, apa persiapan kamu?<br \/>\nAlan : \"Harus banyak makan makanan bergizi Pak, biar sehat.\"<br \/>\nPak Guru : \"Kalo kamu, Fredi?\"<br \/>\nFredi ; \"Harus banyak belajar, Pak.\"<br \/>\nPak Guru : \"Kalo kamu, Muklis?\"<br \/>\nMuklis : \"Harus banyak duit, Pak. Kalau udah RSBI pasti kita harus bayar lebih mahal.\" ",
+                        "created": "2015-09-11T19:27:18+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2015-09-11T19:49:44+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": " Ubahlah teks anekdot dibawah ini dengan menggantinya menjadi kalimat tidak langsung dan buatlah dengan kalimat anda sendiri!\nSekolah RSBI\nSuatu hari di suatu SMA.\nPak Guru : \"Anak-anak, sebentar lagi sekolah kita akan menjadi sekolah RSBI. Berhubung sekolah kita mau jadi sekolah RSBI, saya mau tanya kepada kalian, apa yang akan kalian <em>siapka<\/em>n. Alan, apa persiapan kamu?\nAlan : \"Harus banyak makan makanan bergizi Pak, biar sehat.\"\nPak Guru : \"Kalo kamu, <em>Fredi<\/em>?\"\n<em>Fredi<\/em> ; \"Harus banyak belajar, Pak.\"\nPak Guru : \"Kalo kamu, Muklis?\"\nMuklis : \"Harus banyak duit, Pak. Kalau udah RSBI pasti kita harus bayar lebih mahal.\" ",
+                        "snippet_content": "banyak makan makanan bergizi Pak, biar sehat.\"\nPak Guru : \"Kalo kamu, <em>Fredi<\/em>?\"\n<em>Fredi<\/em> ; \"Harus banyak belajar, Pak.\"\nPak Guru : \"Kalo kamu, Muklis"
+                    },
+                    "responses": [
+                        {
+                            "id": 4201517,
+                            "user_id": 1831912,
+                            "task_id": 3446613,
+                            "points": 13,
+                            "created": "2015-09-11T19:49:44+07:00",
+                            "content": "Suatu hari di suatu SMA. seorang guru bertanya kepada murid muridnya, \"anak anak sebentar lagi sekolah kita akan menjadi sekolah RSBI. saya bertanya kepada kalian. Apa yang",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2015-09-15T14:10:01+07:00",
+                                "approver": {
+                                    "id": 1678638,
+                                    "nickname": "Hannanurindah",
+                                    "points": 34870,
+                                    "grade": 3,
+                                    "gender": 1,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/d49\/f1146315dcfa999c7a06479230779919.jpg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/db1\/4ebb5d20131a61c6f13894fb30517bf7.jpg"
+                                    },
+                                    "content_approved_count": 3251
+                                }
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 2636441,
+                                        "user_id": 1831912,
+                                        "content": "kalian persiapkan?\" seorang siswa bernama alan menjawab \"harus banyak makan makanan bergizi pak, biar sehat\" guru itu bertanya pada siswa lain, dan fredi menjawab \"banyak pelajar pak\". muklis pun juga ditanya oleh guru tersebut, lalu ia menjawab \"Harus banyak duit pak. kalau udah RSBI pasti biayanya lebih mahal\".",
+                                        "created": "2015-09-11T19:55:25+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 2636449,
+                                        "user_id": 1831912,
+                                        "content": "semoga membantu :)",
+                                        "created": "2015-09-11T19:55:49+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 2636800,
+                                        "user_id": 1813854,
+                                        "content": "ya sAMA2.",
+                                        "created": "2015-09-11T20:13:42+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 3
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1831912,
+                                "nick": "DyahRamadhani1",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dad\/b48ad6822bccbdd33bb279300ad9e250.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 9677391,
+                        "subject_id": 1,
+                        "user_id": 4185565,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Topi Seleksi<br \/>pintu langsung membuka seorang penyihir wanita Jangkung memakai jubah hijau Zamrud berdiri di sana wajahnya sangat galak dan pikiran pertama adalah jangan sampai membuat penyihir ini marah kelas 1 Professor McGonagall kata Hagrid terima kasih Hagrid Biar aku ambil alih sekarang dibukanya pintu lebar-lebar aula di belakang pintu luas kali seluruh rumah keluarga dursley bisa dipindahkan ke situ dinding batunya diterangi obor obor menyala seperti di Greek Gods langit-langitnya tinggi sekali sehingga tak bisa dilihat dan ada tangga pualam megah depan mereka Selamat datang di Hogwarts Kata Profesor McGonagall pesta awal tahun ajaran baru akan segera dimulai tetapi sebelum kalian mengambil tempat duduk di aula besar kalian akan di seleksi masuk rumah asrama mana seleksi Ini upacara yang sangat penting karena selama kalian berada di sini asrama kalian akan menjadi semacam keluarga bagi kalian kalian akan belajar dan satu kelas dengan teman-teman seasrama kalian tidur di asrama kalian dan melewatkan waktu luang di ruang rekreasi asrama Kalian ada 4 asrama di sini Gryffindor hufflepuff ravenclaw dan slytherin masing-masing asrama punya sejarah Luhur dan masing-masing telah menghasilkan penyihir hebat selama kalian di Hogwarts prestasi dan kemenangan kalian akan menambah angka bagi asrama kalian sementara pelanggaran peraturan akan membuat angka asrama kalian dikurangi pada akhir tahun asrama yang berhasil mengumpulkan angka paling banyak akan di Anugrah piala asrama Suatu kehormatan besar Kuharap kalian semua akan membawa kebanggaan bagi asrama menelepon yang akan kalian tempat upacara seleksi akan berlangsung berapa menit lagi di hadapan seluruh penghuni sekolah yang di bawah telinga dan hidung Run yang ada kotoran hitamnya hari dengan gelisah mencoba meratakan rambutnya Aku akan kembali kalau kamu sudah siap menerima kalian Kata Profesor McGonagall tunggu di sini dan jangan ribut dia meninggalkan ruangan Heri menelan ludah bagaimana cara mereka menyeleksi kita masuk asrama tanyanya kepada Ron dengan semacam tes kata Fred prosesnya menyakitkan sekali tapi kurasa dia bergurau hati Heri mencelos tes di depan seluruh sekolah tetapi dia sama sekali tak tahu apa-apa tentang siapa yang harus dilakukannya dia tidak menyangka akan ada tes dia memandang berkeliling dengan cemas dan melihat bahwa anak-anak lain juga sama takutnya tak ada yang banyak bicara kecuali Hermione Granger yang dalam bisikan mengucapkan dengan cepat semua mantra yang telah dipelajarinya dan bertanya-tanya sendiri mantra mana yang akan diperlukannya Harry berusaha keras untuk mendengarkannya ini belum pernah ketika dia harus membawa laporan dari sekolah kepada keluarga dursley bagaimana dia telah mengubahnya menjadi biru matanya diarahkannya ke pintu setiap saat Profesor mc gonaggal agar bisa kembali dan bawahnya menyongsong malapetaka.<br \/><br \/>1.Jelaskan jenis alur yang digunakan, sertakan pula<br \/>-Tahap perkenalan <br \/>-tahap masalah<br \/>-tahap puncak masalah<br \/>-tahap peleraian<br \/>-tahap penyelesaian<br \/>2.sebutkan pelaku-pelaku ceritanya!<br \/>3.jelaskan latart tempat, waktu dan suasana!<br \/>#pliss KA tolong bntuin ya",
+                        "created": "2017-03-03T12:54:11+07:00",
+                        "responses": 2,
+                        "tickets": 4,
+                        "first_resp": "2017-03-03T21:22:34+07:00",
+                        "the_best_resp_id": "11595401",
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Topi Seleksipintu langsung membuka seorang penyihir wanita Jangkung memakai jubah hijau Zamrud berdiri di sana wajahnya sangat galak dan pikiran pertama adalah jangan sampai membuat penyihir ini marah kelas 1 Professor McGonagall kata Hagrid terima kasih Hagrid Biar aku ambil alih sekarang dibukanya pintu lebar-lebar aula di belakang pintu luas kali seluruh rumah keluarga dursley bisa dipindahkan ke situ dinding batunya diterangi obor obor menyala seperti di Greek Gods langit-langitnya tinggi sekali sehingga tak bisa dilihat dan ada tangga pualam megah depan mereka Selamat datang di Hogwarts Kata Profesor McGonagall pesta awal tahun ajaran baru akan segera dimulai tetapi sebelum kalian mengambil tempat duduk di aula besar kalian akan di seleksi masuk rumah asrama mana seleksi Ini upacara yang sangat penting karena selama kalian berada di sini asrama kalian akan menjadi semacam keluarga bagi kalian kalian akan belajar dan satu kelas dengan teman-teman seasrama kalian tidur di asrama kalian dan melewatkan waktu luang di ruang rekreasi asrama Kalian ada 4 asrama di sini Gryffindor hufflepuff ravenclaw dan slytherin masing-masing asrama punya sejarah Luhur dan masing-masing telah menghasilkan penyihir hebat selama kalian di Hogwarts prestasi dan kemenangan kalian akan menambah angka bagi asrama kalian sementara pelanggaran peraturan akan membuat angka asrama kalian dikurangi pada akhir tahun asrama yang berhasil mengumpulkan angka paling banyak akan di Anugrah piala asrama Suatu kehormatan besar Kuharap kalian semua akan membawa kebanggaan bagi asrama menelepon yang akan kalian tempat upacara seleksi akan berlangsung berapa menit lagi di hadapan seluruh penghuni sekolah yang di bawah telinga dan hidung Run yang ada kotoran hitamnya hari dengan gelisah mencoba meratakan rambutnya Aku akan kembali kalau kamu sudah siap menerima kalian Kata Profesor McGonagall tunggu di sini dan jangan ribut dia meninggalkan ruangan Heri menelan ludah bagaimana cara mereka menyeleksi kita masuk asrama tanyanya kepada Ron dengan semacam tes kata <em>Fred<\/em> prosesnya menyakitkan sekali tapi kurasa dia bergurau hati Heri mencelos tes di depan seluruh sekolah tetapi dia sama sekali tak tahu apa-apa tentang <em>siapa<\/em> yang harus dilakukannya dia tidak menyangka akan ada tes dia memandang berkeliling dengan cemas dan melihat bahwa anak-anak lain juga sama takutnya tak ada yang banyak bicara kecuali Hermione Granger yang dalam bisikan mengucapkan dengan cepat semua mantra yang telah dipelajarinya dan bertanya-tanya sendiri mantra mana yang akan diperlukannya Harry berusaha keras untuk mendengarkannya ini belum pernah ketika dia harus membawa laporan dari sekolah kepada keluarga dursley bagaimana dia telah mengubahnya menjadi biru matanya diarahkannya ke pintu setiap saat Profesor mc gonaggal agar bisa kembali dan bawahnya menyongsong malapetaka.1.Jelaskan jenis alur yang digunakan, sertakan pula-Tahap perkenalan -tahap masalah-tahap puncak masalah-tahap peleraian-tahap penyelesaian2.sebutkan pelaku-pelaku ceritanya!3.jelaskan latart tempat, waktu dan suasana!#pliss KA tolong bntuin ya",
+                        "snippet_content": "menyeleksi kita masuk asrama tanyanya kepada Ron dengan semacam tes kata <em>Fred<\/em> prosesnya menyakitkan sekali tapi kurasa dia bergurau hati Heri mencelos"
+                    },
+                    "responses": [
+                        {
+                            "id": 11595020,
+                            "user_id": 4546830,
+                            "task_id": 9677391,
+                            "points": 5,
+                            "created": "2017-03-03T21:22:34+07:00",
+                            "content": "di sekolah, harry cemas, harry menelan ludah karena dia cemas \u00a0harry bertanya tanya karena membaca mantra sangat cepat,<br \/><br \/>harry, mc gonagall,fred hermione greges,hufflepuf,slytherin<br \/>sekolah,masuk ruangan tenang",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 11595401,
+                            "user_id": 4649513,
+                            "task_id": 9677391,
+                            "points": 5,
+                            "created": "2017-03-03T21:38:22+07:00",
+                            "content": "1. alur maju kalau enggak salah namanya<br \/>tahap perkenalannya, saat menceritakan kejadian ketika pintu masuk dibuka dan apa yang disekelilingnya<br \/>tahap masalah saat dia ingin diasramakan<br \/>puncak masalah saat dia menunggu proses seleksi dan bingung dengan situasi<br \/>tahap penyelesaian dia mengatakan beberapa mantra yang dia tau dan mengingat tingkahnya di asrama lama<br \/>2. heri,",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 2,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 6283428,
+                                        "user_id": 4185565,
+                                        "content": "coba ka tulis lgi thapan perkenalannnya",
+                                        "created": "2017-03-03T21:52:18+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 6283449,
+                                        "user_id": 4649513,
+                                        "content": "di komentar aku tadi udah ada kok ku jelasin :)",
+                                        "created": "2017-03-03T21:53:31+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 6283505,
+                                        "user_id": 4185565,
+                                        "content": "ok mksih ya ka",
+                                        "created": "2017-03-03T21:57:42+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 6283510,
+                                        "user_id": 4649513,
+                                        "content": "terima kasih kembali",
+                                        "created": "2017-03-03T21:58:12+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 6283801,
+                                        "user_id": 4185565,
+                                        "content": "ka klo tahap peleraian nya gimna? ko blum ditulis",
+                                        "created": "2017-03-03T22:23:16+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 6283428,
+                                "count": 14
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4546830,
+                                "nick": "reifaldo",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d90\/24596925537ea08bf9cbaecae2fe5516.jpg"
+                            },
+                            {
+                                "id": 4649513,
+                                "nick": "geges06",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d66\/d516f9e2867826cc011826eeb9e94e78.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 4230676,
+                        "subject_id": 4,
+                        "user_id": 2216842,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "siapakah francisco redi",
+                        "created": "2015-11-08T10:39:11+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2015-11-08T10:41:24+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "<em>siapa<\/em>kah francisco <em>redi<\/em>",
+                        "snippet_content": "<em>siapa<\/em>kah francisco <em>redi<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 5003245,
+                            "user_id": 2042734,
+                            "task_id": 4230676,
+                            "points": 5,
+                            "created": "2015-11-08T10:41:24+07:00",
+                            "content": "Seorang Ilmuwan Biologi",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2015-11-10T10:02:11+07:00",
+                                "approver": {
+                                    "id": 1870779,
+                                    "nickname": "DokterSpamBrainly",
+                                    "points": 141430,
+                                    "grade": 1,
+                                    "gender": 2,
+                                    "avatars": null,
+                                    "content_approved_count": 10347
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 5003251,
+                            "user_id": 1075037,
+                            "task_id": 4230676,
+                            "points": 5,
+                            "created": "2015-11-08T10:41:42+07:00",
+                            "content": "Francesco Redi adalah seorang dokter,ahli bedah, dan ilmuanyang terkenal dengan eksperimennya yang menentang teori generasi spontan<br \/>",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 7,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2015-11-10T10:02:06+07:00",
+                                "approver": {
+                                    "id": 1870779,
+                                    "nickname": "DokterSpamBrainly",
+                                    "points": 141430,
+                                    "grade": 1,
+                                    "gender": 2,
+                                    "avatars": null,
+                                    "content_approved_count": 10347
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2042734,
+                                "nick": "Javanese",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d8b\/b298020cba1bbbb6d047724223c65551.jpg"
+                            },
+                            {
+                                "id": 1075037,
+                                "nick": "permatapu3maharani",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d1f\/2ce12ea27ca68f5f77801181e343587a.png"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 5776426,
+                        "subject_id": 4,
+                        "user_id": 2889095,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "dalam menjawab permasalahan tentang asal usul kehidupan,eksperimen siapakah yang cara pelaksanaannya paling cermat jika ditinjau dari metode ilmiah :...<br \/>\na. harold urey<br \/>\nb. stanley miller<br \/>\nc. fransisco redi<br \/>\nd. lazzaro spallanzani<br \/>\ne. louis pasteur",
+                        "created": "2016-04-14T07:15:52+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2016-04-14T07:18:07+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "dalam menjawab permasalahan tentang asal usul kehidupan,eksperimen <em>siapa<\/em>kah yang cara pelaksanaannya paling cermat jika ditinjau dari metode ilmiah :...\na. harold urey\nb. stanley miller\nc. fransisco <em>redi<\/em>\nd. lazzaro spallanzani\ne. louis pasteur",
+                        "snippet_content": "dalam menjawab permasalahan tentang asal usul kehidupan,eksperimen <em>siapa<\/em>kah yang cara pelaksanaannya paling cermat jika ditinjau dari metode ilmiah :...\na. harold urey"
+                    },
+                    "responses": [
+                        {
+                            "id": 6854009,
+                            "user_id": 2877953,
+                            "task_id": 5776426,
+                            "points": 5,
+                            "created": "2016-04-14T07:18:07+07:00",
+                            "content": "Kalau menurutku d.lazarro spallanzani\nmaaf kalau salah",
+                            "mark": 2,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 3958529,
+                                        "user_id": 2889095,
+                                        "content": "makasih mbak.. minta contactnya donk biar bisa sharing \/ tanya tanya",
+                                        "created": "2016-04-14T07:53:15+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2877953,
+                                "nick": "ririnririn922",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d28\/9d72b3cda5cd68da92f6d0884c47c8d0.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 10,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 2234228,
+            "nick": "mira60",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 44,
+                "answers": 2,
+                "comments": 10
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 2234317,
+            "nick": "XavieraAngelica1",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 8,
+                "comments": 5
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d0d\/b520966d922c7d56e670cdbe7104ad2d.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df9\/e4af46df147499518a92ce71503684d3.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d0d\/b520966d922c7d56e670cdbe7104ad2d.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df9\/e4af46df147499518a92ce71503684d3.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 90369,
+            "nick": "avee",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 82143,
+            "nick": "meliagalok",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 397,
+                "comments": 29
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dad\/519ae7e76aa5fd2286e302020d0e98c4.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d1d\/93413bde5e7fededc7bd3941086b293a.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dad\/519ae7e76aa5fd2286e302020d0e98c4.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d1d\/93413bde5e7fededc7bd3941086b293a.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        },
+        {
+            "id": 106418,
+            "nick": "marwa123",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 203745,
+            "nick": "Arum12",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 9,
+                "answers": 24,
+                "comments": 11
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d82\/57a8987093d642b17cc79a1f5fd4eda1.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d4d\/3b940ff225bc0dcc30e68b12250afa42.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d82\/57a8987093d642b17cc79a1f5fd4eda1.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d4d\/3b940ff225bc0dcc30e68b12250afa42.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 421973,
+            "nick": "arik33",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 30,
+                "answers": 11,
+                "comments": 10
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d15\/3cc19cf2217b655c6b6f27b11a0eaf05.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d5e\/644548be92d2bee5682d63033b0df8f0.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d15\/3cc19cf2217b655c6b6f27b11a0eaf05.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d5e\/644548be92d2bee5682d63033b0df8f0.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 4006856,
+            "nick": "andre3105",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 1,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d77\/3b57588fcd30177585d6045396920e73.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d74\/fa674297032734b96001574637c3bf59.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d77\/3b57588fcd30177585d6045396920e73.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d74\/fa674297032734b96001574637c3bf59.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4918151,
+            "nick": "SiaoPhen68",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d36\/c53388eb95fe76b027182b9b0fbce96e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d4a\/5904a99469776a3d07dda21b52a8d28f.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d36\/c53388eb95fe76b027182b9b0fbce96e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d4a\/5904a99469776a3d07dda21b52a8d28f.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4958745,
+            "nick": "FADHILAHFR",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 48,
+                "answers": 72,
+                "comments": 45
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d1a\/b55133cef5e50aac2c7c7bd15007f40b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d94\/000997301c31242fb68d340107bd8714.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d1a\/b55133cef5e50aac2c7c7bd15007f40b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d94\/000997301c31242fb68d340107bd8714.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 3278924,
+            "nick": "BachtiarAlfiansyah",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/daa\/304a5a805e0fba627efc1bd6993241b9.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d28\/5e724e328c60b8d1a59ce60d412fe0b5.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/daa\/304a5a805e0fba627efc1bd6993241b9.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d28\/5e724e328c60b8d1a59ce60d412fe0b5.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4329948,
+            "nick": "brian147",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 8,
+                "answers": 14,
+                "comments": 3
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4336082,
+            "nick": "FAUZISVNZ",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 14,
+                "comments": 8
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 1813854,
+            "nick": "filandaMM",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 82,
+                "answers": 71,
+                "comments": 32
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d3c\/0f1328650bcd7c9d7e73bccea5fa136d.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ddb\/992df863af96fb1fc20ec1b99d691c17.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d3c\/0f1328650bcd7c9d7e73bccea5fa136d.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ddb\/992df863af96fb1fc20ec1b99d691c17.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 1831912,
+            "nick": "DyahRamadhani1",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 13,
+                "answers": 91,
+                "comments": 46
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d37\/84b3660f0b6c77e04a91c4cf9badf91c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dad\/b48ad6822bccbdd33bb279300ad9e250.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d37\/84b3660f0b6c77e04a91c4cf9badf91c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dad\/b48ad6822bccbdd33bb279300ad9e250.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 4185565,
+            "nick": "antikhairi",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 279,
+                "answers": 206,
+                "comments": 197
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da2\/30ca73a18f38c2212f400915f12f6a90.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d1d\/0fa1609e5e402d11c4a7cb8da7f03e62.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da2\/30ca73a18f38c2212f400915f12f6a90.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d1d\/0fa1609e5e402d11c4a7cb8da7f03e62.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 4546830,
+            "nick": "reifaldo",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 9,
+                "answers": 84,
+                "comments": 153
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de3\/4b9efeb095dc23ed38f9bd8e196bba37.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d90\/24596925537ea08bf9cbaecae2fe5516.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de3\/4b9efeb095dc23ed38f9bd8e196bba37.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d90\/24596925537ea08bf9cbaecae2fe5516.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 4649513,
+            "nick": "geges06",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 159,
+                "comments": 34
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d74\/8867b0bff30de42414149df89cad4fcd.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d66\/d516f9e2867826cc011826eeb9e94e78.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d74\/8867b0bff30de42414149df89cad4fcd.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d66\/d516f9e2867826cc011826eeb9e94e78.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 2216842,
+            "nick": "bila89",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 9,
+                "answers": 0,
+                "comments": 1
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 2042734,
+            "nick": "Javanese",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 331,
+                "comments": 5
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d6f\/1e66065290ebaf84870da65ab38fc94f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d8b\/b298020cba1bbbb6d047724223c65551.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d6f\/1e66065290ebaf84870da65ab38fc94f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d8b\/b298020cba1bbbb6d047724223c65551.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 1075037,
+            "nick": "permatapu3maharani",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 56,
+                "answers": 8649,
+                "comments": 1434
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da6\/646a2c26bf9456ae7b40a14bc862fe5d.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d1f\/2ce12ea27ca68f5f77801181e343587a.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da6\/646a2c26bf9456ae7b40a14bc862fe5d.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d1f\/2ce12ea27ca68f5f77801181e343587a.png"
+            },
+            "ranks": {
+                "color": "#ffbe32",
+                "names": [
+                    "Supervisor",
+                    "Junior",
+                    "O-ADVENTURER-O",
+                    "BrainlyBlogger",
+                    "KsatriaBrainly",
+                    "Moderator",
+                    "Mentor",
+                    "Best Active",
+                    "Jenius"
+                ],
+                "count": 9
+            },
+            "ranks_ids": [
+                33,
+                15,
+                94,
+                84,
+                23,
+                19,
+                51,
+                53,
+                7
+            ]
+        },
+        {
+            "id": 2889095,
+            "nick": "WnSch",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 1,
+                "comments": 1
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 2877953,
+            "nick": "ririnririn922",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 8,
+                "answers": 28,
+                "comments": 6
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d6e\/d256d8e0c91f6e5b17c1bd9adc48b822.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d28\/9d72b3cda5cd68da92f6d0884c47c8d0.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d6e\/d256d8e0c91f6e5b17c1bd9adc48b822.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d28\/9d72b3cda5cd68da92f6d0884c47c8d0.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        }
+    ],
+    "validated": false
+}

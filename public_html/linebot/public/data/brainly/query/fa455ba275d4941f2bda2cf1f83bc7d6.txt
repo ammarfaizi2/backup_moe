@@ -1,0 +1,966 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 10701054,
+                        "subject_id": 20,
+                        "user_id": 5057040,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "jodoh saya siapa? tolong jawab itu tugas masa depan.",
+                        "created": "2017-05-18T15:29:23+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2017-05-18T15:30:16+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "<em>jodoh<\/em> <em>saya<\/em> <em>siapa<\/em>? tolong jawab itu tugas masa depan.",
+                        "snippet_content": "<em>jodoh<\/em> <em>saya<\/em> <em>siapa<\/em>? tolong jawab itu tugas masa depan."
+                    },
+                    "responses": [
+                        {
+                            "id": 12970022,
+                            "user_id": 4380637,
+                            "task_id": 10701054,
+                            "points": 5,
+                            "created": "2017-05-18T15:30:16+07:00",
+                            "content": "mimi peri atau dijah yellow bebas pilih",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 7113444,
+                                        "user_id": 4920118,
+                                        "content": "spranti mau?",
+                                        "created": "2017-05-18T15:36:11+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        },
+                        {
+                            "id": 12970058,
+                            "user_id": 4956622,
+                            "task_id": 10701054,
+                            "points": 5,
+                            "created": "2017-05-18T15:31:41+07:00",
+                            "content": "jodoh sudah tuhan yang ngatur<br \/>jangan sibuk mencari,tidak ada manusia yng tau siapa jodohnya.<br \/><br \/>kalau tau mungkin itu ramalan jangan dipercaya.<br \/><br \/>PERCAYA PADA TUHAN MASING\"",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 2,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4380637,
+                                "nick": "seokya",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d6f\/8406bec9ff4aefc16d93537dfba88080.jpg"
+                            },
+                            {
+                                "id": 4956622,
+                                "nick": "MeryPAstriyanti544",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d58\/41c5f69aaca99823cf6f1833d3829473.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 7743915,
+                        "subject_id": 1,
+                        "user_id": 602369,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 15,
+                            "ptsForResp": 8,
+                            "ptsForBest": 4
+                        },
+                        "content": "tolong buati 5 amanat dari cerpen juru masak tapi dari kata yang ada tanda kutipannya\u201c\u201c<br \/><br \/>\n                                                       Juru masak<br \/>\nPerhelatan bisa kacau tanpa kehadiran lelaki itu. Gulai Kambing akan terasa hambar lantaran racikan bumbu tak meresap ke dalam daging. Kuah Gulai Kentang dan Gulai Rebung bakal encer karena keliru menakar jumlah kelapa parut hingga setiap menu masakan kekurangan santan. Akibatnya, berseraklah gunjing dan cela yang mesti ditanggung tuan rumah, bukan karena kenduri kurang meriah, tidak pula karena pelaminan tempat bersandingnya pasangan pengantin tak sedap dipandang mata, tapi karena macam-macam hidangan yang tersuguh tak menggugah selera. Nasi banyak gulai melimpah, tapi helat tak bikin kenyang. Ini celakanya bila Makaji, juru masak handal itu tak dilibatkan.<br \/><br \/>\n\u201cKalau besok Gulai Nangka masih sehambar hari ini, kenduri tak usah dilanjutkan!\u201d ancam Sutan Basabatuah, penghulu tinggi dari keluarga Rustamadji.<br \/><br \/>\n\u201cApa susahnya mendatangkan Makaji?\u201d<br \/><br \/>\n\u201cPercuma bikin helat besar-besaran bila menu yang terhidang hanya bikin malu.\u201d<br \/><br \/>\n\u201cSeparuh umur Ayah sudah habis untuk membantu setiap kenduri di kampung ini, bagaimana kalau tanggungjawab itu dibebankan pada yang lebih muda?\u201d saran Azrial, putra sulung Makaji sewaktu ia pulang kampung enam bulan lalu.<br \/><br \/>\n\u201cMungkin sudah saatnya Ayah berhenti,\u201d<br \/><br \/>\n\u201cBelum! Akan Ayah pikul beban ini hingga tangan Ayah tak lincah lagi meracik bumbu,\u201d balas Makaji waktu itu.<br \/><br \/>\n\u201cKalau memang masih ingin jadi juru masak, bagaimana kalau Ayah jadi juru masak di salah satu Rumah Makan milik saya di Jakarta? Saya tak ingin lagi berjauhan dengan Ayah,\u201d<br \/><br \/>\n\u201cBeri Ayah kesempatan satu kenduri lagi!\u201d<br \/><br \/>\n\u201cKenduri siapa?\u201d tanya Azrial.<br \/><br \/>\n\u201cMangkudun. Anak gadisnya baru saja dipinang orang. Sudah terlanjur Ayah sanggupi, malu kalau tiba-tiba dibatalkan,\u201d<br \/><br \/>\nMasih segar dalam ingatan Azrial, waktu itu Renggogeni hampir tamat dari akademi perawat di kota, tak banyak orang Lareh Panjang yang bisa bersekolah tinggi seperti Renggogeni. Perempuan kuning langsat pujaan Azrial itu benar-benar akan menjadi seorang juru rawat. Sementara Azrial bukan siapa-siapa, hanya tamatan madrasah aliyah yang sehari-hari bekerja honorer sebagai sekretaris di kantor kepala desa. Ibarat emas dan loyang perbedaan mereka.<br \/><br \/>\n\u201cBahkan bila ia jadi kepala desa pun, tak sudi saya punya menantu anak juru masak!\u201d bentak Mangkudun, dan tak lama berselang berita ini berdengung juga di kuping Azrial.<br \/><br \/>\n\u201cDia laki-laki taat, jujur, bertanggungjawab. Renggo yakin kami berjodoh,\u201d<br \/><br \/>\n\u201cApa kau bilang? Jodoh? Saya tidak rela kau berjodoh dengan Azrial. Akan saya carikan kau jodoh yang lebih bermartabat!\u201d<br \/><br \/>\n\u201cApa dia salah kalau ayahnya hanya juru masak?\u201d<br \/><br \/>\n\u201cJatuh martabat keluarga kita bila laki-laki itu jadi suamimu. Paham kau?\u201d<br \/><br \/>\nMangkudun benar-benar menepati janji pada Renggogeni, bahwa ia akan carikan jodoh yang sepadan dengan anak gadisnya itu, yang jauh lebih bermartabat. Tengoklah, Renggogeni kini tengah bersanding dengan Yusnaldi, perwira muda polisi yang bila tidak \u2018macam-macam\u2019 tentu karirnya lekas menanjak. Duh, betapa beruntungnya keluarga besar Mangkudun. Tapi, pesta yang digelar dengan menyembelih tiga ekor kerbau jantan dan tujuh ekor kambing itu tak begitu ramai dikunjungi. Orang-orang Lareh Panjang hanya datang di hari pertama, sekedar menyaksikan benda-benda pusaka adat yang dikeluarkan untuk menyemarakkan kenduri, setelah itu mereka berbalik meninggalkan helat, bahkan ada yang belum sempat mencicipi hidangan tapi sudah tergesa pulang.<br \/><br \/>\n\u201cGulai Kambingnya tak ada rasa,\u201d bisik seorang tamu.<br \/><br \/>\n\u201cKuah Gulai Rebungnya encer seperti kuah sayur Toge. Kembung perut kami dibuatnya,\u201d<br \/>\n\u201cDagingnya keras, tidak kempuh. Bisa rontok gigi awak dibuatnya,\u201d<br \/><br \/>\n\u201cMasakannya tak mengeyangkan, tak mengundang selera.\u201d<br \/><br \/>\n\u201cPasti juru masaknya bukan Makaji!\u201d<br \/><br \/>\nMakin ke ujung, kenduri makin sepi. Rombongan pengantar mempelai pria diam-diam juga kecewa pada tuan rumah, karena mereka hanya dijamu dengan menu masakan yang asal-asalan, kurang bumbu, kuah encer dan daging yang tak kempuh. Padahal mereka bersemangat datang karena pesta perkawinan di Lareh Panjang punya keistimewaan tersendiri, dan keistimewaan itu ada pada rasa masakan hasil olah tangan juru masak nomor satu. Siapa lagi kalau bukan Makaji?<br \/><br \/>\n\u201cKenapa Makaji tidak turun tangan dalam kenduri sepenting ini?\u201d begitu mereka bertanya-tanya.<br \/><br \/>\n\u201cSia-sia saja kenduri ini bila bukan Makaji yang meracik bumbu,\u201d<br \/><br \/>\n\u201cAh, menyesal kami datang ke pesta ini!\u201d",
+                        "created": "2016-10-06T16:50:40+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2016-10-07T14:13:49+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "tolong buati 5 amanat dari cerpen juru masak tapi dari kata yang ada tanda kutipannya\u201c\u201c\n                                                       Juru masak\nPerhelatan bisa kacau tanpa kehadiran lelaki itu. Gulai Kambing akan terasa hambar lantaran racikan bumbu tak meresap ke dalam daging. Kuah Gulai Kentang dan Gulai Rebung bakal encer karena keliru menakar jumlah kelapa parut hingga setiap menu masakan kekurangan santan. Akibatnya, berseraklah gunjing dan cela yang mesti ditanggung tuan rumah, bukan karena kenduri kurang meriah, tidak pula karena pelaminan tempat bersandingnya pasangan pengantin tak sedap dipandang mata, tapi karena macam-macam hidangan yang tersuguh tak menggugah selera. Nasi banyak gulai melimpah, tapi helat tak bikin kenyang. Ini celakanya bila Makaji, juru masak handal itu tak dilibatkan.\n\u201cKalau besok Gulai Nangka masih sehambar hari ini, kenduri tak usah dilanjutkan!\u201d ancam Sutan Basabatuah, penghulu tinggi dari keluarga Rustamadji.\n\u201cApa susahnya mendatangkan Makaji?\u201d\n\u201cPercuma bikin helat besar-besaran bila menu yang terhidang hanya bikin malu.\u201d\n\u201cSeparuh umur Ayah sudah habis untuk membantu setiap kenduri di kampung ini, bagaimana kalau tanggungjawab itu dibebankan pada yang lebih muda?\u201d saran Azrial, putra sulung Makaji sewaktu ia pulang kampung enam bulan lalu.\n\u201cMungkin sudah saatnya Ayah berhenti,\u201d\n\u201cBelum! Akan Ayah pikul beban ini hingga tangan Ayah tak lincah lagi meracik bumbu,\u201d balas Makaji waktu itu.\n\u201cKalau memang masih ingin jadi juru masak, bagaimana kalau Ayah jadi juru masak di salah satu Rumah Makan milik <em>saya<\/em> di Jakarta? <em>Saya<\/em> tak ingin lagi berjauhan dengan Ayah,\u201d\n\u201cBeri Ayah kesempatan satu kenduri lagi!\u201d\n\u201cKenduri <em>siapa<\/em>?\u201d tanya Azrial.\n\u201cMangkudun. Anak gadisnya baru saja dipinang orang. Sudah terlanjur Ayah sanggupi, malu kalau tiba-tiba dibatalkan,\u201d\nMasih segar dalam ingatan Azrial, waktu itu Renggogeni hampir tamat dari akademi perawat di kota, tak banyak orang Lareh Panjang yang bisa bersekolah tinggi seperti Renggogeni. Perempuan kuning langsat pujaan Azrial itu benar-benar akan menjadi seorang juru rawat. Sementara Azrial bukan <em>siapa<\/em>-<em>siapa<\/em>, hanya tamatan madrasah aliyah yang sehari-hari bekerja honorer sebagai sekretaris di kantor kepala desa. Ibarat emas dan loyang perbedaan mereka.\n\u201cBahkan bila ia jadi kepala desa pun, tak sudi <em>saya<\/em> punya menantu anak juru masak!\u201d bentak Mangkudun, dan tak lama berselang berita ini berdengung juga di kuping Azrial.\n\u201cDia laki-laki taat, jujur, bertanggungjawab. Renggo yakin kami berjodoh,\u201d\n\u201cApa kau bilang? <em>Jodoh<\/em>? <em>Saya<\/em> tidak rela kau berjodoh dengan Azrial. Akan <em>saya<\/em> carikan kau <em>jodoh<\/em> yang lebih bermartabat!\u201d\n\u201cApa dia salah kalau ayahnya hanya juru masak?\u201d\n\u201cJatuh martabat keluarga kita bila laki-laki itu jadi suamimu. Paham kau?\u201d\nMangkudun benar-benar menepati janji pada Renggogeni, bahwa ia akan carikan <em>jodoh<\/em> yang sepadan dengan anak gadisnya itu, yang jauh lebih bermartabat. Tengoklah, Renggogeni kini tengah bersanding dengan Yusnaldi, perwira muda polisi yang bila tidak \u2018macam-macam\u2019 tentu karirnya lekas menanjak. Duh, betapa beruntungnya keluarga besar Mangkudun. Tapi, pesta yang digelar dengan menyembelih tiga ekor kerbau jantan dan tujuh ekor kambing itu tak begitu ramai dikunjungi. Orang-orang Lareh Panjang hanya datang di hari pertama, sekedar menyaksikan benda-benda pusaka adat yang dikeluarkan untuk menyemarakkan kenduri, setelah itu mereka berbalik meninggalkan helat, bahkan ada yang belum sempat mencicipi hidangan tapi sudah tergesa pulang.\n\u201cGulai Kambingnya tak ada rasa,\u201d bisik seorang tamu.\n\u201cKuah Gulai Rebungnya encer seperti kuah sayur Toge. Kembung perut kami dibuatnya,\u201d\n\u201cDagingnya keras, tidak kempuh. Bisa rontok gigi awak dibuatnya,\u201d\n\u201cMasakannya tak mengeyangkan, tak mengundang selera.\u201d\n\u201cPasti juru masaknya bukan Makaji!\u201d\nMakin ke ujung, kenduri makin sepi. Rombongan pengantar mempelai pria diam-diam juga kecewa pada tuan rumah, karena mereka hanya dijamu dengan menu masakan yang asal-asalan, kurang bumbu, kuah encer dan daging yang tak kempuh. Padahal mereka bersemangat datang karena pesta perkawinan di Lareh Panjang punya keistimewaan tersendiri, dan keistimewaan itu ada pada rasa masakan hasil olah tangan juru masak nomor satu. <em>Siapa<\/em> lagi kalau bukan Makaji?\n\u201cKenapa Makaji tidak turun tangan dalam kenduri sepenting ini?\u201d begitu mereka bertanya-tanya.\n\u201cSia-sia saja kenduri ini bila bukan Makaji yang meracik bumbu,\u201d\n\u201cAh, menyesal kami datang ke pesta ini!\u201d",
+                        "snippet_content": "kau bilang? <em>Jodoh<\/em>? <em>Saya<\/em> tidak rela kau berjodoh dengan Azrial. Akan <em>saya<\/em> carikan kau <em>jodoh<\/em> yang lebih bermartabat!\u201d\n\u201cApa dia salah kalau"
+                    },
+                    "responses": [
+                        {
+                            "id": 9194746,
+                            "user_id": 3875656,
+                            "task_id": 7743915,
+                            "points": 8,
+                            "created": "2016-10-07T14:13:49+07:00",
+                            "content": "\"sia-sia saja kenduri ini bila bukan makaji yang meracik bumbu\"<br \/>setidaknya jangan berbicara seperti itu,karena manusia pasti pernah berbuat salah.dan jangan terlalu mengharapkan orang lain terus.kalau tidak suka makanan yang di buat orng lain.sebaiknya Anda sendiri yang membuatnya<br \/><br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2016-10-15T05:29:17+07:00",
+                                "approver": {
+                                    "id": 442276,
+                                    "nickname": "gra",
+                                    "points": 277754,
+                                    "grade": 1,
+                                    "gender": 1,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/d37\/73030c05955eb7d467c07857c8b9f55d.jpg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/dcc\/20fc4c889ebfbc65dd6f430176411db6.jpg"
+                                    },
+                                    "content_approved_count": 14544
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3875656,
+                                "nick": "putri3420",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 9582508,
+                        "subject_id": 1,
+                        "user_id": 4344008,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "<br \/>Si Kancil dan Buaya<br \/>Suatu hari Si Kancil, binatang yang katanya cerdik itu, sedang berjalan-jalan di pinggir hutan. Dia hanya ingin mencari udara segar dan melihat matahari yang cerah bersinar. Di dalam hutan terlalu gelap karena pohon-pohon sangat lebat.<br \/><br \/>Si Kancil ingin berjemur di bawah terik matahari. Di sana ada sungai besar yang airnya dalam sekali. Setelah sekian lama berjemur, Si Kancil merasa ada yang berbunyi di perutnya.<br \/><br \/>kruuuk\u2026kruuuuuk\u2026kruuuuuk. <br \/><br \/>Wah, rupanya Si Kancil sudah lapar. Si Kancil membayangkan betapa nikmatnya kalau ada makanan kesukaannya yaitu ketimun. Namun kebun ketimun ada di seberang sungai, bagaimana cara menyeberanginya ya? Si Kancil berfikir sejenak. <br \/><br \/>Tiba-tiba Si Kancil melompat kegirangan, dan berteriak: \u201cBuaya\u2026.buaya\u2026. ayo keluaaaaar\u2026.. Aku punya makanan untukmu\u2026!!\u201d seperti itulah si Kancil berteriak kepada buaya-buaya yang banyak tinggal di sungai yang dalam itu.<br \/>Sekali lagi Kancil berteriak, \u201cBuaya\u2026buaya\u2026 ayo keluar\u2026 mau daging segar tidaaaak?\u201d<br \/><br \/>Si Kancil Bicara kepada Buaya<br \/>Tak lama kemudian, seekor buaya muncul dari dalam air, \u201cBruaaar\u2026 siapa yang teriak siang-siang begini.. mengganggu tidurku saja.\u201d \u201cHei Kancil, diam kau.. kalau tidak aku makan nanti kamu.\u201d Kata buaya kedua yang muncul bersamaan.<br \/><br \/>\u201cWah\u2026. bagus kalian mau keluar, mana buaya yang lain?\u201d kata si Kancil kemudian. \u201cKalau cuma dua ekor masih sisa banyak nanti makanannya ini. Ayo keluar semuaaa\u2026!\u201d si Kancil berteriak lagi.<br \/><br \/>\u201cAda apa Kancil sebenarnya, ayo cepat katakan,\u201d kata buaya.<br \/><br \/>\u201cBegini buaya, maaf kalau aku mengganggu tidurmu, tapi aku akan bagi-bagi daging segar buat buaya-buaya di sungai ini,\u201d makanya kalian harus keluar semua untuk menghabiskan daging-daging segar ini.<br \/><br \/>Mendengar bahwa mereka akan dibagikan daging segar, buaya-buaya itu segera memanggil teman-temannya untuk keluar semua. <br \/><br \/>\u201cHei, teman-teman semua, ada makanan gratis nih! Ayo kita keluaaaar\u2026.!\u201d pemimpin dari buaya itu berteriak memberikan komando. Tak berapa lama, bermunculanlah buaya-buaya dari dalam air.<br \/><br \/>\u201cNah, sekarang aku harus menghitung dulu ada berapa buaya yang datang, ayo kalian para buaya segera baris berjajar hingga ke tepi sungai di sebelah sana,\u201d \u201cNanti aku akan menghitung satu persatu.\u201d<br \/><br \/>Lalu tanpa berpikir panjang, buaya-buaya itu segera mengambil posisi, berbaris berjajar dari tepi sungai satu ke tepi sungai lainnya, sehingga membentuk seperti jembatan.<br \/><br \/>\u201cOke, sekarang aku akan mulai menghitung,\u201d kata si Kancil yang segera melompat ke punggung buaya pertama, sambil berteriak, <br \/><br \/>\u201cSatuuu\u2026.. duaaaa\u2026.. tigaaaa\u2026..\u201d <br \/><br \/>begitu seterusnya sambil terus meloncat dari punggung buaya yang satu ke buaya lainnya. Hingga akhirnya si Kancil sampai di seberang sungai. Dan di dalam Hatinya tertawa, \u201cMudah sekali ternyata.\u201d<br \/><br \/>Begitu sampai di seberang sungai, Kancil berkata pada buaya, \u201cHai buaya-buaya bodoh, sebetulnya tidak ada daging segar yang akan aku bagikan. Tidakkah kau lihat bahwa aku tidak membawa sepotong daging pun?\u201d \u201cSebenarnya aku hanya ingin menyeberangi sungai ini, dan aku butuh jembatan untuk lewat. Kalau begitu saya ucapkan terima kasih pada kalian, dan mohon maaf kalau aku mengerjai kalian,\u201d kata si Kancil.<br \/><br \/>Para buaya kesal karena tipuan si Kancil<br \/>\u201cHaaaa!\u2026.huaaaaaahh\u2026 sialan\u2026 Kancil nakal, ternyata kita cuma dibohongi. Awas kau kancil ya.. kalau ketemu lagi saya makan kamu,\u201d kata buaya-buaya itu geram.<br \/><br \/>Si Kancil segera berlari menghilang di balik pepohonan dan menuju kebun Pak Tani untuk mencari mentimun. <br \/><br \/>1 ) Sebutkan para pelaku yang terdapat dalam dongeng tersebut<br \/><br \/>2) Jelaskan bagaimana watak para pelakunya !<br \/><br \/>3) Apakah tema dongeng tersebut<br \/><br \/>4) Sebutkan pesan moral yang terkandung di dalam cerita tersebut<br \/><br \/><br \/><br \/><br \/><br \/><br \/><br \/><br \/><br \/><br \/><br \/>",
+                        "created": "2017-02-25T17:43:27+07:00",
+                        "responses": 2,
+                        "tickets": 5,
+                        "first_resp": "2017-02-25T18:20:35+07:00",
+                        "the_best_resp_id": "11467443",
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Si Kancil dan BuayaSuatu hari Si Kancil, binatang yang katanya cerdik itu, sedang berjalan-jalan di pinggir hutan. Dia hanya ingin mencari udara segar dan melihat matahari yang cerah bersinar. Di dalam hutan terlalu gelap karena pohon-pohon sangat lebat.Si Kancil ingin berjemur di bawah terik matahari. Di sana ada sungai besar yang airnya dalam sekali. Setelah sekian lama berjemur, Si Kancil merasa ada yang berbunyi di perutnya.kruuuk\u2026kruuuuuk\u2026kruuuuuk. Wah, rupanya Si Kancil sudah lapar. Si Kancil membayangkan betapa nikmatnya kalau ada makanan kesukaannya yaitu ketimun. Namun kebun ketimun ada di seberang sungai, bagaimana cara menyeberanginya ya? Si Kancil berfikir sejenak. Tiba-tiba Si Kancil melompat kegirangan, dan berteriak: \u201cBuaya\u2026.buaya\u2026. ayo keluaaaaar\u2026.. Aku punya makanan untukmu\u2026!!\u201d seperti itulah si Kancil berteriak kepada buaya-buaya yang banyak tinggal di sungai yang dalam itu.Sekali lagi Kancil berteriak, \u201cBuaya\u2026buaya\u2026 ayo keluar\u2026 mau daging segar tidaaaak?\u201dSi Kancil Bicara kepada BuayaTak lama kemudian, seekor buaya muncul dari dalam air, \u201cBruaaar\u2026 <em>siapa<\/em> yang teriak siang-siang begini.. mengganggu tidurku saja.\u201d \u201cHei Kancil, diam kau.. kalau tidak aku makan nanti kamu.\u201d Kata buaya kedua yang muncul bersamaan.\u201cWah\u2026. bagus kalian mau keluar, mana buaya yang lain?\u201d kata si Kancil kemudian. \u201cKalau cuma dua ekor masih sisa banyak nanti makanannya ini. Ayo keluar semuaaa\u2026!\u201d si Kancil berteriak lagi.\u201cAda apa Kancil sebenarnya, ayo cepat katakan,\u201d kata buaya.\u201cBegini buaya, maaf kalau aku mengganggu tidurmu, tapi aku akan bagi-bagi daging segar buat buaya-buaya di sungai ini,\u201d makanya kalian harus keluar semua untuk menghabiskan daging-daging segar ini.Mendengar bahwa mereka akan dibagikan daging segar, buaya-buaya itu segera memanggil teman-temannya untuk keluar semua. \u201cHei, teman-teman semua, ada makanan gratis nih! Ayo kita keluaaaar\u2026.!\u201d pemimpin dari buaya itu berteriak memberikan komando. Tak berapa lama, bermunculanlah buaya-buaya dari dalam air.\u201cNah, sekarang aku harus menghitung dulu ada berapa buaya yang datang, ayo kalian para buaya segera baris berjajar hingga ke tepi sungai di sebelah sana,\u201d \u201cNanti aku akan menghitung satu persatu.\u201dLalu tanpa berpikir panjang, buaya-buaya itu segera mengambil posisi, berbaris berjajar dari tepi sungai satu ke tepi sungai lainnya, sehingga membentuk seperti jembatan.\u201cOke, sekarang aku akan mulai menghitung,\u201d kata si Kancil yang segera melompat ke punggung buaya pertama, sambil berteriak, \u201cSatuuu\u2026.. duaaaa\u2026.. tigaaaa\u2026..\u201d begitu seterusnya sambil terus meloncat dari punggung buaya yang satu ke buaya lainnya. Hingga akhirnya si Kancil sampai di seberang sungai. Dan di dalam Hatinya tertawa, \u201cMudah sekali ternyata.\u201dBegitu sampai di seberang sungai, Kancil berkata pada buaya, \u201cHai buaya-buaya <em>bodoh<\/em>, sebetulnya tidak ada daging segar yang akan aku bagikan. Tidakkah kau lihat bahwa aku tidak membawa sepotong daging pun?\u201d \u201cSebenarnya aku hanya ingin menyeberangi sungai ini, dan aku butuh jembatan untuk lewat. Kalau begitu <em>saya<\/em> ucapkan terima kasih pada kalian, dan mohon maaf kalau aku mengerjai kalian,\u201d kata si Kancil.Para buaya kesal karena tipuan si Kancil\u201cHaaaa!\u2026.huaaaaaahh\u2026 sialan\u2026 Kancil nakal, ternyata kita cuma dibohongi. Awas kau kancil ya.. kalau ketemu lagi <em>saya<\/em> makan kamu,\u201d kata buaya-buaya itu geram.Si Kancil segera berlari menghilang di balik pepohonan dan menuju kebun Pak Tani untuk mencari mentimun. 1 ) Sebutkan para pelaku yang terdapat dalam dongeng tersebut2) Jelaskan bagaimana watak para pelakunya !3) Apakah tema dongeng tersebut4) Sebutkan pesan moral yang terkandung di dalam cerita tersebut",
+                        "snippet_content": "kepada BuayaTak lama kemudian, seekor buaya muncul dari dalam air, \u201cBruaaar\u2026 <em>siapa<\/em> yang teriak siang-siang begini.. mengganggu tidurku saja.\u201d \u201cHei Kancil"
+                    },
+                    "responses": [
+                        {
+                            "id": 11465026,
+                            "user_id": 4026071,
+                            "task_id": 9582508,
+                            "points": 5,
+                            "created": "2017-02-25T18:20:35+07:00",
+                            "content": "1)kancil dan buaya<br \/>2)kancil wataknya cerdik dan bijak dan watak buaya mudah terpengaruh",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 11467443,
+                            "user_id": 4594213,
+                            "task_id": 9582508,
+                            "points": 5,
+                            "created": "2017-02-25T21:04:55+07:00",
+                            "content": "1) si kancil dan para buaya<br \/>2) watak si kancil adalah bijak dan watak para buaya adalah murah ktipu atau bodoh<br \/>3) temanya \"kebijakan seekor Kancil\".<br \/>4) jadilah orang yang bijak maka kamu akan beroleh hasil yg baik.",
+                            "mark": 5,
+                            "marks_count": 2,
+                            "thanks": 1,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "6",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4026071,
+                                "nick": "irham67",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/de1\/52be77e44e2951ea7a7547fcec04b0a0.jpg"
+                            },
+                            {
+                                "id": 4594213,
+                                "nick": "ranjiv",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 8378072,
+                        "subject_id": 1,
+                        "user_id": 2217826,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "bantu dong bsk dikumpul <br \/>\namanat\/pesan:<br \/>\nkisahnya:<br \/>\nlatar:<br \/>\ntempat:<br \/>\nwaktu:<br \/>\nsuasana:<br \/><br \/>\ndari cerpen tersebut<br \/><br \/>\nSenandung lagu Sheila On 7 dan Iwan Fals menghiburku malam ini, hampir lima kali lagu itu terus diputar di playlist musikku. Sebab, setiap liriknya tak lepas dari apa yang sekarang menjadi kondisiku.<br \/><br \/>\nKita bertemu dan saling bicara untuk pertama kalinya ialah anugrah terindah dari jalannya waktuku di hidup ini, kamu yang satu kelompok denganku saat pentas perdana di SMA baru kita, walau yang kita pentaskan tak sebaik yang kolompok lain, namun pentas ini menjadi awal ku bisa mengetahui suaramu, senyummu dan pandanganmu.<br \/><br \/>\nTak tahu pada Tuhankah aku harus bersyukur, yang mungkin aku sudah tak diakuinya. Entah kenapa ku merasa terlalu diberi keajaiban indah ini, atas keatheisan yang aku jadikan landasan pikirku. tapi masa bodoh dengan itu, dia begitu baik padaku sehingga ku melupakan siapa diriku.<br \/><br \/><br \/>\nSehingga cermin menyedarkanku, Saat itulah aku merasa Tuhan bukannya memberiku sebuah keajaiban tapi ialah Kutukan. Kutukan dimana aku tersadar bahwa aku tak berhak memiliki ciptaan nya itu, memiliki kisah cinta dengan ciptaanya itu, memiliki rasa dicintai dan mencintai dengan ciptaan nya itu.<br \/><br \/>\nTuhan takkan membiarkanku untuk tersenyum, menimbulkan dendam atas hidup ini yang akan semakin kelam, air mata sudah terlalu kental hingga hanya sebuah senyuman menyeringai. Tapi Tuhan juga adil, dia tetap memberikanku kesempatan melihat senyumnya itu dan memberikan kesempatan mendengar suaranya itu. Ini membuatku reda dari emosiku, tapi aku tau ini menyiksaku.<br \/><br \/><br \/>\nTringgg\u2026 trriingg\u2026 alarmku berbunyi!! ku harus ke sekolah, SMA ku sudah menunggu. Dan dia\u2026 selalu ada untuk kupandang di sana\u2026<br \/>\nHooaaamm wah hapeku mati ini pasti malam tadi kubawa tidur hingga kelupaan charge. yah\u2026 sudahlah.<br \/><br \/><br \/><br \/><br \/><br \/>",
+                        "created": "2016-11-14T18:38:12+07:00",
+                        "responses": 1,
+                        "tickets": 9,
+                        "first_resp": "2016-11-18T17:06:26+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "bantu dong bsk dikumpul \namanat\/pesan:\nkisahnya:\nlatar:\ntempat:\nwaktu:\nsuasana:\ndari cerpen tersebut\nSenandung lagu Sheila On 7 dan Iwan Fals menghiburku malam ini, hampir lima kali lagu itu terus diputar di playlist musikku. Sebab, setiap liriknya tak lepas dari apa yang sekarang menjadi kondisiku.\nKita bertemu dan saling bicara untuk pertama kalinya ialah anugrah terindah dari jalannya waktuku di hidup ini, kamu yang satu kelompok denganku saat pentas perdana di SMA baru kita, walau yang kita pentaskan tak sebaik yang kolompok lain, namun pentas ini menjadi awal ku bisa mengetahui suaramu, senyummu dan pandanganmu.\nTak tahu pada Tuhankah aku harus bersyukur, yang mungkin aku sudah tak diakuinya. Entah kenapa ku merasa terlalu diberi keajaiban indah ini, atas keatheisan yang aku jadikan landasan pikirku. tapi masa <em>bodoh<\/em> dengan itu, dia begitu baik padaku sehingga ku melupakan <em>siapa<\/em> diriku.\nSehingga cermin menyedarkanku, Saat itulah aku merasa Tuhan bukannya memberiku sebuah keajaiban tapi ialah Kutukan. Kutukan dimana aku tersadar bahwa aku tak berhak memiliki ciptaan nya itu, memiliki kisah cinta dengan ciptaanya itu, memiliki rasa dicintai dan mencintai dengan ciptaan nya itu.\nTuhan takkan membiarkanku untuk tersenyum, menimbulkan dendam atas hidup ini yang akan semakin kelam, air mata sudah terlalu kental hingga hanya sebuah senyuman menyeringai. Tapi Tuhan juga adil, dia tetap memberikanku kesempatan melihat senyumnya itu dan memberikan kesempatan mendengar suaranya itu. Ini membuatku reda dari emosiku, tapi aku tau ini menyiksaku.\nTringgg\u2026 trriingg\u2026 alarmku berbunyi!! ku harus ke sekolah, SMA ku sudah menunggu. Dan dia\u2026 selalu ada untuk kupandang di <em>sana<\/em>\u2026\nHooaaamm wah hapeku mati ini pasti malam tadi kubawa tidur hingga kelupaan charge. yah\u2026 sudahlah.",
+                        "snippet_content": "indah ini, atas keatheisan yang aku jadikan landasan pikirku. tapi masa <em>bodoh<\/em> dengan itu, dia begitu baik padaku sehingga ku melupakan <em>siapa<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 10033477,
+                            "user_id": 3181660,
+                            "task_id": 8378072,
+                            "points": 5,
+                            "created": "2016-11-18T17:06:26+07:00",
+                            "content": "<span>amanat\/pesan: jika sedang patah hati, daripada mendendam atau melakukan hal - hal yang negatif, lebih baik mendengarkan lagu favorit sehingga\u00a0<br \/>kisahnya: alur maju<br \/>latar: kamar anak tersebut<br \/>tempat: kamar anak tersebut<br \/>waktu: malam hari\u00a0<br \/>suasana: sedih dan penuh rindu, galau<br \/><br \/>semoga membantu :)<\/span>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2017-01-12T22:43:55+07:00",
+                                "approver": {
+                                    "id": 2663844,
+                                    "nickname": "Mahaguru",
+                                    "points": 1162,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/db6\/c5fb7b6a68ce26ccea00dc12cb60d96f.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/df7\/fe8fb6dfa0d217a5d3fafa2a27e269ba.png"
+                                    },
+                                    "content_approved_count": 718062
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3181660,
+                                "nick": "misteranswer1",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d00\/ce90d96f66c7403efa6116ad56ed5ebc.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 9608610,
+                        "subject_id": 1,
+                        "user_id": 1610787,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 50,
+                            "ptsForResp": 25,
+                            "ptsForBest": 13
+                        },
+                        "content": "1. susunlah naskah sebuah naskah drama berdasarkan cerpen dibawah ini sesuai dengan kaidah penulisan naskah drama!!!<br \/><br \/>                  Benci Geografi<br \/><br \/>Tak ada yang berbeda, beberapa minggu berjalan seperti biasanya, masih malas saja dengan pelajaran ini. Padahal sebentar lagi sudah akan ada mid semester, aku belum belajar sama sekali seperti mereka.<br \/>\"Sin, bagaimana persiapan untuk mid semester ini, bagus?\" tanya Hani kepada ku<br \/>\"Biasa saja, kamu kan tahu bagaimana aku\" jawabku singkat<br \/><br \/>\"Iya aku tahu persis, meski terlihat tidak pernah belajar namun kamu selalu bisa mendapatkan nilai tertinggi di kelas. Bahkan untuk pelajaran yang kamu benci sekalipun...\" ucapnya<br \/><br \/>\"Eits....tidak ada satu pelajaran pun yang aku benci, enak saja!\" ucap ku memprotes perkataannya.<br \/>\"Bagaimana dengan geografi, suka?\" Hani mulai menohok ke persoalan sebenarnya.<br \/>\"Iyaa si....tapi itu bukan benci Han, tapi kurang mood aja\" ucapku membela diri.<br \/><br \/>Saat itu aku tahu persisi bahwa Hani sahabatku itu akan memberikan ceramah gratis kepadaku. Aku pun sudah siap-siap menebalkan daun telingaku untuk menerima dan mendengarkan berbagai nasehatnya. Aku juga terkadang heran, meski otaknya pas-pasan namun dalam hal wawasan Hani seperti orang dewasa, bahkan seperti ayahku. Ia benar-benar tahu mana yang baik dan mana yang buruk, bahkan sering kali membuktikan bahwa ucapannya benar. Tapi kali ini ceramah Hani sudah terlalu panjang, sudah hampir 1 jam tapi belum ada tanda mau selesai, akhirnya aku pun punya ide.<br \/><br \/>Dia tengah asyik menceramahi aku tentang bagaimana seharusnya aku menyiapkan diri untuk ulangan mid semester. Ia mengatakan bahwa meski aku selalu juara namun bukan mustahil aku bisa dikalahkan oleh dia yang rajin belajar. Aku tahu, aku paham tapi saat itu entah kenapa aku sedang tidak ingin dia mengomel terus sampai akhirnya terpaksa aku mengalihkan pembicaraan itu.<br \/><br \/>\"Eh...ngomong-ngomong bagaimana dengan puisi yang kamu buat, sudah selesai, lihat dong?\" tanyaku mengalihkan pembicaraan. Baca juga cerita legenda asal mula bukit catu<br \/><br \/>\"Emm....ya, sudah si tapi masih acak-acakan, belum di tulis ulang\" jawabnya serius, \"tapi buat apa kamu lihat, kan gak ada gunanya kalau dilihat tapi tak di baca\" lanjutnya mengkritik bahasa yang aku gunakan.<br \/>\"Ya...maksudku di baca kalee....\" sahut ku sambil menjambak rambutnya, \"aku punya satu puisi yang aku buat kemarin, di buat sekali jadi tapi bagus kok\" lanjutku.<br \/>\"Apa....kamu buat puisi, tidak salah, memang kamu bisa?\" jawabnya meledek<br \/><br \/>Sedikit kesal aku di buatnya, ya memang sih untuk urusan karya sastra aku kurang begitu peka, kurang begitu peka tapi bukan bodoh lho... Wajar saja jika sahabatku yang satu ini langsung sewot ketika aku bilang bahwa aku membuat puisi. Tanpa bertanya lagi apa dia mau membaca atau tidak, aku langsung menyodorkan puisi pelajaran yang aku buat kemarin.<br \/><br \/>Belajar Geografi sangat sulit<br \/>Materinya sesolid batuan beku<br \/>Membuat semua pusing<br \/>Seperti otak terkena gempa tektonik<br \/>Perasaan meluap seperti erupsi eksplosif<br \/>Meletus-letus tak beraturan<br \/>Menghasilkan seisme di otak<br \/><br \/>Belajar Geografi sangat sulit<br \/>Serasa seperti gunung api maar<br \/>Bahan ulangan sangat banyak<br \/>Pikiran menjadi sedalam horizon R<br \/><br \/><br \/>30 halaman sangatlah banyak<br \/>Membuat otak menjadi lempung<br \/>Geografi seperti tanah pasir, sulit ditanami<br \/>Ada satu permintaan saya<br \/>Mohon bahan ulangan dikurangi<br \/>Dan puisi ini jangan dipajang<br \/><br \/>\"Haa.aaaa.aaa.....\" Ia berteriak begitu keras, ia benar-benar terbahak-bahak sambil memegang perutnya. Tahu, apa yang ia katakan saat itu? Ia memuji ku, ini adalah kali pertama ia memuji diriku, benar-benar kali pertama selama ia menjadi sahabatku. Kadang aku juga heran kenapa ia sama sekali tak mau memujiku, padahal jelas sekali aku layak untuk itu.<br \/><br \/>\"Puisi mu benar-benar bagus, bagus sekali\" ucapnya sembari masih memegang perutnya. \"Itu adalah untaian kata yang lumayan rumit, maaf jika aku harus tertawa, bukan karena puisi mu yang lucu namun aku benar-benar heran kamu bisa segitunya sama mata pelajaran yang satu ini, kenapa sih?\"<br \/><br \/>Tolong dijawab secepatnya ya bsok dibawa makasihh :)",
+                        "created": "2017-02-27T16:58:04+07:00",
+                        "responses": 1,
+                        "tickets": 15,
+                        "first_resp": "2017-06-26T11:11:57+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "1. susunlah naskah sebuah naskah drama berdasarkan cerpen dibawah ini sesuai dengan kaidah penulisan naskah drama!!!                  Benci GeografiTak ada yang berbeda, beberapa minggu berjalan seperti biasanya, masih malas <em>saja<\/em> dengan pelajaran ini. Padahal sebentar lagi sudah akan ada mid semester, aku belum belajar sama sekali seperti mereka.\"Sin, bagaimana persiapan untuk mid semester ini, bagus?\" tanya Hani kepada ku\"Biasa <em>saja<\/em>, kamu kan tahu bagaimana aku\" jawabku singkat\"Iya aku tahu persis, meski terlihat tidak pernah belajar namun kamu selalu bisa mendapatkan nilai tertinggi di kelas. Bahkan untuk pelajaran yang kamu benci sekalipun...\" ucapnya\"Eits....tidak ada satu pelajaran pun yang aku benci, enak <em>saja<\/em>!\" ucap ku memprotes perkataannya.\"Bagaimana dengan geografi, suka?\" Hani mulai menohok ke persoalan sebenarnya.\"Iyaa si....tapi itu bukan benci Han, tapi kurang mood aja\" ucapku membela diri.Saat itu aku tahu persisi bahwa Hani sahabatku itu akan memberikan ceramah gratis kepadaku. Aku pun sudah <em>siap<\/em>-<em>siap<\/em> menebalkan daun telingaku untuk menerima dan mendengarkan berbagai nasehatnya. Aku juga terkadang heran, meski otaknya pas-pasan namun dalam hal wawasan Hani seperti orang dewasa, bahkan seperti ayahku. Ia benar-benar tahu mana yang baik dan mana yang buruk, bahkan sering kali membuktikan bahwa ucapannya benar. Tapi kali ini ceramah Hani sudah terlalu panjang, sudah hampir 1 jam tapi belum ada tanda mau selesai, akhirnya aku pun punya ide.Dia tengah asyik menceramahi aku tentang bagaimana seharusnya aku menyiapkan diri untuk ulangan mid semester. Ia mengatakan bahwa meski aku selalu juara namun bukan mustahil aku bisa dikalahkan oleh dia yang rajin belajar. Aku tahu, aku paham tapi saat itu entah kenapa aku sedang tidak ingin dia mengomel terus sampai akhirnya terpaksa aku mengalihkan pembicaraan itu.\"Eh...ngomong-ngomong bagaimana dengan puisi yang kamu buat, sudah selesai, lihat dong?\" tanyaku mengalihkan pembicaraan. Baca juga cerita legenda asal mula bukit catu\"Emm....ya, sudah si tapi masih acak-acakan, belum di tulis ulang\" jawabnya serius, \"tapi buat apa kamu lihat, kan gak ada gunanya kalau dilihat tapi tak di baca\" lanjutnya mengkritik bahasa yang aku gunakan.\"Ya...maksudku di baca kalee....\" sahut ku sambil menjambak rambutnya, \"aku punya satu puisi yang aku buat kemarin, di buat sekali jadi tapi bagus kok\" lanjutku.\"Apa....kamu buat puisi, tidak salah, memang kamu bisa?\" jawabnya meledekSedikit kesal aku di buatnya, ya memang sih untuk urusan karya sastra aku kurang begitu peka, kurang begitu peka tapi bukan <em>bodoh<\/em> lho... Wajar <em>saja<\/em> jika sahabatku yang satu ini langsung sewot ketika aku bilang bahwa aku membuat puisi. Tanpa bertanya lagi apa dia mau membaca atau tidak, aku langsung menyodorkan puisi pelajaran yang aku buat kemarin.Belajar Geografi sangat sulitMaterinya sesolid batuan bekuMembuat semua pusingSeperti otak terkena gempa tektonikPerasaan meluap seperti erupsi eksplosifMeletus-letus tak beraturanMenghasilkan seisme di otakBelajar Geografi sangat sulitSerasa seperti gunung api maarBahan ulangan sangat banyakPikiran menjadi sedalam horizon R30 halaman sangatlah banyakMembuat otak menjadi lempungGeografi seperti tanah pasir, sulit ditanamiAda satu permintaan sayaMohon bahan ulangan dikurangiDan puisi ini jangan dipajang\"Haa.aaaa.aaa.....\" Ia berteriak begitu keras, ia benar-benar terbahak-bahak sambil memegang perutnya. Tahu, apa yang ia katakan saat itu? Ia memuji ku, ini adalah kali pertama ia memuji diriku, benar-benar kali pertama selama ia menjadi sahabatku. Kadang aku juga heran kenapa ia sama sekali tak mau memujiku, padahal jelas sekali aku layak untuk itu.\"Puisi mu benar-benar bagus, bagus sekali\" ucapnya sembari masih memegang perutnya. \"Itu adalah untaian kata yang lumayan rumit, maaf jika aku harus tertawa, bukan karena puisi mu yang lucu namun aku benar-benar heran kamu bisa segitunya sama mata pelajaran yang satu ini, kenapa sih?\"Tolong dijawab secepatnya ya bsok dibawa makasihh :)",
+                        "snippet_content": "karya sastra aku kurang begitu peka, kurang begitu peka tapi bukan <em>bodoh<\/em> lho... Wajar <em>saja<\/em> jika sahabatku yang satu ini langsung sewot"
+                    },
+                    "responses": [
+                        {
+                            "id": 13335916,
+                            "user_id": 5167462,
+                            "task_id": 9608610,
+                            "points": 25,
+                            "created": "2017-06-26T11:11:57+07:00",
+                            "content": "itu panjang amat sih cerpennya,  Sebel bacanya",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5167462,
+                                "nick": "febianescalade",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/ddf\/7e1d2e7fa79dff08985172183cb492ae.png"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 5,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 5057040,
+            "nick": "Riyanade05",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc1\/a3dcb504c258a1d0216861b2b4674b21.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d58\/6115b113d48848225fed1af1cca777c0.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc1\/a3dcb504c258a1d0216861b2b4674b21.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d58\/6115b113d48848225fed1af1cca777c0.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4920118,
+            "nick": "ekasaputrafer",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 5,
+                "comments": 6
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d08\/105089a21c21285b9dd0ff0700ea03c4.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7a\/161753412f966a6829c5c46079a65f93.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d08\/105089a21c21285b9dd0ff0700ea03c4.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7a\/161753412f966a6829c5c46079a65f93.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4380637,
+            "nick": "seokya",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 773,
+                "comments": 121
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da6\/84fadb1d8ad8c69459c776032a66d3ed.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6f\/8406bec9ff4aefc16d93537dfba88080.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da6\/84fadb1d8ad8c69459c776032a66d3ed.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6f\/8406bec9ff4aefc16d93537dfba88080.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        },
+        {
+            "id": 4956622,
+            "nick": "MeryPAstriyanti544",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 3,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d97\/34396faf841fe77bf5a89e941f276fba.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d58\/41c5f69aaca99823cf6f1833d3829473.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d97\/34396faf841fe77bf5a89e941f276fba.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d58\/41c5f69aaca99823cf6f1833d3829473.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 602369,
+            "nick": "sonicfaruk100",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 48,
+                "answers": 1,
+                "comments": 10
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 3875656,
+            "nick": "putri3420",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 9,
+                "answers": 4,
+                "comments": 4
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4344008,
+            "nick": "Vegadewi",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 86,
+                "answers": 21,
+                "comments": 49
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#000000",
+                "names": [],
+                "count": 0
+            },
+            "ranks_ids": null
+        },
+        {
+            "id": 4026071,
+            "nick": "irham67",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 1,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d7f\/a887e83cd3075fe81c3f08061759e04f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de1\/52be77e44e2951ea7a7547fcec04b0a0.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d7f\/a887e83cd3075fe81c3f08061759e04f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de1\/52be77e44e2951ea7a7547fcec04b0a0.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4594213,
+            "nick": "ranjiv",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 35,
+                "comments": 4
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 2217826,
+            "nick": "aesmnr",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 13,
+                "answers": 4,
+                "comments": 2
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 3181660,
+            "nick": "misteranswer1",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 1033,
+                "comments": 13
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d25\/6ff2338a96e24560b0574487bd631b8c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d00\/ce90d96f66c7403efa6116ad56ed5ebc.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d25\/6ff2338a96e24560b0574487bd631b8c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d00\/ce90d96f66c7403efa6116ad56ed5ebc.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Guru",
+                    "Moderator",
+                    "Si Hebat"
+                ],
+                "count": 3
+            },
+            "ranks_ids": [
+                12,
+                19,
+                6
+            ]
+        },
+        {
+            "id": 1610787,
+            "nick": "bimboy55",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 20,
+                "answers": 8,
+                "comments": 19
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 5167462,
+            "nick": "febianescalade",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 10,
+                "comments": 15
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df2\/5cbfc800181f12ee87a48c0cb8f5dbbe.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ddf\/7e1d2e7fa79dff08985172183cb492ae.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df2\/5cbfc800181f12ee87a48c0cb8f5dbbe.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ddf\/7e1d2e7fa79dff08985172183cb492ae.png"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        }
+    ],
+    "validated": false
+}

@@ -1,0 +1,446 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 1980532,
+                        "subject_id": 10,
+                        "user_id": 1136512,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "kapan gw menikah dan siapa jodoh gw <br \/>\na.TGL 17 april TAHUN 2023 Sama Djuwita  <br \/>\nb.TGL 24 maret TAHUN 2020 Sama Wiona<br \/>\nc.Februari Tgl 5 2015 Sama Amelia<br \/>\nd.Februari Tgl 3 2015 Sama Anissa<br \/>\nPilih salah satu ya..",
+                        "created": "2015-02-02T20:17:08+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2015-02-02T20:20:16+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "kapan <em>gw<\/em> menikah dan <em>siapa<\/em> <em>jodoh<\/em> <em>gw<\/em> \na.TGL 17 april TAHUN 2023 Sama Djuwita  \nb.TGL 24 maret TAHUN 2020 Sama Wiona\nc.Februari Tgl 5 2015 Sama Amelia\nd.Februari Tgl 3 2015 Sama Anissa\nPilih salah satu ya..",
+                        "snippet_content": "kapan <em>gw<\/em> menikah dan <em>siapa<\/em> <em>jodoh<\/em> <em>gw<\/em> \na.TGL 17 april TAHUN 2023 Sama Djuwita  \nb.TGL 24 maret TAHUN 2020 Sama"
+                    },
+                    "responses": [
+                        {
+                            "id": 2526649,
+                            "user_id": 207794,
+                            "task_id": 1980532,
+                            "points": 5,
+                            "created": "2015-02-02T20:20:16+07:00",
+                            "content": "C. Februari Tgl 5 2015 Sama Amelia :v",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 1648401,
+                                        "user_id": 1136512,
+                                        "content": "gw kurang begitu suka sama cewe yg bernama amelia karena dia orang kepo dan bikin gw prustasi ngadepin dia",
+                                        "created": "2015-02-02T21:08:18+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        },
+                        {
+                            "id": 2526654,
+                            "user_id": 1132518,
+                            "task_id": 1980532,
+                            "points": 5,
+                            "created": "2015-02-02T20:20:27+07:00",
+                            "content": "b.tgl 24 maret 2020 sama wiona , pilihnyg taunya deket aja",
+                            "mark": 4,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 1648220,
+                                        "user_id": 1136512,
+                                        "content": "gw kurang begitu suka dengan jawaban yg c. karena anaknya nyebelin",
+                                        "created": "2015-02-02T20:50:35+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 1648265,
+                                        "user_id": 1132518,
+                                        "content": "yaudah yang a deh :D atau maunya yang mana ? tar gue pilih itu :D",
+                                        "created": "2015-02-02T20:55:17+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 1648289,
+                                        "user_id": 1136512,
+                                        "content": "seterah lu aja",
+                                        "created": "2015-02-02T20:57:14+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 1648313,
+                                        "user_id": 1132518,
+                                        "content": "yang nikah siapa",
+                                        "created": "2015-02-02T21:00:02+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 1648390,
+                                        "user_id": 1136512,
+                                        "content": "gw",
+                                        "created": "2015-02-02T21:06:46+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 1648220,
+                                "count": 6
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 207794,
+                                "nick": "additpamungkas",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d20\/5602f0ff87bcb00cfea86cfc08369fc0.jpg"
+                            },
+                            {
+                                "id": 1132518,
+                                "nick": "resawhyn",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d61\/75f639179117718e65a19621520a8c5a.png"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10738587,
+                        "subject_id": 10,
+                        "user_id": 1790812,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 50,
+                            "ptsForResp": 25,
+                            "ptsForBest": 13
+                        },
+                        "content": "1.Siapakah yang menyebarkan kristen katholik di bagian Indonesia Timur?                  <br \/>\n2.Dimanakah tempat belanda menyerah pada Jepang?<br \/>\n3.Apa itu gerakan 3A..Sebutkan tujuannya!<br \/>\n4.Sebutkan organisasi sosial pada jaman Jepang?<br \/>\n5.Apa yang dimaksud dengan Jawa Hokokai?<br \/>\n6.Sebutkan Organisasi Islam pada jaman Jepang?<br \/>\n7.Sebutkan Oerganisasi militer pada tahun 1943?<br \/>\n8.Apa tujuan Romusa?<br \/>\n9.Apa arti Jugungonvu?<br \/>\n10.Apa yang dilakukan Jepang dalam mengexploitasi SDA di Indonesia?<br \/>\n11.Sebutkan 3 bentuk perjuangan pada zaman jepang .. Dan siapa pemimpinnya?<br \/>\n12.Sebutkan 3 perlawanan daerah di Indonesia.. Dan siapa pemimpinnya?<br \/>\n13.Jelaskan bagaimana kondisi pendidikan masyarakat?<br \/>\n14.Apa yang dimaksud dengan ajaran Shimtoisme?<br \/>\n15.BPUPKI di bentuk pada tanggal berapa ..dan siapa ketuanya?<br \/>\n16.Apa hasil panitia 9 (Jakarta charter)?<br \/>\n17.Kenapa BPUPKI Dibubarkan ?<br \/>\n18.Jelaskan peristiwa rengas dengklok?<br \/>\n19.Siapa yang termasuk golongan tua .. Dan siapa golongan muda?<br \/>\n20.Dimana proklamasi dirumuskan?<br \/>\n21.Bagaimana cara pemberitaan berita proklamasi ?<br \/>\n22.PPKI mengadakan rapat : <br \/>\n#Tanggal 18 Agustus hasil keputusan:..?<br \/>\n#Tanggal 19 dan hasil keputusan?<br \/>\n# Tanggal 22 dan hasil keputusan?<br \/>\n#Tanggal 23 dan hasil keputusan?<br \/><br \/><br \/>\n...Yang bisa jawab semua atau setengah nya gw Doain Cepet naik haji.. Rejeki lancar .. Jodoh lancar !!<br \/>",
+                        "created": "2017-05-21T19:38:50+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-05-21T20:18:59+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "6",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "1.Siapakah yang menyebarkan kristen katholik di bagian Indonesia Timur?                  \n2.Dimanakah tempat belanda menyerah pada Jepang?\n3.Apa itu gerakan 3A..Sebutkan tujuannya!\n4.Sebutkan organisasi sosial pada jaman Jepang?\n5.Apa yang dimaksud dengan Jawa Hokokai?\n6.Sebutkan Organisasi Islam pada jaman Jepang?\n7.Sebutkan Oerganisasi militer pada tahun 1943?\n8.Apa tujuan Romusa?\n9.Apa arti Jugungonvu?\n10.Apa yang dilakukan Jepang dalam mengexploitasi SDA di Indonesia?\n11.Sebutkan 3 bentuk perjuangan pada zaman jepang .. Dan <em>siapa<\/em> pemimpinnya?\n12.Sebutkan 3 perlawanan daerah di Indonesia.. Dan <em>siapa<\/em> pemimpinnya?\n13.Jelaskan bagaimana kondisi pendidikan masyarakat?\n14.Apa yang dimaksud dengan ajaran Shimtoisme?\n15.BPUPKI di bentuk pada tanggal berapa ..dan <em>siapa<\/em> ketuanya?\n16.Apa hasil panitia 9 (Jakarta charter)?\n17.Kenapa BPUPKI Dibubarkan ?\n18.Jelaskan peristiwa rengas dengklok?\n19.<em>Siapa<\/em> yang termasuk golongan tua .. Dan <em>siapa<\/em> golongan muda?\n20.Dimana proklamasi dirumuskan?\n21.Bagaimana cara pemberitaan berita proklamasi ?\n22.PPKI mengadakan rapat : \n#Tanggal 18 Agustus hasil keputusan:..?\n#Tanggal 19 dan hasil keputusan?\n# Tanggal 22 dan hasil keputusan?\n#Tanggal 23 dan hasil keputusan?\n...Yang bisa jawab semua atau setengah nya <em>gw<\/em> Doain Cepet naik haji.. Rejeki lancar .. <em>Jodoh<\/em> lancar !!",
+                        "snippet_content": "keputusan?\n#Tanggal 23 dan hasil keputusan?\n...Yang bisa jawab semua atau setengah nya <em>gw<\/em> Doain Cepet naik haji.. Rejeki lancar .. <em>Jodoh<\/em> lancar !!"
+                    },
+                    "responses": [
+                        {
+                            "id": 13026072,
+                            "user_id": 5061698,
+                            "task_id": 10738587,
+                            "points": 25,
+                            "created": "2017-05-21T20:18:59+07:00",
+                            "content": "15.pada tanggal 1 maret 1945,oleh jendral kumakichi harada<br \/>Dan ketuanya Dr.Radjiman Widyodiningrat<br \/>20.jl pegangsaan timur no 56,jakarta",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "6",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5061698,
+                                "nick": "zahraanwar",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 2,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 1136512,
+            "nick": "jahrianderson",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 2,
+                "comments": 13
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 207794,
+            "nick": "additpamungkas",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 13,
+                "answers": 31,
+                "comments": 5
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d01\/74109ba8f560510e79bc30e0ef916898.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d20\/5602f0ff87bcb00cfea86cfc08369fc0.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d01\/74109ba8f560510e79bc30e0ef916898.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d20\/5602f0ff87bcb00cfea86cfc08369fc0.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 1132518,
+            "nick": "resawhyn",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 8,
+                "comments": 3
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/ddb\/8edd1d2aa1574b8495c893c4e18f0e96.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d61\/75f639179117718e65a19621520a8c5a.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/ddb\/8edd1d2aa1574b8495c893c4e18f0e96.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d61\/75f639179117718e65a19621520a8c5a.png"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1790812,
+            "nick": "Trivaldi",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 10,
+                "answers": 7,
+                "comments": 5
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d42\/2f34f581e52dd24f15453219edf94353.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d1d\/0761d0bc65a75df9ccaf7280c9f01e2c.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d42\/2f34f581e52dd24f15453219edf94353.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d1d\/0761d0bc65a75df9ccaf7280c9f01e2c.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 5061698,
+            "nick": "zahraanwar",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 3,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        }
+    ],
+    "validated": false
+}

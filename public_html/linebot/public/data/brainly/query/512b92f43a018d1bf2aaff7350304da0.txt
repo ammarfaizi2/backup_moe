@@ -1,0 +1,972 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 2337152,
+                        "subject_id": 15,
+                        "user_id": 1303919,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Saya ingin  belajar tentang macam-macam huruf jepang beserta penjelasannya",
+                        "created": "2015-03-23T19:51:54+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2015-03-23T22:34:08+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Saya ingin  belajar tentang <em>macam<\/em>-<em>macam<\/em> <em>huruf<\/em> <em>jepang<\/em> beserta penjelasannya",
+                        "snippet_content": "Saya ingin  belajar tentang <em>macam<\/em>-<em>macam<\/em> <em>huruf<\/em> <em>jepang<\/em> beserta penjelasannya"
+                    },
+                    "responses": [
+                        {
+                            "id": 2983281,
+                            "user_id": 1033202,
+                            "task_id": 2337152,
+                            "points": 5,
+                            "created": "2015-03-23T22:34:08+07:00",
+                            "content": "di jepang ada 2 macam huruf yang dipakai dalam bahasa sehari-hari",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [
+                                {
+                                    "full": "https:\/\/id-static.z-dn.net\/files\/d9b\/9bd99beda572cb73614ae49b79eba0ee.jpg",
+                                    "thumbnail": "https:\/\/id-static.z-dn.net\/files\/d99\/486993b4b5b9a9845936030a0b5f9185.jpg",
+                                    "type": "image\/jpeg",
+                                    "size": 49606,
+                                    "hash": "9bd99beda572cb73614ae49b79eba0ee",
+                                    "id": 973491,
+                                    "extension": "jpg"
+                                }
+                            ],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 1898667,
+                                        "user_id": 1305216,
+                                        "content": "di jepang ada 3 cara baca penulisan <br \/>1. hiragana = hiragana digunakan untuk cara baca kanji, partikel, dll<br \/>2. katakana =biasa digunakan untuk kata serapan bahasa asing. misalnya (nightmare jadi 'naitomea')<br \/>3. kanji = digunakan untuk penulisan yang biasanya 1 kata terdiri dari 1 huruf kanji",
+                                        "created": "2015-03-24T09:40:50+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1033202,
+                                "nick": "ambarwati31",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d1c\/10810197db21fcbd7d91172f03fb74be.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 2337124,
+                        "subject_id": 15,
+                        "user_id": 1303919,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Saya ingi  belajar tentang macam-macam huruf jepang beserta artinya",
+                        "created": "2015-03-23T19:50:19+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2015-03-24T00:28:56+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Saya ingi  belajar tentang <em>macam<\/em>-<em>macam<\/em> <em>huruf<\/em> <em>jepang<\/em> beserta artinya",
+                        "snippet_content": "Saya ingi  belajar tentang <em>macam<\/em>-<em>macam<\/em> <em>huruf<\/em> <em>jepang<\/em> beserta artinya"
+                    },
+                    "responses": [
+                        {
+                            "id": 2983642,
+                            "user_id": 176123,
+                            "task_id": 2337124,
+                            "points": 5,
+                            "created": "2015-03-24T00:28:56+07:00",
+                            "content": "Kalau begitu coba pelajari dasar tentang\u00a0cara menulis Huruf Hiragana, lalu Katakana, dan kemudian kanji dasar tentang angka dari tabel2 berikut.<br \/>Semoga bermanfaat~",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [
+                                {
+                                    "full": "https:\/\/id-static.z-dn.net\/files\/d4d\/b68464dcc9100de27ed245f49df6a1bd.jpg",
+                                    "thumbnail": "https:\/\/id-static.z-dn.net\/files\/d5a\/8295f3890ba63ad407793c6fc063c7dd.jpg",
+                                    "type": "image\/jpeg",
+                                    "size": 61316,
+                                    "hash": "b68464dcc9100de27ed245f49df6a1bd",
+                                    "id": 973562,
+                                    "extension": "jpg"
+                                },
+                                {
+                                    "full": "https:\/\/id-static.z-dn.net\/files\/d57\/22959c3bf6f517c0592162a4d5e892d0.png",
+                                    "thumbnail": "https:\/\/id-static.z-dn.net\/files\/d33\/95630776caa7c37d211851e1fa9ba156.png",
+                                    "type": "image\/png",
+                                    "size": 68966,
+                                    "hash": "22959c3bf6f517c0592162a4d5e892d0",
+                                    "id": 973563,
+                                    "extension": "png"
+                                },
+                                {
+                                    "full": "https:\/\/id-static.z-dn.net\/files\/d9e\/148998fc147ddec27d30e9c711f4c993.png",
+                                    "thumbnail": "https:\/\/id-static.z-dn.net\/files\/d50\/55b58df31435204d7c5dab1f3d57650f.png",
+                                    "type": "image\/png",
+                                    "size": 7756,
+                                    "hash": "148998fc147ddec27d30e9c711f4c993",
+                                    "id": 973564,
+                                    "extension": "png"
+                                }
+                            ],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 2984900,
+                            "user_id": 1305216,
+                            "task_id": 2337124,
+                            "points": 5,
+                            "created": "2015-03-24T09:42:55+07:00",
+                            "content": "<span>di jepang ada 3 cara baca penulisan <br \/>1. hiragana = hiragana digunakan untuk cara baca kanji, partikel, dll<br \/>2. katakana =biasa digunakan untuk kata serapan bahasa asing. misalnya (nightmare jadi 'naitomea')<br \/>3. kanji = digunakan untuk penulisan yang biasanya 1 kata terdiri dari 1 huruf kanji<\/span><br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 176123,
+                                "nick": "Heyasa",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d63\/c5a681b9773473dddbd02eb6117a78e6.png"
+                            },
+                            {
+                                "id": 1305216,
+                                "nick": "QweenofTroll",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/de5\/be0e3bca4072c5ccdac3e5baaca643c9.jpeg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 4898249,
+                        "subject_id": 15,
+                        "user_id": 2507964,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Ada berapa macam huruf dalam Bahasa Jepang? Sebutkan!",
+                        "created": "2016-01-25T18:01:52+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2016-01-25T18:26:20+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Ada berapa <em>macam<\/em> <em>huruf<\/em> dalam Bahasa <em>Jepang<\/em>? Sebutkan!",
+                        "snippet_content": "Ada berapa <em>macam<\/em> <em>huruf<\/em> dalam Bahasa <em>Jepang<\/em>? Sebutkan!"
+                    },
+                    "responses": [
+                        {
+                            "id": 5814451,
+                            "user_id": 2497481,
+                            "task_id": 4898249,
+                            "points": 5,
+                            "created": "2016-01-25T18:26:20+07:00",
+                            "content": "Ada 4 macam huruf dalam Bahasa Jepang:<br \/>1. Hiragana<br \/>2. Katakana<br \/>3. Kanji<br \/>4. Romaji",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2016-01-27T07:59:27+07:00",
+                                "approver": {
+                                    "id": 1567002,
+                                    "nickname": "Satakyouya",
+                                    "points": 188868,
+                                    "grade": 2,
+                                    "gender": 1,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/d57\/7b259b420a815767a433d541d3d516fe.jpg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/d11\/adb193fdc17be1e84ed6b1ce6bdbecd2.jpg"
+                                    },
+                                    "content_approved_count": 12407
+                                }
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 3496675,
+                                        "user_id": 2541233,
+                                        "content": "dalam huruf jepang terdapat 4 macam huruf yaitu:",
+                                        "created": "2016-02-02T12:48:38+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2497481,
+                                "nick": "WildanIrfanii",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 84355,
+                        "subject_id": 15,
+                        "user_id": 53389,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "tolong yah terjemahkan ke bahasa jepang dan menggunakan huruf hiragana,jika kata''nya ada yang katakana tulis dalam bentuk katakana....pleaseee yah tolong aku,tugasnya senin dikumpul'in,ne aq kasih bacaannya.....<br \/>''pada hari libur kemarin pada hari senin ,rabu,jum'at.saya les fisika ,kimia,mtk dari jam 14.00 sampai 16.00.saya pergi menggunakan bus dan saya pergi sendiri ke primagama.pulang dari les saya pergi kepantai,lalu saya pulang kerumah.hari selasa saya pergi kekebun sekolah dan saya pergi kesana bersama teman.hari kamis saya belajar fisika karena ulangan.kemudian saya menonton tv.saya tidak melakukan apa'' pada sore harinya hanya membantu orang tua.hari sabtu,saya tidak melakukan apa'' dan hanya menonton tv.sore harinya saya pergi kerumah teman dengan jalan kaki.minggu pagi saya kerumah nenek saya dan siangnya saya belajar fisika dirumah.malam harinya saya menonton tv bersama keluarga,lalu tidur dan istirahat.''<br \/>",
+                        "created": "2014-03-15T16:11:17+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2014-03-15T16:28:26+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [
+                                {
+                                    "id": 125053,
+                                    "user_id": 53389,
+                                    "content": "pke hruf jepang bisa juga romaji",
+                                    "created": "2014-03-15T16:31:19+07:00",
+                                    "deleted": true,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                },
+                                {
+                                    "id": 125055,
+                                    "user_id": 59464,
+                                    "content": "tuh ada yang ngirim file itu udah tulisan romaji tadi aku liat",
+                                    "created": "2014-03-15T16:32:00+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                },
+                                {
+                                    "id": 125061,
+                                    "user_id": 53389,
+                                    "content": "tapi kata''nya bukan kya gtu,harus pke bahasa yang masih sehari''",
+                                    "created": "2014-03-15T16:33:53+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                },
+                                {
+                                    "id": 125064,
+                                    "user_id": 59464,
+                                    "content": "haduh itu lumayan sulit juga kalo ditranslate sama aja bakal kayak gitu",
+                                    "created": "2014-03-15T16:35:04+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                },
+                                {
+                                    "id": 125067,
+                                    "user_id": 53389,
+                                    "content": "it di translate digeogle terjemahan?",
+                                    "created": "2014-03-15T16:35:41+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                }
+                            ],
+                            "last_id": 125053,
+                            "count": 12
+                        },
+                        "highlighted_content": "tolong yah terjemahkan ke bahasa <em>jepang<\/em> dan menggunakan <em>huruf<\/em> hiragana,jika kata''nya ada yang katakana tulis dalam bentuk katakana....pleaseee yah tolong aku,tugasnya senin dikumpul'in,ne aq kasih bacaannya.....''pada hari libur kemarin pada hari senin ,rabu,jum'at.saya les fisika ,kimia,mtk dari jam 14.00 sampai 16.00.saya pergi menggunakan bus dan saya pergi sendiri ke primagama.pulang dari les saya pergi kepantai,lalu saya pulang kerumah.hari selasa saya pergi kekebun sekolah dan saya pergi kesana bersama teman.hari kamis saya belajar fisika karena ulangan.kemudian saya menonton tv.saya tidak melakukan apa'' pada sore harinya hanya membantu orang tua.hari sabtu,saya tidak melakukan apa'' dan hanya menonton tv.sore harinya saya pergi kerumah teman dengan jalan kaki.minggu pagi saya kerumah nenek saya dan siangnya saya belajar fisika dirumah.<em>malam<\/em> harinya saya menonton tv bersama keluarga,lalu tidur dan istirahat.''",
+                        "snippet_content": "tolong yah terjemahkan ke bahasa <em>jepang<\/em> dan menggunakan <em>huruf<\/em> hiragana,jika kata''nya ada yang katakana tulis dalam bentuk katakana....pleaseee yah"
+                    },
+                    "responses": [
+                        {
+                            "id": 132792,
+                            "user_id": 43742,
+                            "task_id": 84355,
+                            "points": 5,
+                            "created": "2014-03-15T16:28:26+07:00",
+                            "content": "ini jawabanya ada di\u00a0doc<br \/>maaf kalau salah",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 2,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [
+                                {
+                                    "full": "https:\/\/id-static.z-dn.net\/files\/da3\/f36a43ff0902933b494d1797bdf47471.docx",
+                                    "type": "application\/zip",
+                                    "size": 11495,
+                                    "hash": "f36a43ff0902933b494d1797bdf47471",
+                                    "id": 58931,
+                                    "extension": "docx"
+                                }
+                            ],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 125068,
+                                        "user_id": 53389,
+                                        "content": "masih yang tadi it?,it bahasanya sulit dimengerti",
+                                        "created": "2014-03-15T16:36:39+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 125076,
+                                        "user_id": 43742,
+                                        "content": "aoch",
+                                        "created": "2014-03-15T16:39:07+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 125085,
+                                        "user_id": 53389,
+                                        "content": "tolong yah bantu aq.....",
+                                        "created": "2014-03-15T16:43:24+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 125090,
+                                        "user_id": 43742,
+                                        "content": "maaf aq gx bisa...<br \/>maaf ya",
+                                        "created": "2014-03-15T16:47:41+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 125094,
+                                        "user_id": 53389,
+                                        "content": "iya.....",
+                                        "created": "2014-03-15T16:49:04+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 125068,
+                                "count": 7
+                            }
+                        },
+                        {
+                            "id": 132851,
+                            "user_id": 62864,
+                            "task_id": 84355,
+                            "points": 5,
+                            "created": "2014-03-15T17:12:29+07:00",
+                            "content": "<span>''\u6628\u65e5\u6708\u66dc\u65e5\u3001\u6c34\u66dc\u65e5\u3001\u91d1\u66dc\u65e5\u300216.00.saya\u304c\u30d0\u30b9\u3092\u4f7f\u7528\u3057\u3088\u3046\u3068\u79c1\u306fkepantai\u884c\u3063\u3066\u304d\u307e\u3057\u305f\u500b\u5225\u6307\u5c0e\u306eprimagama.pulang\u306b\u4e00\u4eba\u3067\u884c\u304f\u307e\u3067\u79c1\u306e\u500b\u5225\u6307\u5c0e\u7269\u7406\u3001\u5316\u5b66\u306f\u300114:00\u6642\u9593MTK\u4e0a\u306e\u4f11\u65e5\u306b\u3001\u79c1\u306f\u5bb6\u306b\u5e30\u308b\u706b\u66dc\u65e5\u79c1\u306fkekebun kerumah.hari\u5b66\u6821\u306b\u884c\u304d\u3001\u79c1\u306ftv.saya\u306f\u3061\u3087\u3046\u3069\u4eba\u3005tua.hari\u571f\u66dc\u65e5\u3092\u52a9\u3051\u308b\u305f\u3081\u306b\u3001\u5348\u5f8c\u306b\u306f\u4f55\u3082''\u306a\u3044ulangan.kemudian\u898b\u308b\u306e\u3067\u3001\u79c1\u306f\u7269\u7406\u5b66\u3092\u52c9\u5f37teman.hari\u79c1\u306e\u6728\u66dc\u65e5\u306b\u884c\u304d\u307e\u3057\u305f\u3001\u79c1\u306f\u4f55\u3082\u3057\u307e\u305b\u3093\u3067\u3057\u305f\u300c\u3061\u3087\u3046\u3069\u79c1\u304c\u79c1\u306e\u65b9\u6cd5\u30db\u30fc\u30e0kaki.minggu\u306e\u5348\u524d\u3068\u5348\u5f8c\u3001\u53cb\u4eba\u3068\u5bb6\u306b\u5e30\u308a\u307e\u3057\u305ftv.sore\u65e5\u3092\u898b\u3066\u3001\u79c1\u306f\u7269\u7406\u5b66\u306f\u5bb6\u65cf\u3068\u4e00\u7dd2\u306b\u30c6\u30ec\u30d3\u3092\u898b\u3066\u79c1\u306e\u4e00\u65e5\u3092dirumah.malam\u3001\u7761\u7720\u3068\u4f11\u606f\u3002''\u5b66\u3093\u3060\u79c1\u306e\u7956\u6bcd<\/span><span>''\n Kin\u014d getsuy\u014dbi, suiy\u014dbi, kin'y\u014dbi. 16. 00. Saya ga basu o shiy\u014d shiyou \nto watashi wa kepantai ittekimashita kobetsu shid\u014d no primagama. Pulang \nni hitori de iku made watashi no kobetsu shid\u014d butsuri, kagaku wa, 14: \n00-Jikan MTK-j\u014d no ky\u016bjitsu ni, watashi wa ienikaeru Kay\u014dbi watashi wa \nkekebun kerumah. Hari gakk\u014d ni iki, watashi wa tv. Saya wa ch\u014ddo \nhitobito tua. Hari doy\u014dbi o tasukeru tame ni, gogo ni wa nani mo'' nai \nulangan. Kemudian miru node, watashi wa butsurigaku o benky\u014d teman. Hari\n watashi no mokuy\u014dbi ni ikimashita, watashi wa nani mo shimasendeshita \n`Ch\u014ddo watashi ga watashi no h\u014dh\u014d h\u014dmu kaki. Minggu no gozen to gogo, \ny\u016bjin to ie ni kaerimashita tv. Sore-bi o mite, watashi wa butsurigaku \nwa kazoku to issho ni terebi o mite watashi no tsuitachi o dirumah. \nMalam, suimin to ky\u016bsoku. '' Mananda watashi no sobo<\/span>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2015-03-12T20:26:38+07:00",
+                                "approver": {
+                                    "id": 478891,
+                                    "nickname": "dayatullah",
+                                    "points": 118950,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/d09\/7d8084ca8e9dd97439b9e81e5c163838.jpg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/d09\/e1703059e4be5905c81c3f027c88b0d0.jpg"
+                                    },
+                                    "content_approved_count": 1619
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 43742,
+                                "nick": "anggitasari9",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d66\/56c6f5b3db2226cfe7baf91a7abaf13d.jpeg"
+                            },
+                            {
+                                "id": 62864,
+                                "nick": "Mujahidin",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/ded\/155efd8778082d2bae3066cac10e0bb0.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 4,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 1303919,
+            "nick": "AniezaBealpeas",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1305216,
+            "nick": "QweenofTroll",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 69,
+                "comments": 16
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d28\/b152d6f3051b98bef3c040ed09f4d350.jpeg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de5\/be0e3bca4072c5ccdac3e5baaca643c9.jpeg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d28\/b152d6f3051b98bef3c040ed09f4d350.jpeg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de5\/be0e3bca4072c5ccdac3e5baaca643c9.jpeg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 1033202,
+            "nick": "ambarwati31",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 11,
+                "answers": 7,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de7\/754e87a4d6a5870af2efb51d63a5e3fc.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d1c\/10810197db21fcbd7d91172f03fb74be.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de7\/754e87a4d6a5870af2efb51d63a5e3fc.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d1c\/10810197db21fcbd7d91172f03fb74be.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 176123,
+            "nick": "Heyasa",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 52,
+                "comments": 12
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dec\/b95eca49d9c52c892af58a36ba37b59b.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d63\/c5a681b9773473dddbd02eb6117a78e6.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dec\/b95eca49d9c52c892af58a36ba37b59b.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d63\/c5a681b9773473dddbd02eb6117a78e6.png"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 2507964,
+            "nick": "lvkintan",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d7f\/36a78b85d09edf1378232066be0eae3b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da3\/ce9a0cd1260703da42e5461570d7b209.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d7f\/36a78b85d09edf1378232066be0eae3b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da3\/ce9a0cd1260703da42e5461570d7b209.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 2541233,
+            "nick": "Yumi04",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 5,
+                "comments": 1
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dae\/549a189a31cfce5a791a6a72f04c9fee.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d73\/a19759fc229f73254cf2877c8eedca31.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dae\/549a189a31cfce5a791a6a72f04c9fee.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d73\/a19759fc229f73254cf2877c8eedca31.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 2497481,
+            "nick": "WildanIrfanii",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 8,
+                "answers": 8,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 53389,
+            "nick": "mukni",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 19,
+                "answers": 9,
+                "comments": 41
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 59464,
+            "nick": "alwyfeby",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 323,
+                "comments": 157
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de6\/721e82fd0383a6c0a1ed04a8c7f0d5d3.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d53\/2cd54cc9e19c53e260517224c75a04ed.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de6\/721e82fd0383a6c0a1ed04a8c7f0d5d3.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d53\/2cd54cc9e19c53e260517224c75a04ed.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        },
+        {
+            "id": 43742,
+            "nick": "anggitasari9",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 36,
+                "comments": 18
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9d\/db1909fbcf253d65b4633367358ea121.jpeg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d66\/56c6f5b3db2226cfe7baf91a7abaf13d.jpeg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9d\/db1909fbcf253d65b4633367358ea121.jpeg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d66\/56c6f5b3db2226cfe7baf91a7abaf13d.jpeg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 62864,
+            "nick": "Mujahidin",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 69,
+                "comments": 17
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db3\/b1eb8501e17e233c25579c11c55803cb.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ded\/155efd8778082d2bae3066cac10e0bb0.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db3\/b1eb8501e17e233c25579c11c55803cb.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ded\/155efd8778082d2bae3066cac10e0bb0.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        }
+    ],
+    "validated": false
+}

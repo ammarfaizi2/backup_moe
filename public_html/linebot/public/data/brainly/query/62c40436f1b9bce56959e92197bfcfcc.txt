@@ -1,0 +1,2553 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 5231030,
+                        "subject_id": 1,
+                        "user_id": 2249824,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "siapa nama bapaknya ilham??",
+                        "created": "2016-02-25T10:30:31+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2016-02-25T10:38:45+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "<em>siapa<\/em> nama bapaknya <em>ilham<\/em>??",
+                        "snippet_content": "<em>siapa<\/em> nama bapaknya <em>ilham<\/em>??"
+                    },
+                    "responses": [
+                        {
+                            "id": 6183368,
+                            "user_id": 2327947,
+                            "task_id": 5231030,
+                            "points": 5,
+                            "created": "2016-02-25T10:38:45+07:00",
+                            "content": "maksudnya apa ....<br \/>...........<br \/>............",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2327947,
+                                "nick": "lulu62",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dd6\/0bed2d269c8426f3065fba99ed50d8c9.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 4806571,
+                        "subject_id": 3,
+                        "user_id": 2427951,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Siapakah nama orang tuanya ILHAM AKBAR HABIBIE",
+                        "created": "2016-01-16T11:04:18+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2016-01-16T11:15:15+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "<em>Siapa<\/em>kah nama orang tuanya <em>ILHAM<\/em> AKBAR HABIBIE",
+                        "snippet_content": "<em>Siapa<\/em>kah nama orang tuanya <em>ILHAM<\/em> AKBAR HABIBIE"
+                    },
+                    "responses": [
+                        {
+                            "id": 5713064,
+                            "user_id": 2444673,
+                            "task_id": 4806571,
+                            "points": 5,
+                            "created": "2016-01-16T11:15:15+07:00",
+                            "content": "<span>Orang tua:\u00a0<\/span><span>Bacharuddin Jusuf Habibie,\u00a0Hasri Ainun Besari<br \/><br \/>Cerita Dari:\u00a0https:\/\/id.wikipedia.org\/wiki\/Ilham_Akbar_Habibie<br \/><\/span><br \/>Dr.\u00a0-Ing.\u00a0Ilham Akbar<span>,\u00a0<\/span>MBA<span>\u00a0atau biasa ditulis Ilham Akbar Habibie (lahir di\u00a0<\/span>Aachen<span>,\u00a0<\/span>Jerman<span>,\u00a0<\/span>16 Mei\u00a01963<span>; umur 52 tahun) adalah pakar penerbangan dari Indonesia. Ia adalah anak pertama dari pasangan\u00a0<\/span>Hasri Ainun Habibie<span>\u00a0dan\u00a0<\/span>Prof.\u00a0Dr.-Ing.\u00a0H.\u00a0Bacharuddin Jusuf Habibie<span>, Mantan\u00a0<\/span>Presiden Republik Indonesia<span>\u00a0yang ketiga. Sebagai sarjana penerbangan, melalui PT Regio Aviasi Industri, ia membidani Program\u00a0<\/span>Regio Prop<span>, proyek pesawat komersial buatan dalam negeri yang merupakan pengembangan dari\u00a0<\/span>N-250[1][2]<span>. Ia menggandeng\u00a0<\/span>Erry Firmansyah<span>, mantan direktur utama PT\u00a0<\/span>Bursa Efek Indonesia<span>\u00a0(BEI), untuk membangun perusahaan PT Regio Aviasi Industri (RAI)<\/span>[3].<span><br \/><br \/><\/span>Hanya Segitu Saja<br \/>So much only Just<br \/>https:\/\/www.google.co.id\/search?q=Aachen,+Jerman&amp;rlz=1C1GGGE___ID650ID650&amp;espv=2&amp;biw=1366&amp;bih=667&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=0ahUKEwiQ5s-Yu63KAhVTJI4KHS3cA1AQ_AUIBygC#imgrc=Mu6Yo2bxwloP5M%3A<br \/>\u00a0Silahkan Opened<br \/>https:\/\/www.google.co.id\/search?q=Aachen,+Jerman&amp;rlz=1C1GGGE___ID650ID650&amp;espv=2&amp;biw=1366&amp;bih=667&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=0ahUKEwiQ5s-Yu63KAhVTJI4KHS3cA1AQ_AUIBygC#imgrc=hR3D2ser2cBZrM%3A<br \/>Yes Opened Silents<br \/><br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 5713471,
+                            "user_id": 2466821,
+                            "task_id": 4806571,
+                            "points": 5,
+                            "created": "2016-01-16T12:26:55+07:00",
+                            "content": "Prof. DR. (HC). Ing. Dr. Sc. Mult. Bacharudin Jusuf Habibie (Ayah)<br \/>Hasri Ainun Besari (Ibu)",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2444673,
+                                "nick": "TheendSides",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/df6\/ef4f913e69605674388e6a5025011faf.jpg"
+                            },
+                            {
+                                "id": 2466821,
+                                "nick": "pratiwisa",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/df0\/6abfa9b52642d0d30ce0ad2fa4adc7cb.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 8492199,
+                        "subject_id": 19,
+                        "user_id": 4184486,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "siapa yang bau asam selain ilham?",
+                        "created": "2016-11-21T11:26:34+07:00",
+                        "responses": 2,
+                        "tickets": 3,
+                        "first_resp": "2016-11-21T11:28:58+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "<em>siapa<\/em> yang bau asam selain <em>ilham<\/em>?",
+                        "snippet_content": "<em>siapa<\/em> yang bau asam selain <em>ilham<\/em>?"
+                    },
+                    "responses": [
+                        {
+                            "id": 10080995,
+                            "user_id": 4123579,
+                            "task_id": 8492199,
+                            "points": 5,
+                            "created": "2016-11-21T11:28:58+07:00",
+                            "content": "orang yg udh lama gak mandi ",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 10081055,
+                            "user_id": 3417018,
+                            "task_id": 8492199,
+                            "points": 5,
+                            "created": "2016-11-21T11:34:49+07:00",
+                            "content": "semua juga bau asam kalau udah keringetan . tapi ada levelnya",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 5837271,
+                                        "user_id": 4184486,
+                                        "content": "jawaban mu sangat bagus",
+                                        "created": "2017-01-14T04:17:47+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4123579,
+                                "nick": "irfanew",
+                                "avatar": null
+                            },
+                            {
+                                "id": 3417018,
+                                "nick": "srohimah931",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d56\/424505b2437f86f53e53c0c19e84522b.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 7047067,
+                        "subject_id": 3,
+                        "user_id": 3541262,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "siapa nama tokoh ahli yang berpendapat bahwa didalam pendidikan dan usaha menumbuhkan cita cita masa kini dan hari esok pengutahuan tentang cita cita masa lampau merupakan sumber ilham yang penting adalah<br \/>a. karl marx<br \/>b. george macaulay travelyan<br \/>c. charles a. beard<br \/>d. h.j. de graaf<br \/>e. david gordon<br \/>",
+                        "created": "2016-08-29T06:53:03+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2016-09-03T14:14:32+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "<em>siapa<\/em> nama tokoh ahli yang berpendapat bahwa didalam pendidikan dan usaha menumbuhkan cita cita masa kini dan hari esok pengutahuan tentang cita cita masa lampau merupakan sumber <em>ilham<\/em> yang penting adalaha. karl marxb. george macaulay travelyanc. charles a. beardd. h.j. de graafe. david gordon",
+                        "snippet_content": "<em>siapa<\/em> nama tokoh ahli yang berpendapat bahwa didalam pendidikan dan usaha menumbuhkan cita cita masa kini dan hari esok pengutahuan tentang cita"
+                    },
+                    "responses": [
+                        {
+                            "id": 8465718,
+                            "user_id": 3600415,
+                            "task_id": 7047067,
+                            "points": 5,
+                            "created": "2016-09-03T14:14:32+07:00",
+                            "content": "b.george macaulay travelyan",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3600415,
+                                "nick": "ludfiarjundika",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 6771587,
+                        "subject_id": 2,
+                        "user_id": 3313771,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "hai ka tolong aku ya.1.sebutkan 3 pecahan yg senilai  dgn 2\/8 .2.jarak rumah panji 5\/10,jarak rumah yasmin  ke sekolah 4\/8.siapa rumah yg lebih dekat dgn sekolah.  3.ilham punya 2potong tali masing2 5\/10m dan4\/10m.berapa panjang seluruh tali bila disambung.  4. satrio mempunyai 25\/35 bagian semangka  diberikan pada adiknya 17\/35.berapa sisa semangka satrio<br \/>",
+                        "created": "2016-08-11T23:25:22+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2016-08-11T23:41:44+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "hai ka tolong aku ya.1.sebutkan 3 pecahan yg senilai  dgn 2\/8 .2.jarak rumah panji 5\/10,jarak rumah yasmin  ke sekolah 4\/8.<em>siapa<\/em> rumah yg lebih dekat dgn sekolah.  3.<em>ilham<\/em> punya 2potong tali masing2 5\/10m dan4\/10m.berapa panjang seluruh tali bila disambung.  4. satrio mempunyai 25\/35 bagian semangka  diberikan pada adiknya 17\/35.berapa sisa semangka satrio",
+                        "snippet_content": "rumah panji 5\/10,jarak rumah yasmin  ke sekolah 4\/8.<em>siapa<\/em> rumah yg lebih dekat dgn sekolah.  3.<em>ilham<\/em> punya 2potong"
+                    },
+                    "responses": [
+                        {
+                            "id": 8042943,
+                            "user_id": 3403758,
+                            "task_id": 6771587,
+                            "points": 5,
+                            "created": "2016-08-11T23:41:44+07:00",
+                            "content": "kalo pecahan 2\/8 : 1\/4",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 4552190,
+                                        "user_id": 3313771,
+                                        "content": "ka tolong sama caranya ya,saya g paham kalau cuma jawabannya aja",
+                                        "created": "2016-08-11T23:55:57+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        },
+                        {
+                            "id": 8042970,
+                            "user_id": 1813122,
+                            "task_id": 6771587,
+                            "points": 5,
+                            "created": "2016-08-11T23:50:40+07:00",
+                            "content": "1. 1\/4 , 3\/12 , 8\/32<br \/>2.  sama saja jaraknya yaitu 1\/2<br \/>3. 9\/10<br \/>4. 8\/35",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 4552198,
+                                        "user_id": 3313771,
+                                        "content": "ka tolong pakai caranya ya,aku g paham",
+                                        "created": "2016-08-12T00:07:35+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3403758,
+                                "nick": "SyFira25",
+                                "avatar": null
+                            },
+                            {
+                                "id": 1813122,
+                                "nick": "Jansen11",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 4701098,
+                        "subject_id": 14,
+                        "user_id": 40360,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 12,
+                            "ptsForResp": 6,
+                            "ptsForBest": 3
+                        },
+                        "content": "Pernyataan yang termasuk dalam contoh ketentuan dari takdir mubram adalah...<br \/>\na.hidup yang benar,beriman atau kafir ,sukses atau gagal ,sedih atau gembira<br \/>\nb.karier yang bagus ,rumah tangga yang sejahtera,anak-anak yang salih<br \/>\nc.kaya dan miskin,cerdas dan bodoh,sehat dan sakit,sejahtera dan sengsara<br \/>\nd.saat kematian datang,kelahiran,jenis kelamin,siapa orang tua kita<br \/>\ne.harapan serta cita-cita,harta,jabatan,ilham,dan ilmu pengetahuan",
+                        "created": "2015-12-24T13:06:09+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2015-12-24T13:09:58+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Pernyataan yang termasuk dalam contoh ketentuan dari takdir mubram adalah...\na.hidup yang benar,beriman atau kafir ,sukses atau gagal ,sedih atau gembira\nb.karier yang bagus ,rumah tangga yang sejahtera,anak-anak yang salih\nc.kaya dan miskin,cerdas dan bodoh,sehat dan sakit,sejahtera dan sengsara\nd.saat kematian datang,kelahiran,jenis kelamin,<em>siapa<\/em> orang tua kita\ne.harapan serta cita-cita,harta,jabatan,<em>ilham<\/em>,dan ilmu pengetahuan",
+                        "snippet_content": "d.saat kematian datang,kelahiran,jenis kelamin,<em>siapa<\/em> orang tua kita\ne.harapan serta cita-cita,harta,jabatan,<em>ilham<\/em>,dan ilmu pengetahuan"
+                    },
+                    "responses": [
+                        {
+                            "id": 5573843,
+                            "user_id": 644564,
+                            "task_id": 4701098,
+                            "points": 6,
+                            "created": "2015-12-24T13:09:58+07:00",
+                            "content": "jawabnnya D.<br \/>karna takdir mubrom tidak dapat di rubah <br \/>",
+                            "mark": 3,
+                            "marks_count": 1,
+                            "thanks": 2,
+                            "user_best_rank_id": 7,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2015-12-24T13:13:42+07:00",
+                                "approver": {
+                                    "id": 40360,
+                                    "nickname": "adamdhijee",
+                                    "points": 133348,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/df5\/407fd36a7e79f51b46bfb92b0f170022.jpg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/d9c\/3c29e46e15e6cc48e03bc38fd8fc1700.jpg"
+                                    },
+                                    "content_approved_count": 5974
+                                }
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 3327716,
+                                        "user_id": 40360,
+                                        "content": "^_^",
+                                        "created": "2015-12-24T13:13:41+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        },
+                        {
+                            "id": 5573869,
+                            "user_id": 748113,
+                            "task_id": 4701098,
+                            "points": 6,
+                            "created": "2015-12-24T13:23:13+07:00",
+                            "content": "Takdir mubram adalah takdir yang ditetapkan oleh Allah swt dan tidak dapat dirubah.<br \/><br \/>Jawabannya yang D. Saat kematian datang, kelahiran, jenis kelamin, siapa orang tua kita<br \/>",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 7,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2015-12-24T13:24:10+07:00",
+                                "approver": {
+                                    "id": 40360,
+                                    "nickname": "adamdhijee",
+                                    "points": 133348,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/df5\/407fd36a7e79f51b46bfb92b0f170022.jpg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/d9c\/3c29e46e15e6cc48e03bc38fd8fc1700.jpg"
+                                    },
+                                    "content_approved_count": 5974
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 644564,
+                                "nick": "5dregensleyer",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d0d\/27f09529850f4d8ec5834f95f2e33724.jpg"
+                            },
+                            {
+                                "id": 748113,
+                                "nick": "tifianti",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dfc\/ae2f5768e9f5bca06115dea9325de899.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 9915660,
+                        "subject_id": 1,
+                        "user_id": 4716851,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 59,
+                            "ptsForResp": 30,
+                            "ptsForBest": 15
+                        },
+                        "content": "We Are Best Friend Di pagi yang cerah seorang gadis duduk di ayunan, dia merasa kesepian karena baru pindah dari washington, tiba tiba dia meneteskan air mata karena dia telah meninggalkan sahabatnya yang bernama callista dan reina. Tiba tiba ada seorang perempuan dan lelaki yang menghampiri yasmin, yasmin kebingungan deengan tujuan apa mereka kesini, di dalam batinnya dia mengatakan siapa mereka?, dan mau apa mereka kesini?. \u201chai, namaku nabila fitri rosyidah bisa dipanggil nabila, salam kenal ya!\u201d kata gadis yang mempunyai rambut keriting, terus \u201chai, namaku dini murtafi\u2019ah azmi bisa dipanggil dini, salam kenal ya!\u201d kata gadis yang mempunyai rambut ikal seperti yasmin \u201chai namaku fildzah aqmarina, bisa dipanggil fildzah, salam kenal ya\u201d kata gadis yang mempunyai rambut lurus \u201cnamaku muhammad ilham al hafidz bisa dipanggil hafidz, salam kenal ya!\u201d kata cowok yang sedang membawa bola Batin yasmin mereka cantik cantik dan terutama hafidz keren sekali \u201ckalau kamu siapa?\u201d kata mereka berempat bareng \u201cemmm nama aku yasmin raihana bisa dipanggil yasmin, salam kenal juga ya!\u201d Mereka berempat tersenyum \u201chei,kamu bisa main bola?\u201d kata hafidz \u201cbisa, yuk main!\u201d Mereka berlima bermain bola hingga pukul 6 sore, wuihh guys lama bingitzss ya hahaha. \u201cyasmin ayuk pulang, terus mandi habis gitu makan malam, kan kita mau ke mall\u201d kata mom yasmin \u201ciya mom, eh guys besok kita main lagi ya soalnya aku mau masuk dulu ke rumah, bye\u2026\u201d kata yasmin pamitan ke emapat temannya \u201cteman baru sayang?\u201d tanya mom \u201ciya mom, mereka berempat asyik banget loh mom, besok ijinkan aku main ya sama mereka lagi, plisss!\u201d \u201ctentu saja boleh ya udah yuk masuk\u201d perintah mom. Kesokan harinya \u201chai, guys menunggu aku lama ya?\u201d tanya yasmin \u201cenggak kok kita aja baru datang dari taman\u201d kata fildzah \u201cehh yasmin kita berempat mau tanya sesuatu ke kamu, boleh gak?\u201d tanya mereka \u201capa?\u201d sahut yasmin yang pensaran \u201ckamu mau gak jadi sahabatnya kita atau kamu mau gak masuk gengnya kita namanya nafidiz?\u201d \u201cnafidiz?\u201d yasmin bingung karena tidak mengerti apa yang di katakan teman barunya \u201cya nafidiz, nabila, fidzah, dini, hafidz, kalau kamu ikut ya jadi yanafidiz, yanya itu kamu\u201d jawab hafidz panjang lebar \u201cya aku mau jadi sahabat kalian dan menjadi anggota kalian, terima kasih ya\u2026\u201d \u201csama sama\u201d jawab mereka berempat bareng. \u201csahabatku\u201d Sahabat dalam berjuta\u2026 Engkaulah pilihanku Kutemui kepayahan dalam mencari sahabat sepertimu Engkaulah sahabat setiaku. Apa kah verpen ini cukup satu lembar kertas folio?? Tolong jawb soalnya bwt ntr malemm",
+                        "created": "2017-03-19T18:49:09+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-05-26T08:15:46+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "6",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "We Are Best Friend Di pagi yang cerah seorang gadis duduk di ayunan, dia merasa kesepian karena baru pindah dari washington, tiba tiba dia meneteskan air mata karena dia telah meninggalkan sahabatnya yang bernama callista dan reina. Tiba tiba ada seorang perempuan dan lelaki yang menghampiri yasmin, yasmin kebingungan deengan tujuan apa mereka kesini, di dalam batinnya dia mengatakan <em>siapa<\/em> mereka?, dan mau apa mereka kesini?. \u201chai, namaku nabila fitri rosyidah bisa dipanggil nabila, salam kenal ya!\u201d kata gadis yang mempunyai rambut keriting, terus \u201chai, namaku dini murtafi\u2019ah azmi bisa dipanggil dini, salam kenal ya!\u201d kata gadis yang mempunyai rambut ikal seperti yasmin \u201chai namaku fildzah aqmarina, bisa dipanggil fildzah, salam kenal ya\u201d kata gadis yang mempunyai rambut lurus \u201cnamaku muhammad <em>ilham<\/em> al hafidz bisa dipanggil hafidz, salam kenal ya!\u201d kata cowok yang sedang membawa bola Batin yasmin mereka cantik cantik dan terutama hafidz keren sekali \u201ckalau kamu <em>siapa<\/em>?\u201d kata mereka berempat bareng \u201cemmm nama aku yasmin raihana bisa dipanggil yasmin, salam kenal juga ya!\u201d Mereka berempat tersenyum \u201chei,kamu bisa main bola?\u201d kata hafidz \u201cbisa, yuk main!\u201d Mereka berlima bermain bola hingga pukul 6 sore, wuihh guys lama bingitzss ya hahaha. \u201cyasmin ayuk pulang, terus mandi habis gitu makan malam, kan kita mau ke mall\u201d kata mom yasmin \u201ciya mom, eh guys besok kita main lagi ya soalnya aku mau masuk dulu ke rumah, bye\u2026\u201d kata yasmin pamitan ke emapat temannya \u201cteman baru sayang?\u201d tanya mom \u201ciya mom, mereka berempat asyik banget loh mom, besok ijinkan aku main ya sama mereka lagi, plisss!\u201d \u201ctentu saja boleh ya udah yuk masuk\u201d perintah mom. Kesokan harinya \u201chai, guys menunggu aku lama ya?\u201d tanya yasmin \u201cenggak kok kita aja baru datang dari taman\u201d kata fildzah \u201cehh yasmin kita berempat mau tanya sesuatu ke kamu, boleh gak?\u201d tanya mereka \u201capa?\u201d sahut yasmin yang pensaran \u201ckamu mau gak jadi sahabatnya kita atau kamu mau gak masuk gengnya kita namanya nafidiz?\u201d \u201cnafidiz?\u201d yasmin bingung karena tidak mengerti apa yang di katakan teman barunya \u201cya nafidiz, nabila, fidzah, dini, hafidz, kalau kamu ikut ya jadi yanafidiz, yanya itu kamu\u201d jawab hafidz panjang lebar \u201cya aku mau jadi sahabat kalian dan menjadi anggota kalian, terima kasih ya\u2026\u201d \u201csama sama\u201d jawab mereka berempat bareng. \u201csahabatku\u201d Sahabat dalam berjuta\u2026 Engkaulah pilihanku Kutemui kepayahan dalam mencari sahabat sepertimu Engkaulah sahabat setiaku. Apa kah verpen ini cukup satu lembar kertas folio?? Tolong jawb soalnya bwt ntr malemm",
+                        "snippet_content": "kebingungan deengan tujuan apa mereka kesini, di dalam batinnya dia mengatakan <em>siapa<\/em> mereka?, dan mau apa mereka kesini?. \u201chai, namaku nabila fitri"
+                    },
+                    "responses": [
+                        {
+                            "id": 13086829,
+                            "user_id": 4967504,
+                            "task_id": 9915660,
+                            "points": 30,
+                            "created": "2017-05-26T08:15:46+07:00",
+                            "content": "kalau pndapat sya sepertinya masih kurang karena krtas volio itu besar dn kata katanya harus diperjelas agar mudh dipahami\/dibaca",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 7,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4967504,
+                                "nick": "Ahmadjeky",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dcc\/dfec586fc15d8c32f6c9a498aaaac505.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 8885785,
+                        "subject_id": 3,
+                        "user_id": 4334519,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "KH Idham Chalid siapakah beliau dan apa jasa beliau bagi Indonesia?",
+                        "created": "2016-12-26T04:20:21+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2016-12-26T04:38:39+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "KH <em>Idham<\/em> Chalid <em>siapa<\/em>kah beliau dan apa jasa beliau bagi Indonesia?",
+                        "snippet_content": "KH <em>Idham<\/em> Chalid <em>siapa<\/em>kah beliau dan apa jasa beliau bagi Indonesia?"
+                    },
+                    "responses": [
+                        {
+                            "id": 10620201,
+                            "user_id": 4328732,
+                            "task_id": 8885785,
+                            "points": 5,
+                            "created": "2016-12-26T04:38:39+07:00",
+                            "content": "KH Idham Chalid adalah seorang ulama (Tokoh NU) dan politikus pelaku filosifi air. KH Idham Chalid merupakan Pahlawan Nasional",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 10621123,
+                            "user_id": 2078271,
+                            "task_id": 8885785,
+                            "points": 5,
+                            "created": "2016-12-26T12:59:28+07:00",
+                            "content": "KH Idham Chalid adalah seorang ulama (Tokoh NU) dan politikus pelaku filosifi air. KH Idham Chalid merupakan Pahlawan Nasional",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4328732,
+                                "nick": "AssyfaRahmahFaizah",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d2f\/c422501aff6ebf83a11df7660ec59c80.jpg"
+                            },
+                            {
+                                "id": 2078271,
+                                "nick": "Siwiasih",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/de7\/d59ef8bb980c674bd63409f3c3feb328.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 9136009,
+                        "subject_id": 10,
+                        "user_id": 4438542,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Mengapa Jepang membentuk sishintai dan jikakutai di Indonesia di ilhami oleh siapa? <br \/>",
+                        "created": "2017-01-25T06:05:53+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2017-01-29T05:26:35+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "6",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Mengapa Jepang membentuk sishintai dan jikakutai di Indonesia di <em>ilhami<\/em> oleh <em>siapa<\/em>? ",
+                        "snippet_content": "Mengapa Jepang membentuk sishintai dan jikakutai di Indonesia di <em>ilhami<\/em> oleh <em>siapa<\/em>? "
+                    },
+                    "responses": [
+                        {
+                            "id": 10975668,
+                            "user_id": 4448658,
+                            "task_id": 9136009,
+                            "points": 5,
+                            "created": "2017-01-29T05:26:35+07:00",
+                            "content": "utk menambah kekuatan perang Jepang <br \/>diilhami oleh hitoshi imamura",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 10978046,
+                            "user_id": 3757213,
+                            "task_id": 9136009,
+                            "points": 5,
+                            "created": "2017-01-29T10:25:00+07:00",
+                            "content": "Saya coba jawab ya \u21e9\u21e9<br \/><br \/>Fungsi nya adalah untuk menambahi kekuatan pada pasukan Jepang. <br \/>Diilhami oleh Hitoshi Imamura. <br \/><br \/>Semoga membantu \u30c4<br \/>Tandai sebagai jawaban terbaik\/tercerdas jika benar :D",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2017-03-26T14:53:44+07:00",
+                                "approver": {
+                                    "id": 2663844,
+                                    "nickname": "Mahaguru",
+                                    "points": 516172,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/db6\/c5fb7b6a68ce26ccea00dc12cb60d96f.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/df7\/fe8fb6dfa0d217a5d3fafa2a27e269ba.png"
+                                    },
+                                    "content_approved_count": 717808
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4448658,
+                                "nick": "Devanggapradana",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d18\/bd115aa9af90c89d374fb093fb0de671.jpg"
+                            },
+                            {
+                                "id": 3757213,
+                                "nick": "Kivimaki",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d00\/e610430ac7746091bb2702abeb572219.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 8885786,
+                        "subject_id": 3,
+                        "user_id": 4334519,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "siapakah KH Idham Chalid?",
+                        "created": "2016-12-26T04:21:45+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2016-12-26T04:32:53+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "<em>siapa<\/em>kah KH <em>Idham<\/em> Chalid?",
+                        "snippet_content": "<em>siapa<\/em>kah KH <em>Idham<\/em> Chalid?"
+                    },
+                    "responses": [
+                        {
+                            "id": 10620200,
+                            "user_id": 4216260,
+                            "task_id": 8885786,
+                            "points": 5,
+                            "created": "2016-12-26T04:32:53+07:00",
+                            "content": "Dr. KH. Idham Chalid (lahir di Satui, Kalimantan Selatan, 27 Agustus 1921\u00a0\u2013\u00a0meninggal di Jakarta, 11 Juli 2010 pada umur 88 tahun) adalah salah satu politisi Indonesia yang berpengaruh pada masanya. Ia pernah menjabat sebagai Wakil Perdana Menteri Indonesia pada Kabinet Ali Sastroamidjojo II dan Kabinet Djuanda. Ia juga pernah menjabat sebagai Ketua MPR dan Ketua DPR. Selain sebagai politikus ia aktif dalam kegiatan keagamaan dan ia pernah menjabat Ketua Tanfidziyah Nahdlatul Ulama pada tahun 1956-1984.",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 10620235,
+                            "user_id": 4331486,
+                            "task_id": 8885786,
+                            "points": 5,
+                            "created": "2016-12-26T05:37:49+07:00",
+                            "content": "KH. Idham Chalid<br \/>- merupakan politisi Indonesia berpengaruh di masanya<br \/>- pemimpin NU (Nadhlatul Ulama) selama 28 tahun (1956-1984) (terlama<br \/>- Wakil Perdana Menteri Indonesia ==&gt; Kabinet Ali Sastroamidjojo II dan Kabinet Djuanda<br \/>- Tokoh yg tercetak di uang Rp. 5.000, 00 cetakan 19 Desember 2016 :)",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "6",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2017-01-20T09:41:50+07:00",
+                                "approver": {
+                                    "id": 2663844,
+                                    "nickname": "Mahaguru",
+                                    "points": 516172,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/db6\/c5fb7b6a68ce26ccea00dc12cb60d96f.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/df7\/fe8fb6dfa0d217a5d3fafa2a27e269ba.png"
+                                    },
+                                    "content_approved_count": 717808
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4216260,
+                                "nick": "dedemaula341",
+                                "avatar": null
+                            },
+                            {
+                                "id": 4331486,
+                                "nick": "rikuta7",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 6272847,
+                        "subject_id": 12,
+                        "user_id": 3120089,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "diketahui SHU koperasi al-ikhlas pada tahun 2015 sebesar Rp 40.000.000,00 berdasarkan ART koperasi,  SHU tersebut akan di bagikan untuk <br \/>\n&gt; jasa modal 25%<br \/>\n&gt;jasa anggota 30%<br \/>\n&gt;jasa pengurus 10%<br \/>\n&gt;dana sosial 10%<br \/>\n&gt;dana pendidikan15%<br \/>\n&gt;dana cadangan 10%<br \/>\njumlah simpanan anggota Rp30.000.000,00 penjualan Rp. 50.000.000,00 jika Tn. Ilham anggota koperasi memiliki simpanan pokok Rp 100.000,00 dan simpanan wajib Rp 1.000.000,00 serta berbelanja sebesar Rp. 2.000.000,00 berapa SHU yang di terima tn. Ilham? ",
+                        "created": "2016-05-28T08:53:00+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2016-06-02T09:41:49+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "diketahui SHU koperasi al-ikhlas pada tahun 2015 sebesar Rp 40.000.000,00 berdasarkan ART koperasi,  SHU tersebut akan di bagikan untuk \n&gt; jasa modal 25%\n&gt;jasa anggota 30%\n&gt;jasa pengurus 10%\n&gt;dana sosial 10%\n&gt;dana pendidikan15%\n&gt;dana cadangan 10%\njumlah <em>simpa<\/em>nan anggota Rp30.000.000,00 penjualan Rp. 50.000.000,00 jika Tn. <em>Ilham<\/em> anggota koperasi memiliki <em>simpa<\/em>nan pokok Rp 100.000,00 dan <em>simpa<\/em>nan wajib Rp 1.000.000,00 serta berbelanja sebesar Rp. 2.000.000,00 berapa SHU yang di terima tn. <em>Ilham<\/em>? ",
+                        "snippet_content": "Rp. 50.000.000,00 jika Tn. <em>Ilham<\/em> anggota koperasi memiliki <em>simpa<\/em>nan pokok Rp 100.000,00 dan <em>simpa<\/em>nan wajib Rp 1"
+                    },
+                    "responses": [
+                        {
+                            "id": 7555010,
+                            "user_id": 3138439,
+                            "task_id": 6272847,
+                            "points": 5,
+                            "created": "2016-06-02T09:41:49+07:00",
+                            "content": "hasilnya adalah 99.999.988 jika salah jwbnnya maaf ya",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3138439,
+                                "nick": "arinaqjagoansaiful",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dd8\/728d2cc1321de880f2c9dbe6a9d63d12.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 8960810,
+                        "subject_id": 2,
+                        "user_id": 4240382,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "irham mempumyai es batu yang di simpan di dalam lemari es batu dengan suhu -10\u00b0C.ibu megambil es batu tersebut karena lemari pedinginnya terlalu penuh.es batu di keluarkan ke ruangan bersuhu 35\u00b0C.perubahan suhu yang di alami oleh es batu tersebut adalah",
+                        "created": "2017-01-11T20:09:32+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-01-11T20:17:21+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "<em>irham<\/em> mempumyai es batu yang di <em>simpa<\/em>n di dalam lemari es batu dengan suhu -10\u00b0C.ibu megambil es batu tersebut karena lemari pedinginnya terlalu penuh.es batu di keluarkan ke ruangan bersuhu 35\u00b0C.perubahan suhu yang di alami oleh es batu tersebut adalah",
+                        "snippet_content": "<em>irham<\/em> mempumyai es batu yang di <em>simpa<\/em>n di dalam lemari es batu dengan suhu -10\u00b0C.ibu megambil es batu tersebut karena lemari"
+                    },
+                    "responses": [
+                        {
+                            "id": 10716486,
+                            "user_id": 1152112,
+                            "task_id": 8960810,
+                            "points": 5,
+                            "created": "2017-01-11T20:17:21+07:00",
+                            "content": "jawabannya 45<br \/>35 - (-10)",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1152112,
+                                "nick": "Z1H18A",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d50\/52f528a98282401911e781ad0ab3b2f7.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 544807,
+                        "subject_id": 2,
+                        "user_id": 268695,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 11,
+                            "ptsForResp": 6,
+                            "ptsForBest": 3
+                        },
+                        "content": "suatu ketika pak irham menjemur jagung hasil panennya agar dapat di simpan lebih lama jagung tersebut di jemur slma 2 hari 1\/5 dari kadar tersebut berkurang jika jagung tersebut mengandung 1\/4 kdr air maka berpa sisa kdr air di dlm jagung ?",
+                        "created": "2014-09-03T05:52:56+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2014-09-03T06:07:45+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "suatu ketika pak <em>irham<\/em> menjemur jagung hasil panennya agar dapat di <em>simpa<\/em>n lebih lama jagung tersebut di jemur slma 2 hari 1\/5 dari kadar tersebut berkurang jika jagung tersebut mengandung 1\/4 kdr air maka berpa sisa kdr air di dlm jagung ?",
+                        "snippet_content": "suatu ketika pak <em>irham<\/em> menjemur jagung hasil panennya agar dapat di <em>simpa<\/em>n lebih lama jagung tersebut di jemur slma 2 hari 1"
+                    },
+                    "responses": [
+                        {
+                            "id": 732771,
+                            "user_id": 372278,
+                            "task_id": 544807,
+                            "points": 6,
+                            "created": "2014-09-03T06:07:45+07:00",
+                            "content": "1 2\/5 kadar air yg di telah turun",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 372278,
+                                "nick": "rezapranata2088",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d7e\/32b70f90aaee3e8820d297a7daa55a51.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 13,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 2249824,
+            "nick": "issanti1",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 12,
+                "answers": 5,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 2327947,
+            "nick": "lulu62",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 14,
+                "answers": 103,
+                "comments": 86
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d04\/380044afba1b441c9da8e137b233da9a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd6\/0bed2d269c8426f3065fba99ed50d8c9.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d04\/380044afba1b441c9da8e137b233da9a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd6\/0bed2d269c8426f3065fba99ed50d8c9.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 2427951,
+            "nick": "SuryaWahyudiQupariar",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 19,
+                "answers": 18,
+                "comments": 7
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 2444673,
+            "nick": "TheendSides",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 13,
+                "answers": 24,
+                "comments": 17
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc5\/0d9cb8ae5fe265fd63bb59fbb169bdb7.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df6\/ef4f913e69605674388e6a5025011faf.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc5\/0d9cb8ae5fe265fd63bb59fbb169bdb7.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df6\/ef4f913e69605674388e6a5025011faf.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 2466821,
+            "nick": "pratiwisa",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 85,
+                "comments": 11
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db1\/7beb1f9f125e8104d687dd2da85f22fb.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df0\/6abfa9b52642d0d30ce0ad2fa4adc7cb.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db1\/7beb1f9f125e8104d687dd2da85f22fb.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df0\/6abfa9b52642d0d30ce0ad2fa4adc7cb.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 4184486,
+            "nick": "ilham4525",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 6,
+                "answers": 2,
+                "comments": 1
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc1\/47bcfd3c8ce3d121c5aa29ab94131b51.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d0f\/1bb004483b056f13e614a9d57125c078.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc1\/47bcfd3c8ce3d121c5aa29ab94131b51.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d0f\/1bb004483b056f13e614a9d57125c078.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4123579,
+            "nick": "irfanew",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 11,
+                "comments": 1
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 3417018,
+            "nick": "srohimah931",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 17,
+                "answers": 82,
+                "comments": 21
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dfb\/d3bf4fdb3fccfb267bf62f02ee64b37a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d56\/424505b2437f86f53e53c0c19e84522b.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dfb\/d3bf4fdb3fccfb267bf62f02ee64b37a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d56\/424505b2437f86f53e53c0c19e84522b.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 3541262,
+            "nick": "wnwrdn",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 4,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de2\/db6e3920024b02548236a8766609537a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d66\/9c96bf749337a65ac1d31db2c642e105.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de2\/db6e3920024b02548236a8766609537a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d66\/9c96bf749337a65ac1d31db2c642e105.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 3600415,
+            "nick": "ludfiarjundika",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 5,
+                "comments": 2
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 3313771,
+            "nick": "meisye4",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 0,
+                "comments": 2
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 3403758,
+            "nick": "SyFira25",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 2,
+                "comments": 1
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1813122,
+            "nick": "Jansen11",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 28,
+                "comments": 3
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 40360,
+            "nick": "adamdhijee",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 302,
+                "answers": 3007,
+                "comments": 3445
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9c\/3c29e46e15e6cc48e03bc38fd8fc1700.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df5\/407fd36a7e79f51b46bfb92b0f170022.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9c\/3c29e46e15e6cc48e03bc38fd8fc1700.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df5\/407fd36a7e79f51b46bfb92b0f170022.jpg"
+            },
+            "ranks": {
+                "color": "#ffbe32",
+                "names": [
+                    "Guru",
+                    "GameMaker",
+                    "KsatriaBrainly",
+                    "BrainlyTeacher",
+                    "Moderator",
+                    "Jenius"
+                ],
+                "count": 6
+            },
+            "ranks_ids": [
+                12,
+                24,
+                23,
+                91,
+                19,
+                7
+            ]
+        },
+        {
+            "id": 644564,
+            "nick": "5dregensleyer",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 188,
+                "answers": 24386,
+                "comments": 9211
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/def\/c6fecc33c1c1cf9017584637900cca09.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d0d\/27f09529850f4d8ec5834f95f2e33724.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/def\/c6fecc33c1c1cf9017584637900cca09.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d0d\/27f09529850f4d8ec5834f95f2e33724.jpg"
+            },
+            "ranks": {
+                "color": "#ffbe32",
+                "names": [
+                    "Supervisor",
+                    "BrainlyProfessor",
+                    "PraSenior ",
+                    "BrainlyElite",
+                    "GameMaker",
+                    "O-EXPATRIATE-O",
+                    "Moderator",
+                    "Jenius"
+                ],
+                "count": 8
+            },
+            "ranks_ids": [
+                33,
+                56,
+                25,
+                27,
+                24,
+                96,
+                19,
+                7
+            ]
+        },
+        {
+            "id": 748113,
+            "nick": "tifianti",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 15,
+                "answers": 3723,
+                "comments": 926
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dac\/e7da50b3407adc399348c25f8133b842.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dfc\/ae2f5768e9f5bca06115dea9325de899.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dac\/e7da50b3407adc399348c25f8133b842.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dfc\/ae2f5768e9f5bca06115dea9325de899.jpg"
+            },
+            "ranks": {
+                "color": "#ffbe32",
+                "names": [
+                    "Guru",
+                    "KsatriaBrainly",
+                    "BrainlyTeacher",
+                    "Moderator",
+                    "Jenius"
+                ],
+                "count": 5
+            },
+            "ranks_ids": [
+                12,
+                23,
+                91,
+                19,
+                7
+            ]
+        },
+        {
+            "id": 4716851,
+            "nick": "Hendraaxx",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 1,
+                "comments": 2
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/ddf\/11fd605f59667f987678f7cfbaf6cc83.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d3b\/ba932a26cec6db327e370d9051e4c083.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/ddf\/11fd605f59667f987678f7cfbaf6cc83.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d3b\/ba932a26cec6db327e370d9051e4c083.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4967504,
+            "nick": "Ahmadjeky",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 1181,
+                "comments": 114
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4d\/087496cdae3f1d41c1689cb3d7b18d42.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dcc\/dfec586fc15d8c32f6c9a498aaaac505.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4d\/087496cdae3f1d41c1689cb3d7b18d42.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dcc\/dfec586fc15d8c32f6c9a498aaaac505.jpg"
+            },
+            "ranks": {
+                "color": "#ffbe32",
+                "names": [
+                    "BrainlyElite",
+                    "Spam Fighter ",
+                    "Jenius"
+                ],
+                "count": 3
+            },
+            "ranks_ids": [
+                27,
+                17,
+                7
+            ]
+        },
+        {
+            "id": 4334519,
+            "nick": "babah2",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4328732,
+            "nick": "AssyfaRahmahFaizah",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 49,
+                "comments": 9
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc0\/ff3c52ccf56440b2fd0379a4fad2d255.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d2f\/c422501aff6ebf83a11df7660ec59c80.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc0\/ff3c52ccf56440b2fd0379a4fad2d255.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d2f\/c422501aff6ebf83a11df7660ec59c80.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 2078271,
+            "nick": "Siwiasih",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 66,
+                "answers": 93,
+                "comments": 16
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d03\/53603f555119f3dcdfbf3998e63b2ea0.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de7\/d59ef8bb980c674bd63409f3c3feb328.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d03\/53603f555119f3dcdfbf3998e63b2ea0.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de7\/d59ef8bb980c674bd63409f3c3feb328.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 4438542,
+            "nick": "vernandadellapu",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 8,
+                "answers": 1,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d06\/433026925fa146590756c3a5e50e28ae.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d81\/e998e951e73901b3c9d95a0307753418.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d06\/433026925fa146590756c3a5e50e28ae.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d81\/e998e951e73901b3c9d95a0307753418.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4448658,
+            "nick": "Devanggapradana",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 501,
+                "comments": 65
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d5c\/23d59f0edcdcdc02fb7db7af043aaf26.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d18\/bd115aa9af90c89d374fb093fb0de671.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d5c\/23d59f0edcdcdc02fb7db7af043aaf26.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d18\/bd115aa9af90c89d374fb093fb0de671.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        },
+        {
+            "id": 3757213,
+            "nick": "Kivimaki",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 38,
+                "answers": 1409,
+                "comments": 433
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d59\/f985556f8cbd592f0bddd5ace1fbc754.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d00\/e610430ac7746091bb2702abeb572219.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d59\/f985556f8cbd592f0bddd5ace1fbc754.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d00\/e610430ac7746091bb2702abeb572219.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        },
+        {
+            "id": 4216260,
+            "nick": "dedemaula341",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 456,
+                "comments": 97
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 4331486,
+            "nick": "rikuta7",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 20,
+                "answers": 1269,
+                "comments": 858
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Apprentice",
+                    "Spam Fighter ",
+                    "Si Hebat"
+                ],
+                "count": 3
+            },
+            "ranks_ids": [
+                20,
+                17,
+                6
+            ]
+        },
+        {
+            "id": 3120089,
+            "nick": "vardhaan",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da9\/95ca8e702ef629ab741afcc85eed9c03.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d97\/4b49366ca92a472c4259ceed989dbea7.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da9\/95ca8e702ef629ab741afcc85eed9c03.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d97\/4b49366ca92a472c4259ceed989dbea7.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 3138439,
+            "nick": "arinaqjagoansaiful",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 24,
+                "answers": 29,
+                "comments": 8
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d46\/4064b36d1a71e6afbbce7ef7018b7c9f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd8\/728d2cc1321de880f2c9dbe6a9d63d12.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d46\/4064b36d1a71e6afbbce7ef7018b7c9f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd8\/728d2cc1321de880f2c9dbe6a9d63d12.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4240382,
+            "nick": "HalfanRomadhonSmpLup",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 0,
+                "comments": 2
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1152112,
+            "nick": "Z1H18A",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 82,
+                "comments": 62
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df2\/768ff0115240e2d241a359e1ba8e2e40.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d50\/52f528a98282401911e781ad0ab3b2f7.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df2\/768ff0115240e2d241a359e1ba8e2e40.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d50\/52f528a98282401911e781ad0ab3b2f7.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 268695,
+            "nick": "ashila02",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 1,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 372278,
+            "nick": "rezapranata2088",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 22,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4d\/5a44dbdda1038dd6cd36989f4604054a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7e\/32b70f90aaee3e8820d297a7daa55a51.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4d\/5a44dbdda1038dd6cd36989f4604054a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7e\/32b70f90aaee3e8820d297a7daa55a51.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        }
+    ],
+    "validated": false
+}

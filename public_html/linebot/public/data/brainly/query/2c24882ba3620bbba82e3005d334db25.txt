@@ -1,0 +1,810 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 1703023,
+                        "subject_id": 1,
+                        "user_id": 569828,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 100,
+                            "ptsForResp": 50,
+                            "ptsForBest": 25
+                        },
+                        "content": "1. apa pengertian dari poster?<br \/>\n2. siapa pencipta lagu indonesia raya?<br \/>\n3. kapan hari sumpah pemuda?    <br \/>\n4. arti dari 'please help me'<br \/>\n5. antonim dari SEDIH<br \/>\n6. sinonim dari karcis<br \/>\n7. andi membeli 9 buah mangga. 3 buah mangga milik andi busuk. berapa sisa mangga milik andi? ( pakai pecahan)<br \/>\n8. apakah brainly co. id bisa di download di android atau hp SAMSUNG?<br \/>\n9. apa itu PEDITOK?<br \/>\n10. salah satu tarian dari aceh adalah.....<br \/>\n11. salah satu tarian dari minang adalah...  <br \/>\n12.mengapa baayi harus aqiqah?<br \/>\n13. 9 per 2 +7 per 2 =<br \/>\n14. Lusi mempunyai 9 pensil bergambar frozen. Chicha iri dengan pensil frozen milik Lusi. Chicha mengambil semua pensil frozen milik Lusi. bagaimana tanggapanmu dengan sikap Chicha?<br \/>\n15. di jaman praksara  laki-laki memburu binatang dan perempuan ...............<br \/>\n16. apa  itu gaya gesek?<br \/>\n17. apa itu gaya dorong?<br \/>\n18. apa itu gaya tarik?<br \/>\n19. appa itu gaya gravitasi?<br \/>\n20. mengapa jika org berbicara tidak boleh di potong?<br \/>\n21  pengertian dari amanah.<br \/><br \/>",
+                        "created": "2014-12-09T17:28:39+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2014-12-11T04:26:16+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [
+                                {
+                                    "id": 1448429,
+                                    "user_id": 569828,
+                                    "content": "hah???? uas? kelas 4 kagak ade uas broo",
+                                    "created": "2014-12-09T17:38:28+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                },
+                                {
+                                    "id": 1448451,
+                                    "user_id": 150514,
+                                    "content": "harap kepada user untuk memposting pertanyaan sesuai dengan mapel nya",
+                                    "created": "2014-12-09T17:41:37+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                },
+                                {
+                                    "id": 1448733,
+                                    "user_id": 569500,
+                                    "content": "cieilaah, inii pertanyaannya borongan :v semua mapel lengkap kayanya -_-",
+                                    "created": "2014-12-09T18:21:33+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                },
+                                {
+                                    "id": 1449013,
+                                    "user_id": 873788,
+                                    "content": "gw yg jawab",
+                                    "created": "2014-12-09T18:51:10+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                },
+                                {
+                                    "id": 1449445,
+                                    "user_id": 873788,
+                                    "content": "1.poster merrupakan sebuah ajakan untuk melakukan hal hal yg terpuji 2.WR. supratman 3.28 oktober 1928 4.\"tolong bantu aku\" 5.gembira 6.tiket 7.9\/9-3\/9=6\/9=2\/3 9.obat kutu 10.tari pukat 11.tari piring 12.agar restukan 13.9\/2 + 7\/2 = 16\/2=8 14.seharusnya chicha pinjam punya lusi 15.mengurus anak dan membuat obat2an 16.persentuhan antara 2 benda 17.gaya  yg dilakukan saat memindahkan benda 18.sm dgn 17 19.gaya tarik bumi 20.agr tdk tersinggung 21.titipan dr org lain yg harus kita sampaikan",
+                                    "created": "2014-12-09T19:22:43+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                }
+                            ],
+                            "last_id": 1448429,
+                            "count": 9
+                        },
+                        "highlighted_content": "1. apa pengertian dari poster?\n2. <em>siapa<\/em> pencipta lagu indonesia raya?\n3. kapan hari sumpah pemuda?    \n4. arti dari 'please help me'\n5. antonim dari SEDIH\n6. sinonim dari karcis\n7. andi membeli 9 buah mangga. 3 buah mangga milik andi busuk. berapa sisa mangga milik andi? ( pakai pecahan)\n8. apakah brainly co. id bisa di download di android atau hp SAMSUNG?\n9. apa itu PEDITOK?\n10. salah satu tarian dari aceh adalah.....\n11. salah satu tarian dari minang adalah...  \n12.mengapa baayi harus aqiqah?\n13. 9 per 2 +7 per 2 =\n14. Lusi mempunyai 9 pensil bergambar frozen. <em>Chicha<\/em> iri dengan pensil frozen milik Lusi. <em>Chicha<\/em> mengambil semua pensil frozen milik Lusi. bagaimana tanggapanmu dengan sikap <em>Chicha<\/em>?\n15. di jaman praksara  laki-laki memburu binatang dan perempuan ...............\n16. apa  itu gaya gesek?\n17. apa itu gaya dorong?\n18. apa itu gaya tarik?\n19. appa itu gaya gravitasi?\n20. mengapa jika org berbicara tidak boleh di potong?\n21  pengertian dari amanah.",
+                        "snippet_content": "2 +7 per 2 =\n14. Lusi mempunyai 9 pensil bergambar frozen. <em>Chicha<\/em> iri dengan pensil frozen milik Lusi. <em>Chicha<\/em> mengambil semua pensil"
+                    },
+                    "responses": [
+                        {
+                            "id": 2201803,
+                            "user_id": 661297,
+                            "task_id": 1703023,
+                            "points": 50,
+                            "created": "2014-12-11T04:26:16+07:00",
+                            "content": "pencipta lagu indonesia Raya adalah w ratman soebadirjo.<br \/>hari sumpah pemuda 28 oktober<br \/>antonim sedih adalah senang<br \/>sinonim karcis adalah tiket",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2015-04-17T20:27:17+07:00",
+                                "approver": {
+                                    "id": 80450,
+                                    "nickname": "maytirtaputri",
+                                    "points": 55827,
+                                    "grade": 3,
+                                    "gender": 1,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/df3\/dc8fdf4ae1fdf3373ce33784f7daec25.jpg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/de3\/c84e8bdac87bd317c988dec61e0eb04c.jpg"
+                                    },
+                                    "content_approved_count": 1755
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 2202128,
+                            "user_id": 609053,
+                            "task_id": 1703023,
+                            "points": 50,
+                            "created": "2014-12-11T06:36:14+07:00",
+                            "content": "4arti dari please help me itu kumohon, tolong aku<br \/>8.  brainly bisa.didownload contohnya saya<br \/>10. tarian aceh namanya tari saman klo gk slh<br \/>13. 9 per 2 + 7 per 2 = 16 per 2 atau bisa jadi 8<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 2,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2015-04-17T20:27:16+07:00",
+                                "approver": {
+                                    "id": 80450,
+                                    "nickname": "maytirtaputri",
+                                    "points": 55827,
+                                    "grade": 3,
+                                    "gender": 1,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/df3\/dc8fdf4ae1fdf3373ce33784f7daec25.jpg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/de3\/c84e8bdac87bd317c988dec61e0eb04c.jpg"
+                                    },
+                                    "content_approved_count": 1755
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 661297,
+                                "nick": "OMZANDIKA",
+                                "avatar": null
+                            },
+                            {
+                                "id": 609053,
+                                "nick": "oshu",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dce\/320c2db0652f2e39f6df905f4a8ac5a7.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 6291848,
+                        "subject_id": 25,
+                        "user_id": 3119068,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "siapa nama neneknya icha?",
+                        "created": "2016-05-30T14:50:12+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2016-05-30T14:54:18+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "<em>siapa<\/em> nama neneknya <em>icha<\/em>?",
+                        "snippet_content": "<em>siapa<\/em> nama neneknya <em>icha<\/em>?"
+                    },
+                    "responses": [
+                        {
+                            "id": 7515027,
+                            "user_id": 2669338,
+                            "task_id": 6291848,
+                            "points": 5,
+                            "created": "2016-05-30T14:54:18+07:00",
+                            "content": "gajelas pertanyaannya",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2669338,
+                                "nick": "melati271",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d56\/ac05949f8a1a860c767cb4deaab9fc1f.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 2688325,
+                        "subject_id": 1,
+                        "user_id": 1466569,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "SEORANG IBU<br \/><br \/>\nMalam ini adalah malam yang sunyi bagi Anastasia. Malam ini, tak ada satupun orang yang menemaninya. Ayahnya sedang dinas keluar kota untuk menyelesaikan tugasnya sebagai wartawan. Sementara, ibunya telah tiada saat ia melahirkan Anastasia.<br \/><br \/>\nHari-hari selalu membosankan bagi Anastasia, atau lebih nyaman dipanggil Icha. Hidup tanpa sosok wanita yang akan menyayanginya, memeluknya, dan menceritakan sebuah dongeng menjelang tidur. Itulah sosok seorang ibu bagi Icha. Mungkin, anak-anak lain yang memiliki ibu kini sedang berbaring diatas ranjang, ditemani seorang ibu disampingnya yang tengah membacakan dongeng disisinya hingga anak-anak itu tertidur. Ibu-ibu mereka akan menyelimuti mereka, memberikan kecupan di dahi mereka, lalu mematikan lampu kamar mereka, serta mengucapkan ucapan selamat tidur untuk mereka. Namun, itu tak akan terjadi di sepanjang hayat Icha.<br \/><br \/>\nMalam ini, Icha hanya bisa berbaring di tempat tidur. Tak sekalipun matanya terpejam. Uh, malam menjengkelkan untuk Icha, karena harus berusaha, hanya untuk memejamkan matanya sekali saja, lalu tidur. Icha memandang ke sekeliling kamarnya. Boneka, lemari pakaian, dan meja belajar. Ya, hanya itu yang nampak di mata Icha. Tak mungkin Icha bisa memejamkan mata dengan benda-benda itu. Tapi, tunggu! Ada satu benda lain! JENDELA. Ya, benda yang ada dibalik jendela lah yang akan menjadi \u201cobat tidur\u201d bagi Icha malam ini.<br \/><br \/>\nIcha berlari mendekati jendela kamarnya, lalu melongok ke luar untuk menemukan \u201cobat tidur\u201d yang akan menenggelamkan dirinya ke dalam dunia mimpi. Di matanya, terlihat kilauan bintang yang menyebar dimana-mana. Malam ini , banyak sekali bintang-bintang yang menampakkan sinarnya. Namun, Icha tidak mencari bintang-bintang itu. Matanya melirik kesana-kemari,untuk mencari benda itu. Benda itulah yang ia gambarkan sebagai ibu untuknya. Aha! Icha menemukannya. Itu adalah BULAN.<br \/><br \/>\nSebuah bulan berada di tengah bintang-bintang. Icha tahu, tampang bulan dari bumi dan tampang bulan saat ia mendekatinya berbeda sama sekali. Sebenarnya, bulan penuh dengan benjolan dan lubang-lubang, dan ia tak memancarkan sinarnya sendiri. Namun, ketika ia melihat dari jendela kamarnya, Akan terlihat jelas bahwa bulan sangatlah indah. Tiada malam jika tiada bulan. Sama seperti tiada sayang jika tiada IBU.<br \/><br \/>\nMalam sebenarnya adalah saat-saat langit terlihat gelap, menyeramkan, dan dingin. Tak heran, banyak hantu yang dikisahkan hanya keluar disaat malam hari. Malam identik dengan hawanya yang sunyi dan mencekam. Namun, terdapat \u201charta karun\u201d dibalik gelapnya malam. Harta karun itu adalah bintang-bintang dan BULAN. Merekalah yang menyumbangkan cahaya di malam hari. Tanpa mereka, malam akan menjadi sangat gelap dan mencekam. Merekalah keceriaan yang muncul disaat malam tiba.<br \/><br \/>\nSayang. Icha ingat, ia pernah mendengar seorang ibu yang bertanya kepada anaknya. Ibu itu bertanya: \u201cNak, apakah kamu menyayangi ibu?\u201d. Pertanyaan yang bodoh sekali bagi Icha. Kalau Icha menjadi anak itu, ia akan menjawab: \u201cTentu! Aku sangat sayang kepada ibu!\u201d. Namun, anak itu menjawab: \u201cYa, aku sayang ibu! Kalau tidak ada ibu, siapa yang mau memasukkan sebutir permen ke sakuku setiap hari?\u201d. Icha sangat iba kepada ibu itu, karena sang anak menyayanginya karena sebutir permen, sementara ibu itu menyayanginya karena menurutnya sang anak juga menyayanginya setiap saat, bukan hanya saat hari itu ia meletakkan sebutir permen di sakunya. Bertahun-tahun Icha hidup tanpa rasa sayang seorang ibu yang melahirkannya. Ketakutan, kesedihan, kesunyian, selalu ada di hati kecilnya. Andai saja, ia pernah merasakan rasa sayang seorang ibu.... Tak mungkin rasa takut, sedih, dan sunyi itu menghantui dirinya.<br \/><br \/>\nMalam hari yang sunyi. Icha terus memandang ke arah bulan yang tengah memancarkan sinarnya. Terbayang wajah seorang ibu yang sedang tersenyum ke arahnya. Icha pun turut membalas senyum seorang ibu itu. Ah, senyum itu hanya bayanganku saja.. Andai senyum itu nyata ada di depanku, betapa bahagianya hatiku. Kata Icha dalam hati kecilnya.<br \/><br \/>\nIcha mulai sedikit demi sedikit ingin memejamkan matanya. Ia terus memandangi bulan yang sedang tampak di langit, sambil sesekali-kali terantuk-antuk. Namun, ia belum bisa memejamkan matanya sepenuhnya. Ia pun mengingat-ingat \u201cobat tidur\u201d lain yang bisa membawanya tidur malam ini. Ia tidak mengingat bendanya, namun ia ingat letaknya.<br \/><br \/>\nJam dinding berbingkai ular. Itulah klu letak \u201cobat tidur\u201d keduanya. Ia segera berlari ke ruang makan, letak jam dinding kesukaannya bertengger. Jam itu bergambar tokoh kartun berwujud kucing, dan jam itu tidak berbingkai. Namun, klu itu tidak menjelaskan tentang jam dinding itu, namun benda yang terletak di bawahnya. Itulah \u201cobat tidur\u201d kedua Icha malam ini. Benda yang dilingkari bingkai kayu berukiran ular. Itu adalah FOTO IBU Icha.<br \/><br \/><br \/>\nsoal<br \/>\n1.mencari 2 kalimat tunggal ?<br \/>\n2. mencari 2 kalimat majemuk ? <br \/><br \/><br \/>",
+                        "created": "2015-05-16T08:42:33+07:00",
+                        "responses": 2,
+                        "tickets": 3,
+                        "first_resp": "2015-05-16T09:10:31+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [
+                                {
+                                    "id": 2181222,
+                                    "user_id": 1403632,
+                                    "content": "masing2 berapa?",
+                                    "created": "2015-05-16T09:10:23+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                },
+                                {
+                                    "id": 2181229,
+                                    "user_id": 1403632,
+                                    "content": "oohh.. iya maaf saya tdak perhatikan soal",
+                                    "created": "2015-05-16T09:11:58+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                }
+                            ],
+                            "last_id": 0,
+                            "count": 2
+                        },
+                        "highlighted_content": "SEORANG IBU\nMalam ini adalah malam yang sunyi bagi Anastasia. Malam ini, tak ada satupun orang yang menemaninya. Ayahnya sedang dinas keluar kota untuk menyelesaikan tugasnya sebagai wartawan. Sementara, ibunya telah tiada saat ia melahirkan Anastasia.\nHari-hari selalu membosankan bagi Anastasia, atau lebih nyaman dipanggil <em>Icha.<\/em> Hidup tanpa sosok wanita yang akan menyayanginya, memeluknya, dan menceritakan sebuah dongeng menjelang tidur. Itulah sosok seorang ibu bagi <em>Icha.<\/em> Mungkin, anak-anak lain yang memiliki ibu kini sedang berbaring diatas ranjang, ditemani seorang ibu disampingnya yang tengah membacakan dongeng disisinya hingga anak-anak itu tertidur. Ibu-ibu mereka akan menyelimuti mereka, memberikan kecupan di dahi mereka, lalu mematikan lampu kamar mereka, serta mengucapkan ucapan selamat tidur untuk mereka. Namun, itu tak akan terjadi di sepanjang hayat <em>Icha.<\/em>\nMalam ini, <em>Icha<\/em> hanya bisa berbaring di tempat tidur. Tak sekalipun matanya terpejam. Uh, malam menjengkelkan untuk <em>Icha<\/em>, karena harus berusaha, hanya untuk memejamkan matanya sekali saja, lalu tidur. <em>Icha<\/em> memandang ke sekeliling kamarnya. Boneka, lemari pakaian, dan meja belajar. Ya, hanya itu yang nampak di mata <em>Icha.<\/em> Tak mungkin <em>Icha<\/em> bisa memejamkan mata dengan benda-benda itu. Tapi, tunggu! Ada satu benda lain! JENDELA. Ya, benda yang ada dibalik jendela lah yang akan menjadi \u201cobat tidur\u201d bagi <em>Icha<\/em> malam ini.\n<em>Icha<\/em> berlari mendekati jendela kamarnya, lalu melongok ke luar untuk menemukan \u201cobat tidur\u201d yang akan menenggelamkan dirinya ke dalam dunia mimpi. Di matanya, terlihat kilauan bintang yang menyebar dimana-mana. Malam ini , banyak sekali bintang-bintang yang menampakkan sinarnya. Namun, <em>Icha<\/em> tidak mencari bintang-bintang itu. Matanya melirik kesana-kemari,untuk mencari benda itu. Benda itulah yang ia gambarkan sebagai ibu untuknya. Aha! <em>Icha<\/em> menemukannya. Itu adalah BULAN.\nSebuah bulan berada di tengah bintang-bintang. <em>Icha<\/em> tahu, tampang bulan dari bumi dan tampang bulan saat ia mendekatinya berbeda sama sekali. Sebenarnya, bulan penuh dengan benjolan dan lubang-lubang, dan ia tak memancarkan sinarnya sendiri. Namun, ketika ia melihat dari jendela kamarnya, Akan terlihat jelas bahwa bulan sangatlah indah. Tiada malam jika tiada bulan. Sama seperti tiada sayang jika tiada IBU.\nMalam sebenarnya adalah saat-saat langit terlihat gelap, menyeramkan, dan dingin. Tak heran, banyak hantu yang dikisahkan hanya keluar disaat malam hari. Malam identik dengan hawanya yang sunyi dan mencekam. Namun, terdapat \u201charta karun\u201d dibalik gelapnya malam. Harta karun itu adalah bintang-bintang dan BULAN. Merekalah yang menyumbangkan cahaya di malam hari. Tanpa mereka, malam akan menjadi sangat gelap dan mencekam. Merekalah keceriaan yang muncul disaat malam tiba.\nSayang. <em>Icha<\/em> ingat, ia pernah mendengar seorang ibu yang bertanya kepada anaknya. Ibu itu bertanya: \u201cNak, apakah kamu menyayangi ibu?\u201d. Pertanyaan yang bodoh sekali bagi <em>Icha.<\/em> Kalau <em>Icha<\/em> menjadi anak itu, ia akan menjawab: \u201cTentu! Aku sangat sayang kepada ibu!\u201d. Namun, anak itu menjawab: \u201cYa, aku sayang ibu! Kalau tidak ada ibu, <em>siapa<\/em> yang mau memasukkan sebutir permen ke sakuku setiap hari?\u201d. <em>Icha<\/em> sangat iba kepada ibu itu, karena sang anak menyayanginya karena sebutir permen, sementara ibu itu menyayanginya karena menurutnya sang anak juga menyayanginya setiap saat, bukan hanya saat hari itu ia meletakkan sebutir permen di sakunya. Bertahun-tahun <em>Icha<\/em> hidup tanpa rasa sayang seorang ibu yang melahirkannya. Ketakutan, kesedihan, kesunyian, selalu ada di hati kecilnya. Andai saja, ia pernah merasakan rasa sayang seorang ibu.... Tak mungkin rasa takut, sedih, dan sunyi itu menghantui dirinya.\nMalam hari yang sunyi. <em>Icha<\/em> terus memandang ke arah bulan yang tengah memancarkan sinarnya. Terbayang wajah seorang ibu yang sedang tersenyum ke arahnya. <em>Icha<\/em> pun turut membalas senyum seorang ibu itu. Ah, senyum itu hanya bayanganku saja.. Andai senyum itu nyata ada di depanku, betapa bahagianya hatiku. Kata <em>Icha<\/em> dalam hati kecilnya.\n<em>Icha<\/em> mulai sedikit demi sedikit ingin memejamkan matanya. Ia terus memandangi bulan yang sedang tampak di langit, sambil sesekali-kali terantuk-antuk. Namun, ia belum bisa memejamkan matanya sepenuhnya. Ia pun mengingat-ingat \u201cobat tidur\u201d lain yang bisa membawanya tidur malam ini. Ia tidak mengingat bendanya, namun ia ingat letaknya.\nJam dinding berbingkai ular. Itulah klu letak \u201cobat tidur\u201d keduanya. Ia segera berlari ke ruang makan, letak jam dinding kesukaannya bertengger. Jam itu bergambar tokoh kartun berwujud kucing, dan jam itu tidak berbingkai. Namun, klu itu tidak menjelaskan tentang jam dinding itu, namun benda yang terletak di bawahnya. Itulah \u201cobat tidur\u201d kedua <em>Icha<\/em> malam ini. Benda yang dilingkari bingkai kayu berukiran ular. Itu adalah FOTO IBU <em>Icha.<\/em>\nsoal\n1.mencari 2 kalimat tunggal ?\n2. mencari 2 kalimat majemuk ? ",
+                        "snippet_content": "anak itu menjawab: \u201cYa, aku sayang ibu! Kalau tidak ada ibu, <em>siapa<\/em> yang mau memasukkan sebutir permen ke sakuku setiap hari?\u201d. <em>Icha<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 3435085,
+                            "user_id": 1138981,
+                            "task_id": 2688325,
+                            "points": 5,
+                            "created": "2015-05-16T09:10:31+07:00",
+                            "content": "kalimat tunggal<br \/>-\u00a0<span>Hidup tanpa sosok wanita yang akan menyayanginya, memeluknya, dan menceritakan sebuah dongeng menjelang tidur<br \/>-\u00a0<\/span><span>ia pernah mendengar seorang ibu yang bertanya kepada anaknya.<br \/>kalimat majemuk<br \/>-\u00a0<\/span><span>Ayahnya sedang dinas keluar kota untuk menyelesaikan tugasnya sebagai wartawan. Sementara, ibunya telah tiada saat ia melahirkan Anastasia.<br \/>-\u00a0<\/span><span>Merekalah yang menyumbangkan cahaya di malam hari. Tanpa mereka, malam akan menjadi sangat gelap dan mencekam<br \/><br \/>semoga membantu,maaf kalau salah<br \/><br \/><\/span>",
+                            "mark": 1,
+                            "marks_count": 1,
+                            "thanks": 4,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 3435114,
+                            "user_id": 1403632,
+                            "task_id": 2688325,
+                            "points": 5,
+                            "created": "2015-05-16T09:15:18+07:00",
+                            "content": "tunggal: <span> Benda yang dilingkari bingkai kayu berukiran ular ,<\/span> <span>Icha mulai sedikit demi sedikit ingin memejamkan matanya.<br \/>majemuk : <\/span><br \/>Jam itu bergambar tokoh kartun berwujud kucing, \ndan jam itu tidak berbingkai. Namun, klu itu tidak menjelaskan tentang \njam dinding itu, namun benda yang terletak di bawahnya ; <span> Ibu-ibu mereka akan menyelimuti mereka, \nmemberikan kecupan di dahi mereka, lalu mematikan lampu kamar mereka, \nserta mengucapkan ucapan selamat tidur untuk mereka.<\/span><br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 4,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1138981,
+                                "nick": "herpsiherep",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/df6\/c35fec1b669e761253ebcd0376a65443.png"
+                            },
+                            {
+                                "id": 1403632,
+                                "nick": "abelghauna",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/ddf\/156d78a39b907f9590234815a8d884f3.jpeg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 3,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 569828,
+            "nick": "ElsaFrozen123",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 45,
+                "answers": 159,
+                "comments": 144
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da1\/588aab3d1b846168fb1656c85a3810ff.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de1\/62defba406ac11e04c591c0cf5e2cf2c.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da1\/588aab3d1b846168fb1656c85a3810ff.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de1\/62defba406ac11e04c591c0cf5e2cf2c.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 873788,
+            "nick": "syafira1sr",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 2,
+                "comments": 10
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d2b\/c342b8e053e26b274ea6a9f6be08840b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d8d\/92e874533b069d28236d70374f87cb28.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d2b\/c342b8e053e26b274ea6a9f6be08840b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d8d\/92e874533b069d28236d70374f87cb28.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 569500,
+            "nick": "iiyaaa",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 15,
+                "answers": 903,
+                "comments": 193
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        },
+        {
+            "id": 150514,
+            "nick": "amifadhila",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 3554,
+                "comments": 637
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d89\/eff81f0da0fd89cc71cdc09462aee8e7.jpeg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dac\/17aa70ce351b1c6cc77055149234cbbf.jpeg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d89\/eff81f0da0fd89cc71cdc09462aee8e7.jpeg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dac\/17aa70ce351b1c6cc77055149234cbbf.jpeg"
+            },
+            "ranks": {
+                "color": "#ffbe32",
+                "names": [
+                    "Jenius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                7
+            ]
+        },
+        {
+            "id": 33443,
+            "nick": "Fahmi2290",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 10,
+                "answers": 15,
+                "comments": 8
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9e\/35d9f2d35ac67e775030470a4c27de0a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d04\/c140da1f9500446a0b5b5f79c1e2e835.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9e\/35d9f2d35ac67e775030470a4c27de0a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d04\/c140da1f9500446a0b5b5f79c1e2e835.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 661297,
+            "nick": "OMZANDIKA",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 30,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 609053,
+            "nick": "oshu",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 7,
+                "comments": 4
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d02\/089006882d5352eadb13ceb6a4de6fa8.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dce\/320c2db0652f2e39f6df905f4a8ac5a7.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d02\/089006882d5352eadb13ceb6a4de6fa8.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dce\/320c2db0652f2e39f6df905f4a8ac5a7.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 3119068,
+            "nick": "dheka98",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 3,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 2669338,
+            "nick": "melati271",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 104,
+                "answers": 61,
+                "comments": 49
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dde\/ea1d919be7647e1530170af4f3b98244.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d56\/ac05949f8a1a860c767cb4deaab9fc1f.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dde\/ea1d919be7647e1530170af4f3b98244.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d56\/ac05949f8a1a860c767cb4deaab9fc1f.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 1466569,
+            "nick": "cemalbest",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 6,
+                "answers": 0,
+                "comments": 1
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1403632,
+            "nick": "abelghauna",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 2,
+                "comments": 4
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de2\/890e8d15be43d2d314b233aa39b70db3.jpeg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ddf\/156d78a39b907f9590234815a8d884f3.jpeg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de2\/890e8d15be43d2d314b233aa39b70db3.jpeg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ddf\/156d78a39b907f9590234815a8d884f3.jpeg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1138981,
+            "nick": "herpsiherep",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 12,
+                "answers": 461,
+                "comments": 109
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d23\/07929ba126f3239746ac4c089bc94793.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df6\/c35fec1b669e761253ebcd0376a65443.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d23\/07929ba126f3239746ac4c089bc94793.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df6\/c35fec1b669e761253ebcd0376a65443.png"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        }
+    ],
+    "validated": false
+}

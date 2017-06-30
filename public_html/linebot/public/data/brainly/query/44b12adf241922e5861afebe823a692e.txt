@@ -1,0 +1,624 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 2953594,
+                        "subject_id": 1,
+                        "user_id": 83464,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 80,
+                            "ptsForResp": 40,
+                            "ptsForBest": 20
+                        },
+                        "content": "Tolong bantu yaaa :(<br \/>\nYang mana fakta dan opini <br \/><br \/>\n- Balai Pelestarian Cagar Budaya (BPCB) Yogyakarta bersama para Arkeolog Universitas Gadjah Mada (UGM) berencana melakukan ekskavasi di area persawahan Dusun Karangbajang, Desa Tlogoadi, Kecamatan Mlati, Kabupaten Sleman. Lokasi ini diduga \"menyimpan\" sebuah candi, setelah beberapa bulan lalu ditemukan batu berukiran Kala (Raksasa). <br \/><br \/>\n\"Senin besok kita akan mulai melakukan ekskavasi di lokasi Karangbajang, Mlati, Sleman,\" ujar Kepala Seksi Perlindungan Pengembangan dan Pemanfaatan, BPCB Yogyakarta, Wahyu Astuti, Minggu (02\/08\/2015). Ia menuturkan, BPCB Yogyakarta telah membentuk tim untuk melakukan ekskavasi di Dusun Karangbajang Mlati Sleman. Ekskavasi nantinya akan dibantu oleh beberapa orang dari Jurusan Arkelogi Universitas Gadjah Mada (UGM). <br \/><br \/>\nProses ekskavasi nantinya juga akan melibatkan warga Dusun Karangbajang. Beberapa warga telah diminta untuk membantu proses penggalian arkeologi itu. <br \/><br \/>\nMenurut Kepala Kelompok Kerja (Kapokja) Perlindungan BPCB Yogyakarta, Muhammad Taufik, proses ekskavasi awal ini hanya akan berlangsung beberapa hari. Sebab, tujuannya hanya untuk melihat seberapa pentingnya situs tersebut, dan apa memang benar ada candi yang terpendam. \" Jika memang ada candi dan situs ini sangat penting maka akan dilakukan ekskavasi lanjutan. Jika memang tidak ya tidak dilanjutkan,\" tegasnya. <br \/><br \/>\nDiberitakan sebelumnya, batu berukir raksasa atau sering disebut Kala ditemukan warga saat membajak sawah di Dusun Karangbajang, Desa Tlogoadi, Kecamatan Mlati, Kabupaten Sleman beberapa bulan lalu. Selain batu Kala, di lokasi yang sama, warga juga menemukan batu antefiks atau sering disebut hiasan candi.<br \/><br \/>\nMakasih , yg banyak ya opini san faktanya",
+                        "created": "2015-08-04T14:32:13+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2015-08-04T14:33:43+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Tolong bantu yaaa :(\nYang mana fakta dan opini \n- Balai Pelestarian Cagar Budaya (BPCB) Yogyakarta bersama para Arkeolog <em>Universitas<\/em> <em>Gadjah<\/em> <em>Mada<\/em> (UGM) berencana melakukan ekskavasi di area persawahan Dusun Karangbajang, Desa Tlogoadi, Kecamatan Mlati, Kabupaten Sleman. Lokasi ini diduga \"menyimpan\" sebuah candi, setelah beberapa bulan lalu ditemukan batu berukiran Kala (Raksasa). \n\"Senin besok kita akan mulai melakukan ekskavasi di lokasi Karangbajang, Mlati, Sleman,\" ujar Kepala Seksi Perlindungan Pengembangan dan Pemanfaatan, BPCB Yogyakarta, Wahyu Astuti, Minggu (02\/08\/2015). Ia menuturkan, BPCB Yogyakarta telah membentuk tim untuk melakukan ekskavasi di Dusun Karangbajang Mlati Sleman. Ekskavasi nantinya akan dibantu oleh beberapa orang dari <em>Jurusan<\/em> Arkelogi <em>Universitas<\/em> <em>Gadjah<\/em> <em>Mada<\/em> (UGM). \nProses ekskavasi nantinya juga akan melibatkan warga Dusun Karangbajang. Beberapa warga telah diminta untuk membantu proses penggalian arkeologi itu. \nMenurut Kepala Kelompok Kerja (Kapokja) Perlindungan BPCB Yogyakarta, Muhammad Taufik, proses ekskavasi awal ini hanya akan berlangsung beberapa hari. Sebab, tujuannya hanya untuk melihat seberapa pentingnya situs tersebut, dan apa memang benar ada candi yang terpendam. \" Jika memang ada candi dan situs ini sangat penting maka akan dilakukan ekskavasi lanjutan. Jika memang tidak ya tidak dilanjutkan,\" tegasnya. \nDiberitakan sebelumnya, batu berukir raksasa atau sering disebut Kala ditemukan warga saat membajak sawah di Dusun Karangbajang, Desa Tlogoadi, Kecamatan Mlati, Kabupaten Sleman beberapa bulan lalu. Selain batu Kala, di lokasi yang sama, warga juga menemukan batu antefiks atau sering disebut hiasan candi.\nMakasih , yg banyak ya opini san faktanya",
+                        "snippet_content": "Karangbajang Mlati Sleman. Ekskavasi nantinya akan dibantu oleh beberapa orang dari <em>Jurusan<\/em> Arkelogi <em>Universitas<\/em> <em>Gadjah<\/em> <em>Mada<\/em> (UGM). \nProses ekskavasi nantinya juga akan"
+                    },
+                    "responses": [
+                        {
+                            "id": 3757256,
+                            "user_id": 1606394,
+                            "task_id": 2953594,
+                            "points": 40,
+                            "created": "2015-08-04T14:33:43+07:00",
+                            "content": "opini pgrf ke 1 dan 3 fakta paragraf 2 fan 4",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 3757283,
+                            "user_id": 1561376,
+                            "task_id": 2953594,
+                            "points": 40,
+                            "created": "2015-08-04T14:36:59+07:00",
+                            "content": "Fakta<br \/>- Balai \nPelestarian Cagar Budaya (BPCB) Yogyakarta bersama para Arkeolog \nUniversitas Gadjah Mada (UGM) berencana melakukan ekskavasi di area \npersawahan Dusun Karangbajang, Desa Tlogoadi, Kecamatan Mlati, Kabupaten\n Sleman<br \/><span>-Kepala Seksi Perlindungan Pengembangan dan Pemanfaatan, BPCB Yogyakarta, Wahyu Astuti, Minggu (02\/08\/2015).<br \/>Opini<br \/>-<\/span>Lokasi ini diduga \"menyimpan\" sebuah candi, setelah beberapa bulan lalu ditemukan batu berukiran Kala (Raksasa). <br \/>-Ia menuturkan, BPCB Yogyakarta telah membentuk tim untuk melakukan ekskavasi di Dusun Karangbajang Mlati Sleman<br \/><span>-Menurut Kepala\n Kelompok Kerja (Kapokja) Perlindungan BPCB Yogyakarta, Muhammad Taufik,\n proses ekskavasi awal ini hanya akan berlangsung beberapa hari.<\/span><br \/>Maaf kalau salah<br \/><br \/><br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 2379593,
+                                        "user_id": 83464,
+                                        "content": "Tapi yg di paragraf 1 ada tulisan BERENCANA :( gimana itu ya?",
+                                        "created": "2015-08-04T14:39:43+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1606394,
+                                "nick": "ranggita881",
+                                "avatar": null
+                            },
+                            {
+                                "id": 1561376,
+                                "nick": "andhiesyilamel",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d0d\/9ec05a99a8004d470faa99d01e77e521.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 2489184,
+                        "subject_id": 10,
+                        "user_id": 1370331,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "1. Tokoh dari indonesia yang terpilih sebagai ketua komisi HAM PPB pada tanggal 17 Januari 2002 adalah... a. alwi shihab b. dr. makarim wibisono c. adam malik d. ali alatas 2. Salah satu tujuan diadakannya kerja sama dengan negara-negara tetangga adalah... a. meningkatkan kesejahteraan b. mencari keuntungan dari negara lain c. mendapatkan bantuan dana dari negara lain d. mengetahui rahasia negara lain 3. Salah satu contoh kerja sama bilateral adalah... a. kerja sama indonesia dengan UNICEF b. kesepahaman Universitas Gadjah Mada dan Tokyo University c. OPEC d. MEE 4. Politik luar negeri indonesia adalah bebas aktif. bebas artinya... a. tidak terikat oleh politik negara adikuasa manapun b. dapat berpihak ke negara blok barat ataupun blok timur c. tidak ikut campur terhadap urusan negara lain d. dapat berhubungan dengan negara manapun 5. Pertukaran perwakilan diplomatik merupakan kerja sama dalam bidang... a. ekonomi b. sosial c. budaya d. politik",
+                        "created": "2015-04-16T02:43:49+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2015-04-16T05:41:12+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "1. Tokoh dari indonesia yang terpilih sebagai ketua komisi HAM PPB pada tanggal 17 Januari 2002 adalah... a. alwi shihab b. dr. makarim wibisono c. adam malik d. ali alatas 2. Salah satu tujuan diadakannya kerja sama dengan negara-negara tetangga adalah... a. meningkatkan kesejahteraan b. mencari keuntungan dari negara lain c. mendapatkan bantuan dana dari negara lain d. mengetahui rahasia negara lain 3. Salah satu contoh kerja sama bilateral adalah... a. kerja sama indonesia dengan UNICEF b. kesepahaman <em>Universitas<\/em> <em>Gadjah<\/em> <em>Mada<\/em> dan Tokyo University c. OPEC d. MEE 4. Politik luar negeri indonesia adalah bebas aktif. bebas artinya... a. tidak terikat oleh politik negara adikuasa manapun b. dapat berpihak ke negara blok barat ataupun blok timur c. tidak ikut campur terhadap <em>urusan<\/em> negara lain d. dapat berhubungan dengan negara manapun 5. Pertukaran perwakilan diplomatik merupakan kerja sama dalam bidang... a. ekonomi b. sosial c. budaya d. politik",
+                        "snippet_content": "sama bilateral adalah... a. kerja sama indonesia dengan UNICEF b. kesepahaman <em>Universitas<\/em> <em>Gadjah<\/em> <em>Mada<\/em> dan Tokyo University c. OPEC d. MEE 4"
+                    },
+                    "responses": [
+                        {
+                            "id": 3183995,
+                            "user_id": 1361724,
+                            "task_id": 2489184,
+                            "points": 5,
+                            "created": "2015-04-16T05:41:12+07:00",
+                            "content": "1. B<br \/>2. A<br \/>3. B<br \/>4. D<br \/>5. D<br \/>",
+                            "mark": 4,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 6894339,
+                                        "user_id": 4658299,
+                                        "content": "salah lu",
+                                        "created": "2017-04-29T19:01:53+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1361724,
+                                "nick": "cheonki",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d58\/6475fcacfbb558bf5ce059d012546310.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 149964,
+                        "subject_id": 9,
+                        "user_id": 100517,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "1. Tokoh dari indonesia yang terpilih sebagai ketua komisi HAM PPB pada tanggal 17 Januari 2002 adalah...<br \/>\na. alwi shihab<br \/>\nb. dr. makarim wibisono<br \/>\nc. adam malik<br \/>\nd. ali alatas<br \/><br \/>\n2. Salah satu tujuan diadakannya kerja sama dengan negara-negara tetangga adalah...<br \/>\na. meningkatkan kesejahteraan<br \/>\nb. mencari keuntungan dari negara lain <br \/>\nc. mendapatkan bantuan dana dari negara lain<br \/>\nd. mengetahui rahasia negara lain<br \/><br \/>\n3. Salah satu contoh kerja sama bilateral adalah...<br \/>\na. kerja sama indonesia dengan UNICEF<br \/>\nb. kesepahaman Universitas Gadjah Mada dan Tokyo University<br \/>\nc. OPEC<br \/>\nd. MEE<br \/><br \/>\n4. Politik luar negeri indonesia adalah bebas aktif. bebas artinya...<br \/>\na. tidak terikat oleh politik negara adikuasa manapun<br \/>\nb. dapat berpihak ke negara blok barat ataupun blok timur<br \/>\nc. tidak ikut campur terhadap urusan negara lain<br \/>\nd. dapat berhubungan dengan negara manapun<br \/><br \/>\n5. Pertukaran perwakilan diplomatik merupakan kerja sama dalam bidang...<br \/>\na. ekonomi<br \/>\nb. sosial<br \/>\nc. budaya<br \/>\nd. politik",
+                        "created": "2014-04-23T18:27:29+07:00",
+                        "responses": 1,
+                        "tickets": 3,
+                        "first_resp": "2016-04-04T13:36:41+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [
+                                {
+                                    "id": 226895,
+                                    "user_id": 105400,
+                                    "content": "c,a,b,d,b",
+                                    "created": "2014-04-24T13:51:12+07:00",
+                                    "deleted": true,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                }
+                            ],
+                            "last_id": 0,
+                            "count": 1
+                        },
+                        "highlighted_content": "1. Tokoh dari indonesia yang terpilih sebagai ketua komisi HAM PPB pada tanggal 17 Januari 2002 adalah...\na. alwi shihab\nb. dr. makarim wibisono\nc. adam malik\nd. ali alatas\n2. Salah satu tujuan diadakannya kerja sama dengan negara-negara tetangga adalah...\na. meningkatkan kesejahteraan\nb. mencari keuntungan dari negara lain \nc. mendapatkan bantuan dana dari negara lain\nd. mengetahui rahasia negara lain\n3. Salah satu contoh kerja sama bilateral adalah...\na. kerja sama indonesia dengan UNICEF\nb. kesepahaman <em>Universitas<\/em> <em>Gadjah<\/em> <em>Mada<\/em> dan Tokyo University\nc. OPEC\nd. MEE\n4. Politik luar negeri indonesia adalah bebas aktif. bebas artinya...\na. tidak terikat oleh politik negara adikuasa manapun\nb. dapat berpihak ke negara blok barat ataupun blok timur\nc. tidak ikut campur terhadap <em>urusan<\/em> negara lain\nd. dapat berhubungan dengan negara manapun\n5. Pertukaran perwakilan diplomatik merupakan kerja sama dalam bidang...\na. ekonomi\nb. sosial\nc. budaya\nd. politik",
+                        "snippet_content": "sama bilateral adalah...\na. kerja sama indonesia dengan UNICEF\nb. kesepahaman <em>Universitas<\/em> <em>Gadjah<\/em> <em>Mada<\/em> dan Tokyo University\nc. OPEC\nd. MEE\n4"
+                    },
+                    "responses": [
+                        {
+                            "id": 6701134,
+                            "user_id": 2735468,
+                            "task_id": 149964,
+                            "points": 5,
+                            "created": "2016-04-04T13:36:41+07:00",
+                            "content": "1. D. dr Makarin wibisono<br \/>2.A. meningkatkan kesejatraan<br \/>3.D. MEE<br \/>4.B. <br \/>5.A<br \/>",
+                            "mark": 3,
+                            "marks_count": 6,
+                            "thanks": 15,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2735468,
+                                "nick": "karnamurah",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d9c\/81f9f0259a951cfd843d2d8ea9924b76.png"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 3,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 83464,
+            "nick": "shierly05",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 20,
+                "answers": 22,
+                "comments": 18
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 1606394,
+            "nick": "ranggita881",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 3,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 1561376,
+            "nick": "andhiesyilamel",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 17,
+                "comments": 5
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d41\/0ce451ae722011f147da60ac28ec39e4.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d0d\/9ec05a99a8004d470faa99d01e77e521.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d41\/0ce451ae722011f147da60ac28ec39e4.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d0d\/9ec05a99a8004d470faa99d01e77e521.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 1370331,
+            "nick": "AlandYUDHA77",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dfe\/1e9f668991c21e9a66a2e2a3760fa66b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db7\/a5eb1a822ea537e2ec70a8b222e8b71d.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dfe\/1e9f668991c21e9a66a2e2a3760fa66b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db7\/a5eb1a822ea537e2ec70a8b222e8b71d.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4658299,
+            "nick": "aufa89",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 1,
+                "comments": 6
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd9\/972d7bd65c4299eabaa680d7bc60ecc1.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d77\/ce174c7a9e63d7b6d6658647aec10bc4.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd9\/972d7bd65c4299eabaa680d7bc60ecc1.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d77\/ce174c7a9e63d7b6d6658647aec10bc4.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1361724,
+            "nick": "cheonki",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 8,
+                "answers": 260,
+                "comments": 36
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d8f\/92c8b85db301df6a5b854e571bd1d35c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d58\/6475fcacfbb558bf5ce059d012546310.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d8f\/92c8b85db301df6a5b854e571bd1d35c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d58\/6475fcacfbb558bf5ce059d012546310.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 100517,
+            "nick": "RiszaPutri",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 5,
+                "comments": 2
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 105400,
+            "nick": "shinta12",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 29,
+                "comments": 6
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 2735468,
+            "nick": "karnamurah",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 38,
+                "answers": 41,
+                "comments": 18
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da0\/750a57e8f880f068b3f178597848d9db.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d9c\/81f9f0259a951cfd843d2d8ea9924b76.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da0\/750a57e8f880f068b3f178597848d9db.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d9c\/81f9f0259a951cfd843d2d8ea9924b76.png"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        }
+    ],
+    "validated": false
+}

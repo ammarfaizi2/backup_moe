@@ -1,0 +1,237 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 6349111,
+                        "subject_id": 5,
+                        "user_id": 2427779,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 15,
+                            "ptsForResp": 8,
+                            "ptsForBest": 4
+                        },
+                        "content": "I would rather have graduated from the University of New york last year<br \/>\nThis sentence means that I.........from the University of New york last year<br \/>\nA. would'nt graduate<br \/>\nB. won't graduate<br \/>\nC.won't graduated<br \/>\nD.didn't graduated<br \/>\nE.haven't graduated<br \/>\n==============================<br \/>\nShigeo: Indonesia government had made an appointment with Japan to do some researchers<br \/>\nTokoda: It.......discussed last week in Jakarta.One of the appointment is that Japanese government will give more than 75% fund for each  research.<br \/>\nA.had been<br \/>\nB.has been<br \/>\nC. would been<br \/>\nD. has to be<br \/>\nE.would rather been",
+                        "created": "2016-06-08T21:08:28+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2016-06-08T21:11:23+07:00",
+                        "the_best_resp_id": "7597281",
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "I would rather have graduated from the University of New york last year\nThis sentence means that I.........from the University of New york last year\nA. would'nt graduate\nB. won't graduate\nC.won't graduated\nD.didn't graduated\nE.haven't graduated\n==============================\n<em>Shigeo<\/em>: Indonesia government had made an appointment with Japan to do some researchers\n<em>Tokoda<\/em>: It.......discussed last week in Jakarta.One of the appointment is that Japanese government will give more than 75% fund for each  research.\nA.had been\nB.has been\nC. would been\nD. has to be\nE.would rather been",
+                        "snippet_content": "won't graduated\nD.didn't graduated\nE.haven't graduated\n==============================\n<em>Shigeo<\/em>: Indonesia government had made an appointment with Japan to do"
+                    },
+                    "responses": [
+                        {
+                            "id": 7597281,
+                            "user_id": 2297087,
+                            "task_id": 6349111,
+                            "points": 8,
+                            "created": "2016-06-08T21:11:23+07:00",
+                            "content": "1.\u00a0D. didn't graduate<br \/>2. A. had been",
+                            "mark": 5,
+                            "marks_count": 2,
+                            "thanks": 1,
+                            "user_best_rank_id": 7,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2016-06-08T23:36:49+07:00",
+                                "approver": {
+                                    "id": 1474741,
+                                    "nickname": "gumantinr",
+                                    "points": 285921,
+                                    "grade": 3,
+                                    "gender": 1,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/d6c\/6886afc4fe968c0a4e99b01c1cf79277.jpg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/d87\/62084e44ff4fa7912aea7c8054bc01be.jpg"
+                                    },
+                                    "content_approved_count": 9543
+                                }
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 4320697,
+                                        "user_id": 2427779,
+                                        "content": "no 2 yg benar apa kak?",
+                                        "created": "2016-06-08T21:30:20+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 4320707,
+                                        "user_id": 2297087,
+                                        "content": "Maaf seharusnya had been karena di kalimat pertama sudah pakai had made",
+                                        "created": "2016-06-08T21:32:00+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 4320720,
+                                        "user_id": 2427779,
+                                        "content": "oke kak , TQ",
+                                        "created": "2016-06-08T21:34:07+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 4320721,
+                                        "user_id": 2297087,
+                                        "content": "sama2",
+                                        "created": "2016-06-08T21:34:22+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 4
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2297087,
+                                "nick": "tribeking22",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d72\/4e774648b0ecd206316fbbcd16b12345.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 1,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 2427779,
+            "nick": "ipungbabys",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 310,
+                "answers": 889,
+                "comments": 1722
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d41\/cd64be150cf6015aa2e8c3f27fab8d65.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dae\/4b5a379ca0c02e22d750a4061663dcbf.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d41\/cd64be150cf6015aa2e8c3f27fab8d65.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dae\/4b5a379ca0c02e22d750a4061663dcbf.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Spam Fighter ",
+                    "Pakar"
+                ],
+                "count": 2
+            },
+            "ranks_ids": [
+                17,
+                5
+            ]
+        },
+        {
+            "id": 2297087,
+            "nick": "tribeking22",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 24,
+                "answers": 16260,
+                "comments": 3602
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d61\/2a4619f5a42ca171c9f8c10c14dac697.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d72\/4e774648b0ecd206316fbbcd16b12345.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d61\/2a4619f5a42ca171c9f8c10c14dac697.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d72\/4e774648b0ecd206316fbbcd16b12345.jpg"
+            },
+            "ranks": {
+                "color": "#ffbe32",
+                "names": [
+                    "Guru",
+                    "BrainlyDoctor",
+                    "BrainlyElite",
+                    "O-ADVENTURER-O",
+                    "Moderator",
+                    "Mentor",
+                    "Economics-DavidRicardo",
+                    "Jenius"
+                ],
+                "count": 8
+            },
+            "ranks_ids": [
+                12,
+                32,
+                27,
+                94,
+                19,
+                51,
+                118,
+                7
+            ]
+        }
+    ],
+    "validated": false
+}

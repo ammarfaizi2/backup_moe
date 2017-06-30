@@ -1,0 +1,898 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 10886189,
+                        "subject_id": 11,
+                        "user_id": 5126950,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "contoh penyedia webhosting gratis?",
+                        "created": "2017-06-05T17:18:54+07:00",
+                        "responses": 1,
+                        "tickets": 4,
+                        "first_resp": "2017-06-05T18:54:40+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "contoh penyedia <em>webhost<\/em>ing gratis?",
+                        "snippet_content": "contoh penyedia <em>webhost<\/em>ing gratis?"
+                    },
+                    "responses": [
+                        {
+                            "id": 13232458,
+                            "user_id": 1520992,
+                            "task_id": 10886189,
+                            "points": 5,
+                            "created": "2017-06-05T18:54:40+07:00",
+                            "content": "Id hostinger, blogspot, simplesite dan kawan kawan,",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1520992,
+                                "nick": "rezytijo",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/ded\/3b4e53d1b4fbcd5b4c9fa9620549f954.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10927115,
+                        "subject_id": 11,
+                        "user_id": 5149271,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "bedakan antara ebook dengan PDF",
+                        "created": "2017-06-10T15:20:08+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2017-06-10T15:34:51+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "bedakan antara <em>ebook<\/em> dengan PDF",
+                        "snippet_content": "bedakan antara <em>ebook<\/em> dengan PDF"
+                    },
+                    "responses": [
+                        {
+                            "id": 13285164,
+                            "user_id": 4921202,
+                            "task_id": 10927115,
+                            "points": 5,
+                            "created": "2017-06-10T15:34:51+07:00",
+                            "content": "Ebook adalah jenis dokumen, sedangkan pdf adalah format dokumen<br \/><br \/>___________<br \/>#Semoga bermanfaat ^_^",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 7,
+                            "source": "10",
+                            "client_type": "6",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2017-06-12T08:32:37+07:00",
+                                "approver": {
+                                    "id": 2663844,
+                                    "nickname": "Mahaguru",
+                                    "points": 1857,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/db6\/c5fb7b6a68ce26ccea00dc12cb60d96f.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/df7\/fe8fb6dfa0d217a5d3fafa2a27e269ba.png"
+                                    },
+                                    "content_approved_count": 718187
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 13285640,
+                            "user_id": 4585048,
+                            "task_id": 10927115,
+                            "points": 5,
+                            "created": "2017-06-10T17:01:37+07:00",
+                            "content": "Ebook adalah buku yang disimpan dalam bentuk elektronik, yg dapat dibaca melalui komputer, dan juga gadget lainnya.<br \/><br \/>Sementara PDF adalah salah satu format file dari ebook.<br \/><br \/><br \/>#semogaMembantu",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4921202,
+                                "nick": "dikisiswanto",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d46\/dce4f3fea68076081092d9f37fda37ef.png"
+                            },
+                            {
+                                "id": 4585048,
+                                "nick": "Chori22",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d62\/970634c3d7adb21870d8f5251dda7b53.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10655466,
+                        "subject_id": 11,
+                        "user_id": 4454565,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 11,
+                            "ptsForResp": 6,
+                            "ptsForBest": 3
+                        },
+                        "content": "bagaimana penggunaan ebook?",
+                        "created": "2017-05-15T18:39:03+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-05-15T18:56:42+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "bagaimana penggunaan <em>ebook<\/em>?",
+                        "snippet_content": "bagaimana penggunaan <em>ebook<\/em>?"
+                    },
+                    "responses": [
+                        {
+                            "id": 12911400,
+                            "user_id": 5036791,
+                            "task_id": 10655466,
+                            "points": 6,
+                            "created": "2017-05-15T18:56:42+07:00",
+                            "content": "cara menggunakan ebookmelalui komputer baik Windows, Mac, ataupun berbasis sistem komputasi awan. Anda dapat membaca banyak koleksi ebook melalui akun Amazon. Jika Anda telah memiliki akun Amazon, Anda dapat mulai membaca secara instan menggunakan Kindle Cloud Reader yang dapat diakses melalui Firefox, Safari, ataupun Chrome. Selain itu Anda pun dapat memanfaatkan aplikasi desktop Kindle untuk Windows ataupun Mac. Seluruh aplikasi Kindle tersebut dapat diakses secara gratis. Aplikasi itu dapat mendukung proses pembacaan dalam layar penuh dengan kemampuan untuk membuat catatan, bookmarks, dan lainnya. Anda dapat melakukan proses pencarian kata dalam kamus digital ataupun Wikipedia.<br \/><br \/>Bahkan Anda membuat proses pembacaan paragraf dalam dua kolom dalam satu mode kolom. Hal tersebut tergantung dari seberapa lebar layar yang digunakan. Setelah Anda masuk menggunakan aku Amazon, Anda dapat melakukan sinkronisasi buku-buku digital koleksi Anda ke beragam perangkat",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "6",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5036791,
+                                "nick": "Xyiinz",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d81\/f70841fdf2f5a13f6e409c10e022462f.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10696087,
+                        "subject_id": 11,
+                        "user_id": 5055321,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "6.\tCara memotong klip video pada software movie maker dengan menggunakan perintah ...<br \/>\n7.\tCara menambah gambar atau video di movie maker menggunakan ikon ...<br \/>\n8.\tCara menambahkan tekt pada movie maker menggunakan ikon ...<br \/>\n9.\tCara menyimpan file menjadi bentuk video dalam movie maker adalah ...<br \/>\n10.\tFormat file hasil rekaman video yang dapat diimpor ke Windows Live Movie Maker adalah\u2026.<br \/>\n11.\tPengambilan gambar bergerak secara horizontal disebut........panning<br \/>\n12.\tDokomen yang dapat dibaca secara baik pada hampir semua<br \/>\nperalatan (komputer, tablet, smartphone) adalah  file gambar dengan<br \/>\ntipe.......<br \/>\n13.\tKonversi file word ke file html dengan perintah......<br \/>\n14.\tFormat audio yang dapat digunakan dalam buku digital adalah.........<br \/>\n15.\tAplikasi untuk membaca ebook format e-Pub pada komputer dengan sistem operasi Microsoft Windows adalah.......<br \/><br \/>\n16.\tEditing video adalah proses\u2026.                                                                       <br \/>\n17.\tSuatu perintah untuk menyimpan file pada server web youtube, hasil rekaman dapat dilihat atau ditonton oleh pengguna Youtube disebut......<br \/>\n18.\tDalam aplikasi Windows Live Movie Maker, fitur  untuk menambahkan teks pada video adalah\u2026..<br \/>\n19.\tPengertian dari video dokumenter adalah ...<br \/>\n20.\tPengertian dari video pembelajaran adalah ...<br \/>\n21.\tVideo yang bertujuan untuk memaparkan cerita  disebut ...<br \/>\n22.\tCiri-ciri presentasi video adalah...<br \/>\n23.\tSuatu peristiwa atau rekaan yang dikisahkan dalam bentuk cerita singkat, ringkas, padat dan jelas, tanpa menghilangkan unsur \u2013 unsur pentingnya disebut ...<br \/>\n24.\tRancangan yang tersusun dalam pikiran, merupakan pengertian dari ...<br \/>\n25.\tCara menambah music pada movie maker ...<br \/><br \/>",
+                        "created": "2017-05-18T07:24:42+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2017-05-18T07:45:47+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "6.\tCara memotong klip video pada software movie maker dengan menggunakan perintah ...\n7.\tCara menambah gambar atau video di movie maker menggunakan ikon ...\n8.\tCara menambahkan tekt pada movie maker menggunakan ikon ...\n9.\tCara menyimpan file menjadi bentuk video dalam movie maker adalah ...\n10.\tFormat file hasil rekaman video yang dapat diimpor ke Windows Live Movie Maker adalah\u2026.\n11.\tPengambilan gambar bergerak secara horizontal disebut........panning\n12.\tDokomen yang dapat dibaca secara baik pada hampir semua\nperalatan (komputer, tablet, smartphone) adalah  file gambar dengan\ntipe.......\n13.\tKonversi file word ke file html dengan perintah......\n14.\tFormat audio yang dapat digunakan dalam buku digital adalah.........\n15.\tAplikasi untuk membaca <em>ebook<\/em> format e-Pub pada komputer dengan sistem operasi Microsoft Windows adalah.......\n16.\tEditing video adalah proses\u2026.                                                                       \n17.\tSuatu perintah untuk menyimpan file pada server web youtube, hasil rekaman dapat dilihat atau ditonton oleh pengguna Youtube disebut......\n18.\tDalam aplikasi Windows Live Movie Maker, fitur  untuk menambahkan teks pada video adalah\u2026..\n19.\tPengertian dari video dokumenter adalah ...\n20.\tPengertian dari video pembelajaran adalah ...\n21.\tVideo yang bertujuan untuk memaparkan cerita  disebut ...\n22.\tCiri-ciri presentasi video adalah...\n23.\tSuatu peristiwa atau rekaan yang dikisahkan dalam bentuk cerita singkat, ringkas, padat dan jelas, tanpa menghilangkan unsur \u2013 unsur pentingnya disebut ...\n24.\tRancangan yang tersusun dalam pikiran, merupakan pengertian dari ...\n25.\tCara menambah music pada movie maker ...",
+                        "snippet_content": "yang dapat digunakan dalam buku digital adalah.........\n15.\tAplikasi untuk membaca <em>ebook<\/em> format e-Pub pada komputer dengan sistem operasi Microsoft Windows"
+                    },
+                    "responses": [
+                        {
+                            "id": 12963449,
+                            "user_id": 4111592,
+                            "task_id": 10696087,
+                            "points": 5,
+                            "created": "2017-05-18T07:45:47+07:00",
+                            "content": "6. Edit - trim tool<br \/>7. Add videos and photos<br \/>8. Caption<br \/>9. Klik ikon save movie pada menu home<br \/>10. Mp4<br \/>11. Shot panning<br \/>12. Jpeg<br \/>13. Save - save as type - single file web page<br \/>14. Mp3<br \/>15. <br \/>16.<br \/>17. Mengubah video dari bentuk asli dengan cara mengurang dan menambah komponen tampilan video.<br \/>18. Title, caption dan credits<br \/>19. .<br \/>20. <br \/>21<br \/>22<br \/>23. Video dokumenter<br \/>24. Konsep<br \/>25. Home - add music",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 7110131,
+                                        "user_id": 5055321,
+                                        "content": "makasih",
+                                        "created": "2017-05-18T07:47:33+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 7110134,
+                                        "user_id": 4111592,
+                                        "content": "iya...",
+                                        "created": "2017-05-18T07:47:53+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 2
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4111592,
+                                "nick": "PitasCover",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dc2\/04acca457bc6020cef5d246d999a2808.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10693604,
+                        "subject_id": 11,
+                        "user_id": 1836506,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": " 6.     Yang dimaksud dengan Tool Self adalah\u2026<br \/>a.    Merupakan workspace besar yang biasa disebut sebagai kanvas dan merupakan tempat pembuatan objek 3 dimensi<br \/>b.    Merupakan  tempat  tool-tool  yang  biasa  digunakan  dan  berganti-ganti sesuai apa yang sedang dikerjakan pada 3D View<br \/>c.    Merupakan tempat pemberi informasi mengenai transformasi dan  segala  macam  mengenai  objek  yang  terseleksi<br \/>d.    Merupakan tempat frame animasi dan berbagai opsi untuk mengganti mode dalam mengedit objek<br \/>e.    Merupakan tempat untuk memilih berbagai bentuk objek dan animasi 3D.<br \/><br \/>7.    Yang dimaksud dengan Time Line adalah\u2026<br \/>a.    Merupakan workspace besar yang biasa disebut sebagai kanvas dan merupakan tempat pembuatan objek 3 dimensi<br \/>b.    Merupakan  tempat  tool-tool  yang  biasa  digunakan  dan  berganti-ganti sesuai apa yang sedang dikerjakan pada 3D View<br \/>c.    Merupakan tempat pemberi informasi mengenai transformasi dan  segala  macam  mengenai  objek  yang  terseleksi<br \/>d.    Merupakan tempat frame animasi dan berbagai opsi untuk mengganti mode dalam mengedit objek<br \/>e.    Merupakan tempat untuk memilih berbagai bentuk objek dan animasi 3D.<br \/><br \/>8.    Yang dimaksud dengan 3D View adalah\u2026<br \/>a.    Merupakan workspace besar yang biasa disebut sebagai kanvas dan merupakan tempat pembuatan objek 3 dimensi<br \/>b.    Merupakan  tempat  tool-tool  yang  biasa  digunakan  dan  berganti-ganti sesuai apa yang sedang dikerjakan pada 3D View<br \/>c.    Merupakan tempat pemberi informasi mengenai transformasi dan  segala  macam  mengenai  objek  yang  terseleksi<br \/>d.    Merupakan tempat frame animasi dan berbagai opsi untuk mengganti mode dalam mengedit objek<br \/>e.    Merupakan tempat untuk memilih berbagai bentuk objek dan animasi 3D.<br \/><br \/>15.  Fungsi penulangan adalah \u2026.<br \/>a.    Sebagai alat rotasi objek<br \/>b.    Sebagai alat gerak objek<br \/>c.    Sebagai alat untuk membesarkan objek<br \/>d.    Sebagai alat untuk menjalankan objek<br \/>e.    Sebagai alat penegak objek<br \/><br \/>16.  Untuk memadukan tulang dengan objek digunakan tombol\u2026<br \/>a.    Ctrl + O<br \/>b.    Ctrl + R<br \/>c.    Ctrl + J<br \/>d.    Ctrl + P<br \/>e.    Ctrl + T<br \/><br \/>17.  Untuk menganimasikan tulang digunakan fitur\u2026<br \/>a.    Objek mode<br \/>b.    Edit mode<br \/>c.    Pose mode<br \/>d.    Vertex mode<br \/>e.    Fashion mode<br \/><br \/>18.  Sudut  pengambilan  gambar  suatu  objek disebut dengan\u2026.<br \/>a.    Camera position<br \/>b.    Camera marker<br \/>c.    Camera Afgun<br \/>d.    Camera 360<br \/>e.    Camera angle<br \/><br \/>19.  Buku elektronik dapat berisi\u2026 kecuali<br \/>a.    Teks<br \/>b.    Gambar<br \/>c.    Ebook<br \/>d.    Audio<br \/>e.    Video<br \/><br \/>20.  Fungsi buku digital adalah\u2026<br \/>a.    Sebagai salah satu media belajar<br \/>b.    Sebagai media berbagi informasi<br \/>c.    Sebagai media menulis ide gagasan<br \/>d.    A dan C benar<br \/>(e.)    A dan B benar<br \/><br \/>21.  Kepanjangan EPUB adalah<br \/>a.    Electronic Puber<br \/>b.    Electronic Publication<br \/>c.    Eksponen Publication<br \/>d.)  Electronik Publication Book<br \/>e.    Electronik Publisher<br \/><br \/>22.  Kepanjangan PDB yaitu\u2026<br \/>a.    Palm File Database<br \/>b.    Portable Database<br \/>c.    Palm Database<br \/>d.    Portable Book<br \/>e.    Palm Data Book<br \/><br \/>23.  Aplikasi yang digunakan untuk menyusun buku digital dengan format ePub adalah :<br \/>a.    MS Word<br \/>b.    MS Excel<br \/>c.    Sigil<br \/>d.    Adobe Digital Edition<br \/>e.    Foxit Reader<br \/><br \/>24.  Sedangkan untuk membuka file ePub adalah\u2026<br \/>a.    MS Word<br \/>b.    MS Excel<br \/>c.    Sigil<br \/>d.    Adobe Digital Edition<br \/>e.    Foxit Reader<br \/><br \/>25.  Yang tidak termasuk jenis format buku digital ialah\u2026<br \/>a.    AZW<br \/>b.    PDF<br \/>c.    PPDB<br \/>d.    PDB<br \/>e.    Mobi<br \/>",
+                        "created": "2017-05-17T21:34:37+07:00",
+                        "responses": 1,
+                        "tickets": 3,
+                        "first_resp": "2017-05-21T02:59:23+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": " 6.     Yang dimaksud dengan Tool Self adalah\u2026a.    Merupakan workspace besar yang biasa disebut sebagai kanvas dan merupakan tempat pembuatan objek 3 dimensib.    Merupakan  tempat  tool-tool  yang  biasa  digunakan  dan  berganti-ganti sesuai apa yang sedang dikerjakan pada 3D Viewc.    Merupakan tempat pemberi informasi mengenai transformasi dan  segala  macam  mengenai  objek  yang  terseleksid.    Merupakan tempat frame animasi dan berbagai opsi untuk mengganti mode dalam mengedit objeke.    Merupakan tempat untuk memilih berbagai bentuk objek dan animasi 3D.7.    Yang dimaksud dengan Time Line adalah\u2026a.    Merupakan workspace besar yang biasa disebut sebagai kanvas dan merupakan tempat pembuatan objek 3 dimensib.    Merupakan  tempat  tool-tool  yang  biasa  digunakan  dan  berganti-ganti sesuai apa yang sedang dikerjakan pada 3D Viewc.    Merupakan tempat pemberi informasi mengenai transformasi dan  segala  macam  mengenai  objek  yang  terseleksid.    Merupakan tempat frame animasi dan berbagai opsi untuk mengganti mode dalam mengedit objeke.    Merupakan tempat untuk memilih berbagai bentuk objek dan animasi 3D.8.    Yang dimaksud dengan 3D View adalah\u2026a.    Merupakan workspace besar yang biasa disebut sebagai kanvas dan merupakan tempat pembuatan objek 3 dimensib.    Merupakan  tempat  tool-tool  yang  biasa  digunakan  dan  berganti-ganti sesuai apa yang sedang dikerjakan pada 3D Viewc.    Merupakan tempat pemberi informasi mengenai transformasi dan  segala  macam  mengenai  objek  yang  terseleksid.    Merupakan tempat frame animasi dan berbagai opsi untuk mengganti mode dalam mengedit objeke.    Merupakan tempat untuk memilih berbagai bentuk objek dan animasi 3D.15.  Fungsi penulangan adalah \u2026.a.    Sebagai alat rotasi objekb.    Sebagai alat gerak objekc.    Sebagai alat untuk membesarkan objekd.    Sebagai alat untuk menjalankan objeke.    Sebagai alat penegak objek16.  Untuk memadukan tulang dengan objek digunakan tombol\u2026a.    Ctrl + Ob.    Ctrl + Rc.    Ctrl + Jd.    Ctrl + Pe.    Ctrl + T17.  Untuk menganimasikan tulang digunakan fitur\u2026a.    Objek modeb.    Edit modec.    Pose moded.    Vertex modee.    Fashion mode18.  Sudut  pengambilan  gambar  suatu  objek disebut dengan\u2026.a.    Camera positionb.    Camera markerc.    Camera Afgund.    Camera 360e.    Camera angle19.  Buku elektronik dapat berisi\u2026 kecualia.    Teksb.    Gambarc.    <em>Ebook<\/em>d.    Audioe.    Video20.  Fungsi buku digital adalah\u2026a.    Sebagai salah satu media belajarb.    Sebagai media berbagi informasic.    Sebagai media menulis ide gagasand.    A dan C benar(e.)    A dan B benar21.  Kepanjangan EPUB adalaha.    Electronic Puberb.    Electronic Publicationc.    Eksponen Publicationd.)  Electronik Publication Booke.    Electronik Publisher22.  Kepanjangan PDB yaitu\u2026a.    Palm File Databaseb.    Portable Databasec.    Palm Databased.    Portable Booke.    Palm Data Book23.  Aplikasi yang digunakan untuk menyusun buku digital dengan format ePub adalah :a.    MS Wordb.    MS Excelc.    Sigild.    Adobe Digital Editione.    Foxit Reader24.  Sedangkan untuk membuka file ePub adalah\u2026a.    MS Wordb.    MS Excelc.    Sigild.    Adobe Digital Editione.    Foxit Reader25.  Yang tidak termasuk jenis format buku digital ialah\u2026a.    AZWb.    PDFc.    PPDBd.    PDBe.    Mobi",
+                        "snippet_content": "Camera 360e.    Camera angle19.  Buku elektronik dapat berisi\u2026 kecualia.    Teksb.    Gambarc.    <em>Ebook<\/em>d.    Audioe.    Video20.  Fungsi buku digital adalah\u2026a.    Sebagai salah satu"
+                    },
+                    "responses": [
+                        {
+                            "id": 13012057,
+                            "user_id": 5055277,
+                            "task_id": 10693604,
+                            "points": 5,
+                            "created": "2017-05-21T02:59:23+07:00",
+                            "content": "6).B<br \/>7).C<br \/>8).e<br \/>15).e<br \/>16).?<br \/>17).C<br \/>18).e<br \/>19).e<br \/>20).e<br \/>21).D<br \/>22).e<br \/>23).b<br \/>24).?<br \/>25).a",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 7141836,
+                                        "user_id": 1836506,
+                                        "content": "banyak yang salah",
+                                        "created": "2017-05-21T14:32:35+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5055277,
+                                "nick": "tsusiki",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/deb\/1f8e41fb2b389bc95924bc1b853764dd.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 5,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 5126950,
+            "nick": "din107",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 0,
+                "comments": 1
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d24\/3f02fb5ab47644c4a49347cc4065fe18.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7c\/9117ecfcabc60cf7d5d40adb11b87de6.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d24\/3f02fb5ab47644c4a49347cc4065fe18.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7c\/9117ecfcabc60cf7d5d40adb11b87de6.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1520992,
+            "nick": "rezytijo",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 10,
+                "answers": 247,
+                "comments": 19
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de8\/94ee9c32400468973f0fde52d4397def.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ded\/3b4e53d1b4fbcd5b4c9fa9620549f954.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de8\/94ee9c32400468973f0fde52d4397def.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ded\/3b4e53d1b4fbcd5b4c9fa9620549f954.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 5149271,
+            "nick": "SaifulIpul1617",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4921202,
+            "nick": "dikisiswanto",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 3173,
+                "comments": 416
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d07\/8350cbf83db63791aaefe6411f0d87ba.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d46\/dce4f3fea68076081092d9f37fda37ef.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d07\/8350cbf83db63791aaefe6411f0d87ba.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d46\/dce4f3fea68076081092d9f37fda37ef.png"
+            },
+            "ranks": {
+                "color": "#ffbe32",
+                "names": [
+                    "BrainlyTeacher",
+                    "BrainlyElite",
+                    "Spam Fighter ",
+                    "Apprentice",
+                    "KsatriaBrainly",
+                    "IT-CharlesBabbage",
+                    "Jenius"
+                ],
+                "count": 7
+            },
+            "ranks_ids": [
+                91,
+                27,
+                17,
+                20,
+                23,
+                129,
+                7
+            ]
+        },
+        {
+            "id": 4585048,
+            "nick": "Chori22",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 192,
+                "comments": 42
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d8f\/87c8100fe36a6f1c3c2f2a7c47310766.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d62\/970634c3d7adb21870d8f5251dda7b53.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d8f\/87c8100fe36a6f1c3c2f2a7c47310766.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d62\/970634c3d7adb21870d8f5251dda7b53.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 4454565,
+            "nick": "mariska031",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 13,
+                "answers": 13,
+                "comments": 1
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 5036791,
+            "nick": "Xyiinz",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 11,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd7\/954d603cee84e7ef70915ac9a1cb9459.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d81\/f70841fdf2f5a13f6e409c10e022462f.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd7\/954d603cee84e7ef70915ac9a1cb9459.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d81\/f70841fdf2f5a13f6e409c10e022462f.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 5055321,
+            "nick": "mariagoretibukifan",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 1
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d10\/b661fac9da2710c62f909526b6a4032c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7d\/e3d7d1e825c5ed6b22a883aec04580e3.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d10\/b661fac9da2710c62f909526b6a4032c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7d\/e3d7d1e825c5ed6b22a883aec04580e3.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4111592,
+            "nick": "PitasCover",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 21,
+                "answers": 110,
+                "comments": 35
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4c\/ceb48527a1c2ac62731dac54289a32ea.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc2\/04acca457bc6020cef5d246d999a2808.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4c\/ceb48527a1c2ac62731dac54289a32ea.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc2\/04acca457bc6020cef5d246d999a2808.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 1836506,
+            "nick": "RIZKY761",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 44,
+                "answers": 23,
+                "comments": 5
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de6\/459e0d87842986c0bf0a7cf5733d0da8.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d58\/20b5b5e01c37d87507adf1b4a27cf74e.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de6\/459e0d87842986c0bf0a7cf5733d0da8.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d58\/20b5b5e01c37d87507adf1b4a27cf74e.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 5055277,
+            "nick": "tsusiki",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 134,
+                "comments": 11
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d3e\/78c34d7891e2cec93556fb276d1f1cf9.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/deb\/1f8e41fb2b389bc95924bc1b853764dd.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d3e\/78c34d7891e2cec93556fb276d1f1cf9.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/deb\/1f8e41fb2b389bc95924bc1b853764dd.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        }
+    ],
+    "validated": false
+}

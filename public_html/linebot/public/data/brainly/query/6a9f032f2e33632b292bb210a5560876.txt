@@ -1,0 +1,396 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 4712901,
+                        "subject_id": 11,
+                        "user_id": 2270521,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 25,
+                            "ptsForResp": 13,
+                            "ptsForBest": 7
+                        },
+                        "content": "jelaskan pengertian script kiddie dan sejenisnya",
+                        "created": "2016-01-03T19:13:20+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2016-01-03T19:18:27+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "jelaskan pengertian <em>script<\/em> <em>kiddie<\/em> dan sejenisnya",
+                        "snippet_content": "jelaskan pengertian <em>script<\/em> <em>kiddie<\/em> dan sejenisnya"
+                    },
+                    "responses": [
+                        {
+                            "id": 5597553,
+                            "user_id": 2432910,
+                            "task_id": 4712901,
+                            "points": 13,
+                            "created": "2016-01-03T19:18:27+07:00",
+                            "content": "Script Kiddies ini adalah tingkatan level yang paling rendah, Mereka hanya tahu tentang dasar bagaimana memodifikasi Script atau Program dengan mencari artikel pendukung di internet, forum maupun Youtube. Segala informasi mereka kumpulkan untuk mengubah script yang sudah ada dengan cara coba-coba. Kemampuan mereka dalam membuat atau merusak suatu program tergolong rendah. Sebagian dari mereka memodifikasi suatu program hanya untuk iseng atau menghabiskan waktu tapi sebagian lagi dari mereka punya maksud agar orang lain mengetahui bahwa dirinya adalah Hacker yang merusak suatu program pada hal pengertian yang mereka terapkan adalah salah. Aksi merusak website mereka dari Forum atau bertanya langsung kepada ahlinya, lalu Mereka mendatangi situs-situs yang berbau Hacker berharap dapat informasi terbaru mengenai celah keamanan terbaru dan mencari korbannya melalui Google. Setelah berhasil mereka menutupnya dengan beberapa buah kata \"Hacked by ... \". Apa yang mereka perbuat kadang-kadang mereka tidak tahu resikoi akan perbuatan mereka",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2432910,
+                                "nick": "jeremyalfananda",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/ddb\/27cdbe5b821d6b32501579a77baf0e24.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 1253867,
+                        "subject_id": 11,
+                        "user_id": 777103,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "menurut Marc Rogers Hackers dapat di identifikasi atas kelompok berikut kecuali ?<br \/>\nA. Old School Hackers<br \/>\nB. Script Kiddie\/Cybeer Funk<br \/>\nC. Crazzy Nerd<br \/>\nD. Profesional Kriminal<br \/>\nE. Coder\/Virus Writer",
+                        "created": "2014-10-29T11:32:28+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2014-10-29T11:35:28+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "menurut Marc Rogers Hackers dapat di identifikasi atas kelompok berikut kecuali ?\nA. Old School Hackers\nB. <em>Script<\/em> <em>Kiddie<\/em>\/Cybeer Funk\nC. Crazzy Nerd\nD. Profesional Kriminal\nE. Coder\/Virus Writer",
+                        "snippet_content": "menurut Marc Rogers Hackers dapat di identifikasi atas kelompok berikut kecuali ?\nA. Old School Hackers\nB. <em>Script<\/em> <em>Kiddie<\/em>\/Cybeer Funk\nC. Crazzy"
+                    },
+                    "responses": [
+                        {
+                            "id": 1609093,
+                            "user_id": 757950,
+                            "task_id": 1253867,
+                            "points": 5,
+                            "created": "2014-10-29T11:35:28+07:00",
+                            "content": "kalau gak salah sih crazzy nerd :)",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 1609127,
+                            "user_id": 330797,
+                            "task_id": 1253867,
+                            "points": 5,
+                            "created": "2014-10-29T11:40:03+07:00",
+                            "content": "<span>C. Crazzy Nerd<\/span>................................<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 757950,
+                                "nick": "vickyvampire72",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d18\/14517b1fa40d7850760b5e0954062811.jpg"
+                            },
+                            {
+                                "id": 330797,
+                                "nick": "alifmuhammad65",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dab\/bf9aaea3821a9b383cf8d1f725ab0792.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 2,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 2270521,
+            "nick": "kunu46",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df9\/ad6f70e29eb599e5a436218258b167f2.gif",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d2e\/8b32139b598c6e692ba52898b7ad2c11.gif"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df9\/ad6f70e29eb599e5a436218258b167f2.gif",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d2e\/8b32139b598c6e692ba52898b7ad2c11.gif"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 2432910,
+            "nick": "jeremyalfananda",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 4,
+                "comments": 1
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dfa\/4e7f283ac4996aea3f402c4e6668248f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ddb\/27cdbe5b821d6b32501579a77baf0e24.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dfa\/4e7f283ac4996aea3f402c4e6668248f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ddb\/27cdbe5b821d6b32501579a77baf0e24.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 777103,
+            "nick": "Kristin99",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 0,
+                "comments": 3
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4c\/6034b40f620adc4cf216f7a0895a5043.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/def\/fc3e10bdf5a27f411fa48e8d29b2766e.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4c\/6034b40f620adc4cf216f7a0895a5043.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/def\/fc3e10bdf5a27f411fa48e8d29b2766e.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 757950,
+            "nick": "vickyvampire72",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 288,
+                "comments": 84
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4b\/e314225169e2db73b0662a75614de94a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d18\/14517b1fa40d7850760b5e0954062811.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4b\/e314225169e2db73b0662a75614de94a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d18\/14517b1fa40d7850760b5e0954062811.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        },
+        {
+            "id": 330797,
+            "nick": "alifmuhammad65",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 19,
+                "comments": 7
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d93\/b1397e37de0cb36274bd509ddd5486b6.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dab\/bf9aaea3821a9b383cf8d1f725ab0792.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d93\/b1397e37de0cb36274bd509ddd5486b6.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dab\/bf9aaea3821a9b383cf8d1f725ab0792.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        }
+    ],
+    "validated": false
+}

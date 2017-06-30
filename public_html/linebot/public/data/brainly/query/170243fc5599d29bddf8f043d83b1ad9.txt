@@ -1,0 +1,384 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 5319319,
+                        "subject_id": 10,
+                        "user_id": 2679770,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "siapa penemu dinosaurus t-rex",
+                        "created": "2016-03-03T11:40:49+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2016-03-03T11:45:17+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "<em>siapa<\/em> <em>penemu<\/em> dinosaurus <em>t<\/em>-<em>rex<\/em>",
+                        "snippet_content": "<em>siapa<\/em> <em>penemu<\/em> dinosaurus <em>t<\/em>-<em>rex<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 6280922,
+                            "user_id": 2233181,
+                            "task_id": 5319319,
+                            "points": 5,
+                            "created": "2016-03-03T11:45:17+07:00",
+                            "content": "Tahun 1892, ditemukan bagian dari tulang punggung yang diduga punya T-rex oleh\u00a0panteolog<span>\u00a0bernama Edward Drinker Cope dan diberi nama\u00a0<\/span>Manospondylus gigas<span>. Fosil kedua ditemukan tahun 1900 oleh Barnum Brown dari negara bagian\u00a0<\/span>Wyoming<span>\u00a0dan diberinama\u00a0<\/span>Dynamosaurus imperiosus<span>\u00a0oleh Henry Fairfield Osborn pada tahun 1905. Dan fosil ketiga pun ditemukan oleh Henry Fairfield Osborn pada tahun 1902 di negara bagian\u00a0<\/span>montana<span>\u00a0dan diberi nama Tyrannosaurus rex. Fosilnya tidak utuh,tapi gigi dan rahangnya masih lengkap.Sejak itulah dinosaurus ini menjadi terkenal karena untuk waktu yang lama sempat diduga sebagai karnivora terbesar di darat,sampai<\/span>Carcharodontosaurus<span>\u00a0ditemukan tahun 1920 dan\u00a0<\/span>Giganotosaurus<span>\u00a0tahun 1994,yang ternyata jauh lebih besar daripada T-rex.<\/span>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2233181,
+                                "nick": "damarsari21",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 4461407,
+                        "subject_id": 3,
+                        "user_id": 2329246,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "siapa penemu fosil T- rex",
+                        "created": "2015-11-27T07:01:22+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2015-11-27T07:10:33+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "<em>siapa<\/em> <em>penemu<\/em> fosil <em>T<\/em>- <em>rex<\/em>",
+                        "snippet_content": "<em>siapa<\/em> <em>penemu<\/em> fosil <em>T<\/em>- <em>rex<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 5249453,
+                            "user_id": 2153661,
+                            "task_id": 4461407,
+                            "points": 5,
+                            "created": "2015-11-27T07:10:33+07:00",
+                            "content": "Edward Drinker Cope pada abad 19. Maaf kalo salah",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 5249466,
+                            "user_id": 2239668,
+                            "task_id": 4461407,
+                            "points": 5,
+                            "created": "2015-11-27T07:12:36+07:00",
+                            "content": "Henry Fairfield Osborn ",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2153661,
+                                "nick": "LordZigan",
+                                "avatar": null
+                            },
+                            {
+                                "id": 2239668,
+                                "nick": "SalsaAndi526",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d01\/12c013994fd5211f8bcbaf16e2704318.jpeg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 2,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 2679770,
+            "nick": "arnoty",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 2,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 2233181,
+            "nick": "damarsari21",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 2,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 2329246,
+            "nick": "zazkia3",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 2153661,
+            "nick": "LordZigan",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 72,
+                "comments": 2
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 2239668,
+            "nick": "SalsaAndi526",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 8,
+                "answers": 131,
+                "comments": 21
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d59\/94c592d2b204897f6484ed8ab005342a.jpeg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d01\/12c013994fd5211f8bcbaf16e2704318.jpeg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d59\/94c592d2b204897f6484ed8ab005342a.jpeg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d01\/12c013994fd5211f8bcbaf16e2704318.jpeg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        }
+    ],
+    "validated": false
+}

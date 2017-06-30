@@ -1,0 +1,1 @@
+{"events":[{"type":"message","replyToken":"35c03597514543258bb01db4d4a255f3","source":{"groupId":"C487da34c4d164184d4d9c76378569814","type":"group"},"timestamp":1498627219564,"message":{"type":"text","id":"6305580569067","text":"Egi jelek :v"}}]}

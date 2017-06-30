@@ -1,0 +1,839 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 2283282,
+                        "subject_id": 9,
+                        "user_id": 1282186,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Pencuri Sandal Jepit 5 Tahun Penjara, Koruptor 1,5 Tahun<br \/>\nIRONIS memang, bahkan sangat menyayat hati. Penegakan hukum di negeri kita tercinta ini amat pincang, berat sebelah. Faktanya, para pendekar hukum kita lebih berani, lebih ganas dan lebih tegas hanya kepada pihak-pihak yang lemah yang tidak punya kekuatan apapun.<br \/><br \/>\nTidak ada niat membela siapa-pun dan memojokkan siapapun. Akan tetapi, fakta-fakta di persidangan menunjukkan kalau penegakan hukum itu tidak diberlakukan secara merata artinya tidak berlaku untuk semua pihak. Padahal, katanya, justice for all.<br \/><br \/>\nTegasnya, \u2018\u2019golok\u2019\u2019 para penegak hukum lebih tajam kepada piohak-pihak tertentu tapi tumpul bagi pihak-pihak tertentu pula. Artinya, not for all. Maka tidak salah kalau ada orang bijak mengartikan hukum itu bagaikan sebuah pisau dimana bagian yang tajamnya mengarah kepada orang lain tapi bagian yang tumpul (punggung pisau) mengarah kepada pemegang pisau itu sendiri.<br \/><br \/>\nAdalah pencurian sendal jepit dengan terdakwa berinisial AAL (15) seorang siswa SMKN 3 Palu Selatan, Sulawesi Tengah yang sampai ke persidangan, merupakan satu dari sejumlah kasus sepele yang menarik perhatian publik. Pasalnya, persoalan curi mencuri sendal jepit adalah hal kecil dan melibatkan keluarga tak mampu secara ekonomi.<br \/><br \/>\nTidak ada niat membenarkan tindakannya. Akan tetapi karena yang dicuri adalah sendal jepit milik Brigadir (Pol) Satu, Ahmad Rusdi Harahap, AAL harus menghadapi jerat pasal 362 KUHP dengan ancaman maksimal tuntutan 5 tahun penjara.<br \/><br \/>\nTanggal 21 Desember 2011, AAL disidang dan mendengarkan tuntutan tersebut. Disaksikan kedua orang tuanya, AAL di persidangan bukan saja hanya membantah telah mencuri, tapi juga mengaku mendapatkan tekanan dan penganiayaan saat pemeriksaan oleh seorang anggota polisi agar mengaku sebagai pelaku pencurian Kasus pencurian sandal jepit warna putih kusam merek \u201cAndo\u201d seharga Rp 30 ribu itu terjadi November 2010.<br \/><br \/>\nPenegakan hukum memang tetap perlu. Tapi unsur edukasinya perlu dipertimbangkan. Proses hukum kepada pihak yang lemah jangan sampai terkesan lebay dan over acting serta tidak manusiawi dan tidak berhati nurani.<br \/><br \/>\nKasus pencurian sandal jepit yang dilakukan bocah 15 tahun ini rasanya tak sebanding dengan ancaman hukuman lima tahun penjara sementara banyak koruptor yang dihukum hanya 1,5 tahun bahkan banyak pula yang masih berkeliaran malah tampil jadi pemimpin di negeri tercinta ini dan tidak malu-malu pula memberi nasehat kepada negeri ini.<br \/><br \/>\nIni merupakan cermin atau gambaran buram sistem hukum dan peradilan di negeri ini sebab sangat memprihatinkan bahkan menyayat dan mengiris hati. Hanya karena mencuri sendal jepit, harus berhadapan dengan pengadilan dengan ancaman hukuman 5 tahun penjara.<br \/><br \/>\nAndaikata seluruh pendekar hukum itu seganas dan segarang menangkap dan mengadili pencuri sendal, pencuri pisang, pencuri kakao dan pencuri semangka, rasanya Presiden SBY tidak perlu membentuk sebegitu banyak lembaga untuk memberantas korupsi.<br \/><br \/>\nIntinya, mau dan beranikah pendekar hukum itu bertindak kepada orang \u2018\u2019kuat\u2019\u2019 seperti tindakan kepada yang lemah ? Semoga dan kita tunggu gebrakannya <br \/><br \/>\npertanyaan <br \/>\n1. mengapa kasus tersebut dibawa ke pengadilan dan hakim mengadilinya ?<br \/>\n2. bagaimana seharusnya keputusan yang dijatuhkan oleh hakim tentang peristiwa tersebut <br \/>\n3. bagaimana sikap dan pendapat anda terhadap kasus tersebut",
+                        "created": "2015-03-14T11:30:59+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2015-03-14T11:54:23+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Pencuri <em>Sandal<\/em> Jepit 5 Tahun Penjara, Koruptor 1,5 Tahun\nIRONIS memang, bahkan sangat menyayat hati. Penegakan hukum di negeri kita tercinta ini amat pincang, berat sebelah. Faktanya, para pendekar hukum kita lebih berani, lebih ganas dan lebih tegas hanya kepada pihak-pihak yang lemah yang tidak punya kekuatan apapun.\nTidak ada niat membela <em>siapa<\/em>-pun dan memojokkan siapapun. Akan tetapi, fakta-fakta di persidangan menunjukkan kalau penegakan hukum itu tidak diberlakukan secara merata artinya tidak berlaku untuk semua pihak. Padahal, katanya, justice for all.\nTegasnya, \u2018\u2019golok\u2019\u2019 para penegak hukum lebih tajam kepada piohak-pihak tertentu tapi tumpul bagi pihak-pihak tertentu pula. Artinya, not for all. Maka tidak salah kalau ada orang bijak mengartikan hukum itu bagaikan sebuah pisau dimana bagian yang tajamnya mengarah kepada orang lain tapi bagian yang tumpul (punggung pisau) mengarah kepada pemegang pisau itu sendiri.\nAdalah pencurian sendal jepit dengan terdakwa berinisial AAL (15) seorang siswa SMKN 3 Palu Selatan, Sulawesi Tengah yang sampai ke persidangan, merupakan satu dari sejumlah kasus sepele yang menarik perhatian publik. Pasalnya, persoalan curi mencuri sendal jepit adalah hal kecil dan melibatkan keluarga tak mampu secara ekonomi.\nTidak ada niat membenarkan tindakannya. Akan tetapi karena yang dicuri adalah sendal jepit milik Brigadir (Pol) Satu, Ahmad Rusdi Harahap, AAL harus menghadapi jerat pasal 362 <em>KUH<\/em>P dengan ancaman maksimal tuntutan 5 tahun penjara.\nTanggal 21 Desember 2011, AAL disidang dan mendengarkan tuntutan tersebut. Disaksikan kedua orang tuanya, AAL di persidangan bukan saja hanya membantah telah mencuri, tapi juga mengaku mendapatkan tekanan dan penganiayaan saat pemeriksaan oleh seorang anggota polisi agar mengaku sebagai pelaku pencurian Kasus pencurian <em>sandal<\/em> jepit warna putih kusam merek \u201cAndo\u201d seharga Rp 30 ribu itu terjadi November 2010.\nPenegakan hukum memang tetap perlu. Tapi unsur edukasinya perlu dipertimbangkan. Proses hukum kepada pihak yang lemah jangan sampai terkesan lebay dan over acting serta tidak manusiawi dan tidak berhati nurani.\nKasus pencurian <em>sandal<\/em> jepit yang dilakukan bocah 15 tahun ini rasanya tak sebanding dengan ancaman hukuman lima tahun penjara sementara banyak koruptor yang dihukum hanya 1,5 tahun bahkan banyak pula yang masih berkeliaran malah tampil jadi pemimpin di negeri tercinta ini dan tidak malu-malu pula memberi nasehat kepada negeri ini.\nIni merupakan cermin atau gambaran buram sistem hukum dan peradilan di negeri ini sebab sangat memprihatinkan bahkan menyayat dan mengiris hati. Hanya karena mencuri sendal jepit, harus berhadapan dengan pengadilan dengan ancaman hukuman 5 tahun penjara.\nAndaikata seluruh pendekar hukum itu seganas dan segarang menangkap dan mengadili pencuri sendal, pencuri pisang, pencuri kakao dan pencuri semangka, rasanya Presiden SBY tidak perlu membentuk sebegitu banyak lembaga untuk memberantas korupsi.\nIntinya, mau dan beranikah pendekar hukum itu bertindak kepada orang \u2018\u2019kuat\u2019\u2019 seperti tindakan kepada yang lemah ? Semoga dan kita tunggu gebrakannya \npertanyaan \n1. mengapa kasus tersebut dibawa ke pengadilan dan hakim mengadilinya ?\n2. bagaimana seharusnya keputusan yang dijatuhkan oleh hakim tentang peristiwa tersebut \n3. bagaimana sikap dan pendapat anda terhadap kasus tersebut",
+                        "snippet_content": "Pencuri <em>Sandal<\/em> Jepit 5 Tahun Penjara, Koruptor 1,5 Tahun\nIRONIS memang, bahkan sangat menyayat hati. Penegakan hukum di negeri kita tercinta"
+                    },
+                    "responses": [
+                        {
+                            "id": 2906287,
+                            "user_id": 1159168,
+                            "task_id": 2283282,
+                            "points": 5,
+                            "created": "2015-03-14T11:54:23+07:00",
+                            "content": "karena mungkin mementingkan derajat tinggi daripada yang rendah",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1159168,
+                                "nick": "habilzpenabels",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dac\/d2dae252a62f8cb889d15eb8b173f890.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 3331457,
+                        "subject_id": 13,
+                        "user_id": 744946,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 30,
+                            "ptsForResp": 15,
+                            "ptsForBest": 8
+                        },
+                        "content": "Apa pelajaran yang kita dapat dari cerita berikut ini. (Gunakan Bahasa Jawa)<br \/><br \/><br \/><br \/><br \/>\nSANDAL ANYAR<br \/><br \/>\n          Ing pasar adhine Peno ngrengek njaluk sandal anyar. Sandale adhine emang wis bodhol lan wis ora ana rupane. Adhine Peno jenenge Tia,sing umure 5 taun. Peno sayang banget karo adhine, merga iku adhine siji-sijine. Peno saking keluarga sing ora mampu, bapake mung kerja dadi  buruh bangunan lan ibune dadi tukang ngumbai ing desane.<br \/>\n\u201cMas tukokake sandal sing werna pink iku loh, ketone apik temen,\u201d njaluke Tia sing arep nangis.<br \/>\n\u201cMas ora duwe duwit,Tia. Kiye duwite arep nggo tuku sayur tok,\u201d jawabe Peno sing melas karo adhine.<br \/><br \/>\n          Senajan ora ditukokke Tia tetep meneng nerima. Bocah cilik kuwe wis ngerti angger kehidupane rekasa, nggo mangan bae kurang apa maning tuku sandal. Sewise saking pasar lan tuku sayuran Peno bali menyang omahe sing kaya gubuk tapi tetep rapi angger disawang, amarga Peno bocah sing sregepan lan manutan. Omahe saking pring sing dianyam lan atepe wis pada rapuh dipangan rayap, nanging ngarep omahe akeh wit kembang sing pada mekar. Senajan Peno saking keluarga sing ora  mampu, nanging bapake pingin Peno dadi wong sukses lan pingin nyekolahke nganti perguruan tinggi. Bapake ora kecewa amarga Peno termasuk siswa sing pinter ing sekolahane. Wengine pas Peno arep sinau lan bapake sing nembe bali kerja mereki Peno.<br \/>\n\u201cPeno, kowe kudu dadi  wong sing berguna lan ngelewihi bapak sing mung dadi buruh bangunan,\u201d ngendikane bapake Peno.<br \/>\n\u201cNggih pak,kula ajeng usaha,\u201d ngomonge Peno.<br \/><br \/>\n          Esuk-esuk sing atis banget Peno wis tangi lan nyiapake sepeda sing arep dienggo nang sekolah. Peno nguja mangkat esuk merga Peno arep melu lomba Cerdas Cermat sing dianakake SMK. Sewise siap Peno pamitan karo wong tuwane.<br \/>\n \u201cPak, Bu, kula badhe manggat rumiyin. Moga-moga kula saged dados juara lomba lan saget mundut sandal kangge Tia,\u201d pamitane Peno karo jabattangan wong tuwane.<br \/>\n\u201cYa, Amin. Ati-ati ya Peno,\u201d ngendikane bapake.<br \/>\n\u201cMba, mengko tuku sandal ya?\u201dadhine sing sumringah ngerti angger arep ditukokke sandal anyar.<br \/><br \/>\n          Tibaning sekolahan Peno deg-degan amargi sekolahane wis rame lan ana peserta liya sekolah. Ing sekolah uga dipasang umbul-umbul werna-werni, tembok sekolah wis dicet werna orange sing apik. Ing lomba Peno bisa njawab soal sing diwacakake dewan juri nganti bener. Kiye wektune pengumuman juara ,ternyata sing oleh  juara 1 kuwe Peno. Peno langsung nerima piala karo amplop sing isine piagam ditambah duwit pembinaan. Peno bali menyang omah karo sumringah gole ngonthel sepedane.<br \/>\n\u201cAssalamualaikum. Bu,pak.\u201d<br \/>\n\u201cWa\u2019alaikum salam, ana apa Peno?\u201dpitakone ibune Peno.<br \/>\n\u201cBu, kula nrima juara 1 lan Tia bakal duwe sandal anyar.\u201d<br \/>\n\u201cAlhamdulilah,Peno. Anake Ibune pinter temen. Ibune tambah sayang maring kowe.\u201dngendikane ibune sing sumringah lan bangga.<br \/><br \/><br \/><br \/><br \/><br \/>\n           Sore-sore,sewise ganti klambi Peno ngajak Tia adhine menyang pasar tuku sandal anyar.<br \/>\n\u201cTuku sandal sing werna apa Tia?\u201d pitakone Peno maring adhine.<br \/>\n\u201cSing werna pink mas!\u201d<br \/>\nLangsung bae Peno tuku sandal sing dipingini adhine. Ing jero atine Peno lega merga  wis bisa nuruti kepinginan adhine ngganggo jerih payahe dewek.<br \/>\n\u201cMatur nuwun ya mas.\u201d pitakone Tia maring kakange.<br \/>\nAtine Peno tambah bungah.",
+                        "created": "2015-09-03T23:55:30+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2016-11-02T08:45:54+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Apa pelajaran yang kita dapat dari cerita berikut ini. (Gunakan Bahasa Jawa)\n<em>SANDAL<\/em> ANYAR\n          Ing pasar adhine Peno ngrengek njaluk <em>sandal<\/em> anyar. Sandale adhine emang wis bodhol lan wis ora ana rupane. Adhine Peno jenenge Tia,sing umure 5 taun. Peno sayang banget karo adhine, merga iku adhine siji-sijine. Peno saking keluarga sing ora mampu, bapake mung kerja dadi  buruh bangunan lan ibune dadi tukang ngumbai ing desane.\n\u201cMas tukokake <em>sandal<\/em> sing werna pink iku loh, ketone apik temen,\u201d njaluke Tia sing arep nangis.\n\u201cMas ora duwe duwit,Tia. Kiye duwite arep nggo tuku sayur tok,\u201d jawabe Peno sing melas karo adhine.\n          Senajan ora ditukokke Tia tetep meneng nerima. Bocah cilik <em>kuw<\/em>e wis ngerti angger kehidupane rekasa, nggo mangan bae kurang apa maning tuku <em>sandal.<\/em> Sewise saking pasar lan tuku sayuran Peno bali menyang omahe sing kaya gubuk tapi tetep rapi angger disawang, amarga Peno bocah sing sregepan lan manutan. Omahe saking pring sing dianyam lan atepe wis pada rapuh dipangan rayap, nanging ngarep omahe akeh wit kembang sing pada mekar. Senajan Peno saking keluarga sing ora  mampu, nanging bapake pingin Peno dadi wong sukses lan pingin nyekolahke nganti perguruan tinggi. Bapake ora kecewa amarga Peno termasuk siswa sing pinter ing sekolahane. Wengine pas Peno arep sinau lan bapake sing nembe bali kerja mereki Peno.\n\u201cPeno, kowe kudu dadi  wong sing berguna lan ngelewihi bapak sing mung dadi buruh bangunan,\u201d ngendikane bapake Peno.\n\u201cNggih pak,kula ajeng usaha,\u201d ngomonge Peno.\n          Esuk-esuk sing atis banget Peno wis tangi lan nyiapake sepeda sing arep dienggo nang sekolah. Peno nguja mangkat esuk merga Peno arep melu lomba Cerdas Cermat sing dianakake SMK. Sewise <em>siap<\/em> Peno pamitan karo wong tuwane.\n \u201cPak, Bu, kula badhe manggat rumiyin. Moga-moga kula saged dados juara lomba lan saget mundut <em>sandal<\/em> kangge Tia,\u201d pamitane Peno karo jabattangan wong tuwane.\n\u201cYa, Amin. Ati-ati ya Peno,\u201d ngendikane bapake.\n\u201cMba, mengko tuku <em>sandal<\/em> ya?\u201dadhine sing sumringah ngerti angger arep ditukokke <em>sandal<\/em> anyar.\n          Tibaning sekolahan Peno deg-degan amargi sekolahane wis rame lan ana peserta liya sekolah. Ing sekolah uga dipasang umbul-umbul werna-werni, tembok sekolah wis dicet werna orange sing apik. Ing lomba Peno bisa njawab soal sing diwacakake dewan juri nganti bener. Kiye wektune pengumuman juara ,ternyata sing oleh  juara 1 <em>kuw<\/em>e Peno. Peno langsung nerima piala karo amplop sing isine piagam ditambah duwit pembinaan. Peno bali menyang omah karo sumringah gole ngonthel sepedane.\n\u201cAssalamualaikum. Bu,pak.\u201d\n\u201cWa\u2019alaikum salam, ana apa Peno?\u201dpitakone ibune Peno.\n\u201cBu, kula nrima juara 1 lan Tia bakal duwe <em>sandal<\/em> anyar.\u201d\n\u201cAlhamdulilah,Peno. Anake Ibune pinter temen. Ibune tambah sayang maring kowe.\u201dngendikane ibune sing sumringah lan bangga.\n           Sore-sore,sewise ganti klambi Peno ngajak Tia adhine menyang pasar tuku <em>sandal<\/em> anyar.\n\u201cTuku <em>sandal<\/em> sing werna apa Tia?\u201d pitakone Peno maring adhine.\n\u201cSing werna pink mas!\u201d\nLangsung bae Peno tuku <em>sandal<\/em> sing dipingini adhine. Ing jero atine Peno lega merga  wis bisa nuruti kepinginan adhine ngganggo jerih payahe dewek.\n\u201cMatur nuwun ya mas.\u201d pitakone Tia maring kakange.\nAtine Peno tambah bungah.",
+                        "snippet_content": "Apa pelajaran yang kita dapat dari cerita berikut ini. (Gunakan Bahasa Jawa)\n<em>SANDAL<\/em> ANYAR\n          Ing pasar adhine Peno ngrengek njaluk <em>sandal<\/em> anyar"
+                    },
+                    "responses": [
+                        {
+                            "id": 9705134,
+                            "user_id": 3318160,
+                            "task_id": 3331457,
+                            "points": 15,
+                            "created": "2016-11-02T08:45:54+07:00",
+                            "content": "pelajaran utawa tuladhaning urip sing iso dijupuk saka crita ing ndhuwur yaiku, yen nduweni niat tulus lan usaha sing tenanan apa wae bakal kelakon. kahanan kang mlarat ora bisa mbendung niat suci. urip kuwi kudu migunani tumrap ing liyan<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 7,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2016-12-16T05:48:28+07:00",
+                                "approver": {
+                                    "id": 2663844,
+                                    "nickname": "Mahaguru",
+                                    "points": 516177,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/db6\/c5fb7b6a68ce26ccea00dc12cb60d96f.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/df7\/fe8fb6dfa0d217a5d3fafa2a27e269ba.png"
+                                    },
+                                    "content_approved_count": 717808
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3318160,
+                                "nick": "Mamanosz",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/ddb\/09bded89a4178b71f5f7031720700593.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 7743915,
+                        "subject_id": 1,
+                        "user_id": 602369,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 15,
+                            "ptsForResp": 8,
+                            "ptsForBest": 4
+                        },
+                        "content": "tolong buati 5 amanat dari cerpen juru masak tapi dari kata yang ada tanda kutipannya\u201c\u201c<br \/><br \/>\n                                                       Juru masak<br \/>\nPerhelatan bisa kacau tanpa kehadiran lelaki itu. Gulai Kambing akan terasa hambar lantaran racikan bumbu tak meresap ke dalam daging. Kuah Gulai Kentang dan Gulai Rebung bakal encer karena keliru menakar jumlah kelapa parut hingga setiap menu masakan kekurangan santan. Akibatnya, berseraklah gunjing dan cela yang mesti ditanggung tuan rumah, bukan karena kenduri kurang meriah, tidak pula karena pelaminan tempat bersandingnya pasangan pengantin tak sedap dipandang mata, tapi karena macam-macam hidangan yang tersuguh tak menggugah selera. Nasi banyak gulai melimpah, tapi helat tak bikin kenyang. Ini celakanya bila Makaji, juru masak handal itu tak dilibatkan.<br \/><br \/>\n\u201cKalau besok Gulai Nangka masih sehambar hari ini, kenduri tak usah dilanjutkan!\u201d ancam Sutan Basabatuah, penghulu tinggi dari keluarga Rustamadji.<br \/><br \/>\n\u201cApa susahnya mendatangkan Makaji?\u201d<br \/><br \/>\n\u201cPercuma bikin helat besar-besaran bila menu yang terhidang hanya bikin malu.\u201d<br \/><br \/>\n\u201cSeparuh umur Ayah sudah habis untuk membantu setiap kenduri di kampung ini, bagaimana kalau tanggungjawab itu dibebankan pada yang lebih muda?\u201d saran Azrial, putra sulung Makaji sewaktu ia pulang kampung enam bulan lalu.<br \/><br \/>\n\u201cMungkin sudah saatnya Ayah berhenti,\u201d<br \/><br \/>\n\u201cBelum! Akan Ayah pikul beban ini hingga tangan Ayah tak lincah lagi meracik bumbu,\u201d balas Makaji waktu itu.<br \/><br \/>\n\u201cKalau memang masih ingin jadi juru masak, bagaimana kalau Ayah jadi juru masak di salah satu Rumah Makan milik saya di Jakarta? Saya tak ingin lagi berjauhan dengan Ayah,\u201d<br \/><br \/>\n\u201cBeri Ayah kesempatan satu kenduri lagi!\u201d<br \/><br \/>\n\u201cKenduri siapa?\u201d tanya Azrial.<br \/><br \/>\n\u201cMangkudun. Anak gadisnya baru saja dipinang orang. Sudah terlanjur Ayah sanggupi, malu kalau tiba-tiba dibatalkan,\u201d<br \/><br \/>\nMasih segar dalam ingatan Azrial, waktu itu Renggogeni hampir tamat dari akademi perawat di kota, tak banyak orang Lareh Panjang yang bisa bersekolah tinggi seperti Renggogeni. Perempuan kuning langsat pujaan Azrial itu benar-benar akan menjadi seorang juru rawat. Sementara Azrial bukan siapa-siapa, hanya tamatan madrasah aliyah yang sehari-hari bekerja honorer sebagai sekretaris di kantor kepala desa. Ibarat emas dan loyang perbedaan mereka.<br \/><br \/>\n\u201cBahkan bila ia jadi kepala desa pun, tak sudi saya punya menantu anak juru masak!\u201d bentak Mangkudun, dan tak lama berselang berita ini berdengung juga di kuping Azrial.<br \/><br \/>\n\u201cDia laki-laki taat, jujur, bertanggungjawab. Renggo yakin kami berjodoh,\u201d<br \/><br \/>\n\u201cApa kau bilang? Jodoh? Saya tidak rela kau berjodoh dengan Azrial. Akan saya carikan kau jodoh yang lebih bermartabat!\u201d<br \/><br \/>\n\u201cApa dia salah kalau ayahnya hanya juru masak?\u201d<br \/><br \/>\n\u201cJatuh martabat keluarga kita bila laki-laki itu jadi suamimu. Paham kau?\u201d<br \/><br \/>\nMangkudun benar-benar menepati janji pada Renggogeni, bahwa ia akan carikan jodoh yang sepadan dengan anak gadisnya itu, yang jauh lebih bermartabat. Tengoklah, Renggogeni kini tengah bersanding dengan Yusnaldi, perwira muda polisi yang bila tidak \u2018macam-macam\u2019 tentu karirnya lekas menanjak. Duh, betapa beruntungnya keluarga besar Mangkudun. Tapi, pesta yang digelar dengan menyembelih tiga ekor kerbau jantan dan tujuh ekor kambing itu tak begitu ramai dikunjungi. Orang-orang Lareh Panjang hanya datang di hari pertama, sekedar menyaksikan benda-benda pusaka adat yang dikeluarkan untuk menyemarakkan kenduri, setelah itu mereka berbalik meninggalkan helat, bahkan ada yang belum sempat mencicipi hidangan tapi sudah tergesa pulang.<br \/><br \/>\n\u201cGulai Kambingnya tak ada rasa,\u201d bisik seorang tamu.<br \/><br \/>\n\u201cKuah Gulai Rebungnya encer seperti kuah sayur Toge. Kembung perut kami dibuatnya,\u201d<br \/>\n\u201cDagingnya keras, tidak kempuh. Bisa rontok gigi awak dibuatnya,\u201d<br \/><br \/>\n\u201cMasakannya tak mengeyangkan, tak mengundang selera.\u201d<br \/><br \/>\n\u201cPasti juru masaknya bukan Makaji!\u201d<br \/><br \/>\nMakin ke ujung, kenduri makin sepi. Rombongan pengantar mempelai pria diam-diam juga kecewa pada tuan rumah, karena mereka hanya dijamu dengan menu masakan yang asal-asalan, kurang bumbu, kuah encer dan daging yang tak kempuh. Padahal mereka bersemangat datang karena pesta perkawinan di Lareh Panjang punya keistimewaan tersendiri, dan keistimewaan itu ada pada rasa masakan hasil olah tangan juru masak nomor satu. Siapa lagi kalau bukan Makaji?<br \/><br \/>\n\u201cKenapa Makaji tidak turun tangan dalam kenduri sepenting ini?\u201d begitu mereka bertanya-tanya.<br \/><br \/>\n\u201cSia-sia saja kenduri ini bila bukan Makaji yang meracik bumbu,\u201d<br \/><br \/>\n\u201cAh, menyesal kami datang ke pesta ini!\u201d",
+                        "created": "2016-10-06T16:50:40+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2016-10-07T14:13:49+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "tolong buati 5 amanat dari cerpen juru masak tapi dari kata yang ada tanda kutipannya\u201c\u201c\n                                                       Juru masak\nPerhelatan bisa kacau tanpa kehadiran lelaki itu. Gulai Kambing akan terasa hambar lantaran racikan bumbu tak meresap ke dalam daging. Kuah Gulai Kentang dan Gulai Rebung bakal encer karena keliru menakar jumlah kelapa parut hingga setiap menu masakan kekurangan santan. Akibatnya, berseraklah gunjing dan cela yang mesti ditanggung tuan rumah, bukan karena kenduri kurang meriah, tidak pula karena pelaminan tempat bersandingnya pasangan pengantin tak sedap dipandang mata, tapi karena macam-macam hidangan yang tersuguh tak menggugah selera. Nasi banyak gulai melimpah, tapi helat tak bikin kenyang. Ini celakanya bila Makaji, juru masak <em>handal<\/em> itu tak dilibatkan.\n\u201cKalau besok Gulai Nangka masih sehambar hari ini, kenduri tak usah dilanjutkan!\u201d ancam Sutan Basabatuah, penghulu tinggi dari keluarga Rustamadji.\n\u201cApa susahnya mendatangkan Makaji?\u201d\n\u201cPercuma bikin helat besar-besaran bila menu yang terhidang hanya bikin malu.\u201d\n\u201cSeparuh umur Ayah sudah habis untuk membantu setiap kenduri di kampung ini, bagaimana kalau tanggungjawab itu dibebankan pada yang lebih muda?\u201d saran Azrial, putra sulung Makaji sewaktu ia pulang kampung enam bulan lalu.\n\u201cMungkin sudah saatnya Ayah berhenti,\u201d\n\u201cBelum! Akan Ayah pikul beban ini hingga tangan Ayah tak lincah lagi meracik bumbu,\u201d balas Makaji waktu itu.\n\u201cKalau memang masih ingin jadi juru masak, bagaimana kalau Ayah jadi juru masak di salah satu Rumah Makan milik saya di Jakarta? Saya tak ingin lagi berjauhan dengan Ayah,\u201d\n\u201cBeri Ayah kesempatan satu kenduri lagi!\u201d\n\u201cKenduri <em>siapa<\/em>?\u201d tanya Azrial.\n\u201cMangkudun. Anak gadisnya baru saja dipinang orang. Sudah terlanjur Ayah sanggupi, malu kalau tiba-tiba dibatalkan,\u201d\nMasih segar dalam ingatan Azrial, waktu itu Renggogeni hampir tamat dari akademi perawat di kota, tak banyak orang Lareh Panjang yang bisa bersekolah tinggi seperti Renggogeni. Perempuan <em>kun<\/em>ing langsat pujaan Azrial itu benar-benar akan menjadi seorang juru rawat. Sementara Azrial bukan <em>siapa<\/em>-<em>siapa<\/em>, hanya tamatan madrasah aliyah yang sehari-hari bekerja honorer sebagai sekretaris di kantor kepala desa. Ibarat emas dan loyang perbedaan mereka.\n\u201cBahkan bila ia jadi kepala desa pun, tak sudi saya punya menantu anak juru masak!\u201d bentak Mangkudun, dan tak lama berselang berita ini berdengung juga di kuping Azrial.\n\u201cDia laki-laki taat, jujur, bertanggungjawab. Renggo yakin kami berjodoh,\u201d\n\u201cApa kau bilang? Jodoh? Saya tidak rela kau berjodoh dengan Azrial. Akan saya carikan kau jodoh yang lebih bermartabat!\u201d\n\u201cApa dia salah kalau ayahnya hanya juru masak?\u201d\n\u201cJatuh martabat keluarga kita bila laki-laki itu jadi suamimu. Paham kau?\u201d\nMangkudun benar-benar menepati janji pada Renggogeni, bahwa ia akan carikan jodoh yang sepadan dengan anak gadisnya itu, yang jauh lebih bermartabat. Tengoklah, Renggogeni kini tengah bersanding dengan Yusnaldi, perwira muda polisi yang bila tidak \u2018macam-macam\u2019 tentu karirnya lekas menanjak. Duh, betapa beruntungnya keluarga besar Mangkudun. Tapi, pesta yang digelar dengan menyembelih tiga ekor kerbau jantan dan tujuh ekor kambing itu tak begitu ramai dikunjungi. Orang-orang Lareh Panjang hanya datang di hari pertama, sekedar menyaksikan benda-benda pusaka adat yang dikeluarkan untuk menyemarakkan kenduri, setelah itu mereka berbalik meninggalkan helat, bahkan ada yang belum sempat mencicipi hidangan tapi sudah tergesa pulang.\n\u201cGulai Kambingnya tak ada rasa,\u201d bisik seorang tamu.\n\u201cKuah Gulai Rebungnya encer seperti kuah sayur Toge. Kembung perut kami dibuatnya,\u201d\n\u201cDagingnya keras, tidak kempuh. Bisa rontok gigi awak dibuatnya,\u201d\n\u201cMasakannya tak mengeyangkan, tak mengundang selera.\u201d\n\u201cPasti juru masaknya bukan Makaji!\u201d\nMakin ke ujung, kenduri makin sepi. Rombongan pengantar mempelai pria diam-diam juga kecewa pada tuan rumah, karena mereka hanya dijamu dengan menu masakan yang asal-asalan, kurang bumbu, kuah encer dan daging yang tak kempuh. Padahal mereka bersemangat datang karena pesta perkawinan di Lareh Panjang punya keistimewaan tersendiri, dan keistimewaan itu ada pada rasa masakan hasil olah tangan juru masak nomor satu. <em>Siapa<\/em> lagi kalau bukan Makaji?\n\u201cKenapa Makaji tidak turun tangan dalam kenduri sepenting ini?\u201d begitu mereka bertanya-tanya.\n\u201cSia-sia saja kenduri ini bila bukan Makaji yang meracik bumbu,\u201d\n\u201cAh, menyesal kami datang ke pesta ini!\u201d",
+                        "snippet_content": "itu benar-benar akan menjadi seorang juru rawat. Sementara Azrial bukan <em>siapa<\/em>-<em>siapa<\/em>, hanya tamatan madrasah aliyah yang sehari-hari bekerja honorer"
+                    },
+                    "responses": [
+                        {
+                            "id": 9194746,
+                            "user_id": 3875656,
+                            "task_id": 7743915,
+                            "points": 8,
+                            "created": "2016-10-07T14:13:49+07:00",
+                            "content": "\"sia-sia saja kenduri ini bila bukan makaji yang meracik bumbu\"<br \/>setidaknya jangan berbicara seperti itu,karena manusia pasti pernah berbuat salah.dan jangan terlalu mengharapkan orang lain terus.kalau tidak suka makanan yang di buat orng lain.sebaiknya Anda sendiri yang membuatnya<br \/><br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2016-10-15T05:29:17+07:00",
+                                "approver": {
+                                    "id": 442276,
+                                    "nickname": "gra",
+                                    "points": 277609,
+                                    "grade": 1,
+                                    "gender": 1,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/d37\/73030c05955eb7d467c07857c8b9f55d.jpg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/dcc\/20fc4c889ebfbc65dd6f430176411db6.jpg"
+                                    },
+                                    "content_approved_count": 14544
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3875656,
+                                "nick": "putri3420",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10019285,
+                        "subject_id": 3,
+                        "user_id": 4790624,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "1. Siapakah pendiri kerajaan Singasari...<br \/>\n2. Pengaruh india yang kuat terhadap kebudayaan lokal disebut dengan proses...<br \/>\n3. Sistem kemasyarakatan yang dikembangkan oleh bangsa Arya yang berkembang di lembah Indus merupakan sistem...<br \/>\n4. Tokoh yang mengemukakan teori waisya adalah...<br \/>\n5. Kerajaan apa yang mengantikan kerajaan kalingga...<br \/>\n6. Siapakah raja pertama kerajaan Kutai...<br \/>\n7. Prasasti yang menjadi sumber sejarah kerajaan Kutai adalah...<br \/>\n8. Bahasa apakah yang digunakan pada prasasti peninggalan kerajaan tarumanegara...<br \/>\n9. Agama yang dianut oleh penduduk Kalingga adalah...<br \/>\n10. Berikut adalah sifat raja Purnawarman, kecuali...<br \/>\n11. Kaum brahmana adalah golongan dari...<br \/>\n12. Selain berdagang apa yang dilakukan oleh kaum waisya di Indonesia...<br \/>\n13. Kelemahan dari proses persebaran teori waisya adalah....<br \/>\n14. Berikut peninggalan karya sastra yang terkenal dari kerajaan Kediri, kecuali...<br \/>\n15. Siapakah pendiri kerajaan Buleleng...<br \/>\n16. Nama Buleleng mulai dikenal setelah periode kekuasaan....<br \/>\n17. Menurut kitab Pararaton, Ken Arok adalah anak seorang...<br \/>\n18. Sebagai raja pertama ken Arok mempunyai gelar...<br \/>\n19. Siapakah pendiri kerajaan Majapahit...<br \/>\n20. Hayam Wuruk disebut juga dengan raja....<br \/>\n21. Siapa raja yang dikenal dengan sumpah Palapa....<br \/>\n22. Siapakah raja yang terkenal di kerajaan Sriwijaya....<br \/>\n23. Dimanakah letak pusat kerajaan Sriwijaya... <br \/>\n24. Dimanakah letak kekuasaan daerah tulang bawang....<br \/>\n25. Yang bukan peninggalan candi dari kerajaan Mataram kuno adalah....<br \/>\n26. Siapakah raja terakhir dari kerajaan kediri....<br \/>\n27. Kerajaan Buleleng terletak di daerah...<br \/>\n28. Bentuk arsitektur candi Borobudur merupakan....<br \/>\n29. Kerajaan apa yang handal menjalani hubungan internasional melalui jaringan perdagangan dan kemaritimannya...<br \/>\n30. Teori brahmana merupakan pendapat yang dikemukakan oleh....<br \/><br \/>\nTolong akang teteh mohon bantuannya:) terimakasih<br \/>",
+                        "created": "2017-03-26T19:06:40+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2017-03-26T20:01:46+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "6",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "1. Siapakah pendiri kerajaan Singasari...\n2. Pengaruh india yang kuat terhadap kebudayaan lokal disebut dengan proses...\n3. Sistem kemasyarakatan yang dikembangkan oleh bangsa Arya yang berkembang di lembah Indus merupakan sistem...\n4. Tokoh yang mengemukakan teori waisya adalah...\n5. Kerajaan apa yang mengantikan kerajaan kalingga...\n6. Siapakah raja pertama kerajaan Kutai...\n7. Prasasti yang menjadi sumber sejarah kerajaan Kutai adalah...\n8. Bahasa apakah yang digunakan pada prasasti peninggalan kerajaan tarumanegara...\n9. Agama yang dianut oleh penduduk Kalingga adalah...\n10. Berikut adalah sifat raja Purnawarman, kecuali...\n11. Kaum brahmana adalah golongan dari...\n12. Selain berdagang apa yang dilakukan oleh kaum waisya di Indonesia...\n13. Kelemahan dari proses persebaran teori waisya adalah....\n14. Berikut peninggalan karya sastra yang terkenal dari kerajaan Kediri, kecuali...\n15. Siapakah pendiri kerajaan Buleleng...\n16. Nama Buleleng mulai dikenal setelah periode kekuasaan....\n17. Menurut kitab Pararaton, Ken Arok adalah anak seorang...\n18. Sebagai raja pertama ken Arok mempunyai gelar...\n19. Siapakah pendiri kerajaan Majapahit...\n20. Hayam Wuruk disebut juga dengan raja....\n21. <em>Siapa<\/em> raja yang dikenal dengan sumpah Palapa....\n22. Siapakah raja yang terkenal di kerajaan Sriwijaya....\n23. Dimanakah letak pusat kerajaan Sriwijaya... \n24. Dimanakah letak kekuasaan daerah tulang bawang....\n25. Yang bukan peninggalan candi dari kerajaan Mataram <em>kun<\/em>o adalah....\n26. Siapakah raja terakhir dari kerajaan kediri....\n27. Kerajaan Buleleng terletak di daerah...\n28. Bentuk arsitektur candi Borobudur merupakan....\n29. Kerajaan apa yang <em>handal<\/em> menjalani hubungan internasional melalui jaringan perdagangan dan kemaritimannya...\n30. Teori brahmana merupakan pendapat yang dikemukakan oleh....\nTolong akang teteh mohon bantuannya:) terimakasih",
+                        "snippet_content": "pendiri kerajaan Majapahit...\n20. Hayam Wuruk disebut juga dengan raja....\n21. <em>Siapa<\/em> raja yang dikenal dengan sumpah Palapa....\n22. Siapakah raja yang"
+                    },
+                    "responses": [
+                        {
+                            "id": 12051153,
+                            "user_id": 3957289,
+                            "task_id": 10019285,
+                            "points": 5,
+                            "created": "2017-03-26T20:01:46+07:00",
+                            "content": "1. kayaknya oleh ken Arok <br \/>8. sansekerta<br \/>9. Hindu<br \/>10. tidak sombong mau bergaul dengan orang lain<br \/>11. raja <br \/>18.kayaknya bupati Tunggul Ametung<br \/>19. Raden wijaya<br \/>21. patih gajah mada",
+                            "mark": 3,
+                            "marks_count": 1,
+                            "thanks": 3,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3957289,
+                                "nick": "olivia157",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/da0\/e22a06d2c4b86086135e447758a1226f.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10022490,
+                        "subject_id": 3,
+                        "user_id": 4790624,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Mohon bantuanya dong kaka:') terimakasih<br \/><br \/>\n1. Siapakah pendiri kerajaan Singasari...<br \/>\n2. Pengaruh india yang kuat terhadap kebudayaan lokal disebut dengan proses...<br \/>\n3. Sistem kemasyarakatan yang dikembangkan oleh bangsa Arya yang berkembang di lembah Indus merupakan sistem...<br \/>\n4. Tokoh yang mengemukakan teori waisya adalah...<br \/>\n5. Kerajaan apa yang mengantikan kerajaan kalingga...<br \/>\n6. Siapakah raja pertama kerajaan Kutai...<br \/>\n7. Prasasti yang menjadi sumber sejarah kerajaan Kutai adalah...<br \/>\n8. Bahasa apakah yang digunakan pada prasasti peninggalan kerajaan tarumanegara...<br \/>\n9. Agama yang dianut oleh penduduk Kalingga adalah...<br \/>\n10. Berikut adalah sifat raja Purnawarman, kecuali...<br \/>\n11. Kaum brahmana adalah golongan dari...<br \/>\n12. Selain berdagang apa yang dilakukan oleh kaum waisya di Indonesia...<br \/>\n13. Kelemahan dari proses persebaran teori waisya adalah....<br \/>\n14. Berikut peninggalan karya sastra yang terkenal dari kerajaan Kediri, kecuali...<br \/>\n15. Siapakah pendiri kerajaan Buleleng...<br \/>\n16. Nama Buleleng mulai dikenal setelah periode kekuasaan....<br \/>\n17. Menurut kitab Pararaton, Ken Arok adalah anak seorang...<br \/>\n18. Sebagai raja pertama ken Arok mempunyai gelar...<br \/>\n19. Siapakah pendiri kerajaan Majapahit...<br \/>\n20. Hayam Wuruk disebut juga dengan raja....<br \/>\n21. Siapa raja yang dikenal dengan sumpah Palapa....<br \/>\n22. Siapakah raja yang terkenal di kerajaan Sriwijaya....<br \/>\n23. Dimanakah letak pusat kerajaan Sriwijaya... <br \/>\n24. Dimanakah letak kekuasaan daerah tulang bawang....<br \/>\n25. Yang bukan peninggalan candi dari kerajaan Mataram kuno adalah....<br \/>\n26. Siapakah raja terakhir dari kerajaan kediri....<br \/>\n27. Kerajaan Buleleng terletak di daerah...<br \/>\n28. Bentuk arsitektur candi Borobudur merupakan....<br \/>\n29. Kerajaan apa yang handal menjalani hubungan internasional melalui jaringan perdagangan dan kemaritimannya...<br \/>\n30. Teori brahmana merupakan pendapat yang dikemukakan oleh....",
+                        "created": "2017-03-26T21:20:20+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2017-03-26T21:33:49+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "6",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Mohon bantuanya dong kaka:') terimakasih\n1. Siapakah pendiri kerajaan Singasari...\n2. Pengaruh india yang kuat terhadap kebudayaan lokal disebut dengan proses...\n3. Sistem kemasyarakatan yang dikembangkan oleh bangsa Arya yang berkembang di lembah Indus merupakan sistem...\n4. Tokoh yang mengemukakan teori waisya adalah...\n5. Kerajaan apa yang mengantikan kerajaan kalingga...\n6. Siapakah raja pertama kerajaan Kutai...\n7. Prasasti yang menjadi sumber sejarah kerajaan Kutai adalah...\n8. Bahasa apakah yang digunakan pada prasasti peninggalan kerajaan tarumanegara...\n9. Agama yang dianut oleh penduduk Kalingga adalah...\n10. Berikut adalah sifat raja Purnawarman, kecuali...\n11. Kaum brahmana adalah golongan dari...\n12. Selain berdagang apa yang dilakukan oleh kaum waisya di Indonesia...\n13. Kelemahan dari proses persebaran teori waisya adalah....\n14. Berikut peninggalan karya sastra yang terkenal dari kerajaan Kediri, kecuali...\n15. Siapakah pendiri kerajaan Buleleng...\n16. Nama Buleleng mulai dikenal setelah periode kekuasaan....\n17. Menurut kitab Pararaton, Ken Arok adalah anak seorang...\n18. Sebagai raja pertama ken Arok mempunyai gelar...\n19. Siapakah pendiri kerajaan Majapahit...\n20. Hayam Wuruk disebut juga dengan raja....\n21. <em>Siapa<\/em> raja yang dikenal dengan sumpah Palapa....\n22. Siapakah raja yang terkenal di kerajaan Sriwijaya....\n23. Dimanakah letak pusat kerajaan Sriwijaya... \n24. Dimanakah letak kekuasaan daerah tulang bawang....\n25. Yang bukan peninggalan candi dari kerajaan Mataram <em>kun<\/em>o adalah....\n26. Siapakah raja terakhir dari kerajaan kediri....\n27. Kerajaan Buleleng terletak di daerah...\n28. Bentuk arsitektur candi Borobudur merupakan....\n29. Kerajaan apa yang <em>handal<\/em> menjalani hubungan internasional melalui jaringan perdagangan dan kemaritimannya...\n30. Teori brahmana merupakan pendapat yang dikemukakan oleh....",
+                        "snippet_content": "pendiri kerajaan Majapahit...\n20. Hayam Wuruk disebut juga dengan raja....\n21. <em>Siapa<\/em> raja yang dikenal dengan sumpah Palapa....\n22. Siapakah raja yang"
+                    },
+                    "responses": [
+                        {
+                            "id": 12053772,
+                            "user_id": 4725224,
+                            "task_id": 10022490,
+                            "points": 5,
+                            "created": "2017-03-26T21:33:49+07:00",
+                            "content": "1.ken arok<br \/>2.<br \/>3.<br \/>4.<br \/>5 medang kamulan<br \/>6.mulawarman<br \/>7.yupa<br \/>8.sanskerta<br \/>9.hindu<br \/>10.kejam<br \/><br \/>11.bangsawan<br \/>12.<br \/>13.<br \/>14.<br \/>15.sri candrabayasinga<br \/>16raja udayana<br \/>17.<br \/>18.sri raharja sang amuwarbhumi<br \/>19.kertarajasa jaya wardhana<br \/>20.sri rajasanagara<br \/>21.gajah mada<br \/>22.balaputradewa<br \/>23.muara takus<br \/>24.<br \/>25.<br \/>26<br \/>27.buleleng<br \/>28.<br \/>29.sriwijaya<br \/>30<br \/><br \/>maaf banyak yg gk bisa",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 12054182,
+                            "user_id": 4065971,
+                            "task_id": 10022490,
+                            "points": 5,
+                            "created": "2017-03-26T21:54:53+07:00",
+                            "content": "1. kerajaan singasari didirikan oleh Ken Arok<br \/>2. masuknya kebudayaan hindu - budha ke indonesia dengan cara damai<br \/>3. blm tau maaf yah. <br \/>4. N.J.  Krom. <br \/>5. ga tau jga,  maaf. <br \/>6. Raja Kudungga<br \/>7.  Yupa<br \/>8. cina<br \/>9. Hindu kayaknya<br \/>10.ga tau sama yang namanya purnawarman maaf. <br \/>11.<br \/>12.<br \/>13.<br \/>14.<br \/>15.Sri candrabayasinga<br \/>16.Raja udayana<br \/>17.<br \/><br \/>duh,  ga tau lagi deh.  otakku bumpet akibat ngantuk.  dah malam soalnya.  besok kalo ada waktu saya jawab dalam komen deh.  maaf yah. :-)<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4725224,
+                                "nick": "diar25",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/de8\/ff1efecbea0fb8ed636c14df296fdb5f.jpg"
+                            },
+                            {
+                                "id": 4065971,
+                                "nick": "Liyn789",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dd4\/e56db5bb220df4867cb00e40d1555db8.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 5,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 1282186,
+            "nick": "iisnurulm",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 1159168,
+            "nick": "habilzpenabels",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 10,
+                "answers": 1935,
+                "comments": 348
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da7\/403af051add5b7522f5c86657f1d8af3.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dac\/d2dae252a62f8cb889d15eb8b173f890.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da7\/403af051add5b7522f5c86657f1d8af3.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dac\/d2dae252a62f8cb889d15eb8b173f890.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        },
+        {
+            "id": 744946,
+            "nick": "Herp123",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 29,
+                "answers": 52,
+                "comments": 38
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d25\/4b229beefd0145f84a416430c6e9ef32.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dbb\/194b47189dd67bc1887a302120bbdd4a.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d25\/4b229beefd0145f84a416430c6e9ef32.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dbb\/194b47189dd67bc1887a302120bbdd4a.png"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 3318160,
+            "nick": "Mamanosz",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 8759,
+                "comments": 72
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd9\/9a0df6336f4089a6bb1f965ad83e03bc.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ddb\/09bded89a4178b71f5f7031720700593.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd9\/9a0df6336f4089a6bb1f965ad83e03bc.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ddb\/09bded89a4178b71f5f7031720700593.jpg"
+            },
+            "ranks": {
+                "color": "#ffbe32",
+                "names": [
+                    "BrainlyTeacher",
+                    "KsatriaBrainly",
+                    "Apprentice",
+                    "Jenius"
+                ],
+                "count": 4
+            },
+            "ranks_ids": [
+                91,
+                23,
+                20,
+                7
+            ]
+        },
+        {
+            "id": 602369,
+            "nick": "sonicfaruk100",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 48,
+                "answers": 1,
+                "comments": 10
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 3875656,
+            "nick": "putri3420",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 9,
+                "answers": 4,
+                "comments": 4
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4790624,
+            "nick": "Putreh",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 3957289,
+            "nick": "olivia157",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 101,
+                "answers": 331,
+                "comments": 126
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d96\/10790314c501462256f8f2578c2b7150.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da0\/e22a06d2c4b86086135e447758a1226f.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d96\/10790314c501462256f8f2578c2b7150.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da0\/e22a06d2c4b86086135e447758a1226f.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 4725224,
+            "nick": "diar25",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 18,
+                "comments": 10
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d74\/b5a7f089489844f0f165395faacd522b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de8\/ff1efecbea0fb8ed636c14df296fdb5f.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d74\/b5a7f089489844f0f165395faacd522b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de8\/ff1efecbea0fb8ed636c14df296fdb5f.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4065971,
+            "nick": "Liyn789",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 17,
+                "answers": 326,
+                "comments": 240
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db5\/be0b54a5d397d5904592ac6bf4c75784.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd4\/e56db5bb220df4867cb00e40d1555db8.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db5\/be0b54a5d397d5904592ac6bf4c75784.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd4\/e56db5bb220df4867cb00e40d1555db8.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        }
+    ],
+    "validated": false
+}

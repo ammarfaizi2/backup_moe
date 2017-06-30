@@ -1,0 +1,1796 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 8831219,
+                        "subject_id": 1,
+                        "user_id": 427272,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "1)Ayam baru berkokok sekali.Silus melihat kendi itu menggantung di langit-langit kamar tempat terapi Murtaep.Leher kendi terlilit kawat.Ia mengambil kendi itu dan memutarnya sebagaimana yang dilakukan oleh ayahnya. Poros atas dan poros bawah kendi diseimbangkan dengan kedua jari telunjuk. Sementara telunjuk yang lain memutar kendi itu.<br \/><br \/>\n(2)Dicobanya, tidak bisa. Dicoba lagi, tidak bisa. Dicoba lagi, tetap.<br \/><br \/>\n(3)Sisa kesabaran berdengus.Silus membanting kendi yang tak mau berputar. Prang! Kendi hancur berkeping berserak di lantai.Silus keluar dari kamar yang gelap.Tangannya menutup daun pintu cukup keras.<br \/><br \/>\n(4)Sulastri yang lelap di kamar, seketika terbelalak mendengar suara itu.Ia hendak mengadu, namun Silus sudah tak ada di sampingnya. Ia yakin suara yang didengar tadi bukanlah kembang tidur, tapi entahlah, dari mana suara itu datang.<br \/><br \/>\n(5)Langkahnya bersigegas ke dapur.Pikirannya awas pada seekor kucing milik tetangga yang sangat blenger.Sekali mencium aroma daging, pasti selalu mengintip. Sulastri was-was kucing belang itu memakan sisa ikan sapi hari ketujuh wafat Murtaep. Sulastri tak menemukan apa-apa.Ia mengecek ruangan yang lain, tak ada tanda-tanda barang pecah. Di kamar yang digunakan mertuanya, ia juga tak melihat tanda kegaduhan ataupun barang yang berserak. Hanya saja wajahnya tampak heran melihat kendi berada di lantai.<br \/><br \/>\n(6)Sulastri mengembalikan kendi itu ke tempat semula, menggantungkannya di langit-langit kamar. Bila suaminya ketemu, ia ingin bertanya beberapa hal: tentang suara itu dan siapa yang meletakkan kendi di lantai.Nilai sosial cerpen tersebut tergambar pada nomor \u2026.<br \/><br \/>\nNilai sosial cerpen tersebut tergambar pada nomor \u2026.<br \/><br \/>\n A<br \/>\n (2), (4)<br \/><br \/>\n B<br \/>\n(3), (5)<br \/><br \/>\n C<br \/>\n(4), (6)<br \/><br \/>\n D<br \/>\n(1), (3)",
+                        "created": "2016-12-12T19:10:40+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2016-12-12T19:15:01+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "6",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "1)Ayam baru berkokok sekali.Silus melihat kendi itu menggantung di langit-langit kamar tempat terapi Murtaep.Leher kendi terlilit kawat.Ia mengambil kendi itu dan memutarnya sebagaimana yang dilakukan oleh ayahnya. Poros atas dan poros bawah kendi diseimbangkan dengan kedua jari telunjuk. Sementara telunjuk yang lain memutar kendi itu.\n(2)Dicobanya, tidak bisa. Dicoba lagi, tidak bisa. Dicoba lagi, tetap.\n(3)Sisa kesabaran berdengus.Silus membanting kendi yang tak mau berputar. Prang! Kendi hancur berkeping berserak di lantai.Silus keluar dari kamar yang gelap.Tangannya menutup daun pintu cukup keras.\n(4)Sulastri yang lelap di kamar, seketika terbelalak mendengar suara itu.Ia hendak mengadu, namun Silus sudah tak ada di sampingnya. Ia yakin suara yang didengar <em>tadi<\/em> bukanlah kembang tidur, tapi entahlah, dari mana suara itu datang.\n(5)Langkahnya bersigegas ke dapur.Pikirannya awas pada seekor <em>kucing<\/em> milik tetangga yang sangat blenger.Sekali mencium aroma daging, pasti selalu mengintip. Sulastri was-was <em>kucing<\/em> belang itu memakan sisa ikan sapi hari ketujuh wafat Murtaep. Sulastri tak menemukan apa-apa.Ia mengecek ruangan yang lain, tak ada tanda-tanda barang pecah. Di kamar yang digunakan mertuanya, ia juga tak melihat tanda kegaduhan ataupun barang yang berserak. Hanya saja wajahnya tampak heran melihat kendi berada di lantai.\n(6)Sulastri mengembalikan kendi itu ke tempat semula, menggantungkannya di langit-langit kamar. Bila suaminya ketemu, ia ingin bertanya beberapa hal: tentang suara itu dan <em>siapa<\/em> yang meletakkan kendi di lantai.Nilai sosial cerpen tersebut tergambar pada nomor \u2026.\nNilai sosial cerpen tersebut tergambar pada nomor \u2026.\n A\n (2), (4)\n B\n(3), (5)\n C\n(4), (6)\n D\n(1), (3)",
+                        "snippet_content": "Silus sudah tak ada di sampingnya. Ia yakin suara yang didengar <em>tadi<\/em> bukanlah kembang tidur, tapi entahlah, dari mana suara itu datang"
+                    },
+                    "responses": [
+                        {
+                            "id": 10536798,
+                            "user_id": 4309126,
+                            "task_id": 8831219,
+                            "points": 5,
+                            "created": "2016-12-12T19:15:01+07:00",
+                            "content": "jawabannya C (4),(6)   insyaallah.",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 10536838,
+                            "user_id": 4309088,
+                            "task_id": 8831219,
+                            "points": 5,
+                            "created": "2016-12-12T19:16:31+07:00",
+                            "content": "Jawabannya adalah <br \/>C.(4),(6)<br \/>4.sulastri yang lelap di kamar,seketika terbelalak",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "6",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4309126,
+                                "nick": "darul9",
+                                "avatar": null
+                            },
+                            {
+                                "id": 4309088,
+                                "nick": "Amat1922",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/da1\/adba1a08c2b271fdcc567b40c11bf149.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 8831116,
+                        "subject_id": 1,
+                        "user_id": 427272,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 15,
+                            "ptsForResp": 8,
+                            "ptsForBest": 4
+                        },
+                        "content": "Bacalah kutipan Cerpen berikut!<br \/><br \/>\n(1)Ayam baru berkokok sekali.Silus melihat kendi itu menggantung di langit-langit kamar tempat terapi Murtaep.Leher kendi terlilit kawat.Ia mengambil kendi itu dan memutarnya sebagaimana yang dilakukan oleh ayahnya. Poros atas dan poros bawah kendi diseimbangkan dengan kedua jari telunjuk. Sementara telunjuk yang lain memutar kendi itu.<br \/><br \/>\n(2)Dicobanya, tidak bisa.Dicoba lagi, tidak bisa.Dicoba lagi, tetap.<br \/><br \/>\n(3)Sisa kesabaran berdengus.Silus membanting kendi yang tak mau berputar. Prang! Kendi hancur berkeping berserak di lantai.Silus keluar dari kamar yang gelap.Tangannya menutup daun pintu cukup keras.<br \/><br \/>\n(4)Sulastri yang lelap di kamar, seketika terbelalak mendengar suara itu.Ia hendak mengadu, namun Silus sudah tak ada di sampingnya. Ia yakin suara yang didengar tadi bukanlah kembang tidur, tapi entahlah, dari mana suara itu datang.<br \/><br \/>\n(5)Langkahnya bersigegas ke dapur.Pikirannya awas pada seekor kucing milik tetangga yang sangat blenger.Sekali mencium aroma daging, pasti selalu mengintip. Sulastri was-was kucing belang itu memakan sisa ikan sapi hari ketujuh wafat Murtaep. Sulastri tak menemukan apa-apa.Ia mengecek ruangan yang lain, tak ada tanda-tanda barang pecah. Di kamar yang digunakan mertuanya, ia juga tak melihat tanda kegaduhan ataupun barang yang berserak. Hanya saja wajahnya tampak heran melihat kendi berada di lantai.<br \/><br \/>\n(6)Sulastri mengembalikan kendi itu ke tempat semula, menggantungkannya di langit-langit kamar. Bila suaminya ketemu, ia ingin bertanya beberapa hal: tentang suara itu dan siapa yang meletakkan kendi di lantai.<br \/><br \/>\n(dikutip dari cerpen \u201cTenung\u201d karya Fandrik Ahmad)<br \/><br \/>\nNilai moral cerpen tersebut tergambar dalam nomor \u2026.<br \/><br \/>\n A<br \/>\n(1), (3)<br \/><br \/>\n B<br \/>\n(4), (6)<br \/><br \/>\n C<br \/>\n(1), (4)<br \/><br \/>\n D<br \/>\n(3), (6)",
+                        "created": "2016-12-12T19:06:37+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2016-12-12T19:17:12+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "6",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Bacalah kutipan Cerpen berikut!\n(1)Ayam baru berkokok sekali.Silus melihat kendi itu menggantung di langit-langit kamar tempat terapi Murtaep.Leher kendi terlilit kawat.Ia mengambil kendi itu dan memutarnya sebagaimana yang dilakukan oleh ayahnya. Poros atas dan poros bawah kendi diseimbangkan dengan kedua jari telunjuk. Sementara telunjuk yang lain memutar kendi itu.\n(2)Dicobanya, tidak bisa.Dicoba lagi, tidak bisa.Dicoba lagi, tetap.\n(3)Sisa kesabaran berdengus.Silus membanting kendi yang tak mau berputar. Prang! Kendi hancur berkeping berserak di lantai.Silus keluar dari kamar yang gelap.Tangannya menutup daun pintu cukup keras.\n(4)Sulastri yang lelap di kamar, seketika terbelalak mendengar suara itu.Ia hendak mengadu, namun Silus sudah tak ada di sampingnya. Ia yakin suara yang didengar <em>tadi<\/em> bukanlah kembang tidur, tapi entahlah, dari mana suara itu datang.\n(5)Langkahnya bersigegas ke dapur.Pikirannya awas pada seekor <em>kucing<\/em> milik tetangga yang sangat blenger.Sekali mencium aroma daging, pasti selalu mengintip. Sulastri was-was <em>kucing<\/em> belang itu memakan sisa ikan sapi hari ketujuh wafat Murtaep. Sulastri tak menemukan apa-apa.Ia mengecek ruangan yang lain, tak ada tanda-tanda barang pecah. Di kamar yang digunakan mertuanya, ia juga tak melihat tanda kegaduhan ataupun barang yang berserak. Hanya saja wajahnya tampak heran melihat kendi berada di lantai.\n(6)Sulastri mengembalikan kendi itu ke tempat semula, menggantungkannya di langit-langit kamar. Bila suaminya ketemu, ia ingin bertanya beberapa hal: tentang suara itu dan <em>siapa<\/em> yang meletakkan kendi di lantai.\n(dikutip dari cerpen \u201cTenung\u201d karya Fandrik Ahmad)\nNilai moral cerpen tersebut tergambar dalam nomor \u2026.\n A\n(1), (3)\n B\n(4), (6)\n C\n(1), (4)\n D\n(3), (6)",
+                        "snippet_content": "Silus sudah tak ada di sampingnya. Ia yakin suara yang didengar <em>tadi<\/em> bukanlah kembang tidur, tapi entahlah, dari mana suara itu datang"
+                    },
+                    "responses": [
+                        {
+                            "id": 10536850,
+                            "user_id": 4270472,
+                            "task_id": 8831116,
+                            "points": 8,
+                            "created": "2016-12-12T19:17:12+07:00",
+                            "content": "D. (3), (6) (maaf kalau salah) ",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 10536929,
+                            "user_id": 4309094,
+                            "task_id": 8831116,
+                            "points": 8,
+                            "created": "2016-12-12T19:21:00+07:00",
+                            "content": "D. maaf ya kalau salah<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4270472,
+                                "nick": "Dzakiyyah27",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d65\/02b6e2a4eb79959c3fce380446426937.jpg"
+                            },
+                            {
+                                "id": 4309094,
+                                "nick": "yovitaoki",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10742436,
+                        "subject_id": 1,
+                        "user_id": 1764550,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Apa makna dari lagu ebiet g ade - Jakarta ????<br \/><br \/><br \/>\nSelamat pagi padamu, Jakarta<br \/>\ndi pintumu kau tak sambut tanganku<br \/>\nHanya suara tawamu kudengar parau, Jakarta<br \/>\ndan nafasmu gemuruh gemerlapan<br \/>\nSeperti sengaja kau ciptakan untukku<br \/>\nSementara, masih tersisa gema doa di mulutku<br \/>\nInikah Jakarta? Hanya beginikah sikapmu Jakarta?<br \/>\nAtau aku yang salah bila kukatakan kau tak ramah?<br \/>\nDebu-debu panas di jalanan<br \/>\nnampak sepi dari cinta dan kasih sayang<br \/>\nTidak seperti di kampungku yang hijau<br \/>\nDi sini takkan kutemui lagi suara seruling<br \/>\nyang ditiup lelaki kecil sambil berbaring<br \/>\ndi punggung kerbau yang digembalakannya<br \/>\nAtau nyanyian bambu-bambu seperti musik simfoni<br \/>\nmengiringi anak-anak telanjang bermain<br \/>\nBerkejaran di pematang basah<br \/>\nSelamat malam padamu, Jakarta<br \/>\nDi manakah kau sembunyikan kekasihku?<br \/>\nAtau mataku yang tak mampu lagi mengenali wajahnya?<br \/>\nSebab, tak ada bau lumpur dan rumput di rambutnya<br \/>\nSeperti ketika dia masih tinggal di kampung<br \/>\nSuka bercanda berdua di bawah malam purnama<br \/>\nInikah Jakarta? Hanya beginikah kiranya Jakarta?<br \/>\nKau cambuk punggung siapa saja<br \/>\nyang kalah atau yang tetap bertahan<br \/>\nBahkan di sini matahari seperti<br \/>\nenggan terbit dari timur lagi<br \/>\nTidak seperti di kampungku yang damai<br \/>\nMatahari selalu terbit dari sela bukit biru<br \/>\nDengan warna kuning kemerahan di atas hijau dedaunan<br \/>\nDi bawah burung-burung mulai berterbangan<br \/>\nDi sini aku makin rindu kampungku<br \/>\nDi sini aku makin cinta kampungku<br \/>\nBersabarlah akan kutundukkan Jakarta untukmu",
+                        "created": "2017-05-21T22:40:41+07:00",
+                        "responses": 1,
+                        "tickets": 4,
+                        "first_resp": "2017-05-22T00:23:20+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "6",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Apa makna dari lagu ebiet g ade - Jakarta ????\nSelamat pagi padamu, Jakarta\ndi pintumu kau <em>tak<\/em> sambut tanganku\nHanya suara tawamu kudengar parau, Jakarta\ndan nafasmu gemuruh gemerlapan\nSeperti sengaja kau ciptakan untukku\nSementara, masih tersisa gema doa di mulutku\nInikah Jakarta? Hanya beginikah sikapmu Jakarta?\nAtau aku yang salah bila kukatakan kau <em>tak<\/em> ramah?\nDebu-debu panas di jalanan\nnampak sepi dari cinta dan kasih sayang\nTidak seperti di kampungku yang hijau\nDi sini takkan kutemui lagi suara seruling\nyang ditiup lelaki kecil sambil berbaring\ndi punggung kerbau yang digembalakannya\nAtau nyanyian bambu-bambu seperti musik simfoni\nmengiringi anak-anak telanjang bermain\nBerkejaran di pematang basah\nSelamat malam padamu, Jakarta\nDi manakah kau sembunyikan kekasihku?\nAtau mataku yang <em>tak<\/em> mampu lagi mengenali wajahnya?\nSebab, <em>tak<\/em> ada bau lumpur dan rumput di rambutnya\nSeperti ketika dia masih tinggal di kampung\nSuka bercanda berdua di bawah malam purnama\nInikah Jakarta? Hanya beginikah kiranya Jakarta?\nKau cambuk punggung <em>siapa<\/em> saja\nyang kalah atau yang tetap bertahan\nBahkan di sini matahari seperti\nenggan terbit dari timur lagi\nTidak seperti di kampungku yang damai\nMatahari selalu terbit dari sela bukit biru\nDengan warna <em>kuning<\/em> kemerahan di atas hijau dedaunan\nDi bawah burung-burung mulai berterbangan\nDi sini aku makin rindu kampungku\nDi sini aku makin cinta kampungku\nBersabarlah akan kutundukkan Jakarta untukmu",
+                        "snippet_content": "malam padamu, Jakarta\nDi manakah kau sembunyikan kekasihku?\nAtau mataku yang <em>tak<\/em> mampu lagi mengenali wajahnya?\nSebab, <em>tak<\/em> ada bau lumpur dan"
+                    },
+                    "responses": [
+                        {
+                            "id": 13030470,
+                            "user_id": 5038044,
+                            "task_id": 10742436,
+                            "points": 5,
+                            "created": "2017-05-22T00:23:20+07:00",
+                            "content": "1. Tabah menghadapi cobaan<br \/>2.\u00a0<span>Sulit Menghentikan Orang yang Mengejar Ketidakpastian<br \/>3. Jangan banyak omong<\/span>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5038044,
+                                "nick": "nyancat891",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d61\/360690fd0912514464915651b9ae4705.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10738363,
+                        "subject_id": 1,
+                        "user_id": 1764550,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 15,
+                            "ptsForResp": 8,
+                            "ptsForBest": 4
+                        },
+                        "content": "Apa makna dari lagu ebiet g ade  - Jakarta ????<br \/><br \/><br \/>\nSelamat pagi padamu, Jakarta<br \/>\ndi pintumu kau tak sambut tanganku<br \/>\nHanya suara tawamu kudengar parau, Jakarta<br \/>\ndan nafasmu gemuruh gemerlapan<br \/>\nSeperti sengaja kau ciptakan untukku<br \/>\nSementara, masih tersisa gema doa di mulutku<br \/>\nInikah Jakarta? Hanya beginikah sikapmu Jakarta?<br \/>\nAtau aku yang salah bila kukatakan kau tak ramah?<br \/>\nDebu-debu panas di jalanan<br \/>\nnampak sepi dari cinta dan kasih sayang<br \/>\nTidak seperti di kampungku yang hijau<br \/>\nDi sini takkan kutemui lagi suara seruling<br \/>\nyang ditiup lelaki kecil sambil berbaring<br \/>\ndi punggung kerbau yang digembalakannya<br \/>\nAtau nyanyian bambu-bambu seperti musik simfoni<br \/>\nmengiringi anak-anak telanjang bermain<br \/>\nBerkejaran di pematang basah<br \/>\nSelamat malam padamu, Jakarta<br \/>\nDi manakah kau sembunyikan kekasihku?<br \/>\nAtau mataku yang tak mampu lagi mengenali wajahnya?<br \/>\nSebab, tak ada bau lumpur dan rumput di rambutnya<br \/>\nSeperti ketika dia masih tinggal di kampung<br \/>\nSuka bercanda berdua di bawah malam purnama<br \/>\nInikah Jakarta? Hanya beginikah kiranya Jakarta?<br \/>\nKau cambuk punggung siapa saja<br \/>\nyang kalah atau yang tetap bertahan<br \/>\nBahkan di sini matahari seperti<br \/>\nenggan terbit dari timur lagi<br \/>\nTidak seperti di kampungku yang damai<br \/>\nMatahari selalu terbit dari sela bukit biru<br \/>\nDengan warna kuning kemerahan di atas hijau dedaunan<br \/>\nDi bawah burung-burung mulai berterbangan<br \/>\nDi sini aku makin rindu kampungku<br \/>\nDi sini aku makin cinta kampungku<br \/>\nBersabarlah akan kutundukkan Jakarta untukmu",
+                        "created": "2017-05-21T19:30:20+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-05-22T14:35:12+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "6",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Apa makna dari lagu ebiet g ade  - Jakarta ????\nSelamat pagi padamu, Jakarta\ndi pintumu kau <em>tak<\/em> sambut tanganku\nHanya suara tawamu kudengar parau, Jakarta\ndan nafasmu gemuruh gemerlapan\nSeperti sengaja kau ciptakan untukku\nSementara, masih tersisa gema doa di mulutku\nInikah Jakarta? Hanya beginikah sikapmu Jakarta?\nAtau aku yang salah bila kukatakan kau <em>tak<\/em> ramah?\nDebu-debu panas di jalanan\nnampak sepi dari cinta dan kasih sayang\nTidak seperti di kampungku yang hijau\nDi sini takkan kutemui lagi suara seruling\nyang ditiup lelaki kecil sambil berbaring\ndi punggung kerbau yang digembalakannya\nAtau nyanyian bambu-bambu seperti musik simfoni\nmengiringi anak-anak telanjang bermain\nBerkejaran di pematang basah\nSelamat malam padamu, Jakarta\nDi manakah kau sembunyikan kekasihku?\nAtau mataku yang <em>tak<\/em> mampu lagi mengenali wajahnya?\nSebab, <em>tak<\/em> ada bau lumpur dan rumput di rambutnya\nSeperti ketika dia masih tinggal di kampung\nSuka bercanda berdua di bawah malam purnama\nInikah Jakarta? Hanya beginikah kiranya Jakarta?\nKau cambuk punggung <em>siapa<\/em> saja\nyang kalah atau yang tetap bertahan\nBahkan di sini matahari seperti\nenggan terbit dari timur lagi\nTidak seperti di kampungku yang damai\nMatahari selalu terbit dari sela bukit biru\nDengan warna <em>kuning<\/em> kemerahan di atas hijau dedaunan\nDi bawah burung-burung mulai berterbangan\nDi sini aku makin rindu kampungku\nDi sini aku makin cinta kampungku\nBersabarlah akan kutundukkan Jakarta untukmu",
+                        "snippet_content": "malam padamu, Jakarta\nDi manakah kau sembunyikan kekasihku?\nAtau mataku yang <em>tak<\/em> mampu lagi mengenali wajahnya?\nSebab, <em>tak<\/em> ada bau lumpur dan"
+                    },
+                    "responses": [
+                        {
+                            "id": 13036115,
+                            "user_id": 4941471,
+                            "task_id": 10738363,
+                            "points": 8,
+                            "created": "2017-05-22T14:35:12+07:00",
+                            "content": "1. Tabah Menghadapi Cobaan<br \/>2. Jadi Wota Itu Kasihan<br \/>\n\n\n<span>\n<span>.<\/span><\/span><span>3. Sulit Menghentikan Orang yang Mengejar Ketidakpastian<br \/><br \/><\/span>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4941471,
+                                "nick": "dinaanggreini07",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/db7\/6dab1b808ba8f7168d21eacc1fba2fd9.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10815319,
+                        "subject_id": 1,
+                        "user_id": 3229692,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "1.Aku dilahirkan di sebuah keluarga yang sangat konservatif, teguh memegang prinsip serta adat yang belaku, yang menurutku terlalu kaku. Sejak kecil aku dididik dengan sangat disiplin terutama dalam Hal yang berhubungan dengan ibadah, walaupun aku belum dikenal kewajiban karena memang aku belum nendapat haid. Orang tuaku pada saat-saat tertentu selalu mengajakku ke musholla di samping rumah. Belajar mengaji Alquran setelah sholat maghrib, kemudian mengaji kitab kuning sesuai sholat isya'. Sesudah sholat subuh pun aku diharuskan setor hafalan surat-Surat pendek dan surat-surat penting dalam Alquran kepada ayahku. Bagiku beliau adalah sosok ayah sekaligus guru yang sangat keras dalam mendidik serta mengajar anak-anaknya.<br \/>Keadaan fisik tokoh dalam cuplikan novel tersebut adalah....<br \/>a.disiplin<br \/>b.terkekang<br \/>c.taat beragama<br \/>d.masih remaja<br \/>2.Kalimat sanggahan dalam diskusi antara lain....<br \/>a.Tidak udah emosi, begitu saja sampai bersuara keras bak macam<br \/>b.Dari tadi nada Nicaragua Anda seolah terpandai di ruangan ini<br \/>c.Sudahlah, terserah saja. Asal risiko ditanggung sendiri<br \/>d.Menurut pendapat saya, sebaiknya pelaksanaanya ditunda dahulu<br \/>3.Peryataan yang baik untuk menolak suatu pendapat dalam sebuah diskusi adalah....<br \/>a.Ah, yang Saudara sampaikan tersebut sangat tidak masuk akal; kita tidak menanamkan nilai-nilai sosial.<br \/>b.Maaf, menurut saya, rasa sosial, kepekaan Anda kurang, tetapi rasa egois makin belipat-lipat dengan memetuskan aturan buat memungut biaya kepada peserta.<br \/>c.Menurut saya, apa yang Saudara sampaikan tidak sejalan dengan visi kegiatan ini karena dengan adanya beban biaya untuk peserta, nilai sosial kegiatan ini jadi hilang.<br \/>d.Ketua yang saya hormati, terus terang saya tidak mendukung apa yang disampaikan pembicara. Ia tidak memahami arti rasa sosial dan nilai-nilai solidaritas yang selama ini kita dengung-dengunkan.<br \/>4.Pemilihan diksi yang digunakan dalam membuat puisi mempertimbangkan adanya....<br \/>a.tema<br \/>b.rima dan persajakan<br \/>c.baris dan bait<br \/>d.majas dan persajakan<br \/>5.Berikut yang merupakan stair adalah....<br \/>a.Adalah raja sebuah negeri<br \/>  Sultan Agus bijak bestari<br \/>  Asalnya baginda raja yang       berhari,<br \/>  Melimpahkan pada dagang biar peri.<br \/>b.Berburu ke pandang datar<br \/>  dapat rusa belang kaki;<br \/>  Berburu kepalang ajar<br \/>  ba' bunga kembang tak jadi<br \/>c.Harimau menderam di negeriku<br \/>  Gajah mendering bunyi suaraku<br \/>  Suaraku seperti bunyi halilintar<br \/>  Bibir terkatup gigi terkunci.....<br \/>d.Barang siapa tidak memegang agama<br \/>  Sekali-kali tidak boleh dibilang nama ",
+                        "created": "2017-05-29T20:18:43+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-05-29T20:33:26+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "1.Aku dilahirkan di sebuah keluarga yang sangat konservatif, teguh memegang prinsip serta adat yang belaku, yang menurutku terlalu kaku. Sejak kecil aku dididik dengan sangat disiplin terutama dalam Hal yang berhubungan dengan ibadah, walaupun aku belum dikenal kewajiban karena memang aku belum nendapat haid. Orang tuaku pada saat-saat tertentu selalu mengajakku ke musholla di samping rumah. Belajar mengaji Alquran setelah sholat maghrib, kemudian mengaji kitab <em>kuning<\/em> sesuai sholat isya'. Sesudah sholat subuh pun aku diharuskan setor hafalan surat-Surat pendek dan surat-surat penting dalam Alquran kepada ayahku. Bagiku beliau adalah sosok ayah sekaligus guru yang sangat keras dalam mendidik serta mengajar anak-anaknya.Keadaan fisik tokoh dalam cuplikan novel tersebut adalah....a.disiplinb.terkekangc.taat beragamad.masih remaja2.Kalimat sanggahan dalam diskusi antara lain....a.Tidak udah emosi, begitu saja sampai bersuara keras bak macamb.Dari <em>tadi<\/em> nada Nicaragua Anda seolah terpandai di ruangan inic.Sudahlah, terserah saja. Asal risiko ditanggung sendirid.Menurut pendapat saya, sebaiknya pelaksanaanya ditunda dahulu3.Peryataan yang baik untuk menolak suatu pendapat dalam sebuah diskusi adalah....a.Ah, yang Saudara sampaikan tersebut sangat tidak masuk akal; kita tidak menanamkan nilai-nilai sosial.b.Maaf, menurut saya, rasa sosial, kepekaan Anda kurang, tetapi rasa egois makin belipat-lipat dengan memetuskan aturan buat memungut biaya kepada peserta.c.Menurut saya, apa yang Saudara sampaikan tidak sejalan dengan visi kegiatan ini karena dengan adanya beban biaya untuk peserta, nilai sosial kegiatan ini jadi hilang.d.Ketua yang saya hormati, terus terang saya tidak mendukung apa yang disampaikan pembicara. Ia tidak memahami arti rasa sosial dan nilai-nilai solidaritas yang selama ini kita dengung-dengunkan.4.Pemilihan diksi yang digunakan dalam membuat puisi mempertimbangkan adanya....a.temab.rima dan persajakanc.baris dan baitd.majas dan persajakan5.Berikut yang merupakan stair adalah....a.Adalah raja sebuah negeri  Sultan Agus bijak bestari  Asalnya baginda raja yang       berhari,  Melimpahkan pada dagang biar peri.b.Berburu ke pandang datar  dapat rusa belang kaki;  Berburu kepalang ajar  ba' bunga kembang tak jadic.Harimau menderam di negeriku  Gajah mendering bunyi suaraku  Suaraku seperti bunyi halilintar  Bibir terkatup gigi terkunci.....d.Barang <em>siapa<\/em> tidak memegang agama  Sekali-kali tidak boleh dibilang nama ",
+                        "snippet_content": "samping rumah. Belajar mengaji Alquran setelah sholat maghrib, kemudian mengaji kitab <em>kuning<\/em> sesuai sholat isya'. Sesudah sholat subuh pun aku diharuskan setor"
+                    },
+                    "responses": [
+                        {
+                            "id": 13136609,
+                            "user_id": 4245687,
+                            "task_id": 10815319,
+                            "points": 5,
+                            "created": "2017-05-29T20:33:26+07:00",
+                            "content": "Nih, dengan senang hati akan saya jawab sekaligus penjelasan dan alasan-alasannya.<br \/><br \/>1. C.<br \/>2. D. <br \/>3. D.<br \/>4. D.<br \/>5.A.<br \/><br \/><br \/>1. C.<br \/>Kenapa harus C.? Soal nomor 1 ini cukup mengkecohkan, namun lihat kalimat akhirnya \"Bagiku, beluai adalah sosok ayah sekaligus guru yang sangat kerasa dalam mendidik serta mengajar anak-anaknya\" Memang dalam awalan paragraf ada kata \"Terlalu kaku\" dan inilah yang mengkecoh. Namun akhir dari cerita ini menggambarkan bahwa sang ayah ingin putrinya menjadi sosok wanita yang shaleh sehingga patutlah ajaran tersebut ditegakan mengingat zaman yang semakin berubah.<br \/><br \/>No. 2 Jawaban D.<br \/>Kenapa jawabannya D.? Dalam berdiskusi ada yang namanya musyawarah dan dalam memberikan pendapat atau saran atau menyangkal haruslah menggunakan bahasa yang sopan, lugas, dan objektif. Jawaban D. jelas-jelas adalah jawaban yang tepat.<br \/><br \/>No. 3 jawaban D.<br \/>Kenapa jawabannya D.? Penjelasannya sama dengan No. 2<br \/><br \/>No. 4 jawaban D.<br \/>Kenapa jawabannya D.? Dalam pembuatan puisi ada yang namanya majas dan persajakan yang perlu diperhatikan. Kenapa nggak B. Rima dan persajakan. Jelas-jelas ini bukanlah Syair yang rimanya harus sangat diperhatikan. Puisi dengan Syair berbeda ya.<br \/><br \/>No. 5 jawaban A.<br \/>Kenapa jawabannya A.? dalam syair akhir kata dalam setiap bait haruslah sama, berirama (A-A-A-A). Jadi jawaban No. 5 adalah A. yang benar.<br \/><br \/>Ok, sekian penjelasan dari saya, semoga bermanfaat ^-^<br \/><br \/>Jangan lupa untuk memperdalam sastra lebih dalam lagi terutama EYD-nya.<br \/>Masih punya banyak pertanyaan tentang sastra, sip, saya siap membantu seputar sastra dan bahasa<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4245687,
+                                "nick": "CindyCarnia",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dfd\/de5f1c3eaee30de9af98d3cc75e654ff.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 7587723,
+                        "subject_id": 9,
+                        "user_id": 623954,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "RIDDLE<br \/><br \/>Sherlock holmes baru saja keluar dari pintu flatnya, belum 5 menit lagi lagi sudah ada yang menelefon ke hpnya.<br \/><br \/>\" Ada apa John ? \" Kata sherlock<br \/>\" Sherlock, bisakah kau ke Cheapside street sekarang ? Aku menemukan mayat disini \" Balas John<br \/>\" Apa sudah ada polisi disana ? Ceritakan semua ttg korban padaku \" Kata Sherlock<br \/>\" Iya, bahkan polisi sudah menetapkan 3 Tersangka, akan kukirimkan kau pesan tentang tersangka itu beserta alibinya, dan oh satu lagi, aku akan mengirimkan semua tentang korban juga dying message padamu \" kata John<br \/><br \/>Sherlock pun menutup telefonnya. Tak lebih dari dua menit pesan John sudah masuk ke handphone Sherlock. Berikut pesannya :<br \/><br \/>Korban bernama Mark. Dia adalah seorang penjaga toko hewan peliharaan. Dia meninggal karena pendarahan di perutnya. Dia ditemukan kaku di gudang toko dimana ia bekerja. Hanya ini pesan satu satunya dari kantongnya :<br \/><br \/>Cek hewan hewan ini di tempatnya masing masing, tolong pakai tangga :<br \/><br \/>2 ekor Laba laba<br \/>1 ekor Monyet<br \/>4 ekor Kucing<br \/>3 ekor Marmut<br \/>5 ekor Biawak<br \/><br \/>Tersangka : <br \/><br \/>Sam Hollan ( Rekan kerja korban ) : Aku tadi sedang keluar untuk makan siang,sesampainya disini sudah banyak polisi, aku tak menyangka Mark akan mati terbunuh, padahal dia sangat baik<br \/><br \/>Stephen Richardson ( Bos Korban ) : Aku tadi menemani Mark menjaga toko hewan ini. Belakangan ini dia sering malas malasan bekerja jadi aku sering membentaknya. Tetapi, aku tak membunuhnya, hanya membentak.<br \/><br \/>Maria Monroe ( Pacar Korban ) : Aku menemaninya kerja tadi, aku sempat membeli sebotol minuman di supermarket 1 blok dari sini 1 jam yg lalu. Aku pacarnya, mana mungkin aku membunuhnya ?<br \/><br \/>Sherlock pun berfikir keras dan menemukan jawabannya. Segera dia memanggil Taxi dan langsung ke Cheapside street.<br \/><br \/>Siapa pelakunya?",
+                        "created": "2016-09-27T20:22:07+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2016-09-27T20:29:38+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "RIDDLESherlock holmes baru saja keluar dari pintu flatnya, belum 5 menit lagi lagi sudah ada yang menelefon ke hpnya.\" Ada apa John ? \" Kata sherlock\" Sherlock, bisakah kau ke Cheapside street sekarang ? Aku menemukan mayat disini \" Balas John\" Apa sudah ada polisi disana ? Ceritakan semua ttg korban padaku \" Kata Sherlock\" Iya, bahkan polisi sudah menetapkan 3 Tersangka, akan kukirimkan kau pesan tentang tersangka itu beserta alibinya, dan oh satu lagi, aku akan mengirimkan semua tentang korban juga dying message padamu \" kata JohnSherlock pun menutup telefonnya. Tak lebih dari dua menit pesan John sudah masuk ke handphone Sherlock. Berikut pesannya :Korban bernama Mark. Dia adalah seorang penjaga toko hewan peliharaan. Dia meninggal karena pendarahan di perutnya. Dia ditemukan kaku di gudang toko dimana ia bekerja. Hanya ini pesan satu satunya dari kantongnya :Cek hewan hewan ini di tempatnya masing masing, tolong pakai tangga :2 ekor Laba laba1 ekor Monyet4 ekor <em>Kucing3<\/em> ekor Marmut5 ekor BiawakTersangka : Sam Hollan ( Rekan kerja korban ) : Aku <em>tadi<\/em> sedang keluar untuk makan siang,sesampainya disini sudah banyak polisi, aku tak menyangka Mark akan mati terbunuh, padahal dia sangat baikStephen Richardson ( Bos Korban ) : Aku <em>tadi<\/em> menemani Mark menjaga toko hewan ini. Belakangan ini dia sering malas malasan bekerja jadi aku sering membentaknya. Tetapi, aku tak membunuhnya, hanya membentak.Maria Monroe ( Pacar Korban ) : Aku menemaninya kerja <em>tadi<\/em>, aku sempat membeli sebotol minuman di supermarket 1 blok dari sini 1 jam yg lalu. Aku pacarnya, mana mungkin aku membunuhnya ?Sherlock pun berfikir keras dan menemukan jawabannya. Segera dia memanggil Taxi dan langsung ke Cheapside street.<em>Siapa<\/em> pelakunya?",
+                        "snippet_content": "<em>Kucing3<\/em> ekor Marmut5 ekor BiawakTersangka : Sam Hollan ( Rekan kerja korban ) : Aku <em>tadi<\/em> sedang keluar untuk makan siang,sesampainya disini sudah banyak polisi"
+                    },
+                    "responses": [
+                        {
+                            "id": 8978191,
+                            "user_id": 3348256,
+                            "task_id": 7587723,
+                            "points": 5,
+                            "created": "2016-09-27T20:29:38+07:00",
+                            "content": "menurutku sih\u00a0Stephen Richardson karena meski yg menemani mark menjaga tokoh adalah bos dan pacarnya tapi karena pada satu jam yg lalu pacar mark membeli minuman di supermarket otomatis dia meninggalkan mark bersama bosnya menjaga toko, lagipula siapa lagi orang yang bisa memerintahkannya untuk mengecek beberapa hewan dengan tangga selain bosnya sendiri dan juga sbelum kejadian bosnya itu sempat membentak mark\u00a0",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3348256,
+                                "nick": "melisarumuy2",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/ddb\/589d130eb2e67b96dac22416cff3243e.png"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10543747,
+                        "subject_id": 1,
+                        "user_id": 4740227,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 15,
+                            "ptsForResp": 8,
+                            "ptsForBest": 4
+                        },
+                        "content": "<br \/>RIDDLE<br \/><br \/>Sherlock holmes baru saja keluar dari pintu flatnya, belum 5 menit lagi lagi sudah ada yang menelefon ke hpnya.<br \/><br \/>\" Ada apa John ? \" Kata sherlock<br \/>\" Sherlock, bisakah kau ke Cheapside street sekarang ? Aku menemukan mayat disini \" Balas John<br \/>\" Apa sudah ada polisi disana ? Ceritakan semua ttg korban padaku \" Kata Sherlock<br \/>\" Iya, bahkan polisi sudah menetapkan 3 Tersangka, akan kukirimkan kau pesan tentang tersangka itu beserta alibinya, dan oh satu lagi, aku akan mengirimkan semua tentang korban juga dying message padamu \" kata John<br \/><br \/>Sherlock pun menutup telefonnya. Tak lebih dari dua menit pesan John sudah masuk ke handphone Sherlock. Berikut pesannya :<br \/><br \/>Korban bernama Mark. Dia adalah seorang penjaga toko hewan peliharaan. Dia meninggal karena pendarahan di perutnya. Dia ditemukan kaku di gudang toko dimana ia bekerja. Hanya ini pesan satu satunya dari kantongnya :<br \/><br \/>Cek hewan hewan ini di tempatnya masing masing, tolong pakai tangga :<br \/><br \/>2 ekor Laba laba<br \/>1 ekor Monyet<br \/>4 ekor Kucing<br \/>3 ekor Marmut<br \/>5 ekor Biawak<br \/><br \/>Tersangka : <br \/><br \/>Sam Hollan ( Rekan kerja korban ) : Aku tadi sedang keluar untuk makan siang,sesampainya disini sudah banyak polisi, aku tak menyangka Mark akan mati terbunuh, padahal dia sangat baik<br \/><br \/>Stephen Richardson ( Bos Korban ) : Aku tadi menemani Mark menjaga toko hewan ini. Belakangan ini dia sering malas malasan bekerja jadi aku sering membentaknya. Tetapi, aku tak membunuhnya, hanya membentak.<br \/><br \/>Maria Monroe ( Pacar Korban ) : Aku menemaninya kerja tadi, aku sempat membeli sebotol minuman di supermarket 1 blok dari sini 1 jam yg lalu. Aku pacarnya, mana mungkin aku membunuhnya ?<br \/><br \/>Sherlock pun berfikir keras dan menemukan jawabannya. Segera dia memanggil Taxi dan langsung ke Cheapside street.<br \/><br \/>Siapa pelakunya?<br \/><br \/>Tolong di jawab",
+                        "created": "2017-05-06T18:56:15+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2017-05-06T18:57:05+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [
+                                {
+                                    "id": 6980042,
+                                    "user_id": 4498006,
+                                    "content": "ini soal apa? soalnya terlalu panjang",
+                                    "created": "2017-05-06T18:57:16+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                }
+                            ],
+                            "last_id": 0,
+                            "count": 1
+                        },
+                        "highlighted_content": "RIDDLESherlock holmes baru saja keluar dari pintu flatnya, belum 5 menit lagi lagi sudah ada yang menelefon ke hpnya.\" Ada apa John ? \" Kata sherlock\" Sherlock, bisakah kau ke Cheapside street sekarang ? Aku menemukan mayat disini \" Balas John\" Apa sudah ada polisi disana ? Ceritakan semua ttg korban padaku \" Kata Sherlock\" Iya, bahkan polisi sudah menetapkan 3 Tersangka, akan kukirimkan kau pesan tentang tersangka itu beserta alibinya, dan oh satu lagi, aku akan mengirimkan semua tentang korban juga dying message padamu \" kata JohnSherlock pun menutup telefonnya. Tak lebih dari dua menit pesan John sudah masuk ke handphone Sherlock. Berikut pesannya :Korban bernama Mark. Dia adalah seorang penjaga toko hewan peliharaan. Dia meninggal karena pendarahan di perutnya. Dia ditemukan kaku di gudang toko dimana ia bekerja. Hanya ini pesan satu satunya dari kantongnya :Cek hewan hewan ini di tempatnya masing masing, tolong pakai tangga :2 ekor Laba laba1 ekor Monyet4 ekor <em>Kucing3<\/em> ekor Marmut5 ekor BiawakTersangka : Sam Hollan ( Rekan kerja korban ) : Aku <em>tadi<\/em> sedang keluar untuk makan siang,sesampainya disini sudah banyak polisi, aku tak menyangka Mark akan mati terbunuh, padahal dia sangat baikStephen Richardson ( Bos Korban ) : Aku <em>tadi<\/em> menemani Mark menjaga toko hewan ini. Belakangan ini dia sering malas malasan bekerja jadi aku sering membentaknya. Tetapi, aku tak membunuhnya, hanya membentak.Maria Monroe ( Pacar Korban ) : Aku menemaninya kerja <em>tadi<\/em>, aku sempat membeli sebotol minuman di supermarket 1 blok dari sini 1 jam yg lalu. Aku pacarnya, mana mungkin aku membunuhnya ?Sherlock pun berfikir keras dan menemukan jawabannya. Segera dia memanggil Taxi dan langsung ke Cheapside street.<em>Siapa<\/em> pelakunya?Tolong di jawab",
+                        "snippet_content": "<em>Kucing3<\/em> ekor Marmut5 ekor BiawakTersangka : Sam Hollan ( Rekan kerja korban ) : Aku <em>tadi<\/em> sedang keluar untuk makan siang,sesampainya disini sudah banyak polisi"
+                    },
+                    "responses": [
+                        {
+                            "id": 12759611,
+                            "user_id": 4067639,
+                            "task_id": 10543747,
+                            "points": 8,
+                            "created": "2017-05-06T18:57:05+07:00",
+                            "content": "sherlock. maaf klo salah....",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 12759659,
+                            "user_id": 4998721,
+                            "task_id": 10543747,
+                            "points": 8,
+                            "created": "2017-05-06T19:00:52+07:00",
+                            "content": "Stephen Richardson? Karena dia selalu menemani Mark.",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 6980124,
+                                        "user_id": 3875944,
+                                        "content": "sam hollan karena itu seperti tugas untuknya",
+                                        "created": "2017-05-06T19:01:49+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4067639,
+                                "nick": "nelaelfanda",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d3c\/5b93371a34c7bc5d1322dedb51405b57.jpg"
+                            },
+                            {
+                                "id": 4998721,
+                                "nick": "mxwotm8",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d46\/bae41b6d5fabe66c07dca3f3e1c85a4b.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 4655815,
+                        "subject_id": 1,
+                        "user_id": 2383779,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "soal latihan semester 1<br \/>\nbacalah teks berikut dengan seksama!<br \/>\n    sebagian besar tanah di indonesia dimanfaatkan untuk pertanian.petani mengolah tanahnya untuk padi,kacang kacangan,sayur sayuran,dan buah<br \/>\n buahan.sebagian yang lain digunakan untuk peternakan dan perikanan.<br \/>\n     untuk mencukupi kebutuhan keluarganya,<br \/>\nsetidaknya seorang petani harus mempunyai sawah atau ladang seluas dua hektare.akan tetapi,sebagian besar petani kita hanya memiliki tanah kurang dari dua hektare.<br \/>\n     bahkan,petani di jawa hanya memiliki tanah<br \/>\nkurang dari satu hektare.akibatnya,kesejatera<br \/>\nan petani sulit ditingkatkan.apa lagi,jika musim panen,harga jerih payahnya cendurung turun,<br \/>\nsedangkan pada musim tanam harga pupuk cederung naik.hal ini akan membuat keuntungan petani semakin kecil.<br \/><br \/>\n1)berdasarkan teks diatas,jika petani mempunyai lahan dua hektare atau lebih berarti dia......<br \/>\na. dapat menanam padi dan palawija<br \/>\nb.dapat mencukupi kebutuhan keluarganya<br \/>\nc.dapat memelihara ikan<br \/>\nd.dapat menanam aneka sayur dan buah<br \/><br \/>\n2)penyebab keuntungan petani semakin kecil adalah.....<br \/>\na.lahannya kurang dari satu hektare<br \/>\nb.menggunakan cara bertani yang masih tradisional<br \/>\nc.harga panen turun dan harga pupuk naik pada musim tanam<br \/>\nd.tanaman banyak diserang hama<br \/><br \/>\n3)petani yang tidak mempunyai lahan disebut.....<br \/>\na.petani miskin<br \/>\nb.petani gurem<br \/>\nc.petani gadungan<br \/>\nd.buruh tani<br \/><br \/>\n4)petani yang tidak mempunyai lahan disebut....<br \/>\na.pemanfaatan tanah pertanian diindonesia<br \/>\nb.petani umumnya menanam padi<br \/>\nc.sebagian petani menggunakan lahannya untuk perikanan<br \/><br \/>\n5)  nurul rajin merawat bunga.nurul menyiraminya setiap pagi dan sore.dia juga tidak lupa memberinya pupuk. tanaman nurul makin banyai dan tumbuh subur.<br \/>\nkalimat utama paragraf diatas adalah...<br \/>\na.nurul rajin merawat bunga.<br \/>\nb.nurul menyiraminya setiap pagi dan sore<br \/>\nc.dia juga tidak lupa memberinya pupuk.<br \/>\nd.tanaman nurul makin banyak dan tumbuh subur.<br \/><br \/>\n6)Ikutilah ilmu padi,semakin berisi semakin....<br \/>\nkata yang tepat untuk melengkapi ungkapan itu adalah...<br \/>\na.tua<br \/>\nb.merunduk<br \/>\nc.berat<br \/>\nd.kuning tua<br \/><br \/>\n7)penulisan kalimat langsungvyang benar adalah...<br \/>\na.  \"nama saya budi, pak!\"<br \/>\nb.  \"ayahmu, ke sini, kemarin sore.\" kata ayah.<br \/>\nc.  \"kemari,nak!\" panggil ayah.<br \/>\nd.  \"siapa namamu nak?\" tanya ibu.<br \/><br \/>\n8)kaka mengerjakan PR bahasah indonesia ayah pulang soreh hari<br \/>\nkedua kalimat itu dapat digabungkan dengan kata hubung yang bermakna......<br \/>\na.keterangan sebap<br \/>\nb.keterangan waktu<br \/>\nc.keterangan akibap<br \/>\nd.keterangan syarat<br \/><br \/>\n9)berikut ini yang merupakan salam pembuka surat adalah.....<br \/>\na.hormat saya<br \/>\nb.dengan hormat<br \/>\nc.dengan surat ini<br \/>\nd.solo, 10juni 2006<br \/><br \/>\n10)penulisan sama gelar yang benar adalah.....<br \/>\na.prof.dr.muladi s.h<br \/>\nb.prof.dr .mauladi s.h<br \/>\nc.prof.dr. mauladi s.h<br \/>\nd.prof.dr. mauladi s.h<br \/><br \/>\n11)merpaung bersedih karena nilai nulainya jelek.arti awalan ber- pada kata bersedih adalah...<br \/>\na.dalam keadaan <br \/>\nb.mempunyai<br \/>\nc.berusaha<br \/>\nd.memakai<br \/><br \/>\n12)kata yang baku terdapat pada kalimat...<br \/>\na.pardede naik bus kota setiap hari kesekolah.<br \/>\nb.ayah membeli obat di apotek<br \/>\nc.kwalitas hasil ujian tahun ini meningkat.<br \/>\nd.pak guru memberi nasehat kepada murid muridnya.<br \/><br \/>\n13)kalimat untuk poster yang kurang tepat adalah......<br \/>\na.buanglah sampah di sekolah<br \/>\nb.jangan membuang sembarangan<br \/>\nc.jangalah kebersihan kebersihan pangkal kesehatan<br \/>\nd.buanglah sampah di tempatsampah",
+                        "created": "2015-12-11T20:01:58+07:00",
+                        "responses": 1,
+                        "tickets": 3,
+                        "first_resp": "2015-12-11T21:03:12+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [
+                                {
+                                    "id": 3289428,
+                                    "user_id": 349549,
+                                    "content": "soal no 4",
+                                    "created": "2015-12-11T20:07:53+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                }
+                            ],
+                            "last_id": 0,
+                            "count": 1
+                        },
+                        "highlighted_content": "soal latihan semester 1\nbacalah teks berikut dengan seksama!\n    sebagian besar tanah di indonesia dimanfaatkan untuk pertanian.petani mengolah tanahnya untuk padi,kacang kacangan,sayur sayuran,dan buah\n buahan.sebagian yang lain digunakan untuk peternakan dan perikanan.\n     untuk mencukupi kebutuhan keluarganya,\nsetidaknya seorang petani harus mempunyai sawah atau ladang seluas dua hektare.akan tetapi,sebagian besar petani kita hanya memiliki tanah kurang dari dua hektare.\n     bahkan,petani di jawa hanya memiliki tanah\nkurang dari satu hektare.akibatnya,kesejatera\nan petani sulit ditingkatkan.apa lagi,jika musim panen,harga jerih payahnya cendurung turun,\nsedangkan pada musim tanam harga pupuk cederung naik.hal ini akan membuat keuntungan petani semakin kecil.\n1)berdasarkan teks diatas,jika petani mempunyai lahan dua hektare atau lebih berarti dia......\na. dapat menanam padi dan palawija\nb.dapat mencukupi kebutuhan keluarganya\nc.dapat memelihara ikan\nd.dapat menanam aneka sayur dan buah\n2)penyebab keuntungan petani semakin kecil adalah.....\na.lahannya kurang dari satu hektare\nb.menggunakan cara bertani yang masih tradisional\nc.harga panen turun dan harga pupuk naik pada musim tanam\nd.tanaman banyak diserang hama\n3)petani yang tidak mempunyai lahan disebut.....\na.petani miskin\nb.petani gurem\nc.petani gadungan\nd.buruh <em>tani<\/em>\n4)petani yang tidak mempunyai lahan disebut....\na.pemanfaatan tanah pertanian diindonesia\nb.petani umumnya menanam padi\nc.sebagian petani menggunakan lahannya untuk perikanan\n5)  nurul rajin merawat bunga.nurul menyiraminya setiap pagi dan sore.dia juga tidak lupa memberinya pupuk. tanaman nurul makin banyai dan tumbuh subur.\nkalimat utama paragraf diatas adalah...\na.nurul rajin merawat bunga.\nb.nurul menyiraminya setiap pagi dan sore\nc.dia juga tidak lupa memberinya pupuk.\nd.tanaman nurul makin banyak dan tumbuh subur.\n6)Ikutilah ilmu padi,semakin berisi semakin....\nkata yang tepat untuk melengkapi ungkapan itu adalah...\na.tua\nb.merunduk\nc.berat\nd.<em>kuning<\/em> tua\n7)penulisan kalimat langsungvyang benar adalah...\na.  \"nama saya budi, pak!\"\nb.  \"ayahmu, ke sini, kemarin sore.\" kata ayah.\nc.  \"kemari,nak!\" panggil ayah.\nd.  \"<em>siapa<\/em> namamu nak?\" tanya ibu.\n8)kaka mengerjakan PR bahasah indonesia ayah pulang soreh hari\nkedua kalimat itu dapat digabungkan dengan kata hubung yang bermakna......\na.keterangan sebap\nb.keterangan waktu\nc.keterangan akibap\nd.keterangan syarat\n9)berikut ini yang merupakan salam pembuka surat adalah.....\na.hormat saya\nb.dengan hormat\nc.dengan surat ini\nd.solo, 10juni 2006\n10)penulisan sama gelar yang benar adalah.....\na.prof.dr.muladi s.h\nb.prof.dr .mauladi s.h\nc.prof.dr. mauladi s.h\nd.prof.dr. mauladi s.h\n11)merpaung bersedih karena nilai nulainya jelek.arti awalan ber- pada kata bersedih adalah...\na.dalam keadaan \nb.mempunyai\nc.berusaha\nd.memakai\n12)kata yang baku terdapat pada kalimat...\na.pardede naik bus kota setiap hari kesekolah.\nb.ayah membeli obat di apotek\nc.kwalitas hasil ujian tahun ini meningkat.\nd.pak guru memberi nasehat kepada murid muridnya.\n13)kalimat untuk poster yang kurang tepat adalah......\na.buanglah sampah di sekolah\nb.jangan membuang sembarangan\nc.jangalah kebersihan kebersihan pangkal kesehatan\nd.buanglah sampah di tempatsampah",
+                        "snippet_content": "a.petani miskin\nb.petani gurem\nc.petani gadungan\nd.buruh <em>tani<\/em>\n4)petani yang tidak mempunyai lahan disebut....\na.pemanfaatan tanah"
+                    },
+                    "responses": [
+                        {
+                            "id": 5501693,
+                            "user_id": 1766752,
+                            "task_id": 4655815,
+                            "points": 5,
+                            "created": "2015-12-11T21:03:12+07:00",
+                            "content": "1. b 2. a 3.gaktau 4.gakjelas 5.a 6.b 7.a 8.b 9.b 10.gatau 11.a 12.b 13.a\u00a0<br \/>maaf kalo ada yang salah._.",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 5,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1766752,
+                                "nick": "sitisafira",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 6963587,
+                        "subject_id": 18,
+                        "user_id": 3376670,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "kuring hayang ...tas siaga nu anto<br \/>",
+                        "created": "2016-08-24T18:40:45+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2016-08-24T21:49:23+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "<em>kuring<\/em> hayang ...<em>tas<\/em> <em>siaga<\/em> nu anto",
+                        "snippet_content": "<em>kuring<\/em> hayang ...<em>tas<\/em> <em>siaga<\/em> nu anto"
+                    },
+                    "responses": [
+                        {
+                            "id": 8261718,
+                            "user_id": 3497658,
+                            "task_id": 6963587,
+                            "points": 5,
+                            "created": "2016-08-24T21:49:23+07:00",
+                            "content": "Kuring hayang meuli tas siga nu anto",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3497658,
+                                "nick": "arifahfurqoniyyah",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d10\/e4c1b006859a8087cc489551ea5b2284.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 6965167,
+                        "subject_id": 13,
+                        "user_id": 1331582,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 99,
+                            "ptsForResp": 50,
+                            "ptsForBest": 25
+                        },
+                        "content": " Perang<br \/><br \/>\nAlah. Sekolah ki nggo apa. Ora ana gunane coba pikiren, sesuk yen lulus apa ya njur kepenak uripmu, entuk gawean, enthuk dhuwit akeh? Mbel ra mungkin. Kandhane Darson karo lambene menjab-menjeb. Jan-jane jenenge asli Darsana, nanging kanca-kancane ing dalan marabi Darson. Dhasar bocah rada mbejujag, dheweke seneng wae diceluk Darson.<br \/>\n       Mahendra krungu omonge Darson mung meneng, pojok batine sethitik ya ngakoni bener. Nanging kaya ana rasa kang kurang srek ing atine. Dheweke ora bisa kumecap. Dikrubung bocah-bocah mbejujag sing omongane pating creblung. Awake gemeter, Perang tandhing ing batine, ana karep nerusake sekolah. Nanging yen ngelingi kahanane wong tuwane atine mbenerke omongane Darson. Dheweke mesakake banget Simboke lan Bapake, wongtuwane sakloron mung buruh tani. Pametune ora mesthi. Kamangka kudu ngragati bocah loro MahIndra lan Adhine. Maharani sing saiki wis kelas enem SD.<br \/>\n       Meruhi Mahendra mung meneng. Darson seneng atine. Panganggep  omongane ditampa Mahendra. Dhewe mbacutke clathu. \u201dPiye Ndra, bener ta. Kandhaku? Luwih becik kowe nyambut gawe ngewangi wong tuwamu. Apa ora mesakake wong tuwamu? Wis saiki kowe melu aku. Nyambut gawe gampang bayare lumayan. Ya ora Pri?\u201d  Darson nyawang Jupri. Nom-noman kuru rambute brindhil, mbenerke. \u201dIya. Ndra, ora angel-angel dhuwit akeh. Santai. Wis melu wae\u201d. Mahendra saya judheg, pikire nglambrang. Katon gegambaran-gegambaran endah yen saumpama dheweke dhuwe dhuwit . Ah, penake, senenge.  <br \/>\n       Mahendra kaget nalika Darson nyablek pundhak karo celathu. \u201dWis dipikir-pikir sik. Aku dak cabut sik. Yo Pri, Son, Thik awake dhewe cabut sik.\u201d<br \/>\n       Bocah papat banjur nggeblas. Bonceng \u2013 boncengan sepedha motor, pancen bocah ora genep. Montor dibandhangake, gek ora nganggo helm, suwarane knalpot mbrebegi kuping.<br \/>\n       Wancine wayah isya\u2019, Mahendra isih melu sholat isya\u2019 ing mesjid cedhak omahe. Masjid lawas jaman keraton. Ana sing ngarani masjid pathok nagari. Sanajan wis tuwa nanging bangunane isih pengkuh. Bubar sholat dheweke lungguh dheleg-dheleg ing emperan masjid. Lendhetan jagak bedhug. Pikire isih bingung. Pepenginane sekolah lan omonge Darson perang rame. Genti-genten nguwasani angen-angene.<br \/>\n          \u201dAna apa Dhik kok sajak abot pikiranmu?\u201d Sasana njejeri lungguhe Mahendra. Mahendra ngingset lungguhe karo nyauri, \u201dLagi rada bingung Mas.\u201d Karo pawongan siji iki Mahendra ora wani ndhelikake rasane. Sasana Warastra ngono asmane jangkep. Gelare mburi Sarjana Pendidikan. Piyayine durung tuwa watara lagi telung puluhan wolu. Nanging sorot paningale mratandhan yen dadi wong sing mateng. Tangga teparone ngertine Mas Sasana ya mung guru ing sawijining SMP ing pereng gunung. Kegiyatan liyane ora akeh wong kang ngerti. Dheweke ora tau ngrembug bab kegiyatane. Sing diomongke ya kaya anut ombyake omongane wong-wong liyane, cekake dheweke ora tau mbukaki rembug nanging mung ngegongi, tur pas karo sing dikarepke, dadi akeh kang rumangsa seneng marang Mas Sasana. Mahendra dhewe ya ngono.<br \/>\n\u201dLho, malah ngalamun Dhik, wong sekolah kuwii pancen abot.\u201d Mahendra njenggelek. Rada gumun karo celathu. \u201dPanjenengan kok priksa Mas?\u201d Sasana mesem, \u201dKira-kira kok Dhik. Aku mbiyen ya kaya kowe. Nuwun sewu ya. Aku mung anake blandhong kayu, yen kahanan ekonomi ya ora beda karo wong tuwamu saiki.\u201d<br \/>\n\u201dLajeng panjenengan kok saged sarjana ngantos samenika dados guru Mas, cariyosipun kados pundi?\u201d<br \/>\n\u201dCritane dawa Dhik, ning cekake ngene, muga-muga bisa dadi tetimbangan pamikirmu. Sepisan ngene Dhik. Awake dhewe kudu yakin yen awake mbudidaya tenanan mesthi ana dalan. Wong Jawa biyen ngendika sapa teteken tekun mesthi bakal katekan. Kaping lorone Dhik. Sing kagungan rejeki iku Gusti Allah, yen awake dhewe nyuwun mesthi bakal diparingi. Ping telune kowe kuwi jejering anak, mula wajibe bekti marang wong tuwa, bisa mikul dhuwur mendhem jero. Wujude bektimu marang wong tuwa yaiku kowe sinau tenanan, sekolah tenanan saduwur-duwure aja nganti mandheg. Aja wedi bab ragad lan liya-liyane. Mengko mesthi ana dalane.<br \/>\nWis Dhik ngono cekake, nuwun sewu aku bali dhisik. Dipikir tenanan!\u201d Sasana banjur menyat ninggalke Mahendra.<br \/>\nMahendra gumun kok yen miturut ngendikane Mas Sasana katone ngadhepi urip kok gampang banget, Mahendra banjur melu manyat, pikire rada entheng nanging atine isih kepengin krungu crita lelakone Mas Sasana. Bengi saya peteng, mesjide sepi.<br \/><br \/>\nCarilah unsur intrinsik dan buktinya ",
+                        "created": "2016-08-24T19:09:47+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2016-08-24T19:18:21+07:00",
+                        "the_best_resp_id": "8254340",
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": " Perang\nAlah. Sekolah ki nggo apa. Ora ana gunane coba pikiren, sesuk yen lulus apa ya njur kepenak uripmu, entuk gawean, enthuk dhuwit akeh? Mbel ra mungkin. Kandhane Darson karo lambene menjab-menjeb. Jan-jane jenenge asli Darsana, nanging kanca-kancane ing dalan marabi Darson. Dhasar bocah rada mbejujag, dheweke seneng wae diceluk Darson.\n       Mahendra krungu omonge Darson mung meneng, pojok batine sethitik ya ngakoni bener. Nanging kaya ana rasa kang kurang srek ing atine. Dheweke ora bisa kumecap. Dikrubung bocah-bocah mbejujag sing omongane pating creblung. Awake gemeter, Perang tandhing ing batine, ana karep nerusake sekolah. Nanging yen ngelingi kahanane wong tuwane atine mbenerke omongane Darson. Dheweke mesakake banget Simboke lan Bapake, wongtuwane sakloron mung buruh <em>tani.<\/em> Pametune ora mesthi. Kamangka kudu ngragati bocah loro MahIndra lan Adhine. Maharani sing saiki wis kelas enem SD.\n       Meruhi Mahendra mung meneng. Darson seneng atine. Panganggep  omongane ditampa Mahendra. Dhewe mbacutke clathu. \u201dPiye Ndra, bener ta. Kandhaku? Luwih becik kowe nyambut gawe ngewangi wong tuwamu. Apa ora mesakake wong tuwamu? Wis saiki kowe melu aku. Nyambut gawe gampang bayare lumayan. Ya ora Pri?\u201d  Darson nyawang Jupri. Nom-noman kuru rambute brindhil, mbenerke. \u201dIya. Ndra, ora angel-angel dhuwit akeh. Santai. Wis melu wae\u201d. Mahendra saya judheg, pikire nglambrang. Katon gegambaran-gegambaran endah yen saumpama dheweke dhuwe dhuwit . Ah, penake, senenge.  \n       Mahendra kaget nalika Darson nyablek pundhak karo celathu. \u201dWis dipikir-pikir sik. Aku dak cabut sik. Yo Pri, Son, Thik awake dhewe cabut sik.\u201d\n       Bocah papat banjur nggeblas. Bonceng \u2013 boncengan sepedha motor, pancen bocah ora genep. Montor dibandhangake, gek ora nganggo helm, suwarane knalpot mbrebegi <em>kuping.<\/em>\n       Wancine wayah isya\u2019, Mahendra isih melu sholat isya\u2019 ing mesjid cedhak omahe. Masjid lawas jaman keraton. Ana sing ngarani masjid pathok nagari. Sanajan wis tuwa nanging bangunane isih pengkuh. Bubar sholat dheweke lungguh dheleg-dheleg ing emperan masjid. Lendhetan jagak bedhug. Pikire isih bingung. Pepenginane sekolah lan omonge Darson perang rame. Genti-genten nguwasani angen-angene.\n          \u201dAna apa Dhik kok sajak abot pikiranmu?\u201d Sasana njejeri lungguhe Mahendra. Mahendra ngingset lungguhe karo nyauri, \u201dLagi rada bingung Mas.\u201d Karo pawongan siji iki Mahendra ora wani ndhelikake rasane. Sasana Warastra ngono asmane jangkep. Gelare mburi Sarjana Pendidikan. Piyayine durung tuwa watara lagi telung puluhan wolu. Nanging sorot paningale mratandhan yen dadi wong sing mateng. Tangga teparone ngertine Mas Sasana ya mung guru ing sawijining SMP ing pereng gunung. Kegiyatan liyane ora akeh wong kang ngerti. Dheweke ora tau ngrembug bab kegiyatane. Sing diomongke ya kaya anut ombyake omongane wong-wong liyane, cekake dheweke ora tau mbukaki rembug nanging mung ngegongi, tur pas karo sing dikarepke, dadi akeh kang rumangsa seneng marang Mas Sasana. Mahendra dhewe ya ngono.\n\u201dLho, malah ngalamun Dhik, wong sekolah kuwii pancen abot.\u201d Mahendra njenggelek. Rada gumun karo celathu. \u201dPanjenengan kok priksa Mas?\u201d Sasana mesem, \u201dKira-kira kok Dhik. Aku mbiyen ya kaya kowe. Nuwun sewu ya. Aku mung anake blandhong kayu, yen kahanan ekonomi ya ora beda karo wong tuwamu saiki.\u201d\n\u201dLajeng panjenengan kok saged sarjana ngantos samenika dados guru Mas, cariyosipun kados pundi?\u201d\n\u201dCritane dawa Dhik, ning cekake ngene, muga-muga bisa dadi tetimbangan pamikirmu. Sepisan ngene Dhik. Awake dhewe kudu yakin yen awake mbudidaya tenanan mesthi ana dalan. Wong Jawa biyen ngendika <em>sapa<\/em> teteken tekun mesthi bakal katekan. Kaping lorone Dhik. Sing kagungan rejeki iku Gusti Allah, yen awake dhewe nyuwun mesthi bakal diparingi. Ping telune kowe kuwi jejering anak, mula wajibe bekti marang wong tuwa, bisa mikul dhuwur mendhem jero. Wujude bektimu marang wong tuwa yaiku kowe sinau tenanan, sekolah tenanan saduwur-duwure aja nganti mandheg. Aja wedi bab ragad lan liya-liyane. Mengko mesthi ana dalane.\nWis Dhik ngono cekake, nuwun sewu aku bali dhisik. Dipikir tenanan!\u201d Sasana banjur menyat ninggalke Mahendra.\nMahendra gumun kok yen miturut ngendikane Mas Sasana katone ngadhepi urip kok gampang banget, Mahendra banjur melu manyat, pikire rada entheng nanging atine isih kepengin krungu crita lelakone Mas Sasana. Bengi saya peteng, mesjide sepi.\nCarilah unsur intrinsik dan buktinya ",
+                        "snippet_content": "Darson. Dheweke mesakake banget Simboke lan Bapake, wongtuwane sakloron mung buruh <em>tani.<\/em> Pametune ora mesthi. Kamangka kudu ngragati bocah loro MahIndra lan"
+                    },
+                    "responses": [
+                        {
+                            "id": 8254340,
+                            "user_id": 744557,
+                            "task_id": 6965167,
+                            "points": 50,
+                            "created": "2016-08-24T19:18:21+07:00",
+                            "content": "a. tema : sekolah<br \/>b.\u00a0Tokoh dan Penokohan : darson, teman2 darson, mahendra,\u00a0Maharani,jupri, mas sasana<br \/>c.<span>c. Alur (Plot) : alur maju<br \/>d.<\/span><span>\u00a0Latar = dijalan<br \/>e.amanat :\u00a0<\/span>\u00a0Kita harus percaya bahwa kita berusaha untuk diingat selalu ada jalan",
+                            "mark": 5,
+                            "marks_count": 2,
+                            "thanks": 1,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 744557,
+                                "nick": "Denesaelca",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dd6\/679dba16f0e4a6a4fb06f02ae25a2035.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 10,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 427272,
+            "nick": "KyuShino",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 24,
+                "answers": 1,
+                "comments": 2
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d44\/54c4631752949405c4f77eeb8c059d2a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d00\/9310349339f690ca2d37131b94c1792d.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d44\/54c4631752949405c4f77eeb8c059d2a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d00\/9310349339f690ca2d37131b94c1792d.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4309126,
+            "nick": "darul9",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 8,
+                "answers": 11,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4309088,
+            "nick": "Amat1922",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 3,
+                "comments": 2
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4e\/8c74f3d51260be6d28c2078bd2db99c4.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da1\/adba1a08c2b271fdcc567b40c11bf149.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4e\/8c74f3d51260be6d28c2078bd2db99c4.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da1\/adba1a08c2b271fdcc567b40c11bf149.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4270472,
+            "nick": "Dzakiyyah27",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 23,
+                "answers": 53,
+                "comments": 30
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d3b\/6b33fde93b441b49462a7305d1c2bdc5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d65\/02b6e2a4eb79959c3fce380446426937.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d3b\/6b33fde93b441b49462a7305d1c2bdc5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d65\/02b6e2a4eb79959c3fce380446426937.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 4309094,
+            "nick": "yovitaoki",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 5,
+                "comments": 1
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1764550,
+            "nick": "Salsaalvinayah45",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 62,
+                "answers": 28,
+                "comments": 22
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d71\/616722e0c3d8b10c0c938b56cfa50f9a.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d58\/5e253d3de4c1f88ad8aebf64fc66ac85.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d71\/616722e0c3d8b10c0c938b56cfa50f9a.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d58\/5e253d3de4c1f88ad8aebf64fc66ac85.png"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 5038044,
+            "nick": "nyancat891",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 30,
+                "comments": 3
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc3\/7dac1e0a5a8383f49c1746ec6cef119c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d61\/360690fd0912514464915651b9ae4705.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc3\/7dac1e0a5a8383f49c1746ec6cef119c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d61\/360690fd0912514464915651b9ae4705.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4941471,
+            "nick": "dinaanggreini07",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 119,
+                "comments": 26
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df1\/ba9f560efed0e1054f27a590a399c2e8.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db7\/6dab1b808ba8f7168d21eacc1fba2fd9.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df1\/ba9f560efed0e1054f27a590a399c2e8.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db7\/6dab1b808ba8f7168d21eacc1fba2fd9.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 3229692,
+            "nick": "Yulia251",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 84,
+                "answers": 33,
+                "comments": 5
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de8\/4bdece8ddec6c825e0c234982b5f07a8.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dfb\/a6efa2c8f421eb50618d3ac3bf222eef.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de8\/4bdece8ddec6c825e0c234982b5f07a8.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dfb\/a6efa2c8f421eb50618d3ac3bf222eef.jpg"
+            },
+            "ranks": {
+                "color": "#000000",
+                "names": [],
+                "count": 0
+            },
+            "ranks_ids": null
+        },
+        {
+            "id": 4245687,
+            "nick": "CindyCarnia",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 133,
+                "comments": 33
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d2e\/09920ad8e397fe9dc5c7019f2f754118.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dfd\/de5f1c3eaee30de9af98d3cc75e654ff.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d2e\/09920ad8e397fe9dc5c7019f2f754118.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dfd\/de5f1c3eaee30de9af98d3cc75e654ff.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 623954,
+            "nick": "AdelS12",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 17,
+                "answers": 6,
+                "comments": 1
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 3348256,
+            "nick": "melisarumuy2",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 70,
+                "comments": 26
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d99\/9629dd903943198e844cd8f13c1cef49.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ddb\/589d130eb2e67b96dac22416cff3243e.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d99\/9629dd903943198e844cd8f13c1cef49.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ddb\/589d130eb2e67b96dac22416cff3243e.png"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 4740227,
+            "nick": "geyeson77",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4498006,
+            "nick": "virda04",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 10,
+                "answers": 79,
+                "comments": 21
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dad\/609af1298df1ad399458a17a79015321.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db4\/2debb437c36f04c93b833f578274d00d.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dad\/609af1298df1ad399458a17a79015321.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db4\/2debb437c36f04c93b833f578274d00d.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 4067639,
+            "nick": "nelaelfanda",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 47,
+                "answers": 1215,
+                "comments": 69
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9a\/886981f547498ae4387270f396f95800.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d3c\/5b93371a34c7bc5d1322dedb51405b57.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9a\/886981f547498ae4387270f396f95800.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d3c\/5b93371a34c7bc5d1322dedb51405b57.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        },
+        {
+            "id": 3875944,
+            "nick": "FathirAZ",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 3,
+                "comments": 3
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d14\/194110b46b5ef4b3038fb5c910407b38.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d13\/38f14585b43ff33b5ca3c0c90e9acd20.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d14\/194110b46b5ef4b3038fb5c910407b38.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d13\/38f14585b43ff33b5ca3c0c90e9acd20.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4998721,
+            "nick": "mxwotm8",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 1273,
+                "comments": 327
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dca\/ff2c3a75d4e38a1c5dd68f5a61a34bb4.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d46\/bae41b6d5fabe66c07dca3f3e1c85a4b.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dca\/ff2c3a75d4e38a1c5dd68f5a61a34bb4.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d46\/bae41b6d5fabe66c07dca3f3e1c85a4b.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Spam Fighter ",
+                    "ChineseLiterature-LuXun",
+                    "Entrepreneurship-JosephSchumpeter",
+                    "Apprentice",
+                    "Si Hebat"
+                ],
+                "count": 5
+            },
+            "ranks_ids": [
+                17,
+                114,
+                122,
+                20,
+                6
+            ]
+        },
+        {
+            "id": 2383779,
+            "nick": "putri1097",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 12,
+                "answers": 0,
+                "comments": 34
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d3a\/0e83fac28f716a3d77415bf670293d36.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd8\/2c4d25440136d8444d919eba8d6021d0.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d3a\/0e83fac28f716a3d77415bf670293d36.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd8\/2c4d25440136d8444d919eba8d6021d0.png"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 349549,
+            "nick": "Wildan321",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 10,
+                "answers": 207,
+                "comments": 101
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d40\/a7a440eb314670464662c0137cec58e5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d99\/8669c7d386c1a913b6e1c7c232f69bc0.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d40\/a7a440eb314670464662c0137cec58e5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d99\/8669c7d386c1a913b6e1c7c232f69bc0.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 1766752,
+            "nick": "sitisafira",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 1,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 3376670,
+            "nick": "fadly901",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 16,
+                "answers": 9,
+                "comments": 2
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 3497658,
+            "nick": "arifahfurqoniyyah",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 23,
+                "comments": 2
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de8\/d14e26d4958e386f4cb4755d3b093286.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d10\/e4c1b006859a8087cc489551ea5b2284.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de8\/d14e26d4958e386f4cb4755d3b093286.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d10\/e4c1b006859a8087cc489551ea5b2284.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 1331582,
+            "nick": "vianiratna",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 351,
+                "answers": 1071,
+                "comments": 220
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        },
+        {
+            "id": 744557,
+            "nick": "Denesaelca",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 389,
+                "comments": 149
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d08\/9ec08fe8a028282d53d0cf362890dbd9.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd6\/679dba16f0e4a6a4fb06f02ae25a2035.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d08\/9ec08fe8a028282d53d0cf362890dbd9.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd6\/679dba16f0e4a6a4fb06f02ae25a2035.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        }
+    ],
+    "validated": false
+}

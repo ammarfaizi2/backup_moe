@@ -1,0 +1,1412 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 10637016,
+                        "subject_id": 11,
+                        "user_id": 5034286,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 17,
+                            "ptsForResp": 9,
+                            "ptsForBest": 5
+                        },
+                        "content": "aku lagi mainin instagram terus tiba tiba disuruh masukin nomor telfon nah aku masukin aja terus katanya nanti ada verify code gt pas udh ada verify codenya aku tulis aja tapi salah udh berapa kali aku coba tetep salah padahal harusnya bener. aku coba nyuruh temen buat log in ig aku di hpnya tapi gabisa ke log in. sekarang aku mau bikin instagram baru juga tetep gabisa karena setiap aku masuk ke ig, layar nya langsung ke verify code gabisa di back. ada yang tau ga kira kira ini kenapa? dan gimana cara ngatasinnya?",
+                        "created": "2017-05-14T11:16:54+07:00",
+                        "responses": 2,
+                        "tickets": 3,
+                        "first_resp": "2017-05-14T11:18:29+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "2",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [
+                                {
+                                    "id": 7063943,
+                                    "user_id": 4790585,
+                                    "content": "buat akun ig lagi aja di hp lain yg kata sandi nya bda",
+                                    "created": "2017-05-14T11:19:40+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                }
+                            ],
+                            "last_id": 0,
+                            "count": 1
+                        },
+                        "highlighted_content": "aku lagi mainin instagram terus tiba tiba disuruh masukin nomor telfon nah aku masukin aja terus katanya nanti ada verify code gt pas udh ada verify codenya aku tulis aja tapi salah udh berapa kali aku coba tetep salah padahal harusnya bener. aku coba nyuruh temen buat log in ig aku di hpnya tapi gabisa ke log in. sekarang aku <em>mau<\/em> bikin instagram baru juga tetep gabisa karena setiap aku masuk ke ig, layar nya langsung ke verify code gabisa di <em>back.<\/em> ada yang tau <em>ga<\/em> kira kira ini kenapa? dan gimana cara ngatasinnya?",
+                        "snippet_content": "masuk ke ig, layar nya langsung ke verify code gabisa di <em>back.<\/em> ada yang tau <em>ga<\/em> kira kira ini kenapa? dan gimana"
+                    },
+                    "responses": [
+                        {
+                            "id": 12887137,
+                            "user_id": 5000522,
+                            "task_id": 10637016,
+                            "points": 9,
+                            "created": "2017-05-14T11:18:29+07:00",
+                            "content": "Kode Verifikasi nya lihat dulu di nomor telefon kmu baru stelah itu dmasukkan .",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 7063961,
+                                        "user_id": 5000522,
+                                        "content": "itu karnaa kmu terlalu lama memasukkan nya karna ada batasan waktunya",
+                                        "created": "2017-05-14T11:20:50+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 7063994,
+                                        "user_id": 5034286,
+                                        "content": "aku juga mau buat akun lagi tapi gabisa karna setiap masuk ke ig layarnya langsung ke verify code bukan yang log in atau buat akun baru",
+                                        "created": "2017-05-14T11:23:10+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 7064002,
+                                        "user_id": 5034286,
+                                        "content": "aku masukin codenya pas saat itu juga",
+                                        "created": "2017-05-14T11:23:40+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 7064009,
+                                        "user_id": 4790585,
+                                        "content": "ig kmu hpus dlu aj... nanti download lagi... bru bikin akun lgi..",
+                                        "created": "2017-05-14T11:24:01+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 7064012,
+                                        "user_id": 3887942,
+                                        "content": "coba ulang masukin no telponnya",
+                                        "created": "2017-05-14T11:24:15+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 7063961,
+                                "count": 7
+                            }
+                        },
+                        {
+                            "id": 12887145,
+                            "user_id": 3887942,
+                            "task_id": 10637016,
+                            "points": 9,
+                            "created": "2017-05-14T11:19:17+07:00",
+                            "content": "coba aja lagi masukin verify code nya,coba liat ladi angka verify code nya atau gak IG nya udah di hack ",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 7064011,
+                                        "user_id": 5034286,
+                                        "content": "iya aku jg mikirnya di hack, tapi kalo di hack harusnya kita bisa bikin aku baru dong tp layar ig aku selalu di verify code",
+                                        "created": "2017-05-14T11:24:10+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5000522,
+                                "nick": "N\u00e3fisKun",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d38\/ccd3b210cedca8ad78d359248e2a341a.jpg"
+                            },
+                            {
+                                "id": 3887942,
+                                "nick": "Dwaaswsw",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d24\/04c26a5d211e7412f93d12fca97c9cb9.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10636819,
+                        "subject_id": 11,
+                        "user_id": 5034286,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "aku lagi mainin instagram terus tiba tiba disuruh masukin nomor telfon nah aku masukin aja terus katanya nanti ada verify code gt pas udh ada verify codenya aku tulis aja tapi salah udh berapa kali aku coba tetep salah padahal harusnya bener. aku coba nyuruh temen buat log in ig aku di hpnya tapi gabisa ke log in. sekarang aku mau bikin instagram baru juga tetep gabisa karena setiap aku masuk ke ig, layar nya langsung ke verify code gabisa di back. ada yang tau ga kira kira ini kenapa? dan gimana cara ngatasinnya?",
+                        "created": "2017-05-14T10:59:10+07:00",
+                        "responses": 2,
+                        "tickets": 3,
+                        "first_resp": "2017-05-14T11:00:41+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "6",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "aku lagi mainin instagram terus tiba tiba disuruh masukin nomor telfon nah aku masukin aja terus katanya nanti ada verify code gt pas udh ada verify codenya aku tulis aja tapi salah udh berapa kali aku coba tetep salah padahal harusnya bener. aku coba nyuruh temen buat log in ig aku di hpnya tapi gabisa ke log in. sekarang aku <em>mau<\/em> bikin instagram baru juga tetep gabisa karena setiap aku masuk ke ig, layar nya langsung ke verify code gabisa di <em>back.<\/em> ada yang tau <em>ga<\/em> kira kira ini kenapa? dan gimana cara ngatasinnya?",
+                        "snippet_content": "masuk ke ig, layar nya langsung ke verify code gabisa di <em>back.<\/em> ada yang tau <em>ga<\/em> kira kira ini kenapa? dan gimana"
+                    },
+                    "responses": [
+                        {
+                            "id": 12886841,
+                            "user_id": 5034204,
+                            "task_id": 10636819,
+                            "points": 5,
+                            "created": "2017-05-14T11:00:41+07:00",
+                            "content": "apus ignya trus donlot lgi,coba log in\/sign in",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 7063752,
+                                        "user_id": 5034286,
+                                        "content": "udah dan tetep gabisa malah layarnya ke verify code lagi jadi aku gabisa log in atau bikin akun baru",
+                                        "created": "2017-05-14T11:01:13+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        },
+                        {
+                            "id": 12886852,
+                            "user_id": 3975577,
+                            "task_id": 10636819,
+                            "points": 5,
+                            "created": "2017-05-14T11:01:19+07:00",
+                            "content": "kasi tahu nomer tlpmu lalu tunggu sms dari ig selanjutnya masukkan code yang telah dikirim oleh ig di tempat yang tlah di sediakan<br \/><br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 7063764,
+                                        "user_id": 5034286,
+                                        "content": "sudah, code yang aku ketik selalu salah padahal aku udh nulis angka sama persis sama yang di smsin",
+                                        "created": "2017-05-14T11:02:08+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5034204,
+                                "nick": "DindaKeira1",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d84\/1d8825108f3d945e0a54a85cead8642b.jpg"
+                            },
+                            {
+                                "id": 3975577,
+                                "nick": "yodepama",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/ddb\/f45d8dd71213cbe758334e0699c4e35e.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10552601,
+                        "subject_id": 5,
+                        "user_id": 5003403,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "tolong ada yg bisa ringkas'in ini ga. soal ny buat hafalan<br \/><br \/><br \/>Once upon a time, above the sky, there was a celestial kingdom named Spectrapolis. It was led by King Horiz and Queen Ciela.<br \/>They were surrounded by seven fairies to help the people who lived on the earth of Spectrapolis. One of the fairies was Rose - the loving fairy.<br \/>Meanwhile, in a beautiful wooden house, lived a carpenter named Maurice with his daughter, Candice. She was only 8 years old.<br \/>\"Dad, next month is the Harvest-Moon Festival, shall we go there?\" asked Candice.<br \/>\"Please go by yourself. Yo can go with our neighbours. I'll give you money for it. Have fun!\" replied Maurice.<br \/>Candice was so sad and disappointed to hear the answer. Then she sit at the backyard. She stared at the moon. Suddenly, stardust surrounded her.<br \/>\"Hail Candice! Don't be afraid! My name is Rose, the loving fairy. Don't be so sad, my sweet little girl. I will grant your wish, Candice, because you're such a sweet little merry sunshine to me.\"  <br \/>\"Can I get my mom back, Fairy Rose?\"<br \/>\"It's not easy sweet heart. There are two terms that you fill,\" explained Rose.<br \/>\"Please mention your terms, fairy Rose.\"<br \/>\"Go aroud the strawberry tree near the abyss. There are three butterflies flying around. Catch them all. Put them in the jar glass. After your dad tells that he loves you, your mom is going to be back to you. And after you get your mom back, as the second term, open the glass jar and the three butterflies within, release them to the thin air. Well, may God speed, my lovely girl.\"<br \/>And then Rose disappeared in stardust.<br \/>That night, Maurice had a bad dream. Candice slipped into the abyss when she was going to catch butterflies near a strawberry tree.<br \/>\"Maurice, why did you let Candice fall into the abyss? You are not trying to help her!\" sobbed Berenice in his dream.<br \/>Maurice woke up in cold sweat. He still could hear his heartbeat. He was so grateful. It was just a nightmare. But it was still bothering him. Then Maurice went to the strawberry tree near the abyss, since he did not find Candice at home.<br \/>\"Help! Somebody. Fairy Rose?\" said Candice weakly and deeply scared.<br \/>No one answered, Candice felt so despaired. Suddelny, Maurice showed up. He shocked knowing about what happened to his daughter.<br \/>\"Candice, hold on!\" shouted Maurice.<br \/>\"Dad! Help me! I can't hold it any longer!\" screamed Candice.<br \/>Finally, Maurice lifted up her daughter.<br \/>\"Sweetheart, my daughter, I love you so much. What are you doing in here?\" asked Maurice.<br \/>Candice was still sobbing. They held each other, and then, the stardust came around them. Rose kept her words. She came with Berenice. Maurice didn't believe his eyes.<br \/>\"Berenice!\"<br \/>\"Mommy!\" screamed Candice and she ran to embrace her mother. They held each other. Candice still sobbed, but soon she remembered about Rose.<br \/>\"Fairy Rose, thank you!\"<br \/>\"Anytime, my sweet Candice. Now you got your mother back. Be a good girl. And don't forget there is one thing you must do. Farewell.\"<br \/>Rose disappeared in stardust.<br \/>Suddenly Candice remembered that there was something she had to do. She went inside her bedroom and took the glass of jar and three butterflies within. She opened the top of the glass jar very carefully, and three butterflies flew into the thin air.<br \/>Maurice and Berenice smiled to see their daughter's behavior though they didn't understand why.<br \/>King Horiz and Queen Ciela were glad to see what Rose had done.<br \/>\"Good work, Rose. We're both proud of you,\" said King Horiz.<br \/>\"Thank you for the compliment, my Lord. It is my job to spread love and compassion for the people who live in the earth of Spectrapolis.<br \/>\"From the sky, Rose watched Maurice, Berenice and Candice were having fun in the Harvest-moon Festival. A wide smile appeared in her face.",
+                        "created": "2017-05-07T18:28:19+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-05-07T18:40:11+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "tolong ada yg bisa ringkas'in ini <em>ga.<\/em> soal ny buat hafalanOnce upon a time, above the sky, there was a celestial kingdom named Spectrapolis. It was led by King Horiz and Queen Ciela.They were surrounded by seven fairies to help the people who lived on the earth of Spectrapolis. One of the fairies was Rose - the loving fairy.Meanwhile, in a beautiful wooden house, lived a carpenter named Maurice with his daughter, Candice. She was only 8 years old.\"Dad, next month is the Harvest-Moon Festival, shall we go there?\" asked Candice.\"Please go by yourself. Yo can go with our neighbours. I'll give you money for it. Have fun!\" replied Maurice.Candice was so sad and disappointed to hear the answer. Then she sit at the backyard. She stared at the moon. Suddenly, stardust surrounded her.\"Hail Candice! Don't be afraid! My name is Rose, the loving fairy. Don't be so sad, my sweet little girl. I will grant your wish, Candice, because you're such a sweet little merry sunshine to me.\"  \"Can I get my mom <em>back<\/em>, Fairy Rose?\"\"It's not easy sweet heart. There are two terms that you fill,\" explained Rose.\"Please mention your terms, fairy Rose.\"\"Go aroud the strawberry tree near the abyss. There are three butterflies flying around. Catch them all. Put them in the jar glass. After your dad tells that he loves you, your mom is going to be <em>back<\/em> to you. And after you get your mom <em>back<\/em>, as the second term, open the glass jar and the three butterflies within, release them to the thin air. Well, <em>may<\/em> God speed, my lovely girl.\"And then Rose disappeared in stardust.That night, Maurice had a bad dream. Candice slipped into the abyss when she was going to catch butterflies near a strawberry tree.\"Maurice, why did you let Candice fall into the abyss? You are not trying to help her!\" sobbed Berenice in his dream.Maurice woke up in cold sweat. He still could hear his heartbeat. He was so grateful. It was just a nightmare. But it was still bothering him. Then Maurice went to the strawberry tree near the abyss, since he did not find Candice at home.\"Help! Somebody. Fairy Rose?\" said Candice weakly and deeply scared.No one answered, Candice felt so despaired. Suddelny, Maurice showed up. He shocked knowing about what happened to his daughter.\"Candice, hold on!\" shouted Maurice.\"Dad! Help me! I can't hold it any longer!\" screamed Candice.Finally, Maurice lifted up her daughter.\"Sweetheart, my daughter, I love you so much. What are you doing in here?\" asked Maurice.Candice was still sobbing. They held each other, and then, the stardust came around them. Rose kept her words. She came with Berenice. Maurice didn't believe his eyes.\"Berenice!\"\"Mommy!\" screamed Candice and she ran to embrace her mother. They held each other. Candice still sobbed, but soon she remembered about Rose.\"Fairy Rose, thank you!\"\"Anytime, my sweet Candice. Now you got your mother <em>back.<\/em> Be a good girl. And don't forget there is one thing you must do. Farewell.\"Rose disappeared in stardust.Suddenly Candice remembered that there was something she had to do. She went inside her bedroom and took the glass of jar and three butterflies within. She opened the top of the glass jar very carefully, and three butterflies flew into the thin air.Maurice and Berenice smiled to see their daughter's behavior though they didn't understand why.King Horiz and Queen Ciela were glad to see what Rose had done.\"Good work, Rose. We're both proud of you,\" said King Horiz.\"Thank you for the compliment, my Lord. It is my job to spread love and compassion for the people who live in the earth of Spectrapolis.\"From the sky, Rose watched Maurice, Berenice and Candice were having fun in the Harvest-moon Festival. A wide smile appeared in her face.",
+                        "snippet_content": "tolong ada yg bisa ringkas'in ini <em>ga.<\/em> soal ny buat hafalanOnce upon a time, above the sky, there was a celestial"
+                    },
+                    "responses": [
+                        {
+                            "id": 12773410,
+                            "user_id": 4983605,
+                            "task_id": 10552601,
+                            "points": 5,
+                            "created": "2017-05-07T18:40:11+07:00",
+                            "content": "Once upon a time, above the sky, there was a celestial kingdom named Spectrapolis. It was led by King Horiz and Queen Ciela.\nThey were surrounded by seven fairies to help the people who lived on the earth of Spectrapolis. One of the fairies was Rose.\nMeanwhile, in wooden house, lived a carpenter named Maurice with his daughter, Candice.\n\"Dad, next month is the Harvest-Moon Festival, shall we go there?\" asked Candice.\n\"Please go by yourself. Have fun!\" replied Maurice.\nCandice was so sad. Then she sit at the backyard.Suddenly, stardust surrounded her.\n\"Hail Candice! Don't be afraid! My name is Rose, the loving fairy. Don't be so sad.\" \n\"Can I get my mom back, Fairy Rose?\"\n\"It's not easy sweet heart. There are two terms that you fill,\" explained Rose.\n\"Please mention your terms, fairy Rose.\"\n\"Go aroud the strawberry tree near the abyss. There are three butterflies flying around. Catch them all. Put them in the jar glass. After your dad tells that he loves you, your mom is going to be back to you. And after you get your mom back, as the second term, open the glass jar and the three butterflies within, release them to the thin air.\"\nThat night, Maurice had a bad dream. Candice slipped into the abyss.\nMaurice woke up in cold sweat. He still could hear his heartbeat. He was so grateful. It was just a nightmare. But it was still bothering him. Then Maurice went to the strawberry tree near the abyss, since he did not find Candice at home.\n\"Help! Somebody?\" said Candice weakly.\nNo one answered.Suddelny, Maurice showed up. He shocked knowing about what happened to his daughter.\n\"Candice, hold on!\" shouted Maurice.\n\"Dad! Help me! I can't hold it any longer!\" screamed Candice.\nFinally, Maurice lifted up her daughter.\n\"Sweetheart, my daughter, I love you so much. What are you doing in here?\" asked Maurice.\nThey held each other, and then, the stardust came around them. Rose kept her words. She came with Berenice. Maurice didn't believe his eyes.\n\"Berenice!\"\n\"Mommy!\" screamed Candice and she ran to embrace her mother. Candice still sobbed, but soon she remembered about Rose.\n\"Fairy Rose, thank you!\"\n\"Anytime, Candice. Now you got your mother back. And don't forget there is one thing you must do. Farewell.\"\nSuddenly Candice remembered that there was something she had to do. She went inside her bedroom and took the glass of jar. She opened the top of the glass jar very carefully, and three butterflies flew into the thin air.\nMaurice and Berenice smiled to see their daughter's behavior though they didn't understand why.\nKing Horiz and Queen Ciela were glad to see what Rose had done.\n\"Good work, Rose. We're both proud of you,\" said King Horiz.\n\"Thank you for the compliment, my Lord. It is my job\"\nFrom the sky, Rose watched Maurice, Berenice and Candice were having fun in the Harvest-moon Festival.",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "6",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 6993768,
+                                        "user_id": 5003403,
+                                        "content": "Bisa ga mb maaf kalo repotin",
+                                        "created": "2017-05-07T19:58:02+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 6993790,
+                                        "user_id": 5003403,
+                                        "content": "itu masih terlalu banyak.. kalo ga pake percakapan bisa ga.. d jadiin ny inti ny aja mb yg prcakapan",
+                                        "created": "2017-05-07T19:58:37+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 6995129,
+                                        "user_id": 4983605,
+                                        "content": "Kalo ga pake percakapan, harus di rewrite lagi, soalnya intinya juga ada di percakapannya, kalo harus selesai sekarang dan dihafalin agak susah kayaknya",
+                                        "created": "2017-05-07T20:42:13+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 6995560,
+                                        "user_id": 5003403,
+                                        "content": "Ga pp mb.. yg pnting inti ny aja. tanpa percakapan bisa ga mb",
+                                        "created": "2017-05-07T20:57:57+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 6995569,
+                                        "user_id": 5003403,
+                                        "content": "selesai ny bsok shh mb.. buat hr slasa soal ny",
+                                        "created": "2017-05-07T20:58:12+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 6993768,
+                                "count": 15
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4983605,
+                                "nick": "Dinamashita20",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/de7\/e95e867a70e58792a3f2013c0bbec27a.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 9351622,
+                        "subject_id": 19,
+                        "user_id": 280601,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "SELALU ADA UNTUKMU<br \/><br \/>Jam sudah menunjukkan pukul 07.30 namun Tommy baru saja datang ke sekolah. Tommy                 adalah siswa yang tercedas di kelasnya namun tetapi belakangan ini dia berubah drastis dari yang sopan, rajin, rendah hati dan sekarang telah berubah menjadi anak yang malas, sombong, dan sok  keren.<br \/><br \/>Tommy      : \u201cPagi pak Ivan\u2026.\u201d(mengetuk pintu kelas dan masuk)<br \/><br \/>Pak Ivan:\u201cDari mana saja kamu Tommy jam segini baru saja datang.\u2019\u2019<br \/><br \/>Tommy      : \u201cPak Ivan yang baik, ini baru pukul 07.30 jangan ngomel-ngomel ntar cepet tua                   pak\u2026\u201d(sambil melepas kacamata)<br \/><br \/>Pak Ivan    : \u201cTommy saya tidak bercanda.\u201d(menjewer Tommy)<br \/><br \/>Tommy      : \u201cSaya bercanda pak...\u201d(minta ampun)<br \/><br \/>Pak Ivan    : \u201cDuduk... !!!\u201d<br \/><br \/>Tommy      : \u201cIyya, pak\u201d(duduk ke bangkunya)<br \/><br \/>Pak Ivan    : \u201cAda pr anak-anak???\u201d<br \/><br \/>Tommy      : \u201cGak ada pak...\u201d<br \/><br \/>Adit           : \u201cAda pak...lks halaman 20\u201d<br \/><br \/>Tommy      : (kesal,marah). \u201cArgh..\u201d<br \/><br \/>Pak Ivan    : \u201cAyo keluarkan pr kalian!\u201d<br \/><br \/>Tommy      : (mengacungkan jari). \u201cMaaf pak gak ada,ketinggalan.\u201d<br \/><br \/>PakIvan     : \u201cTommy!!! (menggertak) Pagi-pagi sudah bikin saya marah,berdiri kamu didepan                  sekarang!!!\u201d<br \/><br \/>Tommy      : \u201cOke, pak...\u201d<br \/><br \/>Pak Ivan    : \u201cAnak-anak jangan tiru si Tommy,sudah telat tidak bawa pr lagi...\u201d<br \/><br \/>Tommy: (meledek gaya pak Ivan)(bel istirahat berbunyi...)<br \/><br \/>Pak Ivan    : \u201cAnak-anak pelajaran selesai sampai disini dulu. Tommy kamu berdiri disini sampai                 pulang.(keluar)\u201d<br \/><br \/>Nina          : \u201cBunga, sampai kapan ya Tommy bebuat nakal seperti ini.\u201d<br \/><br \/>Bunga: \u201cIya ya padahal kan dulu dia pintar,rajin,dan sopan.\u201d<br \/><br \/>Nina          : \u201cEh Dit coba deh kamu nasihatin Tommy.\u201d<br \/><br \/>Adit           : \u201cAku\u2026\u201d<br \/><br \/>Tommy: \u201cBagi makanannya dong...\u201d<br \/><br \/>Bunga: \u201cNih ada roti kamu mau ga??\u201d<br \/><br \/>Tommy: \u201c(menolak)Ada yang lebih ga enak nggak??\u201d<br \/><br \/>Nina:\u201cTom,kamu ga tau terima kasih yaa udah minta mana ngejek lagi..\u201d<br \/><br \/>Adit: \u201cIyya Tom, kamu sekarang berubah ga kaya dulu lagi yang pintar dan sopan.\u201d<br \/><br \/>Tommy      : \u201cNgapain kamu ikut campur, aku begini gara-gara iri sama kamu tau gak ha!\u201d<br \/><br \/>Bunga        : \u201cSudah-sudah, mending kamu keluar dulu Tom.\u201d<br \/><br \/>Tommy       : \u201cIya aku pergi, aku males sama kalian...\u201d(Pak Ivan tiba-tiba datang)<br \/><br \/>Pak Ivan    : \u201cEh eh eh kamu buat masalah lagi yaa...Tom ha!!!\u201d<br \/><br \/>Adit: \u201cEnggak pak,Tommy kan anak yang baik pak.\u201d<br \/><br \/>Tommy:\u201cTu kan pak....saya.\u201d(menepuk dada)<br \/><br \/>Pak Ivan:\u201cBapak sampai lupa  hari ini kalian pulang lebih awal karena guru dan karyawan ada           rapat.\u201d <br \/><br \/>Bunga,Adit,Nina:\u201cBeneran pak.\u201d<br \/><br \/>Pak Ivan:\u201cBenar,segera kemasi barang kalian dan pulang.\u201d<br \/><br \/>BungaAditNina:\u201cBaik pak.\u201d(keesokan harinya sesuatu terjadi pada Tommy)<br \/><br \/>Bunga:\u201cEh eh kenapa tuh si Tommy.\u201d<br \/><br \/>Nina:\u201ckalian belum tau ya berita ter up date.\u201d<br \/><br \/>Adit:\u201cemang kenapa?? Apa yang terjadi dengan Tommy?\u201d<br \/><br \/>Nina:\u201ckemarinkan rumah nya terbakar habis karena konsleting listrik\u201d<br \/><br \/>Bunga:\u201ckasihan ya dia,semalam dia tidur di mana sampai kumal seperti itu.\u201d<br \/><br \/>Ahmad:\u201corang seperti itu kamu kasihani,ga ada untung nya tau.\u201d<br \/><br \/>Bunga:\u201cgitu-gitu kan juga teman kita Mad.\u201d<br \/><br \/>Ahmad:\u201cah males temenan sama dia.\u201d<br \/><br \/>Adit:\u201csudah-sudah dari tadi ribut mulu kasiansi Tommy,kita temuidiasekarang.\u201d<br \/><br \/>Tommy:\u201cteman teman kenapa kalian menemui ku apa kalian mau menghinaku?\u201d<br \/><br \/>Bunga:\u201ctidak,bagaimana keadaanmu?\u201d<br \/><br \/>Tommy:\u201cAku baik-baik saja.\u201d<br \/><br \/>Bunga:\u201cTomkamu harus bersyukur karena kamu masih bisa selamat.\u201d<br \/><br \/>Ahmad:\u201cMakanya tau diri.\u201d<br \/><br \/>Adit:\u201cApa-apaan sih Ahmad jelek-jelek ginikan juga temen kita. Tom kami janji akan                             menolongmu\u201d<br \/><br \/>Bunga        : \u201cYa, kami janji akan menolongmu. Tapi dengan satu syarat, jangan lagi kamu mengulangi perbuatanmu ini.\u201d<br \/><br \/>Tommy:\u201cYa, aku janji tak akan mengulanginya lagi.\u201d<br \/><br \/>Bunga:\u201cjanji?\u201d(sambil berjabat tangan)<br \/><br \/>Tommy      : \u201cjanji.\u201d<br \/><br \/>Akhirnya mereka bersedia menolong Tommy dengan berkeliling mengumpulkan dana bagi Tommy   dan seketika itu juga Tommy berubah menjadi seperti dulu lagi yang selalu ceria, rajin, dan sopan.       ",
+                        "created": "2017-02-09T16:13:24+07:00",
+                        "responses": 1,
+                        "tickets": 3,
+                        "first_resp": "2017-02-09T16:19:38+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [
+                                {
+                                    "id": 6058265,
+                                    "user_id": 280601,
+                                    "content": "tolong buatkan sinopsis dri cerita tersebut..",
+                                    "created": "2017-02-09T16:15:41+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                }
+                            ],
+                            "last_id": 0,
+                            "count": 1
+                        },
+                        "highlighted_content": "SELALU ADA UNTUKMUJam sudah menunjukkan pukul 07.30 namun Tommy baru saja datang ke sekolah. Tommy                 adalah siswa yang tercedas di kelasnya namun tetapi belakangan ini dia berubah drastis dari yang sopan, rajin, rendah hati dan sekarang telah berubah menjadi anak yang malas, sombong, dan sok  keren.Tommy      : \u201cPagi pak Ivan\u2026.\u201d(mengetuk pintu kelas dan masuk)Pak Ivan:\u201cDari mana saja kamu Tommy jam segini baru saja datang.\u2019\u2019Tommy      : \u201cPak Ivan yang <em>baik<\/em>, ini baru pukul 07.30 jangan ngomel-ngomel ntar cepet tua                   pak\u2026\u201d(sambil melepas kacamata)Pak Ivan    : \u201cTommy saya tidak bercanda.\u201d(menjewer Tommy)Tommy      : \u201cSaya bercanda pak...\u201d(minta ampun)Pak Ivan    : \u201cDuduk... !!!\u201dTommy      : \u201cIyya, pak\u201d(duduk ke bangkunya)Pak Ivan    : \u201cAda pr anak-anak???\u201dTommy      : \u201cGak ada pak...\u201dAdit           : \u201cAda pak...lks halaman 20\u201dTommy      : (kesal,marah). \u201cArgh..\u201dPak Ivan    : \u201cAyo keluarkan pr kalian!\u201dTommy      : (mengacungkan jari). \u201cMaaf pak gak ada,ketinggalan.\u201dPakIvan     : \u201cTommy!!! (menggertak) Pagi-pagi sudah bikin saya marah,berdiri kamu didepan                  sekarang!!!\u201dTommy      : \u201cOke, pak...\u201dPak Ivan    : \u201cAnak-anak jangan tiru si Tommy,sudah telat tidak bawa pr lagi...\u201dTommy: (meledek gaya pak Ivan)(bel istirahat berbunyi...)Pak Ivan    : \u201cAnak-anak pelajaran selesai sampai disini dulu. Tommy kamu berdiri disini sampai                 pulang.(keluar)\u201dNina          : \u201cBunga, sampai kapan ya Tommy bebuat nakal seperti ini.\u201dBunga: \u201cIya ya padahal kan dulu dia pintar,rajin,dan sopan.\u201dNina          : \u201cEh Dit coba deh kamu nasihatin Tommy.\u201dAdit           : \u201cAku\u2026\u201dTommy: \u201cBagi makanannya dong...\u201dBunga: \u201cNih ada roti kamu mau <em>ga<\/em>??\u201dTommy: \u201c(menolak)Ada yang lebih <em>ga<\/em> enak nggak??\u201dNina:\u201cTom,kamu <em>ga<\/em> tau terima kasih yaa udah minta mana ngejek lagi..\u201dAdit: \u201cIyya Tom, kamu sekarang berubah <em>ga<\/em> kaya dulu lagi yang pintar dan sopan.\u201dTommy      : \u201cNgapain kamu ikut campur, aku begini gara-gara iri sama kamu tau gak ha!\u201dBunga        : \u201cSudah-sudah, mending kamu keluar dulu Tom.\u201dTommy       : \u201cIya aku pergi, aku males sama kalian...\u201d(Pak Ivan tiba-tiba datang)Pak Ivan    : \u201cEh eh eh kamu buat masalah lagi yaa...Tom ha!!!\u201dAdit: \u201cEnggak pak,Tommy kan anak yang <em>baik<\/em> pak.\u201dTommy:\u201cTu kan pak....saya.\u201d(menepuk dada)Pak Ivan:\u201cBapak sampai lupa  hari ini kalian pulang lebih awal karena guru dan karyawan ada           rapat.\u201d Bunga,Adit,Nina:\u201cBeneran pak.\u201dPak Ivan:\u201cBenar,segera kemasi barang kalian dan pulang.\u201dBungaAditNina:\u201c<em>Baik<\/em> pak.\u201d(keesokan harinya sesuatu terjadi pada Tommy)Bunga:\u201cEh eh kenapa tuh si Tommy.\u201dNina:\u201ckalian belum tau ya berita ter up date.\u201dAdit:\u201cemang kenapa?? Apa yang terjadi dengan Tommy?\u201dNina:\u201ckemarinkan rumah nya terbakar habis karena konsleting listrik\u201dBunga:\u201ckasihan ya dia,semalam dia tidur di mana sampai kumal seperti itu.\u201dAhmad:\u201corang seperti itu kamu kasihani,<em>ga<\/em> ada untung nya tau.\u201dBunga:\u201cgitu-gitu kan juga teman kita <em>Mad.<\/em>\u201dAhmad:\u201cah males temenan sama dia.\u201dAdit:\u201csudah-sudah dari tadi ribut mulu kasiansi Tommy,kita temuidiasekarang.\u201dTommy:\u201cteman teman kenapa kalian menemui ku apa kalian mau menghinaku?\u201dBunga:\u201ctidak,bagaimana keadaanmu?\u201dTommy:\u201cAku <em>baik<\/em>-<em>baik<\/em> saja.\u201dBunga:\u201cTomkamu harus bersyukur karena kamu masih bisa selamat.\u201dAhmad:\u201cMakanya tau diri.\u201dAdit:\u201cApa-apaan sih Ahmad jelek-jelek ginikan juga temen kita. Tom kami janji akan                             menolongmu\u201dBunga        : \u201cYa, kami janji akan menolongmu. Tapi dengan satu syarat, jangan lagi kamu mengulangi perbuatanmu ini.\u201dTommy:\u201cYa, aku janji tak akan mengulanginya lagi.\u201dBunga:\u201cjanji?\u201d(sambil berjabat tangan)Tommy      : \u201cjanji.\u201dAkhirnya mereka bersedia menolong Tommy dengan berkeliling mengumpulkan dana bagi Tommy   dan seketika itu juga Tommy berubah menjadi seperti dulu lagi yang selalu ceria, rajin, dan sopan.       ",
+                        "snippet_content": "Nih ada roti kamu mau <em>ga<\/em>??\u201dTommy: \u201c(menolak)Ada yang lebih <em>ga<\/em> enak nggak??\u201dNina:\u201cTom,kamu <em>ga<\/em> tau terima kasih yaa"
+                    },
+                    "responses": [
+                        {
+                            "id": 11174879,
+                            "user_id": 2428770,
+                            "task_id": 9351622,
+                            "points": 5,
+                            "created": "2017-02-09T16:19:38+07:00",
+                            "content": " iya bagus ceritanya mendidik menjadi lebih baik, cuman apa yang dipertanyakan dari teks tersebut?? ",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 6058380,
+                                        "user_id": 280601,
+                                        "content": "tolong buatkan sinopsis dri cerita tersebut",
+                                        "created": "2017-02-09T16:28:05+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2428770,
+                                "nick": "shalsa26",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/de4\/a9ce4c9cf50ac425b3b9eacf03288f7b.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 9362351,
+                        "subject_id": 1,
+                        "user_id": 280601,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "tolong buatkan sinopsis dari cerita tersebut!!!<br \/><br \/>SELALU ADA UNTUKMU<br \/><br \/>Jam sudah menunjukkan pukul 07.30 namun Tommy baru saja datang ke sekolah. Tommy                 adalah siswa yang tercedas di kelasnya namun tetapi belakangan ini dia berubah drastis dari yang         sopan, rajin, rendah hati dan sekarang telah berubah menjadi anak yang malas, sombong, dan sok  keren.<br \/><br \/>Tommy      : \u201cPagi pak Ivan\u2026.\u201d(mengetuk pintu kelas dan masuk)<br \/><br \/>Pak Ivan:\u201cDari mana saja kamu Tommy jam segini baru saja datang.\u2019\u2019<br \/><br \/>Tommy      : \u201cPak Ivan yang baik, ini baru pukul 07.30 jangan ngomel-ngomel ntar cepet tua                   pak\u2026\u201d(sambil melepas kacamata)<br \/><br \/>Pak Ivan    : \u201cTommy saya tidak bercanda.\u201d(menjewer Tommy)<br \/><br \/>Tommy      : \u201cSayabercanda pak...\u201d(minta ampun)<br \/><br \/>Pak Ivan    : \u201cDuduk... !!!<br \/>Tommy      : \u201cIyya, pak\u201d(duduk ke bangkunya)<br \/><br \/>Pak Ivan    : \u201cAda pr anak-anak???\u201d<br \/><br \/>Tommy      : \u201cGak ada pak...\u201d<br \/>Adit           : \u201cAda pak...lks halaman 20\u201d<br \/><br \/>Tommy      : (kesal,marah). \u201cArgh..\u201d<br \/><br \/>Pak Ivan    : \u201cAyo keluarkan pr kalian!\u201d<br \/><br \/>Tommy      : (mengacungkan jari). \u201cMaaf pak gak ada,ketinggalan.\u201d<br \/><br \/>Pak Ivan     : \u201cTommy!!! (menggertak) Pagi-pagi sudah bikin saya marah,berdiri kamu didepan                  sekarang!!!\u201d<br \/><br \/>Tommy      : \u201cOke, pak...\u201dPak Ivan    : \u201cAnak-anak jangan tiru si Tommy,sudah telat tidak bawa pr lagi...\u201d<br \/><br \/>Tommy: (meledek gaya pak Ivan)(bel istirahat berbunyi...)<br \/><br \/>Pak Ivan    : \u201cAnak-anak pelajaran selesai sampai disini dulu. Tommy kamu berdiri disini sampai                 pulang.(keluar)\u201d<br \/><br \/>Nina          : \u201cBunga, sampai kapan ya Tommy bebuat nakal seperti ini.\u201d<br \/><br \/>Bunga: \u201cIya ya padahal kan dulu dia pintar,rajin,dan sopan.\u201d<br \/><br \/>Nina          : \u201cEh Dit coba deh kamu nasihatin Tommy.\u201d<br \/><br \/>Adit           : \u201cAku\u2026\u201d<br \/>Tommy:\u201cBagi makanannya dong...\u201d<br \/><br \/>Bunga:\u201cNih adarotikamu mau ga??\u201d<br \/><br \/>Tommy:\u201c(menolak)Ada yang lebih ga enaknggak??\u201d<br \/><br \/>Nina:\u201cTom,kamu ga tau terima kasih yaa udah minta mana ngejek lagi..\u201d<br \/><br \/>Adit: \u201cIyya Tom, kamu sekarang berubah ga kaya dulu lagi yang pintar dan sopan.\u201d<br \/><br \/>Tommy      : \u201cNgapain kamu ikut campur, aku begini gara-gara iri sama kamu tau gak ha!\u201d<br \/><br \/>Bunga        : \u201cSudah-sudah, mending kamu keluar dulu Tom.\u201d<br \/><br \/>Tommy       : \u201cIya aku pergi, aku males sama kalian...\u201d(Pak Ivan tiba-tiba datang)<br \/><br \/>Pak Ivan    : \u201cEh ehehkamu buat masalah lagi yaa...Tom ha!!!\u201d<br \/><br \/>Adit:\u201cEnggak pak,Tommy kan anak yang baik pak.\u201d<br \/><br \/>Tommy:\u201cTu kan pak....saya.\u201d(menepuk dada)<br \/><br \/>Pak Ivan:\u201cBapak sampai lupa  hari ini kalian pulang lebih awal karena guru dan karyawan ada           rapat.\u201d<br \/><br \/>Bunga,Adit,Nina:\u201cBeneran pak.\u201d<br \/><br \/>Pak Ivan:\u201cBenar,segera kemasi barang kalian dan pulang.\u201d<br \/><br \/>Bunga,Adit,Nina:\u201cBaik pak.\u201d(keesokan harinya sesuatu terjadi pada Tommy)<br \/><br \/>Bunga:\u201cEh eh kenapa tuh siTommy.\u201d<br \/><br \/>Nina:\u201ckalian belum tau ya berita ter up date.\u201d<br \/><br \/>Adit:\u201cemang kenapa?? Apa yang terjadi dengan Tommy?\u201d<br \/><br \/>Nina:\u201ckemarinkan rumah nya terbakar habis karena konsleting listrik\u201d<br \/><br \/>Bunga:\u201ckasihan ya dia,semalam dia tidur di mana sampai kumal seperti itu.\u201d<br \/><br \/>Ahmad:\u201corang seperti itu kamu kasihani,ga ada untung nya tau.\u201d<br \/><br \/>Bunga:\u201cgitu-gitu kan juga teman kita Mad.<br \/><br \/>Ahmad:\u201cah males temenan sama dia.\u201d<br \/><br \/>Adit:\u201csudah-sudah dari tadi ribut mulu kasian si Tommy,kita temui dia sekarang.\u201d<br \/><br \/>Tommy:\u201cteman teman kenapa kalian menemui ku apa kalian mau menghinaku?\u201d<br \/><br \/>Bunga:\u201ctidak,bagaimana keadaanmu?\u201d<br \/><br \/>Tommy:\u201cAku baik-baik saja.\u201d<br \/><br \/>Bunga:\u201cTom kamu harus bersyukur karena kamu masih bisa selamat.\u201d<br \/><br \/>Ahmad:\u201cMakanya tau diri.\u201d<br \/><br \/>Adit:\u201cApa-apaan sih Ahmad jelek-jelek ginikan juga temen kita. Tom kami janji akan                             menolongmu\u201d<br \/><br \/>Bunga        : \u201cYa, kami janji akan menolongmu. Tapi dengan satu syarat, jangan lagi kamu mengulangi perbuatanmu ini.\u201d<br \/><br \/>Tommy:\u201cYa, aku janji tak akan mengulanginya lagi.\u201d<br \/><br \/>Bunga:\u201cjanji?\u201d(sambil berjabat tangan)<br \/><br \/>Tommy      : \u201cjanji.\u201d<br \/><br \/>Akhirnya mereka bersedia menolong Tommy dengan berkeliling mengumpulkan dana bagi Tommy   dan seketika itu juga Tommy berubah menjadi seperti dulu lagi yang selalu ceria, rajin, dan sopan.",
+                        "created": "2017-02-10T09:57:21+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-02-10T10:18:11+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "tolong buatkan sinopsis dari cerita tersebut!!!SELALU ADA UNTUKMUJam sudah menunjukkan pukul 07.30 namun Tommy baru saja datang ke sekolah. Tommy                 adalah siswa yang tercedas di kelasnya namun tetapi belakangan ini dia berubah drastis dari yang         sopan, rajin, rendah hati dan sekarang telah berubah menjadi anak yang malas, sombong, dan sok  keren.Tommy      : \u201cPagi pak Ivan\u2026.\u201d(mengetuk pintu kelas dan masuk)Pak Ivan:\u201cDari mana saja kamu Tommy jam segini baru saja datang.\u2019\u2019Tommy      : \u201cPak Ivan yang <em>baik<\/em>, ini baru pukul 07.30 jangan ngomel-ngomel ntar cepet tua                   pak\u2026\u201d(sambil melepas kacamata)Pak Ivan    : \u201cTommy saya tidak bercanda.\u201d(menjewer Tommy)Tommy      : \u201cSayabercanda pak...\u201d(minta ampun)Pak Ivan    : \u201cDuduk... !!!Tommy      : \u201cIyya, pak\u201d(duduk ke bangkunya)Pak Ivan    : \u201cAda pr anak-anak???\u201dTommy      : \u201cGak ada pak...\u201dAdit           : \u201cAda pak...lks halaman 20\u201dTommy      : (kesal,marah). \u201cArgh..\u201dPak Ivan    : \u201cAyo keluarkan pr kalian!\u201dTommy      : (mengacungkan jari). \u201cMaaf pak gak ada,ketinggalan.\u201dPak Ivan     : \u201cTommy!!! (menggertak) Pagi-pagi sudah bikin saya marah,berdiri kamu didepan                  sekarang!!!\u201dTommy      : \u201cOke, pak...\u201dPak Ivan    : \u201cAnak-anak jangan tiru si Tommy,sudah telat tidak bawa pr lagi...\u201dTommy: (meledek gaya pak Ivan)(bel istirahat berbunyi...)Pak Ivan    : \u201cAnak-anak pelajaran selesai sampai disini dulu. Tommy kamu berdiri disini sampai                 pulang.(keluar)\u201dNina          : \u201cBunga, sampai kapan ya Tommy bebuat nakal seperti ini.\u201dBunga: \u201cIya ya padahal kan dulu dia pintar,rajin,dan sopan.\u201dNina          : \u201cEh Dit coba deh kamu nasihatin Tommy.\u201dAdit           : \u201cAku\u2026\u201dTommy:\u201cBagi makanannya dong...\u201dBunga:\u201cNih adarotikamu mau <em>ga<\/em>??\u201dTommy:\u201c(menolak)Ada yang lebih <em>ga<\/em> enaknggak??\u201dNina:\u201cTom,kamu <em>ga<\/em> tau terima kasih yaa udah minta mana ngejek lagi..\u201dAdit: \u201cIyya Tom, kamu sekarang berubah <em>ga<\/em> kaya dulu lagi yang pintar dan sopan.\u201dTommy      : \u201cNgapain kamu ikut campur, aku begini gara-gara iri sama kamu tau gak ha!\u201dBunga        : \u201cSudah-sudah, mending kamu keluar dulu Tom.\u201dTommy       : \u201cIya aku pergi, aku males sama kalian...\u201d(Pak Ivan tiba-tiba datang)Pak Ivan    : \u201cEh ehehkamu buat masalah lagi yaa...Tom ha!!!\u201dAdit:\u201cEnggak pak,Tommy kan anak yang <em>baik<\/em> pak.\u201dTommy:\u201cTu kan pak....saya.\u201d(menepuk dada)Pak Ivan:\u201cBapak sampai lupa  hari ini kalian pulang lebih awal karena guru dan karyawan ada           rapat.\u201dBunga,Adit,Nina:\u201cBeneran pak.\u201dPak Ivan:\u201cBenar,segera kemasi barang kalian dan pulang.\u201dBunga,Adit,Nina:\u201c<em>Baik<\/em> pak.\u201d(keesokan harinya sesuatu terjadi pada Tommy)Bunga:\u201cEh eh kenapa tuh siTommy.\u201dNina:\u201ckalian belum tau ya berita ter up date.\u201dAdit:\u201cemang kenapa?? Apa yang terjadi dengan Tommy?\u201dNina:\u201ckemarinkan rumah nya terbakar habis karena konsleting listrik\u201dBunga:\u201ckasihan ya dia,semalam dia tidur di mana sampai kumal seperti itu.\u201dAhmad:\u201corang seperti itu kamu kasihani,<em>ga<\/em> ada untung nya tau.\u201dBunga:\u201cgitu-gitu kan juga teman kita <em>Mad<\/em>.Ahmad:\u201cah males temenan sama dia.\u201dAdit:\u201csudah-sudah dari tadi ribut mulu kasian si Tommy,kita temui dia sekarang.\u201dTommy:\u201cteman teman kenapa kalian menemui ku apa kalian mau menghinaku?\u201dBunga:\u201ctidak,bagaimana keadaanmu?\u201dTommy:\u201cAku <em>baik<\/em>-<em>baik<\/em> saja.\u201dBunga:\u201cTom kamu harus bersyukur karena kamu masih bisa selamat.\u201dAhmad:\u201cMakanya tau diri.\u201dAdit:\u201cApa-apaan sih Ahmad jelek-jelek ginikan juga temen kita. Tom kami janji akan                             menolongmu\u201dBunga        : \u201cYa, kami janji akan menolongmu. Tapi dengan satu syarat, jangan lagi kamu mengulangi perbuatanmu ini.\u201dTommy:\u201cYa, aku janji tak akan mengulanginya lagi.\u201dBunga:\u201cjanji?\u201d(sambil berjabat tangan)Tommy      : \u201cjanji.\u201dAkhirnya mereka bersedia menolong Tommy dengan berkeliling mengumpulkan dana bagi Tommy   dan seketika itu juga Tommy berubah menjadi seperti dulu lagi yang selalu ceria, rajin, dan sopan.",
+                        "snippet_content": "dong...\u201dBunga:\u201cNih adarotikamu mau <em>ga<\/em>??\u201dTommy:\u201c(menolak)Ada yang lebih <em>ga<\/em> enaknggak??\u201dNina:\u201cTom,kamu <em>ga<\/em> tau terima kasih yaa udah"
+                    },
+                    "responses": [
+                        {
+                            "id": 11188805,
+                            "user_id": 4525508,
+                            "task_id": 9362351,
+                            "points": 5,
+                            "created": "2017-02-10T10:18:11+07:00",
+                            "content": "maaf bila ada kesalahan sinopsis dari cerita tersebut adalah tommy yg dulu nakal malas sekarang tlah menjadi ceria rajin dan sopan",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4525508,
+                                "nick": "DiandraRaihandra261",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d6a\/b48656ad17157aa61e79e5fe0cf704d2.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10586434,
+                        "subject_id": 19,
+                        "user_id": 5014813,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Gw awalnya nganggap dia biasa aja, cuman gw ngerasa gw nyambung ngobrol sama dia. Dan gw ngerasa dia juga mulai agak nyaman sama gw. dia suka ngasih perhatian walaupun hal hal kecil yg gw lihat dia gak pernah ngelakuin hal itu sama\" temen sekelas gw yg lain. Gw gak terlalu dekat sama dia cuma sekedar sebatas teman satu kelas, bahkan gw gak tau sosmed ataupun nomernya yg ngebuat gw lebih kenal lagi sama dia. Yg gw tau dia punya mantan dikelas mereka pacaran sebelum gw pindah (gw anak pindahan) walaupun gw ga ngeliat secara langsung tapi gw sadar kalo dia sering merhatiin gw, dan pas gw ngeliat balik dia langsung pura\" gak tau dan ngebuang muka sebelum gw ngeliat kearah dia. Kita jarang punya kesempatan buat deket atau ngobrol bareng karna dia bangkunya paling belakang dan gw balin depan. pernah sekali gw satu kelompok sama dia, dia nanya orang tua gw, rumah gw dimana dll. Bahkan sampe ngegombal gombal yg gw dan anak\" sekelas yg lain tau dia anaknya pendiam. Dan waktu itu kita satu kelompok 5 orang dia cowok sendirian dan dari 4 cewek disitu cuma gw doang yg ditanya\". Gw mulai ngerasa kalo dia beda dari anak yg lain dikelas dan gw mulai ada rasa suka. Cuma temen\" gw bilang kalo dia gak baik. Pertama karna mantan dia yg dikelas masih belum move on yg kapan aja bisa ngelabrak gw kalo gw dekat sama cowok ini gw malas cari masalah.Kedua yg gw tau dia make narkoba yaa karna salah pergaulan dan gw nyakin dia cuma korban karna dia sebenarnya anaknya baik banget gak banyak tingkah kayak anak\" cowok yg lain di kls yg kebanyakan childish. Karna hal itu gw mulai ngejaga jarak walau kadang jujur gw suka kangen. dan gw ngerasa dia juga mulai agak menjauh. Gw juga gak tau alasannya apa, apa karna gw yg terlalu menutup diri? Karna biasanya kalo gw suka sama seseorang gua jadi kayak ngecuekin orang itu.dan menurut kalian sebenarnya dia suka gak sih sama gw? Gw bingung, gw mau dia yg bertidak duluan kalo memang ia dia suka. Atau cuma gw yg salah mengartikan semuanya? pendapat kalian?",
+                        "created": "2017-05-09T19:13:27+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2017-05-09T19:35:27+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "6",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Gw awalnya nganggap dia biasa aja, cuman gw ngerasa gw nyambung ngobrol sama dia. Dan gw ngerasa dia juga mulai agak nyaman sama gw. dia suka ngasih perhatian walaupun hal hal kecil yg gw lihat dia gak pernah ngelakuin hal itu sama\" temen sekelas gw yg lain. Gw gak terlalu dekat sama dia cuma sekedar sebatas teman satu kelas, bahkan gw gak tau sosmed ataupun nomernya yg ngebuat gw lebih kenal lagi sama dia. Yg gw tau dia punya mantan dikelas mereka pacaran sebelum gw pindah (gw anak pindahan) walaupun gw <em>ga<\/em> ngeliat secara langsung tapi gw sadar kalo dia sering merhatiin gw, dan pas gw ngeliat balik dia langsung pura\" gak tau dan ngebuang muka sebelum gw ngeliat kearah dia. Kita jarang punya kesempatan buat deket atau ngobrol bareng karna dia bangkunya paling belakang dan gw balin depan. pernah sekali gw satu kelompok sama dia, dia nanya orang tua gw, rumah gw dimana dll. Bahkan sampe ngegombal gombal yg gw dan anak\" sekelas yg lain tau dia anaknya pendiam. Dan waktu itu kita satu kelompok 5 orang dia cowok sendirian dan dari 4 cewek disitu cuma gw doang yg ditanya\". Gw mulai ngerasa kalo dia beda dari anak yg lain dikelas dan gw mulai ada rasa suka. Cuma temen\" gw bilang kalo dia gak <em>baik.<\/em> Pertama karna mantan dia yg dikelas masih belum move on yg kapan aja bisa ngelabrak gw kalo gw dekat sama cowok ini gw malas cari masalah.Kedua yg gw tau dia make narkoba yaa karna salah pergaulan dan gw nyakin dia cuma korban karna dia sebenarnya anaknya <em>baik<\/em> banget gak banyak tingkah kayak anak\" cowok yg lain di kls yg kebanyakan childish. Karna hal itu gw mulai ngejaga jarak walau kadang jujur gw suka kangen. dan gw ngerasa dia juga mulai agak menjauh. Gw juga gak tau alasannya apa, apa karna gw yg terlalu menutup diri? Karna biasanya kalo gw suka sama seseorang gua jadi kayak ngecuekin orang itu.dan menurut kalian sebenarnya dia suka gak sih sama gw? Gw bingung, gw <em>mau<\/em> dia yg bertidak duluan kalo memang ia dia suka. Atau cuma gw yg salah mengartikan semuanya? pendapat kalian?",
+                        "snippet_content": "mulai ada rasa suka. Cuma temen\" gw bilang kalo dia gak <em>baik.<\/em> Pertama karna mantan dia yg dikelas masih belum move on"
+                    },
+                    "responses": [
+                        {
+                            "id": 12816363,
+                            "user_id": 5014663,
+                            "task_id": 10586434,
+                            "points": 5,
+                            "created": "2017-05-09T19:35:27+07:00",
+                            "content": "anda kurang aqua. hidup ini mudah. caramu menjalani yang membuatnya menjadi susah. hidup ini sederhana. caramu berfikir yang membuatnya menjadi rumit. hidup ini murah. gengsimu yang membuatnya menjadi mahal<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 12821348,
+                            "user_id": 5004927,
+                            "task_id": 10586434,
+                            "points": 5,
+                            "created": "2017-05-09T21:43:18+07:00",
+                            "content": "Berdoa aja Kak jodoh itu memang udh ada yang ngatur dan kak tolong jangan suka sama orang itu soalnya takutnya mantannya itu ngelabrak kk aku pernah ngalahin hal kyk gitu dan akhirnya aku bisa move on dan yerbebas dari labrak labrak kan itu.<br \/><br \/>Pendapat aku sih kyk gitu KK makasih",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "6",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5014663,
+                                "nick": "cahyagenji",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/db6\/9dcbbb450116966cdca71c8d427abd96.jpg"
+                            },
+                            {
+                                "id": 5004927,
+                                "nick": "Maylindabimo",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 9049535,
+                        "subject_id": 2,
+                        "user_id": 234523,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "kak please bantu..pakai cara yang lengkap ya..besok dikumpul<br \/><br \/>\n1.dari panen yang lalu pak zaki mendapatkan 7,25 ton beras dan 1 1\/2 ton kedelai karena keterbatasan alat transportasi hanya 40% dari hasil panen itu yang mampu diangkut ke pasar dalam waktu seminggu.artinya, tiap minggu banyak hasil panen yang dapat diangkut adalah...<br \/><br \/><br \/>\n2.berbeda dengan panda dewasayang dapat memiliki berat badan hingga 120 kg.berat badan anak panda yang baru lahir hanya sekitar 0,2 kg saja.artinya,skala berat badan bayi panda terhadap panda dewasa adalah...<br \/><br \/><br \/>\n3.nina nyapu lantai dalam waktu 15 menit.kemudian,ia mengepel lantai selama setengah jam nina mencuci dan menjemur baju dalam waktu 1 1\/4 jam. total waktu yang digunakan nina untuk melakukan kegiatan kegiatan itu adalah...<br \/><br \/><br \/>\n4.bu lani memiliki minyak wangi dalam 3 botol yang masing masing bervolume 80 ml, 125 cc, dan 200 cm3(pangkat).volume total minyak wangi bu lani adalah...<br \/><br \/><br \/>\n5.debit air yang mengalir dari keran ke bak air adalah 8 liter per meit.untuk mengisi bak air dari kosong hingga penuh dibutuhkan waktu 1 jam 15 menit.artinya,volume bak air tersebut adalah...<br \/><br \/><br \/>\nkak tolong bantu aku ga ngerti kak:'(pakai jalan ya kak please ini mah kak..<br \/>",
+                        "created": "2017-01-18T20:05:17+07:00",
+                        "responses": 1,
+                        "tickets": 5,
+                        "first_resp": "2017-01-19T21:13:51+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "kak please bantu..pakai cara yang lengkap ya..besok dikumpul\n1.dari panen yang lalu pak zaki mendapatkan 7,25 ton beras dan 1 1\/2 ton kedelai karena keterbatasan alat transportasi hanya 40% dari hasil panen itu yang mampu diangkut ke pasar dalam waktu seminggu.artinya, tiap minggu banyak hasil panen yang dapat diangkut adalah...\n2.berbeda dengan panda dewasayang dapat memiliki berat badan hingga 120 kg.berat badan anak panda yang baru lahir hanya sekitar 0,2 kg saja.artinya,skala berat badan bayi panda terhadap panda dewasa adalah...\n3.nina nyapu lantai dalam waktu 15 menit.kemudian,ia mengepel lantai selama setengah jam nina mencuci dan menjemur baju dalam waktu 1 1\/4 jam. total waktu yang digunakan nina untuk melakukan kegiatan kegiatan itu adalah...\n4.bu lani memiliki minyak wangi dalam 3 botol yang masing masing bervolume 80 ml, 125 cc, dan 200 cm3(pangkat).volume total minyak wangi bu lani adalah...\n5.debit air yang mengalir dari keran ke <em>bak<\/em> air adalah 8 liter per meit.untuk mengisi <em>bak<\/em> air dari kosong hingga penuh dibutuhkan waktu 1 jam 15 menit.artinya,volume <em>bak<\/em> air tersebut adalah...\nkak tolong bantu aku <em>ga<\/em> ngerti kak:'(pakai jalan ya kak please ini <em>mah<\/em> kak..",
+                        "snippet_content": "menit.artinya,volume <em>bak<\/em> air tersebut adalah...\nkak tolong bantu aku <em>ga<\/em> ngerti kak:'(pakai jalan ya kak please ini <em>mah<\/em> kak.."
+                    },
+                    "responses": [
+                        {
+                            "id": 10838509,
+                            "user_id": 3729413,
+                            "task_id": 9049535,
+                            "points": 5,
+                            "created": "2017-01-19T21:13:51+07:00",
+                            "content": "1. 7,25T + 1.5T =8,75T \u00d7 40% atau 40\/100 (0,4) =  atau = 0.875T\u00d74=3,5T jadi tiap minggu yg bisa diangkut ke pasar adalah 3,5Ton<br \/>2. Skala berat panda dewasa dengan bayi panda adalah 0,2:120 atau 2:1200 atau 1:600 (1kg banding 600kg)<br \/>3. Total waktu yang digunakan nina adalah 2jam, dgn rincian sbb: 15menit =1\/4jam + 1\/2jam + 1 1\/4jam atau lebih mudah di desimalkan (0,25+0,5+1,25)jam = 2jam<br \/>4. dan 5 berlanjut besok ya...",
+                            "mark": 4,
+                            "marks_count": 1,
+                            "thanks": 3,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3729413,
+                                "nick": "hafidz102",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dce\/f48cbd45abaa1e70c774d75c0ea7f8cc.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 7,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 5034286,
+            "nick": "jeniffervndr",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 1,
+                "comments": 6
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d70\/6477bd5bc868f0fc401d090dee9e81f5.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d1e\/fb31cd222f369eab3fd73ee43e200999.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d70\/6477bd5bc868f0fc401d090dee9e81f5.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d1e\/fb31cd222f369eab3fd73ee43e200999.png"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4790585,
+            "nick": "Sintadwi02",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 10,
+                "answers": 304,
+                "comments": 166
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d1f\/6da1645182ec0ff300bce7df5ac9382f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d9a\/39d9a2bf76390aa11f2530521979ebf9.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d1f\/6da1645182ec0ff300bce7df5ac9382f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d9a\/39d9a2bf76390aa11f2530521979ebf9.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 3887942,
+            "nick": "Dwaaswsw",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 71,
+                "answers": 317,
+                "comments": 179
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da7\/0f8afba82a6aa788c8ac53c163dffb7a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d24\/04c26a5d211e7412f93d12fca97c9cb9.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da7\/0f8afba82a6aa788c8ac53c163dffb7a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d24\/04c26a5d211e7412f93d12fca97c9cb9.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 5000522,
+            "nick": "N\u00e3fisKun",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 34,
+                "answers": 187,
+                "comments": 57
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d96\/c6996fa4198396fb0b231c0f9d1dd19c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d38\/ccd3b210cedca8ad78d359248e2a341a.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d96\/c6996fa4198396fb0b231c0f9d1dd19c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d38\/ccd3b210cedca8ad78d359248e2a341a.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 5034204,
+            "nick": "DindaKeira1",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 1,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d06\/67f0d9222a0e667198c96dcfec1f6093.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d84\/1d8825108f3d945e0a54a85cead8642b.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d06\/67f0d9222a0e667198c96dcfec1f6093.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d84\/1d8825108f3d945e0a54a85cead8642b.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 3975577,
+            "nick": "yodepama",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 29,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da6\/a6da1eeed8013697ce161a206e559423.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ddb\/f45d8dd71213cbe758334e0699c4e35e.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da6\/a6da1eeed8013697ce161a206e559423.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ddb\/f45d8dd71213cbe758334e0699c4e35e.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 5003403,
+            "nick": "dzul9",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 11,
+                "answers": 1,
+                "comments": 16
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4983605,
+            "nick": "Dinamashita20",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 14,
+                "answers": 58,
+                "comments": 28
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dde\/ff7d4a1565c77ef743ae67bfe60e7d50.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de7\/e95e867a70e58792a3f2013c0bbec27a.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dde\/ff7d4a1565c77ef743ae67bfe60e7d50.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de7\/e95e867a70e58792a3f2013c0bbec27a.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 280601,
+            "nick": "deklin",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 35,
+                "answers": 4,
+                "comments": 13
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d39\/72632a1d88af5975fe20282333b51f00.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da0\/1eca5c30c96cf04caf4dfd072fcfa0e0.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d39\/72632a1d88af5975fe20282333b51f00.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da0\/1eca5c30c96cf04caf4dfd072fcfa0e0.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 2428770,
+            "nick": "shalsa26",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 54,
+                "answers": 930,
+                "comments": 139
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/def\/340e400348451f1424f3cef95fdc8c4b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de4\/a9ce4c9cf50ac425b3b9eacf03288f7b.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/def\/340e400348451f1424f3cef95fdc8c4b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de4\/a9ce4c9cf50ac425b3b9eacf03288f7b.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        },
+        {
+            "id": 4525508,
+            "nick": "DiandraRaihandra261",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 6,
+                "answers": 9,
+                "comments": 23
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d06\/2b103ff74c341640cda506e74566da03.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6a\/b48656ad17157aa61e79e5fe0cf704d2.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d06\/2b103ff74c341640cda506e74566da03.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6a\/b48656ad17157aa61e79e5fe0cf704d2.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 5014813,
+            "nick": "Yurikoangelina",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4f\/45d4f61841067ff47f00598d7194a8e4.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d28\/6ab22b2054dc489faf6e0b503829d2b4.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4f\/45d4f61841067ff47f00598d7194a8e4.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d28\/6ab22b2054dc489faf6e0b503829d2b4.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 5014663,
+            "nick": "cahyagenji",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 4,
+                "comments": 5
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d11\/d9a17b9bfb6dc1116c99a4477148142b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db6\/9dcbbb450116966cdca71c8d427abd96.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d11\/d9a17b9bfb6dc1116c99a4477148142b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db6\/9dcbbb450116966cdca71c8d427abd96.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 5004927,
+            "nick": "Maylindabimo",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 3,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 234523,
+            "nick": "Fanypesek1",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 12,
+                "answers": 1,
+                "comments": 3
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 3729413,
+            "nick": "hafidz102",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 13,
+                "answers": 34,
+                "comments": 14
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d46\/ff04094c963616d872322f5432258d35.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dce\/f48cbd45abaa1e70c774d75c0ea7f8cc.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d46\/ff04094c963616d872322f5432258d35.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dce\/f48cbd45abaa1e70c774d75c0ea7f8cc.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        }
+    ],
+    "validated": false
+}

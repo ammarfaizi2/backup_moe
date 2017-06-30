@@ -1,0 +1,2742 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 6329322,
+                        "subject_id": 19,
+                        "user_id": 3147255,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Apakah Hatsune Miku Mencadi 3D Pop Star Yang Populer Di Luar Negri????",
+                        "created": "2016-06-02T22:43:42+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2016-06-02T22:50:23+07:00",
+                        "the_best_resp_id": "7564440",
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Apakah <em>Hatsune<\/em> <em>Miku<\/em> Mencadi 3D Pop Star Yang Populer Di Luar Negri????",
+                        "snippet_content": "Apakah <em>Hatsune<\/em> <em>Miku<\/em> Mencadi 3D Pop Star Yang Populer Di Luar Negri????"
+                    },
+                    "responses": [
+                        {
+                            "id": 7564440,
+                            "user_id": 3093645,
+                            "task_id": 6329322,
+                            "points": 5,
+                            "created": "2016-06-02T22:50:23+07:00",
+                            "content": "betul, Hatsune Miku merupakan penyanyi pertama dari serangkaian penyanyi rekaan \"Character Vocal Series\" yang diproduksi oleh Crypton Future Media. Suara yang dimiliki Miku diambil dari suara Saki Fujita. Hatsune miku juga tampil sebagai proyeksi hologram pada beberapa panggung konser, layaknya penyanyi sungguhan. inilah yang membuat hatsune miku sangat populer di berbagai negara.<br \/><br \/>#BigFansOfHatsuneMiku :v.. ",
+                            "mark": 5,
+                            "marks_count": 2,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 4306473,
+                                        "user_id": 1488024,
+                                        "content": "&lt;3 you miku!!!!",
+                                        "created": "2016-06-03T15:52:27+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 4311494,
+                                        "user_id": 3147255,
+                                        "content": "Im A HATSUNE MIKU FAN!!!!!!!",
+                                        "created": "2016-06-05T13:12:06+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 4729739,
+                                        "user_id": 3567913,
+                                        "content": "HEHE",
+                                        "created": "2016-08-31T19:57:27+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 3
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3093645,
+                                "nick": "AstridZ",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d7f\/d0177c5312e20f52085dfb911733bd8b.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 4197020,
+                        "subject_id": 11,
+                        "user_id": 2229248,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Kapan Hatsune Miku di lahirkan di dunia digital",
+                        "created": "2015-11-04T18:54:36+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2015-11-04T19:09:49+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Kapan <em>Hatsune<\/em> <em>Miku<\/em> di lahirkan di dunia digital",
+                        "snippet_content": "Kapan <em>Hatsune<\/em> <em>Miku<\/em> di lahirkan di dunia digital"
+                    },
+                    "responses": [
+                        {
+                            "id": 4964160,
+                            "user_id": 2229266,
+                            "task_id": 4197020,
+                            "points": 5,
+                            "created": "2015-11-04T19:09:49+07:00",
+                            "content": "Eng, saya jawab saja kapan perilisan Hatsune Miku, yah? Semoga nggak menyinggung kamu ya. Rilis perdana dan rilis pratayang-nya Hatsune Miku itu tanggal 31 Agustus 2007",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2229266,
+                                "nick": "DevitaV",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d7c\/d177ab3ea74e6c5d5ed36783cfeb6538.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 6270163,
+                        "subject_id": 11,
+                        "user_id": 3032571,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "siapa itu hatsune miku ",
+                        "created": "2016-05-27T20:07:43+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2016-05-27T20:09:43+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "siapa itu <em>hatsune<\/em> <em>miku<\/em> ",
+                        "snippet_content": "siapa itu <em>hatsune<\/em> <em>miku<\/em> "
+                    },
+                    "responses": [
+                        {
+                            "id": 7483249,
+                            "user_id": 3106078,
+                            "task_id": 6270163,
+                            "points": 5,
+                            "created": "2016-05-27T20:09:43+07:00",
+                            "content": "Vocaloidddddd........",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 7483259,
+                            "user_id": 2790496,
+                            "task_id": 6270163,
+                            "points": 5,
+                            "created": "2016-05-27T20:10:17+07:00",
+                            "content": "hatsune miku adalah perangkat lunak yang menghasilkan suara nyanyian wanita<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3106078,
+                                "nick": "Syenxz",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d7c\/84b74aac5ee01c334ee455b5b21e01e2.png"
+                            },
+                            {
+                                "id": 2790496,
+                                "nick": "alenislamiyah",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d87\/8f281b423e565791c794f9898900674d.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 4197074,
+                        "subject_id": 11,
+                        "user_id": 2229248,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Siapa nama ortu Hatsune miku",
+                        "created": "2015-11-04T18:56:40+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2015-11-04T19:07:21+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Siapa nama ortu <em>Hatsune<\/em> <em>miku<\/em>",
+                        "snippet_content": "Siapa nama ortu <em>Hatsune<\/em> <em>miku<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 4964084,
+                            "user_id": 2229266,
+                            "task_id": 4197074,
+                            "points": 5,
+                            "created": "2015-11-04T19:07:21+07:00",
+                            "content": "Enggg.. karena Hatsune Miku itu program--maaf, secara otomatis dia tidak memiliki orangtua, maaf.",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 3,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 3029543,
+                                        "user_id": 2229248,
+                                        "content": "dia aja dilahir lewat virus",
+                                        "created": "2015-11-04T19:08:20+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2229266,
+                                "nick": "DevitaV",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d7c\/d177ab3ea74e6c5d5ed36783cfeb6538.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 4197262,
+                        "subject_id": 11,
+                        "user_id": 2229248,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Siapa kah Pembuat progam Hatsune Miku di dunia digital gua kah",
+                        "created": "2015-11-04T19:03:42+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2015-11-04T19:05:25+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Siapa kah Pembuat progam <em>Hatsune<\/em> <em>Miku<\/em> di dunia digital gua kah",
+                        "snippet_content": "Siapa kah Pembuat progam <em>Hatsune<\/em> <em>Miku<\/em> di dunia digital gua kah"
+                    },
+                    "responses": [
+                        {
+                            "id": 4964030,
+                            "user_id": 2229266,
+                            "task_id": 4197262,
+                            "points": 5,
+                            "created": "2015-11-04T19:05:25+07:00",
+                            "content": "Jika yang Anda maksud adalah program Vocaloid dengan Hatsune Miku sebagai karakter terpopuler, maka pemiliknya adalah Yamaha.",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 2,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 3029520,
+                                        "user_id": 2229248,
+                                        "content": "Salah Bro programnya vocaloid pembuatnya Gua",
+                                        "created": "2015-11-04T19:06:33+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2229266,
+                                "nick": "DevitaV",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d7c\/d177ab3ea74e6c5d5ed36783cfeb6538.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 5501012,
+                        "subject_id": 15,
+                        "user_id": 2743377,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "apa saja lagu dari vocaloid hatsune miku atau DLL?",
+                        "created": "2016-03-20T12:31:57+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2016-03-20T12:33:44+07:00",
+                        "the_best_resp_id": "6503175",
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "apa saja lagu dari vocaloid <em>hatsune<\/em> <em>miku<\/em> atau DLL?",
+                        "snippet_content": "apa saja lagu dari vocaloid <em>hatsune<\/em> <em>miku<\/em> atau DLL?"
+                    },
+                    "responses": [
+                        {
+                            "id": 6503174,
+                            "user_id": 279283,
+                            "task_id": 5501012,
+                            "points": 5,
+                            "created": "2016-03-20T12:33:44+07:00",
+                            "content": "levan polka,alice in musicland,acute,last night,black rock shooter",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 6503175,
+                            "user_id": 2764253,
+                            "task_id": 5501012,
+                            "points": 5,
+                            "created": "2016-03-20T12:33:45+07:00",
+                            "content": "1. Hatsune Miku - Alice In Black Market download<br \/><br \/>2. Hatsune Miku - A Love Song download<br \/><br \/>3. Hatsune Miku - Amaryllis download<br \/><br \/>4. Hatsune Miku - Angel Cry download<br \/><br \/>5. Hatsune Miku - April Fool download<br \/><br \/>6. Hatsune Miku - Black Rock Shooter download<br \/><br \/>7. Hatsune Miku - Blue Ice Castle download<br \/><br \/>8. Hatsune Miku - Blue Sky download<br \/><br \/>9. Hatsune Miku - Can't I Even Dream download<br \/><br \/>10. Hatsune Miku - Chocolate download<br \/><br \/>11. Hatsune Miku - Christmas Morgue download<br \/><br \/>12. Hatsune Miku - Dark Alice download<br \/><br \/>13. Hatsune Miku - Daughter Of Green download<br \/><br \/>14. Hatsune Miku - Don't Kill The Love Song download<br \/><br \/>15. Hatsune Miku - Electrik Angel download<br \/><br \/>16. Hatsune Miku - Exec Resolution download<br \/><br \/>17. Hatsune Miku - From Y To Y download<br \/><br \/>18. Hatsune Miku - Game Of Life download<br \/><br \/>19. Hatsune Miku - Glass Wall download<br \/><br \/>20. Hatsune Miku - Glow download<br \/><br \/>21. Hatsune Miku - Hai Ni Natta Jyunigatsu download<br \/><br \/>22. Hatsune Miku - Hope download<br \/><br \/>23. Hatsune Miku - I Just Hate People download<br \/><br \/>24. Hatsune Miku - Ievan Polka download<br \/><br \/>25. Hatsune Miku - Innocence And Quot download<br \/><br \/>26. Hatsune Miku - Inside A Silent Room download<br \/><br \/>27. Hatsune Miku - Joker download<br \/><br \/>28. Hatsune Miku - Kagome-Kagome download<br \/><br \/>29. Hatsune Miku - Kusari No Shoujo download<br \/><br \/>30. Hatsune Miku - Last Night, Good Night download<br \/><br \/>31. Hatsune Miku - Love Is War download<br \/><br \/>32. Hatsune Miku - Melody Exe download<br \/><br \/>33. Hatsune Miku - Melt download<br \/><br \/>34. Hatsune Miku - Miku-Miku Techno download<br \/><br \/>35. Hatsune Miku - Moonlit Bear download<br \/><br \/>36. Hatsune Miku - Mr. Alice download<br \/><br \/>37. Hatsune Miku - Nightmare Dream Eater download<br \/><br \/>38. Hatsune Miku - Opening And Ending Vocaloid download<br \/><br \/>39. Hatsune Miku - Over download<br \/><br \/>40. Hatsune Miku - Persona Alice download<br \/><br \/>41. Hatsune Miku - Pumpkin Head Spooky Dance download<br \/><br \/>42. Hatsune Miku - Refrain Loop download<br \/><br \/>43. Hatsune Miku - Rolling Girl download<br \/><br \/>44. Hatsune Miku - Romeo And Cinderella download<br \/><br \/>45. Hatsune Miku - Sakura No Ame download  <br \/><br \/>46. Hatsune Miku - Sayonara download<br \/><br \/>47. Hatsune Miku - Secret Police download<br \/><br \/>48. Hatsune Miku - Sekiranun Grafiti download<br \/><br \/>49. Hatsune Miku - Seventh Heaven download<br \/><br \/>50. Hatsune Miku - Sky Fish download<br \/><br \/>51. Hatsune Miku - Sleeping Beauty download<br \/><br \/>52. Hatsune Miku - Smooch download<br \/><br \/>53. Hatsune Miku - Spica download<br \/><br \/>54. Hatsune Miku - Still Alive download<br \/><br \/>55. Hatsune Miku - Tawagoto Speaker download<br \/><br \/>56. Hatsune Miku - The Ending World And The Final Us download<br \/><br \/>57. Hatsune Miku - The Forgotten Song download<br \/><br \/>58. Hatsune Miku - The Snow White Princess download<br \/><br \/>59. Hatsune Miku - Triple Baka download<br \/><br \/>60. Hatsune Miku - Vegetable Juice Dance download<br \/><br \/>61. Hatsune Miku - Winter Alice download<br \/><br \/>62. Hatsune Miku - World Is Mine download<br \/><br \/>63. Hatsune Miku - Hirari-Hirari download",
+                            "mark": 4,
+                            "marks_count": 2,
+                            "thanks": 3,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 3786263,
+                                        "user_id": 2743377,
+                                        "content": "arigatou terikasih",
+                                        "created": "2016-03-20T12:39:10+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 3786276,
+                                        "user_id": 2764253,
+                                        "content": "iya",
+                                        "created": "2016-03-20T12:40:54+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 2
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 279283,
+                                "nick": "alifcyeber",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d63\/26e659b9948fa3c433d758d9286e64ab.jpg"
+                            },
+                            {
+                                "id": 2764253,
+                                "nick": "daniel126",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d12\/5dc10d64d082829c043012611cef0ff4.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 5344505,
+                        "subject_id": 11,
+                        "user_id": 2486412,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "sebutkan lagu yang dibawa oleh hatsune miku dan mergurine luka",
+                        "created": "2016-03-05T16:11:17+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2016-03-05T16:11:53+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "sebutkan lagu yang dibawa oleh <em>hatsune<\/em> <em>miku<\/em> dan mergurine luka",
+                        "snippet_content": "sebutkan lagu yang dibawa oleh <em>hatsune<\/em> <em>miku<\/em> dan mergurine luka"
+                    },
+                    "responses": [
+                        {
+                            "id": 6310288,
+                            "user_id": 2688844,
+                            "task_id": 5344505,
+                            "points": 5,
+                            "created": "2016-03-05T16:11:53+07:00",
+                            "content": "lagu hatsune miku = ievan polka, rollling girl",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 3691159,
+                                        "user_id": 2486412,
+                                        "content": "kalo mergurine luka",
+                                        "created": "2016-03-05T16:12:56+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        },
+                        {
+                            "id": 6311175,
+                            "user_id": 2670313,
+                            "task_id": 5344505,
+                            "points": 5,
+                            "created": "2016-03-05T17:49:07+07:00",
+                            "content": "ievan polka, rolling girl",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 3764662,
+                                        "user_id": 2486412,
+                                        "content": "boleh minta pin bbm",
+                                        "created": "2016-03-16T17:00:28+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 3771783,
+                                        "user_id": 2670313,
+                                        "content": "untuk apa :-)",
+                                        "created": "2016-03-17T18:35:34+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 2
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2688844,
+                                "nick": "Herialdi",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d8f\/a5b88d354f88ef419f193a9cc9df84c3.png"
+                            },
+                            {
+                                "id": 2670313,
+                                "nick": "ErnikaMBF",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d97\/72d970d863410765d29df3e8d016b30c.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 4848313,
+                        "subject_id": 11,
+                        "user_id": 2486412,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "sebutkan lagu yang dibawakan oleh hatsune miku",
+                        "created": "2016-01-20T16:09:40+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2016-01-20T16:25:42+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "sebutkan lagu yang dibawakan oleh <em>hatsune<\/em> <em>miku<\/em>",
+                        "snippet_content": "sebutkan lagu yang dibawakan oleh <em>hatsune<\/em> <em>miku<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 5757546,
+                            "user_id": 2486970,
+                            "task_id": 4848313,
+                            "points": 5,
+                            "created": "2016-01-20T16:25:42+07:00",
+                            "content": "princess of the world",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 3426455,
+                                        "user_id": 2486970,
+                                        "content": "udah",
+                                        "created": "2016-01-20T17:06:11+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 3426457,
+                                        "user_id": 2486412,
+                                        "content": "ya,km dari mana",
+                                        "created": "2016-01-20T17:06:27+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 3426459,
+                                        "user_id": 2486970,
+                                        "content": "jatim",
+                                        "created": "2016-01-20T17:06:38+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 3426463,
+                                        "user_id": 2486412,
+                                        "content": "wow lumayan jauh sama aku",
+                                        "created": "2016-01-20T17:06:54+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 3426465,
+                                        "user_id": 2486970,
+                                        "content": "km dmn",
+                                        "created": "2016-01-20T17:07:05+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 3426455,
+                                "count": 18
+                            }
+                        },
+                        {
+                            "id": 5761358,
+                            "user_id": 1484096,
+                            "task_id": 4848313,
+                            "points": 5,
+                            "created": "2016-01-20T19:41:08+07:00",
+                            "content": "princess of the world :v",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 3436873,
+                                        "user_id": 2486412,
+                                        "content": "the snow princess is kalek",
+                                        "created": "2016-01-22T13:36:24+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2486970,
+                                "nick": "EliosZ",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dc4\/6fec2f513798d4a691deab3cb1f220a6.jpg"
+                            },
+                            {
+                                "id": 1484096,
+                                "nick": "ilfanrizaldi",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d8e\/a6684135aef1aee0e3973e429c53b424.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 1174878,
+                        "subject_id": 19,
+                        "user_id": 12397,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "ada yang bisa jelasin makna dari  lagu HATSUNE MIKU FREELY TOMORROW??<br \/>\nane lagi males baca ulang subtittle nya.. :3<br \/><br \/>\nsalam otaku",
+                        "created": "2014-10-22T17:34:55+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2014-10-22T17:42:32+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "ada yang bisa jelasin makna dari  lagu <em>HATSUNE<\/em> <em>MIKU<\/em> FREELY TOMORROW??\nane lagi males baca ulang subtittle nya.. :3\nsalam otaku",
+                        "snippet_content": "ada yang bisa jelasin makna dari  lagu <em>HATSUNE<\/em> <em>MIKU<\/em> FREELY TOMORROW??\nane lagi males baca ulang subtittle nya.. :3\nsalam otaku"
+                    },
+                    "responses": [
+                        {
+                            "id": 1511636,
+                            "user_id": 733896,
+                            "task_id": 1174878,
+                            "points": 5,
+                            "created": "2014-10-22T17:42:32+07:00",
+                            "content": "Arti lagunya dlam bahasa indonesia nih? http:\/\/ayuputri18.blogspot.com\/2014\/03\/hatsune-miku-freely-tomorrow-indonesia.html<br \/><br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2015-04-30T06:26:17+07:00",
+                                "approver": {
+                                    "id": 369500,
+                                    "nickname": "ImmanuelSinaga",
+                                    "points": 206163,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": null,
+                                    "content_approved_count": 17077
+                                }
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 1051425,
+                                        "user_id": 12397,
+                                        "content": "bukan artinya.. tapi lebih ke maknanyagitu..",
+                                        "created": "2014-10-22T17:43:03+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 1051563,
+                                        "user_id": 733896,
+                                        "content": "Oh...kyanya tentang cewe yang suka sama cowonya tapi cowoknya lgi sedih nah cwenya itu berusaha menghibur cwonya gitu,, :v",
+                                        "created": "2014-10-22T17:57:36+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 1051572,
+                                        "user_id": 12397,
+                                        "content": "OOO gitu.. makasih yah.. ;3",
+                                        "created": "2014-10-22T17:58:49+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 3
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 733896,
+                                "nick": "Shinachan",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dc4\/aaac7c93feb4d48e114d890d7b0f6a08.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 9929664,
+                        "subject_id": 5,
+                        "user_id": 4682051,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 20,
+                            "ptsForResp": 10,
+                            "ptsForBest": 5
+                        },
+                        "content": "Tolong dong kk<br \/>\nBuatkan saya Report Teks tentang Hatsune Miku :3",
+                        "created": "2017-03-20T18:38:09+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-03-20T19:18:54+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Tolong dong kk\nBuatkan saya Report Teks tentang <em>Hatsune<\/em> <em>Miku<\/em> :3",
+                        "snippet_content": "Tolong dong kk\nBuatkan saya Report Teks tentang <em>Hatsune<\/em> <em>Miku<\/em> :3"
+                    },
+                    "responses": [
+                        {
+                            "id": 11934793,
+                            "user_id": 4747413,
+                            "task_id": 9929664,
+                            "points": 10,
+                            "created": "2017-03-20T19:18:54+07:00",
+                            "content": "hatsune miku is a anime's character from japan<br \/> this anime is actually have been included with songs. hatsune miku have been made lots of music from japanese and get tons viewer in the world. her's character has light green hair, beautiful eyes and actually she made from robot. the most popular song she made is \"hatsune miku - last night\" where the song is 100 percent filled with rap the fastest rap ever in her songs ever made.<br \/><br \/>So maybe thats all i can tell you'll report text about hatsune miku. thanks for ur attention<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4747413,
+                                "nick": "micjur1988",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d7f\/69e71251a7bd7f36c5ab47ac2b6fc24c.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 5207011,
+                        "subject_id": 15,
+                        "user_id": 2635317,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 25,
+                            "ptsForResp": 13,
+                            "ptsForBest": 7
+                        },
+                        "content": "JAWAB DAPET 20 POINT<br \/><br \/>\nAPA ARTI DARI \"Mukashi Mukashi No Kyo No Boku.\"<br \/><br \/>\n(Hatsune Miku song)",
+                        "created": "2016-02-23T18:19:50+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2016-02-24T08:47:56+07:00",
+                        "the_best_resp_id": "6168024",
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [
+                                {
+                                    "id": 3634147,
+                                    "user_id": 2646957,
+                                    "content": "aku sekarang dan yang dulu. mungkin :v",
+                                    "created": "2016-02-25T16:23:34+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                }
+                            ],
+                            "last_id": 0,
+                            "count": 1
+                        },
+                        "highlighted_content": "JAWAB DAPET 20 POINT\nAPA ARTI DARI \"Mukashi Mukashi No Kyo No Boku.\"\n(<em>Hatsune<\/em> <em>Miku<\/em> song)",
+                        "snippet_content": "JAWAB DAPET 20 POINT\nAPA ARTI DARI \"Mukashi Mukashi No Kyo No Boku.\"\n(<em>Hatsune<\/em> <em>Miku<\/em> song)"
+                    },
+                    "responses": [
+                        {
+                            "id": 6168024,
+                            "user_id": 1567002,
+                            "task_id": 5207011,
+                            "points": 13,
+                            "created": "2016-02-24T08:47:56+07:00",
+                            "content": "<br \/>\u00a0 \u00a0 \u00a0<strong>\u00a0\u3080\u304b\u3057 \u3080\u304b\u3057 \u306e \u304d\u3087 \u306e \u307c\u304f<br \/><\/strong><span><strong>Mukashi Mukashi No Kyo No Boku<\/strong><br \/><\/span><br \/><span><strong>\u00a0\u00a0Diriku Yg Lama Kembali Lagi<\/strong><br \/><\/span><br \/><strong>NB:<\/strong><br \/><strong>Boku = saya [ laki laki ]<\/strong><br \/><br \/>",
+                            "mark": 5,
+                            "marks_count": 2,
+                            "thanks": 2,
+                            "user_best_rank_id": 7,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2016-12-29T13:10:31+07:00",
+                                "approver": {
+                                    "id": 2663844,
+                                    "nickname": "Mahaguru",
+                                    "points": 2237,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/db6\/c5fb7b6a68ce26ccea00dc12cb60d96f.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/df7\/fe8fb6dfa0d217a5d3fafa2a27e269ba.png"
+                                    },
+                                    "content_approved_count": 718253
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1567002,
+                                "nick": "Satakyouya",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d57\/7b259b420a815767a433d541d3d516fe.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 1541661,
+                        "subject_id": 15,
+                        "user_id": 582182,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Lagu jepang apa aja yang enak di denger tentang persahabatn yaa.... Kalo bisa hatsune Miku",
+                        "created": "2014-11-23T14:31:13+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2014-11-23T14:38:05+07:00",
+                        "the_best_resp_id": "1970698",
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Lagu jepang apa aja yang enak di denger tentang persahabatn yaa.... Kalo bisa <em>hatsune<\/em> <em>Miku<\/em>",
+                        "snippet_content": "Lagu jepang apa aja yang enak di denger tentang persahabatn yaa.... Kalo bisa <em>hatsune<\/em> <em>Miku<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 1970296,
+                            "user_id": 921498,
+                            "task_id": 1541661,
+                            "points": 5,
+                            "created": "2014-11-23T14:38:05+07:00",
+                            "content": "akb48 river coba ajah denger<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 2,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 1334004,
+                                        "user_id": 582182,
+                                        "content": "Udah pernah kak, ada yang lain gak kak ?",
+                                        "created": "2014-11-23T14:43:20+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 1349723,
+                                        "user_id": 921498,
+                                        "content": "tomo yo akb48 coba deh",
+                                        "created": "2014-11-25T11:33:59+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 2
+                            }
+                        },
+                        {
+                            "id": 1970698,
+                            "user_id": 791275,
+                            "task_id": 1541661,
+                            "points": 5,
+                            "created": "2014-11-23T15:14:19+07:00",
+                            "content": "world is mine - hatsune miku<br \/>levan polkka - hatsune miku<br \/>netsujou no sepctrum - ikimono gakari<br \/>opening motto to love ru<br \/>opening kissxsis<br \/>steady boy - kissxsis<br \/>opening noragami<br \/>masih banyak lagi....",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 5,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 1359062,
+                                        "user_id": 582182,
+                                        "content": "Makasih ya kak",
+                                        "created": "2014-11-26T14:55:41+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 1432064,
+                                        "user_id": 654887,
+                                        "content": "world is mine hatsune",
+                                        "created": "2014-12-07T10:50:30+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 2
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 921498,
+                                "nick": "sahna75",
+                                "avatar": null
+                            },
+                            {
+                                "id": 791275,
+                                "nick": "oppaidaisuki",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d5d\/69b5411e6fdd3d7c281eb425da170ec3.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 2624273,
+                        "subject_id": 11,
+                        "user_id": 946395,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Siapapun yang tahu VOCALOID lebih dalam ya... gimana caranya tuh biar bisa download video klipnya Hatsune Miku yang lebih jelas di situs asli Jepangnya (Nico Nico Douga)? Bukan yang di YouTube lho ya, karena di YouTube gak bisa kebuka apalagi download :( ",
+                        "created": "2015-05-06T19:20:25+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2015-05-07T16:03:10+07:00",
+                        "the_best_resp_id": "3363090",
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Siapapun yang tahu VOCALOID lebih dalam ya... gimana caranya tuh biar bisa download video klipnya <em>Hatsune<\/em> <em>Miku<\/em> yang lebih jelas di situs asli Jepangnya (Nico Nico Douga)? Bukan yang di YouTube lho ya, karena di YouTube gak bisa kebuka apalagi download :( ",
+                        "snippet_content": "Siapapun yang tahu VOCALOID lebih dalam ya... gimana caranya tuh biar bisa download video klipnya <em>Hatsune<\/em> <em>Miku<\/em> yang lebih jelas di situs"
+                    },
+                    "responses": [
+                        {
+                            "id": 3363090,
+                            "user_id": 1411682,
+                            "task_id": 2624273,
+                            "points": 5,
+                            "created": "2015-05-07T16:03:10+07:00",
+                            "content": " Download Add-ons Nicofox<br \/>2. Restart browser mozilla kalian<br \/>3. Klik Tools &gt; Add-ons<br \/>4. Pastikan NicoFox dalam keadaan<br \/>Enable<br \/>5. Login situs Niconico<br \/>6. Cari video yang mau di download<br \/>7. Klik videonya dan tunggu sampai<br \/>tombol IDM nya muncul<br \/>8. Klik tombol download IDM di<br \/>bagian kiri bawah layar",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 2,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1411682,
+                                "nick": "khoerulfuadhy22",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 974807,
+                        "subject_id": 15,
+                        "user_id": 582182,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Sebutin dong 7 awal pertama miku hatsune bisa terkenal ???<br \/><br \/>\nOnegai",
+                        "created": "2014-10-06T18:35:38+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2014-10-06T20:47:09+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Sebutin dong 7 awal pertama <em>miku<\/em> <em>hatsune<\/em> bisa terkenal ???\nOnegai",
+                        "snippet_content": "Sebutin dong 7 awal pertama <em>miku<\/em> <em>hatsune<\/em> bisa terkenal ???\nOnegai"
+                    },
+                    "responses": [
+                        {
+                            "id": 1260124,
+                            "user_id": 628307,
+                            "task_id": 974807,
+                            "points": 5,
+                            "created": "2014-10-06T20:47:09+07:00",
+                            "content": "<span>1. Vocaloid2 Jepang\u00a0PERTAMA\u00a0dari Crypton Future Media<br \/><\/span><span>2. Virtual Idol\u00a0PERTAMA\u00a0di Jepang bahkan dunia.<br \/><\/span><span>3. Penampilan\u00a0PERTAMA\u00a0Hatsune Miku di sebuah konser<br \/><\/span><span>4. Konser solo dengan teknologi proyeksi 3D\u00a0PERTAMA\u00a0di dunia<br \/><\/span><span>5. Iklan komersial\u00a0PERTAMA\u00a0Miku bersama Toyota Amerika.<br \/><\/span><span>6. Konser\u00a0PERTAMA\u00a0Hatsune Miku diluar Jepang.<br \/><\/span>7.<span>Menjadi tokoh fiksi\u00a0PERTAMA\u00a0yang tampil di cover depan Flash Magazine.<br \/><br \/>yg saya tau cuma itu :3<\/span>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 7,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 898191,
+                                        "user_id": 626171,
+                                        "content": "daya tarik utamanya sih suaranya. karena miku itu voca pertama yang menurut aku suara langsung enak didengar. dibanding dengan KAITO yg suara agak keberatan (over bass) dan meiko yg melengking",
+                                        "created": "2014-10-06T22:16:41+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 898238,
+                                        "user_id": 628307,
+                                        "content": "nah itu bisa jadi..",
+                                        "created": "2014-10-06T22:20:54+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 898346,
+                                        "user_id": 626171,
+                                        "content": "tapi sekarang IA jadi sebanding dengan Miku.. maklum penyanyi utama lagu-lagu KagePro.. (miku itu nyanyi cuma 3-4 lagu kalo gk salah, malah sempet collab)",
+                                        "created": "2014-10-06T22:30:35+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 905749,
+                                        "user_id": 628307,
+                                        "content": "kan karna mereka bisa dibilang system jadi bisa di utak atik suaranya wkwkwk",
+                                        "created": "2014-10-07T19:08:16+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 4
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 628307,
+                                "nick": "uzumakisaputra",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d6c\/37363a7a5199eca0d750a1af652764dc.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 14,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 3147255,
+            "nick": "123Amanda123",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 14,
+                "comments": 38
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df0\/0f2f101044d920ebe5c93ec8287fe47d.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d95\/db69e00da80ca5707ac8918bf80df913.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df0\/0f2f101044d920ebe5c93ec8287fe47d.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d95\/db69e00da80ca5707ac8918bf80df913.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 3567913,
+            "nick": "IKetutWiriadi",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 3,
+                "comments": 4
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df7\/e3afd4b0e627a7615ddc32504feec70f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d9c\/5e0999182515ec0125733a54dfb5bbb9.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df7\/e3afd4b0e627a7615ddc32504feec70f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d9c\/5e0999182515ec0125733a54dfb5bbb9.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1488024,
+            "nick": "ChelineNavaretaEN",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 6,
+                "answers": 9,
+                "comments": 13
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d8c\/4f4819b3ff3ebca6b0063d729abb0925.jpeg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d79\/d5371e2fd11b5965fc5a488e6085015f.jpeg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d8c\/4f4819b3ff3ebca6b0063d729abb0925.jpeg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d79\/d5371e2fd11b5965fc5a488e6085015f.jpeg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 3093645,
+            "nick": "AstridZ",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 15,
+                "comments": 1
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d50\/3a15f8cc8f1c30bf9a8f343d2037179b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7f\/d0177c5312e20f52085dfb911733bd8b.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d50\/3a15f8cc8f1c30bf9a8f343d2037179b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7f\/d0177c5312e20f52085dfb911733bd8b.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 2229248,
+            "nick": "Mazenda",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 6,
+                "answers": 20,
+                "comments": 2
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 2229266,
+            "nick": "DevitaV",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 25,
+                "comments": 1
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d6d\/9b2638cfffaead4dd887afcc210d547c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7c\/d177ab3ea74e6c5d5ed36783cfeb6538.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d6d\/9b2638cfffaead4dd887afcc210d547c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7c\/d177ab3ea74e6c5d5ed36783cfeb6538.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 3032571,
+            "nick": "tity2",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 2,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 3106078,
+            "nick": "Syenxz",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 45,
+                "comments": 2
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d25\/cde22b1510a8053a268174a11b32c77e.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7c\/84b74aac5ee01c334ee455b5b21e01e2.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d25\/cde22b1510a8053a268174a11b32c77e.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7c\/84b74aac5ee01c334ee455b5b21e01e2.png"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 2790496,
+            "nick": "alenislamiyah",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 23,
+                "answers": 113,
+                "comments": 25
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d61\/9776db2a47a3a1d1021b7af5e50a5bc1.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d87\/8f281b423e565791c794f9898900674d.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d61\/9776db2a47a3a1d1021b7af5e50a5bc1.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d87\/8f281b423e565791c794f9898900674d.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 2743377,
+            "nick": "vianissa",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 3,
+                "comments": 37
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 279283,
+            "nick": "alifcyeber",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 9,
+                "answers": 698,
+                "comments": 97
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da2\/933acb8605c832c89772b5019ca7acf9.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d63\/26e659b9948fa3c433d758d9286e64ab.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da2\/933acb8605c832c89772b5019ca7acf9.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d63\/26e659b9948fa3c433d758d9286e64ab.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        },
+        {
+            "id": 2764253,
+            "nick": "daniel126",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 30,
+                "answers": 73,
+                "comments": 85
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d83\/5068fae835d1431692b5d4b0911def0c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d12\/5dc10d64d082829c043012611cef0ff4.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d83\/5068fae835d1431692b5d4b0911def0c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d12\/5dc10d64d082829c043012611cef0ff4.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 2486412,
+            "nick": "RealKellyKelly",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 9,
+                "answers": 2,
+                "comments": 12
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 2688844,
+            "nick": "Herialdi",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 199,
+                "comments": 13
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd7\/723d8eaa293c975b183a3a3131e12b60.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d8f\/a5b88d354f88ef419f193a9cc9df84c3.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd7\/723d8eaa293c975b183a3a3131e12b60.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d8f\/a5b88d354f88ef419f193a9cc9df84c3.png"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 2670313,
+            "nick": "ErnikaMBF",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 86,
+                "comments": 8
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dac\/da7aa3d55987bcb462d9b1f7989bd283.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d97\/72d970d863410765d29df3e8d016b30c.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dac\/da7aa3d55987bcb462d9b1f7989bd283.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d97\/72d970d863410765d29df3e8d016b30c.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 2486970,
+            "nick": "EliosZ",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 32,
+                "answers": 23,
+                "comments": 27
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d7d\/d8b762804d217d21c9aaec73d9c18115.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc4\/6fec2f513798d4a691deab3cb1f220a6.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d7d\/d8b762804d217d21c9aaec73d9c18115.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc4\/6fec2f513798d4a691deab3cb1f220a6.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 1484096,
+            "nick": "ilfanrizaldi",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 13,
+                "answers": 247,
+                "comments": 106
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc6\/278c934f03a7d67b8ff3384e5cbdc711.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d8e\/a6684135aef1aee0e3973e429c53b424.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc6\/278c934f03a7d67b8ff3384e5cbdc711.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d8e\/a6684135aef1aee0e3973e429c53b424.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 12397,
+            "nick": "chusnulindar",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 50,
+                "answers": 141,
+                "comments": 84
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d47\/aa049710c5825757a2fa7bbaac0085d7.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d9c\/08896537deb22cb7b7bff178a73e5fdf.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d47\/aa049710c5825757a2fa7bbaac0085d7.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d9c\/08896537deb22cb7b7bff178a73e5fdf.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 733896,
+            "nick": "Shinachan",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 9,
+                "comments": 1
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d85\/df48826d5a10f5166b1287d952a67def.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc4\/aaac7c93feb4d48e114d890d7b0f6a08.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d85\/df48826d5a10f5166b1287d952a67def.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc4\/aaac7c93feb4d48e114d890d7b0f6a08.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4682051,
+            "nick": "chakunz27",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dff\/e1ef5bf644f95fa9ebeb6e633d69143a.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ddb\/fccd9241fd68fbe9fb5f7f0c9e8df787.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dff\/e1ef5bf644f95fa9ebeb6e633d69143a.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ddb\/fccd9241fd68fbe9fb5f7f0c9e8df787.png"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4747413,
+            "nick": "micjur1988",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 3,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dcc\/2ebc51a565ad5c22528f8aba9d365e4b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7f\/69e71251a7bd7f36c5ab47ac2b6fc24c.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dcc\/2ebc51a565ad5c22528f8aba9d365e4b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7f\/69e71251a7bd7f36c5ab47ac2b6fc24c.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 2635317,
+            "nick": "Akun yang dihapus",
+            "gender": 2,
+            "is_deleted": true,
+            "stats": {
+                "questions": 7,
+                "answers": 11,
+                "comments": 13
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#000000",
+                "names": [],
+                "count": 0
+            },
+            "ranks_ids": null
+        },
+        {
+            "id": 2646957,
+            "nick": "Delf",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 15,
+                "comments": 4
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d11\/219144d4d12591d39ccf26407630acbf.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d8e\/be68321682179e1c58552de2853c0eba.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d11\/219144d4d12591d39ccf26407630acbf.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d8e\/be68321682179e1c58552de2853c0eba.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 1567002,
+            "nick": "Satakyouya",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 2373,
+                "comments": 1606
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d11\/adb193fdc17be1e84ed6b1ce6bdbecd2.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d57\/7b259b420a815767a433d541d3d516fe.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d11\/adb193fdc17be1e84ed6b1ce6bdbecd2.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d57\/7b259b420a815767a433d541d3d516fe.jpg"
+            },
+            "ranks": {
+                "color": "#ffbe32",
+                "names": [
+                    "Anti Spammer",
+                    "Moderator",
+                    "KsatriaBrainly",
+                    "BrainlyBlogger",
+                    "Jenius"
+                ],
+                "count": 5
+            },
+            "ranks_ids": [
+                11,
+                19,
+                23,
+                84,
+                7
+            ]
+        },
+        {
+            "id": 582182,
+            "nick": "AretaNN",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 27,
+                "answers": 191,
+                "comments": 84
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d89\/0c88bf7808b799de18cf9c6c887519d5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d20\/ca827154c984c03bd11b9fb79386e27a.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d89\/0c88bf7808b799de18cf9c6c887519d5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d20\/ca827154c984c03bd11b9fb79386e27a.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 921498,
+            "nick": "sahna75",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 1,
+                "comments": 4
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 654887,
+            "nick": "siadarielfrida",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 27,
+                "answers": 24,
+                "comments": 54
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dfa\/cadfc4943e245a9fe5f271d9a6a54d82.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d0c\/b170b47bc845cc06cbf9b9aa4f2eef4d.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dfa\/cadfc4943e245a9fe5f271d9a6a54d82.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d0c\/b170b47bc845cc06cbf9b9aa4f2eef4d.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 791275,
+            "nick": "oppaidaisuki",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 345,
+                "comments": 97
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df1\/37dff12cce76412880978e93f1b7d147.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d5d\/69b5411e6fdd3d7c281eb425da170ec3.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df1\/37dff12cce76412880978e93f1b7d147.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d5d\/69b5411e6fdd3d7c281eb425da170ec3.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 946395,
+            "nick": "Lanithyaz",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 72,
+                "answers": 363,
+                "comments": 220
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d1b\/17e12c427316fb2b839eb25cce131bb5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d60\/d5d6acfc8aafa046f46b55a03ce22c5e.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d1b\/17e12c427316fb2b839eb25cce131bb5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d60\/d5d6acfc8aafa046f46b55a03ce22c5e.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 1411682,
+            "nick": "khoerulfuadhy22",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 25,
+                "comments": 2
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 628307,
+            "nick": "uzumakisaputra",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 2,
+                "comments": 13
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d0d\/40e0b3ab1f64fd51e766e0aa9f74e3bb.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6c\/37363a7a5199eca0d750a1af652764dc.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d0d\/40e0b3ab1f64fd51e766e0aa9f74e3bb.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6c\/37363a7a5199eca0d750a1af652764dc.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 626171,
+            "nick": "shintaroarisa",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 7,
+                "comments": 12
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc8\/a9ac8a0f3e2f08f82714166abf266073.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6a\/eeb6294f9ce17aa2d5bc4561f5f6b1c1.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc8\/a9ac8a0f3e2f08f82714166abf266073.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6a\/eeb6294f9ce17aa2d5bc4561f5f6b1c1.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        }
+    ],
+    "validated": false
+}

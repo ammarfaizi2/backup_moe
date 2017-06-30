@@ -1,0 +1,173 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 10549520,
+                        "subject_id": 19,
+                        "user_id": 4883796,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Sebutkan semua lirik lagu Despacito, versi originalnya yang gak ada Justin Bieber",
+                        "created": "2017-05-07T14:19:41+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-05-07T14:21:39+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Sebutkan semua lirik lagu <em>Despacito<\/em>, versi originalnya yang gak ada Justin Bieber",
+                        "snippet_content": "Sebutkan semua lirik lagu <em>Despacito<\/em>, versi originalnya yang gak ada Justin Bieber"
+                    },
+                    "responses": [
+                        {
+                            "id": 12768964,
+                            "user_id": 5001597,
+                            "task_id": 10549520,
+                            "points": 5,
+                            "created": "2017-05-07T14:21:39+07:00",
+                            "content": "Ay<br \/><br \/>Fonsi<br \/><br \/>DY<br \/><br \/>Oh oh...<br \/><br \/>Oh no, oh no...<br \/><br \/>Oh<br \/><br \/>Yeah...<br \/><br \/>Dididiri Daddy<br \/><br \/>Go<br \/><br \/>(Luis Fonsi)<br \/><br \/>S\u00ed, sabes que ya llevo rato mir\u00e1ndote<br \/><br \/>Tengo que bailar contigo hoy (DY)<br \/><br \/>Daddy Yankee<br \/><br \/>Vi que tu mirada ya estaba llam\u00e1ndome<br \/><br \/>Mu\u00e9strame el camino que yo voy (Oh)<br \/><br \/>(Luis Fonsi)<br \/><br \/>T\u00fa, t\u00fa eres el im\u00e1n y yo soy el metal<br \/><br \/>Me voy acercando y voy armando el plan<br \/><br \/>Solo con pensarlo se acelera el pulso (Oh yeah)<br \/><br \/>(Daddy Yankee)<br \/><br \/>Ya, ya me est\u00e1 gustando m\u00e1s de lo normal<br \/><br \/>Todos mis sentidos van pidiendo m\u00e1s<br \/><br \/>Esto hay que tomarlo sin ning\u00fan apuro<br \/><br \/>(Luis Fonsi)<br \/><br \/>Despacito<br \/><br \/>Quiero respirar tu cuello despacito<br \/><br \/>Deja que te diga cosas al o\u00eddo<br \/><br \/>Para que te acuerdes si no est\u00e1s conmigo<br \/><br \/>Despacito<br \/><br \/>Quiero desnudarte a besos despacito<br \/><br \/>Firmo en las paredes de tu laberinto<br \/><br \/>Y hacer de tu cuerpo todo un manuscrito<br \/><br \/>Sube sube<br \/><br \/>Sube, sube, sube<br \/><br \/>Quiero ver bailar tu pelo<br \/><br \/>Quiero ser tu ritmo<br \/><br \/>Que le ense\u00f1es a mi boca<br \/><br \/>Tus lugares favoritos (Favorito, favorito baby)<br \/><br \/>D\u00e9jame sobrepasar tus zonas de peligro<br \/><br \/>Hasta provocar tus gritos<br \/><br \/>Y que olvides tu apellido<br \/><br \/>(Daddy Yankee)<br \/><br \/>Si te pido un beso ven d\u00e1melo<br \/><br \/>Yo s\u00e9 que est\u00e1s pens\u00e1ndolo<br \/><br \/>Llevo tiempo intent\u00e1ndolo<br \/><br \/>Mami esto es dando y d\u00e1ndolo<br \/><br \/>Sabes que tu coraz\u00f3n conmigo te hace bom bom<br \/><br \/>Sabes que esa beba est\u00e1 buscando de mi bom bom<br \/><br \/>Ven prueba de mi boca para ver c\u00f3mo te sabe<br \/><br \/>quiero quiero ver cu\u00e1nto amor a ti te cabe<br \/><br \/>Yo no tengo prisa yo me quiero dar el viaje<br \/><br \/>Empecemos lento, despu\u00e9s salvaje<br \/><br \/>Pasito a pasito, suave suavecito<br \/><br \/>Nos vamos pegando, poquito a poquito<br \/><br \/>cuando t\u00fa me besas con esa destreza<br \/><br \/>Veo que eres malicia con delicadeza<br \/><br \/>Pasito a pasito, suave suavecito<br \/><br \/>Nos vamos pegando, poquito a poquito<br \/><br \/>Y es que esa belleza es un rompecabezas<br \/><br \/>Pero pa montarlo aqu\u00ed tengo la pieza<br \/><br \/>(Luis Fonsi)<br \/><br \/>Despacito<br \/><br \/>Quiero respirar tu cuello despacito<br \/><br \/>Deja que te diga cosas al oido<br \/><br \/>Para que te acuerdes si no est\u00e1s conmigo<br \/><br \/>Despacito<br \/><br \/>Quiero desnudarte a besos despacito<br \/><br \/>Firmo en las paredes de tu laberinto<br \/><br \/>Y hacer de tu cuerpo todo un manuscrito<br \/><br \/>Sube, sube, sube, sube, sube<br \/><br \/>Quiero ver bailar tu pelo<br \/><br \/>Quiero ser tu ritmo<br \/><br \/>Que le ense\u00f1es a mi boca<br \/><br \/>Tus lugares favoritos (Favorito, favorito baby)<br \/><br \/>D\u00e9jame sobrepasar tus zonas de peligro<br \/><br \/>Hasta provocar tus gritos<br \/><br \/>Y que olvides tu apellido<br \/><br \/>Despacito<br \/><br \/>Vamos a hacerlo en una playa en Puerto Rico<br \/><br \/>hasta que las olas griten Ay Bendito<br \/><br \/>Para que mi sello se quede contigo<br \/><br \/>(Daddy Yankee)<br \/><br \/>Pasito a pasito, suave suavecito<br \/><br \/>Nos vamos pegando, poquito a poquito<br \/><br \/>(Luis Fonsi)<br \/><br \/>Que le ense\u00f1es a mi boca<br \/><br \/>Tus lugares favoritos (Favorito, favorito baby)<br \/><br \/>(Daddy Yankee)<br \/><br \/>Pasito a pasito, suave suavecito<br \/><br \/>Nos vamos pegando, poquito a poquito<br \/><br \/>(Luis Fonsi)<br \/><br \/>Hasta provocar tus gritos<br \/><br \/>Y que olvides tu apellido<br \/><br \/>Despacito.",
+                            "mark": 4,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5001597,
+                                "nick": "danendrast",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dc5\/2ebcc628de6785423f35d23997366814.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 1,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 4883796,
+            "nick": "hemabiohelianthus",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 8,
+                "answers": 21,
+                "comments": 7
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de0\/81fee90c4205b0aadbd4e427ce84caf9.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df1\/894fc363112981d8e02221a528b57c6c.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de0\/81fee90c4205b0aadbd4e427ce84caf9.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df1\/894fc363112981d8e02221a528b57c6c.png"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 5001597,
+            "nick": "danendrast",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 122,
+                "comments": 49
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d58\/88a519bd04e638ee238c617d3762291b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc5\/2ebcc628de6785423f35d23997366814.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d58\/88a519bd04e638ee238c617d3762291b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc5\/2ebcc628de6785423f35d23997366814.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        }
+    ],
+    "validated": false
+}

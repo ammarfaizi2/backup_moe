@@ -1,0 +1,745 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 9360828,
+                        "subject_id": 2,
+                        "user_id": 4524661,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 69,
+                            "ptsForResp": 35,
+                            "ptsForBest": 18
+                        },
+                        "content": "Andy akan berangkat dari rumahnya ke rumah Jessica malam ini dengan sepeda motor.Mereka akan pergi ke bioskop.Jarak rumah Andy dengan rumah Jessica adalah 8,75 km ,sedangkan jarak rumah jessica ke bioskop adalah 2,25 kali jarak rumah Andy ke rumah jessica.Jika roda sepeda motor Andi berdiameter 20cm,maka :<br \/>A)berapa kali roda sepeda motor Andy berputar dari rumahnya ke rumah Jessica?<br \/>B)mereka udh pacaran<br \/>C)mau sampe kapan kamu jomblo?<br \/>D)berapa kali roda sepeda motor Andy berputar dari rumah Jessica ke bioskop?<br \/>poinnya gede tuh :D",
+                        "created": "2017-02-10T06:31:36+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-02-10T07:10:30+07:00",
+                        "the_best_resp_id": "11187326",
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Andy akan berangkat dari rumahnya ke rumah Jessica malam ini dengan sepeda motor.Mereka akan pergi ke bioskop.Jarak rumah Andy dengan rumah Jessica adalah 8,75 km ,sedangkan jarak rumah jessica ke bioskop adalah 2,25 kali jarak rumah Andy ke rumah jessica.Jika roda sepeda motor Andi berdiameter 20cm,maka :A)berapa kali roda sepeda motor Andy berputar dari rumahnya ke rumah Jessica?B)mereka udh pacaranC)mau sampe kapan <em>kamu<\/em> <em>jomblo<\/em>?D)berapa kali roda sepeda motor Andy berputar dari rumah Jessica ke bioskop?poinnya gede tuh :D",
+                        "snippet_content": "rumahnya ke rumah Jessica?B)mereka udh pacaranC)mau sampe kapan <em>kamu<\/em> <em>jomblo<\/em>?D)berapa kali roda sepeda motor Andy berputar dari"
+                    },
+                    "responses": [
+                        {
+                            "id": 11187326,
+                            "user_id": 4499167,
+                            "task_id": 9360828,
+                            "points": 35,
+                            "created": "2017-02-10T07:10:30+07:00",
+                            "content": "Cari Kel. Roda = \u03c0d<br \/>= 3,14 \u00d7 20 cm<br \/>= 62,8 cm atau 0,000628 Km<br \/><br \/>Roda Berputar = Jarak \u00f7 Kel. Roda<br \/><br \/>A.)<br \/><br \/><br \/>= 8,75 \u00f7 0,000628<br \/>= 13933,12102 atau 13933,12 Kali<br \/><br \/>B.)<br \/>SUDAH<br \/><br \/>C.)<br \/>Sampai Aku Sukses Dan Membahagiakan ORTU ku<br \/><br \/>D.)<br \/>Jarak Bioskop<br \/>= 2,25 \u00d7 8,75<br \/>= 19,6875 Km <br \/><br \/>Roda Berputar<br \/>= 19,6875 \u00f7 0,000628<br \/>= 31349,52229 atau 31349,52 Kali",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "6",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2017-03-26T13:45:16+07:00",
+                                "approver": {
+                                    "id": 2663844,
+                                    "nickname": "Mahaguru",
+                                    "points": 262,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/db6\/c5fb7b6a68ce26ccea00dc12cb60d96f.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/df7\/fe8fb6dfa0d217a5d3fafa2a27e269ba.png"
+                                    },
+                                    "content_approved_count": 717882
+                                }
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 6065245,
+                                        "user_id": 4524661,
+                                        "content": "hebat sekali! briliant!",
+                                        "created": "2017-02-10T07:17:55+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4499167,
+                                "nick": "BryAdamz",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d64\/3486f6251e3664726dc19d5e25ac61fc.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 4708973,
+                        "subject_id": 5,
+                        "user_id": 2431501,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "apa bahasa inggris nya aku cinta kamu,aku sayang kamu,aku jomblo",
+                        "created": "2015-12-31T19:02:31+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2015-12-31T19:05:59+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "apa bahasa inggris nya aku cinta <em>kamu<\/em>,aku sayang <em>kamu<\/em>,aku <em>jomblo<\/em>",
+                        "snippet_content": "apa bahasa inggris nya aku cinta <em>kamu<\/em>,aku sayang <em>kamu<\/em>,aku <em>jomblo<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 5590229,
+                            "user_id": 1423621,
+                            "task_id": 4708973,
+                            "points": 5,
+                            "created": "2015-12-31T19:05:59+07:00",
+                            "content": "aku cinta kamu = i love you<br \/>aku sayang kamu = i love you<br \/>aku jomblo = i am single<br \/><br \/>maaf kalo salah :(",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2015-12-31T19:07:43+07:00",
+                                "approver": {
+                                    "id": 1487599,
+                                    "nickname": "sigup",
+                                    "points": 48456,
+                                    "grade": 3,
+                                    "gender": 1,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/dcc\/beccef1695b65cc507215c96b2283025.jpeg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/dbe\/26cbefc534086e4ddb22727923ab42de.jpeg"
+                                    },
+                                    "content_approved_count": 8135
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 5590230,
+                            "user_id": 62078,
+                            "task_id": 4708973,
+                            "points": 5,
+                            "created": "2015-12-31T19:06:53+07:00",
+                            "content": "I love you,I love you, I'm single :')<br \/>semoga membantu<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2015-12-31T19:07:45+07:00",
+                                "approver": {
+                                    "id": 1487599,
+                                    "nickname": "sigup",
+                                    "points": 48456,
+                                    "grade": 3,
+                                    "gender": 1,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/dcc\/beccef1695b65cc507215c96b2283025.jpeg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/dbe\/26cbefc534086e4ddb22727923ab42de.jpeg"
+                                    },
+                                    "content_approved_count": 8135
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1423621,
+                                "nick": "marschelly00",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d8d\/88784b8dca7e7d3514ed98f20eeb117b.jpg"
+                            },
+                            {
+                                "id": 62078,
+                                "nick": "rahmatunz",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d98\/3299ed20a805082aa216099ab6731c1d.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 8440325,
+                        "subject_id": 1,
+                        "user_id": 1891296,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "ini sambungan cerpen penulis terkenal<br \/>\n\u201dAmpuni Kanda, Adindaku tercinta.\u201d<br \/>\n\u201dSudah, tak usah obral rayuan gombal. Gimana dengan nama penaku?\u201d<br \/>\n\u201dBagaimana kalau nama belakang diikuti nama ayah, jadinya \u2026 Reka Sutardi!\u201d<br \/>\n\u201dAku gak mau. Nama ayah gak keren!\u201d<br \/>\nSore baru saja datang, ketika Reka yang membawa selembar kertas duduk di samping Reki yang sedang serius membaca majalah olahraga.<br \/>\n\u201dMas, ini nih, biodata yang baru saja kubuat. Dibaca ya, trus dikritisi.\u201d<br \/>\n\u201dIni biodata untuk apa? Kok prestasi menang menggambar waktu TK juga kamu tulis?\u201d<br \/>\n\u201cYa biodata untuk bukuku, Mas. Gimana, sih.\u201d<br \/>\nReki mengerutkan kening. \u201cBukannya prestasi yang berkaitan ama menulis saja yang perlu kamu cantumkan?\u201d<br \/>\n\u201cNggak apa-apa kan, malah lebih bagus, biar pembaca bisa merasa lebih dekat denganku.\u201d<br \/>\n\u201cOh, begitu, ya.\u201d Reki pun memilih untuk mengalah kemudian meneruskan membaca biodata yang dibuat Reka.<br \/>\nBaru beberapa kalimat, tiba-tiba Reki teringat sesuatu. \u201cEh, ngomong-omong, tulisantulisanmu sudah dimuat di berapa media sih, kok sudah mau dibukukan?\u201d<br \/>\n\u201cEng \u2026 belum satu pun.\u201d<br \/>\nReki terkejut juga mendengar jawaban adiknya. Namun ada pemikiran lain muncul di otaknya. Mungkin Reka Cuma belum mujur. \u201cPadahal kamu sudah nulis banyak, ya? Kamu sudah menulis berapa cerpen? Puisi? Atau novel? Mau gak kalau Mas bantuin cari penerbit? Bawa sini tulisan-tulisanmu biar Mas Reki lihat.\u201d<br \/>\nReka menjawab lirih, terlihat malu-malu. \u201dAku kan belum menulis satu pun.\u201d<br \/>\n\u201cHaaa!!!\u201d Kali ini keterkejutan itu memuncak. Reki melongo selebar-lebarnya. \u201dJadi, kemarin-kemarin ribut-ribut bikin foto close up, terus bikin nama pena, membuat biodata \u2026 untuk apa?\u201d<br \/>\nReka merengut. \u201dUntuk persiapan, dong. Kalau tiba-tiba Reka harus punya buku dan belum punya foto, nama pena ama biodata yang oke bisa-bisa para penggemar Reka kabur dan tidak tertarik lagi. Trus kalau sekali nulis langsung menang lomba trus diwawancarai ama banyak wartawan \u2026 gimana hayo?\u201d<br \/>\nReki spontan menepuk keningnya sembari menggeleng-gelengkan kepala. Reki bingung sendiri. Proses untuk menjadi penulis, setahu Reki adalah dengan banyak membaca, menulis, lalu mengirim ke berbagai media, di samping terus mengikuti lomba-lomba penulisan. Sementara Reka? Memangnya selama ini Reka baca buku panduan menjadi penulis hebat yang mana, ya? Meski dengan lemas dan semangat mendukung, Reka yang sudah menguap habis, Reki masih sempat juga memberi nasihat. \u201cUntuk jadi penulis, kamu harus menulis yang banyak dong, Reka.\u201d<br \/>\n\u201cBeres, Mas. Itu sih wajib, ntar juga Reka kerjain.\u201d<br \/>\nSumber: Nadia dkk. The Story of Jomblo. 2005<br \/>\npertanyaan<br \/>\n1. siapa sajakah tokoh dalam cerpen tersebut?<br \/>\n2. jelaskan watak masing-masing tokoh!<br \/>\n3. apa amanat yang ingin disampaikan oleh pengarang kepada pembaca?<br \/>",
+                        "created": "2016-11-17T16:30:18+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2016-11-17T16:35:48+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "ini sambungan cerpen penulis terkenal\n\u201dAmpuni Kanda, Adindaku tercinta.\u201d\n\u201dSudah, tak usah obral rayuan gombal. Gimana dengan nama penaku?\u201d\n\u201dBagaimana kalau nama belakang diikuti nama ayah, jadinya \u2026 Reka Sutardi!\u201d\n\u201dAku gak mau. Nama ayah gak keren!\u201d\nSore baru saja datang, ketika Reka yang membawa selembar kertas duduk di samping Reki yang sedang serius membaca majalah olahraga.\n\u201dMas, ini nih, biodata yang baru saja kubuat. Dibaca ya, trus dikritisi.\u201d\n\u201dIni biodata untuk apa? Kok prestasi menang menggambar waktu TK juga <em>kamu<\/em> tulis?\u201d\n\u201cYa biodata untuk bukuku, Mas. Gimana, sih.\u201d\nReki mengerutkan kening. \u201cBukannya prestasi yang berkaitan ama menulis saja yang perlu <em>kamu<\/em> cantumkan?\u201d\n\u201cNggak apa-apa kan, malah lebih bagus, biar pembaca bisa merasa lebih dekat denganku.\u201d\n\u201cOh, begitu, ya.\u201d Reki pun memilih untuk mengalah kemudian meneruskan membaca biodata yang dibuat Reka.\nBaru beberapa kalimat, tiba-tiba Reki teringat sesuatu. \u201cEh, ngomong-omong, tulisantulisanmu sudah dimuat di berapa media sih, kok sudah mau dibukukan?\u201d\n\u201cEng \u2026 belum satu pun.\u201d\nReki terkejut juga mendengar jawaban adiknya. Namun ada pemikiran lain muncul di otaknya. Mungkin Reka Cuma belum mujur. \u201cPadahal <em>kamu<\/em> sudah nulis banyak, ya? <em>Kamu<\/em> sudah menulis berapa cerpen? Puisi? Atau novel? Mau gak kalau Mas bantuin cari penerbit? Bawa sini tulisan-tulisanmu biar Mas Reki lihat.\u201d\nReka menjawab lirih, terlihat malu-malu. \u201dAku kan belum menulis satu pun.\u201d\n\u201cHaaa!!!\u201d Kali ini keterkejutan itu memuncak. Reki melongo selebar-lebarnya. \u201dJadi, kemarin-kemarin ribut-ribut bikin foto close up, terus bikin nama pena, membuat biodata \u2026 untuk apa?\u201d\nReka merengut. \u201dUntuk persiapan, dong. Kalau tiba-tiba Reka harus punya buku dan belum punya foto, nama pena ama biodata yang oke bisa-bisa para penggemar Reka kabur dan tidak tertarik lagi. Trus kalau sekali nulis langsung menang lomba trus diwawancarai ama banyak wartawan \u2026 gimana hayo?\u201d\nReki spontan menepuk keningnya sembari menggeleng-gelengkan kepala. Reki bingung sendiri. Proses untuk menjadi penulis, setahu Reki adalah dengan banyak membaca, menulis, lalu mengirim ke berbagai media, di samping terus mengikuti lomba-lomba penulisan. Sementara Reka? Memangnya selama ini Reka baca buku panduan menjadi penulis hebat yang mana, ya? Meski dengan lemas dan semangat mendukung, Reka yang sudah menguap habis, Reki masih sempat juga memberi nasihat. \u201cUntuk jadi penulis, <em>kamu<\/em> harus menulis yang banyak dong, Reka.\u201d\n\u201cBeres, Mas. Itu sih wajib, ntar juga Reka kerjain.\u201d\nSumber: Nadia dkk. The Story of <em>Jomblo.<\/em> 2005\npertanyaan\n1. siapa sajakah tokoh dalam cerpen tersebut?\n2. jelaskan watak masing-masing tokoh!\n3. apa amanat yang ingin disampaikan oleh pengarang kepada pembaca?",
+                        "snippet_content": "pemikiran lain muncul di otaknya. Mungkin Reka Cuma belum mujur. \u201cPadahal <em>kamu<\/em> sudah nulis banyak, ya? <em>Kamu<\/em> sudah menulis berapa cerpen? Puisi"
+                    },
+                    "responses": [
+                        {
+                            "id": 10011687,
+                            "user_id": 4162154,
+                            "task_id": 8440325,
+                            "points": 5,
+                            "created": "2016-11-17T16:35:48+07:00",
+                            "content": "1 . reka dan reki <br \/>2. semangat , tidak putus asa  kalau reki suka menasehati <br \/>3. jangan putus asa dalam apa yang sedang di hadapi . tetap konsisten dan berpendirian...",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4162154,
+                                "nick": "tugas22",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dba\/b69be1b6841afa5d7976345c11fca4c1.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 2036607,
+                        "subject_id": 1,
+                        "user_id": 997069,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 25,
+                            "ptsForResp": 13,
+                            "ptsForBest": 7
+                        },
+                        "content": "Tolong buat kan puisi dengan mengunakan kata berikut dan judul dari kata berikut : buaya,ancaman,kompleks,jomlo,merana,bahagia,sejahtera,palsu,harapan,bukit,gunung,kamu,besar,kanan,meliat,kiri,kecil,sekali,malam,minggu,mencoba,mencari,lebih,bagus,pasar,cabe,banyak,teman.boleh mengunakan imbuhan",
+                        "created": "2015-02-10T08:02:42+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2015-02-10T12:24:24+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "2",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Tolong buat kan puisi dengan mengunakan kata berikut dan judul dari kata berikut : buaya,ancaman,kompleks,<em>jomlo<\/em>,merana,bahagia,sejahtera,palsu,harapan,bukit,gunung,<em>kamu<\/em>,besar,kanan,meliat,kiri,kecil,sekali,malam,minggu,mencoba,mencari,lebih,bagus,pasar,cabe,banyak,teman.boleh mengunakan imbuhan",
+                        "snippet_content": "mengunakan kata berikut dan judul dari kata berikut : buaya,ancaman,kompleks,<em>jomlo<\/em>,merana,bahagia,sejahtera,palsu,harapan,bukit,gunung,<em>kamu<\/em>,besar,kanan"
+                    },
+                    "responses": [
+                        {
+                            "id": 2591280,
+                            "user_id": 113893,
+                            "task_id": 2036607,
+                            "points": 13,
+                            "created": "2015-02-10T12:24:24+07:00",
+                            "content": "engkau bagaikan seekor BUAYA<br \/>seperti sebuah ANCAMAN bagi kami kaum hawa<br \/>rayuanmu sangan KOMPLEKS sehingga membuat para wanita luluh<br \/>engkau merayu setiap wanita yang JOMBLO<br \/>setelah itu engkau membuat mereka MERANA<br \/>tak bisakah engkau membuat mereka BAHAGIA?<br \/>dan membuat mereka SEJAHTERA?<br \/><br \/>tapi engkau memberikan mereka harapan PALSU<br \/>HARAPAN kau berikan hanyalah omong kosong<br \/>engkau bagaikan BUKIT yang tinggi<br \/>yang membuat GUNUNG menjadi iri<br \/>KAMU seorang buaya yang serakah<br \/>buaya BESAR yang ingin menaklukan setiap wanita<br \/>kau melirik wanita KANAN maupun kiri<br \/><br \/>engkau tak lain hanya pria KECIL yang rendah<br \/>kecil SEKALI tetapi menyakitkan<br \/>kau keluar MALAM dan bersama wanita di pagi hari<br \/>keluyuran di malam MINGGU dengan banyak wanita<br \/>ku MENCOBA untuk tidak sakit dengan kelakuanmu<br \/>aku akan MENCARI seseorang yang lebih baik<br \/>LEBIH menghormati kaum waniota<br \/>dan berkelakuan BAGUS<br \/><br \/>pertemuan kita DIPASAR akan aku lupakan<br \/>kata katamu begitu pedas bagaikan CABE<br \/>BANYAK wanita yang kau permainkan<br \/>TEMAN TEMAN ku, dan semua orang engkau sakiti<br \/>ku harap kau segera hancur<br \/><br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 3,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2015-06-19T07:39:50+07:00",
+                                "approver": {
+                                    "id": 1466930,
+                                    "nickname": "IOwl",
+                                    "points": 500803,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/d5a\/61354785b9dfbaad5f9c7163472dbc88.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/d9b\/6059311a04e72b31c42d91fcb6b70d14.png"
+                                    },
+                                    "content_approved_count": 52290
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 113893,
+                                "nick": "dekdi",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d7a\/1ea7a41ad3619a19ab51139eaa345e9f.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 4,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 4524661,
+            "nick": "CLAY444",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 30,
+                "comments": 8
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4499167,
+            "nick": "BryAdamz",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 414,
+                "comments": 36
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d61\/f976c30069fb417bba85b29f4d7528dc.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d64\/3486f6251e3664726dc19d5e25ac61fc.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d61\/f976c30069fb417bba85b29f4d7528dc.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d64\/3486f6251e3664726dc19d5e25ac61fc.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        },
+        {
+            "id": 2431501,
+            "nick": "irawanak",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 1,
+                "comments": 7
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d26\/c1c227aca526466f1827ea050574891e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d25\/37c2d8e567f7f5e4f1e9b71da8d81468.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d26\/c1c227aca526466f1827ea050574891e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d25\/37c2d8e567f7f5e4f1e9b71da8d81468.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1423621,
+            "nick": "marschelly00",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 230,
+                "comments": 82
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dba\/8bab2423cda20a1001fbe2f7f2bc4b72.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d8d\/88784b8dca7e7d3514ed98f20eeb117b.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dba\/8bab2423cda20a1001fbe2f7f2bc4b72.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d8d\/88784b8dca7e7d3514ed98f20eeb117b.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 62078,
+            "nick": "rahmatunz",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 76,
+                "answers": 1017,
+                "comments": 351
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dbb\/b62b3177664a4bc1afb72d598f3ee24e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d98\/3299ed20a805082aa216099ab6731c1d.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dbb\/b62b3177664a4bc1afb72d598f3ee24e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d98\/3299ed20a805082aa216099ab6731c1d.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        },
+        {
+            "id": 1891296,
+            "nick": "margakuma",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 269,
+                "answers": 68,
+                "comments": 162
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 4162154,
+            "nick": "tugas22",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 22,
+                "comments": 4
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d65\/6bc6a9d08ce7159e039183ad73ea45f5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dba\/b69be1b6841afa5d7976345c11fca4c1.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d65\/6bc6a9d08ce7159e039183ad73ea45f5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dba\/b69be1b6841afa5d7976345c11fca4c1.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 997069,
+            "nick": "rezeki300",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 30,
+                "answers": 19,
+                "comments": 14
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 113893,
+            "nick": "dekdi",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 63,
+                "answers": 541,
+                "comments": 149
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df1\/ef1ff2456266115bebda7f54ee57cdf0.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7a\/1ea7a41ad3619a19ab51139eaa345e9f.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df1\/ef1ff2456266115bebda7f54ee57cdf0.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7a\/1ea7a41ad3619a19ab51139eaa345e9f.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        }
+    ],
+    "validated": false
+}

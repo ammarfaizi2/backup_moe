@@ -1,0 +1,1341 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 2954922,
+                        "subject_id": 5,
+                        "user_id": 1581415,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 19,
+                            "ptsForResp": 10,
+                            "ptsForBest": 5
+                        },
+                        "content": "Tolong Translatean ke bahasa indonesia yang baik dan benar ya kk tanpa menggunakan google translate ;-)<br \/><br \/>\nVideo 7<br \/>\n1.\tI don\u2019t know. I\u2019ll probably stay in the hotel and relax.<br \/>\n2.\tOh thankyou, but you have your family.<br \/>\n3.\tYes, and they want to meet you. We\u2019re going to have roast chicken \u2013 traditional Aussie food.<br \/>\n4.\tWe eat at about one-o-clock. So about twelve-thirty? I\u2019ll show you the house.<br \/>\n5.\tI\u2019ll get my brother to pick you up.<br \/>\n6.\tWhy don\u2019t you come to lunch with us at home?<br \/>\nVideo 8<br \/>\n1.\tAnne\u2019s here. You\u2019ve met my daughter Louise.<br \/>\n2.\tBut you haven\u2019t met my little brother. This is Steve.<br \/>\n3.\tI was going to pick you up this morning. You wouldn\u2019t let me.<br \/>\n4.\tI\u2019m sorry. I like to find my own way around.<br \/>\n5.\tNo worries. Maybe another time.<br \/>\n6.\tIt\u2019s been a lot of work, but we\u2019re getting there. This is the bathroom. This is my daughter\u2019s bedroom. And here\u2019s the kitchen.<br \/>\nVideo 9<br \/>\n1.\tSo Anne, have you been to an Australian home before?<br \/>\n2.\tNo, never. It's a beautiful home Sarah. So big! The rooms are much bigger than at home. There's more space here.<br \/>\n3.\tWhat about you Steve? Do you like to travel?<br \/>\n4.\tYes. Yeah, I've been to Kula Lumpur, and to Bali. Bali's great!<br \/>\n5.\tYou're lucky. I haven't been to the zoo. I'd love to go to the zoo<br \/>\n6.\tYeah, and more exciting. It's so boring here.<br \/><br \/>",
+                        "created": "2015-08-04T16:25:08+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2015-08-04T17:04:41+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Tolong Translatean ke <em>bahasa<\/em> indonesia yang baik dan benar ya kk tanpa menggunakan google translate ;-)\nVideo 7\n1.\t<em>I<\/em> don\u2019t know. <em>I<\/em>\u2019ll probably stay in the hotel and relax.\n2.\tOh thankyou, but <em>you<\/em> have your family.\n3.\tYes, and they want to meet <em>you.<\/em> We\u2019re going to have roast chicken \u2013 traditional Aussie food.\n4.\tWe eat at about one-o-clock. <em>So<\/em> about twelve-thirty? <em>I<\/em>\u2019ll show <em>you<\/em> the house.\n5.\t<em>I<\/em>\u2019ll get my brother to pick <em>you<\/em> up.\n6.\t<em>Why<\/em> don\u2019t <em>you<\/em> come to lunch with us at home?\nVideo 8\n1.\tAnne\u2019s here. <em>You<\/em>\u2019ve met my daughter Louise.\n2.\tBut <em>you<\/em> haven\u2019t met my little brother. This is Steve.\n3.\t<em>I<\/em> was going to pick <em>you<\/em> up this morning. <em>You<\/em> wouldn\u2019t let me.\n4.\t<em>I<\/em>\u2019m sorry. <em>I<\/em> like to find my own way around.\n5.\tNo worries. Maybe another time.\n6.\tIt\u2019s been a lot of work, but we\u2019re getting there. This is the bathroom. This is my daughter\u2019s bedroom. And here\u2019s the kitchen.\nVideo 9\n1.\t<em>So<\/em> Anne, have <em>you<\/em> been to an Australian home before?\n2.\tNo, never. It's a beautiful home Sarah. <em>So<\/em> big! The rooms are <em>much<\/em> bigger than at home. There's more space here.\n3.\tWhat about <em>you<\/em> Steve? <em>Do<\/em> <em>you<\/em> like to travel?\n4.\tYes. Yeah, <em>I<\/em>'ve been to Kula Lumpur, and to Bali. Bali's great!\n5.\t<em>You<\/em>'re lucky. <em>I<\/em> haven't been to the zoo. <em>I<\/em>'d <em>love<\/em> to go to the zoo\n6.\tYeah, and more exciting. It's <em>so<\/em> boring here.",
+                        "snippet_content": "<em>So<\/em> about twelve-thirty? <em>I<\/em>\u2019ll show <em>you<\/em> the house.\n5.\t<em>I<\/em>\u2019ll get my brother to pick <em>you<\/em> up.\n6.\t<em>Why<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 3758953,
+                            "user_id": 114034,
+                            "task_id": 2954922,
+                            "points": 10,
+                            "created": "2015-08-04T17:04:41+07:00",
+                            "content": "Video 7<br \/>1. Saya tidak tahu. Mungkin saya akan menetap di hotel dan beristirahat.<br \/>2. Terima kasih, tapi kamu punya keluargamu sendiri.<br \/>3. Mereka ingin menemuimu. Kami berencana untuk makan ayam panggang -\u00a0makanan khas Australia.<br \/>4. Kami makan sekitar jam 1. Gimana kalau jam setengah 12? Akan ku tunjukkan yang mana rumahnya.<br \/>5. Aku akan bilang abangku untuk menjemputmu.<br \/>6. Datanglah ke rumah kami untuk makan siang.<br \/><br \/>Video 8<br \/>1. Anne ada disini. Kamu sudah bertemu dengan anak perempuanku Louise.<br \/>2. Tapi kamu belum bertemu dengan adikku yang laki laki. Ini namanya Steve.<br \/>3. Aku tadi mau menjemputmu pagi ini. Tapi kamu tidak mengizinkanku.<br \/>4. Aku minta maaf, tapi aku lebih\u00a0suka mencari jalan keluarku sendiri.<br \/>5. Tak usah khawatir. Mungkin lain waktu.<br \/>6. Ini adalah pekerjaan yang banyak, tapi sebentar lagi sampai\/selesai. Ini adalah kamar mandi. Ini adalah kamar tidur anak perempuan saya. Dan disinilah dapurnya.<br \/><br \/>Video 9<br \/>1. Jadi Anne, pernahkah kamu datang ke rumah orang Australia sebelumnya?<br \/>2. Tidak, tidak pernah. Rumah ini adalah rumah yg indah Sarah. Besar sekali! Kamar kamarnya jauh lebih besar dari yang ada di rumahku. Masih banyak ruang disini.<br \/>3. Bagaimana denganmu Steve? Apakah kamu suka berkelana?<br \/>4. Ya. Saya pernah ke Kuala Lumpur dan Bali. Bali itu sangat menarik\/bagus!<br \/>5. Kamu beruntung. Saya belum pernah ke kebun binatang. Saya ingin sekali pergi kesana.<br \/>6. Ya, disana juga lebih menyenangkan. Disini sangat membosankan.<br \/><br \/>Semoga membantu :)",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 2,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2015-08-22T19:16:22+07:00",
+                                "approver": {
+                                    "id": 1474741,
+                                    "nickname": "gumantinr",
+                                    "points": 285648,
+                                    "grade": 3,
+                                    "gender": 1,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/d6c\/6886afc4fe968c0a4e99b01c1cf79277.jpg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/d87\/62084e44ff4fa7912aea7c8054bc01be.jpg"
+                                    },
+                                    "content_approved_count": 9543
+                                }
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 2380582,
+                                        "user_id": 1581415,
+                                        "content": "terima kasih kk",
+                                        "created": "2015-08-04T17:08:08+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 2380619,
+                                        "user_id": 114034,
+                                        "content": "sama sama kak!",
+                                        "created": "2015-08-04T17:16:25+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 2
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 114034,
+                                "nick": "ericaa",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d09\/d540f04777ec5983b346fee8e11b8ee6.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 2950276,
+                        "subject_id": 5,
+                        "user_id": 1608654,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 25,
+                            "ptsForResp": 13,
+                            "ptsForBest": 7
+                        },
+                        "content": "Tolong Translate kan ke bahasa indonesia yang baik dan benar tanpa menggunakan google translate<br \/><br \/>\nVideo 6<br \/>\n1.\tWhere did he go?<br \/>\n2.\tMy parents agreed. They let him come to Australia to study.<br \/>\n3.\tI don\u2019t know. He wrote every week, and then the letters stopped.<br \/>\n4.\tDid you phone them?<br \/>\n5.\tYes, of course. He left there a year ago. They don\u2019t know where he went.<br \/>\n6.\tI don\u2019t know. He did, but he doesn\u2019t answer it now.<br \/>\nVideo 7<br \/>\n1.\tIt sells well in restaurants here. I think these\u2019ll sell well in Singapore.<br \/>\n2.\tSo, are you enjoying the city?<br \/>\n3.\tOh thankyou, but you have your family.<br \/>\n4.\tWe eat at about one-o-clock. So about twelve-thirty? I\u2019ll show you the house.<br \/>\n5.\tI\u2019ll get my brother to pick you up.<br \/>\n6.\tAlright then. That\u2019s settled!<br \/>\nVideo 8<br \/>\n1.\tHow much is that?<br \/>\n2.\tOoh! Sorry about my heavy bag.<br \/>\n3.\tI was going to pick you up this morning. You wouldn\u2019t let me.<br \/>\n4.\tNo worries. Maybe another time.<br \/>\n5.\tI\u2019m sorry. I like to find my own way around.<br \/>\n6.\tBut you haven\u2019t met my little brother. This is Steve.<br \/>\nVideo 9<br \/>\n1.\tSo Anne, have you been to an Australian home before?<br \/>\n2.\tYeah, and more exciting. It's so boring here<br \/>\n3.\tI just don't see the point of it<br \/>\n4.\tYes. Yeah, I've been to Kula Lumpur, and to Bali. Bali's great!<br \/>\n5.\tYou're lucky. I haven't been to the zoo. I'd love to go to the zoo.<br \/>\n6.\tWhat about you Steve? Do you like to travel?<br \/>\nVideo 10<br \/>\n1.\tThere\u2019s something I haven\u2019t told you.<br \/>\n2.\tHe\u2019s missing. One reason I came to Australia is to find him.<br \/>\n3.\tNot yet. I\u2019ve hired a private investigator.<br \/>\n4.\tI\u2019m so sorry. Have you had any luck?<br \/>\n5.\tWhat do you think\u2019s happened to him? Have you any idea?<br \/>\n6.\tI\u2019m sure he\u2019s alright. If something bad had happened, you would have heard.<br \/>",
+                        "created": "2015-08-03T21:38:50+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2015-08-03T21:53:41+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Tolong Translate kan ke <em>bahasa<\/em> indonesia yang baik dan benar tanpa menggunakan google translate\nVideo 6\n1.\tWhere did he go?\n2.\tMy parents agreed. They let him come to Australia to study.\n3.\t<em>I<\/em> don\u2019t know. He wrote every week, and then the letters stopped.\n4.\tDid <em>you<\/em> phone them?\n5.\tYes, of course. He left there a year ago. They don\u2019t know where he went.\n6.\t<em>I<\/em> don\u2019t know. He did, but he doesn\u2019t answer it now.\nVideo 7\n1.\tIt sells well in restaurants here. <em>I<\/em> think these\u2019ll sell well in Singapore.\n2.\t<em>So<\/em>, are <em>you<\/em> enjoying the city?\n3.\tOh thankyou, but <em>you<\/em> have your family.\n4.\tWe eat at about one-o-clock. <em>So<\/em> about twelve-thirty? <em>I<\/em>\u2019ll show <em>you<\/em> the house.\n5.\t<em>I<\/em>\u2019ll get my brother to pick <em>you<\/em> up.\n6.\tAlright then. That\u2019s settled!\nVideo 8\n1.\tHow <em>much<\/em> is that?\n2.\tOoh! Sorry about my heavy bag.\n3.\t<em>I<\/em> was going to pick <em>you<\/em> up this morning. <em>You<\/em> wouldn\u2019t let me.\n4.\tNo worries. Maybe another time.\n5.\t<em>I<\/em>\u2019m sorry. <em>I<\/em> like to find my own <em>way<\/em> around.\n6.\tBut <em>you<\/em> haven\u2019t met my little brother. This is Steve.\nVideo 9\n1.\t<em>So<\/em> Anne, have <em>you<\/em> been to an Australian home before?\n2.\tYeah, and more exciting. It's <em>so<\/em> boring here\n3.\t<em>I<\/em> just don't see the point of it\n4.\tYes. Yeah, <em>I<\/em>'ve been to Kula Lumpur, and to Bali. Bali's great!\n5.\t<em>You<\/em>'re lucky. <em>I<\/em> haven't been to the zoo. <em>I<\/em>'d <em>love<\/em> to go to the zoo.\n6.\tWhat about <em>you<\/em> Steve? <em>Do<\/em> <em>you<\/em> like to travel?\nVideo 10\n1.\tThere\u2019s something <em>I<\/em> haven\u2019t told <em>you.<\/em>\n2.\tHe\u2019s missing. One reason <em>I<\/em> came to Australia is to find him.\n3.\tNot yet. <em>I<\/em>\u2019ve hired a private investigator.\n4.\t<em>I<\/em>\u2019m <em>so<\/em> sorry. Have <em>you<\/em> had any luck?\n5.\tWhat <em>do<\/em> <em>you<\/em> think\u2019s happened to him? Have <em>you<\/em> any idea?\n6.\t<em>I<\/em>\u2019m sure he\u2019s alright. If something bad had happened, <em>you<\/em> would have heard.",
+                        "snippet_content": "Not yet. <em>I<\/em>\u2019ve hired a private investigator.\n4.\t<em>I<\/em>\u2019m <em>so<\/em> sorry. Have <em>you<\/em> had any luck?\n5.\tWhat <em>do<\/em> <em>you<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 3754972,
+                            "user_id": 1579831,
+                            "task_id": 2950276,
+                            "points": 13,
+                            "created": "2015-08-03T21:53:41+07:00",
+                            "content": "1.Kemana dia pergi<br \/>2.Orang tuaku setuju.Mereka membiarkan datang ke Australia untuk belajar.<br \/>3.Aku tidak tahu.Dia menulis setiap minggu dan suratnya berhenti.<br \/>4.Apakah kamu menelponnya?<br \/>5.Ya tentu saja.Dia tinggal disitu setahun yg lalu.Mereka tidak tahu kemana dia pergi.<br \/>5.Aku tidak tahu.Dia ada tetapi dia tidak menjawab sekarang<br \/><br \/>selanjutnya mungkin ada yg mau jelasin :) mau tidur :)",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 2378397,
+                                        "user_id": 1608654,
+                                        "content": "yg lengkap donk kk",
+                                        "created": "2015-08-03T21:55:42+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 2384826,
+                                        "user_id": 1579831,
+                                        "content": "oke deh",
+                                        "created": "2015-08-05T15:39:13+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 2
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1579831,
+                                "nick": "Matthew12",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d40\/ed54bca9dcbed027f75376ac3c78aaf4.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 3575391,
+                        "subject_id": 5,
+                        "user_id": 693495,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Tolong artikan ke dalam bahasa indonesia yang benar...plissss<br \/>\n CONGRATULATIONS!<br \/>\nNura arrives in big city to help her parents settle their debts. She moves into Juna's house as a hired servent. In the house,Juna is a rich and proud young man who inherits his father's business. He is lazy and goes to campus just to meet friends and chase pretty girls who love his wealth.<br \/>\nIn his chaotic life, Juna is betrayed by his own cousin and uncle leading to his downfall. Juna's life is in a real mess. However, Nura helps him gain his confidence and reorganize his life. Nura begins to teach the rich spoiled brat some manners throught her down to earth scolding and no-nonsense attitude. The girl helps him pick up the pieces in his life,from defeat to success. Finally, after a long struggle and hard work, he can regain his life. He is now in the position of the director of the company that he inherits from his father.<br \/>\nMany of his friends congratulate him. Johny,his best friend says,Congratulations! You deserved it,man.<br \/>\nThank you very much. This is because you're always with me, Juna responds cheerfully.<br \/>\nI'm very happy for you, Juna. Your company is now back to you, another friend says.<br \/>\nJuna replies with a happy tone, Thank you. I cannot forget you help me.<br \/>\nOthers shake his hand and say, Tha's wonderful, Juna<br \/>\n'Good for you! ''Good luck''<br \/>\n'Best of luck!<br \/>\n'Well done''<br \/>\n'Fantastic job!''<br \/>\n'You must be very proud of your achievement.''<br \/>\nHe responds to them joyfully, 'Oh ,thanks, \"Thank you very much for saying so. \"Oh I have a lot to learn,yet, \"I am glad you thinks so.<br \/>\nHis staff also congratulate him, I'd like to congratulate you on your accomplishment, Sir!<br \/>\nPlease accept my warmest congratulation.<br \/>\nI must congratulate you on you success in returning the company back to your family.<br \/>\nAgain,he answers those expressions contentedly, It's very good of you say so, How nice of you to say that, Thank you very much for saying so.<br \/>\nNura observes this event from the backdoor. She cries happily for her master who has changed into a mature, stable young man.<br \/>\nANSWER THE FOLLOWING QUESTIONS<br \/>\n1. Who is Nura????<br \/>\n2. Who is Juna<br \/>\n3. What's Juna's negative characteristics??<br \/>\n4. How does Nura teach Juna??<br \/>\n5. What leads Juna's life to his downfall???<br \/>\n6. Whar does Nura do to return the wealth of Juna's familly???<br \/>\n7. Who first congratulate Juna when he regains success??<br \/>\n8. How do they congratulate Juna? What expressions are used,<br \/>\n9. What expressions are used by Juna's staff to congratulate him???<br \/>\n10. How does Nura feel about Juna's achievement???",
+                        "created": "2015-09-20T19:38:34+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2015-09-26T12:00:06+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [
+                                {
+                                    "id": 2717934,
+                                    "user_id": 1915515,
+                                    "content": "buset banyak amat :v males ngetiknya",
+                                    "created": "2015-09-20T19:42:50+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                },
+                                {
+                                    "id": 2717952,
+                                    "user_id": 693495,
+                                    "content": "yang ceritanya aj,,,",
+                                    "created": "2015-09-20T19:44:10+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                },
+                                {
+                                    "id": 2720316,
+                                    "user_id": 663672,
+                                    "content": "Wkwk byk bgt",
+                                    "created": "2015-09-20T21:47:41+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                }
+                            ],
+                            "last_id": 0,
+                            "count": 3
+                        },
+                        "highlighted_content": "Tolong artikan ke dalam <em>bahasa<\/em> indonesia yang benar...plissss\n CONGRATULATIONS!\nNura arrives in big city to help her parents settle their debts. She moves into Juna's house as a hired servent. In the house,Juna is a rich and proud young man <em>who<\/em> inherits his father's business. He is lazy and goes to campus just to meet friends and chase pretty girls <em>who<\/em> <em>love<\/em> his wealth.\nIn his chaotic life, Juna is betrayed by his own cousin and uncle leading to his downfall. Juna's life is in a real mess. However, Nura helps him gain his confidence and reorganize his life. Nura begins to teach the rich spoiled brat some manners throught her down to earth scolding and no-nonsense attitude. The girl helps him pick up the pieces in his life,from defeat to success. Finally, after a long struggle and hard work, he can regain his life. He is now in the position of the director of the company that he inherits from his father.\nMany of his friends congratulate him. Johny,his best friend says,Congratulations! <em>You<\/em> deserved it,man.\nThank <em>you<\/em> very <em>much.<\/em> This is because <em>you<\/em>'re always with me, Juna responds cheerfully.\n<em>I<\/em>'m very happy for <em>you<\/em>, Juna. Your company is now back to <em>you<\/em>, another friend says.\nJuna replies with a happy tone, Thank <em>you.<\/em> <em>I<\/em> cannot forget <em>you<\/em> help me.\nOthers shake his hand and say, Tha's wonderful, Juna\n'Good for <em>you<\/em>! ''Good luck''\n'Best of luck!\n'Well done''\n'Fantastic job!''\n'<em>You<\/em> must be very proud of your achievement.''\nHe responds to them joyfully, 'Oh ,thanks, \"Thank <em>you<\/em> very <em>much<\/em> for saying <em>so.<\/em> \"Oh <em>I<\/em> have a lot to learn,yet, \"<em>I<\/em> am glad <em>you<\/em> thinks <em>so.<\/em>\nHis staff also congratulate him, <em>I<\/em>'d like to congratulate <em>you<\/em> on your accomplishment, Sir!\nPlease accept my warmest congratulation.\n<em>I<\/em> must congratulate <em>you<\/em> on <em>you<\/em> success in returning the company back to your family.\nAgain,he answers those expressions contentedly, It's very good of <em>you<\/em> say <em>so<\/em>, How nice of <em>you<\/em> to say that, Thank <em>you<\/em> very <em>much<\/em> for saying <em>so.<\/em>\nNura observes this event from the backdoor. She cries happily for her master <em>who<\/em> has changed into a mature, stable young man.\nANSWER THE FOLLOWING QUESTIONS\n1. <em>Who<\/em> is Nura????\n2. <em>Who<\/em> is Juna\n3. What's Juna's negative characteristics??\n4. How does Nura teach Juna??\n5. What leads Juna's life to his downfall???\n6. Whar does Nura <em>do<\/em> to return the wealth of Juna's familly???\n7. <em>Who<\/em> first congratulate Juna when he regains success??\n8. How <em>do<\/em> they congratulate Juna? What expressions are used,\n9. What expressions are used by Juna's staff to congratulate him???\n10. How does Nura feel about Juna's achievement???",
+                        "snippet_content": "joyfully, 'Oh ,thanks, \"Thank <em>you<\/em> very <em>much<\/em> for saying <em>so.<\/em> \"Oh <em>I<\/em> have a lot to learn,yet, \"<em>I<\/em> am glad <em>you<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 4411135,
+                            "user_id": 1947619,
+                            "task_id": 3575391,
+                            "points": 5,
+                            "created": "2015-09-26T12:00:06+07:00",
+                            "content": "1. a hired servent<br \/>2. a rich and proud young man who inherits his father's buisiness<br \/>3.he is lazy and goes to campus just to meet friends and chase pretty girls who love his wealth.<br \/>4.by teaching him some manners through her down to earth scolding and no-nonsense attitude<br \/>5.nura<br \/>6.helping him pick up the pieces in his life, from defeat to success<br \/>7.johny,his bestfriend <br \/>8.'good for you !' 'good luck'<br \/>'best of luck' 'well done' 'fantastic job' <br \/>9.happy because juna has returned the company back to his family <br \/>10.she cries happily because her master has changed ",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1947619,
+                                "nick": "cia8",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 662881,
+                        "subject_id": 5,
+                        "user_id": 338998,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 17,
+                            "ptsForResp": 9,
+                            "ptsForBest": 5
+                        },
+                        "content": "Balas surat dibawah ini dengan memakai bahasa inggris. Mohon bantuannya!<br \/><br \/>\nA.letter from saidah<br \/>\nAssalamualaikum alia<br \/>\nIt was very interesting to read your letter about your self and your hometown.i would really like to be your pen friend.<br \/>\nI'm a sixteen year old school student from johor bahru in malaysia.actually i attend an islamic boarding school just outside the city but my family live in kuala lumpur.my eldest sister is a medical doctor.she will get married soon.my younger brother is an elementary school student in kl but he ofter writes to me via email. My favorite subjects are social sciences.i like history very much,it helps me know more how different countries existed in the past.at school we are supposed to use english at all times,even when we are in the dormitory,so we have become quite fluent although sometimes we slip back into malay,which is our mother tongue.<br \/>\nAs for hobbies,i'm really into songs and music my favorite singer is yusuf islam whose former name was cat steven. He's so cool! Another singer i like is maher zain with his religious songs.my favorite malay singer is of course siti nurhaliza.i also like watching movies,especially comedies,the actor i like best is tom cruise.<br \/>\nI'm really into books.i like reading novels and short stories.mostly by malay authors who you probably haven't heard of.i like some writers too,like andrean hirata and ahmad fuadi.my dream,when i'm older,is to be a writer of sclence fictton books set in the distant future. I'd really love to come to indonesia some day.i hearld that it has he largest number of muslims of any country.a book that i've just read menttons that there are some magnificcot places to visit,such as,bali,sulawesi,papua and borneol what about you.do you want to visit my country? Wassalam saidahmain idea text a letter from saidah?",
+                        "created": "2014-09-12T18:29:16+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2014-09-12T18:40:36+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Balas surat dibawah ini dengan memakai <em>bahasa<\/em> inggris. Mohon bantuannya!\nA.letter from saidah\nAssalamualaikum alia\nIt was very interesting to read your letter about your self and your hometown.<em>i<\/em> would really like to be your pen friend.\n<em>I<\/em>'m a sixteen year old school student from johor bahru in malaysia.actually <em>i<\/em> attend an islamic boarding school just outside the city but my family live in kuala lumpur.my eldest sister is a medical doctor.she will get married soon.my younger brother is an elementary school student in kl but he ofter writes to me via email. My favorite subjects are social sciences.<em>i<\/em> like history very <em>much<\/em>,it helps me know more how different countries existed in the past.at school we are supposed to use english at all times,even when we are in the dormitory,<em>so<\/em> we have become quite fluent although sometimes we slip back into malay,which is our mother tongue.\nAs for hobbies,<em>i<\/em>'m really into songs and music my favorite singer is yusuf islam whose former name was cat steven. He's <em>so<\/em> cool! Another singer <em>i<\/em> like is maher zain with his religious songs.my favorite malay singer is of course siti nurhaliza.<em>i<\/em> also like watching movies,especially comedies,the actor <em>i<\/em> like best is tom cruise.\n<em>I<\/em>'m really into books.<em>i<\/em> like reading novels and short stories.mostly by malay authors <em>who<\/em> <em>you<\/em> probably haven't heard of.<em>i<\/em> like some writers too,like andrean hirata and ahmad fuadi.my dream,when <em>i<\/em>'m older,is to be a writer of sclence fictton books set in the distant future. <em>I<\/em>'d really <em>love<\/em> to come to indonesia some day.<em>i<\/em> hearld that it has he largest number of muslims of any country.a book that <em>i<\/em>'ve just read menttons that there are some magnificcot places to visit,such as,bali,sulawesi,papua and borneol what about <em>you<\/em>.<em>do<\/em> <em>you<\/em> want to visit my country? Wassalam saidahmain idea text a letter from saidah?",
+                        "snippet_content": "<em>i<\/em> like reading novels and short stories.mostly by malay authors <em>who<\/em> <em>you<\/em> probably haven't heard of.<em>i<\/em> like some writers"
+                    },
+                    "responses": [
+                        {
+                            "id": 859410,
+                            "user_id": 448797,
+                            "task_id": 662881,
+                            "points": 9,
+                            "created": "2014-09-12T18:40:36+07:00",
+                            "content": "Assalamu'alaikum Saidah.<br \/>I'd love to receive letter from you. I've been waiting for your letter to come. <br \/>Are You serious ? Your eldest sister is a medical doctor ? Whoaa !! its amazing. She must be smart huh ? kidding~<br \/>You said you like about the social science ? because you like a history huh ? <br \/>oh my. Certainly i dont like about social science. The History making me be little crazy.<br \/>Id love your style, saidah.<br \/>I like tom cruise. He's so cool !<br \/>Well how about visiting indonesia ?<br \/>When i read that part. My heart was pump into sky !!<br \/>I want to meet you, saidah. I was thinking you have a beautiful face and wonderful thing else. <br \/>Yeah .. if the holiday came, i will ask my parent, to visit Kuala Lumpur.<br \/>Hoaamhh .. I too sleepy for send back you my letter. <br \/>Weel, See you, Saidah~<br \/>Wassalamu'alaikum ..<br \/>",
+                            "mark": 4,
+                            "marks_count": 7,
+                            "thanks": 14,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 652977,
+                                        "user_id": 338998,
+                                        "content": "Thankyou! &gt;.&lt;",
+                                        "created": "2014-09-12T19:05:02+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 653046,
+                                        "user_id": 448797,
+                                        "content": "you welcome :)",
+                                        "created": "2014-09-12T19:10:06+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 2
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 448797,
+                                "nick": "Ahadyah",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/df1\/104f356487c941e1a0da99edd401cbe7.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 3091143,
+                        "subject_id": 5,
+                        "user_id": 1662351,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 29,
+                            "ptsForResp": 15,
+                            "ptsForBest": 8
+                        },
+                        "content": "Bantu translate kan ke bahasa indonesia yang baik dan benar tanpa menggunakan mesin penerjemaah<br \/><br \/>\nVideo 16<br \/>\n1.\tNo sir. We don\u2019t serve alcohol. We have coffee, tea, soft drinks and juices.<br \/>\n2.\tOkay. I\u2019d like a\u2026 orange juice and a pie with chips. Do you have sauce?<br \/>\n3.\tJust help yourself. And I\u2019ll bring the food when it\u2019s ready.<br \/>\n4.\tSometimes. I prefer tea. Or juice. So, was the koala the best?<br \/>\n5.\tMaybe one day. I don\u2019t eat a lot of meat<br \/>\n6.\tIt\u2019s delicious. You should try one. It\u2019s real Aussie food.<br \/>\nVideo 17<br \/>\n1.\tTell me about your life in Singapore. What do you do every day?<br \/>\n2.\tWell, I work in my father\u2019s business, importing wines. I live with my family.<br \/>\n3.\tHow do you get to work? Do you catch a bus?<br \/>\n4.\tUsually. Sometimes I go with my father in his car. What about you? What do you do?<br \/>\n5.\tMostly. It\u2019s not easy, being a builder. But it\u2019s outside. I prefer to work outside.<br \/>\n6.\tI never work outside. Occasionally I travel though \u2013 like now.<br \/>\nVideo 18<br \/>\n1.\tNot too boring? You must have been there a hundred times.<br \/>\n2.\tI\u2019m going to cook a Chinese meal for you and your family.<br \/>\n3.\tHmmm. Do you like Chinese food?<br \/>\n4.\tNot since I was a kid. It was great.<br \/>\n5.\tVery much. Thankyou for taking me. How about you<br \/>\n6.\tCould I have my key please?<br \/>\nVideo 19<br \/>\n1.\tAnd what did he say? Does he know what happened?<br \/>\n2.\tOh, about a year ago. He didn\u2019t tell anyone. But he left a letter with the Professor.<br \/>\n3.\tA letter! Have you got it? Where is it<br \/>\n4.\tYour brother had a girlfriend.<br \/>\n5.\tReally! He didn\u2019t tell me. Who is she?<br \/>\n6.\tWell, I don\u2019t know yet, but I\u2019m sure I can find her. We\u2019re closing in Ms Lee. Fear not.<br \/>\nVideo 20<br \/>\n1.\tI watched you walking. You walk sadly. I\u2019m old. I walk slowly. But you walk sadly.<br \/>\n2.\tNot too serious I hope?<br \/>\n3.\tWell I do have a problem.<br \/>\n4.\tThankyou. Sometimes when people speak very quickly I can\u2019t understand.<br \/>\n5.\tAnd I see badly these days. What number bus is that, dear?<br \/>\n6.\tWell I do have a problem.<br \/><br \/>",
+                        "created": "2015-08-18T14:50:42+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2015-08-18T15:22:00+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Bantu translate kan ke <em>bahasa<\/em> indonesia yang baik dan benar tanpa menggunakan mesin penerjemaah\nVideo 16\n1.\tNo sir. We don\u2019t serve alcohol. We have coffee, tea, soft drinks and juices.\n2.\tOkay. <em>I<\/em>\u2019d like a\u2026 orange juice and a pie with chips. <em>Do<\/em> <em>you<\/em> have sauce?\n3.\tJust help yourself. And <em>I<\/em>\u2019ll bring the food when it\u2019s ready.\n4.\tSometimes. <em>I<\/em> prefer tea. Or juice. <em>So<\/em>, was the koala the best?\n5.\tMaybe one day. <em>I<\/em> don\u2019t eat a lot of meat\n6.\tIt\u2019s delicious. <em>You<\/em> should try one. It\u2019s real Aussie food.\nVideo 17\n1.\tTell me about your life in Singapore. What <em>do<\/em> <em>you<\/em> <em>do<\/em> every day?\n2.\tWell, <em>I<\/em> work in my father\u2019s business, importing wines. <em>I<\/em> <em>live<\/em> with my family.\n3.\tHow <em>do<\/em> <em>you<\/em> get to work? <em>Do<\/em> <em>you<\/em> catch a bus?\n4.\tUsually. Sometimes <em>I<\/em> go with my father in his car. What about <em>you<\/em>? What <em>do<\/em> <em>you<\/em> <em>do<\/em>?\n5.\tMostly. It\u2019s not easy, being a builder. But it\u2019s outside. <em>I<\/em> prefer to work outside.\n6.\t<em>I<\/em> never work outside. Occasionally <em>I<\/em> travel though \u2013 like now.\nVideo 18\n1.\tNot too boring? <em>You<\/em> must have been there a hundred times.\n2.\t<em>I<\/em>\u2019m going to cook a Chinese meal for <em>you<\/em> and your family.\n3.\tHmmm. <em>Do<\/em> <em>you<\/em> like Chinese food?\n4.\tNot since <em>I<\/em> was a kid. It was great.\n5.\tVery <em>much.<\/em> Thankyou for taking me. How about <em>you<\/em>\n6.\tCould <em>I<\/em> have my key please?\nVideo 19\n1.\tAnd what did he say? Does he know what happened?\n2.\tOh, about a year ago. He didn\u2019t tell anyone. But he left a letter with the Professor.\n3.\tA letter! Have <em>you<\/em> got it? Where is it\n4.\tYour brother had a girlfriend.\n5.\tReally! He didn\u2019t tell me. <em>Who<\/em> is she?\n6.\tWell, <em>I<\/em> don\u2019t know yet, but <em>I<\/em>\u2019m sure <em>I<\/em> can find her. We\u2019re closing in Ms Lee. Fear not.\nVideo 20\n1.\t<em>I<\/em> watched <em>you<\/em> walking. <em>You<\/em> walk sadly. <em>I<\/em>\u2019m old. <em>I<\/em> walk slowly. But <em>you<\/em> walk sadly.\n2.\tNot too serious <em>I<\/em> hope?\n3.\tWell <em>I<\/em> <em>do<\/em> have a problem.\n4.\tThankyou. Sometimes when people speak very quickly <em>I<\/em> can\u2019t understand.\n5.\tAnd <em>I<\/em> see badly these days. What number bus is that, dear?\n6.\tWell <em>I<\/em> <em>do<\/em> have a problem.",
+                        "snippet_content": "life in Singapore. What <em>do<\/em> <em>you<\/em> <em>do<\/em> every day?\n2.\tWell, <em>I<\/em> work in my father\u2019s business, importing wines. <em>I<\/em> <em>live<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 3870801,
+                            "user_id": 1674738,
+                            "task_id": 3091143,
+                            "points": 15,
+                            "created": "2015-08-18T15:22:00+07:00",
+                            "content": "Video 16<br \/>1. Tidak ada pak. Kami tidak melayani alkohol. Kami memiliki teh, kopi, minuman ringan, dan jus.<br \/>2. Oke. saya mau jus jeruk dan kue dengan keripik. Apakah anda memiliki saus?<br \/>3. Hanya membantu diri anda sendiri. Dan aku akan membawa makanan ketika siap.<br \/>4. Kadang-kadang, saya lebih suka teh atau jus. Jadi, apakah koala yang terbaik?<br \/>5. Mungkin suatu hari. Saya tidak makan banyak daging.<br \/>6. Sangat lezat. anda harus mencoba satu. Ini nyata makanan Aussie.<br \/><br \/>Video 17<br \/>1. Ceritakan tentang kehidupan anda di Singapura. Apa yang kamu lakukan setiap hari?<br \/>2. Nah, saya bekerja di bisnis ayahku, mengimpor anggur. saya tinggal bersama keluarga.<br \/>3. Bagaimana anda bisa bekerja? apakah anda menaiki bus?<br \/>4. Biasanya. kadang-kadang saya pergi dengan ayah saya di mobilnya. Bagaimana denganmu? Apa yang kamu kerjakan?<br \/>5. Sebagian besar. ini tidah mudah, menjadi seorang pembangun. Tapi itu di luar. saya lebih memilih\u00a0untuk bekerja di luar.<br \/>6. Saya tidak pernah bekerja di luar. Kadang-kadang saya bepergian meskipun seperti sekarang.<br \/><br \/>Video 18<br \/>1. Tidak terlalu membosankan? anda harus berada di sana seratus kali.<br \/>2. aku akan memasak makanan cina untuk anda dan keluarga anda.<br \/>3. Hmm, apakah anda suka makanan cina?<br \/>4. tidak sejak aku masih kecil. itu bagus.<br \/>5. Sangat banyak. terimakasih telah mengambil saya. bagaimana dengan kamu?<br \/>6. BIsakah saya memiliki kunci saya? Kumohon?<br \/><br \/>Video 19<br \/>1. Dan apa yang dia katakan? Apakah dia tau apa yang terjadi?<br \/>2. Oh, sekitar satu tahun yang lalu. Dia tidak memberi tahu siapa pun. Tapi dia meninggalkan surat kepada profesor.<br \/>3. sebuah surat! apakah kamu sudah menerimanya? dimana itu<br \/>4. Kakakmu punya pacar<br \/>5. benar-benar! dia tidak memberitau saya. siapa dia?<br \/>6. nah, saya tidak tahu, tapi aku yakin aku bisa menemukannya. Kami menutup di Ms Lee, jangan takut.<br \/><br \/>Video 20<br \/>1. aku melihat kamu berjalan. kamu berjalan dengan sedih. saya sudah tua. Aku berjalan perlahan.<br \/>2. tidak terlalu serius saya berharap<br \/>3. nah saya punya masalah<br \/>4. terimakasih. kadang-kadang ketika orang berbicara sangat cepat aku tidak bisa mengerti<br \/>5. dan saya terlihat buruk hari ini. apa nomor bus itu, sayang?<br \/>6. nah saya punya masalah.<br \/><br \/>Maaf kalau salah.\u00a0",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1674738,
+                                "nick": "kinanthi14",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d9f\/f24930811f3aaf3b583929bea2c99aaf.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 3047413,
+                        "subject_id": 5,
+                        "user_id": 1581415,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 20,
+                            "ptsForResp": 10,
+                            "ptsForBest": 5
+                        },
+                        "content": "Tolong Bantu KK Translatekan Ke Bahasa Indonesia Yang Baik Dan Benar Tanpa Menggunakan Mesin Penerjamah Ya kk <br \/><br \/>\nVideo 16<br \/>\n1.\tNo sir. We don\u2019t serve alcohol. We have coffee, tea, soft drinks and juices.<br \/>\n2.\tOkay. I\u2019d like a\u2026 orange juice and a pie with chips. Do you have sauce?<br \/>\n3.\tJust help yourself. And I\u2019ll bring the food when it\u2019s ready.<br \/>\n4.\tSometimes. I prefer tea. Or juice. So, was the koala the best?<br \/>\n5.\tMaybe one day. I don\u2019t eat a lot of meat<br \/>\n6.\tIt\u2019s delicious. You should try one. It\u2019s real Aussie food.<br \/>\nVideo 17<br \/>\n1.\tTell me about your life in Singapore. What do you do every day?<br \/>\n2.\tWell, I work in my father\u2019s business, importing wines. I live with my family.<br \/>\n3.\tHow do you get to work? Do you catch a bus?<br \/>\n4.\tUsually. Sometimes I go with my father in his car. What about you? What do you do?<br \/>\n5.\tMostly. It\u2019s not easy, being a builder. But it\u2019s outside. I prefer to work outside.<br \/>\n6.\tI never work outside. Occasionally I travel though \u2013 like now.<br \/>\nVideo 18<br \/>\n1.\tNot too boring? You must have been there a hundred times.<br \/>\n2.\tI\u2019m going to cook a Chinese meal for you and your family.<br \/>\n3.\tHmmm. Do you like Chinese food?<br \/>\n4.\tNot since I was a kid. It was great.<br \/>\n5.\tVery much. Thankyou for taking me. How about you<br \/>\n6.\tCould I have my key please?<br \/>\nVideo 19<br \/>\n1.\tAnd what did he say? Does he know what happened?<br \/>\n2.\tOh, about a year ago. He didn\u2019t tell anyone. But he left a letter with the Professor.<br \/>\n3.\tA letter! Have you got it? Where is it<br \/>\n4.\tYour brother had a girlfriend.<br \/>\n5.\tReally! He didn\u2019t tell me. Who is she?<br \/>\n6.\tWell, I don\u2019t know yet, but I\u2019m sure I can find her. We\u2019re closing in Ms Lee. Fear not.<br \/>\nVideo 20<br \/>\n1.\tI watched you walking. You walk sadly. I\u2019m old. I walk slowly. But you walk sadly.<br \/>\n2.\tNot too serious I hope?<br \/>\n3.\tWell I do have a problem.<br \/>\n4.\tThankyou. Sometimes when people speak very quickly I can\u2019t understand.<br \/>\n5.\tAnd I see badly these days. What number bus is that, dear?<br \/>\n6.\tWell I do have a problem.<br \/>",
+                        "created": "2015-08-12T15:13:26+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2015-08-12T15:20:04+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Tolong Bantu KK Translatekan Ke <em>Bahasa<\/em> Indonesia Yang Baik Dan Benar Tanpa Menggunakan Mesin Penerjamah Ya kk \nVideo 16\n1.\tNo sir. We don\u2019t serve alcohol. We have coffee, tea, soft drinks and juices.\n2.\tOkay. <em>I<\/em>\u2019d like a\u2026 orange juice and a pie with chips. <em>Do<\/em> <em>you<\/em> have sauce?\n3.\tJust help yourself. And <em>I<\/em>\u2019ll bring the food when it\u2019s ready.\n4.\tSometimes. <em>I<\/em> prefer tea. Or juice. <em>So<\/em>, was the koala the best?\n5.\tMaybe one day. <em>I<\/em> don\u2019t eat a lot of meat\n6.\tIt\u2019s delicious. <em>You<\/em> should try one. It\u2019s real Aussie food.\nVideo 17\n1.\tTell me about your life in Singapore. What <em>do<\/em> <em>you<\/em> <em>do<\/em> every day?\n2.\tWell, <em>I<\/em> work in my father\u2019s business, importing wines. <em>I<\/em> <em>live<\/em> with my family.\n3.\tHow <em>do<\/em> <em>you<\/em> get to work? <em>Do<\/em> <em>you<\/em> catch a bus?\n4.\tUsually. Sometimes <em>I<\/em> go with my father in his car. What about <em>you<\/em>? What <em>do<\/em> <em>you<\/em> <em>do<\/em>?\n5.\tMostly. It\u2019s not easy, being a builder. But it\u2019s outside. <em>I<\/em> prefer to work outside.\n6.\t<em>I<\/em> never work outside. Occasionally <em>I<\/em> travel though \u2013 like now.\nVideo 18\n1.\tNot too boring? <em>You<\/em> must have been there a hundred times.\n2.\t<em>I<\/em>\u2019m going to cook a Chinese meal for <em>you<\/em> and your family.\n3.\tHmmm. <em>Do<\/em> <em>you<\/em> like Chinese food?\n4.\tNot since <em>I<\/em> was a kid. It was great.\n5.\tVery <em>much.<\/em> Thankyou for taking me. How about <em>you<\/em>\n6.\tCould <em>I<\/em> have my key please?\nVideo 19\n1.\tAnd what did he say? Does he know what happened?\n2.\tOh, about a year ago. He didn\u2019t tell anyone. But he left a letter with the Professor.\n3.\tA letter! Have <em>you<\/em> got it? Where is it\n4.\tYour brother had a girlfriend.\n5.\tReally! He didn\u2019t tell me. <em>Who<\/em> is she?\n6.\tWell, <em>I<\/em> don\u2019t know yet, but <em>I<\/em>\u2019m sure <em>I<\/em> can find her. We\u2019re closing in Ms Lee. Fear not.\nVideo 20\n1.\t<em>I<\/em> watched <em>you<\/em> walking. <em>You<\/em> walk sadly. <em>I<\/em>\u2019m old. <em>I<\/em> walk slowly. But <em>you<\/em> walk sadly.\n2.\tNot too serious <em>I<\/em> hope?\n3.\tWell <em>I<\/em> <em>do<\/em> have a problem.\n4.\tThankyou. Sometimes when people speak very quickly <em>I<\/em> can\u2019t understand.\n5.\tAnd <em>I<\/em> see badly these days. What number bus is that, dear?\n6.\tWell <em>I<\/em> <em>do<\/em> have a problem.",
+                        "snippet_content": "life in Singapore. What <em>do<\/em> <em>you<\/em> <em>do<\/em> every day?\n2.\tWell, <em>I<\/em> work in my father\u2019s business, importing wines. <em>I<\/em> <em>live<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 3830736,
+                            "user_id": 84946,
+                            "task_id": 3047413,
+                            "points": 10,
+                            "created": "2015-08-12T15:20:04+07:00",
+                            "content": "1. Tdk pak, kt tdk menyediakan alkohol. Kita punya kopi, teh, minuman bersoda, dan jus.<br \/>2. oke, aku pesan... jus jeruk dan pai dengan keripik. apa kamu menyediakan saus?<br \/>3. silahkan saja. saya akan membawa makanannya jika sudah siap.<br \/>4. kadang\"\u00a0 aku lebih memilih teh atau jus. jadi, apakah koala yg plg baik?<br \/>5. mungkin suatu hr nannti, aku tdk mkn trlalu banyk daging.<br \/>6. ini enak. kamu harus mencobanya. ini beneran makanan australia<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 84946,
+                                "nick": "rhemalinaa",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dab\/349a16194da43bc4e3bc6e061ef830ec.png"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10376036,
+                        "subject_id": 5,
+                        "user_id": 4886105,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 50,
+                            "ptsForResp": 25,
+                            "ptsForBest": 13
+                        },
+                        "content": "PENDALAMAN MATERI SUKSES UJIAN - BAHASA INGGRIS<br \/><br \/>\nDear sir,<br \/>\ni am sick of seeing so much rubbish on the roadside.<br \/>\nlast week, i drove from woy woy to gosford and saw over 200 soft drink cans and 80 bottles on the roadside. the recycling and \"do the right thing\" campaigns obviously have not worked. mabye the police shoud set up \"litter\" cameras as well as speed cameras to catch motorists who pollute our roads. in south australia, you pay a deposit of five cents on cans and bottles and this encourages people to return them rather dump them. new south wales should introduce this idea immediately<br \/>\nsincerely,<br \/>\nw. thompson<br \/><br \/>\n1. what programmes have been set up by the government?<br \/>\na. paying a deposit of five cents<br \/>\nb. collecting of 200 soft drink cans <br \/>\nc. recycling and \"do the right thing\" campaigns<br \/>\nd. collecting of 200 soft drink cans and 80 bottles<br \/><br \/>\n2. where does thompson live?<br \/>\na. in new south wales<br \/>\nb. in south australia<br \/>\nc. in gosford<br \/>\nd. in the UK<br \/><br \/>\n3. what does thompson suggest?<br \/>\na. having a recycle program<br \/>\nb. paying a deposit on cans and bottles<br \/>\nc. collecting the rubbish from the street<br \/>\nd. working on \"do the right thing\" campaigns<br \/><br \/>\n4. ......to return them rather DUMP them<br \/>\nDUMP has a similar meaning to....<br \/>\na. throw away<br \/>\nb. take out<br \/>\nc. come out<br \/>\nd. leave alone<br \/><br \/>\n5. from the text, we know that thompson....<br \/>\na. wants to donate something to the city<br \/>\nb. is unhappy with the recent situation<br \/>\nc. is happy with the recent situation<br \/>\nd. has a problem with his car<br \/><br \/><br \/>\n*dbas*<br \/>",
+                        "created": "2017-04-23T13:28:09+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2017-04-23T13:30:58+07:00",
+                        "the_best_resp_id": "12530423",
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "PENDALAMAN MATERI SUKSES UJIAN - <em>BAHASA<\/em> INGGRIS\nDear sir,\n<em>i<\/em> am sick of seeing <em>so<\/em> <em>much<\/em> rubbish on the roadside.\nlast week, <em>i<\/em> drove from <em>woy<\/em> <em>woy<\/em> to gosford and saw over 200 soft drink cans and 80 bottles on the roadside. the recycling and \"<em>do<\/em> the right thing\" campaigns obviously have not worked. mabye the police shoud set up \"litter\" cameras as well as speed cameras to catch motorists who pollute our roads. in south australia, <em>you<\/em> pay a deposit of five cents on cans and bottles and this encourages people to return them rather dump them. new south wales should introduce this idea immediately\nsincerely,\nw. thompson\n1. what programmes have been set up by the government?\na. paying a deposit of five cents\nb. collecting of 200 soft drink cans \nc. recycling and \"<em>do<\/em> the right thing\" campaigns\nd. collecting of 200 soft drink cans and 80 bottles\n2. where does thompson <em>live<\/em>?\na. in new south wales\nb. in south australia\nc. in gosford\nd. in the UK\n3. what does thompson suggest?\na. having a recycle program\nb. paying a deposit on cans and bottles\nc. collecting the rubbish from the street\nd. working on \"<em>do<\/em> the right thing\" campaigns\n4. ......to return them rather DUMP them\nDUMP has a similar meaning to....\na. throw away\nb. take out\nc. come out\nd. leave alone\n5. from the text, we know that thompson....\na. wants to donate something to the city\nb. is unhappy with the recent situation\nc. is happy with the recent situation\nd. has a problem with his car\n*dbas*",
+                        "snippet_content": "UJIAN - <em>BAHASA<\/em> INGGRIS\nDear sir,\n<em>i<\/em> am sick of seeing <em>so<\/em> <em>much<\/em> rubbish on the roadside.\nlast week, <em>i<\/em> drove from <em>woy<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 12530423,
+                            "user_id": 1845419,
+                            "task_id": 10376036,
+                            "points": 25,
+                            "created": "2017-04-23T13:30:58+07:00",
+                            "content": "1. c recycling and \"do the right thing\" campaigns<br \/>2. a. in new south wales<br \/>3.\u00a0<span>b. paying a deposit on cans and bottles<br \/>4. a. throw away<br \/>5.\u00a0<\/span><span>b. is unhappy with the recent situation<\/span>",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 2,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 6825839,
+                                        "user_id": 4886105,
+                                        "content": "good job, thanks",
+                                        "created": "2017-04-23T13:32:26+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 6826706,
+                                        "user_id": 4789350,
+                                        "content": "bantu pertanyaan ku juga ya",
+                                        "created": "2017-04-23T15:40:49+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 2
+                            }
+                        },
+                        {
+                            "id": 12530531,
+                            "user_id": 4922497,
+                            "task_id": 10376036,
+                            "points": 25,
+                            "created": "2017-04-23T13:41:08+07:00",
+                            "content": "1.C<br \/>2.B<br \/>3.B<br \/>4.B<br \/>5.B<br \/>Maaf kalau salah ya.",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 6825927,
+                                        "user_id": 4886105,
+                                        "content": "koreksi no 2 dan 4 masih kurang tepat de, thanks",
+                                        "created": "2017-04-23T13:46:10+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 6827992,
+                                        "user_id": 4922497,
+                                        "content": "ya kak no 2.A dan no 4.A",
+                                        "created": "2017-04-23T18:23:06+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 2
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1845419,
+                                "nick": "weningd",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dfc\/868fac4838470c93217d79af4f543d9c.jpg"
+                            },
+                            {
+                                "id": 4922497,
+                                "nick": "eriktanata1",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d3e\/97a351b92dd8fe8df82549b67e0eaf0f.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 7,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 1581415,
+            "nick": "ian999",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 1,
+                "comments": 3
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db9\/2dab9abde6bb598e4bed219c2d34e618.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d21\/d4e2c6f8d923b1ed4bef1ad5627baa1f.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db9\/2dab9abde6bb598e4bed219c2d34e618.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d21\/d4e2c6f8d923b1ed4bef1ad5627baa1f.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 114034,
+            "nick": "ericaa",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 267,
+                "comments": 139
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d29\/0972465f122339397832d65b9dccf3bc.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d09\/d540f04777ec5983b346fee8e11b8ee6.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d29\/0972465f122339397832d65b9dccf3bc.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d09\/d540f04777ec5983b346fee8e11b8ee6.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Spam Fighter ",
+                    "Pakar"
+                ],
+                "count": 2
+            },
+            "ranks_ids": [
+                17,
+                5
+            ]
+        },
+        {
+            "id": 1608654,
+            "nick": "anggun212",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 0,
+                "comments": 5
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1579831,
+            "nick": "Matthew12",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 16,
+                "comments": 8
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d6b\/db46c7bfe3227b89a9eca8c9ab65384e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d40\/ed54bca9dcbed027f75376ac3c78aaf4.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d6b\/db46c7bfe3227b89a9eca8c9ab65384e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d40\/ed54bca9dcbed027f75376ac3c78aaf4.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 693495,
+            "nick": "aalisaputra",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 34,
+                "answers": 7,
+                "comments": 10
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 663672,
+            "nick": "harunahime",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 61,
+                "answers": 45,
+                "comments": 32
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9f\/9149942aba687f6619aee590f43e9e11.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d02\/c4e047ec7a33322d609f10efa650cd95.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9f\/9149942aba687f6619aee590f43e9e11.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d02\/c4e047ec7a33322d609f10efa650cd95.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 1915515,
+            "nick": "balqisyr14",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 14,
+                "answers": 84,
+                "comments": 56
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d5b\/796528dde58aabe69c29cf020bca8529.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de8\/2cee475ecee98856bc1cced07876d877.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d5b\/796528dde58aabe69c29cf020bca8529.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de8\/2cee475ecee98856bc1cced07876d877.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 1947619,
+            "nick": "cia8",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 2,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 338998,
+            "nick": "DioLevi",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 0,
+                "comments": 2
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 448797,
+            "nick": "Ahadyah",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 12,
+                "answers": 32,
+                "comments": 21
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d8f\/a088bdec3f53df419a7cc4fb09d9fcd6.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df1\/104f356487c941e1a0da99edd401cbe7.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d8f\/a088bdec3f53df419a7cc4fb09d9fcd6.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df1\/104f356487c941e1a0da99edd401cbe7.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 1662351,
+            "nick": "robi8999",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 6,
+                "answers": 1,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1674738,
+            "nick": "kinanthi14",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 50,
+                "comments": 6
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dbb\/a11b2dd09d827b3e306aebf5fa25a34b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d9f\/f24930811f3aaf3b583929bea2c99aaf.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dbb\/a11b2dd09d827b3e306aebf5fa25a34b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d9f\/f24930811f3aaf3b583929bea2c99aaf.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 84946,
+            "nick": "rhemalinaa",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 13,
+                "answers": 129,
+                "comments": 26
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df7\/8c2f855380fc27f494ebb8849b62fc9f.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dab\/349a16194da43bc4e3bc6e061ef830ec.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df7\/8c2f855380fc27f494ebb8849b62fc9f.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dab\/349a16194da43bc4e3bc6e061ef830ec.png"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 4886105,
+            "nick": "UN2017",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 391,
+                "answers": 4,
+                "comments": 295
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d08\/f64058018437e80a6289423736e94da1.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df5\/d4ffe9fbd5a0150255718f014f93d70e.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d08\/f64058018437e80a6289423736e94da1.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df5\/d4ffe9fbd5a0150255718f014f93d70e.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "GameMaker",
+                    "Ambisius"
+                ],
+                "count": 2
+            },
+            "ranks_ids": [
+                24,
+                3
+            ]
+        },
+        {
+            "id": 4789350,
+            "nick": "nadilacako",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 0,
+                "comments": 24
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d93\/a62981951582c37ddfcfe572cd109849.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d16\/d6c10c3aedfed61289402458bc39df0d.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d93\/a62981951582c37ddfcfe572cd109849.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d16\/d6c10c3aedfed61289402458bc39df0d.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 1845419,
+            "nick": "weningd",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 16,
+                "answers": 870,
+                "comments": 233
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d11\/5d21bc1c4d980190dc39cfc3d8ffe095.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dfc\/868fac4838470c93217d79af4f543d9c.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d11\/5d21bc1c4d980190dc39cfc3d8ffe095.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dfc\/868fac4838470c93217d79af4f543d9c.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Apprentice",
+                    "Spam Fighter ",
+                    "Si Hebat"
+                ],
+                "count": 3
+            },
+            "ranks_ids": [
+                20,
+                17,
+                6
+            ]
+        },
+        {
+            "id": 4922497,
+            "nick": "eriktanata1",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 97,
+                "comments": 106
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db9\/c00b712de989f9aca517cef05f135220.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d3e\/97a351b92dd8fe8df82549b67e0eaf0f.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db9\/c00b712de989f9aca517cef05f135220.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d3e\/97a351b92dd8fe8df82549b67e0eaf0f.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        }
+    ],
+    "validated": false
+}

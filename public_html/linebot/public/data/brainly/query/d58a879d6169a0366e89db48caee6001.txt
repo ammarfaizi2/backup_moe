@@ -1,0 +1,401 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 5742755,
+                        "subject_id": 15,
+                        "user_id": 2873691,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "kapan anime pertama kali dibuat dan berawal dari negara mana?",
+                        "created": "2016-04-11T19:50:40+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2016-04-11T20:10:08+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "kapan <em>anime<\/em> pertama kali dibuat dan <em>berawal<\/em> dari negara <em>mana<\/em>?",
+                        "snippet_content": "kapan <em>anime<\/em> pertama kali dibuat dan <em>berawal<\/em> dari negara <em>mana<\/em>?"
+                    },
+                    "responses": [
+                        {
+                            "id": 6814238,
+                            "user_id": 1822842,
+                            "task_id": 5742755,
+                            "points": 5,
+                            "created": "2016-04-11T20:10:08+07:00",
+                            "content": "Anime pertama kali dibuat di negara Jepang pada permulaan abad ke-20<br \/><br \/>Semoga membantu...",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2017-01-19T18:58:07+07:00",
+                                "approver": {
+                                    "id": 2663844,
+                                    "nickname": "Mahaguru",
+                                    "points": 262,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/db6\/c5fb7b6a68ce26ccea00dc12cb60d96f.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/df7\/fe8fb6dfa0d217a5d3fafa2a27e269ba.png"
+                                    },
+                                    "content_approved_count": 717882
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 6818097,
+                            "user_id": 2325975,
+                            "task_id": 5742755,
+                            "points": 5,
+                            "created": "2016-04-11T23:21:19+07:00",
+                            "content": "dari negara jepang tentunya... ",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1822842,
+                                "nick": "OchikawaRyuka",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d05\/73801d0683ed5506ae78b0de10b5dd6b.bmp"
+                            },
+                            {
+                                "id": 2325975,
+                                "nick": "brinaft",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10764607,
+                        "subject_id": 3,
+                        "user_id": 4422837,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "1.Pernyataan dibawah ini yang benar adalah<br \/>\na.berdasarkan makam Malik Ibrahim dapat disimpulkan bahwa Islam masuk ke Indonesia pada abad II<br \/>\nb.faktor politis yang ikut mendukung masuknya Islam ke Indonesia adalah jatuhnya kerajaan Majapahit<br \/>\nc.agama Islam juga dikenal melalui media seni wayang oleh Sunan Bonang<br \/>\nd.agama Islam pertama kali dikenal oleh pedagang-pedagang Indonesia yang aktif berdagang di India<br \/>\ne.berdasarkan makam Malik Al Saleh dapat disimpulkan bahwa Islam yang masuk ke Indonesia berasal dari Mesir<br \/>\n2.Dibawah ini yang menjelaskan mengenai kondisi sosial politik di Indonesia pada masa kedatangan Islam adalah<br \/>\na.masyarakat masih menganut kepercayaan anisme dan dinamisme<br \/>\nb.kondisi masyarakat pedalaman sangat terbuka terhadap pengaruh asing<br \/>\nc.banyak berdiri kerajaan-kerajaan Hindu<br \/>\nd.kerajaan-kerajaan Hindu di Indonesia silih berganti mengalami kemunduran<br \/>\ne.masyarakat Indonesia hidup dalam keanekaragaman penjajah bangsa Barat",
+                        "created": "2017-05-23T17:43:16+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-05-23T18:02:15+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "6",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "1.Pernyataan dibawah ini yang benar adalah\na.berdasarkan makam Malik Ibrahim dapat disimpulkan bahwa Islam masuk ke Indonesia pada abad II\nb.faktor politis yang ikut mendukung masuknya Islam ke Indonesia adalah jatuhnya kerajaan Majapahit\nc.agama Islam juga dikenal melalui media seni wayang oleh Sunan Bonang\nd.agama Islam pertama kali dikenal oleh pedagang-pedagang Indonesia yang aktif berdagang di India\ne.berdasarkan makam Malik Al Saleh dapat disimpulkan bahwa Islam yang masuk ke Indonesia <em>berasal<\/em> dari Mesir\n2.Dibawah ini yang menjelaskan mengenai kondisi sosial politik di Indonesia pada <em>masa<\/em> kedatangan Islam adalah\na.masyarakat masih menganut kepercayaan <em>anisme<\/em> dan dinamisme\nb.kondisi masyarakat pedalaman sangat terbuka terhadap pengaruh asing\nc.banyak berdiri kerajaan-kerajaan Hindu\nd.kerajaan-kerajaan Hindu di Indonesia silih berganti mengalami kemunduran\ne.masyarakat Indonesia hidup dalam keanekaragaman penjajah bangsa Barat",
+                        "snippet_content": "Dibawah ini yang menjelaskan mengenai kondisi sosial politik di Indonesia pada <em>masa<\/em> kedatangan Islam adalah\na.masyarakat masih menganut kepercayaan <em>anisme<\/em> dan"
+                    },
+                    "responses": [
+                        {
+                            "id": 13058186,
+                            "user_id": 5073140,
+                            "task_id": 10764607,
+                            "points": 5,
+                            "created": "2017-05-23T18:02:15+07:00",
+                            "content": "1. b<br \/>kerajaan mana pahit yg mundur mengakibatkan bebasnya kerajaan lain yg dikuasai kerajaan lain sehingga banyak pedagang arab yg masuk ke indo. untuk berjualan dan menyebarkan agama islam<br \/>2. A<br \/>   d<br \/>    e",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5073140,
+                                "nick": "catycuteblack",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/ddc\/9e2dd3ea949cbc7a0598eb3e61ad5a80.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 2,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 2873691,
+            "nick": "yosihariyanti",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 38,
+                "comments": 17
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 1822842,
+            "nick": "OchikawaRyuka",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 888,
+                "comments": 359
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/ddd\/c9ede1990aae1dc0c9b54a5bf30628fe.bmp",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d05\/73801d0683ed5506ae78b0de10b5dd6b.bmp"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/ddd\/c9ede1990aae1dc0c9b54a5bf30628fe.bmp",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d05\/73801d0683ed5506ae78b0de10b5dd6b.bmp"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        },
+        {
+            "id": 2325975,
+            "nick": "brinaft",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 7,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4422837,
+            "nick": "Rachel01",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d72\/59a727b76aae929814455d902766aec8.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dcf\/c95c9b44d323bfb7eb904865a7bc8de8.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d72\/59a727b76aae929814455d902766aec8.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dcf\/c95c9b44d323bfb7eb904865a7bc8de8.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 5073140,
+            "nick": "catycuteblack",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 17,
+                "comments": 3
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d1d\/fd819151b2300dc68f8af2ab8406a6f9.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ddc\/9e2dd3ea949cbc7a0598eb3e61ad5a80.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d1d\/fd819151b2300dc68f8af2ab8406a6f9.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ddc\/9e2dd3ea949cbc7a0598eb3e61ad5a80.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        }
+    ],
+    "validated": false
+}

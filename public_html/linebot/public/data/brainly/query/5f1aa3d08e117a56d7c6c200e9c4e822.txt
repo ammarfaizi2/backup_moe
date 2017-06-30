@@ -1,0 +1,520 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 6784362,
+                        "subject_id": 5,
+                        "user_id": 2669637,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 15,
+                            "ptsForResp": 8,
+                            "ptsForBest": 4
+                        },
+                        "content": "Task 3<br \/>\nListen to the following greeting letter and then fill in the blank!<br \/><br \/>\nTo:<br \/>\nPutri Mahardita<br \/>\nSemanggi Mojo No.27,Semanggi<br \/>\nSurakarta 57110<br \/><br \/>\nSurakarta,26th december 2015<br \/><br \/>\nDear putri,<br \/>\nI hope tjis letter finds all of you in the best of .....(1). All of us are also doing fine here. It....(2) since we met or wrote to each other. So i through of penning down a few lines...(3) with you.<br \/>\nWe just got back from our...(4) to thailand and had a great time. We went to Phuket and Bangkok. Amazing must see places. If you happen to ever plan a holiday to that side of the world do let me know and i shall give you tips on...(5)\u2026shopping,etc.<br \/>\nAnyways you say what is up with you and...(6)? I can see that it is keeping you really busy, as i...(7) from you at all.<br \/>\n....(8) to your parents and loads of love to you too.<br \/>\n....(9) and do write!...(10)<br \/><br \/>\nSincerely yours,<br \/>\nNadya Kumala Yosvita<br \/><br \/>\n(Beserta artinya yahhh)",
+                        "created": "2016-08-12T22:19:13+07:00",
+                        "responses": 1,
+                        "tickets": 3,
+                        "first_resp": "2016-08-13T14:54:41+07:00",
+                        "the_best_resp_id": "8062813",
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Task 3\nListen to the following greeting letter and then fill in the blank!\nTo:\nPutri Mahardita\nSemanggi Mojo No.27,Semanggi\nSurakarta 57110\nSurakarta,26th december 2015\nDear putri,\nI hope tjis letter finds all of <em>you<\/em> in the best of .....(1). All of us are also doing fine here. It....(2) since we met or wrote to each other. So i through of penning down a few lines...(3) with <em>you.<\/em>\nWe just got back from our...(4) to thailand and had a great time. We went to Phuket and Bangkok. Amazing must see places. If <em>you<\/em> happen to ever plan a holiday to that side of the world do let me know and i shall give <em>you<\/em> tips on...(5)\u2026shopping,etc.\nAnyways <em>you<\/em> say what is up with <em>you<\/em> and...(6)? I can see that it is keeping <em>you<\/em> really busy, as i...(7) from <em>you<\/em> at all.\n....(8) to your parents and loads of <em>love<\/em> to <em>you<\/em> too.\n....(9) and do write!...(10)\nSincerely yours,\n<em>Nadya<\/em> Kumala Yosvita\n(Beserta artinya yahhh)",
+                        "snippet_content": "at all.\n....(8) to your parents and loads of <em>love<\/em> to <em>you<\/em> too.\n....(9) and do write!...(10)\nSincerely yours,\n<em>Nadya<\/em> Kumala"
+                    },
+                    "responses": [
+                        {
+                            "id": 8062813,
+                            "user_id": 3413316,
+                            "task_id": 6784362,
+                            "points": 8,
+                            "created": "2016-08-13T14:54:41+07:00",
+                            "content": "1) Health and spirit<br \/>2) Hes been a very long time<br \/>3) to check things<br \/>4) Vacation<br \/>5) Sight seeing<br \/>6) How is work<br \/>7) Haven't heard<br \/>8) Give my love<br \/>9)Stay in touch<br \/>10)take care homework<br \/>",
+                            "mark": 4,
+                            "marks_count": 3,
+                            "thanks": 1,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 4565598,
+                                        "user_id": 2669637,
+                                        "content": "Artinya mna yhh",
+                                        "created": "2016-08-14T11:55:56+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3413316,
+                                "nick": "Silvia0507",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d45\/2b143eb150e4353bb9302e014a479c2d.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 6435849,
+                        "subject_id": 5,
+                        "user_id": 3211792,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Hello, Everyone. I would like to introduce myself. My name is Nadya Putri Sasmita. I m 13 years old. I am from SMP Batik 1. I live in Graha Indah Complex Block B number 45. I live with my parents. My father is Rudi Santoso. He is a doctor. My mother is Wiwik Rukmini. She is a teacher. I have an older sister and a young brother. They are Farah and Arya They are very kind and smart. My hobby is playing volley ball join a group of velley ball in my village. That's all about me, thank you.<br \/>\nFROM<br \/>\nNAME :................<br \/>\nAGE :.................<br \/>\nADDRESS :...........<br \/>\nLAST SCHOOL :...........<br \/>\nHOBBY : <br \/>\nFAMILY<br \/>\nFATHER :............ OCCUPATION :.... <br \/>\nMOTHER :............<br \/>\nOCCUOATION :.........<br \/>\nSIBLINGS :......... .<br \/>",
+                        "created": "2016-07-24T17:28:50+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2016-07-24T17:39:12+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Hello, Everyone. I would like to introduce myself. My name is <em>Nadya<\/em> Putri Sasmita. I m 13 years old. I am from SMP Batik 1. I <em>live<\/em> in Graha Indah Complex Block B number 45. I <em>live<\/em> with my parents. My father is Rudi Santoso. He is a doctor. My mother is Wiwik Rukmini. She is a teacher. I have an older sister and a <em>you<\/em>ng brother. They are Farah and Arya They are very kind and smart. My hobby is playing volley ball join a group of velley ball in my village. That's all about me, thank <em>you<\/em>.\nFROM\nNAME :................\nAGE :.................\nADDRESS :...........\nLAST SCHOOL :...........\nHOBBY : \nFAMILY\nFATHER :............ OCCUPATION :.... \nMOTHER :............\nOCCUOATION :.........\nSIBLINGS :......... .",
+                        "snippet_content": "m 13 years old. I am from SMP Batik 1. I <em>live<\/em> in Graha Indah Complex Block B number 45. I <em>live<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 7725637,
+                            "user_id": 3183827,
+                            "task_id": 6435849,
+                            "points": 5,
+                            "created": "2016-07-24T17:39:12+07:00",
+                            "content": "name : nadya putri sasmita<br \/>age : 13 years old<br \/>address : graha indah complex block b number 45<br \/>last school : SMP batik 1<br \/>hobby : playing volley ball<br \/>family :<br \/>father : rudy santoso occupation : doctor<br \/>mother : wiwik rukmini occupation : teacher<br \/>siblings : farah and arya",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3183827,
+                                "nick": "putri2190",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 6435344,
+                        "subject_id": 5,
+                        "user_id": 3211792,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Hello, Everyone. I would like to introduce myself. My name is Nadya Putri Sasmita. I am 1).......... old. I 2)......... from SMP Batik 1. I 3).........  in Graha Indah Complex Block B number 45. I live with my parents. My father is Rudi Santoso. He is a 4)........... My mother is Wiwik Rukmini. She is a 5)............ I have an older sister and a young brother. They are Farah and Arya. They are 6).............. My Hobby is 7)............... I join a 8)............. in my village. That's all about me, thank you.",
+                        "created": "2016-07-24T16:19:49+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2016-07-24T16:28:18+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Hello, Everyone. I would like to introduce myself. My name is <em>Nadya<\/em> Putri Sasmita. I am 1).......... old. I 2)......... from SMP Batik 1. I 3).........  in Graha Indah Complex Block B number 45. I <em>live<\/em> with my parents. My father is Rudi Santoso. He is a 4)........... My mother is Wiwik Rukmini. She is a 5)............ I have an older sister and a <em>you<\/em>ng brother. They are Farah and Arya. They are 6).............. My Hobby is 7)............... I join a 8)............. in my village. That's all about me, thank <em>you<\/em>.",
+                        "snippet_content": "Hello, Everyone. I would like to introduce myself. My name is <em>Nadya<\/em> Putri Sasmita. I am 1).......... old. I 2)......... from SMP"
+                    },
+                    "responses": [
+                        {
+                            "id": 7724994,
+                            "user_id": 3212341,
+                            "task_id": 6435344,
+                            "points": 5,
+                            "created": "2016-07-24T16:28:18+07:00",
+                            "content": "1) 13 years old 2) am 3) live 4) doctor 5) teacher 6) very kind and smart 7) playing volley ball 8) group of volley ball ",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 7725483,
+                            "user_id": 3209121,
+                            "task_id": 6435344,
+                            "points": 5,
+                            "created": "2016-07-24T17:23:45+07:00",
+                            "content": "13 years<br \/>am<br \/>live<br \/>teacher<br \/>desaigner<br \/>very kind<br \/>reading<br \/><br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3212341,
+                                "nick": "Bann",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/da2\/896a97316aedf2b4466810422a75c425.jpg"
+                            },
+                            {
+                                "id": 3209121,
+                                "nick": "meytaaa",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/db5\/caeb0e26e84ca5dd069d7d31c2caee2c.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 3,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 2669637,
+            "nick": "Kaipah",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 23,
+                "answers": 84,
+                "comments": 27
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 3413316,
+            "nick": "Silvia0507",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 1,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d5b\/9535179698533b52871ade60205c4c82.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d45\/2b143eb150e4353bb9302e014a479c2d.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d5b\/9535179698533b52871ade60205c4c82.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d45\/2b143eb150e4353bb9302e014a479c2d.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 3211792,
+            "nick": "Tian085",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 10,
+                "answers": 3,
+                "comments": 1
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 3183827,
+            "nick": "putri2190",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 10,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 3212341,
+            "nick": "Bann",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 9,
+                "answers": 20,
+                "comments": 8
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d8d\/19d8747b872bdd281758bfb5c6532aaf.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da2\/896a97316aedf2b4466810422a75c425.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d8d\/19d8747b872bdd281758bfb5c6532aaf.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da2\/896a97316aedf2b4466810422a75c425.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 3209121,
+            "nick": "meytaaa",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 23,
+                "comments": 5
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d75\/7b27d8e5fb20c57bac1abebffa0e875a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db5\/caeb0e26e84ca5dd069d7d31c2caee2c.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d75\/7b27d8e5fb20c57bac1abebffa0e875a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db5\/caeb0e26e84ca5dd069d7d31c2caee2c.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        }
+    ],
+    "validated": false
+}

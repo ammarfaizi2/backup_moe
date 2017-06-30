@@ -1,0 +1,2231 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 2066933,
+                        "subject_id": 1,
+                        "user_id": 1181450,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Lanjutkan dari novel dibawah ini<br \/>\nHuh aku sebel besok aku harus ke sekolah pasti ketemu sama si rambut gimbal lagi sok ganteng sok pinter yang aku paling gak suka pasti dia godain aku Hai neng lagi ngelamun ya kata kata itu yang selalu terngiang ngiang di telingaku sebel sebel",
+                        "created": "2015-02-13T19:34:17+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2015-02-13T19:36:00+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Lanjutkan dari novel dibawah ini\nHuh <em>aku<\/em> sebel besok <em>aku<\/em> harus ke sekolah pasti ketemu sama si rambut gimbal lagi sok <em>ganteng<\/em> sok pinter yang <em>aku<\/em> paling <em>gak<\/em> suka pasti dia godain <em>aku<\/em> Hai neng lagi ngelamun ya kata kata itu yang selalu terngiang ngiang di telingaku sebel sebel",
+                        "snippet_content": "ketemu sama si rambut gimbal lagi sok <em>ganteng<\/em> sok pinter yang <em>aku<\/em> paling <em>gak<\/em> suka pasti dia godain <em>aku<\/em> Hai neng lagi"
+                    },
+                    "responses": [
+                        {
+                            "id": 2625046,
+                            "user_id": 1179605,
+                            "task_id": 2066933,
+                            "points": 5,
+                            "created": "2015-02-13T19:36:00+07:00",
+                            "content": "padahal aku udh menjauh dari dia. tapi dia selalu mendekati aku. kata tmn tmn sih dia suka pada ku. tapi masa iya dia suka sama aku?",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 2625094,
+                            "user_id": 1077338,
+                            "task_id": 2066933,
+                            "points": 5,
+                            "created": "2015-02-13T19:39:04+07:00",
+                            "content": "setiap detik, menit bahkan setiap jam aku harus mendengarkan kata-kata itu disekolah. Namun kali ini tak akan bisa kubiarkan begitu saja, dan aku ingin memukulnya dengan sapu bila ia menggodaku lagi atau bahkan bila aku melihatnya lagi. <br \/>^^ semoga membantu<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1179605,
+                                "nick": "umiromadhoni",
+                                "avatar": null
+                            },
+                            {
+                                "id": 1077338,
+                                "nick": "katafuka",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d96\/e349453827d716656ba3bee005b131d6.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 1845557,
+                        "subject_id": 18,
+                        "user_id": 1017120,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "apa bahasa jermannya,korea,dan jepangnya:<br \/><br \/>\ncepu:<br \/>\naku cinta kamu:<br \/>\n1,2,3,4,5,6,7,8,9,10:<br \/>\ndiam diam suka:<br \/>\nkece:<br \/>\nganteng:<br \/>\ncantik:<br \/>\nibu:<br \/>\nayah:<br \/>\nsahabat:<br \/>\nmau gak jadi pacar aku:<br \/>\nsayang dia selamanya:<br \/>\ntak ada yang lain selain dia:<br \/>\nselamat ulang tahun:<br \/>\nsayang:<br \/><br \/>",
+                        "created": "2015-01-17T21:00:18+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2015-01-17T21:54:51+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "apa bahasa jermannya,korea,dan jepangnya:\ncepu:\n<em>aku<\/em> cinta kamu:\n1,2,3,4,5,6,7,8,9,10:\ndiam diam suka:\nkece:\n<em>ganteng<\/em>:\ncantik:\nibu:\nayah:\nsahabat:\nmau <em>gak<\/em> jadi pacar <em>aku<\/em>:\nsayang dia selamanya:\ntak ada yang lain selain dia:\nselamat ulang tahun:\nsayang:",
+                        "snippet_content": "4,5,6,7,8,9,10:\ndiam diam suka:\nkece:\n<em>ganteng<\/em>:\ncantik:\nibu:\nayah:\nsahabat:\nmau <em>gak<\/em> jadi pacar <em>aku<\/em>:\nsayang"
+                    },
+                    "responses": [
+                        {
+                            "id": 2373755,
+                            "user_id": 393673,
+                            "task_id": 1845557,
+                            "points": 5,
+                            "created": "2015-01-17T21:54:51+07:00",
+                            "content": "Bahasa Korea :<br \/><br \/><span>Saranghe: Aku Cinta Kamu<br \/><\/span>Saranghaeyo: Aku Cinta Kamu<br \/><span>Omma: Ibu<br \/><\/span>Appa : Papa<br \/>Jinsilhan chingu : Sahabat Sejati<br \/>Saengil chukha hamnida : Selamat Ulang Tahun<br \/>Chagiya : Sayang<br \/><br \/>1 ha-na [\ud558\ub098]<br \/>\n2 dul [\ub458]<br \/>\n3 set [\uc14b]<br \/>\n4 net [\ub137]<br \/>\n5 da-seot [\ub2e4\uc12f]<br \/>\n6 yeo-seot [\uc5ec\uc12f]<br \/>\n7 il-gop [\uc77c\uacf1]<br \/>\n8 yeo-deol [\uc5ec\ub35f]<br \/>\n9 a-hop [\uc544\ud649]<br \/>\n10 yeol [\uc5f4]<br \/><br \/><br \/>Tambahan<br \/><strong>ungkapan\" romantis :<br \/><\/strong>1. Jeongmal bogoshipeosseoyo = aq akn sllu merindukanmu<br \/>2. Got dasi bol su isseumyeon jokesseoyo = aku berhrp qta bsa brtemu lagi secptnya<br \/>3. Tto bwasseumyeon jokesseoyo = aq ingin bertemu dgn mu lagi<br \/>4. Dangsineul saranghaeyo = aq jatuh cinta kepadamu<br \/>5. Gidarigo isseulkkeyo = aq menantimu<br \/>6. Dangsineun yebbeun nuni jeongmal areumdawoyo = qmu punya mata yg indah\/ mata qmu yg indah<br \/>7. Dangsineun misoga jeongmal areumdawoyo = qmu punya senyum yg manis\/ senyummu manis<br \/>8. Yeoreo gagiro gomawoyo = trima ksih ats sglanya<br \/>9. Dangsin kkumeul kkwosseoyo = aq\u00a0 memimpikanmu<br \/>10. Seodayo\/ nado saranghae = aq jga cinta kamu<span><br \/><br \/>#JADIKAN SEBAGAI YANG TERBAIK#<br \/><\/span><br \/><br \/><br \/><br \/><br \/><br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 9,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 393673,
+                                "nick": "ingki",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/df7\/3d0f4bcca11da713a104b94410bb28ac.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 8682186,
+                        "subject_id": 3,
+                        "user_id": 3859666,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Jd baru aktif di berbagai daerah di Indonesia yg ke dua orang yang kita miliki sekarang udah gak jaman sekarang itu beda tipis lah yang paling sering kena marah dengan orang yang kamu suka dari si dia lagi di luar sana yg lebih cantik dan ganteng banget sih jadi anak yang soleh itu ada di dalam hati kita selalu dekat dengan kita adalah untuk mencoba untuk lebih mengerti dan memahami dan mengerti aku juga gak tau diri aja lah biar gak ada pulsa nyasar ke wrg lg ya yu plg hbs yang tidak pernah ada yg tau gak sih kalo mau ikut ga lu aja deh ya kalo ada salah sama lu juga kan lucu dan banget ya allah sama dengan sekali tidak lagi menjadi menghasilkan uang sesuatu yang tak kalah penting adalah bahwa aku bisa jadi yang terakhir terbaik untuk buat awak tersenyum dan merasa nyaman dengan dan tanpa tanpa kamu ada berapa yang berkembang di di wrg rmh lu gua ga ada yg lebih baik daripada berpura-pura tegar tersenyum dan saat ini itu banyak banget yang yg di di rumah wrg nya lg di di rmh wrg nya lg di di wrg di tumpukan gigitan di dan di di rmh aku juga mau ke tidur dan bangun jam jam nya berapa kali kali dibaca nih anak yg baik dan benar? Apa ringkasannya! (plisssssss, besok dikumpulkan oke). ",
+                        "created": "2016-12-02T13:01:24+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2017-01-02T05:35:41+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Jd baru aktif di berbagai daerah di Indonesia yg ke dua orang yang kita miliki sekarang udah <em>gak<\/em> jaman sekarang itu beda tipis lah yang paling sering kena marah dengan orang yang kamu suka dari si dia lagi di luar sana yg lebih cantik dan <em>ganteng<\/em> banget sih jadi anak yang soleh itu ada di dalam hati kita selalu dekat dengan kita adalah untuk mencoba untuk lebih mengerti dan memahami dan mengerti <em>aku<\/em> juga <em>gak<\/em> tau diri aja lah biar <em>gak<\/em> ada pulsa nyasar ke wrg lg ya yu plg hbs yang tidak pernah ada yg tau <em>gak<\/em> sih kalo mau ikut ga lu aja deh ya kalo ada salah sama lu juga kan lucu dan banget ya allah sama dengan sekali tidak lagi menjadi menghasilkan uang sesuatu yang tak kalah penting adalah bahwa <em>aku<\/em> bisa jadi yang terakhir terbaik untuk buat awak tersenyum dan merasa nyaman dengan dan tanpa tanpa kamu ada berapa yang berkembang di di wrg rmh lu gua ga ada yg lebih baik daripada berpura-pura tegar tersenyum dan saat ini itu banyak banget yang yg di di rumah wrg nya lg di di rmh wrg nya lg di di wrg di tumpukan gigitan di dan di di rmh <em>aku<\/em> juga mau ke tidur dan bangun jam jam nya berapa kali kali dibaca nih anak yg baik dan benar? Apa ringkasannya! (plisssssss, besok dikumpulkan oke). ",
+                        "snippet_content": "kita adalah untuk mencoba untuk lebih mengerti dan memahami dan mengerti <em>aku<\/em> juga <em>gak<\/em> tau diri aja lah biar <em>gak<\/em> ada pulsa"
+                    },
+                    "responses": [
+                        {
+                            "id": 10639841,
+                            "user_id": 4339248,
+                            "task_id": 8682186,
+                            "points": 5,
+                            "created": "2017-01-02T05:35:41+07:00",
+                            "content": "ringkasannya<br \/><br \/>seorang gadis yg merasa bersalah, walaupun tidak tau salahnya apa. ia merasa menyesal akan kepergian pria idamannya. <br \/><br \/>sebenrnya soalnya juga kuranh benar tata bahasanya.",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4339248,
+                                "nick": "nurulfauziahk",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 3134901,
+                        "subject_id": 2,
+                        "user_id": 1660476,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Kakak yg baik hati plisss tolongin aku dong penting nih soal nya aku gk faham apa maksudnya dan gimana caranya terus harus dengan caranya <br \/>\ntolongin aku y kaka kaka yg cantik\/ganteng dan baik hati ",
+                        "created": "2015-08-21T21:44:19+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2015-08-21T22:08:45+07:00",
+                        "the_best_resp_id": "3905338",
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [
+                            {
+                                "full": "https:\/\/id-static.z-dn.net\/files\/db3\/29ebec0c7e44639656218c6e7527ea18.jpg",
+                                "thumbnail": "https:\/\/id-static.z-dn.net\/files\/d1d\/7db17e8ce6d44df78830bba13044c1d9.jpg",
+                                "type": "image\/jpeg",
+                                "size": 1127959,
+                                "hash": "29ebec0c7e44639656218c6e7527ea18",
+                                "id": 1285604,
+                                "extension": "jpg"
+                            }
+                        ],
+                        "comments": {
+                            "items": [
+                                {
+                                    "id": 2460375,
+                                    "user_id": 1660476,
+                                    "content": "Kakak Kakak tolongin aku plisssss :'-(",
+                                    "created": "2015-08-21T21:47:54+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                }
+                            ],
+                            "last_id": 0,
+                            "count": 1
+                        },
+                        "highlighted_content": "Kakak yg baik hati plisss tolongin <em>aku<\/em> dong penting nih soal nya <em>aku<\/em> <em>gk<\/em> faham apa maksudnya dan gimana caranya terus harus dengan caranya \ntolongin <em>aku<\/em> y kaka kaka yg cantik\/<em>ganteng<\/em> dan baik hati ",
+                        "snippet_content": "<em>gk<\/em> faham apa maksudnya dan gimana caranya terus harus dengan caranya \ntolongin <em>aku<\/em> y kaka kaka yg cantik\/<em>ganteng<\/em> dan baik hati "
+                    },
+                    "responses": [
+                        {
+                            "id": 3905338,
+                            "user_id": 1714433,
+                            "task_id": 3134901,
+                            "points": 5,
+                            "created": "2015-08-21T22:08:45+07:00",
+                            "content": "A. diketahui : ija \u00a0 \u00a0\u00a0 : 16 km\/jam<br \/>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  ahmad : 20 km\/jam<br \/>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 ugun\u00a0 \u00a0 : 24 km\/jam\u00a0 <br \/>ditanya\u00a0 : bertemu ke 2 kalinya?<br \/>jawab : ija: 16,32,48,64,80,96,112,128,144,160,176,192,208,224,<strong><u>240 <\/u><\/strong>( 15 jam )<br \/>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  ahmad : 20,40,60,80,100,120,140,160,180,200,220,<strong><u>240 ( <\/u><\/strong>12 jam )<br \/>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 ugun : 24, 48,72,96,120,144,168,192,216,<u><strong>240<\/strong><\/u><strong><\/strong> ( 10 jam )<u><strong><br \/><\/strong><\/u>jadi, mereka bertemu di km ke<u><strong> 240<br \/><\/strong><\/u>B. <strong><\/strong>ija : <strong><\/strong>15 jam<br \/>\u00a0\u00a0\u00a0 ahmad : 12 jam<br \/>\u00a0 \u00a0 ugun : 10 jam <br \/>",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1714433,
+                                "nick": "putripsalsa",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dce\/5b8cb1b3c02dce1142dc0d3b5e4b5615.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 4463587,
+                        "subject_id": 20,
+                        "user_id": 2270735,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Buatin aku dong soal latihan ulangan kelas 6 semester 1 mata pel apa saja, aku doain yang buatin ulangan nilainya bagus dan Coment gk buat mudah2an diatas yg membalas. yang penting kk tolong buatin ya kk cantik\/ Ganteng. ^_^",
+                        "created": "2015-11-27T12:04:19+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2015-11-27T12:34:10+07:00",
+                        "the_best_resp_id": "5251935",
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Buatin <em>aku<\/em> dong soal latihan ulangan kelas 6 semester 1 mata pel apa saja, <em>aku<\/em> doain yang buatin ulangan nilainya bagus dan Coment <em>gk<\/em> buat mudah2an diatas yg membalas. yang penting kk tolong buatin ya kk cantik\/ <em>Ganteng.<\/em> ^_^",
+                        "snippet_content": "yang buatin ulangan nilainya bagus dan Coment <em>gk<\/em> buat mudah2an diatas yg membalas. yang penting kk tolong buatin ya kk cantik\/ <em>Ganteng.<\/em> ^_^"
+                    },
+                    "responses": [
+                        {
+                            "id": 5251935,
+                            "user_id": 2335266,
+                            "task_id": 4463587,
+                            "points": 5,
+                            "created": "2015-11-27T12:34:10+07:00",
+                            "content": "1. Unta menyimpan cadangan makanannya di ?\u00a0<br \/>2. Apa yg dimaksud dgn AUTOTOMI?\u00a0<br \/>3. Cara adaptasi kaktus terhadap gurun berupa?<br \/>4. Kucing mempunyai bantalan pada kakinya , Apa kegunaan bantalan tersebut?<br \/>5. \u00a0Bentuk paruh \u00a0bebek \u00a0yg tipis dan lebar berguna untuk ?<br \/>6. Sebutkan ciri khusus yang dimiliki oleh kantong semar !<br \/>7. Mengapa bunga teratai memiliki batang yang berongga? Jelaskan!\u00a0<br \/>8. \u00a0Sebutkan hewan yg berkembangbiak dgn cara bertelur dan melahirkan\u00a0<br \/>9. \u00a0Penyerbukan terjadi karena?<br \/>10 . Mengapa saat musim kemarau pohon jati menggugurkan daunnya?\u00a0<br \/>11. Jelaskan tahapan tahapan pertumbuhan manusia!\u00a0<br \/>12. Tumbuhan yg berkembang biak tanpa melalui pembuahan atau perkawinan disebut ?\u00a0<br \/>13. Amoeba berkembang biak dgn cara?\u00a0<br \/>14. Rumput teki brkmbang biak dgn cara ?\u00a0<br \/>15. Hewan yg dilindungi di ujung kulon adalah?",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2015-11-30T08:48:58+07:00",
+                                "approver": {
+                                    "id": 295991,
+                                    "nickname": "elryo",
+                                    "points": 50666,
+                                    "grade": 2,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/d84\/7a780e488d0554bae2021b086332fa2e.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/d97\/67a94a1b909687594aecca014e30b6f9.png"
+                                    },
+                                    "content_approved_count": 7848
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 5252627,
+                            "user_id": 2246803,
+                            "task_id": 4463587,
+                            "points": 5,
+                            "created": "2015-11-27T13:30:02+07:00",
+                            "content": "sebutkan jenis simbiosis yang ada pada tumbuhan?",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2015-11-30T08:49:13+07:00",
+                                "approver": {
+                                    "id": 295991,
+                                    "nickname": "elryo",
+                                    "points": 50666,
+                                    "grade": 2,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/d84\/7a780e488d0554bae2021b086332fa2e.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/d97\/67a94a1b909687594aecca014e30b6f9.png"
+                                    },
+                                    "content_approved_count": 7848
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2335266,
+                                "nick": "Novantia24",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d82\/d348c9c3c4bb027f99c5b295865a7683.jpg"
+                            },
+                            {
+                                "id": 2246803,
+                                "nick": "kevin204",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10713043,
+                        "subject_id": 2,
+                        "user_id": 5021784,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "kk\" yg ganteng yg cantik tolong jawab donk ka aku gk bisa aku mohon jawab yg benar dengan caranya ya",
+                        "created": "2017-05-19T09:53:12+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2017-05-19T10:03:20+07:00",
+                        "the_best_resp_id": "12985941",
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [
+                            {
+                                "full": "https:\/\/id-static.z-dn.net\/files\/ddd\/56fdacd01a85cde2bb65f1451f41c071.jpg",
+                                "thumbnail": "https:\/\/id-static.z-dn.net\/files\/d06\/438083ac7d0df65afa8d2edfd667660f.jpg",
+                                "type": "image\/jpeg",
+                                "size": 41482,
+                                "hash": "56fdacd01a85cde2bb65f1451f41c071",
+                                "id": 5231653,
+                                "extension": "jpg"
+                            }
+                        ],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "kk\" yg <em>ganteng<\/em> yg cantik tolong jawab donk ka <em>aku<\/em> <em>gk<\/em> bisa <em>aku<\/em> mohon jawab yg benar dengan caranya ya",
+                        "snippet_content": "kk\" yg <em>ganteng<\/em> yg cantik tolong jawab donk ka <em>aku<\/em> <em>gk<\/em> bisa <em>aku<\/em> mohon jawab yg benar dengan caranya ya"
+                    },
+                    "responses": [
+                        {
+                            "id": 12985941,
+                            "user_id": 4655272,
+                            "task_id": 10713043,
+                            "points": 5,
+                            "created": "2017-05-19T10:03:20+07:00",
+                            "content": "Bab Bangun Datar<br \/><br \/>19. Cari dulu tingginya<br \/>t\u00b2 = 17\u00b2 - (12 + 3)\u00b2<br \/>t\u00b2 = 289 - 225<br \/>t = \u221a64<br \/>t = 8 cm<br \/><br \/>Luas<br \/>= 1\/2 \u00d7 (12 + 3 + 12 + 3) \u00d7 8<br \/>= 4 \u00d7 30<br \/>= 120 cm\u00b2<br \/><br \/>Bab Sudut<br \/><br \/>20. \u2220PQR = (180 - 5x)\u00b0<br \/>\u2220PQR = \u2220QPR<br \/>\u2220PQR + \u2220QPR + \u2220PRQ = 180\u00b0<br \/>180\u00b0 - 5x\u00b0 + 180\u00b0 - 5x\u00b0 + 50\u00b0 = 180\u00b0<br \/>410\u00b0 - 10x\u00b0 = 180\u00b0<br \/>410\u00b0 - 180\u00b0 = 10x\u00b0<br \/>x = 230\u00b0\/10\u00b0<br \/>x = 23",
+                            "mark": 5,
+                            "marks_count": 2,
+                            "thanks": 1,
+                            "user_best_rank_id": 7,
+                            "source": "10",
+                            "client_type": "6",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2017-05-19T13:23:52+07:00",
+                                "approver": {
+                                    "id": 2663844,
+                                    "nickname": "Mahaguru",
+                                    "points": 1857,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/db6\/c5fb7b6a68ce26ccea00dc12cb60d96f.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/df7\/fe8fb6dfa0d217a5d3fafa2a27e269ba.png"
+                                    },
+                                    "content_approved_count": 718187
+                                }
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 7123054,
+                                        "user_id": 5021784,
+                                        "content": "makasih",
+                                        "created": "2017-05-19T10:05:59+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 7123077,
+                                        "user_id": 4655272,
+                                        "content": "Sama2",
+                                        "created": "2017-05-19T10:09:17+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 2
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4655272,
+                                "nick": "dewa251202",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/df6\/00ff39c130c9269e9d9b3265fecaa06a.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 3981756,
+                        "subject_id": 6,
+                        "user_id": 1053919,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 50,
+                            "ptsForResp": 25,
+                            "ptsForBest": 13
+                        },
+                        "content": "INI SOAL IPA YA? 1.mengapa genteng terbuat dari tanah liat banyak digunakan sebagai atap rumah?<br \/>\n2.mengapa pakaian berwarna gelap lebih cepat kering di banding kan yg berwarna cerah?<br \/>\n3.Timah solder dapat meleleh di karenakan panas dari solder berpindah ketimah secara?<br \/><br \/>\n                 Harus di jawab semuanya ya gak boleh satu kan aku ngasih poinnya gede",
+                        "created": "2015-10-21T18:40:20+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2015-10-21T18:43:39+07:00",
+                        "the_best_resp_id": "4783843",
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "INI SOAL IPA YA? 1.mengapa <em>genteng<\/em> terbuat dari tanah liat banyak digunakan sebagai atap rumah?\n2.mengapa pakaian berwarna gelap lebih cepat kering di banding kan yg berwarna cerah?\n3.Timah solder dapat meleleh di karenakan panas dari solder berpindah ketimah secara?\n                 Harus di jawab semuanya ya <em>gak<\/em> boleh satu kan <em>aku<\/em> ngasih poinnya gede",
+                        "snippet_content": "meleleh di karenakan panas dari solder berpindah ketimah secara?\n                 Harus di jawab semuanya ya <em>gak<\/em> boleh satu kan <em>aku<\/em> ngasih poinnya gede"
+                    },
+                    "responses": [
+                        {
+                            "id": 4783811,
+                            "user_id": 2099929,
+                            "task_id": 3981756,
+                            "points": 25,
+                            "created": "2015-10-21T18:43:39+07:00",
+                            "content": "1. karena genteng yg terbuat dari tanah liat tdk menyerap sinar matahari<br \/>2. karena pakaian gelap lebih mudah menyerap sinar matahari<br \/>3. listrik menjadi panas",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2015-10-25T10:30:26+07:00",
+                                "approver": {
+                                    "id": 288144,
+                                    "nickname": "adeevaAbqari",
+                                    "points": 174797,
+                                    "grade": 3,
+                                    "gender": 1,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/d10\/9b7107f0bd2e50b4cf91638d0cc683eb.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/db2\/72bbe55ffcf6323827368889f3642a91.png"
+                                    },
+                                    "content_approved_count": 22052
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 4783843,
+                            "user_id": 1271282,
+                            "task_id": 3981756,
+                            "points": 25,
+                            "created": "2015-10-21T18:45:02+07:00",
+                            "content": "1. Karena tanah liat dapat menghambat masuknya air dan cahaya matahari,karena rapatnya partikel tanah liat<br \/>2.Karena kain yang berwarna gelap(Hitam) dapat menyerap sinar matahari lebih cepat dibanding kain berwarna cerah(coba aja jalan2 siang2 diterik matahari pake baju hitam,pasti cepat keringatan)<br \/>3.Berpindah secara kondoksi,karena panas berpindah melalui perantara yaitu solder.<br \/><br \/>Semoga membantu yaa :)<br \/>",
+                            "mark": 5,
+                            "marks_count": 2,
+                            "thanks": 2,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2015-10-25T10:30:30+07:00",
+                                "approver": {
+                                    "id": 288144,
+                                    "nickname": "adeevaAbqari",
+                                    "points": 174797,
+                                    "grade": 3,
+                                    "gender": 1,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/d10\/9b7107f0bd2e50b4cf91638d0cc683eb.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/db2\/72bbe55ffcf6323827368889f3642a91.png"
+                                    },
+                                    "content_approved_count": 22052
+                                }
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 2950820,
+                                        "user_id": 1271282,
+                                        "content": "kirain jawaban terbaik. heheehe",
+                                        "created": "2015-10-21T18:48:32+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2099929,
+                                "nick": "YNSS",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d3c\/0b133a5cc552cc7739e2af5385eee9b4.jpg"
+                            },
+                            {
+                                "id": 1271282,
+                                "nick": "Rubies",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 572713,
+                        "subject_id": 1,
+                        "user_id": 199054,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 99,
+                            "ptsForResp": 50,
+                            "ptsForBest": 25
+                        },
+                        "content": "TENTUKAN DESKRIPSI MANFAAT , DESKRIPSI BAGIAN , DAN DEFINISI MANFAAT..<br \/>TOLONG DIJAWAB CEPAT YA NANTI DI KUMPULKAN<br \/>ADA POINT 99 AND AKU TERIMA KASIH.. YANG BENER YA JAWABNYA GK ASAL ASALAN.. THX<br \/><br \/><span><span>Taman Nasional Ujung Kulon merupakan perwakilan ekosistem hutan hujan tropis dataran rendah yang tersisa dan terluas di Jawa Barat, serta merupakan habitat yang ideal bagi kelangsungan hidup satwa langka badak Jawa (Rhinoceros sondaicus) dan satwa langka lainnya. Terdapat tiga tipe ekosistem di taman nasional ini yaitu ekosistem perairan laut, ekosistem rawa, dan ekosistem daratan.<br \/><br \/><\/span>Keanekaragaman tumbuhan dan satwa di Taman Nasional Ujung Kulon mulai dikenal oleh para peneliti, pakar botani Belanda dan Inggris sejak tahun 1820<br \/><span>Kurang lebih 700 jenis tumbuhan terlindungi dengan baik dan 57 jenis diantaranya langka seperti; merbau (Intsia bijuga), palahlar (Dipterocarpus haseltii), bungur (Lagerstroemia speciosa), cerlang (Pterospermum diversifolium), ki hujan (Engelhardia serrata)dan berbagai macam jenis anggrek.<br \/><br \/><\/span><\/span><span><span>Satwa di Taman Nasional Ujung Kulon terdiri dari 35 jenis mamalia, 5 jenis primata, 59 jenis reptilia, 22 jenis amfibia, 240 jenis burung, 72 jenis insekta, 142 jenis ikan dan 33 jenis terumbu karang. Satwa langka dan dilindungi selain badak Jawa adalah banteng (Bos javanicus javanicus), ajag (Cuon alpinus javanicus), surili (Presbytis comata comata), lutung (Trachypithecus auratus auratus), rusa (Cervus timorensis russa), macan tutul (Panthera pardus), kucing batu (Prionailurus bengalensis javanensis), owa (Hylobates moloch), dan kima raksasa (Tridacna gigas).<br \/><br \/><\/span><span>Taman Nasional Ujung Kulon merupakan obyek wisata alam yang menarik, dengan keindahan berbagai bentuk gejala dan keunikan alam berupa sungai-sungai dengan jeramnya, air terjun, pantai pasir putih, sumber air panas, taman laut dan peninggalan budaya\/sejarah (Arca Ganesha, di Gunung Raksa Pulau Panaitan). Kesemuanya merupakan pesona alam yang sangat menarik untuk dikunjungi dan sulit ditemukan di tempat lain.<br \/><br \/><\/span><\/span><span><span><span>Jenis-jenis ikan yang menarik di Taman Nasional Ujung Kulon baik yang hidup di perairan laut maupun sungai antara lain ikan kupu-kupu, badut, bidadari, singa, kakatua, glodok dan sumpit. Ikan glodok dan ikan sumpit adalah dua jenis ikan yang sangat aneh dan unik yaitu ikan glodok memiliki kemampuan memanjat akar pohon bakau, sedangkan ikan sumpit memiliki kemampuan menyemprot air ke atas permukaan setinggi lebih dari satu meter untuk menembak memangsanya (serangga kecil) yang berada di i daun-daun yang rantingnya menjulur di atas permukaan air.<\/span>\u00a0<\/span>\u00a0<br \/><\/span><span><span><br \/>Taman Nasional Ujung Kulon bersama Cagar Alam Krakatau merupakan asset nasional, dan telah ditetapkan sebagai Situs Warisan Alam Dunia oleh UNESCO pada tahun 1991.<br \/><br \/>Untuk meningkatkan kemampuan pengelolaan Taman Nasional Ujung Kulon sebagai Situs Warisan Alam Dunia, UNESCO telah memberikan dukungan pendanaan dan bantuan teknis. <br \/><br \/><\/span><\/span><span>Masyarakat yang bermukim di sekitar taman nasional yaitu suku Banten yang terkenal dengan kesenian debusnya. Masyarakat tersebut pengikut agama Islam, namun mereka masih mempertahankan kebiasaan-kebiasaan, tradisi, dan kebudayaan nenek moyang mereka.<br \/><br \/>Di dalam taman nasional, ada tempat-tempat yang dikeramatkan bagi kepentingan kepercayaan spiritual. Tempat yang paling terkenal sebagai tujuan ziarah adalah gua Sanghiang Sirah, yang terletak di ujung Barat semenanjung Ujung Kulon. <\/span>",
+                        "created": "2014-09-05T05:36:03+07:00",
+                        "responses": 2,
+                        "tickets": 3,
+                        "first_resp": "2014-09-05T05:39:30+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "TENTUKAN DESKRIPSI MANFAAT , DESKRIPSI BAGIAN , DAN DEFINISI MANFAAT..TOLONG DIJAWAB CEPAT YA NANTI DI KUMPULKANADA POINT 99 AND <em>AKU<\/em> TERIMA KASIH.. YANG BENER YA JAWABNYA <em>GK<\/em> ASAL ASALAN.. THXTaman Nasional Ujung Kulon merupakan perwakilan ekosistem hutan hujan tropis dataran rendah yang tersisa dan terluas di Jawa Barat, serta merupakan habitat yang ideal bagi kelangsungan hidup satwa langka badak Jawa (Rhinoceros sondaicus) dan satwa langka lainnya. Terdapat tiga tipe ekosistem di taman nasional ini yaitu ekosistem perairan laut, ekosistem rawa, dan ekosistem daratan.Keanekaragaman tumbuhan dan satwa di Taman Nasional Ujung Kulon mulai dikenal oleh para peneliti, pakar botani Belanda dan Inggris sejak tahun 1820Kurang lebih 700 jenis tumbuhan terlindungi dengan baik dan 57 jenis diantaranya langka seperti; merbau (Intsia bijuga), palahlar (Dipterocarpus haseltii), bungur (Lagerstroemia speciosa), cerlang (Pterospermum diversifolium), ki hujan (Engelhardia serrata)dan berbagai macam jenis anggrek.Satwa di Taman Nasional Ujung Kulon terdiri dari 35 jenis mamalia, 5 jenis primata, 59 jenis reptilia, 22 jenis amfibia, 240 jenis burung, 72 jenis insekta, 142 jenis ikan dan 33 jenis terumbu karang. Satwa langka dan dilindungi selain badak Jawa adalah <em>banteng<\/em> (Bos javanicus javanicus), ajag (Cuon alpinus javanicus), surili (Presbytis comata comata), lutung (Trachypithecus auratus auratus), rusa (Cervus timorensis russa), macan tutul (Panthera pardus), kucing batu (Prionailurus bengalensis javanensis), owa (Hylobates moloch), dan kima raksasa (Tridacna gigas).Taman Nasional Ujung Kulon merupakan obyek wisata alam yang menarik, dengan keindahan berbagai bentuk gejala dan keunikan alam berupa sungai-sungai dengan jeramnya, air terjun, pantai pasir putih, sumber air panas, taman laut dan peninggalan budaya\/sejarah (Arca Ganesha, di Gunung Raksa Pulau Panaitan). Kesemuanya merupakan pesona alam yang sangat menarik untuk dikunjungi dan sulit ditemukan di tempat lain.Jenis-jenis ikan yang menarik di Taman Nasional Ujung Kulon baik yang hidup di perairan laut maupun sungai antara lain ikan kupu-kupu, badut, bidadari, singa, kakatua, glodok dan sumpit. Ikan glodok dan ikan sumpit adalah dua jenis ikan yang sangat aneh dan unik yaitu ikan glodok memiliki kemampuan memanjat akar pohon bakau, sedangkan ikan sumpit memiliki kemampuan menyemprot air ke atas permukaan setinggi lebih dari satu meter untuk menembak memangsanya (serangga kecil) yang berada di i daun-daun yang rantingnya menjulur di atas permukaan air.\u00a0\u00a0Taman Nasional Ujung Kulon bersama Cagar Alam Krakatau merupakan asset nasional, dan telah ditetapkan sebagai Situs Warisan Alam Dunia oleh UNESCO pada tahun 1991.Untuk meningkatkan kemampuan pengelolaan Taman Nasional Ujung Kulon sebagai Situs Warisan Alam Dunia, UNESCO telah memberikan dukungan pendanaan dan bantuan teknis. Masyarakat yang bermukim di sekitar taman nasional yaitu suku Banten yang terkenal dengan kesenian debusnya. Masyarakat tersebut pengikut agama Islam, namun mereka masih mempertahankan kebiasaan-kebiasaan, tradisi, dan kebudayaan nenek moyang mereka.Di dalam taman nasional, ada tempat-tempat yang dikeramatkan bagi kepentingan kepercayaan spiritual. Tempat yang paling terkenal sebagai tujuan ziarah adalah gua Sanghiang Sirah, yang terletak di ujung Barat semenanjung Ujung Kulon. ",
+                        "snippet_content": "MANFAAT..TOLONG DIJAWAB CEPAT YA NANTI DI KUMPULKANADA POINT 99 AND <em>AKU<\/em> TERIMA KASIH.. YANG BENER YA JAWABNYA <em>GK<\/em> ASAL ASALAN.. THXTaman"
+                    },
+                    "responses": [
+                        {
+                            "id": 761700,
+                            "user_id": 276307,
+                            "task_id": 572713,
+                            "points": 50,
+                            "created": "2014-09-05T05:39:30+07:00",
+                            "content": "<span>definisi umum :\u00a0Taman Nasional Ujung Kulon\u00a0terletak di bagian paling barat Pulau\u00a0Jawa,\u00a0Indonesia. Kawasan Taman nasional ini juga memasukan wilayah\u00a0Krakatau\u00a0dan beberapa pulau kecil disekitarnya seperti\u00a0Pulau Handeuleum\u00a0dan\u00a0Pulau\n Peucang. Taman ini mempunyai luas sekitar 122.956 Ha; (443 km\u00b2 di \nantaranya adalah laut), yang dimulai dari tanjung Ujung Kulon sampai \ndenganSamudera Hindia<span>.<br \/><br \/>deskripsi bagian :\u00a0<\/span>Taman \nNasional ini menjadi Taman Nasional pertama yang diresmikan di \nIndonesia, dan juga sudah diresmikan sebagai salah satu Warisan Dunia \nyang dilindungi oleh\u00a0UNESCO\u00a0pada tahun\u00a01991, karena wilayahnya mencakupi\n hutan lindung yang sangat luas. Sampai saat ini kurang lebih 50 sampai \ndengan 60\u00a0badak\u00a0hidup di\u00a0habitat\u00a0ini.Pada awalnya Ujung Kulon \nadalah daerah pertanian pada beberapa masa sampai akhirnya hancur lebur \ndan habis seluruh\u00a0penduduknya\u00a0ketika Gunung Krakatau meletus pada \ntanggal\u00a027 Agustus\u00a01883\u00a0yang akhirnya mengubahnya kawasan ini kembali \nmenjadi\u00a0hutan.Izin untuk masuk ke Taman Nasional ini dapat \ndiperoleh di Kantor Pusat Taman Nasional di Kota\u00a0Labuan\u00a0atau\u00a0Tamanjaya. \nPenginapan dapat diperoleh di Pulau Handeuleum dan Peucang.Taman\n Nasional Ujung Kulon bersama Cagar Alam Krakatau merupakan asset \nnasional, dan telah ditetapkan sebagai\u00a0Situs Warisan Alam \nDunia\u00a0oleh\u00a0UNESCO\u00a0pada tahun\u00a01991.<span>Untuk meningkatkan \nkemampuan pengelolaan Taman Nasional Ujung Kulon sebagai\u00a0Situs Warisan \nAlam Dunia,\u00a0UNESCO\u00a0telah memberikan dukungan pendanaan dan bantuan \nteknis.<br \/><br \/>deskripsi manfaat : melindungi berbagai flora dan fauna di indonesia<\/span><\/span><br \/>",
+                            "mark": 4,
+                            "marks_count": 6,
+                            "thanks": 28,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 761701,
+                            "user_id": 369508,
+                            "task_id": 572713,
+                            "points": 50,
+                            "created": "2014-09-05T05:39:37+07:00",
+                            "content": "<span>definisi umum :\u00a0Taman Nasional Ujung Kulon\u00a0terletak di bagian paling barat Pulau\u00a0Jawa,\u00a0Indonesia. Kawasan Taman nasional ini juga memasukan wilayah\u00a0Krakatau\u00a0dan beberapa pulau kecil disekitarnya seperti\u00a0Pulau Handeuleum\u00a0dan\u00a0Pulau Peucang. Taman ini mempunyai luas sekitar 122.956 Ha; (443 km\u00b2 di antaranya adalah laut), yang dimulai dari tanjung Ujung Kulon sampai denganSamudera Hindia<span>.<br \/><br \/>deskripsi bagian :\u00a0<\/span>Taman Nasional ini menjadi Taman Nasional pertama yang diresmikan di Indonesia, dan juga sudah diresmikan sebagai salah satu Warisan Dunia yang dilindungi oleh\u00a0UNESCO\u00a0pada tahun\u00a01991, karena wilayahnya mencakupi hutan lindung yang sangat luas. Sampai saat ini kurang lebih 50 sampai dengan 60\u00a0badak\u00a0hidup di\u00a0habitat\u00a0ini.Pada awalnya Ujung Kulon adalah daerah pertanian pada beberapa masa sampai akhirnya hancur lebur dan habis seluruh\u00a0penduduknya\u00a0ketika Gunung Krakatau meletus pada tanggal\u00a027 Agustus\u00a01883\u00a0yang akhirnya mengubahnya kawasan ini kembali menjadi\u00a0hutan.Izin untuk masuk ke Taman Nasional ini dapat diperoleh di Kantor Pusat Taman Nasional di Kota\u00a0Labuan\u00a0atau\u00a0Tamanjaya. Penginapan dapat diperoleh di Pulau Handeuleum dan Peucang.Taman Nasional Ujung Kulon bersama Cagar Alam Krakatau merupakan asset nasional, dan telah ditetapkan sebagai\u00a0Situs Warisan Alam Dunia\u00a0oleh\u00a0UNESCO\u00a0pada tahun\u00a01991.<span>Untuk meningkatkan kemampuan pengelolaan Taman Nasional Ujung Kulon sebagai\u00a0Situs Warisan Alam Dunia,\u00a0UNESCO\u00a0telah memberikan dukungan pendanaan dan bantuan teknis.<br \/><br \/>deskripsi manfaat : melindungi berbagai flora dan fauna di indonesia<\/span><\/span><br \/>",
+                            "mark": 5,
+                            "marks_count": 2,
+                            "thanks": 28,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 600325,
+                                        "user_id": 199054,
+                                        "content": "bantuin njawab in :v",
+                                        "created": "2014-09-05T05:41:57+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 276307,
+                                "nick": "nisapermatasari1",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d9e\/26698cc4b9822ea3a342236703880a3b.jpg"
+                            },
+                            {
+                                "id": 369508,
+                                "nick": "idamdimitri",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d1c\/41015617d6ac5c39763fe3f417e5155e.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10635786,
+                        "subject_id": 1,
+                        "user_id": 983790,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Bacalah drama berikut dengan seksama gunarto : (heran) min masih saja terima jahitan,bu .. ? bukan tak usah lagi ia bekerja banting tulang sekarang? ibu : biarlah narto, nanti kalau dia sudah bersuami kepandaiannya itu tidak akan sia sia gunarto : ( memandang ibu dan mendekati dengan penuh kasih)sebenarnya bu, hendak kukatakan penghasilan kita belum cukup untuk makan kita sekeluarga. ( Diam sebentar ) tapi, bagaimana dengan lamaran orang itu , bu ? ibu : mintarsih tampaknya belum mau bersuami, tapi orang itu mendesak juga ? gunarto : tapi apa salah nya bu. Uang kan banyak bu ibu : ah .. uang, narto gunarto : maaf bu bukan maksudku menjual adikku sendiri.aku sudah terlalu mata duitan , mungkin dalam hidup yang penu derita ini <br \/>\nJelaskan tokoh dan penokohan dalam penggalan drama tersebut !<br \/>",
+                        "created": "2017-05-14T09:17:10+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-05-14T09:20:08+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Bacalah drama berikut dengan seksama gunarto : (heran) min masih saja terima jahitan,bu .. ? bukan <em>tak<\/em> usah lagi ia bekerja <em>banting<\/em> tulang sekarang? ibu : biarlah narto, nanti kalau dia sudah bersuami kepandaiannya itu tidak akan sia sia gunarto : ( memandang ibu dan mendekati dengan penuh kasih)sebenarnya bu, hendak kukatakan penghasilan kita belum cukup untuk makan kita sekeluarga. ( Diam sebentar ) tapi, bagaimana dengan lamaran orang itu , bu ? ibu : mintarsih tampaknya belum mau bersuami, tapi orang itu mendesak juga ? gunarto : tapi apa salah nya bu. Uang kan banyak bu ibu : ah .. uang, narto gunarto : maaf bu bukan maksudku menjual adikku sendiri.<em>aku<\/em> sudah terlalu mata duitan , mungkin dalam hidup yang penu derita ini \nJelaskan tokoh dan penokohan dalam penggalan drama tersebut !",
+                        "snippet_content": "Bacalah drama berikut dengan seksama gunarto : (heran) min masih saja terima jahitan,bu .. ? bukan <em>tak<\/em> usah lagi ia bekerja <em>banting<\/em> tulang sekarang"
+                    },
+                    "responses": [
+                        {
+                            "id": 12885432,
+                            "user_id": 5033828,
+                            "task_id": 10635786,
+                            "points": 5,
+                            "created": "2017-05-14T09:20:08+07:00",
+                            "content": "Tokoh Ibu (baik,sabar dan bersyukur) <br \/>Gunarto ( Matrealistis) <br \/>Penokohannya (dialog antara ibu dan gunarto) ",
+                            "mark": 1,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "6",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5033828,
+                                "nick": "Uyayu",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d92\/21b957db92dc2234b4cfedeeb842dce1.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10705039,
+                        "subject_id": 3,
+                        "user_id": 1507755,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "1. Belanda diperbolehkan bertahta di kesultanan gowa.<br \/>\n2. Belanda mendapat hak monopoli perdagangan di Makassar.<br \/>\n3. Belanda diperbolehkan mendirikan benteng. <br \/>\n5. Makassar mengakui aru palaka sebangai sultan bone. <br \/>\n4. Belanda diperbolehkan menguasai bone dan sopeng. <br \/>\nDari data di atas ini, manakah isi perjanjian bongaya antara belanda dan hasanuddin? <br \/>\na. 123 b. 124 c. 234 d. 235 e. 345",
+                        "created": "2017-05-18T19:16:42+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2017-05-18T19:24:52+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "6",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "1. Belanda diperbolehkan bertahta di kesultanan gowa.\n2. Belanda mendapat <em>hak<\/em> monopoli perdagangan di Makassar.\n3. Belanda diperbolehkan mendirikan <em>benteng.<\/em> \n5. Makassar mengakui <em>aru<\/em> palaka sebangai sultan bone. \n4. Belanda diperbolehkan menguasai bone dan sopeng. \nDari data di atas ini, manakah isi perjanjian bongaya antara belanda dan hasanuddin? \na. 123 b. 124 c. 234 d. 235 e. 345",
+                        "snippet_content": "Belanda mendapat <em>hak<\/em> monopoli perdagangan di Makassar.\n3. Belanda diperbolehkan mendirikan <em>benteng.<\/em> \n5. Makassar mengakui <em>aru<\/em> palaka sebangai sultan bone. \n4. Belanda"
+                    },
+                    "responses": [
+                        {
+                            "id": 12975815,
+                            "user_id": 4941691,
+                            "task_id": 10705039,
+                            "points": 5,
+                            "created": "2017-05-18T19:24:52+07:00",
+                            "content": "2,3,5 benar<br \/><br \/>Berarti d",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 7127286,
+                                        "user_id": 1507755,
+                                        "content": "Trima kasih",
+                                        "created": "2017-05-19T18:24:40+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4941691,
+                                "nick": "Sudana2017",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10728913,
+                        "subject_id": 3,
+                        "user_id": 1379369,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 11,
+                            "ptsForResp": 6,
+                            "ptsForBest": 3
+                        },
+                        "content": "1. dibawah ini adalah isi perjanjian bonggaya (1677 M) kecuali...<br \/><br \/>\na. VOC mendapatkan hak monopoli perdagangan di makassar<br \/>\nb. VOC mendirikan benteng di makassar<br \/>\nc. makassar melepaskan daerah kekuasaannya seperti bone dan pulau pulau luar makassar<br \/>\nd. aru palaka diakui sebagai raja bone<br \/>\ne. makassar sebagai kerajaan yg berdaulat penuh <br \/><br \/>\n2. penyerangan fatahillah ke jawa barat ( banten dan sunda kelapa) bertujuan untuk...<br \/><br \/>\na. memperluas daerah kekuasaan<br \/>\nb. menyebarkan pengaruh islam<br \/>\nc. menghalangi hubungan belanda dengan pajajaran<br \/>\nd. menghalangi hubungan portugis dengan pajajaran<br \/>\ne. menghalangi hubungan inggris dengan belanda <br \/><br \/>\n3. teori masuknya agama islam dibuktikan dengan adanya pengaruh gelar syah adalah...<br \/><br \/>\na. teori mekkah<br \/>\nb. teori persia<br \/>\nc. teori gujarat <br \/>\nd. teori mesir<br \/>\ne. teori cina<br \/><br \/>\n4. dampak dari penguasaan portugis atas malaka di bidang ekonomi bagi kerajaan yang bercorak islam adalah...<br \/><br \/>\na. renggangnya hubungan kerajaan islam dengan portugis<br \/>\nb. terjadinya perang antara portugis dengan kerajaan islam<br \/>\nc. terhambatnya perkembangan agama islam<br \/>\nd. munculnya persaingan yg tidak sehat dalam bidang perdagangan internasional<br \/>\ne. munculnya kota kota dagang baru di kerajaan islam <br \/><br \/>\n5. kemunduran kerajaan banten terjadi ketika kerajaan ini di bawah pemerintahan sultan haji yang disebabkan oleh...<br \/><br \/>\na. ekonomi perdagangan mengalami kebangkrutan<br \/>\nb. intervensi dari pemerintah belanda<br \/>\nc. serangan dari kerajaan demak<br \/>\nd. suksesi kepemimpinan <br \/>\ne. perebutan kekuasaan antar putra raja<br \/><br \/>\n6. berdasarkan kalender komariah\/islam bulan pertamanya adalah...<br \/><br \/>\na. suro<br \/>\nb. syawal<br \/>\nc. muharram<br \/>\nd. dzulhijjah<br \/>\ne. rojab<br \/><br \/>\n7. buku sejarah aceh yang ditulis dalam bahasa melayu dengan judul \"bustanusslatin\" merupakan karya dari...<br \/><br \/>\na. sultan iskandar muda<br \/>\nb. hamzah fansuri<br \/>\nc. nurudin arraniri<br \/>\nd. syamsudin pasai<br \/>\ne. sultan iskandar tani<br \/><br \/>\n8. pemikiran sultan agung hanyokrokusomo di bidang budaya selain sekaten adalah...<br \/><br \/>\na. grebek maulud<br \/>\nb. penetapan kalender jawa<br \/>\nc. tradisi nyekar<br \/>\nd. tradisi bersih desa<br \/>\ne. tradisi labuhan <br \/><br \/>\n9. kerajaan makassar merupakan penggabungan antara kerajaan...<br \/><br \/>\na. bone dan wajo <br \/>\nb. gowa dan tallo<br \/>\nc. makassar dan bugis<br \/>\nd. ternate dan tidore<br \/>\ne. bone dan gowa<br \/>",
+                        "created": "2017-05-20T20:42:17+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2017-05-20T20:47:28+07:00",
+                        "the_best_resp_id": "13010361",
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "1. dibawah ini adalah isi perjanjian bonggaya (1677 M) kecuali...\na. VOC mendapatkan <em>hak<\/em> monopoli perdagangan di makassar\nb. VOC mendirikan <em>benteng<\/em> di makassar\nc. makassar melepaskan daerah kekuasaannya seperti bone dan pulau pulau luar makassar\nd. <em>aru<\/em> palaka diakui sebagai raja bone\ne. makassar sebagai kerajaan yg berdaulat penuh \n2. penyerangan fatahillah ke jawa barat ( banten dan sunda kelapa) bertujuan untuk...\na. memperluas daerah kekuasaan\nb. menyebarkan pengaruh islam\nc. menghalangi hubungan belanda dengan pajajaran\nd. menghalangi hubungan portugis dengan pajajaran\ne. menghalangi hubungan inggris dengan belanda \n3. teori masuknya agama islam dibuktikan dengan adanya pengaruh gelar syah adalah...\na. teori mekkah\nb. teori persia\nc. teori gujarat \nd. teori mesir\ne. teori cina\n4. dampak dari penguasaan portugis atas malaka di bidang ekonomi bagi kerajaan yang bercorak islam adalah...\na. renggangnya hubungan kerajaan islam dengan portugis\nb. terjadinya perang antara portugis dengan kerajaan islam\nc. terhambatnya perkembangan agama islam\nd. munculnya persaingan yg tidak sehat dalam bidang perdagangan internasional\ne. munculnya kota kota dagang baru di kerajaan islam \n5. kemunduran kerajaan banten terjadi ketika kerajaan ini di bawah pemerintahan sultan haji yang disebabkan oleh...\na. ekonomi perdagangan mengalami kebangkrutan\nb. intervensi dari pemerintah belanda\nc. serangan dari kerajaan demak\nd. suksesi kepemimpinan \ne. perebutan kekuasaan antar putra raja\n6. berdasarkan kalender komariah\/islam bulan pertamanya adalah...\na. suro\nb. syawal\nc. muharram\nd. dzulhijjah\ne. rojab\n7. buku sejarah aceh yang ditulis dalam bahasa melayu dengan judul \"bustanusslatin\" merupakan karya dari...\na. sultan iskandar muda\nb. hamzah fansuri\nc. nurudin arraniri\nd. syamsudin pasai\ne. sultan iskandar tani\n8. pemikiran sultan agung hanyokrokusomo di bidang budaya selain sekaten adalah...\na. grebek maulud\nb. penetapan kalender jawa\nc. tradisi nyekar\nd. tradisi bersih desa\ne. tradisi labuhan \n9. kerajaan makassar merupakan penggabungan antara kerajaan...\na. bone dan wajo \nb. gowa dan tallo\nc. makassar dan bugis\nd. ternate dan tidore\ne. bone dan gowa",
+                        "snippet_content": "1. dibawah ini adalah isi perjanjian bonggaya (1677 M) kecuali...\na. VOC mendapatkan <em>hak<\/em> monopoli perdagangan di makassar\nb. VOC mendirikan <em>benteng<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 13010361,
+                            "user_id": 5046530,
+                            "task_id": 10728913,
+                            "points": 6,
+                            "created": "2017-05-20T20:47:28+07:00",
+                            "content": "1. makassar sbg kerajaan yg berdaulat penuh<br \/>2. menyebarkan kekukasaan<br \/>3. teori persia<br \/>4. d. munculnya persaingan taj sehat dlm perdagangan<br \/>5. perebutan kekuasaan<br \/>6. muharram<br \/>7. (kurang tahu<br \/>8. penetapan kalender jawa<br \/>9. gowa dan tallo",
+                            "mark": 5,
+                            "marks_count": 2,
+                            "thanks": 1,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5046530,
+                                "nick": "KrisnaAgungMurti",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d27\/4de25f1709cf07747c7c480df07b2175.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10832102,
+                        "subject_id": 1,
+                        "user_id": 1057187,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 20,
+                            "ptsForResp": 10,
+                            "ptsForBest": 5
+                        },
+                        "content": "Apa saja unsur intrinsik dan ektrinsik dari cerpen ini<br \/><br \/>\n Jala nelayan<br \/><br \/>\nTiga jengkal lagi matahari menyelinap di balik gunung. Gumpalan awan merayap, menari mem- bayangi langit jingga. Udara sore mendesah. Ombak menampar sampan nelayan yang meminjam napas di dermaga.<br \/>\nGemericik air laut bersuara merdu. Bukit-bukit biru tua beserta kerlingan matahari di batas senja. Layar mengembang. Burung-burung riang di udara, elok dipandang, indah dinikmati dan dikunyah, ditelan hati galau dan pikiran gelisah. Tetapi yang demikian mungkin hanyalah romantika penghuni kota yang iseng, bukan buat Basri yang mencari nafkah. Jam kerja Basri diperpanjang karena ikan yang diperoleh belum seberapa.<br \/>\nTuhan Maha Pemurah. Siang malam ikan di laut dikuras sekian nafsu, sekian perut, dan segunung harapan, namun masih saja tersisa rezeki bagi mereka yang bersabar dan mencari. Tak bosan-bosan orang menyebarkan racun, melempar bom; meng- hancurkan terumbu karang, meledakkan tempat ikan berkembang biak, membabat habis kekinian dan masa depan binatang laut, tetapi tetap saja Tuhan bermurah hati walau langsung atau tidak bayi-bayi dalam gendongan ikut memikul beban dan tiap hari bertambah berat, semakin parah.<br \/>\nPelan-pelan Basri mengangkat jangkar, me- mandang arah dermaga tempat nelayan dan tengkulak tawar-menawar harga ikan. Matahari sudah hampir hilang. Bapak tiga anak itu bergerak cepat. Layar mulai dipasang. Sebuah termos plastik dekat kemudi dibuka. Sebaris senyum melintas di bibirnya sebelum menutup kembali termos plastik. Di benaknya tiba-tiba muncul wajah putri sulung yang memesan kaus kaki putih, sepatu, dan topi cokelat guna mengikuti lomba gerak jalan antarsekolah. Andaikata ikan tersebut laku tinggi pasti putrinya bahagia.<br \/><br \/>\nTengkulak terakhir duduk tenang di bibir dermaga. Sesekali tatapannya memandang sampan nelayan mendekati. Wajahnya tak berekspresi. Bila saja batang leher perempuan itu tidak bergerak karena memandang dua ember iklan yang ia beli pada nelayan- nelayan sebelumnya, keberadaannya boleh dibilang mirip gentong.<br \/>\n\u201dCepat!\u201d perempuan berbadan subur itu me- nyambut. \u201dSudah sore!\u201d<br \/>\nBasri melempar jangkar; menepikan sampan dan terburu-buru menginjak daratan sambil menjinjing termos ikan. \u201dMau jual berapa?\u201d tengkulak meng- hadang dengan pertanyaan tatkala ia memperlihatkan jenis-jenis ikan yang diperolehnya.<br \/>\n\u201dMaunya berapa. Saya bingung lantaran tidak tahu-menahu harga?\u201d ia balik tertanya.<br \/>\n\u201dKamu dong, bilang,\u201d perempuan itu berkata sambil membolak-balik ikan dalam termos dengan pandangan tak bernafsu. \u201dAyo, sudah sore,\u201d ia me- nyelipkan empat lembar uang ribuan ke tangan Basri.<br \/>\n\u201dSegini?\u201d katanya dengan suara hampir tak keluar. \u201dTidak,\u201d ia menggeleng.<br \/>\n\u201dJangan segini sebab ikan-ikan itu kan banyak.\u201d\u201dSiapa bilang ikan ini sedikit? Kamu kan tahu saya tak bisa langsung menjual sore ini. Saya hanya bisa menjualnya besok pagi. Untuk itu mesti kuawetkan. Saya akan membutuhkan uang untuk membeli es batu segala.\u201d<br \/>\n\u201dTetapi harga es batu berapa, sih? Sekiranya ibu mau membayar lebih, saya bisa mencukupi kebutuhan keluarga.\u201d Basri berkata spontan.<br \/>\n\u201dYa, sudahlah,\u201d perempuan itu menanggapi, bersikap mengalah. \u201dSaya tambah seribu.\u201d<br \/>\nBasri berpikir-pikir. Kepalanya menunduk. Lama baru kemudian ia menggeleng.<br \/>\n\u201dMau?\u201d perempuan itu memperingatkan. \u201dKalau mau, ambil. Kalau tidak saya pulang. Ayo! Sudah sore,\u201d perempuan itu berkata serius dengan nada mengandung ancaman.<br \/>\nBasri berpikir keras. Sepasang sepatu hitam, kaus kaki putih, topi cokelat, dan ikat pinggang hitam yang digantung depan toko pakaian di lorong pasar di kota<br \/>\nkecamatan menari-nari di pelupuk matanya. Seandai- nya ia mampu mendapatkan uang lebih tentu dapat memenuhi keinginan putrinya. Ternyata dia kecewa karena tidak mampu membelikan pesanan putrinya.<br \/>\nSebuah bus antarkota berhenti di jalan raya. Pedagang ikan berbadan gemuk melompat ke bus lalu terdengar kendaraan itu menderu, jauh, semakin jauh, menghilang di tikungan jalan.<br \/>\nBasri tak berkutik. Hari itu ia bukan hanya gagal memperoleh uang, tetapi kalah dalam segala per- mainan. Ia menggaruk kepala, menarik-embuskan napas kemudian mencari di mana puntung rokoknya disimpan. Ia menggeleng. Rupanya ia tidak sekedar menggertak, pikirnya. \u201dMentang-mentang . . . ,\u201d suara Basri meletus bagai gunung api memuntahkan lahar. Seandainya ia seorang tengkulak, maka apa yang akan dilakukannya. Pasti ia akan berbuat yang sama.",
+                        "created": "2017-05-30T23:46:11+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-06-23T11:34:42+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "6",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Apa saja unsur intrinsik dan ektrinsik dari cerpen ini\n Jala nelayan\nTiga jengkal lagi matahari menyelinap di balik gunung. Gumpalan awan merayap, menari mem- bayangi langit jingga. Udara sore mendesah. Ombak menampar sampan nelayan yang meminjam napas di dermaga.\nGemericik air laut bersuara merdu. Bukit-bukit biru tua beserta kerlingan matahari di batas senja. Layar mengembang. Burung-burung riang di udara, elok dipandang, indah dinikmati dan dikunyah, ditelan hati galau dan pikiran gelisah. Tetapi yang demikian mungkin hanyalah romantika penghuni kota yang iseng, bukan buat Basri yang mencari nafkah. Jam kerja Basri diperpanjang karena ikan yang diperoleh belum seberapa.\nTuhan Maha Pemurah. Siang malam ikan di laut dikuras sekian nafsu, sekian perut, dan segunung harapan, namun masih saja tersisa rezeki bagi mereka yang bersabar dan mencari. <em>Tak<\/em> bosan-bosan orang menyebarkan racun, melempar bom; meng- hancurkan terumbu karang, meledakkan tempat ikan berkembang biak, membabat habis kekinian dan masa depan binatang laut, tetapi tetap saja Tuhan bermurah hati walau langsung atau tidak bayi-bayi dalam gendongan ikut memikul beban dan tiap hari bertambah berat, semakin parah.\nPelan-pelan Basri mengangkat jangkar, me- mandang arah dermaga tempat nelayan dan tengkulak tawar-menawar harga ikan. Matahari sudah hampir hilang. Bapak tiga anak itu bergerak cepat. Layar mulai dipasang. Sebuah termos plastik dekat kemudi dibuka. Sebaris senyum melintas di bibirnya sebelum menutup kembali termos plastik. Di benaknya tiba-tiba muncul wajah putri sulung yang memesan kaus kaki putih, sepatu, dan topi cokelat guna mengikuti lomba gerak jalan antarsekolah. Andaikata ikan tersebut <em>laku<\/em> tinggi pasti putrinya bahagia.\nTengkulak terakhir duduk tenang di bibir dermaga. Sesekali tatapannya memandang sampan nelayan mendekati. Wajahnya <em>tak<\/em> berekspresi. Bila saja batang leher perempuan itu tidak bergerak karena memandang dua ember iklan yang ia beli pada nelayan- nelayan sebelumnya, keberadaannya boleh dibilang mirip <em>gentong.<\/em>\n\u201dCepat!\u201d perempuan berbadan subur itu me- nyambut. \u201dSudah sore!\u201d\nBasri melempar jangkar; menepikan sampan dan terburu-buru menginjak daratan sambil menjinjing termos ikan. \u201dMau jual berapa?\u201d tengkulak meng- hadang dengan pertanyaan tatkala ia memperlihatkan jenis-jenis ikan yang diperolehnya.\n\u201dMaunya berapa. Saya bingung lantaran tidak tahu-menahu harga?\u201d ia balik tertanya.\n\u201dKamu dong, bilang,\u201d perempuan itu berkata sambil membolak-balik ikan dalam termos dengan pandangan <em>tak<\/em> bernafsu. \u201dAyo, sudah sore,\u201d ia me- nyelipkan empat lembar uang ribuan ke tangan Basri.\n\u201dSegini?\u201d katanya dengan suara hampir <em>tak<\/em> keluar. \u201dTidak,\u201d ia menggeleng.\n\u201dJangan segini sebab ikan-ikan itu kan banyak.\u201d\u201dSiapa bilang ikan ini sedikit? Kamu kan tahu saya <em>tak<\/em> bisa langsung menjual sore ini. Saya hanya bisa menjualnya besok pagi. Untuk itu mesti kuawetkan. Saya akan membutuhkan uang untuk membeli es batu segala.\u201d\n\u201dTetapi harga es batu berapa, sih? Sekiranya ibu mau membayar lebih, saya bisa mencukupi kebutuhan keluarga.\u201d Basri berkata spontan.\n\u201dYa, sudahlah,\u201d perempuan itu menanggapi, bersikap mengalah. \u201dSaya tambah seribu.\u201d\nBasri berpikir-pikir. Kepalanya menunduk. Lama baru kemudian ia menggeleng.\n\u201dMau?\u201d perempuan itu memperingatkan. \u201dKalau mau, ambil. Kalau tidak saya pulang. Ayo! Sudah sore,\u201d perempuan itu berkata serius dengan nada mengandung ancaman.\nBasri berpikir keras. Sepasang sepatu hitam, kaus kaki putih, topi cokelat, dan ikat pinggang hitam yang digantung depan toko pakaian di lorong pasar di kota\nkecamatan menari-nari di pelupuk matanya. Seandai- nya ia mampu mendapatkan uang lebih tentu dapat memenuhi keinginan putrinya. Ternyata dia kecewa karena tidak mampu membelikan pesanan putrinya.\nSebuah bus antarkota berhenti di jalan raya. Pedagang ikan berbadan gemuk melompat ke bus lalu terdengar kendaraan itu menderu, jauh, semakin jauh, menghilang di tikungan jalan.\nBasri <em>tak<\/em> berkutik. Hari itu ia bukan hanya gagal memperoleh uang, tetapi kalah dalam segala per- mainan. Ia menggaruk kepala, menarik-embuskan napas kemudian mencari di mana puntung rokoknya disimpan. Ia menggeleng. Rupanya ia tidak sekedar menggertak, pikirnya. \u201dMentang-mentang . . . ,\u201d suara Basri meletus bagai gunung api memuntahkan lahar. Seandainya ia seorang tengkulak, maka apa yang akan dilakukannya. Pasti ia akan berbuat yang sama.",
+                        "snippet_content": "yang ia beli pada nelayan- nelayan sebelumnya, keberadaannya boleh dibilang mirip <em>gentong.<\/em>\n\u201dCepat!\u201d perempuan berbadan subur itu me- nyambut. \u201dSudah sore!\u201d\nBasri"
+                    },
+                    "responses": [
+                        {
+                            "id": 13331250,
+                            "user_id": 4180944,
+                            "task_id": 10832102,
+                            "points": 10,
+                            "created": "2017-06-23T11:34:42+07:00",
+                            "content": "<br \/>Paragraf 3 : intrinsik<br \/>Paragraf 5 : ektrinsik",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "6",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4180944,
+                                "nick": "essel120503",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d61\/0bd6d0c85131b16fbbf5503fadd4b360.png"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 12,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 1181450,
+            "nick": "sujanaalbani69",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 0,
+                "comments": 1
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1179605,
+            "nick": "umiromadhoni",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 21,
+                "comments": 7
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 1077338,
+            "nick": "katafuka",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 71,
+                "answers": 245,
+                "comments": 189
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d0f\/99c089263e828fc4e359caaed93a4e6b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d96\/e349453827d716656ba3bee005b131d6.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d0f\/99c089263e828fc4e359caaed93a4e6b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d96\/e349453827d716656ba3bee005b131d6.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 1017120,
+            "nick": "auliaseveners28",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 13,
+                "answers": 0,
+                "comments": 1
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 393673,
+            "nick": "ingki",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 315,
+                "answers": 156,
+                "comments": 88
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc9\/62bcfd63faf189e0b6f4863c3a12b5aa.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df7\/3d0f4bcca11da713a104b94410bb28ac.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc9\/62bcfd63faf189e0b6f4863c3a12b5aa.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df7\/3d0f4bcca11da713a104b94410bb28ac.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 3859666,
+            "nick": "Mzidansantoso",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 21,
+                "answers": 26,
+                "comments": 13
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4d\/5bb4f3e4bb4b3d000be69c0a54e2a37a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dea\/030e1e4c8ce74aadb2e498e4c3000032.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4d\/5bb4f3e4bb4b3d000be69c0a54e2a37a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dea\/030e1e4c8ce74aadb2e498e4c3000032.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4339248,
+            "nick": "nurulfauziahk",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 120,
+                "comments": 54
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 1660476,
+            "nick": "rivapramudi",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 4,
+                "comments": 1
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 1714433,
+            "nick": "putripsalsa",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 8,
+                "answers": 29,
+                "comments": 7
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dbe\/d88b20b139c21e421f136c7f332183db.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dce\/5b8cb1b3c02dce1142dc0d3b5e4b5615.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dbe\/d88b20b139c21e421f136c7f332183db.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dce\/5b8cb1b3c02dce1142dc0d3b5e4b5615.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 2270735,
+            "nick": "KHPP",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 8,
+                "answers": 26,
+                "comments": 7
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d98\/3da92af2c8cff8ec63cb2a5754998a93.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d58\/c755f71df37018718c7f0a8d8aaa1a41.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d98\/3da92af2c8cff8ec63cb2a5754998a93.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d58\/c755f71df37018718c7f0a8d8aaa1a41.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 2335266,
+            "nick": "Novantia24",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 13,
+                "answers": 19,
+                "comments": 20
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d36\/c593a044294696ac3e104711db733446.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d82\/d348c9c3c4bb027f99c5b295865a7683.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d36\/c593a044294696ac3e104711db733446.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d82\/d348c9c3c4bb027f99c5b295865a7683.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 2246803,
+            "nick": "kevin204",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 9,
+                "answers": 49,
+                "comments": 11
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 5021784,
+            "nick": "nurdit13",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 14,
+                "answers": 13,
+                "comments": 13
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d2f\/8fd2d583430acf143156c30d97177cc8.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7a\/bad7ee4e704d6a63521778fcce599038.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d2f\/8fd2d583430acf143156c30d97177cc8.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7a\/bad7ee4e704d6a63521778fcce599038.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4655272,
+            "nick": "dewa251202",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 2891,
+                "comments": 1142
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d1c\/02c112d5a62b6c0ba49abde7806c60c5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df6\/00ff39c130c9269e9d9b3265fecaa06a.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d1c\/02c112d5a62b6c0ba49abde7806c60c5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df6\/00ff39c130c9269e9d9b3265fecaa06a.jpg"
+            },
+            "ranks": {
+                "color": "#ffbe32",
+                "names": [
+                    "Apprentice",
+                    "Spam Fighter ",
+                    "BrainlyElite",
+                    "KsatriaBrainly",
+                    "Jenius"
+                ],
+                "count": 5
+            },
+            "ranks_ids": [
+                20,
+                17,
+                27,
+                23,
+                7
+            ]
+        },
+        {
+            "id": 1053919,
+            "nick": "vijjanandaa12",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 6,
+                "answers": 7,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 2099929,
+            "nick": "YNSS",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 51,
+                "comments": 8
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d2e\/8532fb505443ae019d0c53d01f050f2e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d3c\/0b133a5cc552cc7739e2af5385eee9b4.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d2e\/8532fb505443ae019d0c53d01f050f2e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d3c\/0b133a5cc552cc7739e2af5385eee9b4.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 1271282,
+            "nick": "Rubies",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 24,
+                "answers": 145,
+                "comments": 46
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 199054,
+            "nick": "hayyangamers",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 51,
+                "answers": 86,
+                "comments": 95
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc9\/c03c3a20d6c779c350c39012300fdf42.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc4\/f57c71c2da1cc40d178e197fc5ccc36f.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc9\/c03c3a20d6c779c350c39012300fdf42.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc4\/f57c71c2da1cc40d178e197fc5ccc36f.png"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 276307,
+            "nick": "nisapermatasari1",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 51,
+                "answers": 113,
+                "comments": 33
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d76\/86479511e33536038dd417eeb3b4fe57.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d9e\/26698cc4b9822ea3a342236703880a3b.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d76\/86479511e33536038dd417eeb3b4fe57.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d9e\/26698cc4b9822ea3a342236703880a3b.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 369508,
+            "nick": "idamdimitri",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 6,
+                "answers": 62,
+                "comments": 8
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d63\/e4f61a96bef343a1fa53876c080d7433.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d1c\/41015617d6ac5c39763fe3f417e5155e.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d63\/e4f61a96bef343a1fa53876c080d7433.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d1c\/41015617d6ac5c39763fe3f417e5155e.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 983790,
+            "nick": "Puputlindamelat",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 5033828,
+            "nick": "Uyayu",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 16,
+                "comments": 7
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dbb\/76bb91e8a95b0bb8f02dc6431839b126.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d92\/21b957db92dc2234b4cfedeeb842dce1.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dbb\/76bb91e8a95b0bb8f02dc6431839b126.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d92\/21b957db92dc2234b4cfedeeb842dce1.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 1507755,
+            "nick": "diajengg",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 17,
+                "comments": 5
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc4\/9a0cfe849653a448620d22a34984b317.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db0\/07cbdd80778a10c64e733d94d910c775.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc4\/9a0cfe849653a448620d22a34984b317.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db0\/07cbdd80778a10c64e733d94d910c775.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4941691,
+            "nick": "Sudana2017",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 6,
+                "comments": 4
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 1379369,
+            "nick": "friddxx",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 21,
+                "answers": 90,
+                "comments": 15
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 5046530,
+            "nick": "KrisnaAgungMurti",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 38,
+                "answers": 481,
+                "comments": 137
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db1\/edcbea537cc091887b621e7b2343b7bc.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d27\/4de25f1709cf07747c7c480df07b2175.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db1\/edcbea537cc091887b621e7b2343b7bc.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d27\/4de25f1709cf07747c7c480df07b2175.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 1057187,
+            "nick": "accounting",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 2,
+                "comments": 3
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4180944,
+            "nick": "essel120503",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 14,
+                "answers": 3,
+                "comments": 5
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d40\/66048254831f002d21601d0070dccc97.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d61\/0bd6d0c85131b16fbbf5503fadd4b360.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d40\/66048254831f002d21601d0070dccc97.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d61\/0bd6d0c85131b16fbbf5503fadd4b360.png"
+            },
+            "ranks": {
+                "color": "#000000",
+                "names": [],
+                "count": 0
+            },
+            "ranks_ids": null
+        }
+    ],
+    "validated": false
+}

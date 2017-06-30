@@ -1,0 +1,2264 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 2531154,
+                        "subject_id": 2,
+                        "user_id": 972753,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "pak hadidan pak jones pedagang bakso keliling,pak hadi berbelanja ke pasar setiap 8 hari sekali,sedangkan pak jones setiap 6 hari sekali.jika pada tanggal 3 maret 2011 dia berangkat ke pasar beresama sama ke pasar.mereka bertemu lagi pada tanggal....",
+                        "created": "2015-04-22T18:32:19+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2015-04-22T18:37:30+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "pak hadidan pak <em>jones<\/em> pedagang bakso keliling,pak <em>hadi<\/em> berbelanja ke pasar setiap 8 hari sekali,sedangkan pak <em>jones<\/em> setiap 6 hari sekali.jika pada tanggal 3 maret 2011 dia berangkat ke pasar beresama sama ke pasar.mereka bertemu lagi pada tanggal....",
+                        "snippet_content": "pak hadidan pak <em>jones<\/em> pedagang bakso keliling,pak <em>hadi<\/em> berbelanja ke pasar setiap 8 hari sekali,sedangkan pak <em>jones<\/em> setiap 6 hari"
+                    },
+                    "responses": [
+                        {
+                            "id": 3235525,
+                            "user_id": 1328548,
+                            "task_id": 2531154,
+                            "points": 5,
+                            "created": "2015-04-22T18:37:30+07:00",
+                            "content": "kpk dari 8 dan 6 adalah 24<br \/>3 + 24 = 27<br \/>\u00a0jadi, bereka bersama sama kepasar pada tanggal 27\u00a0maret 2011..<br \/>\u00a0 maaf ya klo salah, semoga membantu...",
+                            "mark": 1,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1328548,
+                                "nick": "khoirunnisakn3",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dcc\/c06ccd2d0478ec4ed6de58c482737d13.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 5255328,
+                        "subject_id": 5,
+                        "user_id": 2474383,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Choose A, B, C, or D for the correct answer.<br \/><br \/>\nThis text is for questions 1 to 3.<br \/>\nFrom: dion_mahardika@gmail.com<br \/>\nTo: ferro_andika@yahoo.co.id<br \/>\nDate: Thursday, February 4, 2016 6:40 PM<br \/>\nSubject:  My English article<br \/><br \/>\nDear Mr. Ferro,<br \/>\nHere i attach my article which i'd like to send for the English writing contest. It's in a PDF file so that i can put illustrations on my writing. Moreover, there will be no font missing. So, would you please revise it or give comments on it for improvement?<br \/>\nThank you in advance.<br \/><br \/>\nSincerely,<br \/>\nDion<br \/><br \/>\n1. What will Dion do with the article after being revised?<br \/>\nA.  Read it in the next English class.<br \/>\nB.  Send it to a magazine to be published.<br \/>\nC.  Submit it to Mr. Ferro as his written assignment.<br \/>\nD.  Send it to the committee of the English writing contest.<br \/><br \/>\n2. Why did Dion format his article into a PDF file?<br \/>\nA.   To avoid font missing.<br \/>\nB.   To ease to revise the article.<br \/>\nC.    To make the article easy to read.<br \/>\nD.    To send the article easily and quickly.<br \/><br \/>\n3. What does Dion ask Mr. Ferro to do?<br \/>\nA.  Send the article to the writing contest committee.<br \/>\nB.  Read and score Dion's article to improve his marks.<br \/>\nC.  Revise and give comments on Dion's article.<br \/>\nD.  Put illustrations on Dion's article.<br \/><br \/>\nThis text is for questions 4 and 5.<br \/>\nFrom: alif-aksan@yahoo.co.id<br \/>\nTo: desta-arka@gmail.com<br \/>\nDate: Sunday, January 31, 2016 1:25 PM<br \/>\nSubject: How are you?<br \/><br \/>\nDear Desta,<br \/>\nHow are your new life and your studies in Surabaya? I hope everything runs well.<br \/>\nI have to admit that since you moved to Surabaya, i feel lonely. I have no a companion to spend weekends or play chess with. There is no one who fetches me from school. I really miss you, brother.<br \/>\nI just can't wait for the semester holiday to come. I'll be longing for that time when you return home and spend the holiday with me, as you've promised before.<br \/><br \/>\nAlif<br \/><br \/>\n4. What is Desta doing in Surabaya?<br \/>\nA.   He is continuing his studies.<br \/>\nB.   He is having a vacation.<br \/>\nC.   He is visiting his friend.<br \/>\nD.   He is working.<br \/><br \/>\n5. Which of the following statements is not true?<br \/>\nA.   Alif misses Desta very much.<br \/>\nB.   Desta used to fetch Alif from school.<br \/>\nC.    Alif and Desta used to play chess together.<br \/>\nD.   Desta won't return home next semester holiday.<br \/><br \/>\nThis text is for questions 6 to 8.<br \/>\nFrom: Hartawan<br \/>\nTo: Septarini <br \/>\nSent: Thursday, January 14, 2016 5:04 PM<br \/>\nSubject: Hi<br \/><br \/>\nHi Septa,<br \/>\n   We haven't met since we graduated from elementary school. How are you? Are you busy at school? I miss you, especially your jokes. You helped me with the school subjects. You also made jokes when i was blue. I really miss those good old days, Septa.<br \/>\n   Suppose you were here with me now. I'm sure you could help me solve this heavy burden. I have a lot of homework and assignments. I don't have much time to hang out now. I would like to go back to the old days when we could talk, chat and hang out together.<br \/>\n   Septa, i want you to set me free from this burden. Please reply to this e-mail, promptly.<br \/><br \/>\nCheers,<br \/>\nHartawan<br \/><br \/>\n6. What is the relationship between Hartawan and Septarini?<br \/>\nA.   Brother and sister.<br \/>\nB.   Teacher and student.<br \/>\nC.   Old friends.<br \/>\nD.   Uncle and niece.<br \/><br \/>\n7. Why does Hartawan miss Septarini?<br \/>\nA.   He has a heavy burden.<br \/>\nB.   He wants to hear Septarini's jokes.<br \/>\nC.   He wants to hang out with Septarini.<br \/>\nD.   He needs Septarini to help him.<br \/><br \/>\n8. \"Please reply to this e-mail, promptly.\" (Last paragraph)<br \/>\nWhat word is similar to 'promptly'?<br \/>\nA.   Exactly.<br \/>\nB.   Immediately.<br \/>\nC.    Clearly.<br \/>\nD.    Fortunately. <br \/><br \/>\nThis text is for questions 9 and 10.<br \/>\nFrom: Yogi Putra <br \/>\nTo: Teen Mag <br \/>\nSent: Tuesday, January 5, 2016 7:44 PM<br \/>\nSubject : Help me!<br \/>\nDear editor,<br \/>\n   I need your help. I have a friend. I thought he was good to me, since he helped me and gave me a ride very often. In fact, he used me. He treated me as if i was his servant. When i refused, he degraded me before my friends. As a consequence, i'm getting lazy to go to school and my marks have dropped.<br \/>\n   So please, tell me what i must do. I don't want to disappoint my parents.<br \/>\n    I hope i can get your reply very soon. I really appreciate your help. Thank you.<br \/><br \/>\nSincerely,<br \/>\nUnlucky boy<br \/><br \/>\n9. What is the e-mail about?<br \/>\nA.   A boy who needs help.<br \/>\nB.   A popular topic of a teen mag.<br \/>\nC.   An editor of a teen mag who gives an advice.<br \/>\nD.   A boy who tells his naughty friend to a teen mag's editor.<br \/><br \/>\n10. \"I hope i can get your reply very soon.\"<br \/>\n(Paragraph 3)<br \/>\nThe underlined word is similar to...<br \/>\nA.   Way out<br \/>\nB.   Assistance<br \/>\nC.   Information<br \/>\nD.   Answer<br \/><br \/><br \/>",
+                        "created": "2016-02-27T20:20:27+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2016-02-27T20:45:47+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Choose A, B, C, or D for the correct answer.\nThis text is for questions 1 to 3.\nFrom: dion_mahardika@gmail.com\nTo: ferro_andika@yahoo.co.id\nDate: Thursday, February 4, 2016 6:40 PM\nSubject:  My English article\nDear Mr. Ferro,\nHere i attach my article which i'd like to send for the English writing contest. It's in a PDF file so that i can put illustrations on my writing. Moreover, there will be no font missing. So, would you please revise it or give comments on it for improvement?\nThank you in advance.\nSincerely,\nDion\n1. What will Dion do with the article after being revised?\nA.  Read it in the next English class.\nB.  Send it to a magazine to be published.\nC.  Submit it to Mr. Ferro as his written assignment.\nD.  Send it to the committee of the English writing contest.\n2. Why did Dion format his article into a PDF file?\nA.   To avoid font missing.\nB.   To ease to revise the article.\nC.    To make the article easy to read.\nD.    To send the article easily and quickly.\n3. What does Dion ask Mr. Ferro to do?\nA.  Send the article to the writing contest committee.\nB.  Read and score Dion's article to improve his marks.\nC.  Revise and give comments on Dion's article.\nD.  Put illustrations on Dion's article.\nThis text is for questions 4 and 5.\nFrom: alif-aksan@yahoo.co.id\nTo: desta-arka@gmail.com\nDate: Sunday, January 31, 2016 1:25 PM\nSubject: How are you?\nDear Desta,\nHow are your new life and your studies in Surabaya? I hope everything runs well.\nI have to admit that since you moved to Surabaya, i feel lonely. I have no a companion to spend weekends or play chess with. There is no one who fetches me from school. I really miss you, brother.\nI just can't wait for the semester holiday to come. I'll be longing for that time when you return home and spend the holiday with me, as you've promised before.\nAlif\n4. What is Desta doing in Surabaya?\nA.   He is continuing his studies.\nB.   He is having a vacation.\nC.   He is visiting his friend.\nD.   He is working.\n5. Which of the following statements is not true?\nA.   Alif misses Desta very much.\nB.   Desta used to fetch Alif from school.\nC.    Alif and Desta used to play chess together.\nD.   Desta won't return home next semester holiday.\nThis text is for questions 6 to 8.\nFrom: Hartawan\nTo: Septarini \nSent: Thursday, January 14, 2016 5:04 PM\nSubject: Hi\nHi Septa,\n   We haven't met since we graduated from elementary school. How are you? Are you busy at school? I miss you, especially your <em>jokes.<\/em> You helped me with the school subjects. You also made <em>jokes<\/em> when i was blue. I really miss those good old days, Septa.\n   Suppose you were here with me now. I'm sure you could help me solve this heavy burden. I have a lot of homework and assignments. I don't have much time to <em>hang<\/em> out now. I would like to go back to the old days when we could talk, chat and <em>hang<\/em> out together.\n   Septa, i want you to set me free from this burden. Please reply to this e-mail, promptly.\nCheers,\nHartawan\n6. What is the relationship between Hartawan and Septarini?\nA.   Brother and sister.\nB.   Teacher and student.\nC.   Old friends.\nD.   Uncle and niece.\n7. Why does Hartawan miss Septarini?\nA.   He has a heavy burden.\nB.   He wants to hear Septarini's <em>jokes.<\/em>\nC.   He wants to <em>hang<\/em> out with Septarini.\nD.   He needs Septarini to help him.\n8. \"Please reply to this e-mail, promptly.\" (Last paragraph)\nWhat word is similar to 'promptly'?\nA.   Exactly.\nB.   Immediately.\nC.    Clearly.\nD.    Fortunately. \nThis text is for questions 9 and 10.\nFrom: Yogi Putra \nTo: Teen Mag \nSent: Tuesday, January 5, 2016 7:44 PM\nSubject : Help me!\nDear editor,\n   I need your help. I have a friend. I thought he was good to me, since he helped me and gave me a ride very often. In fact, he used me. He treated me as if i was his servant. When i refused, he degraded me before my friends. As a consequence, i'm getting lazy to go to school and my marks have dropped.\n   So please, tell me what i must do. I don't want to disappoint my parents.\n    I hope i can get your reply very soon. I really appreciate your help. Thank you.\nSincerely,\nUnlucky boy\n9. What is the e-mail about?\nA.   A boy who needs help.\nB.   A popular topic of a teen mag.\nC.   An editor of a teen mag who gives an advice.\nD.   A boy who tells his naughty friend to a teen mag's editor.\n10. \"I hope i can get your reply very soon.\"\n(Paragraph 3)\nThe underlined word is similar to...\nA.   Way out\nB.   Assistance\nC.   Information\nD.   Answer",
+                        "snippet_content": "has a heavy burden.\nB.   He wants to hear Septarini's <em>jokes.<\/em>\nC.   He wants to <em>hang<\/em> out with Septarini.\nD.   He"
+                    },
+                    "responses": [
+                        {
+                            "id": 6214589,
+                            "user_id": 2595221,
+                            "task_id": 5255328,
+                            "points": 5,
+                            "created": "2016-02-27T20:45:47+07:00",
+                            "content": "1.d.<br \/>2.a<br \/>3.c<br \/>4.a<br \/>5.d<br \/>6.c<br \/>7.b <br \/>8.b<br \/>9.a<br \/>10.underlinenya mana? ga ada underline?",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 3649278,
+                                        "user_id": 2474383,
+                                        "content": "Yg underlined ny reply.",
+                                        "created": "2016-02-28T07:57:49+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        },
+                        {
+                            "id": 6215027,
+                            "user_id": 1474741,
+                            "task_id": 5255328,
+                            "points": 5,
+                            "created": "2016-02-27T21:28:09+07:00",
+                            "content": "1. d. 2. a. 3. c. 4. a. 5. d. 6. c. 7. b. 8. b. 9. a. 10. a",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 7,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2016-11-22T09:47:28+07:00",
+                                "approver": {
+                                    "id": 2663844,
+                                    "nickname": "Mahaguru",
+                                    "points": 1162,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/db6\/c5fb7b6a68ce26ccea00dc12cb60d96f.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/df7\/fe8fb6dfa0d217a5d3fafa2a27e269ba.png"
+                                    },
+                                    "content_approved_count": 718062
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2595221,
+                                "nick": "sisil08",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dcc\/109ca4a9f47d8ce5925461e06301c739.jpg"
+                            },
+                            {
+                                "id": 1474741,
+                                "nick": "gumantinr",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d6c\/6886afc4fe968c0a4e99b01c1cf79277.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 9607354,
+                        "subject_id": 5,
+                        "user_id": 2809210,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "1. We were planning to go for a walk, but it was 1              ,we could not go outside mother asked us to 2               In the kitchen instead. After helping her, we watched cartoon on television. We spent the afternoon 3          . Afterwards, we got up and stretched legs as we all had 4              From sitting down for so long. After dinner dad 5            And said there would be no more television watching that day<br \/>\nAnswer selectionfor number1. : put his foot down<br \/>\n                                                   : Lend a helping hand<br \/>\n                                                   : doubled up with laugther <br \/>\n                                                   : Raining cats and dogs<br \/>\n                                                   : pins and needles<br \/>\n2. At grandfather's 60th birthday party, my brother told many jokes. They were so funny that everyone                    With laugther after that, my sis ter did some magic tricks. She mada things disappear in the                      Of an eye and made them reappear in a different part of the room. Someone asked my sister to make his wife disappear, but she turned a                       Ear to him. The next day, a neighbour who had heard about the party asked if my brother and sister would perform at her party. They had become famous around the neighbourhood by word of<br \/>\nPls tolong",
+                        "created": "2017-02-27T15:23:31+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-02-27T17:31:13+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "6",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "1. We were planning to go for a walk, but it was 1              ,we could not go outside mother asked us to 2               In the kitchen instead. After helping her, we watched cartoon on television. We spent the afternoon 3          . Afterwards, we got up and stretched legs as we all had 4              From sitting down for so long. After dinner dad 5            And said there would be no more television watching that day\nAnswer selectionfor number1. : put his foot down\n                                                   : Lend a helping <em>hand<\/em>\n                                                   : doubled up with laugther \n                                                   : Raining cats and dogs\n                                                   : pins and needles\n2. At grandfather's 60th birthday party, my brother told many <em>jokes.<\/em> They were so funny that everyone                    With laugther after that, my sis ter did some magic tricks. She mada things disappear in the                      Of an eye and made them reappear in a different part of the room. Someone asked my sister to make his wife disappear, but she turned a                       Ear to him. The next day, a neighbour who had heard about the party asked if my brother and sister would perform at her party. They had become famous around the neighbourhood by word of\nPls tolong",
+                        "snippet_content": "2. At grandfather's 60th birthday party, my brother told many <em>jokes.<\/em> They were so funny that everyone                    With laugther after that"
+                    },
+                    "responses": [
+                        {
+                            "id": 11499334,
+                            "user_id": 4609076,
+                            "task_id": 9607354,
+                            "points": 5,
+                            "created": "2017-02-27T17:31:13+07:00",
+                            "content": "We were planning on a walk,\u00a0 but it was\u00a0<strong>raining cats and dogs<\/strong><br \/>We could not go outside mother asked us to\u00a0<strong><\/strong><strong>lend a helping hand<\/strong>\u00a0<strong><\/strong>in the kitchen instead<br \/>After helping her, we watched cartoon on television. We spent the afternoon\u00a0<strong>doubled up with laughter<\/strong><br \/>Afterwards, we got up and stretched legs as we all had\u00a0<strong>pins and needles<\/strong> from sitting down for so long.<br \/>After dinner dad\u00a0<strong>put his foot down<\/strong> and said there would be no more television watching that day.<br \/><br \/>semoga membantu! ^^<br \/><br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4609076,
+                                "nick": "josephinej",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dd6\/499d09a95397b65ee48ff82d13090211.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 6337530,
+                        "subject_id": 5,
+                        "user_id": 3148704,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 70,
+                            "ptsForResp": 35,
+                            "ptsForBest": 18
+                        },
+                        "content": "#19<br \/>\ni am back<br \/><br \/>\ncircle the correct definition for each of these words <br \/>\n1. fortune telling<br \/>\na. reading science fiction books and watching science fiction films<br \/>\nb. saying what will happen in the future<br \/><br \/>\n2. century<br \/>\na. a thousand years<br \/>\nb. a hundred years<br \/><br \/>\n3. influence<br \/>\na. the information your friends give you <br \/>\nb. the power to have an effect on people or things<br \/><br \/>\n4. predict<br \/>\na. to ask someone what will happen<br \/>\nb. to say what you think will happen <br \/><br \/>\n5. palm<br \/>\na. the inner part of one's hand<br \/>\nb. the outer part of one's hand<br \/><br \/>\n6. nonsense<br \/>\na. something that is unusual<br \/>\nb. something that does not have meaning<br \/><br \/>\n7. leaves<br \/>\na. the green parts of a tree or plant <br \/>\nb. bags of tea<br \/><br \/>\n8. reliable<br \/>\na. if someone is reliable you can trust them<br \/>\nb. if someone is reliable you can't trust them <br \/><br \/>\ntaken from CAMBRIDGE second edition for class 8",
+                        "created": "2016-06-04T19:12:16+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2016-06-04T19:17:34+07:00",
+                        "the_best_resp_id": "7577209",
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "#19\ni am back\ncircle the correct definition for each of these words \n1. fortune telling\na. reading science fiction books and watching science fiction films\nb. saying what will happen in the future\n2. century\na. a thousand years\nb. a hundred years\n3. influence\na. the information your friends give you \nb. the power to have an effect on people or things\n4. predict\na. to ask someone what will happen\nb. to say what you think will happen \n5. palm\na. the inner part of <em>one's<\/em> <em>hand<\/em>\nb. the outer part of <em>one's<\/em> <em>hand<\/em>\n6. nonsense\na. something that is unusual\nb. something that does not have meaning\n7. leaves\na. the green parts of a tree or plant \nb. bags of tea\n8. reliable\na. if someone is reliable you can trust them\nb. if someone is reliable you can't trust them \ntaken from CAMBRIDGE second edition for class 8",
+                        "snippet_content": "you think will happen \n5. palm\na. the inner part of <em>one's<\/em> <em>hand<\/em>\nb. the outer part of <em>one's<\/em> <em>hand<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 7577201,
+                            "user_id": 3152008,
+                            "task_id": 6337530,
+                            "points": 35,
+                            "created": "2016-06-04T19:17:34+07:00",
+                            "content": "1. B<br \/>2. B<br \/>3. B<br \/>4. B<br \/>5. A<br \/>6. B<br \/>7. A<br \/>8. A<br \/><br \/>tp gatau semua bener atau ada yg salah :)",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 2,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2016-06-04T19:43:37+07:00",
+                                "approver": {
+                                    "id": 818163,
+                                    "nickname": "magica",
+                                    "points": 91453,
+                                    "grade": 1,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/d4f\/74849b1def3b3f56e98021b0f01a6e0b.jpg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/d5c\/91f5357039460c4d0ac470368ddbfaf5.jpg"
+                                    },
+                                    "content_approved_count": 6817
+                                }
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 4337008,
+                                        "user_id": 3149832,
+                                        "content": "how are you?",
+                                        "created": "2016-06-15T21:02:49+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 4337221,
+                                        "user_id": 3148704,
+                                        "content": "i am good so far so good..and u?",
+                                        "created": "2016-06-16T00:34:47+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 4341716,
+                                        "user_id": 3149832,
+                                        "content": "well i just got back from China, but so far i'm good",
+                                        "created": "2016-06-18T17:23:46+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 4369491,
+                                        "user_id": 3149832,
+                                        "content": "how are you? i really do miss you",
+                                        "created": "2016-07-16T07:52:30+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 4369557,
+                                        "user_id": 3148704,
+                                        "content": "I'm doing ok...same here",
+                                        "created": "2016-07-16T09:11:12+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 4337008,
+                                "count": 31
+                            }
+                        },
+                        {
+                            "id": 7577209,
+                            "user_id": 3029608,
+                            "task_id": 6337530,
+                            "points": 35,
+                            "created": "2016-06-04T19:20:10+07:00",
+                            "content": "1.b<br \/>2.b<br \/>3.b<br \/>4.b<br \/>5.a<br \/>6.b<br \/>7.a<br \/>8.a<br \/>",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2016-06-04T19:42:42+07:00",
+                                "approver": {
+                                    "id": 818163,
+                                    "nickname": "magica",
+                                    "points": 91453,
+                                    "grade": 1,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/d4f\/74849b1def3b3f56e98021b0f01a6e0b.jpg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/d5c\/91f5357039460c4d0ac470368ddbfaf5.jpg"
+                                    },
+                                    "content_approved_count": 6817
+                                }
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 4310341,
+                                        "user_id": 3152008,
+                                        "content": "it doesnt work. mutifah btw",
+                                        "created": "2016-06-04T20:51:14+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 4310343,
+                                        "user_id": 3149832,
+                                        "content": "( MUTIFAHH) sebenarnya aku blasteran antara indonesia dan china tapi aku sekarang lagi ada di indonesia. truss cara buka profile orang itu bukan lewat komen kamu tidak gambar profile orang yg menjawab pertanyaan itu bisa kamu klik truss terbuka deh profilenya( kamu mau liat profile siapa?)",
+                                        "created": "2016-06-04T20:52:23+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 4310345,
+                                        "user_id": 3152008,
+                                        "content": "profile kamu ....",
+                                        "created": "2016-06-04T20:53:10+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 4310349,
+                                        "user_id": 3152008,
+                                        "content": "oke lupakan. its time to study!",
+                                        "created": "2016-06-04T20:53:25+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 4310356,
+                                        "user_id": 3149832,
+                                        "content": "oh profile aku dan kenapa mau dilupain perasaan aku lebih sering muncul di pertanyaan yg berbau bhs. inggris",
+                                        "created": "2016-06-04T20:57:09+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 4310341,
+                                "count": 26
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3152008,
+                                "nick": "mutifahh",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d9c\/da89245dfe866cb886c03d353c6e00bf.jpg"
+                            },
+                            {
+                                "id": 3029608,
+                                "nick": "Reyandes1",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d46\/4a644a3354fb36c236e9f97f96e04071.jpeg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10305453,
+                        "subject_id": 5,
+                        "user_id": 3886620,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "yg bener yang mana ya??<br \/><br \/>\n4 .<br \/>\nJihan : Whose guitar is that ?<br \/>\nArio : ........, Han ?<br \/>\nJihan : The new one on the table.<br \/>\nArio : Oh, it\u00e2\u20ac\u2122s mine.<br \/>\nA  -<br \/>\nB  What guitar<br \/>\nC  Which ones<br \/>\nD  Which one<br \/>\nE  Where else",
+                        "created": "2017-04-17T21:49:32+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2017-04-17T21:51:11+07:00",
+                        "the_best_resp_id": "12435179",
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "yg bener yang mana ya??\n4 .\nJihan : Whose guitar is that ?\nArio : ........, <em>Han<\/em> ?\nJihan : The new one on the table.\nArio : Oh, it\u00e2\u20ac\u2122s mine.\nA  -\nB  What guitar\nC  Which <em>ones<\/em>\nD  Which one\nE  Where else",
+                        "snippet_content": "yg bener yang mana ya??\n4 .\nJihan : Whose guitar is that ?\nArio : ........, <em>Han<\/em> ?\nJihan : The new one on the table.\nArio : Oh"
+                    },
+                    "responses": [
+                        {
+                            "id": 12435157,
+                            "user_id": 215531,
+                            "task_id": 10305453,
+                            "points": 5,
+                            "created": "2017-04-17T21:51:11+07:00",
+                            "content": "e. where else<br \/><br \/>:3 maaf kalau salah<br \/><br \/>",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 6768852,
+                                        "user_id": 215531,
+                                        "content": "ehh bukan e, tapi d.. maaf",
+                                        "created": "2017-04-17T21:52:29+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        },
+                        {
+                            "id": 12435179,
+                            "user_id": 3276467,
+                            "task_id": 10305453,
+                            "points": 5,
+                            "created": "2017-04-17T21:51:43+07:00",
+                            "content": "Mungkin D<br \/><br \/>Maaf kalo salah",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 7,
+                            "source": "10",
+                            "client_type": "6",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 215531,
+                                "nick": "Lorna",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dc4\/6acc7e9b1eebc48cc10691d8f88bc0f8.jpg"
+                            },
+                            {
+                                "id": 3276467,
+                                "nick": "andanarjuna",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d44\/0474d66e315d7446b2cec1fafb409ad8.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10389225,
+                        "subject_id": 5,
+                        "user_id": 4923925,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 20,
+                            "ptsForResp": 10,
+                            "ptsForBest": 5
+                        },
+                        "content": "The following text is for questions 6 to 9.<br \/><br \/>\nThere  are  several  kinds  of  kangaroos.  Grey  ones  and  brown  ones are  the  most  common. Brown kangaroos are the largest. They live in hot, dry regions that are a lot like deserts. When a baby kangaroo is born, it is no bigger than a cube of sugar. It grows inside the pouch on its mother\u2019s belly. After about five months, the baby called a joey starts to poke out its head. The joey  is  very  shy.  At  7  months,  it  will  occasionally  leave  the  pouch,  but  jump  backs in  at  the slightest danger. At the 8 months, the joey is too big to stay in its pouch. Sometimes it rubs its nose against it mother\u2019s as if they were giving each other a kiss. Like you, kangaroos have five fingers on each hand to put  leaves  in  their  mouths.They  also  like  to  graze  while  supporting  themselves  on their  front  paws. Kangaroos are very clean animals. After they have eaten, they clean their teeth by rubbing them with their paws. When it gets too hot, a kangaroo will lick its arms to refresh itself. The  father  kangaroo  is  about  two  times  as  heavy  as  the  mother.  Kangaroos  have  ears  as  large  as your mother\u2019s hands. In order to hear better, they can twist them in every direction. They can bounce up 9 meters, the length of a lorry. Kangaroos entertain themselves by boxing. They hit each other with their fists like real boxers. Their tail is very muscular and serve as a third leg. Several times a day, kangaroos stretch themselves out on their backs or bellies to relax.(source:  Tammi Reichel. (2000), Zoom and Kangaroos)<br \/><br \/>\n6.What is the main idea of paragraph 1?<br \/>\nA.There are several kinds of kangaroos.<br \/>\nB.Brown Kangaroos are the largest kangaroos.<br \/>\nC.Kangaroos live in hot, dry regions.<br \/>\nD.A baby kangaroo is called a joey.<br \/><br \/>\n7.Why do kangaroos sit on their tail as if it were as a tool?Because...<br \/>\nA. their tail is very strong<br \/>\nB.their legs are strong like a tool.<br \/>\nC.their body is very tall.<br \/>\nD.their muscle is great.<br \/><br \/>\n8.How does a kangaroo grow up?<br \/>\nA.It grows up beside its mother until 8 months..<br \/>\nB.It grows up happily with its parents and siblings.<br \/>\nC.It stays in its mother\u2019s pouch from a new born baby to 8 months<br \/>\nD.It gets bigger inside the pouch of its mother\u2019s tummy until 7 months.<br \/><br \/>\n9.From the text, we know that...<br \/>\nA.Two kinds of kangaroos live in a cold place, and like stretching themselves to relax.<br \/>\nB.Kangaroos eat leaves and grass using their fingers and paws.<br \/>\nC.Kangaroos swim in the river to clean and refresh their body.<br \/>\nD.The father and mother kangaroos have the same size of body and weight.<br \/><br \/><br \/><br \/><br \/>\ntolonggg yah   jawab beserta alasannya yah...",
+                        "created": "2017-04-24T18:43:45+07:00",
+                        "responses": 2,
+                        "tickets": 3,
+                        "first_resp": "2017-04-24T18:52:44+07:00",
+                        "the_best_resp_id": "12550621",
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "The following text is for questions 6 to 9.\nThere  are  several  kinds  of  kangaroos.  Grey  <em>ones<\/em>  and  brown  <em>ones<\/em> are  the  most  common. Brown kangaroos are the largest. They live in hot, dry regions that are a lot like deserts. When a baby kangaroo is born, it is no bigger than a cube of sugar. It grows inside the pouch on its mother\u2019s belly. After about five months, the baby called a joey starts to poke out its head. The joey  is  very  shy.  At  7  months,  it  will  occasionally  leave  the  pouch,  but  jump  backs in  at  the slightest danger. At the 8 months, the joey is too big to stay in its pouch. Sometimes it rubs its nose against it mother\u2019s as if they were giving each other a kiss. Like you, kangaroos have five fingers on each <em>hand<\/em> to put  leaves  in  their  mouths.They  also  like  to  graze  while  supporting  themselves  on their  front  paws. Kangaroos are very clean animals. After they have eaten, they clean their teeth by rubbing them with their paws. When it gets too hot, a kangaroo will lick its arms to refresh itself. The  father  kangaroo  is  about  two  times  as  heavy  as  the  mother.  Kangaroos  have  ears  as  large  as your mother\u2019s hands. In order to hear better, they can twist them in every direction. They can bounce up 9 meters, the length of a lorry. Kangaroos entertain themselves by boxing. They hit each other with their fists like real boxers. Their tail is very muscular and serve as a third leg. Several times a day, kangaroos stretch themselves out on their backs or bellies to relax.(source:  Tammi Reichel. (2000), Zoom and Kangaroos)\n6.What is the main idea of paragraph 1?\nA.There are several kinds of kangaroos.\nB.Brown Kangaroos are the largest kangaroos.\nC.Kangaroos live in hot, dry regions.\nD.A baby kangaroo is called a joey.\n7.Why do kangaroos sit on their tail as if it were as a tool?Because...\nA. their tail is very strong\nB.their legs are strong like a tool.\nC.their body is very tall.\nD.their muscle is great.\n8.How does a kangaroo grow up?\nA.It grows up beside its mother until 8 months..\nB.It grows up happily with its parents and siblings.\nC.It stays in its mother\u2019s pouch from a new born baby to 8 months\nD.It gets bigger inside the pouch of its mother\u2019s tummy until 7 months.\n9.From the text, we know that...\nA.Two kinds of kangaroos live in a cold place, and like stretching themselves to relax.\nB.Kangaroos eat leaves and grass using their fingers and paws.\nC.Kangaroos swim in the river to clean and refresh their body.\nD.The father and mother kangaroos have the same size of body and weight.\ntolonggg yah   jawab beserta alasannya yah...",
+                        "snippet_content": "The following text is for questions 6 to 9.\nThere  are  several  kinds  of  kangaroos.  Grey  <em>ones<\/em>  and  brown  <em>ones<\/em> are  the"
+                    },
+                    "responses": [
+                        {
+                            "id": 12550560,
+                            "user_id": 160890,
+                            "task_id": 10389225,
+                            "points": 10,
+                            "created": "2017-04-24T18:52:44+07:00",
+                            "content": "6.A, Karena di paragraf pertama menjelaskan tentang macam2 kangguru<br \/>7.A, Karena di teks dijelaskan bahwa ekornya memiliki otot dan sangat kuat, bahkan seperti kaki ketiga<br \/>8.C,Karena memang dijelaskan bahwa, kangguru dibesarkan didalam kantong perut ibunya, dari lahir sampai berusia 8 bulan, karena saat dia berusia 8 bulan, tubuhnya sudah tidak muat lagi di kantong.<br \/>9.B, Karena di teks dijelaskan bahwa kangguru memiliki 5 jari seperti jari tangan manusia, untuk memasukkan (memakan) dedaunan ke mulut mereka<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 6839777,
+                                        "user_id": 4923925,
+                                        "content": "mkasih",
+                                        "created": "2017-04-24T18:53:58+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 6841659,
+                                        "user_id": 160890,
+                                        "content": "maaf, yang nomor 6 salah, kurang fokus",
+                                        "created": "2017-04-24T20:06:27+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 2
+                            }
+                        },
+                        {
+                            "id": 12550621,
+                            "user_id": 445155,
+                            "task_id": 10389225,
+                            "points": 10,
+                            "created": "2017-04-24T18:54:43+07:00",
+                            "content": "6. B<br \/>7.A<br \/>8.D<br \/>9.B<br \/><br \/>6.Because its discussing info about the brown ones.<br \/>karena membicarakan info tentang yg berbulu coklat.<br \/><br \/>7.It says there,that their tail are muscular.<br \/>disitu dikatakan,bahwa ekornya berotot\/kuat.<br \/><br \/>8.It says there,that the kangaroos will stay until 7 months old. If at the age of 8 month it'll be too big to stay at the pouch.<br \/>disitu dikatakan bahwa kanguru akan berdiam dikantungnya sampai 7 bulan. Jika sampai berumur 8 bulan sang kanguru akan terlalu besar untuk berada di kantungnya.<br \/><br \/>9.From the text,the only answer that make sense and similar is B.<br \/>dari text, yg masuk akal dan sama adalah jawaban B.<br \/><br \/>maaf jika ada salah...",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 160890,
+                                "nick": "GGHYfever",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d87\/f6287b1cd0482712e379edf24283d9ad.jpg"
+                            },
+                            {
+                                "id": 445155,
+                                "nick": "VIONEKO",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/df2\/ee5f3e0c2298c2f4566cafa6c82b80bd.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 8011869,
+                        "subject_id": 5,
+                        "user_id": 2896861,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 15,
+                            "ptsForResp": 8,
+                            "ptsForBest": 4
+                        },
+                        "content": "Change the verbs in the brackets into past tense form. Some of the verbs are regular verbs and others are irregular ones.<br \/>\nYesterday (1.be)..... a busy day.I (2.wake)....up at 6 a.m. (3.have).....breakfast quickly and then I (4.go)..... to work.I (5.finish)..... at noon and then (6.eat)..... some lunch. Afterwards , I (7.drive)..... to the shops,(8.buy)...... some paint and then (9.paint).....my bedroom.My housemate (10.come)...... home from work so I (11.help)..... him paint his room,then we (12.repair).....his chair as it (13.wobble).....a lot.I (14.wish)..... I hadn't,as I hurt my hand!After that,I (15.clean)......my house.I (16.vacuum)..... all the downstairs and then (17.tidy)......up the living room and the kitchen. I was pretty tired bye then,so I (18.eat)...... some dinner, (19.yawn).......,and (20.go)....to bed!",
+                        "created": "2016-10-23T17:33:19+07:00",
+                        "responses": 2,
+                        "tickets": 3,
+                        "first_resp": "2016-10-23T17:40:04+07:00",
+                        "the_best_resp_id": "9512241",
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Change the verbs in the brackets into past tense form. Some of the verbs are regular verbs and others are irregular <em>ones.<\/em>\nYesterday (1.be)..... a busy day.I (2.wake)....up at 6 a.m. (3.have).....breakfast quickly and then I (4.go)..... to work.I (5.finish)..... at noon and then (6.eat)..... some lunch. Afterwards , I (7.drive)..... to the shops,(8.buy)...... some paint and then (9.paint).....my bedroom.My housemate (10.come)...... home from work so I (11.help)..... him paint his room,then we (12.repair).....his chair as it (13.wobble).....a lot.I (14.wish)..... I hadn't,as I hurt my <em>hand<\/em>!After that,I (15.clean)......my house.I (16.vacuum)..... all the downstairs and then (17.tidy)......up the living room and the kitchen. I was pretty tired bye then,so I (18.eat)...... some dinner, (19.yawn).......,and (20.go)....to bed!",
+                        "snippet_content": "Some of the verbs are regular verbs and others are irregular <em>ones.<\/em>\nYesterday (1.be)..... a busy day.I (2.wake)....up"
+                    },
+                    "responses": [
+                        {
+                            "id": 9512219,
+                            "user_id": 3821212,
+                            "task_id": 8011869,
+                            "points": 8,
+                            "created": "2016-10-23T17:40:04+07:00",
+                            "content": "2.woke 3.had 4.went 5.finished 6.ate  7.drove 8.bought 9.painted 10.came 11.helped 12.repaired 15.cleaned 18.ate 20.went sorry gak semua yg kejawab",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 5260614,
+                                        "user_id": 2896861,
+                                        "content": "Terima kasih",
+                                        "created": "2016-10-23T17:41:46+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 5260628,
+                                        "user_id": 3821212,
+                                        "content": "sama\"",
+                                        "created": "2016-10-23T17:43:34+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 2
+                            }
+                        },
+                        {
+                            "id": 9512241,
+                            "user_id": 3988375,
+                            "task_id": 8011869,
+                            "points": 8,
+                            "created": "2016-10-23T17:41:14+07:00",
+                            "content": "1. was<br \/>2. woke<br \/>3. had<br \/>4. went<br \/>5. finished<br \/>6. ate<br \/>7. drove<br \/>8. bought<br \/>9. painted<br \/>10. came<br \/>11. helped<br \/>12. repaired<br \/>13. wobbled<br \/>14. wished<br \/>15. cleaned<br \/>16. <br \/>17. tidied<br \/>18. ate<br \/>19. yawned<br \/>20. went<br \/>",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 0,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 5260617,
+                                        "user_id": 2896861,
+                                        "content": "Terima kasih",
+                                        "created": "2016-10-23T17:41:51+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 5260625,
+                                        "user_id": 3988375,
+                                        "content": "16. vacuumed",
+                                        "created": "2016-10-23T17:43:13+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 2
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3821212,
+                                "nick": "ElsaPutri23",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dde\/866d5c63dfc9ce6fd5e44fe4baf1361b.jpg"
+                            },
+                            {
+                                "id": 3988375,
+                                "nick": "aknaghil",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 8850769,
+                        "subject_id": 5,
+                        "user_id": 606709,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Arti dari quote ini apa ya ?<br \/>\n1. It is easy to be breave from a safe distance<br \/>\n2. Persuasion is more effective than force<br \/>\n3. What a splendid head yet no brain<br \/>\n4. Union give strength<br \/>\n5. It is not only fine feathers that make fine birds<br \/>\n6. A man is known by the company he keeps<br \/>\n7. We hang the petty thieves and appoint the great ones to public office<br \/><br \/>\nMohon bantuannya",
+                        "created": "2016-12-14T20:50:41+07:00",
+                        "responses": 1,
+                        "tickets": 7,
+                        "first_resp": "2016-12-14T21:41:54+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "6",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [
+                                {
+                                    "id": 5735349,
+                                    "user_id": 6021,
+                                    "content": "emm..baru tau tuh nomor 4 \"bawang memberi kekuatan\" apaan tuh yak mksdnya :v *just kidding*",
+                                    "created": "2016-12-14T20:52:21+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                }
+                            ],
+                            "last_id": 0,
+                            "count": 1
+                        },
+                        "highlighted_content": "Arti dari quote ini apa ya ?\n1. It is easy to be breave from a safe distance\n2. Persuasion is more effective than force\n3. What a splendid head yet no brain\n4. Union give strength\n5. It is not only fine feathers that make fine birds\n6. A man is known by the company he keeps\n7. We <em>hang<\/em> the petty thieves and appoint the great <em>ones<\/em> to public office\nMohon bantuannya",
+                        "snippet_content": "A man is known by the company he keeps\n7. We <em>hang<\/em> the petty thieves and appoint the great <em>ones<\/em> to public"
+                    },
+                    "responses": [
+                        {
+                            "id": 10563578,
+                            "user_id": 4308050,
+                            "task_id": 8850769,
+                            "points": 5,
+                            "created": "2016-12-14T21:41:54+07:00",
+                            "content": "1.Mudah untuk menjadi berani(brave) dari jarak yang aman<br \/>2.ajakan \/ bujukan lebih efektif daripada pemaksaan<br \/>3.betapa (gaktau) juga tidak punya otak<br \/>4.persatuan memberi kekuatan<br \/>5.bukan hanya bulu halus yang membuat burung terlihat indah<br \/>6.seorang pria dikenal karena perusahaan yang dia pegang<br \/>7.kami menggantung para pencuri kecil dan ditunjuk oleh orang orang besar ke kantor pemerintah<br \/>Maaf klo ada yang salah",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "6",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4308050,
+                                "nick": "SheiClvn",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10382910,
+                        "subject_id": 5,
+                        "user_id": 4937567,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 34,
+                            "ptsForResp": 17,
+                            "ptsForBest": 9
+                        },
+                        "content": "The Platypus<br \/>\nPlatypus (Ornithorhynchus anatinus) is a semiaquatic mammal endemic to eastern Australia, including Tasmania. Many people call platypus duckbill because this animal has a bill like duckbill. Platypus can also called as watermole or duckmole.<br \/>\nThe name \"platypus\" is often prefixed with the adjective \"duck-billed\" to form duck-billed platypus, despite there being only one species of platypus. <br \/><br \/>\nPlatypus is a mammal, although it has some different characteristic with other mammal. It gives births with laying her eggs, but it still has a pair of milk gland. Although possessing mammary glands, the platypus lacks teats. Instead, milk is released through pores in the skin. The platypus is carnivorous mammal and eats like a small fish, frog, and fish egg.<br \/><br \/>\nPlatypus has a flat tail and webbed feet. Its weight varies considerably from 0.7 to 2.4 kg, with males being larger than females. Males average 50 cm in total length, while females average 43 cm. Its body covered with a thick, and woolly layer of fur. The platypus has an average body temperature of about 32\u00b0C (90\u00b0F) rather than the 37\u00b0C (99\u00b0F).<br \/>\nIts bill is detecting prey and stirring up mud. Usually it ate crustaceans. A platypus has a eyes and head are small. Its eyes contains double cones, which most mammals do not have. It has no ears but has ability to sense sound and lights. Platypus lives in streams, rivers, and lakes.<br \/>\nFemale platypus usually dig burrows in the streams or river banks. The burrows are blocked with soil to protect it from intruders and flooding. In the other hand, male platypus does not need any burrow to stay.<br \/><br \/>\nTolong Carikan , Kalimat LINKING VERB,RELATING VERB&amp;BEHAVIORAL PLEASE:)",
+                        "created": "2017-04-24T11:29:40+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2017-04-24T13:05:33+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "The Platypus\nPlatypus (Ornithorhynchus anatinus) is a semiaquatic mammal endemic to eastern Australia, including Tasmania. Many people call platypus duckbill because this animal has a bill like duckbill. Platypus can also called as watermole or duckmole.\nThe name \"platypus\" is often prefixed with the adjective \"duck-billed\" to form duck-billed platypus, despite there being only one species of platypus. \nPlatypus is a mammal, although it has some different characteristic with other mammal. It gives births with laying her eggs, but it still has a pair of milk gland. Although possessing mammary glands, the platypus lacks teats. Instead, milk is released through pores in the skin. The platypus is carnivorous mammal and eats like a small fish, frog, and fish egg.\nPlatypus has a flat tail and webbed feet. Its weight varies considerably from 0.7 to 2.4 kg, with males being larger than females. Males average 50 cm in total length, while females average 43 cm. Its body covered with a thick, and woolly layer of fur. The platypus has an average body temperature of about 32\u00b0C (90\u00b0F) rather than the 37\u00b0C (99\u00b0F).\nIts bill is detecting prey and stirring up mud. Usually it ate crustaceans. A platypus has a eyes and head are small. Its eyes contains double <em>cones<\/em>, which most mammals do not have. It has no ears but has ability to sense sound and lights. Platypus lives in streams, rivers, and lakes.\nFemale platypus usually dig burrows in the streams or river banks. The burrows are blocked with soil to protect it from intruders and flooding. In the other <em>hand<\/em>, male platypus does not need any burrow to stay.\nTolong Carikan , Kalimat LINKING VERB,RELATING VERB&amp;BEHAVIORAL PLEASE:)",
+                        "snippet_content": "has a eyes and head are small. Its eyes contains double <em>cones<\/em>, which most mammals do not have. It has no ears"
+                    },
+                    "responses": [
+                        {
+                            "id": 12543659,
+                            "user_id": 4790981,
+                            "task_id": 10382910,
+                            "points": 17,
+                            "created": "2017-04-24T13:05:33+07:00",
+                            "content": "linking verb= call, is, being, detecting, to ability sense, lives, are blocked <br \/>relating verb= to eastern, including, bill like, often, despite, some different, still, teats,pores<br \/>l<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4790981,
+                                "nick": "Syarofuddin",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dd3\/898dfe53916af3fdd9c972ce7e6eb944.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10381989,
+                        "subject_id": 5,
+                        "user_id": 4937567,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 20,
+                            "ptsForResp": 10,
+                            "ptsForBest": 5
+                        },
+                        "content": "The Platypus<br \/>\nPlatypus (Ornithorhynchus anatinus) is a semiaquatic mammal endemic to eastern Australia, including Tasmania. Many people call platypus duckbill because this animal has a bill like duckbill. Platypus can also called as watermole or duckmole.<br \/>\nThe name \"platypus\" is often prefixed with the adjective \"duck-billed\" to form duck-billed platypus, despite there being only one species of platypus. <br \/><br \/>\nPlatypus is a mammal, although it has some different characteristic with other mammal. It gives births with laying her eggs, but it still has a pair of  milk gland. Although possessing mammary glands, the platypus lacks teats. Instead, milk is released through pores in the skin. The platypus is carnivorous mammal and eats like a small fish, frog, and fish egg.<br \/><br \/>\nPlatypus has a flat tail and webbed feet. Its weight varies considerably from 0.7 to 2.4 kg, with males being larger than females. Males average 50 cm in total length, while females average 43 cm. Its body covered with a thick, and woolly layer of fur. The platypus has an average body temperature of about 32\u00b0C (90\u00b0F) rather than the 37\u00b0C (99\u00b0F).<br \/>\nIts bill is detecting prey and stirring up mud. Usually it ate crustaceans. A platypus has a eyes and head are small. Its eyes contains double cones, which most mammals do not have. It has no ears but has ability to sense sound and lights. Platypus lives in streams, rivers, and lakes.<br \/>\nFemale platypus usually dig burrows in the streams or river banks. The burrows are blocked with soil to protect it from intruders and flooding. In the other hand, male platypus does not need any burrow to stay.<br \/><br \/>\nTolong Carikan , Kalimat LINKING VERB,RELATING VERB&amp;BEHAVIORAL PLEASE:)",
+                        "created": "2017-04-24T10:15:33+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-04-24T13:05:26+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "The Platypus\nPlatypus (Ornithorhynchus anatinus) is a semiaquatic mammal endemic to eastern Australia, including Tasmania. Many people call platypus duckbill because this animal has a bill like duckbill. Platypus can also called as watermole or duckmole.\nThe name \"platypus\" is often prefixed with the adjective \"duck-billed\" to form duck-billed platypus, despite there being only one species of platypus. \nPlatypus is a mammal, although it has some different characteristic with other mammal. It gives births with laying her eggs, but it still has a pair of  milk gland. Although possessing mammary glands, the platypus lacks teats. Instead, milk is released through pores in the skin. The platypus is carnivorous mammal and eats like a small fish, frog, and fish egg.\nPlatypus has a flat tail and webbed feet. Its weight varies considerably from 0.7 to 2.4 kg, with males being larger than females. Males average 50 cm in total length, while females average 43 cm. Its body covered with a thick, and woolly layer of fur. The platypus has an average body temperature of about 32\u00b0C (90\u00b0F) rather than the 37\u00b0C (99\u00b0F).\nIts bill is detecting prey and stirring up mud. Usually it ate crustaceans. A platypus has a eyes and head are small. Its eyes contains double <em>cones<\/em>, which most mammals do not have. It has no ears but has ability to sense sound and lights. Platypus lives in streams, rivers, and lakes.\nFemale platypus usually dig burrows in the streams or river banks. The burrows are blocked with soil to protect it from intruders and flooding. In the other <em>hand<\/em>, male platypus does not need any burrow to stay.\nTolong Carikan , Kalimat LINKING VERB,RELATING VERB&amp;BEHAVIORAL PLEASE:)",
+                        "snippet_content": "has a eyes and head are small. Its eyes contains double <em>cones<\/em>, which most mammals do not have. It has no ears"
+                    },
+                    "responses": [
+                        {
+                            "id": 12543657,
+                            "user_id": 4790981,
+                            "task_id": 10381989,
+                            "points": 10,
+                            "created": "2017-04-24T13:05:26+07:00",
+                            "content": "call, is, being, gives, detecting, abilty to sense, lives , are blocked= linkinkig verb<br \/>to eastern, including, bill like, often, despite, some different,still,, teats, pores= relating verbs<br \/><br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4790981,
+                                "nick": "Syarofuddin",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dd3\/898dfe53916af3fdd9c972ce7e6eb944.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 5950899,
+                        "subject_id": 5,
+                        "user_id": 2698806,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "once upon a time,there lived a woman who had two daughters.the youger daughter was generous and kind hear ted,but the older one was gredy and mean.the older girl always bulled her younger sister and said unkind words to her.<br \/>\none day,both of them went in to the forest looking for free wood.when they were taking a rest and preparing their lunch, a'poor old woman came.by ans begged for a drink.the older girl looked at the old woman and said sharply.\"go away!l dont have any thing to share with you\"but\",drink as much as you like \"said the,younger one kindly,pooring water in to a tin,cup for the woman .<br \/>\n\"thank you ,child,l wish to repay your kind ness with agift,said the woman\",and as for you\" she pointed to the older girl\",you shav have you gift also\"<br \/>\nsuddenly,the wind blew very strongly.the old woman dissappeared the thogirls went home and met their mother.her mother gasped in amazement as her daughter explained what had happened.vast numbers of flowers and jewels dropped from her mouth as she spoke mean while.when her older daudhter began to speak!cried her mother in horror.out of her older daughters mouth came two good and three snakes every time she spoke.<br \/>\nfrom the on,the older daughter clasped her hand over her mounth every time she got the urge to speakand she never again bulled her younger sister and said unkind words to her.<br \/><br \/>\nread the story again and answer these qustion<br \/>\n1.how many characters are there in thes story?who are they?<br \/>\n2.in your opinion,who was the old woman the girls met in the forest?<br \/>\n3.why did flowers and jewels drop from the younger daughter's mounth?<br \/>\n4.why did toads and snakes drop from the older one's mounth?<br \/><br \/>\ntolong di jawab!!besok mau dikumpul",
+                        "created": "2016-04-29T16:28:44+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2016-04-29T16:46:34+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "once upon a time,there lived a woman who had two daughters.the youger daughter was generous and kind hear ted,but the older one was gredy and mean.the older girl always bulled her younger sister and said unkind words to her.\none day,both of them went in to the forest looking for free wood.when they were taking a rest and preparing their lunch, a'poor old woman came.by ans begged for a drink.the older girl looked at the old woman and said sharply.\"go away!l dont have any thing to share with you\"but\",drink as much as you like \"said the,younger one kindly,pooring water in to a tin,cup for the woman .\n\"thank you ,child,l wish to repay your kind ness with agift,said the woman\",and as for you\" she pointed to the older girl\",you shav have you gift also\"\nsuddenly,the wind blew very strongly.the old woman dissappeared the thogirls went home and met their mother.her mother gasped in amazement as her daughter explained what had happened.vast numbers of flowers and jewels dropped from her mouth as she spoke mean while.when her older daudhter began to speak!cried her mother in horror.out of her older daughters mouth came two good and three snakes every time she spoke.\nfrom the on,the older daughter clasped her <em>hand<\/em> over her mounth every time she got the urge to speakand she never again bulled her younger sister and said unkind words to her.\nread the story again and answer these qustion\n1.how many characters are there in thes story?who are they?\n2.in your opinion,who was the old woman the girls met in the forest?\n3.why did flowers and jewels drop from the younger daughter's mounth?\n4.why did toads and snakes drop from the older <em>one's<\/em> mounth?\ntolong di jawab!!besok mau dikumpul",
+                        "snippet_content": "daughter's mounth?\n4.why did toads and snakes drop from the older <em>one's<\/em> mounth?\ntolong di jawab!!besok mau dikumpul"
+                    },
+                    "responses": [
+                        {
+                            "id": 7070415,
+                            "user_id": 2963440,
+                            "task_id": 5950899,
+                            "points": 5,
+                            "created": "2016-04-29T16:46:34+07:00",
+                            "content": "1. Four:  the mother, the older child, the younger child, the old woman.<br \/><br \/>2. I think she was a goddess because she disappeared when the wind blew.<br \/><br \/>3. Because she gave the old woman drink, and she was very generous and polite.<br \/><br \/>4. Because she was very rude and mean, she didn't give any water to the old woman, she even told the old woman to go.",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2963440,
+                                "nick": "Vidnapit",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 11,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 972753,
+            "nick": "fikaardianty13fika",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 10,
+                "answers": 2,
+                "comments": 4
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df4\/2b6f60258b5ce4a812f403bf58c71ee9.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7d\/f1a7a2a4fcd31d4b2a1f32ed02eb01c0.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df4\/2b6f60258b5ce4a812f403bf58c71ee9.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7d\/f1a7a2a4fcd31d4b2a1f32ed02eb01c0.jpg"
+            },
+            "ranks": {
+                "color": "#000000",
+                "names": [],
+                "count": 0
+            },
+            "ranks_ids": null
+        },
+        {
+            "id": 1328548,
+            "nick": "khoirunnisakn3",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 80,
+                "comments": 25
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dbe\/76db087b41151eff4107336c7d686995.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dcc\/c06ccd2d0478ec4ed6de58c482737d13.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dbe\/76db087b41151eff4107336c7d686995.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dcc\/c06ccd2d0478ec4ed6de58c482737d13.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 2474383,
+            "nick": "Hel11",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 49,
+                "answers": 105,
+                "comments": 74
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d02\/13e0a3ee7c3e621c78f935c05adde339.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dcc\/aedc2ff347abac2557ba50ba106b0728.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d02\/13e0a3ee7c3e621c78f935c05adde339.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dcc\/aedc2ff347abac2557ba50ba106b0728.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 2595221,
+            "nick": "sisil08",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 155,
+                "comments": 16
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc3\/f43c685b330ae337c5ea03a5906c617f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dcc\/109ca4a9f47d8ce5925461e06301c739.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc3\/f43c685b330ae337c5ea03a5906c617f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dcc\/109ca4a9f47d8ce5925461e06301c739.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 1474741,
+            "nick": "gumantinr",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 76,
+                "answers": 17038,
+                "comments": 4542
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d87\/62084e44ff4fa7912aea7c8054bc01be.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6c\/6886afc4fe968c0a4e99b01c1cf79277.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d87\/62084e44ff4fa7912aea7c8054bc01be.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6c\/6886afc4fe968c0a4e99b01c1cf79277.jpg"
+            },
+            "ranks": {
+                "color": "#ffbe32",
+                "names": [
+                    "Guru",
+                    "BrainlyTeacher",
+                    "BrainlyDoctor",
+                    "BrainlyElite",
+                    "Moderator",
+                    "Jenius"
+                ],
+                "count": 6
+            },
+            "ranks_ids": [
+                12,
+                91,
+                32,
+                27,
+                19,
+                7
+            ]
+        },
+        {
+            "id": 2809210,
+            "nick": "Jopnjop",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 15,
+                "answers": 6,
+                "comments": 7
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d09\/f950411fb19fa988c9ab2c9332a53407.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dcb\/b2ccaf1aba00fba95ae1f1a33eb2ec7b.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d09\/f950411fb19fa988c9ab2c9332a53407.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dcb\/b2ccaf1aba00fba95ae1f1a33eb2ec7b.png"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4609076,
+            "nick": "josephinej",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 167,
+                "comments": 54
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dad\/90ea3dcae63c4d6df1183bb44d62d41e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd6\/499d09a95397b65ee48ff82d13090211.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dad\/90ea3dcae63c4d6df1183bb44d62d41e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd6\/499d09a95397b65ee48ff82d13090211.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 3148704,
+            "nick": "ENGLISHQUIZ",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 84,
+                "answers": 13,
+                "comments": 202
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d52\/6405fd3e1133629bcd77a7359fe0aa25.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ddd\/d12db72af8986da03aea41e462285475.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d52\/6405fd3e1133629bcd77a7359fe0aa25.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ddd\/d12db72af8986da03aea41e462285475.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "GameMaker",
+                    "Ambisius"
+                ],
+                "count": 2
+            },
+            "ranks_ids": [
+                24,
+                3
+            ]
+        },
+        {
+            "id": 3149832,
+            "nick": "KimJaeWon1",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 33,
+                "comments": 45
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dfe\/5d7ff2bccda19e2b7bd215ba95f15467.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de7\/c79ee4fc6290e73ca4d10148bb401826.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dfe\/5d7ff2bccda19e2b7bd215ba95f15467.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de7\/c79ee4fc6290e73ca4d10148bb401826.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 3152008,
+            "nick": "mutifahh",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 20,
+                "answers": 28,
+                "comments": 34
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd6\/5addd57d54902664b28913f8a62ffa02.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d9c\/da89245dfe866cb886c03d353c6e00bf.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd6\/5addd57d54902664b28913f8a62ffa02.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d9c\/da89245dfe866cb886c03d353c6e00bf.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 3029608,
+            "nick": "Reyandes1",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 8,
+                "answers": 47,
+                "comments": 33
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd1\/366def7060771190a7ec41d970a3e23b.jpeg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d46\/4a644a3354fb36c236e9f97f96e04071.jpeg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd1\/366def7060771190a7ec41d970a3e23b.jpeg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d46\/4a644a3354fb36c236e9f97f96e04071.jpeg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 3886620,
+            "nick": "dhesiaHH",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 13,
+                "answers": 7,
+                "comments": 9
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dba\/151b682ed239ba6a8cc505ec79cf9893.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d02\/a9c00cee80f292da83d50ebc5aa0a6ab.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dba\/151b682ed239ba6a8cc505ec79cf9893.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d02\/a9c00cee80f292da83d50ebc5aa0a6ab.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 215531,
+            "nick": "Lorna",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 10,
+                "answers": 110,
+                "comments": 67
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d38\/3ea3f72e17b5988e0e5205e1a6f094e4.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc4\/6acc7e9b1eebc48cc10691d8f88bc0f8.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d38\/3ea3f72e17b5988e0e5205e1a6f094e4.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc4\/6acc7e9b1eebc48cc10691d8f88bc0f8.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 3276467,
+            "nick": "andanarjuna",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 2593,
+                "comments": 2048
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9b\/b6396277dedcdb9aee7ce01f97342c78.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d44\/0474d66e315d7446b2cec1fafb409ad8.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9b\/b6396277dedcdb9aee7ce01f97342c78.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d44\/0474d66e315d7446b2cec1fafb409ad8.jpg"
+            },
+            "ranks": {
+                "color": "#ffbe32",
+                "names": [
+                    "Apprentice",
+                    "Spam Fighter ",
+                    "KsatriaBrainly",
+                    "Jenius"
+                ],
+                "count": 4
+            },
+            "ranks_ids": [
+                20,
+                17,
+                23,
+                7
+            ]
+        },
+        {
+            "id": 4923925,
+            "nick": "mushawwir123",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 21,
+                "answers": 34,
+                "comments": 37
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 160890,
+            "nick": "GGHYfever",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 8,
+                "answers": 86,
+                "comments": 67
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d5e\/e9254239ee7f5e7e7cd14ef0b1bccf66.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d87\/f6287b1cd0482712e379edf24283d9ad.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d5e\/e9254239ee7f5e7e7cd14ef0b1bccf66.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d87\/f6287b1cd0482712e379edf24283d9ad.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 445155,
+            "nick": "VIONEKO",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 17,
+                "answers": 18,
+                "comments": 4
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d8f\/96383f007e7b0f3c1ba9624a666a300c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df2\/ee5f3e0c2298c2f4566cafa6c82b80bd.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d8f\/96383f007e7b0f3c1ba9624a666a300c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df2\/ee5f3e0c2298c2f4566cafa6c82b80bd.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 2896861,
+            "nick": "skawngur20",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 18,
+                "answers": 20,
+                "comments": 11
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4f\/07c4a5589d47eff32bc577c7f07e29d6.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d2d\/f6a2025d7822bdd10fd0c806941f6480.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4f\/07c4a5589d47eff32bc577c7f07e29d6.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d2d\/f6a2025d7822bdd10fd0c806941f6480.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 3821212,
+            "nick": "ElsaPutri23",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 20,
+                "answers": 290,
+                "comments": 84
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da5\/f1ca21ea2a0665e3ac19df76e25ec6e7.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dde\/866d5c63dfc9ce6fd5e44fe4baf1361b.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da5\/f1ca21ea2a0665e3ac19df76e25ec6e7.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dde\/866d5c63dfc9ce6fd5e44fe4baf1361b.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 3988375,
+            "nick": "aknaghil",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 5,
+                "comments": 4
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 606709,
+            "nick": "edisonmichael4",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 14,
+                "comments": 1
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 6021,
+            "nick": "vera",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 21,
+                "answers": 1663,
+                "comments": 1449
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db2\/11dbfbafb89cb27da9b52f29309f4504.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d0d\/85209b959ec44dcb3739f4f77cd48e2c.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db2\/11dbfbafb89cb27da9b52f29309f4504.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d0d\/85209b959ec44dcb3739f4f77cd48e2c.png"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Anti Spammer",
+                    "Moderator",
+                    "KsatriaBrainly",
+                    "Best Active",
+                    "Si Hebat"
+                ],
+                "count": 5
+            },
+            "ranks_ids": [
+                11,
+                19,
+                23,
+                53,
+                6
+            ]
+        },
+        {
+            "id": 4308050,
+            "nick": "SheiClvn",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 74,
+                "comments": 27
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 4937567,
+            "nick": "KezhaPT",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4790981,
+            "nick": "Syarofuddin",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 142,
+                "comments": 13
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d3a\/313346d51cbcda41319126e1667ac8e8.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd3\/898dfe53916af3fdd9c972ce7e6eb944.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d3a\/313346d51cbcda41319126e1667ac8e8.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd3\/898dfe53916af3fdd9c972ce7e6eb944.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 2698806,
+            "nick": "keysha34",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 15,
+                "answers": 2,
+                "comments": 6
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d29\/ddf27c876d7389633f142bcafc22e24a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d3f\/8d63b24d07ac0f3d0f5746f86a9fb2cd.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d29\/ddf27c876d7389633f142bcafc22e24a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d3f\/8d63b24d07ac0f3d0f5746f86a9fb2cd.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 2963440,
+            "nick": "Vidnapit",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 8,
+                "answers": 50,
+                "comments": 11
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        }
+    ],
+    "validated": false
+}

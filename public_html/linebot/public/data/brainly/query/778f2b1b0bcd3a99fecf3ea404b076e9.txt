@@ -1,0 +1,191 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 2521116,
+                        "subject_id": 1,
+                        "user_id": 601700,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 28,
+                            "ptsForResp": 14,
+                            "ptsForBest": 7
+                        },
+                        "content": "Tentukan Unsur Intrinsik Dan Ekstrinsik Dari Cerita Rakyat \"Timun Mas\"??<br \/><br \/><br \/>\nBerikut Adalah ceritanya:<br \/>\ndiawali oleh kisah seorang nenek tua yang tinggal menyendiri di sebuah rumah tua di pinggiran hutan di dekat sebuah dusun yang sunyi. Awalnya kehidupan dusun itu sangat damai, sampai akhirnya datang seorang raksasa yang tinggal dan menetap di hutan tersebut.<br \/>\nSi nenek tidak merasakan takut seperti layaknya para penghuni dusun, karena<br \/>\nbanyak sekali hewan yang dimangsa oleh si raksasa. Sampai akhirnya si raksasa<br \/>\nmerasa terganggu akibat rasa lapar yang amat sangat untuk memangsa manusia,<br \/>\nkarena sudah tidak ada lagi hewan yang bisa ia makan.<br \/>\nSampailah si raksasa tadi ke rumah si nenek tersebut, nenek tua itu bertanya<br \/>\nkepada si raksasa, \" apa gerangan yang membawa engkau kemari, hai raksasa?\",<br \/>\ntanya si nenek. \"Aku ingin memakan seorang perempuan saat ini, apakah kau<br \/>\nmemilikinya?\" tanya si raksasa kepada si nenek.<br \/>\nNenek berkata kepada si raksasa, \"dari dulu aku ingin punya anak perempuan, tapi<br \/>\naku tidak bisa, tapi bukan untuk aku makan, tapi ingin aku pelihara dan aku<br \/>\nbesarkan\" jawab si nenek kepada raksasa. \" Hmm..baiklah tunggu aku sebentar\", si<br \/>\nraksasa kembali masuk kedalam hutan dan kembali dengan menggenggam biji-<br \/>\nbijian dan memberikan kepada si nenek.<br \/>\n\"Untuk apa biji mentimun ini?\" tanya si nenek kepada raksasa. \"Kau tanamlah di<br \/>\npekarangan mu, sampai nanti berbuah sebesar ukuran manusia, aku akan datang<br \/>\nkembali\". Raksasa langsung masuk kembali ke dalam hutan meninggalkan si nenek<br \/>\nyang masih kebingungan dengan perkataan raksasa.<br \/>\nAkhirnya biji mentimun tadi di tanam juga oleh nenek yang memang ingin sekali<br \/>\nmemiliki anak perempuan dari dulu untuk ia asuh dan besarkan, sampai akhirnya<br \/>\nbiji mentimun itu tumbuh dan berbuah, akhirnya biji mentimun itu tumbuh sebesar<br \/>\nmanusia, nenek tua itu sangat senang dan terharu, ternyata apa yang ia harapkan<br \/>\nselama ini bisa menjadi kenyataan.<br \/>\nMalam itu bulan purnama penuh, si nenek sangat letih seharian mencari kayu<br \/>\nbakar untuk ia jual dan sisanya ia simpan untuk membakar bahan makanan<br \/>\nuntuknya. Pagi harinya ia terkejut ketika ia bangun sudah ada sarapan pagi dan<br \/>\nsecangkir teh hangat ada di meja sebelah tempat tidurnya.<br \/>\n\"Hei, siapa yang membuatkan aku sarapan?, tanya si nenek dalam hati keheranan.<br \/>\n\"Aku nek..\"..tiba-tiba ada suara di luar pintu kamar si nenek. Si nenek terkejut<br \/>\nketika ada sesosok perempuan cantik yang menghampirinya. \"Siapakah tuan puteri<br \/>\ngerangan?\", si nenek terpukau oleh kecantikan anak perempuan tadi. \"Aku adalah<br \/>\ntimun emas, biji mentimun yang engkau tanam di pekaranganmu\". Si nenek merasa<br \/>\nbahagia dan tiba-tiba ia merasa sedih.<br \/>\n\"Kenapa engkau bersedih?, bukankah kau menginginkan aku dari dulu?\". Ternyata<br \/>\nsi nenek ingat pesan si raksasa yang akan membawa anak perempuan yang<br \/>\nberasal dari biji mentimun yang ia tanam.<br \/>\nSi nenek merasa galau luar biasa, di satu sisi ia ingin membesarkan seorang anak<br \/>\nperempuan, disatu sisi ia harus merelakan timun emas pergi agar ia tidak dimakan<br \/>\noleh raksasa jahat.<br \/>\n\" Timun emas yang cantik, pergilah nak engkau dari sini, aku lebih bahagia kau<br \/>\npergi, ketimbang engkau menjadi mangsa raksasa\". Akhirnya si nenek memberikan<br \/>\nbekal kepada timun emas berupa biji timun, jarum, garam dan terasi. Taburkanlah<br \/>\njika kau merasa dalam bahaya.<br \/>\nTak lama setelah berkata demikian, muncullah raksasa yang menagih janji kepada<br \/>\nsi nenek, dan nenek itu langsung menyuruh timun emas lari sekencang-kencangnya<br \/>\nuntuk menyelamatkan diri dari raksasa jahat yang kelaparan itu.<br \/>\nRaksasa itu melihat timun emas lari kedalam hutan , dan ia pun mengejarnya.<br \/>\nTimun emas langsung menebar biji mentimun di dalam hutan, seketika hutan itu<br \/>\nberubah menjadi tanaman mentimun yang sangat besar dan melilit kaki raksasa<br \/>\nyang mengejar timun emas.<br \/>\nNamun raksasa masih tangguh dengan lilitan timun. Lalu timun mas menebarkan<br \/>\njarum, dan seketika tumbuh tanaman bambu yang sangat tajam dan melukai kaki<br \/>\nraksasa tersebut. Dan akhirnya juga raksasa lepas dari pohon bambu yang lebat tadi.<br \/>\nTibalah timun mas di dekat sungai besar, dan ia pun menebarkan garam di sungai tersebut, seketika pula sungai berubah menjadi lautan yang dalam, namun bukanlah<br \/>\nrintangan yang berarti bagi si raksasa.<br \/>\nSampai akhirnya timun emas menebarkan terasi pada sebuah danau, si raksasa terjerembab dalam danau yang berubah menjadi lumpur hidup dan menghisap si raksasa masuk kedalamnya hingga tenggelam. Timun emas sangat lega, ia pun kembali ke rumah nenek tua tadi. dan ia pun sangat berterima kasih kepada si nenek, dan mereka pun hidup bahagia selamanya.",
+                        "created": "2015-04-21T14:57:54+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-02-10T21:56:42+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Tentukan Unsur Intrinsik Dan Ekstrinsik Dari Cerita Rakyat \"Timun Mas\"??\nBerikut Adalah ceritanya:\ndiawali oleh kisah seorang nenek tua yang tinggal menyendiri di sebuah rumah tua di pinggiran hutan di dekat sebuah dusun yang sunyi. Awalnya kehidupan dusun itu sangat damai, sampai akhirnya datang seorang raksasa yang tinggal dan menetap di hutan tersebut.\nSi nenek tidak merasakan takut seperti layaknya para penghuni dusun, karena\nbanyak sekali hewan yang dimangsa oleh si raksasa. Sampai akhirnya si raksasa\nmerasa terganggu akibat rasa lapar yang amat sangat untuk memangsa manusia,\nkarena sudah tidak ada lagi hewan yang bisa ia makan.\nSampailah si raksasa tadi ke rumah si nenek tersebut, nenek tua itu bertanya\nkepada si raksasa, \" apa gerangan yang membawa engkau kemari, hai raksasa?\",\ntanya si nenek. \"Aku ingin memakan seorang perempuan saat ini, apakah kau\nmemilikinya?\" tanya si raksasa kepada si nenek.\nNenek berkata kepada si raksasa, \"dari dulu aku ingin punya anak perempuan, tapi\naku tidak bisa, tapi bukan untuk aku makan, tapi ingin aku pelihara dan aku\nbesarkan\" jawab si nenek kepada raksasa. \" Hmm..baiklah tunggu aku sebentar\", si\nraksasa kembali masuk kedalam hutan dan kembali dengan menggenggam biji-\nbijian dan memberikan kepada si nenek.\n\"Untuk apa biji mentimun ini?\" tanya si nenek kepada raksasa. \"Kau tanamlah di\npekarangan mu, sampai nanti berbuah sebesar ukuran manusia, aku akan datang\nkembali\". Raksasa langsung masuk kembali ke dalam hutan meninggalkan si nenek\nyang masih kebingungan dengan perkataan raksasa.\nAkhirnya biji mentimun tadi di tanam juga oleh nenek yang memang ingin sekali\nmemiliki anak perempuan dari dulu untuk ia asuh dan besarkan, sampai akhirnya\nbiji mentimun itu tumbuh dan berbuah, akhirnya biji mentimun itu tumbuh sebesar\nmanusia, nenek tua itu sangat senang dan terharu, ternyata apa yang ia harapkan\nselama ini bisa menjadi kenyataan.\nMalam itu bulan purnama penuh, si nenek sangat letih seharian mencari kayu\nbakar untuk ia jual dan sisanya ia simpan untuk membakar bahan makanan\nuntuknya. Pagi harinya ia terkejut ketika ia bangun sudah ada sarapan pagi dan\nsecangkir teh hangat ada di meja sebelah tempat tidurnya.\n\"Hei, siapa yang membuatkan aku sarapan?, tanya si nenek dalam hati keheranan.\n\"Aku nek..\"..tiba-tiba ada suara di luar pintu kamar si nenek. Si nenek terkejut\nketika ada sesosok perempuan <em>cantik<\/em> yang menghampirinya. \"Siapakah tuan <em>puteri<\/em>\ngerangan?\", si nenek terpukau oleh kecantikan anak perempuan tadi. \"Aku adalah\ntimun emas, biji mentimun yang engkau tanam di pekaranganmu\". Si nenek merasa\nbahagia dan tiba-tiba ia merasa sedih.\n\"<em>Kenapa<\/em> engkau bersedih?, bukankah kau menginginkan aku dari dulu?\". Ternyata\nsi nenek ingat pesan si raksasa yang akan membawa anak perempuan yang\nberasal dari biji mentimun yang ia tanam.\nSi nenek merasa galau luar biasa, di satu sisi ia ingin membesarkan seorang anak\nperempuan, disatu sisi ia harus merelakan timun emas pergi agar ia tidak dimakan\noleh raksasa jahat.\n\" Timun emas yang <em>cantik<\/em>, pergilah nak engkau dari sini, aku lebih bahagia kau\npergi, ketimbang engkau menjadi mangsa raksasa\". Akhirnya si nenek memberikan\nbekal kepada timun emas berupa biji timun, jarum, garam dan terasi. Taburkanlah\njika kau merasa dalam bahaya.\nTak lama setelah berkata demikian, muncullah raksasa yang menagih janji kepada\nsi nenek, dan nenek itu langsung menyuruh timun emas lari sekencang-kencangnya\nuntuk menyelamatkan diri dari raksasa jahat yang kelaparan itu.\nRaksasa itu melihat timun emas lari kedalam hutan , dan ia pun mengejarnya.\nTimun emas langsung menebar biji mentimun di dalam hutan, seketika hutan itu\nberubah menjadi tanaman mentimun yang sangat besar dan melilit kaki raksasa\nyang mengejar timun emas.\nNamun raksasa masih tangguh dengan lilitan timun. Lalu timun mas menebarkan\njarum, dan seketika tumbuh tanaman bambu yang sangat tajam dan melukai kaki\nraksasa tersebut. Dan akhirnya juga raksasa lepas dari pohon bambu yang lebat tadi.\nTibalah timun mas di dekat sungai besar, dan ia pun menebarkan garam di sungai tersebut, seketika pula sungai berubah menjadi lautan yang dalam, namun bukanlah\nrintangan yang berarti bagi si raksasa.\nSampai akhirnya timun emas menebarkan terasi pada sebuah danau, si raksasa terjerembab dalam danau yang berubah menjadi lumpur hidup dan menghisap si raksasa masuk kedalamnya hingga tenggelam. Timun emas sangat lega, ia pun kembali ke rumah nenek tua tadi. dan ia pun sangat berterima kasih kepada si nenek, dan mereka pun hidup bahagia selamanya.",
+                        "snippet_content": "pintu kamar si nenek. Si nenek terkejut\nketika ada sesosok perempuan <em>cantik<\/em> yang menghampirinya. \"Siapakah tuan <em>puteri<\/em>\ngerangan?\", si nenek terpukau oleh"
+                    },
+                    "responses": [
+                        {
+                            "id": 11200592,
+                            "user_id": 7929,
+                            "task_id": 2521116,
+                            "points": 14,
+                            "created": "2017-02-10T21:56:42+07:00",
+                            "content": "Kategori Soal : Bahasa Indonesia - Cerita Rakyat<br \/>Kelas : 1 SMA\/X SMA<br \/>Pembahasan :<br \/><span>Unsur Intrinsik Dan Ekstrinsik Dari Cerita Rakyat \"Timun Mas\" :<br \/><br \/>*Unsur intrinsik :<br \/><br \/>Judul : Timun Mas<br \/><br \/>Tema : Kejahatan dan keangkuhan mampu dikalahkan oleh keberanian dan kesabaran.<br \/><br \/>Latar :<br \/>- Latar waktu : Zaman dahulu kala<br \/>- Latar tempat : Di hutan dan di rumah Sang Nenek<br \/>- Latar suasana : Menyedihkan dan menakutkan<br \/><br \/>Tokoh : Timun Mas, Raksasa, Nenek<br \/><br \/>Watak :<br \/>Timun Mas : Berani dan penurut<br \/>Raksasa : Rakus dan jahat<br \/>Nenek : Penyabar, berani untuk membela apa yang dipunyainya<br \/><br \/>Alur : Maju<br \/><br \/>Sudut pandang : Orang ketiga<br \/><br \/>Amanat :\u00a0<br \/>- Kita harus berani menghadapi tantangan<br \/>- Kerakusan akan berakibat kepada malapetaka<br \/>- Kesabaran akan membuahkan hasil<br \/>- Pertahankanlah apa yang dianggap benar<br \/><br \/>Gaya Bahasa (Majas) :<br \/>Hiperbola : Raksasa merasakan lapar yang amat sangat<br \/>Personifikasi : Batang timun melilit raksasa<br \/><br \/>Unsur Ekstrinsik :<br \/><br \/><\/span><span>Budaya serta nilai-bilai yang dianut :Budaya Jawa<br \/>Tingkat pendidikan : Tidak terlalu tinggi, karena mengandung bahasa-bahasa yang mudah dimengerti<br \/>Kondisi sosial di masyarakat : Individual<br \/>Agama dan keyakinan : Percaya kepada hal-hal ghaib<br \/><\/span><span>dll.<br \/>Biasanya unsur ekstrinsik berkaitan dengan pengarang dan tergantung subjektivitas penulis.<br \/><br \/><\/span>",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 3,
+                            "user_best_rank_id": 7,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2017-02-10T23:51:08+07:00",
+                                "approver": {
+                                    "id": 454961,
+                                    "nickname": "TronBacklop",
+                                    "points": 131397,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/d06\/a2e0b8c85614b6266c1f7f7da89edc81.jpg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/dcb\/70bc8e40fcbc1ba36c8a13068b3d284c.jpg"
+                                    },
+                                    "content_approved_count": 10737
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 7929,
+                                "nick": "DenmazEvan",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dcb\/d1ec20355c506bcd36a329c02ba38425.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 1,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 601700,
+            "nick": "teddylouis27",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 12,
+                "answers": 11,
+                "comments": 6
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 7929,
+            "nick": "DenmazEvan",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 25428,
+                "comments": 538
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da9\/7afab82326ad691cf3062b2e8231ba88.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dcb\/d1ec20355c506bcd36a329c02ba38425.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da9\/7afab82326ad691cf3062b2e8231ba88.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dcb\/d1ec20355c506bcd36a329c02ba38425.jpg"
+            },
+            "ranks": {
+                "color": "#ffbe32",
+                "names": [
+                    "BrainlyTeacher",
+                    "BrainlyDoctor",
+                    "BrainlyElite",
+                    "O-ADVENTURER-O",
+                    "Moderator",
+                    "Jenius"
+                ],
+                "count": 6
+            },
+            "ranks_ids": [
+                91,
+                32,
+                27,
+                94,
+                19,
+                7
+            ]
+        }
+    ],
+    "validated": false
+}

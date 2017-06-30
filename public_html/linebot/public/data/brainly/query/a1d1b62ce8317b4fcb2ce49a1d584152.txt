@@ -1,0 +1,530 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 2042859,
+                        "subject_id": 2,
+                        "user_id": 1169260,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "24x pangkat 2,y pangkat 3,z pangkat 2,dan 36y pangkat 2,z pangkat 4,w pangkat 3.tolong kawan-kawan tentukan kpk dan fpbnya ya!!!",
+                        "created": "2015-02-10T20:14:58+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2015-02-10T20:21:48+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "24x pangkat 2,y pangkat 3,z pangkat 2,dan 36y pangkat 2,z pangkat 4,<em>w<\/em> pangkat 3.tolong <em>kawan<\/em>-<em>kawan<\/em> tentukan kpk dan fpbnya ya!!!",
+                        "snippet_content": "24x pangkat 2,y pangkat 3,z pangkat 2,dan 36y pangkat 2,z pangkat 4,<em>w<\/em> pangkat 3.tolong <em>kawan<\/em>-<em>kawan<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 2596804,
+                            "user_id": 247199,
+                            "task_id": 2042859,
+                            "points": 5,
+                            "created": "2015-02-10T20:21:48+07:00",
+                            "content": "Kpk nya adalah 72 xpangkat 2 w pangkat 3 y pangkat 3 z pangkat 4\nFbp nya adalah 12 y pangkat 2 z pangkat 2",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 1680035,
+                                        "user_id": 1169260,
+                                        "content": "Terimakasih banyak",
+                                        "created": "2015-02-10T20:24:58+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 1680049,
+                                        "user_id": 247199,
+                                        "content": "Sama sama",
+                                        "created": "2015-02-10T20:25:27+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 2
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 247199,
+                                "nick": "Cln",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 5103793,
+                        "subject_id": 6,
+                        "user_id": 2595041,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "mohon bantuanya ya kawan terimakasih :)<br \/><br \/>\nsoal<br \/><br \/>\n1)Buah mangga yang masaanya 0,5kg berada diatas pohon yang tingginya 30M dan percepatan gravitasinya dibumi tempat itu adalah 9,8m\/s berapakah energi potensial buah?<br \/><br \/>\n2)sebuah sepeda yang massanya 50kg bergerak dengan kecepatan buah 10m\/s Tentukan besar energi kinetik sepeda tersebut!!<br \/><br \/>\n3)sebuah kotak ditarik dengan gaya F sebesar 25newton kotak berpindah 4M ketentuan dari posisi semula Tentukan usaha yang dilakukan pada gaya tersebut!!<br \/><br \/>\n4) W=100<br \/>\n    F1=3M<br \/>\n    F2=6M<br \/>\nberapakah besar gaya yang diperlukan untuk tuas tersebut??<br \/><br \/>\n5 F1=2M<br \/>\n   F2=4M<br \/>\n   F3=400N<br \/>\nberapa besar gaya yang diperlukan untuk memindahkan kotak tersebut??<br \/><br \/>\npakai cara ya kawan sekali lagi trimakasih :)<br \/>",
+                        "created": "2016-02-14T18:44:16+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2016-02-14T19:12:56+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "mohon bantuanya ya <em>kawan<\/em> terimakasih :)\nsoal\n1)Buah mangga yang masaanya 0,5kg berada diatas pohon yang tingginya 30M dan percepatan gravitasinya dibumi tempat itu adalah 9,8m\/s berapakah energi potensial buah?\n2)sebuah sepeda yang massanya 50kg bergerak dengan kecepatan buah 10m\/s Tentukan besar energi kinetik sepeda tersebut!!\n3)sebuah kotak ditarik dengan gaya F sebesar 25newton kotak berpindah 4M ketentuan dari posisi semula Tentukan usaha yang dilakukan pada gaya tersebut!!\n4) <em>W<\/em>=100\n    F1=3M\n    F2=6M\nberapakah besar gaya yang diperlukan untuk tuas tersebut??\n5 F1=2M\n   F2=4M\n   F3=400N\nberapa besar gaya yang diperlukan untuk memindahkan kotak tersebut??\npakai cara ya <em>kawan<\/em> sekali lagi trimakasih :)",
+                        "snippet_content": "mohon bantuanya ya <em>kawan<\/em> terimakasih :)\nsoal\n1)Buah mangga yang masaanya 0,5kg berada diatas pohon yang tingginya 30M dan percepatan gravitasinya"
+                    },
+                    "responses": [
+                        {
+                            "id": 6043888,
+                            "user_id": 2555700,
+                            "task_id": 5103793,
+                            "points": 5,
+                            "created": "2016-02-14T19:12:56+07:00",
+                            "content": "2. ek = 1\/2 mv pangkat 2 <br \/>          = 1\/2 50x10 pangkat2<br \/>          = 1\/2. 50 x 100 <br \/>          = 25 x 100 <br \/>           = 2500",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 3,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 3565557,
+                                        "user_id": 2595041,
+                                        "content": "trimakasih kawan :)",
+                                        "created": "2016-02-14T19:15:21+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 3565558,
+                                        "user_id": 2555700,
+                                        "content": "sama2",
+                                        "created": "2016-02-14T19:15:37+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 2
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2555700,
+                                "nick": "Hokidatus",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 6998990,
+                        "subject_id": 1,
+                        "user_id": 2926970,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "1.Bacalah puisi berikut dengan sesama!  <br \/><br \/>\nTolong menolong<br \/>\nKarya Abdul Hadi W.M.<br \/><br \/>\nDi tepi kali yang deras<br \/>\nSeekor kepiring merintis keras<br \/>\nIa tak bisa berjalan buat pulang ke Liang<br \/>\nSeluruh kakinya putus di batu karang <br \/><br \/>\nJerit pilunya terdengar kawan-lawannya<br \/>\nHingga berdatanganteng <br \/>\n\"Ada apa getangan kawan?\" Tanya kawannya <br \/>\n\"kakiku retak lalu patah diharamkan gelombang, \" ujarnya <br \/><br \/>\nLalu dua ekor kepiting yang kuat maju<br \/>\nMereka angkat dan gotong si Malang<br \/>\nPenuh cinta dan kasih sayang <br \/>\nTolong-menolong adalah lambang kedamaian dan kemanusiakan <br \/><br \/>\nAku lantas terpenting<br \/>\nKalau kepiting si makhluk kecil kurang beruntung <br \/>\nPunya rasa belas dan bisa tolong-menolong<br \/>\nKenapa kita makhluk yang mulia tidak? <br \/><br \/>\n2. Udahlah puisi diatas ke dalam bentuk proses! <br \/>",
+                        "created": "2016-08-25T21:52:45+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2016-08-25T21:55:11+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [
+                                {
+                                    "id": 4671534,
+                                    "user_id": 2926970,
+                                    "content": "Maksud nya ubahlah pusing diatas ke dalam bentuk prosa",
+                                    "created": "2016-08-25T21:53:35+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                },
+                                {
+                                    "id": 4671538,
+                                    "user_id": 2926970,
+                                    "content": "Salah",
+                                    "created": "2016-08-25T21:53:44+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                },
+                                {
+                                    "id": 4671552,
+                                    "user_id": 2926970,
+                                    "content": "Maksud nya ubahlah puisi diatas ke dalam bentuk prosa",
+                                    "created": "2016-08-25T21:54:06+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                }
+                            ],
+                            "last_id": 0,
+                            "count": 3
+                        },
+                        "highlighted_content": "1.Bacalah puisi berikut dengan sesama!  \nTolong menolong\nKarya Abdul Hadi <em>W<\/em>.M.\nDi tepi kali yang deras\nSeekor kepiring merintis keras\nIa tak bisa berjalan buat pulang ke Liang\nSeluruh <em>kakin<\/em>ya putus di batu karang \nJerit pilunya terdengar <em>kawan<\/em>-lawannya\nHingga berdatanganteng \n\"Ada apa getangan <em>kawan<\/em>?\" Tanya kawannya \n\"kakiku retak lalu patah diharamkan gelombang, \" ujarnya \nLalu dua ekor kepiting yang kuat maju\nMereka angkat dan gotong si Malang\nPenuh cinta dan kasih sayang \nTolong-menolong adalah lambang kedamaian dan kemanusiakan \nAku lantas terpenting\nKalau kepiting si makhluk kecil kurang beruntung \nPunya rasa belas dan bisa tolong-menolong\nKenapa kita makhluk yang mulia tidak? \n2. Udahlah puisi diatas ke dalam bentuk proses! ",
+                        "snippet_content": "ke Liang\nSeluruh <em>kakin<\/em>ya putus di batu karang \nJerit pilunya terdengar <em>kawan<\/em>-lawannya\nHingga berdatanganteng \n\"Ada apa getangan <em>kawan<\/em>?\" Tanya kawannya \n\"kakiku"
+                    },
+                    "responses": [
+                        {
+                            "id": 8286457,
+                            "user_id": 3107481,
+                            "task_id": 6998990,
+                            "points": 5,
+                            "created": "2016-08-25T21:55:11+07:00",
+                            "content": "Panjang banget kelaa berapa ini",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3107481,
+                                "nick": "nayla195",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d2a\/7752b43645ac1aa7bec816647e77edda.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 3,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 1169260,
+            "nick": "ratuaulia17",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 0,
+                "comments": 4
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db9\/d62bea51aa54c97637f5146912ce0968.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d5c\/14454ae9d4b1dc26c0894469f97fff8e.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db9\/d62bea51aa54c97637f5146912ce0968.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d5c\/14454ae9d4b1dc26c0894469f97fff8e.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 247199,
+            "nick": "Cln",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 12,
+                "answers": 10,
+                "comments": 9
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 2595041,
+            "nick": "seviapuspita23",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 1
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 2555700,
+            "nick": "Hokidatus",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 65,
+                "comments": 20
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 2926970,
+            "nick": "Nadiyah252525",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 37,
+                "answers": 31,
+                "comments": 4
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4f\/6b945fab82182f7d6575e51518366e63.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de7\/8a8ea0e845832760cfdf97c8eff53814.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4f\/6b945fab82182f7d6575e51518366e63.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de7\/8a8ea0e845832760cfdf97c8eff53814.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 3107481,
+            "nick": "nayla195",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 31,
+                "answers": 20,
+                "comments": 23
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9e\/da49e32a6792fe85d548859969ae085d.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d2a\/7752b43645ac1aa7bec816647e77edda.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9e\/da49e32a6792fe85d548859969ae085d.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d2a\/7752b43645ac1aa7bec816647e77edda.jpg"
+            },
+            "ranks": {
+                "color": "#000000",
+                "names": [],
+                "count": 0
+            },
+            "ranks_ids": null
+        }
+    ],
+    "validated": false
+}

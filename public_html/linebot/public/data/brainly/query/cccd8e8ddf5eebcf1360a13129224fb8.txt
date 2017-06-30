@@ -1,0 +1,170 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 10660752,
+                        "subject_id": 10,
+                        "user_id": 5042088,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 20,
+                            "ptsForResp": 10,
+                            "ptsForBest": 5
+                        },
+                        "content": "1.Meskipun belum merupakan tentara kebangsaan BKR memiliki kualitas militer karena:<br \/>\nA.diperkuat oleh personil yang mempunyai pengalaman militer<br \/>\nB.Memiliki Persenjataan lengkap<br \/>\nC.Kedua Tokoh itu telah dikenal sebagai pemimpin bangsa<br \/>\nD.Kedua tokoh itu dapat memahami pandangan para pemuda<br \/><br \/>\n2.Tindakan pemerintah RI membentuk tentara rakyat dilatar belakangi:<br \/>\nA.Pemberontakan oleh laskar dan barisan perjuangan<br \/>\nB.Penolakan Rakyat Indonesia Terhadap Kemerdekaan<br \/>\nC.Ancaman sekutu dan NICA terhadap kemerdekaan<br \/>\nD.Menyetujui Badan Keamana Rakyat<br \/><br \/>\n3.Ciri Khas Perjuangan Gerakan bawah tanah yang berada dari perjuangan melalu organisasi bentukan jepang adalah:<br \/>\nA.Lebih berhasil membawa semangat nasionalisme di kalangan rakyat<br \/>\nB.Mampu mengumpulkan lebih besar untuk kaderisasi<br \/>\nC.Memiliki progam persiapan kemerdekaan  yang lebih terarah<br \/>\nD.Mempunyai Sifat radikamn dan tidak mengenai kompromi dengan jepang<br \/><br \/>\n4.Pengaruh pandangan atau sikap yang diberikan seorang individu terhadap individu lain kemudian diterima, dituruti, dilaksanakan tanpa beripikir lagi secara rasional disebut: <br \/>\nA.Sugesti<br \/>\nB.Akomodasi<br \/>\nC.Simpati<br \/>\nD.Identifikasi<br \/><br \/>\n5.Sejumlah aturan sosial atau patokan perilaku yang sesuai dan pantas, serta dijadikan kesepakatan oleh semua anggota masyarakat agar menjadi pedoman dan pegangan untuk mengatasi kehidupan masyarakat adalah pengertian:<br \/>\nA.Pranata sosial<br \/>\nB.Lembaga Sosial<br \/>\nC.Sistem Norma<br \/>\nD.Social Insitution<br \/><br \/>\n6. Warga di lereng gunung Merapi sebenarnya takut dnegan bahaya letusan dan lahari dingin yang mungkin sewaktu waktu datang, namun atas anjuran mbah marijan mereka disuruh membuat kenduri.Mereka pun menjadi tidak takut dengan bahaya yang bakal datang. Fenomena ini terjadi karena<br \/>\nA.Identifikasi<br \/>\nB.Simpati<br \/>\nC.Imitasi<br \/>\nD.sugesti<br \/><br \/>\n7.Beberapa dampak positif dari adanya hubungan sosial,kecuali<br \/>\nA.Mengembangkan Sikap solidaritas dan saling menghormati<br \/>\nB.Menimbulkan rasa aman dan terlindungi<br \/>\nC.Membangkitkan semangat gotong royong<br \/>\nD.Menumbuhkan sifat fanatisme kelompok<br \/><br \/>\n8.Pranata-pranata yang mengurus kebutuhan jasmani manusia seperti pemeliharaan kecantikan,kesehatan,dan kedokteran disebut<br \/>\nA.Scientific Institutions<br \/>\nB.Somatic Institutions<br \/>\nC.Political Institutions'<br \/>\nD.Religius institutions<br \/><br \/>\n9.Keluarga Merupakan Tempat Sosialisasi primer agar tidak menyimpang dari aturan sosial. hal ini berarti pranata keluarga mempunya fungsi<br \/>\nA.Ekonomi<br \/>\nB.Reproduksi<br \/>\nC.Biologis<br \/>\nD.Edukatif<br \/><br \/>\n10.Pendidikan Formal Yang pertama kali didapat oleh anak berasal dari<br \/>\nA.lingkungan<br \/>\nB.teman bermain<br \/>\nC.Sekolah<br \/>\nD.Keluarga<br \/><br \/>\n11.Pranata politik berkaitan dengan kekuasaan Hal ini antara politik dan kekuasaan mempunya kecerendungan yang sama.di antara kecerendungan itu adalah<br \/>\nA.cenderung pada pemenuhan kebutuhan pokok<br \/>\nB.Bertujuan untuk menciptakan kestabilan politik<br \/>\nC.sama sama memiliki strategi untuk mencapai tujuan<br \/>\nd.mengarah pada pemaksaan kehendek kepada orang lain<br \/><br \/>\n12.Dalam kegiatan pranata ekonomi bidang industri,diperlukan sumber daya manusia yang mempunyai sifat<br \/>\nA.bergaya hidup mewah<br \/>\nB.Individual dan apriori terhadap iptek<br \/>\nC.berwatak westernisasi<br \/>\nD.Punya etos kerja dan punya kualitas<br \/><br \/>\n13.Berikut Merupakan Ciri Ciri sistem ekonomi liberal kecuali<br \/>\nA.Mengutamakan kemakmuran rakyat<br \/>\nB.Cabang produksi yang penting dikuasai negara<br \/>\nC.adanya kebebasan individu secara mutlak<br \/>\nD.Perekonomian berdasarkan asas kekeluargaan<br \/><br \/>\n14.Negara Negara yang menganut sistem ekonomi liberal adalah<br \/>\nA.Inggris,Korea Utara dab italia<br \/>\nB.Prancis,Swedia,dan Korea Utara<br \/>\nC.Amerika serikat,inggris dan jerman<br \/>\nD.Amerika serikat,belanda dan RPC<br \/><br \/>\n15.Ciri-Ciri Sistem ekonomi indonesia tercantum  pada uud 1945<br \/>\nA.pasal 30 ayat 1 dan 2<br \/>\nB.pasal 31 ayat 1 dan 2<br \/>\nC.pasal 32<br \/>\nD.pasal 33<br \/><br \/>\n16.Salah satu peran masyarakat luar negeri dalam perokonomian indonesia adalah melakukan kegiatana.<br \/>\nA.ekspor impor<br \/>\nb. simpan pinjam<br \/>\nc.jual beli<br \/>\nd.menyewa barang<br \/><br \/>\n17.Pajak mempunya peran penting dalam pembangunan nasional seperti berikut kecuali<br \/>\na. untuk pembiayaan pembangunan<br \/>\nb.sebagai alat pemerataan pendapatan<br \/>\nc.sebagai pungutan yang diwajibkan kepada seluruh masyarakat<br \/>\nd.sebagai sumber penerimaan negara<br \/><br \/>\n18.Pajak penghasilan (PPh) diatur dalam<br \/>\nA.UU no 12 tahun 1994<br \/>\nb. UU no 16 tahun 2000<br \/>\nC.UU no 17 tahun 2000<br \/>\nD. UU no 18 tahun 2000<br \/><br \/>\n19,pajak merupakan kewajiban<br \/>\na.seluruh warga negara<br \/>\nb.warga negara laki laki saja<br \/>\nc.warga negara yang mampu saja<br \/>\nd.warga negara yang memiliki pekerjaan saja<br \/><br \/>\n20.pajak yang dikenakan berdasarkan objeknya tanpa memandang pelakunya disebut pajak<br \/>\nA.objektif<br \/>\nb.subjektif<br \/>\nc.langsung<br \/>\nd.tak langsung<br \/><br \/>\n21.jenis bumi dan bangunan yang tidak dikenal pajak adalah<br \/>\na.puskesmas<br \/>\nb.ruko<br \/>\nc.dapartemen store<br \/>\nd.kantor perusahaan perseorangan<br \/>",
+                        "created": "2017-05-15T21:41:39+07:00",
+                        "responses": 1,
+                        "tickets": 3,
+                        "first_resp": "2017-05-16T07:39:10+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "1.Meskipun belum merupakan tentara kebangsaan BKR memiliki kualitas militer karena:\nA.diperkuat oleh personil yang mempunyai pengalaman militer\nB.Memiliki Persenjataan lengkap\nC.Kedua Tokoh itu telah dikenal sebagai pemimpin bangsa\nD.Kedua tokoh itu dapat memahami pandangan para pemuda\n2.Tindakan pemerintah <em>RI<\/em> membentuk tentara rakyat dilatar belakangi:\nA.Pemberontakan oleh laskar dan barisan perjuangan\nB.Penolakan Rakyat Indonesia Terhadap Kemerdekaan\nC.Ancaman sekutu dan NICA terhadap kemerdekaan\nD.Menyetujui Badan Keamana Rakyat\n3.Ciri Khas Perjuangan Gerakan bawah tanah yang berada dari perjuangan melalu organisasi bentukan jepang adalah:\nA.Lebih berhasil membawa semangat nasionalisme di kalangan rakyat\nB.Mampu mengumpulkan lebih besar untuk kaderisasi\nC.Memiliki progam persiapan kemerdekaan  yang lebih terarah\nD.Mempunyai Sifat radikamn dan tidak mengenai kompromi dengan jepang\n4.Pengaruh pandangan atau sikap yang diberikan seorang individu terhadap individu lain kemudian diterima, dituruti, dilaksanakan tanpa beripikir lagi secara rasional disebut: \nA.Sugesti\nB.Akomodasi\nC.<em>Simpa<\/em>ti\nD.Identifikasi\n5.Sejumlah aturan sosial atau patokan perilaku yang sesuai dan pantas, serta dijadikan kesepakatan oleh semua anggota masyarakat agar menjadi pedoman dan pegangan untuk mengatasi kehidupan masyarakat adalah pengertian:\nA.Pranata sosial\nB.Lembaga Sosial\nC.Sistem Norma\nD.Social Insitution\n6. Warga di lereng gunung Merapi sebenarnya takut dnegan bahaya letusan dan <em>lahari<\/em> dingin yang mungkin sewaktu waktu datang, namun atas anjuran mbah marijan mereka disuruh membuat kenduri.Mereka pun menjadi tidak takut dengan bahaya yang bakal datang. Fenomena ini terjadi karena\nA.Identifikasi\nB.<em>Simpa<\/em>ti\nC.Imitasi\nD.sugesti\n7.Beberapa dampak positif dari adanya hubungan sosial,kecuali\nA.Mengembangkan Sikap solidaritas dan saling menghormati\nB.Menimbulkan rasa aman dan terlindungi\nC.Membangkitkan semangat gotong royong\nD.Menumbuhkan sifat fanatisme kelompok\n8.Pranata-pranata yang mengurus kebutuhan jasmani manusia seperti pemeliharaan kecantikan,kesehatan,dan kedokteran disebut\nA.Scientific Institutions\nB.Somatic Institutions\nC.Political Institutions'\nD.Religius institutions\n9.Keluarga Merupakan Tempat Sosialisasi primer agar tidak menyimpang dari aturan sosial. hal ini berarti pranata keluarga mempunya fungsi\nA.Ekonomi\nB.Reproduksi\nC.Biologis\nD.Edukatif\n10.Pendidikan Formal Yang pertama kali didapat oleh anak berasal dari\nA.lingkungan\nB.teman bermain\nC.Sekolah\nD.Keluarga\n11.Pranata politik berkaitan dengan kekuasaan Hal ini antara politik dan kekuasaan mempunya kecerendungan yang sama.di antara kecerendungan itu adalah\nA.cenderung pada pemenuhan kebutuhan pokok\nB.Bertujuan untuk menciptakan kestabilan politik\nC.sama sama memiliki strategi untuk mencapai tujuan\nd.mengarah pada pemaksaan kehendek kepada orang lain\n12.Dalam kegiatan pranata ekonomi bidang industri,diperlukan sumber daya manusia yang mempunyai sifat\nA.bergaya hidup mewah\nB.Individual dan apriori terhadap iptek\nC.berwatak westernisasi\nD.Punya etos kerja dan punya kualitas\n13.Berikut Merupakan Ciri Ciri sistem ekonomi liberal kecuali\nA.Mengutamakan kemakmuran rakyat\nB.Cabang produksi yang penting dikuasai negara\nC.adanya kebebasan individu secara mutlak\nD.Perekonomian berdasarkan asas kekeluargaan\n14.Negara Negara yang menganut sistem ekonomi liberal adalah\nA.Inggris,Korea Utara dab italia\nB.Prancis,Swedia,dan Korea Utara\nC.Amerika serikat,inggris dan jerman\nD.Amerika serikat,belanda dan RPC\n15.Ciri-Ciri Sistem ekonomi indonesia tercantum  pada uud 1945\nA.pasal 30 ayat 1 dan 2\nB.pasal 31 ayat 1 dan 2\nC.pasal 32\nD.pasal 33\n16.Salah satu peran masyarakat luar negeri dalam perokonomian indonesia adalah melakukan kegiatana.\nA.ekspor impor\nb. <em>simpa<\/em>n pinjam\nc.jual beli\nd.menyewa barang\n17.Pajak mempunya peran penting dalam pembangunan nasional seperti berikut kecuali\na. untuk pembiayaan pembangunan\nb.sebagai alat pemerataan pendapatan\nc.sebagai pungutan yang diwajibkan kepada seluruh masyarakat\nd.sebagai sumber penerimaan negara\n18.Pajak penghasilan (PPh) diatur dalam\nA.UU no 12 tahun 1994\nb. UU no 16 tahun 2000\nC.UU no 17 tahun 2000\nD. UU no 18 tahun 2000\n19,pajak merupakan kewajiban\na.seluruh warga negara\nb.warga negara laki laki saja\nc.warga negara yang mampu saja\nd.warga negara yang memiliki pekerjaan saja\n20.pajak yang dikenakan berdasarkan objeknya tanpa memandang pelakunya disebut pajak\nA.objektif\nb.subjektif\nc.langsung\nd.tak langsung\n21.jenis bumi dan bangunan yang tidak dikenal pajak adalah\na.puskesmas\nb.ruko\nc.dapartemen store\nd.kantor perusahaan perseorangan",
+                        "snippet_content": "Kedua tokoh itu dapat memahami pandangan para pemuda\n2.Tindakan pemerintah <em>RI<\/em> membentuk tentara rakyat dilatar belakangi:\nA.Pemberontakan oleh laskar dan"
+                    },
+                    "responses": [
+                        {
+                            "id": 12919927,
+                            "user_id": 5037292,
+                            "task_id": 10660752,
+                            "points": 10,
+                            "created": "2017-05-16T07:39:10+07:00",
+                            "content": "1.A<br \/>2.A<br \/>3.C<br \/>4.A<br \/>5. A<br \/>6.A<br \/>7.D<br \/>8.B<br \/>9.D<br \/>10.D<br \/>11.B<br \/>12.D<br \/>13. A<br \/>14.B<br \/>15. B<br \/>16.A<br \/>17.B<br \/>18. A<br \/>19.A<br \/>20.A<br \/>21.A<br \/>",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 2,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5037292,
+                                "nick": "itsdekom",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dd9\/6eadc5660f6e59b684abe1d8a6a3ce13.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 1,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 5042088,
+            "nick": "rivaldyalviansyah",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 5037292,
+            "nick": "itsdekom",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 113,
+                "comments": 50
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d62\/209694496b0a32ec25cface25cad22b3.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd9\/6eadc5660f6e59b684abe1d8a6a3ce13.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d62\/209694496b0a32ec25cface25cad22b3.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd9\/6eadc5660f6e59b684abe1d8a6a3ce13.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        }
+    ],
+    "validated": false
+}

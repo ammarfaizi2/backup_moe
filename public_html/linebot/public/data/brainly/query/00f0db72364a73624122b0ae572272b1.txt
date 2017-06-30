@@ -1,0 +1,173 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 3842979,
+                        "subject_id": 22,
+                        "user_id": 350859,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 20,
+                            "ptsForResp": 10,
+                            "ptsForBest": 5
+                        },
+                        "content": "Mohon jawab dengan benar yaa....<br \/><br \/>\n1.bentuk gerakan hasil servis panjang forehand permainan bulu tangkis adalah...<br \/>\na.menukik tajam<br \/>\nb.datar sejajar net<br \/>\nc.melambung tinggi dan jauh<br \/>\nd.datar dan jauh dekat net<br \/><br \/>\n2.bentuk gerakan tangan yang benar saat melakukan teknik dasar servis forehand permainan bulu tangkis adalah...<br \/>\na.mengayun bola<br \/>\nb.menekan bola<br \/>\nc.mendorong bola<br \/>\nd.memutar bola<br \/><br \/>\n3.jatuhnya bola yang benar hasil servis pendek forehand pad bulu tangkis adalah...<br \/>\na.dekat garis <br \/>\nb.jauh dari garis<br \/>\nc.dekat garis<br \/>\nd.dekat garis<br \/><br \/>\n4.posisi raket dipegang dengan tangan saat akan mengembalikan servis panjang pada permainan bulu tangkis, adalah...<br \/>\na.atas samping kepala<br \/>\nb.depan atas dada<br \/>\nc.bawah samping kepala<br \/>\nd.atas belakang kepala<br \/><br \/>\n5.pelanggaran yang terjadi di daerah gawang oleh pemain bertahan pada permainan sepak bola akan mengakibatkan...<br \/>\na.tendangan pinalti<br \/>\nb.tendangan gawang<br \/>\nc.tendangan bebas<br \/>\nd.tendangan sudut<br \/><br \/>\n6.berikut ini yang termasuk permainan bola besar adalah...<br \/>\na.bulu tangkis<br \/>\nb.sepak bola<br \/>\nc.tenis meja<br \/>\nd.golf<br \/><br \/>\n7.berapa menit waktu yang diprlukan dalam satu babak dalam permainan sepak bola...<br \/>\na.30 menit<br \/>\nb.35 menit <br \/>\nc.40 menit<br \/>\nd.45 menit<br \/><br \/>\n8.setiap regu dalam permainan sepak bola beranggota...<br \/>\na.11 pemain<br \/>\nb.12 pemain<br \/>\nc.13 pemain<br \/>\nd.14 pemain<br \/><br \/>\n9.pemain bola voli dilakukan dengan dua regu ,yang masing masing beranggota...<br \/>\na.7 orang<br \/>\nb.6 orang<br \/>\nc.5 orang<br \/>\nd.4 orang<br \/><br \/>\n10.sebuah lapangan voli berbentuk empat persegi panjang dengan ukuran panjang lapangan...<br \/>\na.15m<br \/>\nb.17m<br \/>\nc.18m<br \/>\nd.15m<br \/><br \/>\n11.sebuah lapangan voli berbentuk empat persegi panjang dengan ukuran lebar lapangan...<br \/>\na.8m<br \/>\nb.11m<br \/>\nc.10m<br \/>\nd.9m<br \/><br \/>\n12 arah gerakan melempar bola pantul pada permainan bola basket adalah...<br \/>\na.kedepan lurus<br \/>\nb.kebawah lurus<br \/>\nc.keatas lurus<br \/>\nd.kesamping lurus<br \/><br \/>\n13.rotasi pemain bola voli jika terjadi pindah bola adalah...<br \/>\na.kearah depan<br \/>\nb.kearah belakang <br \/>\nc.berlawanan arah jarum jam <br \/>\nd.searah jarum jam",
+                        "created": "2015-10-11T11:56:27+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2015-10-11T13:26:14+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Mohon jawab dengan benar yaa....\n1.bentuk gerakan hasil servis panjang forehand permainan bulu tangkis adalah...\na.menukik tajam\nb.datar sejajar net\nc.melambung tinggi dan jauh\nd.datar dan jauh dekat net\n2.bentuk gerakan tangan yang benar saat melakukan teknik dasar servis forehand permainan bulu tangkis adalah...\na.mengayun bola\nb.menekan bola\nc.mendorong bola\nd.memutar bola\n3.jatuhnya bola yang benar hasil servis pendek forehand pad bulu tangkis adalah...\na.dekat garis \nb.jauh dari garis\nc.dekat garis\nd.dekat garis\n4.posisi <em>raket<\/em> dipegang dengan tangan saat akan mengembalikan servis panjang pada permainan bulu tangkis, adalah...\na.atas samping kepala\nb.depan atas dada\nc.bawah samping kepala\nd.atas belakang kepala\n5.pelanggaran yang terjadi di daerah gawang oleh pemain bertahan pada permainan sepak bola akan mengakibatkan...\na.tendangan pinalti\nb.tendangan gawang\nc.tendangan bebas\nd.tendangan sudut\n6.berikut ini yang termasuk permainan bola besar adalah...\na.bulu tangkis\nb.sepak bola\nc.tenis meja\nd.<em>golf<\/em>\n7.berapa menit waktu yang diprlukan dalam satu babak dalam permainan sepak bola...\na.30 menit\nb.35 menit \nc.40 menit\nd.45 menit\n8.setiap regu dalam permainan sepak bola beranggota...\na.11 pemain\nb.12 pemain\nc.13 pemain\nd.14 pemain\n9.pemain bola voli dilakukan dengan dua regu ,yang masing masing beranggota...\na.7 orang\nb.6 orang\nc.5 orang\nd.4 orang\n10.sebuah lapangan voli berbentuk empat persegi panjang dengan ukuran panjang lapangan...\na.15m\nb.17m\nc.18m\nd.15m\n11.sebuah lapangan voli berbentuk empat persegi panjang dengan ukuran lebar lapangan...\na.8m\nb.11m\nc.10m\nd.9m\n12 arah gerakan melempar bola pantul pada permainan bola basket adalah...\na.kedepan lurus\nb.kebawah lurus\nc.keatas lurus\nd.kesamping lurus\n13.rotasi pemain bola voli jika terjadi pindah bola adalah...\na.kearah depan\nb.kearah belakang \nc.berlawanan arah jarum jam \nd.searah jarum jam",
+                        "snippet_content": "jauh dari garis\nc.dekat garis\nd.dekat garis\n4.posisi <em>raket<\/em> dipegang dengan tangan saat akan mengembalikan servis panjang pada permainan"
+                    },
+                    "responses": [
+                        {
+                            "id": 4642238,
+                            "user_id": 196878,
+                            "task_id": 3842979,
+                            "points": 10,
+                            "created": "2015-10-11T13:26:14+07:00",
+                            "content": "1.c 6.b 7.d 8.a 9.b 12.b 13.d",
+                            "mark": 2,
+                            "marks_count": 1,
+                            "thanks": 9,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 196878,
+                                "nick": "redrever",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dc5\/079cbf081193e541a15b5670a47f703e.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 1,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 350859,
+            "nick": "haula",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 16,
+                "answers": 4,
+                "comments": 5
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d03\/c3303fa52a98b3644c39b6f399b03932.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dee\/930eae6a4a1bee00bb2d9f520596afc8.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d03\/c3303fa52a98b3644c39b6f399b03932.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dee\/930eae6a4a1bee00bb2d9f520596afc8.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 196878,
+            "nick": "redrever",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 23,
+                "answers": 33,
+                "comments": 43
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d04\/961073e5e22f34d6e27c7ab423c6d07b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc5\/079cbf081193e541a15b5670a47f703e.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d04\/961073e5e22f34d6e27c7ab423c6d07b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc5\/079cbf081193e541a15b5670a47f703e.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        }
+    ],
+    "validated": false
+}

@@ -1,0 +1,1244 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 386711,
+                        "subject_id": 3,
+                        "user_id": 268088,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Siapa penemu hati ku ???",
+                        "created": "2014-08-19T08:47:36+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2014-08-19T08:49:21+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Siapa <em>penemu<\/em> <em>hati<\/em> <em>ku<\/em> ???",
+                        "snippet_content": "Siapa <em>penemu<\/em> <em>hati<\/em> <em>ku<\/em> ???"
+                    },
+                    "responses": [
+                        {
+                            "id": 561093,
+                            "user_id": 259517,
+                            "task_id": 386711,
+                            "points": 5,
+                            "created": "2014-08-19T08:49:21+07:00",
+                            "content": "Akan ada saatnya nanti di temukan oleh tuhan",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "2",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 561131,
+                            "user_id": 253545,
+                            "task_id": 386711,
+                            "points": 5,
+                            "created": "2014-08-19T08:56:32+07:00",
+                            "content": "penemu hati kita adalah tuhan",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 259517,
+                                "nick": "deaadellia23",
+                                "avatar": null
+                            },
+                            {
+                                "id": 253545,
+                                "nick": "cutey",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/df9\/21df3618dca27920a963e5bac2aa9353.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 4472466,
+                        "subject_id": 1,
+                        "user_id": 1607462,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 19,
+                            "ptsForResp": 10,
+                            "ptsForBest": 5
+                        },
+                        "content": "Tolong carikan pokok pokok pikirannya ya. thanks. kalau bisa min.3\/4<br \/><br \/>\nFosil Gading Gajah Purba Ditemukan di Banjarejo.<br \/>\nSelain benda cagar budaya, penemuan fosil hewan purba juga terjadi di Desa Banjarejo, Kecamatan Gabus. Hari ini (kemarin), penemuan terbaru berupa fosil gading gajah purba. Fosil yang diperkirakan berusia ribuan tahun itu ditemukan di pekarangan milik Kurdi, warga Dusun Peting RT03 RW5. Berbeda dengan penemuan benda purba sebelumnya, fosil gading gajah itu ditemukan di lokasi yang cukup dangkal. Kedalaman dari tanah hanya sekitar 50 cm. Meski begitu, selama ini pemilik lahan tersebut belum pernah menyentuh benda langka tersebut saat mencangkul di pekarangannya itu.<br \/><br \/>\nPenemu benda purbakala tersebut adalah Kaur Kesra Dusun Kuwojo Budi Setyo Utomo. Dari informasi yang diterima, salah satu perangkat Desa Banjarejo itu memperkirakan jika di pekarangan tersebut ada benda purba lainnya. Pada Selasa (17\/11) sore Budi dibantu beberapa warga mencoba membuktikan kebenaran informasi yang didapat tersebut. Setelah menggali 50 cm, mulai terlihat ada bongkahan seperti batu. Selanjutnya, penggalian tanah dilakukan secara manual dengan memakai tangan hingga akhirnya terlihat wujud benda seperti bentuk gading gajah. Jadi 13 Bagian \u201dKarena kemarin sudah agak gelap maka pengangkatan fosil ini terpaksa kami hentikan. Setelah berkoordinasi dengan Pak Kades, baru pagi ini fosil ini bisa kita angkat,\u201d kata Budi. Saat diangkat dari dalam tanah, fosil gading gajah purba itu tidak utuh. Tapi sudah patah hingga jadi 13 potong atau bagian. Karena itu, pengangkatan fosil gading tersebut dilakukan dengan sangat hati-hati oleh Budi Setyo Utomo. Bagian pertama yang diangkat adalah di posisi pangkal. Kemudian, potongan pertama ini diletakkan diatas lembaran karung bekas disamping tempat penemuan. Setelah diletakkan, potongan itu diberi label nomor 1 untuk memudahkan merangkai lagi agar bentuknya bisa utuh. Proses seperti ini dilakukan hingga potongan fosil paling ujung atau nomor 13. Butuh waktu sekitar satu jam lamanya untuk mengangkat fosil dari dalam tanah. Yakni, dari mulai sekitar pukul 10.00 hingga 11.00. Setelah selesai, bentuk gading gajah itu terlihat cukup panjang. Dari pengukuran yang dilakukan, panjang gading tersebut mencapai 2,17 meter. Lebar pangkal gading sekitar 15 cm dan di bagian ujungnya 7 cm. (zul-58)",
+                        "created": "2015-11-28T04:55:45+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2015-11-28T05:04:03+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Tolong carikan pokok pokok pikirannya ya. thanks. kalau bisa min.3\/4\nFosil Gading Gajah Purba Ditemukan di Banjarejo.\nSelain benda cagar budaya, penemuan fosil hewan purba juga terjadi di Desa Banjarejo, Kecamatan Gabus. Hari ini (kemarin), penemuan terbaru berupa fosil gading gajah purba. Fosil yang diperkirakan berusia ribuan tahun itu ditemukan di pekarangan milik <em>Ku<\/em>rdi, warga Dusun Peting RT03 RW5. Berbeda dengan penemuan benda purba sebelumnya, fosil gading gajah itu ditemukan di lokasi yang cukup dangkal. Kedalaman dari tanah hanya sekitar 50 cm. Meski begitu, selama ini pemilik lahan tersebut belum pernah menyentuh benda langka tersebut saat mencangkul di pekarangannya itu.\n<em>Penemu<\/em> benda purbakala tersebut adalah Kaur Kesra Dusun <em>Ku<\/em>wojo Budi Setyo Utomo. Dari informasi yang diterima, salah satu perangkat Desa Banjarejo itu memperkirakan jika di pekarangan tersebut ada benda purba lainnya. Pada Selasa (17\/11) sore Budi dibantu beberapa warga mencoba membuktikan kebenaran informasi yang didapat tersebut. Setelah menggali 50 cm, mulai terlihat ada bongkahan seperti batu. Selanjutnya, penggalian tanah dilakukan secara manual dengan memakai tangan hingga akhirnya terlihat wujud benda seperti bentuk gading gajah. Jadi 13 Bagian \u201dKarena kemarin sudah agak gelap maka pengangkatan fosil ini terpaksa kami hentikan. Setelah berkoordinasi dengan Pak Kades, baru pagi ini fosil ini bisa kita angkat,\u201d kata Budi. Saat diangkat dari dalam tanah, fosil gading gajah purba itu tidak utuh. Tapi sudah patah hingga jadi 13 potong atau bagian. Karena itu, pengangkatan fosil gading tersebut dilakukan dengan sangat <em>hati<\/em>-<em>hati<\/em> oleh Budi Setyo Utomo. Bagian pertama yang diangkat adalah di posisi pangkal. Kemudian, potongan pertama ini diletakkan diatas lembaran karung bekas disamping tempat penemuan. Setelah diletakkan, potongan itu diberi label nomor 1 untuk memudahkan merangkai lagi agar bentuknya bisa utuh. Proses seperti ini dilakukan hingga potongan fosil paling ujung atau nomor 13. Butuh waktu sekitar satu jam lamanya untuk mengangkat fosil dari dalam tanah. Yakni, dari mulai sekitar pukul 10.00 hingga 11.00. Setelah selesai, bentuk gading gajah itu terlihat cukup panjang. Dari pengukuran yang dilakukan, panjang gading tersebut mencapai 2,17 meter. Lebar pangkal gading sekitar 15 cm dan di bagian ujungnya 7 cm. (zul-58)",
+                        "snippet_content": "belum pernah menyentuh benda langka tersebut saat mencangkul di pekarangannya itu.\n<em>Penemu<\/em> benda purbakala tersebut adalah Kaur Kesra Dusun <em>Ku<\/em>wojo Budi Setyo"
+                    },
+                    "responses": [
+                        {
+                            "id": 5262758,
+                            "user_id": 2329417,
+                            "task_id": 4472466,
+                            "points": 10,
+                            "created": "2015-11-28T05:04:03+07:00",
+                            "content": "fosil gading gajah purba ditemukan di banjarejo.fosil itu berusia ribuan tahun.panjang gadingnya mencapai 2,17 meter lebarnys 15 cm dan bagian ujungnya 7 cm",
+                            "mark": 5,
+                            "marks_count": 2,
+                            "thanks": 2,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 3178164,
+                                        "user_id": 2329417,
+                                        "content": "gk bisa di edit jawabanya:(",
+                                        "created": "2015-11-28T05:20:15+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 3178170,
+                                        "user_id": 1607462,
+                                        "content": "ada facebook gk ?",
+                                        "created": "2015-11-28T05:25:52+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 3178172,
+                                        "user_id": 2329417,
+                                        "content": "ada",
+                                        "created": "2015-11-28T05:26:31+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 3178189,
+                                        "user_id": 1607462,
+                                        "content": "nama ?",
+                                        "created": "2015-11-28T05:33:15+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 3178230,
+                                        "user_id": 2329417,
+                                        "content": "neng zhida",
+                                        "created": "2015-11-28T06:01:07+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 3178164,
+                                "count": 8
+                            }
+                        },
+                        {
+                            "id": 5263800,
+                            "user_id": 2237184,
+                            "task_id": 4472466,
+                            "points": 10,
+                            "created": "2015-11-28T08:27:48+07:00",
+                            "content": "Fosil nya ditemukan di Banjarejo, panjangnya 2,17 M, ujungnya 7cm",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2329417,
+                                "nick": "zida4",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d20\/1132a8fdf615b017ec26a2b3e32868c0.jpg"
+                            },
+                            {
+                                "id": 2237184,
+                                "nick": "senja2",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 8636870,
+                        "subject_id": 4,
+                        "user_id": 4235304,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 20,
+                            "ptsForResp": 10,
+                            "ptsForBest": 5
+                        },
+                        "content": "6. sel hewan berbeda dengan tumbuhan karena sel hewan memiliki...<br \/>\na. membran<br \/>\nb. sentriol<br \/>\nc. kloroplas<br \/>\nd. rongga sel<br \/>\n7. bakteri merupakan contoh organisme prokariotik karena selnya tidak memiliki...<br \/>\na. DNA<br \/>\nb. dinding sel<br \/>\nc. lisosom<br \/>\nd. membran inti<br \/>\n8. DNA yang merupakan bahan informasi genetik terdapat di dalam...<br \/>\na. kromosom<br \/>\nb. nukleus<br \/>\nc. nukleolus<br \/>\nd. membran sel<br \/>\n9. vakuola merupakan tempat penyimpanan...<br \/>\na. oksigen<br \/>\nb. makanan<br \/>\nc. energi<br \/>\nd. pigmen<br \/>\n10. penemu dasar-dasar teori sel adalah...<br \/>\na. hooke dan schleiden<br \/>\nb. redi dan schwann<br \/>\nc. schwann dan schleiden<br \/>\nd. van leeuwenhoek dan hooke<br \/>\n11. seluruh aktivitas sel di kendalikan oleh organel...<br \/>\na. nukleus<br \/>\nb. nukleolus<br \/>\nc. sentriol<br \/>\nd. plastida<br \/>\n12. kumpulan sel bekerja sama membentuk...<br \/>\na. organel<br \/>\nd. sistem organ<br \/>\nc. jaringan<br \/>\nd. organ<br \/>\n13. epidermis merupakan jaringa yang terletak di...<br \/>\na. permukaan tubuh dan organ<br \/>\nb. permukaan luar dan dalam tubuh<br \/>\nc. permukaan dalam tubuh<br \/>\nd. permukaan luar tubuh<br \/>\n14. jaringan pengangkut padatumbuhan berupa...<br \/>\na. jaringan palisade dan bunga karang<br \/>\nb. jaringan epidermis dan endodermis<br \/>\nc. xilem dan floem<br \/>\nd. parenkima dan kolenkima<br \/>\n15. jaringan pembuluh yang mengangkut hasil fotosintesis adalah...<br \/>\na. xilem<br \/>\nb kambium<br \/>\nc. floem<br \/>\nd. nukleus<br \/>\n16. jaringan pembuluh terdiri atas...<br \/>\na. maristem dan epidermis<br \/>\nb. xilem dan floem<br \/>\nc. parenkima dan kolenkima<br \/>\nd. kolenkima dan sklerenkima<br \/>\n17. organ pernapasan pada manusia adalah...<br \/>\na. jantung<br \/>\nb. paru-paru<br \/>\nc. hati<br \/>\nd. lambung<br \/>\n18. bagian tumbuhan yang berperan sangat besar dalam memperoleh energi adalah<br \/>\na. batang<br \/>\nb. akar<br \/>\nc. daun<br \/>\nd. bunga",
+                        "created": "2016-11-29T23:29:52+07:00",
+                        "responses": 2,
+                        "tickets": 3,
+                        "first_resp": "2016-11-29T23:37:22+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "6. sel hewan berbeda dengan tumbuhan karena sel hewan memiliki...\na. membran\nb. sentriol\nc. kloroplas\nd. rongga sel\n7. bakteri merupakan contoh organisme prokariotik karena selnya tidak memiliki...\na. DNA\nb. dinding sel\nc. lisosom\nd. membran inti\n8. DNA yang merupakan bahan informasi genetik terdapat di dalam...\na. kromosom\nb. nukleus\nc. nukleolus\nd. membran sel\n9. vakuola merupakan tempat penyimpanan...\na. oksigen\nb. makanan\nc. energi\nd. pigmen\n10. <em>penemu<\/em> dasar-dasar teori sel adalah...\na. hooke dan schleiden\nb. redi dan schwann\nc. schwann dan schleiden\nd. van leeuwenhoek dan hooke\n11. seluruh aktivitas sel di kendalikan oleh organel...\na. nukleus\nb. nukleolus\nc. sentriol\nd. plastida\n12. <em>ku<\/em>mpulan sel bekerja sama membentuk...\na. organel\nd. sistem organ\nc. jaringan\nd. organ\n13. epidermis merupakan jaringa yang terletak di...\na. permukaan tubuh dan organ\nb. permukaan luar dan dalam tubuh\nc. permukaan dalam tubuh\nd. permukaan luar tubuh\n14. jaringan pengangkut padatumbuhan berupa...\na. jaringan palisade dan bunga karang\nb. jaringan epidermis dan endodermis\nc. xilem dan floem\nd. parenkima dan kolenkima\n15. jaringan pembuluh yang mengangkut hasil fotosintesis adalah...\na. xilem\nb kambium\nc. floem\nd. nukleus\n16. jaringan pembuluh terdiri atas...\na. maristem dan epidermis\nb. xilem dan floem\nc. parenkima dan kolenkima\nd. kolenkima dan sklerenkima\n17. organ pernapasan pada manusia adalah...\na. jantung\nb. paru-paru\nc. <em>hati<\/em>\nd. lambung\n18. bagian tumbuhan yang berperan sangat besar dalam memperoleh energi adalah\na. batang\nb. akar\nc. daun\nd. bunga",
+                        "snippet_content": "tempat penyimpanan...\na. oksigen\nb. makanan\nc. energi\nd. pigmen\n10. <em>penemu<\/em> dasar-dasar teori sel adalah...\na. hooke dan schleiden\nb"
+                    },
+                    "responses": [
+                        {
+                            "id": 10262955,
+                            "user_id": 1372291,
+                            "task_id": 8636870,
+                            "points": 10,
+                            "created": "2016-11-29T23:37:22+07:00",
+                            "content": "7. Membran inti\n8. Kromosom\n9. Makanan\n11. Nukleus\n12. Jaringan\n13. Permukaan luar tubuh\n14. Xilem dan floem\n15. Floem\n16. Xilem floem\n17. Paru paru\n18. Daun",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "6",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 10262970,
+                            "user_id": 4233566,
+                            "task_id": 8636870,
+                            "points": 10,
+                            "created": "2016-11-29T23:39:16+07:00",
+                            "content": "6.b<br \/>7.d<br \/>8.a<br \/>9.b<br \/>10.d<br \/>11.a<br \/>12.d<br \/>13.d<br \/>14.c<br \/>15.a<br \/>16.<br \/>17.b<br \/>18.c<br \/><br \/><br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1372291,
+                                "nick": "ridhosetiyawan3",
+                                "avatar": null
+                            },
+                            {
+                                "id": 4233566,
+                                "nick": "ElTio",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d6c\/74765dc59f7a0c32acb6614e98178412.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 1497902,
+                        "subject_id": 10,
+                        "user_id": 622170,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 20,
+                            "ptsForResp": 10,
+                            "ptsForBest": 5
+                        },
+                        "content": "1. air terjun haigara terletak di...<br \/>\n2. kuba dan hayti adalah negara yg terletak dikepulauan..<br \/>\n3. negara di kepulauan karibia yg berisi harta karun adalah negara..<br \/>\n4. bentuk pemerintahan negara amerika adalah..<br \/>\n5. penemu benua amerika adalah..<br \/>\n6. kota tertua dan terbesar di australia adalah..",
+                        "created": "2014-11-19T05:39:48+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2014-11-19T06:18:46+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "1. air terjun haigara terletak di...\n2. <em>ku<\/em>ba dan <em>hayti<\/em> adalah negara yg terletak dikepulauan..\n3. negara di kepulauan karibia yg berisi harta karun adalah negara..\n4. bentuk pemerintahan negara amerika adalah..\n5. <em>penemu<\/em> benua amerika adalah..\n6. kota tertua dan terbesar di australia adalah..",
+                        "snippet_content": "1. air terjun haigara terletak di...\n2. <em>ku<\/em>ba dan <em>hayti<\/em> adalah negara yg terletak dikepulauan..\n3. negara di kepulauan karibia yg berisi"
+                    },
+                    "responses": [
+                        {
+                            "id": 1911391,
+                            "user_id": 897713,
+                            "task_id": 1497902,
+                            "points": 10,
+                            "created": "2014-11-19T06:18:46+07:00",
+                            "content": "no.5 Christopher Columbus",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 1911429,
+                            "user_id": 883961,
+                            "task_id": 1497902,
+                            "points": 10,
+                            "created": "2014-11-19T06:28:08+07:00",
+                            "content": "6.melbourne,sydney<br \/>4.republik<br \/><br \/>maaf ya kalau kurang tepat atau salah",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 2,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 897713,
+                                "nick": "aradeakharisma1",
+                                "avatar": null
+                            },
+                            {
+                                "id": 883961,
+                                "nick": "tasykiramoza24",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dd1\/addd64abbe4a21e51556a2612369889d.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 9214588,
+                        "subject_id": 3,
+                        "user_id": 4074664,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "cari tahu penemu ilmuan mewuton,thomas fasi alva edison, aljabar , dan ibnu sina..<br \/><br \/>tolong bantu jawab donk <br \/>yng bantu aku akn jdikan dya yng terbaik....<br \/><br \/>yng baik hti tolong bantu donk.....<br \/>besok di kumpul bh ....please tolong bh....",
+                        "created": "2017-01-31T12:07:19+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-01-31T15:38:42+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "cari tahu <em>penemu<\/em> ilmuan mewuton,thomas fasi alva edison, aljabar , dan ibnu sina..tolong bantu jawab donk yng bantu aku akn jdikan dya yng terbaik....yng baik <em>hti<\/em> tolong bantu donk.....besok di <em>ku<\/em>mpul bh ....please tolong bh....",
+                        "snippet_content": "donk yng bantu aku akn jdikan dya yng terbaik....yng baik <em>hti<\/em> tolong bantu donk.....besok di <em>ku<\/em>mpul bh ....please tolong bh...."
+                    },
+                    "responses": [
+                        {
+                            "id": 11017031,
+                            "user_id": 3080448,
+                            "task_id": 9214588,
+                            "points": 5,
+                            "created": "2017-01-31T15:38:42+07:00",
+                            "content": "Isaac Newton :\u00a0Tokoh satu ini terkenal karena menemukan hukum gravitasi dan juga termasuk salah satu orang paling jenius yang ada dimuka bumi. Sir Isaac Newton adalah seorang fisikawan, matematikawan, ahli astronomi dan juga ahli kimia yang berasal dari Inggris. Ia juga ilmuwan paling besar dan paling berpengaruh yang pernah hidup di dunia, lahir di Woolsthrope, Inggris, tepat pada hari Natal tahun 1642, bertepatan tahun dengan wafatnya Galileo. Seperti halnya Nabi Muhammad, dia lahir sesudah ayahnya meninggal Beliau merupakan pengikut aliran heliosentris dan ilmuwan yang sangat berpengaruh sepanjang sejarah, bahkan dikatakan sebagai bapak ilmu fisika modern.<br \/>\u00a0Al-Khawarizmi (penemu aljabar) :\u00a0Muhammad bin Musa al-Khawarizmi lahir pada tahun 780 M di bagian Barat kota Bagdad. Selain itu beliau dikenali sebagai Abu Abdullah Muhammad bin Ahmad bin Yusoff. Al-Khawarizmi dikenal di Barat sebagai al-Khawarizmi, al-Cowarizmi, al-Ahawizmi, al-Karismi, al-Goritmi, al-Gorismi dan beberapa cara ejaan lagi .Al-Khawarizmi hidup di zaman berkembang pesatnya ilmu pengetahuan dan ekonomi. Kota Baghdad pada waktu itu merupakan sebuah kota besar yang sangat penting dan menjadi salah satu pusat peradaban, di samping ia juga menjadi tempat bertemunya para pedagang antara wilayah timur dan barat kekuasaan Islam.<br \/>Thomas Alva Edison :\u00a0Thomas Alva Edison merupakan salah satu penemu yang paling memberikan kontribusi besar bagi dunia berkat temuannya yaitu lampu pijar. Thomas Alva Edison dilahirkan di Milan, Ohio pada tanggal 11 Februari 1847. Tahun 1854 orang tuanya pindah ke Port Huron, Michigan. Edison pun tumbuh besar di sana. Sewaktu kecil Edison hanya sempat mengikuti sekolah selama 3 bulan. Gurunya memperingatkan Edison kecil bahwa ia tidak bisa belajar di sekolah sehingga akhirnya Ibunya memutuskan untuk mengajar sendiri Edison di rumah. Kebetulan ibunya berprofesi sebagai guru. Hal ini dilakukan karena ketika di sekolah Edison termasuk murid yang sering tertinggal dan ia dianggap sebagai murid yang tidak berbakat.<br \/>Ibnu Sina :\u00a0Ibnu Sina\u00a0adalah seorang ilmuwan Muslim yang terkenal di dunia. Ia seorang ilmuwan dengan pemikiran-pemikiran yang cerdas mendasari ilmu kedokteran modern. Ia banyak disebut sebagai \"Bapak Kedokteran Modern.\" George Sarton menyebutnya sebagai \"Ilmuwan Paling Terkenal dari Islam dan Salah Satu yang Paling Terkenal Pada Semua Bidang Tempat, dan Waktu\". Ia lahir pada zaman keemasan peradaban Islam, sehingga ia disebut sebagai tokoh Islam dunia.<br \/>Semoga Membantu<strong><\/strong> :)",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3080448,
+                                "nick": "Nathania111222333",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dc4\/40cc41e47e446486cc2056a570a5a78e.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 4016026,
+                        "subject_id": 3,
+                        "user_id": 2123007,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "siapa penemu kulkas dan apa maksud penggunaan dalam kehidupan sehari-hari??",
+                        "created": "2015-10-23T19:06:48+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-06-24T13:14:15+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "siapa <em>penemu<\/em> <em>ku<\/em>lkas dan apa maksud penggunaan dalam kehidupan sehari-<em>hari<\/em>??",
+                        "snippet_content": "siapa <em>penemu<\/em> <em>ku<\/em>lkas dan apa maksud penggunaan dalam kehidupan sehari-<em>hari<\/em>??"
+                    },
+                    "responses": [
+                        {
+                            "id": 13333784,
+                            "user_id": 5163981,
+                            "task_id": 4016026,
+                            "points": 5,
+                            "created": "2017-06-24T13:14:15+07:00",
+                            "content": "Lemari es (kulkas) ditemukan sekitar abad ke-18 oleh William Cullen atas asumsi bahwa pertumbuhan bakteri pada makanan\/minuman akan terhambat bila di tempat yg suhunya dingin.",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5163981,
+                                "nick": "ShanedizzySukardi",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/df0\/f6cf0186e772300867d70b58ea5297f7.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 6,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 268088,
+            "nick": "nasutiondimas",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 0,
+                "comments": 1
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 259517,
+            "nick": "deaadellia23",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 30,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 253545,
+            "nick": "cutey",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 30,
+                "answers": 67,
+                "comments": 28
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dba\/6beba5653086fa376827e8b6ad84eb92.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df9\/21df3618dca27920a963e5bac2aa9353.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dba\/6beba5653086fa376827e8b6ad84eb92.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df9\/21df3618dca27920a963e5bac2aa9353.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 1607462,
+            "nick": "Maya864",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 0,
+                "comments": 3
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc7\/779c7805f77f071bf8c0146bdbd013de.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d0b\/c390376f280bdb9683bbfb6f94135efe.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc7\/779c7805f77f071bf8c0146bdbd013de.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d0b\/c390376f280bdb9683bbfb6f94135efe.png"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 2329417,
+            "nick": "zida4",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 19,
+                "comments": 19
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dff\/5c0f74f7d4deaf91eaef6f8b12d2a85d.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d20\/1132a8fdf615b017ec26a2b3e32868c0.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dff\/5c0f74f7d4deaf91eaef6f8b12d2a85d.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d20\/1132a8fdf615b017ec26a2b3e32868c0.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 2237184,
+            "nick": "senja2",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 9,
+                "answers": 1,
+                "comments": 4
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4235304,
+            "nick": "bayudzikri1909",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d3d\/6f83166281680d1fb0a934c472b128e2.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d42\/c22466e2330632f3588f423043a3869d.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d3d\/6f83166281680d1fb0a934c472b128e2.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d42\/c22466e2330632f3588f423043a3869d.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1372291,
+            "nick": "ridhosetiyawan3",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 26,
+                "comments": 2
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 4233566,
+            "nick": "ElTio",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 39,
+                "comments": 4
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc6\/1ebc65c0c2fa06a973f00b8211b3a650.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6c\/74765dc59f7a0c32acb6614e98178412.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc6\/1ebc65c0c2fa06a973f00b8211b3a650.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6c\/74765dc59f7a0c32acb6614e98178412.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 622170,
+            "nick": "Arsa2312",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 8,
+                "answers": 16,
+                "comments": 6
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9e\/5ac94fbfe643bec963faab47221c1322.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d90\/9349ba7bd56ef043fddca4da25d45834.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9e\/5ac94fbfe643bec963faab47221c1322.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d90\/9349ba7bd56ef043fddca4da25d45834.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 897713,
+            "nick": "aradeakharisma1",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 6,
+                "comments": 3
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 883961,
+            "nick": "tasykiramoza24",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 41,
+                "comments": 20
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d3f\/c1b3b74c61d1ffb2090af9e6c0913ce6.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd1\/addd64abbe4a21e51556a2612369889d.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d3f\/c1b3b74c61d1ffb2090af9e6c0913ce6.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd1\/addd64abbe4a21e51556a2612369889d.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 4074664,
+            "nick": "faisal334",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 15,
+                "answers": 3,
+                "comments": 3
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d90\/1b09f8d570b2b0461460d5b12fe056f1.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ded\/2a9edf3be4485d7c181a570d6b566374.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d90\/1b09f8d570b2b0461460d5b12fe056f1.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ded\/2a9edf3be4485d7c181a570d6b566374.jpg"
+            },
+            "ranks": {
+                "color": "#000000",
+                "names": [],
+                "count": 0
+            },
+            "ranks_ids": null
+        },
+        {
+            "id": 3080448,
+            "nick": "Nathania111222333",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 72,
+                "answers": 59,
+                "comments": 82
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d37\/f153281751db977d2602c9c276733792.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc4\/40cc41e47e446486cc2056a570a5a78e.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d37\/f153281751db977d2602c9c276733792.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc4\/40cc41e47e446486cc2056a570a5a78e.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 2123007,
+            "nick": "nananoselalitaaliza",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d33\/78a3c7bbe907536d33a4c6df33ee615e.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d2f\/ba82cfaeb02edf23dc9d3e148d436369.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d33\/78a3c7bbe907536d33a4c6df33ee615e.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d2f\/ba82cfaeb02edf23dc9d3e148d436369.png"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 5163981,
+            "nick": "ShanedizzySukardi",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 19,
+                "answers": 169,
+                "comments": 34
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d0a\/0e8088273ddf7ae918a36800f772f061.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df0\/f6cf0186e772300867d70b58ea5297f7.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d0a\/0e8088273ddf7ae918a36800f772f061.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df0\/f6cf0186e772300867d70b58ea5297f7.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        }
+    ],
+    "validated": false
+}

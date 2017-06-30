@@ -1,0 +1,1118 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 10830092,
+                        "subject_id": 2,
+                        "user_id": 4283054,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Irfan mengamati sebuah menara dengan sudut pandang ke puncak menara 30\u00b0 kemudian Irfan mengamati lebih dekat lagi dengan berjalan 10 kaki mendekati menara sehingga sudut pandang menjadi 45\u00b0. Hitung jarak posisi pertama Irfan sampai ke puncak menara?",
+                        "created": "2017-05-30T21:04:39+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-05-30T21:39:08+07:00",
+                        "the_best_resp_id": "13155910",
+                        "source": "10",
+                        "client_type": "6",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "<em>Irfan<\/em> mengamati sebuah menara dengan sudut pandang ke puncak menara 30\u00b0 kemudian <em>Irfan<\/em> mengamati lebih dekat lagi dengan berjalan 10 kaki mendekati menara sehingga sudut pandang menjadi 45\u00b0. Hitung jarak posisi <em>pertama<\/em> <em>Irfan<\/em> sampai ke puncak menara?",
+                        "snippet_content": "dekat lagi dengan berjalan 10 kaki mendekati menara sehingga sudut pandang menjadi 45\u00b0. Hitung jarak posisi <em>pertama<\/em> <em>Irfan<\/em> sampai ke puncak menara?"
+                    },
+                    "responses": [
+                        {
+                            "id": 13155910,
+                            "user_id": 611095,
+                            "task_id": 10830092,
+                            "points": 5,
+                            "created": "2017-05-30T21:39:08+07:00",
+                            "content": "Ilustrasi terlampir,<br \/><br \/>Terbentuk segitiga siku-siku ABC dan ABD dengan informasi yang tersedia,<br \/><br \/>Berdasarkan hubungan sudut (trigonometri), diperoleh:<br \/><br \/>Pada segitiga ABC,<br \/>tan 30\u00b0 = AB\/BC<br \/>1\/3\u00a0\u221a3 = h\/(BD+10)<br \/>Diperoleh:<br \/>h = 1\/3\u00a0\u221a3 (BD+10) ... (1)<br \/><br \/>Pada segitiga ABD,<br \/>tan 45\u00b0 = AB\/BD<br \/>1 = h\/BD<br \/>h = BD ... (2)<br \/><br \/>Substitusi (1) dan (2), diperoleh persamaan:<br \/>BD = 1\/3\u00a0\u221a3 (BD+10)<br \/>BD\u221a3 = BD + 10<br \/>BD(\u221a3 - 1) = 10<br \/>BD = 10\/(\u221a3 - 1)<br \/>Selesaikan dengan rasionalisasi, diperoleh:<br \/>BD = 5(\u221a3 + 1) cm<br \/><br \/>Dari hasil tersebut, dapat ditentukan nilai x dengan menggunakan dalil pythagoras:<br \/>AC\u00b2 = AB\u00b2 + BC\u00b2<br \/>AC\u00b2 = AB\u00b2 + (BD + DC)\u00b2<br \/>AC\u00b2 = h\u00b2 + (5(\u221a3+1) + 10)\u00b2<br \/>Dari h = BD = 5(\u221a3 + 1), diperoleh:<br \/>AC\u00b2 = 25(4 + 2\u221a3) + 25(12 + 6\u221a3)<br \/>AC\u00b2 = 100(4 + 2\u221a3)<br \/>AC =\u00a0\u221a(100(4 + 2\u221a3))<br \/>AC = 10\u221a(4 + 2\u221a3)<br \/>Menggunakan dekomposisi akar:<br \/>\u221a((a+b) + 2\u221aab) =\u00a0\u221aa +\u00a0\u221ab, dengan a = 3 dan b = 1, diperoleh:<br \/><br \/>AC = 10(\u221a3 +\u00a0\u221a1)<br \/>AC = 10(1 +\u00a0\u221a3) meter<br \/><br \/>Maka jarak posisinya tersebut adalah 10(1 +\u00a0\u221a3) meter.",
+                            "mark": 5,
+                            "marks_count": 2,
+                            "thanks": 2,
+                            "user_best_rank_id": 7,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [
+                                {
+                                    "full": "https:\/\/id-static.z-dn.net\/files\/d97\/fe79a5a2da4827e0adae61ca3c294de9.png",
+                                    "thumbnail": "https:\/\/id-static.z-dn.net\/files\/dea\/b6be5e42a0df5afdea9a4068c849d2f8.png",
+                                    "type": "image\/png",
+                                    "size": 3725,
+                                    "hash": "fe79a5a2da4827e0adae61ca3c294de9",
+                                    "id": 5303162,
+                                    "extension": "png"
+                                }
+                            ],
+                            "approved": {
+                                "date": "2017-05-30T21:46:20+07:00",
+                                "approver": {
+                                    "id": 4471599,
+                                    "nickname": "ArZain",
+                                    "points": 29655,
+                                    "grade": 1,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/df9\/5a8f66768c5589b9c3329b7c1681aa58.jpg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/d12\/5e41d9bed1c042b453a1bc53b8f7ae60.jpg"
+                                    },
+                                    "content_approved_count": 1796
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 611095,
+                                "nick": "Takamori37",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d2c\/5d62c191cc90ecb74d3520cdb97bc220.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10588934,
+                        "subject_id": 9,
+                        "user_id": 4135646,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "11 Masalah Irian Barat akan diselesaikan selambat-lambatnya satu tahun setelah pengakuan kedaulatan. Ini hasil keputusan \u2026<br \/>\na. Konferensi Meja Bundar<br \/>\nb. Perundingan Linggajati<br \/>\nc. Perundingan Renville<br \/>\nd. Perundingan Roem-Royen<br \/><br \/>\n12. Belanda dengan persetujuan parlemennya pada tahun 1952 memasukkan Irian Barat sebagai bagian Kerajaan Belanda. Sikap ini menunjukkan bahwa \u2026<br \/>\na. Belanda memberi kebebasan kepada Rakyat Irian Barat<br \/>\nb. Belanda ingin tetap menguasai wilayah Irian Barat<br \/>\nc. Belanda mementingkan nasib rakyat Indonesia<br \/>\nd. Belanda memikirkan nasib rakyat Irian Barat<br \/><br \/>\nContoh Soal Ulangan Harian dan Jawaban IPS Materi Perjuangan Bangsa Indonesia Merebut Irian Barat<br \/><br \/>\n13. Sikap keras pemerintah RI terhadap pemerintah Belanda, seperti \u2026<br \/>\na. Bersedia melakukan diplomasi dengan Belanda<br \/>\nb. Upaya damai lewat forum PBB<br \/>\nc. Membatalkan hasil KMB<br \/>\nd. Pembubaran Uni Indonesia-Belanda<br \/><br \/>\n14. Gubernur Irian Barat pertama yang dilantik pada tanggal 23 September 1956 \u2026<br \/>\na. GSSJ. Ratulangie<br \/>\nb. J. Latuharhary<br \/>\nc. Fredi Numberi<br \/>\nd. ZainalAbidin Syah<br \/><br \/>\n15. Pemerintah Indonesia dalam upaya merebut kembali Irian Barat melalui perundingan dengan Belanda tidak berhasil, maka ditempuh dengan \u2026<br \/>\na. Membawa masalah Irian Barat ke sidang PBB<br \/>\nb. Membawa masalah Irian Barat ke Liga Bangsa-bangsa<br \/>\nc. Memutuskan hubungan diplomatik dengan Belanda<br \/>\nd. Membatalkan hasil Konferensi Meja Bundar<br \/><br \/>\n16. Kepala Staf Komando Tertinggi Pembebasan Irian Barat dijabat oleh\u2026<br \/>\na. Ir. Soekarno<br \/>\nb. Mayjen. Ahmad Yani<br \/>\nc. Jendral AH. Nasution<br \/>\nd. Mayjen Soeharto<br \/><br \/>\n17. Sesuai Rencana Bunker Maret 1962, pemerintahan Irian Barat harus diserahkan kepada RI melalui badan PBB yang disebut \u2026<br \/>\na. UNTEA c. UNESCO<br \/>\nb. UNCI d. UNHCR<br \/><br \/>\n18. Untuk menjamin keamanan di wilayah Irian Barat dibentuk pasukan keamanan PBB yaitu \u2026<br \/>\na. UNCI c. UNSF<br \/>\nb. UNHCR d. UNTEA<br \/><br \/>\n19. Peraturan pemerintah RI No. 23 Tahun 1958 berisi tentang \u2026<br \/>\na. Pengambilalihan perusahaan-perusahaan milik Belanda<br \/>\nb. Penanaman modal asing<br \/>\nc. Penanaman saham bagi rakyat pribumi<br \/>\nd. Pendirian pabrik-pabrik oleh swasta asing<br \/><br \/>\n20. Berikut ini isi Tri Komando Rakyat, kecuali \u2026<br \/>\na. Kibarkan Sang Merah Putih di Irian Barat TanahAir Indonesia<br \/>\nb. Gagalkan pembentukan negara Papua bantuan Belanda<br \/>\nc. Perhebat ketahanan revolusi Indonesia<br \/>\nd. Bersiaplah untuk mobilisasi umum mempertahankan kemerdekaan dan kesatuan Tanah Air dan Bangsa.",
+                        "created": "2017-05-09T20:19:57+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2017-05-09T20:24:05+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "11 Masalah <em>Irian<\/em> Barat akan diselesaikan selambat-lambatnya satu tahun setelah pengakuan kedaulatan. Ini hasil keputusan \u2026\na. Konferensi Meja Bundar\nb. Perundingan Linggajati\nc. Perundingan Renville\nd. Perundingan Roem-Royen\n12. Belanda dengan persetujuan parlemennya pada tahun 1952 memasukkan <em>Irian<\/em> Barat sebagai bagian Kerajaan Belanda. Sikap ini menunjukkan bahwa \u2026\na. Belanda memberi kebebasan kepada Rakyat <em>Irian<\/em> Barat\nb. Belanda ingin tetap menguasai wilayah <em>Irian<\/em> Barat\nc. Belanda mementingkan nasib rakyat Indonesia\nd. Belanda memikirkan nasib rakyat <em>Irian<\/em> Barat\nContoh Soal Ulangan Harian dan Jawaban IPS Materi Perjuangan Bangsa Indonesia Merebut <em>Irian<\/em> Barat\n13. Sikap keras pemerintah RI terhadap pemerintah Belanda, seperti \u2026\na. Bersedia melakukan diplomasi dengan Belanda\nb. Upaya damai lewat forum PBB\nc. Membatalkan hasil KMB\nd. Pembubaran Uni Indonesia-Belanda\n14. Gubernur <em>Irian<\/em> Barat <em>pertama<\/em> yang dilantik pada tanggal 23 September 1956 \u2026\na. GSSJ. Ratulangie\nb. J. Latuharhary\nc. Fredi Numberi\nd. ZainalAbidin Syah\n15. Pemerintah Indonesia dalam upaya merebut kembali <em>Irian<\/em> Barat melalui perundingan dengan Belanda tidak berhasil, maka ditempuh dengan \u2026\na. Membawa masalah <em>Irian<\/em> Barat ke sidang PBB\nb. Membawa masalah <em>Irian<\/em> Barat ke Liga Bangsa-bangsa\nc. Memutuskan hubungan diplomatik dengan Belanda\nd. Membatalkan hasil Konferensi Meja Bundar\n16. Kepala Staf Komando Tertinggi Pembebasan <em>Irian<\/em> Barat dijabat oleh\u2026\na. Ir. Soekarno\nb. Mayjen. Ahmad Yani\nc. Jendral AH. Nasution\nd. Mayjen Soeharto\n17. Sesuai Rencana Bunker Maret 1962, pemerintahan <em>Irian<\/em> Barat harus diserahkan kepada RI melalui badan PBB yang disebut \u2026\na. UNTEA c. UNESCO\nb. UNCI d. UNHCR\n18. Untuk menjamin keamanan di wilayah <em>Irian<\/em> Barat dibentuk pasukan keamanan PBB yaitu \u2026\na. UNCI c. UNSF\nb. UNHCR d. UNTEA\n19. Peraturan pemerintah RI No. 23 Tahun 1958 berisi tentang \u2026\na. Pengambilalihan perusahaan-perusahaan milik Belanda\nb. Penanaman modal asing\nc. Penanaman saham bagi rakyat pribumi\nd. Pendirian pabrik-pabrik oleh swasta asing\n20. Berikut ini isi Tri Komando Rakyat, kecuali \u2026\na. Kibarkan Sang Merah Putih di <em>Irian<\/em> Barat TanahAir Indonesia\nb. Gagalkan pembentukan negara Papua bantuan Belanda\nc. Perhebat ketahanan revolusi Indonesia\nd. Bersiaplah untuk mobilisasi umum mempertahankan kemerdekaan dan kesatuan Tanah Air dan Bangsa.",
+                        "snippet_content": "c. Membatalkan hasil KMB\nd. Pembubaran Uni Indonesia-Belanda\n14. Gubernur <em>Irian<\/em> Barat <em>pertama<\/em> yang dilantik pada tanggal 23 September 1956 \u2026\na"
+                    },
+                    "responses": [
+                        {
+                            "id": 12818477,
+                            "user_id": 4980131,
+                            "task_id": 10588934,
+                            "points": 5,
+                            "created": "2017-05-09T20:24:05+07:00",
+                            "content": "11.A<br \/>12.B<br \/>13.<br \/>14.D<br \/>15.A<br \/>16.D<br \/>17.A<br \/>18.C<br \/>19.A<br \/>20.C<br \/>Maaf no 13 saya masih ragu",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 7021864,
+                                        "user_id": 4980131,
+                                        "content": "Apanya?",
+                                        "created": "2017-05-09T20:24:52+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 7021870,
+                                        "user_id": 4905416,
+                                        "content": "no 13 saya masih ragu",
+                                        "created": "2017-05-09T20:25:05+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 7021888,
+                                        "user_id": 4905416,
+                                        "content": "13.",
+                                        "created": "2017-05-09T20:25:34+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 7021929,
+                                        "user_id": 4980131,
+                                        "content": "Iya masih ragu",
+                                        "created": "2017-05-09T20:26:58+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 7022090,
+                                        "user_id": 4135646,
+                                        "content": "jawaban nya d",
+                                        "created": "2017-05-09T20:31:26+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 7021864,
+                                "count": 6
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4980131,
+                                "nick": "Tedjahardja",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d98\/0489ad34d3f5487b836dbc4ceca9d3fb.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10885673,
+                        "subject_id": 10,
+                        "user_id": 4542593,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "1)...salah satu jenis angin fohn di indonesia adalah angin gending yang bertiup di wilayah?...<br \/>a).cirebon, jawa barat<br \/>b).pesuruan, jawa timur<br \/>c). deli, sumut<br \/>d). biak, irian jaya<br \/><br \/>2)..kerajaan islam pertama di indonesia adalah?..",
+                        "created": "2017-06-05T16:17:48+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2017-06-05T16:19:02+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "1)...salah satu jenis angin fohn di indonesia adalah angin gending yang bertiup di wilayah?...a).cirebon, jawa baratb).pesuruan, jawa timurc). deli, sumutd). biak, <em>irian<\/em> jaya2)..kerajaan islam <em>pertama<\/em> di indonesia adalah?..",
+                        "snippet_content": "yang bertiup di wilayah?...a).cirebon, jawa baratb).pesuruan, jawa timurc). deli, sumutd). biak, <em>irian<\/em> jaya2)..kerajaan islam <em>pertama<\/em> di indonesia adalah?.."
+                    },
+                    "responses": [
+                        {
+                            "id": 13230555,
+                            "user_id": 4998089,
+                            "task_id": 10885673,
+                            "points": 5,
+                            "created": "2017-06-05T16:19:02+07:00",
+                            "content": "2.kerajaan samudra pasai ",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 13230559,
+                            "user_id": 5068478,
+                            "task_id": 10885673,
+                            "points": 5,
+                            "created": "2017-06-05T16:19:39+07:00",
+                            "content": "1.b. Pasuruan, Jawa Timur <br \/>2.kerajaan samudra pasai",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4998089,
+                                "nick": "andearareichaa",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d6e\/4f76f0c364e3be3b4b6c6a73af099061.jpg"
+                            },
+                            {
+                                "id": 5068478,
+                                "nick": "Yunita0306",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dd3\/131d4fbd5101b3ea16466768c57b6cf6.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10652969,
+                        "subject_id": 10,
+                        "user_id": 4992911,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Negara yg pertama kali mengakui kemerdekaan indonesia adalah...<br \/>\nA.arab saudi dan mesir<br \/>\nB.amerika dan malaysia <br \/>\nC.irak dan iran <br \/>\nD.mesir dan jepang ",
+                        "created": "2017-05-15T15:56:46+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-05-15T15:57:30+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Negara yg <em>pertama<\/em> kali mengakui kemerdekaan indonesia adalah...\nA.arab saudi dan mesir\nB.amerika dan malaysia \nC.irak dan <em>iran<\/em> \nD.mesir dan jepang ",
+                        "snippet_content": "Negara yg <em>pertama<\/em> kali mengakui kemerdekaan indonesia adalah...\nA.arab saudi dan mesir\nB.amerika dan malaysia \nC.irak dan <em>iran<\/em> \nD"
+                    },
+                    "responses": [
+                        {
+                            "id": 12907839,
+                            "user_id": 5039636,
+                            "task_id": 10652969,
+                            "points": 5,
+                            "created": "2017-05-15T15:57:30+07:00",
+                            "content": "A Arab Sauidi dan Mesir",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2017-05-15T17:33:45+07:00",
+                                "approver": {
+                                    "id": 769860,
+                                    "nickname": "FinandaAzzahra",
+                                    "points": 229259,
+                                    "grade": 3,
+                                    "gender": 1,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/d0c\/6ee04d2ff577ac4bf43151589bf9b495.jpg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/d97\/12b9ab0379cd174d2da341b2a25835ee.jpg"
+                                    },
+                                    "content_approved_count": 15367
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5039636,
+                                "nick": "Yogaars",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d65\/90961298cc17d5df921143987da5e1ba.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10768608,
+                        "subject_id": 8,
+                        "user_id": 5060440,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "wilayah brkas jajahan belanda yang akan dirundinkan setahun setelah pengakuan kedaluatan indinesia olrh belanda adalah<br \/>a.sumattraa barat<br \/>b.sulawesi barat c.irian barat soal2.untuk mengawasi agresi militer belanda pertama,PBB membentuk a.ktn b.ppki c.bpupki d.tim sembilan ",
+                        "created": "2017-05-23T20:49:10+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-05-23T20:51:25+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "wilayah brkas jajahan belanda yang akan dirundinkan setahun setelah pengakuan kedaluatan indinesia olrh belanda adalaha.sumattraa baratb.sulawesi barat c.<em>irian<\/em> barat soal2.untuk mengawasi agresi militer belanda <em>pertama<\/em>,PBB membentuk a.ktn b.ppki c.bpupki d.tim sembilan ",
+                        "snippet_content": "pengakuan kedaluatan indinesia olrh belanda adalaha.sumattraa baratb.sulawesi barat c.<em>irian<\/em> barat soal2.untuk mengawasi agresi militer belanda <em>pertama<\/em>,PBB membentuk"
+                    },
+                    "responses": [
+                        {
+                            "id": 13062918,
+                            "user_id": 1408105,
+                            "task_id": 10768608,
+                            "points": 5,
+                            "created": "2017-05-23T20:51:25+07:00",
+                            "content": "jawabannya adalah 1. Irian Barat<br \/>2. KTN <br \/><br \/>semoga membantu:)",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1408105,
+                                "nick": "argiitaa",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d67\/00c6f408262e171edba343eb8dd849ec.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10841726,
+                        "subject_id": 3,
+                        "user_id": 5112016,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 54,
+                            "ptsForResp": 27,
+                            "ptsForBest": 14
+                        },
+                        "content": "TOLONG DONG, BUAT MATERI UAS<br \/>\n1. linggarjati dipimpin oleh(pihak belanda)  <br \/>\n2. alasan sultan syahrir menyetujui berubahnya sistem pemerintahan dari presidensial ke parlemter adalah... <br \/>\n3. tujuan belanda membentuk negara pasundan pada tanggal 4 mei 1947 <br \/>\n4. isi ultimatum agresi militer 1<br \/>\n5. upaya yang dilakukan indonesia belanda untuk menghentikan agresi militer 1 6. dibentuknya pemerintahan darurat RI di sumatra karna... <br \/>\n7. peristiwa serangan umum 1 maret di jogjakarta merupakan pembuktian bahwa... <br \/>\n8. perundingan yang dilakukan setelah agresi militer 2 sebagai upaya meyelesaikan konflik pengakuan kedaulatan indonesia adalah perundingan apa? 9. belanda mengakui kedaulatan RIS dan masalah irian barat akan diselesaikan setahun setelah pengakuan kedaulatan. ini merupakan hasil dari... <br \/>\n10. konflik indonesia belanda 1945-1949(perjuangan mepertahankan kemerdekaan) dengan mengangkat senjata padatahun 1949 dikenal dengan periode apa? <br \/>\n11. panglima sekutu di surabaya yang mengeluarkan serangan ultimatum kepada rakyat jatim adalah? <br \/>\n12. setelah soekarno meninggalkan surabaya terjadi konflik. panglima sekutu di surabaya yang mengeluarkan serangan ultimatum kepada rakyat jatim adalah? 13. bentrokan pertama kali pada peristiwa pertempuran medan area terjadi pada tanggal? <br \/>\n14. dalam peristiwa pertempuran bersenjata di sulawasi pada tanggal 28 feb 1947 salah satu pimpinan perjuangan yang tewas? <br \/>\n15. salah satu pahlawan nasional yang berhasil ditanggkap dan dihukum mati oleh belanda pada peristiwa pertempuran bersenjata di sulawesi <br \/>\n16. pada tanggal 18 oktober 1945 penjajah memberikan ultimatum agar pemuda medan menyerahkan senjatanya kepada sekutu yang di pimpin oleh?",
+                        "created": "2017-06-01T09:28:52+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-06-01T09:34:11+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "TOLONG DONG, BUAT MATERI UAS\n1. linggarjati dipimpin oleh(pihak belanda)  \n2. alasan sultan syahrir menyetujui berubahnya sistem pemerintahan dari presidensial ke parlemter adalah... \n3. tujuan belanda membentuk negara pasundan pada tanggal 4 mei 1947 \n4. isi ultimatum agresi militer 1\n5. upaya yang dilakukan indonesia belanda untuk menghentikan agresi militer 1 6. dibentuknya pemerintahan darurat RI di sumatra karna... \n7. peristiwa serangan umum 1 maret di jogjakarta merupakan pembuktian bahwa... \n8. perundingan yang dilakukan setelah agresi militer 2 sebagai upaya meyelesaikan konflik pengakuan kedaulatan indonesia adalah perundingan apa? 9. belanda mengakui kedaulatan RIS dan masalah <em>irian<\/em> barat akan diselesaikan setahun setelah pengakuan kedaulatan. ini merupakan hasil dari... \n10. konflik indonesia belanda 1945-1949(perjuangan mepertahankan kemerdekaan) dengan mengangkat senjata padatahun 1949 dikenal dengan periode apa? \n11. panglima sekutu di surabaya yang mengeluarkan serangan ultimatum kepada rakyat jatim adalah? \n12. setelah soekarno meninggalkan surabaya terjadi konflik. panglima sekutu di surabaya yang mengeluarkan serangan ultimatum kepada rakyat jatim adalah? 13. bentrokan <em>pertama<\/em> kali pada peristiwa pertempuran medan area terjadi pada tanggal? \n14. dalam peristiwa pertempuran bersenjata di sulawasi pada tanggal 28 feb 1947 salah satu pimpinan perjuangan yang tewas? \n15. salah satu pahlawan nasional yang berhasil ditanggkap dan dihukum mati oleh belanda pada peristiwa pertempuran bersenjata di sulawesi \n16. pada tanggal 18 oktober 1945 penjajah memberikan ultimatum agar pemuda medan menyerahkan senjatanya kepada sekutu yang di pimpin oleh?",
+                        "snippet_content": "indonesia adalah perundingan apa? 9. belanda mengakui kedaulatan RIS dan masalah <em>irian<\/em> barat akan diselesaikan setahun setelah pengakuan kedaulatan. ini merupakan hasil"
+                    },
+                    "responses": [
+                        {
+                            "id": 13171887,
+                            "user_id": 4374399,
+                            "task_id": 10841726,
+                            "points": 27,
+                            "created": "2017-06-01T09:34:11+07:00",
+                            "content": "4. A. Membentuk pemerintahan ad interim bersama.<br \/>B. Mengeluarkan uang bersama dan mendirikan lembaga devisa bersama.<br \/>C. Republik Indonesia harus mengirimkan beras untuk rakyat di daerah daerah yang diduduki Belanda<br \/>D. Menyelenggarakan keamanan dan ketertiban bersama, termasuk daerah-daerah Republik Indonesia yang memerlukan bantuan Belanda (gendarmerie bersama)<br \/>E. Menyelenggarakan pemilikan bersama atas impor dan ekpor.",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 2,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "6",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4374399,
+                                "nick": "ameliasandi22",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dc8\/807c8ab8e72a78d22ba173cd8a95cc6a.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 6,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 4283054,
+            "nick": "LouiseTantri2008",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 23,
+                "answers": 14,
+                "comments": 8
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/ddf\/a3ed887a71188fed0e74c46899ee4caa.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d90\/ee1974fa59687069fcdbd42fd02ff7e4.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/ddf\/a3ed887a71188fed0e74c46899ee4caa.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d90\/ee1974fa59687069fcdbd42fd02ff7e4.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 611095,
+            "nick": "Takamori37",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 20,
+                "answers": 9443,
+                "comments": 4602
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d85\/057868ee8bbc3520014722751c71994f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d2c\/5d62c191cc90ecb74d3520cdb97bc220.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d85\/057868ee8bbc3520014722751c71994f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d2c\/5d62c191cc90ecb74d3520cdb97bc220.jpg"
+            },
+            "ranks": {
+                "color": "#ffbe32",
+                "names": [
+                    "Guru",
+                    "BrainlyDoctor",
+                    "BrainlyElite",
+                    "BrainlyTeacher",
+                    "Moderator",
+                    "Jenius"
+                ],
+                "count": 6
+            },
+            "ranks_ids": [
+                12,
+                32,
+                27,
+                91,
+                19,
+                7
+            ]
+        },
+        {
+            "id": 4135646,
+            "nick": "rafi7799",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 18,
+                "answers": 106,
+                "comments": 159
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d85\/5668c63e80cf952c889e8dac1d6a173a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d03\/d2302dc864947371f43032164ba51bce.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d85\/5668c63e80cf952c889e8dac1d6a173a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d03\/d2302dc864947371f43032164ba51bce.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 4980131,
+            "nick": "Tedjahardja",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 14,
+                "answers": 1036,
+                "comments": 504
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/ddd\/7ecdd2fbe5709dcc23ab6d6dba75e982.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d98\/0489ad34d3f5487b836dbc4ceca9d3fb.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/ddd\/7ecdd2fbe5709dcc23ab6d6dba75e982.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d98\/0489ad34d3f5487b836dbc4ceca9d3fb.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "BrainlyElite",
+                    "Spam Fighter ",
+                    "Apprentice",
+                    "Si Hebat"
+                ],
+                "count": 4
+            },
+            "ranks_ids": [
+                27,
+                17,
+                20,
+                6
+            ]
+        },
+        {
+            "id": 4905416,
+            "nick": "super7799",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 1,
+                "comments": 8
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4542593,
+            "nick": "faizyal",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 15,
+                "answers": 1,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d71\/88b77ec1714261981cbcc0d935fdb3e9.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7c\/ca97ad15de337cf27146a22320dcca76.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d71\/88b77ec1714261981cbcc0d935fdb3e9.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7c\/ca97ad15de337cf27146a22320dcca76.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4998089,
+            "nick": "andearareichaa",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 12,
+                "answers": 31,
+                "comments": 15
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d7b\/c9b725f241c29ba1987b9d5413fedccf.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6e\/4f76f0c364e3be3b4b6c6a73af099061.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d7b\/c9b725f241c29ba1987b9d5413fedccf.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6e\/4f76f0c364e3be3b4b6c6a73af099061.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 5068478,
+            "nick": "Yunita0306",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 507,
+                "comments": 144
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd6\/236d1110292cb68ced55220b44e41570.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd3\/131d4fbd5101b3ea16466768c57b6cf6.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd6\/236d1110292cb68ced55220b44e41570.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd3\/131d4fbd5101b3ea16466768c57b6cf6.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        },
+        {
+            "id": 4992911,
+            "nick": "rasminrami123",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 5039636,
+            "nick": "Yogaars",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 6,
+                "answers": 26,
+                "comments": 6
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de3\/9b2e9eb08151633a84b891193f592e68.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d65\/90961298cc17d5df921143987da5e1ba.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de3\/9b2e9eb08151633a84b891193f592e68.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d65\/90961298cc17d5df921143987da5e1ba.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 5060440,
+            "nick": "jemila",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 1,
+                "comments": 1
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de1\/886e6fa01ad7e12f21e557c59f76026f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d88\/56488856241058e05aa3fca56b53ad44.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de1\/886e6fa01ad7e12f21e557c59f76026f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d88\/56488856241058e05aa3fca56b53ad44.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1408105,
+            "nick": "argiitaa",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 1037,
+                "comments": 244
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d36\/24334468d3f8360e9949df9c11de26df.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d67\/00c6f408262e171edba343eb8dd849ec.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d36\/24334468d3f8360e9949df9c11de26df.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d67\/00c6f408262e171edba343eb8dd849ec.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        },
+        {
+            "id": 5112016,
+            "nick": "RUQUERS",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 11,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4374399,
+            "nick": "ameliasandi22",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 62,
+                "comments": 6
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df3\/03ffd37f47df33055da2a3dc023ded82.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc8\/807c8ab8e72a78d22ba173cd8a95cc6a.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df3\/03ffd37f47df33055da2a3dc023ded82.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc8\/807c8ab8e72a78d22ba173cd8a95cc6a.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        }
+    ],
+    "validated": false
+}

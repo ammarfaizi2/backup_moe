@@ -1,0 +1,297 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 1137644,
+                        "subject_id": 5,
+                        "user_id": 711780,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "tolong di jawab<br \/>\n1. toni......to swim and he.....to swimming pool everyweek<br \/>\na.like-go<br \/>\nb.likes-goes<br \/>\nc.liked-went<br \/>\nd.likes-went<br \/>\n2.wulan and tetra .......... fried chiken every week<br \/>\na.cooking<br \/>\nb.cook<br \/>\nc.cooks<br \/>\nd.cooked<br \/>\n3.did tian and arie .....to song together?<br \/>\na.cuts <br \/>\nb.cut<br \/>\nc.cutting<br \/>\nd.cutted<br \/>\n4.all the 9th students of SMP tunas pased the final exam , next week they will hold<br \/>\na.anniversary party<br \/>\nb.garden party<br \/>\nc.wedding party<br \/>\nd.farewell party<br \/>\n5. bowo:.......your voice is so beautiful<br \/>\nmira: thank you very much<br \/>\nthe appropriate response for dialogue above is .....<br \/>\na. marvelous<br \/>\nb. thank you<br \/>\nc. you're welcome<br \/>\nd.don't mention it<br \/>\n6.complete this letter .<br \/>\njalan sriwijaya 2 .<br \/>\nsemarang 30th july<br \/>\ndear miss dewi ,<br \/>\nselina wasn't at school yesterday , because she was at the dentist . she had a tootache .<br \/>\nplease forgive her for not joining the class .<br \/>\na. from me<br \/>\nb.it's me<br \/>\nc.the writer<br \/>\nd.your sincerely<br \/>\n7. dina:deno told that you go the best mark for english ,it is righ<br \/>\nagung:yeah,you're right<br \/>\ndina:......<br \/>\nagung:i wiil<br \/>\na.happy new year<br \/>\nb.what  nice day<br \/>\nc.thank<br \/>\nd.keep up the good work<br \/>\nmaksih<br \/>",
+                        "created": "2014-10-19T21:35:24+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2014-10-19T21:37:04+07:00",
+                        "the_best_resp_id": "1469979",
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "tolong di jawab\n1. toni......to swim and he.....to swimming pool everyweek\na.like-go\nb.likes-goes\nc.liked-went\nd.likes-went\n2.wulan and tetra .......... fried chiken every week\na.cooking\nb.cook\nc.cooks\nd.cooked\n3.did <em>tian<\/em> and arie .....to song together?\na.cuts \nb.cut\nc.cutting\nd.cutted\n4.all the 9th students of SMP tunas pased the final exam , next week they will hold\na.anniversary party\nb.garden party\n<em>c.we<\/em>dding party\nd.farewell party\n5. <em>bowo<\/em>:.......your voice is so beautiful\nmira: thank you very much\nthe appropriate response for dialogue above is .....\na. marvelous\nb. thank you\nc. you're welcome\nd.don't mention it\n6.complete this letter .\njalan sriwijaya 2 .\nsemarang 30th july\ndear miss dewi ,\nselina wasn't at school yesterday , because she was at the dentist . she had a tootache .\nplease forgive her for not joining the class .\na. from me\nb.it's me\nc.the writer\nd.your sincerely\n7. dina:deno told that you go the best mark for english ,it is righ\nagung:yeah,you're right\ndina:......\nagung:i wiil\na.happy new year\nb.what  nice day\nc.thank\nd.keep up the good work\nmaksih",
+                        "snippet_content": "next week they will hold\na.anniversary party\nb.garden party\n<em>c.we<\/em>dding party\nd.farewell party\n5. <em>bowo<\/em>:.......your voice is"
+                    },
+                    "responses": [
+                        {
+                            "id": 1469965,
+                            "user_id": 712231,
+                            "task_id": 1137644,
+                            "points": 5,
+                            "created": "2014-10-19T21:37:04+07:00",
+                            "content": "1.a<br \/>2. d<br \/>3.c<br \/>4.a<br \/>5. b<br \/>6. a<br \/>7.a<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 1027976,
+                                        "user_id": 711780,
+                                        "content": "makasih",
+                                        "created": "2014-10-19T22:35:29+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        },
+                        {
+                            "id": 1469979,
+                            "user_id": 286512,
+                            "task_id": 1137644,
+                            "points": 5,
+                            "created": "2014-10-19T21:37:46+07:00",
+                            "content": "1. B <br \/>2. B <br \/>3. B <br \/>4. D <br \/>5. A <br \/>6. D <br \/>7. D ",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 3,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 1028131,
+                                        "user_id": 286512,
+                                        "content": "b. didn't know",
+                                        "created": "2014-10-19T23:06:25+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 1028146,
+                                        "user_id": 711780,
+                                        "content": "maaf kurang jelas,,,,no 1,2,dan 3 gmana y?",
+                                        "created": "2014-10-19T23:09:45+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 1028150,
+                                        "user_id": 286512,
+                                        "content": "no 1 jwbannya B.don't mention it.  yg no 2 jwbannya B.would you come to my party?  . yg no 3 jwabanya B. didn't know",
+                                        "created": "2014-10-19T23:11:32+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 1028152,
+                                        "user_id": 711780,
+                                        "content": "makasih banyak ya,,,,makasih banget :)",
+                                        "created": "2014-10-19T23:12:12+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 1028156,
+                                        "user_id": 286512,
+                                        "content": "iya sama-sama :)",
+                                        "created": "2014-10-19T23:12:47+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 1028131,
+                                "count": 19
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 712231,
+                                "nick": "Nada9",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d8e\/9d685c6fbaa65e7cdc8e637d6d686452.png"
+                            },
+                            {
+                                "id": 286512,
+                                "nick": "Fulvia",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d99\/7cd924cde22b694b733ae561a10d0f55.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 1,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 711780,
+            "nick": "fitriamelhani2",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 6,
+                "answers": 0,
+                "comments": 11
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 712231,
+            "nick": "Nada9",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 45,
+                "comments": 10
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d37\/214360cbb1b447820d215811785d263e.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d8e\/9d685c6fbaa65e7cdc8e637d6d686452.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d37\/214360cbb1b447820d215811785d263e.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d8e\/9d685c6fbaa65e7cdc8e637d6d686452.png"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 286512,
+            "nick": "Fulvia",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 59,
+                "answers": 63,
+                "comments": 50
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9b\/f119af0a70f8db0d573b11d850972c74.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d99\/7cd924cde22b694b733ae561a10d0f55.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9b\/f119af0a70f8db0d573b11d850972c74.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d99\/7cd924cde22b694b733ae561a10d0f55.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        }
+    ],
+    "validated": false
+}

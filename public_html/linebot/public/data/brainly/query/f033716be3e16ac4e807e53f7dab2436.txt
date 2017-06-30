@@ -1,0 +1,756 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 6145384,
+                        "subject_id": 5,
+                        "user_id": 2946975,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 50,
+                            "ptsForResp": 25,
+                            "ptsForBest": 13
+                        },
+                        "content": "teman teman mohon bantuan nya dong buatkan saya surat untuk sahabat pena dalam bahasa inggris dan isinya tentang awal perkenalan diri untuk berteman, ini daftar yang diri saya:<br \/><br \/>\nnama= muhammad zulfikar harahap<br \/>\nalamat= jalan kalpataru gang marto no 82.c<br \/>\nkota= medan,sumatera utara<br \/>\nhobi= maen bola kaki<br \/>\nyang tidak disukai=di kasari<br \/>\nsekolah= smkn 10 medan, sumut<br \/>\nkelas= 10 multimedia 1<br \/>\njumlah saudara= 2 saudara<br \/>\nstatus= lajang dan<br \/>\njagan lupa kak seperti buat surat ada nama pembuat dan dan yang ditujukan <br \/>\ndan minta balasan<br \/><br \/>\nmembuat surat ini untuk mencari teman<br \/>\ndan kak &amp; bang jangan pake google translate karena kadang bnyak salah<br \/>\nsaya mencari tuan guru untuk membuat nya jawab via komentar aja , dan ini adalah<br \/>\ntugas sekolah bukan untuk cari jodoh hehehe ?<br \/><br \/>\nterimasih bila ada yang menjawab dengan baik dan benar untuk jawaban nya saya beri poin 50 untuk yang membuat surat saya",
+                        "created": "2016-05-18T14:12:38+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2016-05-18T14:27:47+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "teman teman mohon bantuan nya dong buatkan saya surat untuk sahabat pena dalam bahasa inggris dan isinya tentang awal perkenalan diri untuk berteman, ini daftar yang diri saya:\nnama= muhammad zulfikar harahap\nalamat= jalan kalpataru gang marto no 82.c\nkota= medan,sumatera utara\nhobi= maen bola kaki\nyang tidak disukai=di kasari\nsekolah= smkn 10 medan, sumut\nkelas= 10 multimedia 1\njumlah saudara= 2 saudara\nstatus= lajang dan\njagan lupa kak seperti buat surat ada nama pembuat dan dan yang ditujukan \ndan minta balasan\nmembuat surat ini untuk mencari teman\ndan kak &amp; bang jangan pake google translate karena kadang bnyak salah\nsaya mencari tuan guru untuk membuat nya jawab <em>via<\/em> komentar aja , dan ini adalah\ntugas sekolah bukan untuk cari <em>jodoh<\/em> hehehe ?\nterimasih bila ada yang menjawab dengan baik dan benar untuk jawaban nya saya beri poin 50 untuk yang membuat surat saya",
+                        "snippet_content": "<em>via<\/em> komentar aja , dan ini adalah\ntugas sekolah bukan untuk cari <em>jodoh<\/em> hehehe ?\nterimasih bila ada yang menjawab dengan baik dan benar"
+                    },
+                    "responses": [
+                        {
+                            "id": 7324845,
+                            "user_id": 2651762,
+                            "task_id": 6145384,
+                            "points": 25,
+                            "created": "2016-05-18T14:27:47+07:00",
+                            "content": "From: Muhammad<br \/>          Zulfikar Harahap<br \/>To: .....<br \/><br \/>Hello .....!<br \/>My name is Zulfikar. I am from Medan. I saw your profile at Facebook.com. We have many similarities especially on our hobby: football. I decide to contact you for offering a friendship. If you accept my request , please reply this email. I will send you my photos and more about me. I believe we can make good friends. Let distance not be a barrier but let friendship connecting because friendship is a bridge cobnecting distance.<br \/>I am waiting for your email.<br \/><br \/>Best regards<br \/>Muhammad Zulfikar Harahap<br \/><br \/>",
+                            "mark": 4,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 7325347,
+                            "user_id": 68706,
+                            "task_id": 6145384,
+                            "points": 25,
+                            "created": "2016-05-18T14:55:46+07:00",
+                            "content": "Jl. Sudirman No. 5\u00a0<br \/>Kupang,\u00a0East Nusa Tenggara<br \/>May, 18th 2016<br \/><br \/>Dear, Ayu<br \/>\u00a0 \u00a0\u00a0with this letter I would like to introduce myself to you as a new pen pal.<br \/>My full name is\u00a0Muhammad Zulfikar Harahap. But, you can call me zul.\u00a0My home address at\u00a0Jl. Kalpataru Gang Marto NO. 82 Block C\u00a0Medan, North Sumatra.<br \/>let me tell you about my hobby. My hobby is playing football.\u00a0Sometimes my friends playing football with incredibly rude. Fyi,\u00a0do you know.. I don't like something rude. hehehe :D\u00a0I'm school at SMKN 10 Medan, North Sumatra.\u00a0Now, I am in Grade 10 with multimedia majors 1. I have 2 siblings. right now, I am single.\u00a0<br \/>\u00a0 \u00a0\u00a0My interest, besides my studies and playing football, are art, music, and sports. I especially enjoy swimming and horseback riding.\u00a0<br \/>\u00a0 \u00a0\u00a0I am enclosing with a photograph of myself and my family. I would like to hear from you. please write with information about yourself, your family, and life in your city. I look forward to being your pen pal and sharing some of the events in my life with you, even though it must be at such a long distance.<br \/>Love,\u00a0<br \/>You're new\u00a0friend<br \/>Zulfikar<br \/>",
+                            "mark": 4,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 7,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2016-09-13T02:52:42+07:00",
+                                "approver": {
+                                    "id": 2663844,
+                                    "nickname": "Mahaguru",
+                                    "points": 1162,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/db6\/c5fb7b6a68ce26ccea00dc12cb60d96f.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/df7\/fe8fb6dfa0d217a5d3fafa2a27e269ba.png"
+                                    },
+                                    "content_approved_count": 718062
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2651762,
+                                "nick": "SilvinaNurAnisa1",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/db1\/8fbbfc64292041c8549599494a9b898f.jpg"
+                            },
+                            {
+                                "id": 68706,
+                                "nick": "Futaba21",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/ded\/e4febe51f0cced884492ef88fbd76c3d.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 9757894,
+                        "subject_id": 1,
+                        "user_id": 4527180,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "ingin rasanya aku berteriak mendengar pertanyaan bodoh adikku ini.biasanya aku akan bilang,\"ya, enggak gitu, bodoh! \"Tapi mama sudah melarangku mengatakan kata itu lagi. katanya anak baik tidak boleh berkata kasar.\"Priska tidak bodoh, vin.Dia ingin pintar seperti kamu, \"kata mama. <br \/>Watak tokoh \"aku\" pada kutipan novel diatas adalah... <br \/>a. kasar<br \/>b. pemarah<br \/>c. membenci adik<br \/>d. menurut pada orang tua",
+                        "created": "2017-03-08T17:36:18+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-03-08T17:37:30+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [
+                                {
+                                    "id": 6337046,
+                                    "user_id": 4288993,
+                                    "content": "pemarah",
+                                    "created": "2017-03-08T17:37:04+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                }
+                            ],
+                            "last_id": 0,
+                            "count": 1
+                        },
+                        "highlighted_content": "ingin rasanya aku berteriak mendengar pertanyaan <em>bodoh<\/em> adikku ini.biasanya aku akan bilang,\"ya, enggak gitu, <em>bodoh<\/em>! \"Tapi mama sudah melarangku mengatakan kata itu lagi. katanya anak baik tidak boleh berkata kasar.\"Priska tidak <em>bodoh<\/em>, <em>vin<\/em>.Dia ingin pintar seperti kamu, \"kata mama. Watak tokoh \"aku\" pada kutipan novel diatas adalah... a. kasarb. pemarahc. membenci adikd. menurut pada orang tua",
+                        "snippet_content": "itu lagi. katanya anak baik tidak boleh berkata kasar.\"Priska tidak <em>bodoh<\/em>, <em>vin<\/em>.Dia ingin pintar seperti kamu, \"kata mama. Watak tokoh"
+                    },
+                    "responses": [
+                        {
+                            "id": 11692840,
+                            "user_id": 3270905,
+                            "task_id": 9757894,
+                            "points": 5,
+                            "created": "2017-03-08T17:37:30+07:00",
+                            "content": "d menurut kpd org tua",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2017-03-08T18:49:26+07:00",
+                                "approver": {
+                                    "id": 2767217,
+                                    "nickname": "Dwinovietasary",
+                                    "points": 21284,
+                                    "grade": 3,
+                                    "gender": 1,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/d77\/f887adfdc9f867318df50a8ca9cc345b.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/d20\/97a236012b90a0c7cbdde8c4965deef9.png"
+                                    },
+                                    "content_approved_count": 169
+                                }
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 6337069,
+                                        "user_id": 4639936,
+                                        "content": "jawabnnya adalah a.kasar",
+                                        "created": "2017-03-08T17:39:07+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3270905,
+                                "nick": "Delindaa",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d98\/61c9b5d40bcc182d7d1e8b967d4dcf19.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 2737225,
+                        "subject_id": 1,
+                        "user_id": 1484312,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "kutipan 1<br \/>\ningin rasanya aku berteriak mendengarkan pertanyaan bodoh adikku ini. biasanya aku akan bilang, '' ya enggak gitu, bodoh! '' tapi mama sudah melarangku mengatakan kata itu lagi . katanya , anak baik tidak boleh berkata kasar. '' Priska tidak bodoh, Vin. dia ingin pintar seperti kamu,'' kata mama<br \/><br \/>\nkutipan 2<br \/>\nah, mau tidak msu, ia harus pergi ke warung nu Rustam. ia tidak mau menolak permintaan ibunya. warung itu berjarak dua rumah dari rumah Abah. tanpa terasa, kini difa berada di depan gang. siang itu tampak sepi. mungkin anak-anak di sekitar blok 2 belum pulang.<br \/><br \/>\nperbedaan karakteristik keduan kutipan novel tersebut adalah....<br \/>\nA. Kutipan 1 ; tokoh yang terlihat banyak, kutipan 2; tokok yang terlihat dua<br \/>\nB. Kutipan 1; sudut pandang aku-an, kutipan 2; sudut pandang dia-an<br \/>\nC. Kutipan 1; latar jelas, kutipan 2; latar tidak jelas<br \/>\nD. Kutipan 1; amanat tidak jelas , kutipan 2; amanat jelas",
+                        "created": "2015-05-23T00:14:27+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2015-05-23T00:16:40+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "kutipan 1\ningin rasanya aku berteriak mendengarkan pertanyaan <em>bodoh<\/em> adikku ini. biasanya aku akan bilang, '' ya enggak gitu, <em>bodoh<\/em>! '' tapi mama sudah melarangku mengatakan kata itu lagi . katanya , anak baik tidak boleh berkata kasar. '' Priska tidak <em>bodoh<\/em>, <em>Vin.<\/em> dia ingin pintar seperti kamu,'' kata mama\nkutipan 2\nah, mau tidak msu, ia harus pergi ke warung nu Rustam. ia tidak mau menolak permintaan ibunya. warung itu berjarak dua rumah dari rumah Abah. tanpa terasa, kini difa berada di depan gang. siang itu tampak sepi. mungkin anak-anak di sekitar blok 2 belum pulang.\nperbedaan karakteristik keduan kutipan novel tersebut adalah....\nA. Kutipan 1 ; tokoh yang terlihat banyak, kutipan 2; tokok yang terlihat dua\nB. Kutipan 1; sudut pandang aku-an, kutipan 2; sudut pandang dia-an\nC. Kutipan 1; latar jelas, kutipan 2; latar tidak jelas\nD. Kutipan 1; amanat tidak jelas , kutipan 2; amanat jelas",
+                        "snippet_content": "itu lagi . katanya , anak baik tidak boleh berkata kasar. '' Priska tidak <em>bodoh<\/em>, <em>Vin.<\/em> dia ingin pintar seperti kamu,'' kata mama\nkutipan 2"
+                    },
+                    "responses": [
+                        {
+                            "id": 3496058,
+                            "user_id": 1472056,
+                            "task_id": 2737225,
+                            "points": 5,
+                            "created": "2015-05-23T00:16:39+07:00",
+                            "content": "B.<br \/>Semoga bermanfaat!",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 2,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 2217182,
+                                        "user_id": 1484312,
+                                        "content": "makasih ya",
+                                        "created": "2015-05-23T00:20:37+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 2217183,
+                                        "user_id": 1472056,
+                                        "content": "Iya, sama-sama.",
+                                        "created": "2015-05-23T00:21:22+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 2
+                            }
+                        },
+                        {
+                            "id": 3496060,
+                            "user_id": 1489032,
+                            "task_id": 2737225,
+                            "points": 5,
+                            "created": "2015-05-23T00:17:41+07:00",
+                            "content": "b.kutipan 1 sudut pandang aku an kutipan 2 sudut pandang dia an<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 2217181,
+                                        "user_id": 1484312,
+                                        "content": "makasih ya",
+                                        "created": "2015-05-23T00:20:32+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 2217184,
+                                        "user_id": 1489032,
+                                        "content": "msama",
+                                        "created": "2015-05-23T00:22:57+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 2
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1472056,
+                                "nick": "Ryemalia",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d02\/33904a79a8d00275849b5865f58307ab.jpg"
+                            },
+                            {
+                                "id": 1489032,
+                                "nick": "ichavictory",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 3,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 2946975,
+            "nick": "mzulfikarock",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 3,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d81\/7ce8ca75bded0178004c1a45a7ae2bab.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d81\/cfa8f449f2c131de159f177d3c2f3e2d.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d81\/7ce8ca75bded0178004c1a45a7ae2bab.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d81\/cfa8f449f2c131de159f177d3c2f3e2d.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 2651762,
+            "nick": "SilvinaNurAnisa1",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 194,
+                "comments": 8
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d68\/48160d7ed6df78bb98466f4c6e07e201.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db1\/8fbbfc64292041c8549599494a9b898f.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d68\/48160d7ed6df78bb98466f4c6e07e201.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db1\/8fbbfc64292041c8549599494a9b898f.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 68706,
+            "nick": "Futaba21",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 35,
+                "answers": 5409,
+                "comments": 1828
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dbd\/9d7b03ae0d36cd1108108cef98fb1181.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ded\/e4febe51f0cced884492ef88fbd76c3d.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dbd\/9d7b03ae0d36cd1108108cef98fb1181.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ded\/e4febe51f0cced884492ef88fbd76c3d.jpg"
+            },
+            "ranks": {
+                "color": "#ffbe32",
+                "names": [
+                    "BrainlyTeacher",
+                    "KsatriaBrainly",
+                    "Spam Fighter ",
+                    "Apprentice",
+                    "Jenius"
+                ],
+                "count": 5
+            },
+            "ranks_ids": [
+                91,
+                23,
+                17,
+                20,
+                7
+            ]
+        },
+        {
+            "id": 4527180,
+            "nick": "Oktaviani051",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 19,
+                "answers": 8,
+                "comments": 1
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4288993,
+            "nick": "IndahhFitriaaDewii",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 89,
+                "answers": 206,
+                "comments": 180
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d40\/710463f7f6a9e01c9c780aa9c3b2e6d4.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc9\/f12cefc8d71249ec28d54713cd1beeaa.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d40\/710463f7f6a9e01c9c780aa9c3b2e6d4.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc9\/f12cefc8d71249ec28d54713cd1beeaa.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 4639936,
+            "nick": "satriya141",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 1008,
+                "comments": 274
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd5\/7bcd49de44543531c662fd64b0998360.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d64\/cbc6e0b6f9fd24127c97287a463511f3.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd5\/7bcd49de44543531c662fd64b0998360.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d64\/cbc6e0b6f9fd24127c97287a463511f3.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        },
+        {
+            "id": 3270905,
+            "nick": "Delindaa",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 372,
+                "comments": 102
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d25\/dd42c09d8d4385ab0bbe2bc42fadaaa7.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d98\/61c9b5d40bcc182d7d1e8b967d4dcf19.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d25\/dd42c09d8d4385ab0bbe2bc42fadaaa7.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d98\/61c9b5d40bcc182d7d1e8b967d4dcf19.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 1484312,
+            "nick": "jihanalifa",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 0,
+                "comments": 2
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1472056,
+            "nick": "Ryemalia",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 19,
+                "answers": 65,
+                "comments": 17
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d8f\/e468157cc6a8ef150f18503c2f71d9ce.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d02\/33904a79a8d00275849b5865f58307ab.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d8f\/e468157cc6a8ef150f18503c2f71d9ce.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d02\/33904a79a8d00275849b5865f58307ab.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 1489032,
+            "nick": "ichavictory",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 11,
+                "comments": 19
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        }
+    ],
+    "validated": false
+}

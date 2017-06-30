@@ -1,0 +1,937 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 1583422,
+                        "subject_id": 6,
+                        "user_id": 629193,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "dua jenis cairan (minyak dan air) dikondisikan sama, manahkah yang lebih ceppat panas? sebaliknya manakah yang lebih cepat dingin? jelaskan!",
+                        "created": "2014-11-27T11:39:58+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2014-11-27T12:51:07+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "dua jenis cairan (minyak dan air) <em>dikondisikan<\/em> sama, manahkah yang lebih ceppat panas? sebaliknya manakah yang lebih cepat dingin? jelaskan!",
+                        "snippet_content": "dua jenis cairan (minyak dan air) <em>dikondisikan<\/em> sama, manahkah yang lebih ceppat panas? sebaliknya manakah yang lebih cepat dingin? jelaskan!"
+                    },
+                    "responses": [
+                        {
+                            "id": 2022206,
+                            "user_id": 1407,
+                            "task_id": 1583422,
+                            "points": 5,
+                            "created": "2014-11-27T12:51:07+07:00",
+                            "content": "yang lebih cepat panas adalah minyak karena kalor jenis minyak lebih rendah dari kalor jenis air. logika sih kalo dia lebih cepat panas berarti lebih cepat dingin juga",
+                            "mark": 3,
+                            "marks_count": 1,
+                            "thanks": 2,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1407,
+                                "nick": "pieta",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d3b\/109319a697d5eb1e6a4e69eb05606048.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 2866721,
+                        "subject_id": 6,
+                        "user_id": 1150098,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Logam A dan B, ukuran identik namun bahan berbeda. Kedua disambung ujung bebas A dikondisikan 40 derajat celcius dan ujung bebas B dikondisikan 400 derajat celcius. Terukur suhu titik sambung keduanya 80 derajat celcius. Jika konduktivitas termal A 1,2 watt\/mK maka konduktivitas termal B adalah",
+                        "created": "2015-06-19T17:58:42+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2015-06-19T18:52:54+07:00",
+                        "the_best_resp_id": "3663625",
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Logam A dan B, ukuran identik namun bahan berbeda. Kedua disambung ujung bebas A <em>dikondisikan<\/em> 40 derajat celcius dan ujung bebas B <em>dikondisikan<\/em> 400 derajat celcius. Terukur suhu titik sambung keduanya 80 derajat celcius. Jika konduktivitas termal A 1,2 watt\/mK maka konduktivitas termal B adalah",
+                        "snippet_content": "B, ukuran identik namun bahan berbeda. Kedua disambung ujung bebas A <em>dikondisikan<\/em> 40 derajat celcius dan ujung bebas B <em>dikondisikan<\/em> 400 derajat"
+                    },
+                    "responses": [
+                        {
+                            "id": 3663625,
+                            "user_id": 244989,
+                            "task_id": 2866721,
+                            "points": 5,
+                            "created": "2015-06-19T18:52:54+07:00",
+                            "content": "T A = 40\u2070C<br \/>T B = 400\u2070C<br \/>T C = 80\u2070C<br \/>k A = 1,2 Watt\/mK<br \/>k B = ...........?<br \/><br \/>Penyelesaian :<br \/><br \/>Q lepas = Q serap<br \/>(k\u00a0\u2022\u00a0A\u00a0\u2022\u00a0\u0394T)\/L = (k\u00a0\u2022\u00a0A\u00a0\u2022\u00a0\u0394T)\/L<br \/>k\u00a0\u2022\u00a0\u0394T = k\u00a0\u2022\u00a0\u0394T<br \/>k \u00a0B\u00a0\u2022\u00a0(T B - T C) = k\u00a0A\u00a0\u2022\u00a0(T C - T A)<br \/>k B\u00a0\u2022 (400 - 80) = 1,2\u00a0\u2022 (80 - 40)<br \/>k B\u00a0\u2022 320 = 1,2\u00a0\u2022 40<br \/>k B = (1,2 x 40)\/320<br \/><strong>k B = 0,15\u00a0Watt\/mK<\/strong><br \/><br \/><strong>Jadi,\u00a0konduktivitas termal B adalah\u00a00,15\u00a0Watt\/mK<\/strong>",
+                            "mark": 5,
+                            "marks_count": 2,
+                            "thanks": 1,
+                            "user_best_rank_id": 7,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2015-06-20T15:18:29+07:00",
+                                "approver": {
+                                    "id": 1062884,
+                                    "nickname": "NewBrainly100",
+                                    "points": 157081,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": null,
+                                    "content_approved_count": 19235
+                                }
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 2313115,
+                                        "user_id": 244989,
+                                        "content": "Suhu campuran itu selalu diantara suhu tinggi dan suhu rendah. Jadi, suhu campuran lebih kecil dari suhu tinggi. Tapi lebih besar dari suhu rendah",
+                                        "created": "2015-06-20T19:39:17+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 2313116,
+                                        "user_id": 244989,
+                                        "content": "Sehingga, untuk suhu tinggi jadinya (Suhu tinggi - suhu campuran)",
+                                        "created": "2015-06-20T19:39:38+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 2313117,
+                                        "user_id": 244989,
+                                        "content": "Untuk suhu rendah jadinya (suhu campuran - suhu rendah)",
+                                        "created": "2015-06-20T19:39:52+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 2314103,
+                                        "user_id": 1150098,
+                                        "content": "Makasih kak",
+                                        "created": "2015-06-21T18:12:52+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 2314106,
+                                        "user_id": 244989,
+                                        "content": "sama-sama",
+                                        "created": "2015-06-21T18:15:51+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 2313115,
+                                "count": 6
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 244989,
+                                "nick": "patriaprastika",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d25\/04b2b6bfc7e165ebc21bd172dd282160.png"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 2890575,
+                        "subject_id": 3,
+                        "user_id": 1570832,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "[Lebaran Sebentar Lagi] Soal latihan ujian kenaikan kelas Sejarah SMA: Islamisasi di sepanjang pantai utara Jawa dikondisikan oleh situasi politik kekacauan dan <br \/>\nperpecahan di pusat. Hal ini mendorong penguasa pesisir ....<br \/>\n a.  memperoleh keuntungan dagang<br \/>\n b.  meninggalkan agama Hindu<br \/>\n c.  membantu menyiarkan agama Islam<br \/>\n d.  merebut kekuasaan<br \/>\n e.  melepaskan diri dari kekuasaan pusat<br \/>",
+                        "created": "2015-07-10T20:12:00+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2015-07-14T10:42:46+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "[Lebaran Sebentar Lagi] Soal latihan ujian kenaikan kelas Sejarah SMA: Islamisasi di sepanjang pantai utara Jawa <em>dikondisikan<\/em> oleh situasi politik kekacauan dan \nperpecahan di pusat. Hal ini mendorong penguasa pesisir ....\n a.  memperoleh keuntungan dagang\n b.  meninggalkan agama Hindu\n c.  membantu menyiarkan agama Islam\n d.  merebut kekuasaan\n e.  melepaskan diri dari kekuasaan pusat",
+                        "snippet_content": "[Lebaran Sebentar Lagi] Soal latihan ujian kenaikan kelas Sejarah SMA: Islamisasi di sepanjang pantai utara Jawa <em>dikondisikan<\/em> oleh situasi politik kekacauan"
+                    },
+                    "responses": [
+                        {
+                            "id": 3695926,
+                            "user_id": 1572174,
+                            "task_id": 2890575,
+                            "points": 5,
+                            "created": "2015-07-14T10:42:46+07:00",
+                            "content": "C. saya kira jika itu untuk islamisasi<br \/><br \/>selanjutnya kemudian keuntungan dagang dan kekuasaan\u00a0",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1572174,
+                                "nick": "annanoshiroibara",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 5408154,
+                        "subject_id": 11,
+                        "user_id": 2725427,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "dengan kondisi yang demikian, data D:dapat dibuka oleh komputer client lain. hal ini karena data D:dalam dikondisikan",
+                        "created": "2016-03-11T15:24:38+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2016-03-11T17:40:31+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "dengan kondisi yang demikian, data D:dapat dibuka oleh komputer client lain. hal ini karena data D:dalam <em>dikondisikan<\/em>",
+                        "snippet_content": "dengan kondisi yang demikian, data D:dapat dibuka oleh komputer client lain. hal ini karena data D:dalam <em>dikondisikan<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 6391283,
+                            "user_id": 640978,
+                            "task_id": 5408154,
+                            "points": 5,
+                            "created": "2016-03-11T17:40:31+07:00",
+                            "content": "Data D: dalam\u00a0kondisi sharing<br \/>Semoga membantu...",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2016-10-27T18:21:04+07:00",
+                                "approver": {
+                                    "id": 2663844,
+                                    "nickname": "Mahaguru",
+                                    "points": 2237,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/db6\/c5fb7b6a68ce26ccea00dc12cb60d96f.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/df7\/fe8fb6dfa0d217a5d3fafa2a27e269ba.png"
+                                    },
+                                    "content_approved_count": 718253
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 640978,
+                                "nick": "saidoke09",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dfb\/c47f5ac34b930bb4759581c8f72d0c7f.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 4250938,
+                        "subject_id": 10,
+                        "user_id": 1897362,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 49,
+                            "ptsForResp": 25,
+                            "ptsForBest": 13
+                        },
+                        "content": "kesimpulan dari Masyarakat Indonesia jika ditelusuri oleh leluhurnya berasal dari dua wilayah, yaitu selatan Asia dan wilayah Polynesia. Terdiri dari lebih dari 200 suku bangsa yang juga diikuti oleh karakter dan bahasa daerah yang berbeda, bangsa Indonesia sudah diajarkan dan dikondisikan untuk bisa menyikapi perbedaan dan kemajemukan. <br \/>\nDalam hal lembaga sosial seperti lembaga budaya, lembaga non pemerintah pemerhati hak asasi manusia dan  pembantu di saat suatu wilayah terkena bencana membuat Indonesia dikenal sebagai bangsa yang perduli terhadap sesama. Dalam hal lingkungan internasional Indonesia juga tergabung dalam banyak lembaga sosial seperti bulan sabit merah, IRDB, UNDP yang senantiasa memberikan bantuan dan sumbangan ke wilayah konflik seperti perang palestina, konflik di Srilangka, dan sebagainya. <br \/><br \/>\nUntuk lembaga Ekonomi, Indonesia sebagai 10 besar kekuatan ekonomi dunia, banyak memiliki lembaga Ekonomi baik yang bersifat tidak resmi, hingga lembaga resmi Internasional. COntoh tidak resmi adalah banyak lembaga persatuan dengan background daerah, seperti lembaga ekonomi masyarakat padang, dsb. Untuk yang resmi banyak lembaga seperti penjamin simpanan, koperasi, dan lain sebagainya. Untuk masyarakat Internasional, Indonesia tergabung dalam APEC, OPEC, dan juga G8. <br \/><br \/>\nUntuk Budaya, masyarakat Indonesia di tiap daerah memiliki lembaga untuk melestarikan budaya aslinya. Seperti paguyuban tari Bagong Kusudiarjo di Jogjakarta. Sedangkan taraf Internasional Indonesia tergabung di UNESCO yang memiliki visi misi berkaitan dengan sosial budaya.  ",
+                        "created": "2015-11-09T20:13:18+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2015-11-09T20:24:42+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "kesimpulan dari Masyarakat Indonesia jika ditelusuri oleh leluhurnya berasal dari dua wilayah, yaitu selatan Asia dan wilayah Polynesia. Terdiri dari lebih dari 200 suku bangsa yang juga diikuti oleh karakter dan bahasa daerah yang berbeda, bangsa Indonesia sudah diajarkan dan <em>dikondisikan<\/em> untuk bisa menyikapi perbedaan dan kemajemukan. \nDalam hal lembaga sosial seperti lembaga budaya, lembaga non pemerintah pemerhati hak asasi manusia dan  pembantu di saat suatu wilayah terkena bencana membuat Indonesia dikenal sebagai bangsa yang perduli terhadap sesama. Dalam hal lingkungan internasional Indonesia juga tergabung dalam banyak lembaga sosial seperti bulan sabit merah, IRDB, UNDP yang senantiasa memberikan bantuan dan sumbangan ke wilayah konflik seperti perang palestina, konflik di Srilangka, dan sebagainya. \nUntuk lembaga Ekonomi, Indonesia sebagai 10 besar kekuatan ekonomi dunia, banyak memiliki lembaga Ekonomi baik yang bersifat tidak resmi, hingga lembaga resmi Internasional. COntoh tidak resmi adalah banyak lembaga persatuan dengan background daerah, seperti lembaga ekonomi masyarakat padang, dsb. Untuk yang resmi banyak lembaga seperti penjamin simpanan, koperasi, dan lain sebagainya. Untuk masyarakat Internasional, Indonesia tergabung dalam APEC, OPEC, dan juga G8. \nUntuk Budaya, masyarakat Indonesia di tiap daerah memiliki lembaga untuk melestarikan budaya aslinya. Seperti paguyuban tari Bagong Kusudiarjo di Jogjakarta. Sedangkan taraf Internasional Indonesia tergabung di UNESCO yang memiliki visi misi berkaitan dengan sosial budaya.  ",
+                        "snippet_content": "karakter dan bahasa daerah yang berbeda, bangsa Indonesia sudah diajarkan dan <em>dikondisikan<\/em> untuk bisa menyikapi perbedaan dan kemajemukan. \nDalam hal lembaga sosial"
+                    },
+                    "responses": [
+                        {
+                            "id": 5023546,
+                            "user_id": 2240706,
+                            "task_id": 4250938,
+                            "points": 25,
+                            "created": "2015-11-09T20:24:42+07:00",
+                            "content": "daerah daerah tertentu\u00a0",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 5027012,
+                            "user_id": 1886911,
+                            "task_id": 4250938,
+                            "points": 25,
+                            "created": "2015-11-10T05:31:21+07:00",
+                            "content": "daerah daerah tertentu<br \/><br \/>maaf kalo salah,soalnya panjang sekalo",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 3072427,
+                                        "user_id": 1897362,
+                                        "content": "haha maaf.....",
+                                        "created": "2015-11-11T18:47:01+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 3078222,
+                                        "user_id": 2240706,
+                                        "content": "oke cee",
+                                        "created": "2015-11-12T17:28:15+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 2
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2240706,
+                                "nick": "JasmineLeadancer9501",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d51\/bc852235dbfc418f95d38d34217f50a2.jpg"
+                            },
+                            {
+                                "id": 1886911,
+                                "nick": "rikosaputra1",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/db1\/770b412b098f71f4007d7909f291daac.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 5,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 629193,
+            "nick": "mhirra",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 15,
+                "answers": 0,
+                "comments": 3
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d5e\/ebd557ed4bbc7e74d73fbb2477e6f848.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d72\/5c57b08624a21251d4fbf0fb311c872d.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d5e\/ebd557ed4bbc7e74d73fbb2477e6f848.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d72\/5c57b08624a21251d4fbf0fb311c872d.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 1407,
+            "nick": "pieta",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 79,
+                "comments": 31
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d63\/10f66d7f98a273106f376a86770ca2cc.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d3b\/109319a697d5eb1e6a4e69eb05606048.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d63\/10f66d7f98a273106f376a86770ca2cc.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d3b\/109319a697d5eb1e6a4e69eb05606048.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 1150098,
+            "nick": "dylanwijaya",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 20,
+                "answers": 17,
+                "comments": 20
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 244989,
+            "nick": "patriaprastika",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 3133,
+                "comments": 2346
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d89\/f3e8ae7bd38e39c30053a0aa5371c215.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d25\/04b2b6bfc7e165ebc21bd172dd282160.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d89\/f3e8ae7bd38e39c30053a0aa5371c215.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d25\/04b2b6bfc7e165ebc21bd172dd282160.png"
+            },
+            "ranks": {
+                "color": "#ffbe32",
+                "names": [
+                    "Guru",
+                    "KsatriaBrainly",
+                    "Moderator",
+                    "Jenius"
+                ],
+                "count": 4
+            },
+            "ranks_ids": [
+                12,
+                23,
+                19,
+                7
+            ]
+        },
+        {
+            "id": 1570832,
+            "nick": "AltheaColy448",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d67\/c08652685188375f753a65daf6651188.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d64\/ce16e33c0f59e4a8f998e89fb1281853.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d67\/c08652685188375f753a65daf6651188.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d64\/ce16e33c0f59e4a8f998e89fb1281853.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1572174,
+            "nick": "annanoshiroibara",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 1,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 2725427,
+            "nick": "nurl6islutamays",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db1\/1b9bc1d1a2efb1967e94284d13a9615c.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d25\/617255c46fd1f5f2f08a697a4e358a70.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db1\/1b9bc1d1a2efb1967e94284d13a9615c.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d25\/617255c46fd1f5f2f08a697a4e358a70.png"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 640978,
+            "nick": "saidoke09",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 1974,
+                "comments": 390
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d28\/9d12c45bfbf138eb2fb60d9c1d45be68.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dfb\/c47f5ac34b930bb4759581c8f72d0c7f.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d28\/9d12c45bfbf138eb2fb60d9c1d45be68.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dfb\/c47f5ac34b930bb4759581c8f72d0c7f.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Spam Fighter ",
+                    "Apprentice",
+                    "Si Hebat"
+                ],
+                "count": 3
+            },
+            "ranks_ids": [
+                17,
+                20,
+                6
+            ]
+        },
+        {
+            "id": 1897362,
+            "nick": "zidan445indo",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 0,
+                "comments": 4
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 2240706,
+            "nick": "JasmineLeadancer9501",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 9,
+                "answers": 94,
+                "comments": 45
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/ddb\/1ded6eb2d40aebed707b53851b0c8281.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d51\/bc852235dbfc418f95d38d34217f50a2.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/ddb\/1ded6eb2d40aebed707b53851b0c8281.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d51\/bc852235dbfc418f95d38d34217f50a2.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 1886911,
+            "nick": "rikosaputra1",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 86,
+                "answers": 1420,
+                "comments": 205
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d3c\/ab73e8d210057c1af308d53ba0186899.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db1\/770b412b098f71f4007d7909f291daac.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d3c\/ab73e8d210057c1af308d53ba0186899.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db1\/770b412b098f71f4007d7909f291daac.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        }
+    ],
+    "validated": false
+}

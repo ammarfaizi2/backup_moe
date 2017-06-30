@@ -1,0 +1,3158 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 10558534,
+                        "subject_id": 12,
+                        "user_id": 5005159,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "BITCOIN, bagaimana prospek kedepannya?<br \/>",
+                        "created": "2017-05-08T00:37:30+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-05-08T02:35:59+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "6",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "<em>BITCOIN<\/em>, bagaimana prospek kedepannya?",
+                        "snippet_content": "<em>BITCOIN<\/em>, bagaimana prospek kedepannya?"
+                    },
+                    "responses": [
+                        {
+                            "id": 12781569,
+                            "user_id": 5005223,
+                            "task_id": 10558534,
+                            "points": 5,
+                            "created": "2017-05-08T02:35:59+07:00",
+                            "content": "<span>Bitcoin ini memang lebih dulu dikenal di Amerika Serikat dan Eropa. Meski demikian, perkembangan bitcoin di Eropa tidak terlalu berkembang pesat, tak seperti di Amerika Serikat. Masyarakat negara maju memang lebih cepat adaptasi dengan bitcoin mengingat masyarakatnya yang melek teknologi informasi .<br \/>\u00a0<br \/><\/span><br \/><br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5005223,
+                                "nick": "yogigintink",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d3d\/0213dd8ba331ed5c3615aec0fb7eaa11.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 880050,
+                        "subject_id": 11,
+                        "user_id": 528434,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 100,
+                            "ptsForResp": 50,
+                            "ptsForBest": 25
+                        },
+                        "content": "Apakah bit coin sampai sekarang relevankah menjadi uang dalam elektronik?<br \/><br \/>\nMengapa adanya Bit coin?<br \/><br \/>\nBenarkah Bit coin uang yang tidak sah?<br \/><br \/>\nSekian terima kasih (by Nahason Bastin add me :))",
+                        "created": "2014-09-28T21:00:17+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2014-09-28T21:21:07+07:00",
+                        "the_best_resp_id": "1132499",
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [
+                                {
+                                    "id": 812631,
+                                    "user_id": 528434,
+                                    "content": "Besok aku cek jawaban manakah yang benar . Terima Kasih telah menjawab :)",
+                                    "created": "2014-09-28T21:04:55+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                }
+                            ],
+                            "last_id": 0,
+                            "count": 1
+                        },
+                        "highlighted_content": "Apakah <em>bit coin<\/em> sampai sekarang relevankah menjadi uang dalam elektronik?\nMengapa adanya <em>Bit coin<\/em>?\nBenarkah <em>Bit coin<\/em> uang yang tidak sah?\nSekian terima kasih (by Nahason Bastin add me :))",
+                        "snippet_content": "Apakah <em>bit coin<\/em> sampai sekarang relevankah menjadi uang dalam elektronik?\nMengapa adanya <em>Bit coin<\/em>?\nBenarkah <em>Bit coin<\/em> uang yang tidak sah?\nSekian"
+                    },
+                    "responses": [
+                        {
+                            "id": 1132499,
+                            "user_id": 150839,
+                            "task_id": 880050,
+                            "points": 50,
+                            "created": "2014-09-28T21:21:07+07:00",
+                            "content": "Iya Karena Bit Coin terus meningkat dan penggunanya semakin bertambah<br \/>Untuk mengontrol pembuatan dan transaksi<br \/>Belum dinyatakan ilegal disebagian besar negara<br \/><br \/>Maaf Kalau Salah_^",
+                            "mark": 5,
+                            "marks_count": 2,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 150839,
+                                "nick": "sincanrpc",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dc3\/8aacda4e47aa6375302d3a53970fd32f.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 488770,
+                        "subject_id": 12,
+                        "user_id": 333592,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "1 Bitcoin = ....USD?<br \/>",
+                        "created": "2014-08-29T15:28:44+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2014-08-29T23:11:32+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "1 <em>Bitcoin<\/em> = ....USD?",
+                        "snippet_content": "1 <em>Bitcoin<\/em> = ....USD?"
+                    },
+                    "responses": [
+                        {
+                            "id": 683303,
+                            "user_id": 333834,
+                            "task_id": 488770,
+                            "points": 5,
+                            "created": "2014-08-29T23:11:32+07:00",
+                            "content": "Mungkin 1 bitcoin sama dengan 10 usd",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "2",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 333834,
+                                "nick": "elsiekey2000",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 820171,
+                        "subject_id": 11,
+                        "user_id": 528434,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 100,
+                            "ptsForResp": 50,
+                            "ptsForBest": 25
+                        },
+                        "content": "1. KEGUNAAN BIT COIN dan SATOSHI COIN??<br \/>\n2. Perbedaan dari Bit Coin dan Satoshi Coin (uang elektronik yang bernilai besar jika 1 bit coin = 400 dolar US).<br \/>\n3. Pembuat Bit coin?<br \/>\n4. Sejarah Bit coin?<br \/>\n5. Terima kasih telah menjawab <br \/>\nTERIMA KASIH :)",
+                        "created": "2014-09-24T16:41:53+07:00",
+                        "responses": 2,
+                        "tickets": 3,
+                        "first_resp": "2014-09-24T16:48:01+07:00",
+                        "the_best_resp_id": "1055352",
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [
+                                {
+                                    "id": 762485,
+                                    "user_id": 528434,
+                                    "content": "Jangan menyerah untuk menjawab :) !!! ini adalah pelajaran yang paling sangat beguna ketika dewasa :)",
+                                    "created": "2014-09-24T16:45:29+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                }
+                            ],
+                            "last_id": 0,
+                            "count": 1
+                        },
+                        "highlighted_content": "1. KEGUNAAN <em>BIT COIN<\/em> dan SATOSHI COIN??\n2. Perbedaan dari <em>Bit Coin<\/em> dan Satoshi Coin (uang elektronik yang bernilai besar jika 1 <em>bit coin<\/em> = 400 dolar US).\n3. Pembuat <em>Bit coin<\/em>?\n4. Sejarah <em>Bit coin<\/em>?\n5. Terima kasih telah menjawab \nTERIMA KASIH :)",
+                        "snippet_content": "bernilai besar jika 1 <em>bit coin<\/em> = 400 dolar US).\n3. Pembuat <em>Bit coin<\/em>?\n4. Sejarah <em>Bit coin<\/em>?\n5. Terima kasih telah menjawab"
+                    },
+                    "responses": [
+                        {
+                            "id": 1053808,
+                            "user_id": 452047,
+                            "task_id": 820171,
+                            "points": 50,
+                            "created": "2014-09-24T16:48:01+07:00",
+                            "content": "1. Bitcoin adalah sebuah uang elektronik yang di buat pada tahun 2009 oleh \nSatoshi Nakamoto. Nama tersebut juga dikaitkan dengan perangkat lunak \nsumber terbuka yang dia rancang, dan juga menggunakan jaringan \npeer-ke-peer yang menghubungkan semuanya. Tidak seperti mata uang pada \numumnya, bitcoin tidak tergantung dengan mempercayai penerbit utama. \nBitcoin menggunakan sebuah database yang didistribusikan dan menyebar ke\n node-node dari sebuah jaringan P2P ke jurnal transaksi, dan menggunakan\n kriptografi untuk menyediakan fungsi-fungsi keamanan dasar, seperti \nmemastikan bahwa bitcoin-bitcoin hanya dapat dihabiskan oleh orang \nmempunyainya, dan tidak pernah boleh dilakukan lebih dari satu kali. <br \/>2. <br \/>",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 2,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 762584,
+                                        "user_id": 528434,
+                                        "content": "ada satu tadi yang kurang.<br \/>Kira-kira Bit coin itu relevan \/ tidak.<br \/>dan Nilai Bit coin sekarang ke dollar dan rupiah berapa?",
+                                        "created": "2014-09-24T16:50:37+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        },
+                        {
+                            "id": 1055352,
+                            "user_id": 517575,
+                            "task_id": 820171,
+                            "points": 50,
+                            "created": "2014-09-24T17:56:17+07:00",
+                            "content": "<span> 1. Bitcoin adalah sebuah uang elektronik yang di buat pada tahun 2009 oleh \nSatoshi Nakamoto. Nama tersebut juga dikaitkan dengan perangkat lunak \nsumber terbuka yang dia rancang, dan juga menggunakan jaringan \npeer-ke-peer yang menghubungkan semuanya. Tidak seperti mata uang pada \numumnya, bitcoin tidak tergantung dengan mempercayai penerbit utama. \nBitcoin menggunakan sebuah database yang didistribusikan dan menyebar ke\n node-node dari sebuah jaringan P2P ke jurnal transaksi, dan menggunakan\n kriptografi untuk menyediakan fungsi-fungsi keamanan dasar, seperti \nmemastikan bahwa bitcoin-bitcoin hanya dapat dihabiskan oleh orang \nmempunyainya, dan tidak pernah boleh dilakukan lebih dari satu kal<\/span>i<br \/>2. bit coin dibuat tahun2009 oleh satoshi nakamoto <br \/>Bitcoin adalah salah satu dari implementasi pertama dari yang disebut cryptocurrency, pertama kali di deskripsikan oleh Wei Dai pada tahun 1998 dalam milis cypherpunks<br \/><br \/>",
+                            "mark": 5,
+                            "marks_count": 2,
+                            "thanks": 1,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 763782,
+                                        "user_id": 517575,
+                                        "content": "Kurs dan Harga Bitcoin, Litecoin dan Doge hari ini<br \/><br \/>1 Bitcoin (BTC) = 422.61 USD<br \/><br \/>1 Litecoin (LTC) = 4.68 USD<br \/><br \/>Kurs USD ke Rupiah = Rp.11.953<br \/><br \/>Harga 1 Bitcoin ke Rupiah = Rp.5.051.457<br \/><br \/>Harga 1 Litecoin ke Rupiah = Rp.55.940<br \/><br \/>Harga 1 Dogecoin ke Rupiah = Rp.3.72",
+                                        "created": "2014-09-24T18:01:10+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 452047,
+                                "nick": "salmae",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d80\/0d08931790c000d42d7647535993ae0a.jpg"
+                            },
+                            {
+                                "id": 517575,
+                                "nick": "Dessy30",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dcf\/4eac936cb1db8f46a4e57ec555fe87da.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 95180,
+                        "subject_id": 12,
+                        "user_id": 72064,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "tulisakan penjelasan tentang bitcoin secara detile dalam ekonomi",
+                        "created": "2014-03-22T15:44:54+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2014-03-22T15:53:13+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "tulisakan penjelasan tentang <em>bitcoin<\/em> secara detile dalam ekonomi",
+                        "snippet_content": "tulisakan penjelasan tentang <em>bitcoin<\/em> secara detile dalam ekonomi"
+                    },
+                    "responses": [
+                        {
+                            "id": 151156,
+                            "user_id": 67615,
+                            "task_id": 95180,
+                            "points": 5,
+                            "created": "2014-03-22T15:53:13+07:00",
+                            "content": "Bitcoin adalah sebuah uang elektronik yang di buat pada tahun 2009 oleh Satoshi Nakamoto. Nama tersebut juga dikaitkan dengan perangkat lunak sumber terbuka\n yang dia rancang, dan juga menggunakan jaringan peer-ke-peer yang \nmenghubungkan semuanya. Tidak seperti mata uang pada umumnya, bitcoin \ntidak tergantung dengan mempercayai penerbit utama. Bitcoin menggunakan \nsebuah database yang didistribusikan dan menyebar ke node-node dari sebuah jaringan P2P ke jurnal transaksi, dan menggunakan KRIPTOGRAFI\n untuk menyediakan fungsi-fungsi keamanan dasar, seperti memastikan \nbahwa bitcoin-bitcoin hanya dapat dihabiskan oleh orang mempunyainya, \ndan tidak pernah boleh dilakukan lebih dari satu kali.<br \/><br \/>Bitcoin adalah salah satu dari implementasi pertama dari yang disebut cryptocurrency, pertama kali di deskripsikan oleh Wei Dai pada tahun 1998 dalam milis cypherpunks.<br \/><br \/>maaf kalo penjelasannya salah atau kurang detail...semoga dapat membantu.. :)<br \/><br \/><br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2015-07-19T22:44:40+07:00",
+                                "approver": {
+                                    "id": 1466930,
+                                    "nickname": "IOwl",
+                                    "points": 501043,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/d5a\/61354785b9dfbaad5f9c7163472dbc88.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/d9b\/6059311a04e72b31c42d91fcb6b70d14.png"
+                                    },
+                                    "content_approved_count": 52290
+                                }
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 142100,
+                                        "user_id": 72064,
+                                        "content": "makasih yah",
+                                        "created": "2014-03-22T17:22:50+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 142474,
+                                        "user_id": 67615,
+                                        "content": "iya sama-sama :)",
+                                        "created": "2014-03-22T21:09:40+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 2
+                            }
+                        },
+                        {
+                            "id": 151167,
+                            "user_id": 20806,
+                            "task_id": 95180,
+                            "points": 5,
+                            "created": "2014-03-22T15:57:08+07:00",
+                            "content": "<span><span>Bitcoin\u00a0adalah sebuah\u00a0uang elektronik\u00a0yang di buat pada tahun 2009 oleh Satoshi Nakamoto. Nama tersebut juga dikaitkan dengan perangkat lunak\u00a0sumber terbuka\u00a0yang dia rancang, dan juga menggunakan jaringan peer-ke-peer yang menghubungkan semuanya. Tidak seperti mata uang pada umumnya, bitcoin tidak tergantung dengan mempercayai penerbit utama. Bitcoin menggunakan sebuah\u00a0database yang didistribusikan\u00a0dan menyebar ke node-node dari sebuah jaringan\u00a0P2P\u00a0ke jurnal transaksi, dan menggunakan\u00a0kriptografi\u00a0untuk menyediakan fungsi-fungsi keamanan dasar, seperti memastikan bahwa bitcoin-bitcoin hanya dapat dihabiskan oleh orang mempunyainya, dan tidak pernah boleh dilakukan lebih dari satu kali.<\/span><span>Desain dari Bitcoin memperbolehkan untuk kepemilikan tanpa identitas (anonymous) dan pemindahan kekayaan. Bitcoin - bitcoin dapat disimpan di komputer pribadi dalam sebuah format\u00a0file walletatau di simpan oleh sebuah\u00a0servis wallet\u00a0pihak ketiga, dan terlepas dari semua itu Bitcoin - bitcoin dapat di kirim lewat internet kepada siapapun yang mempunyai sebuah\u00a0alamat Bitcoin. Topologi peer-to-peer bitcoin dan kurangnya administrasi tunggal membuatnya tidak mungkin untuk otoritas, pemerintahan apapun, untuk memanipulasi nilai dari bitcoin - bitcoin atau menyebabkan\u00a0inflasidengan memproduksi lebih banyak bitcoin.<\/span><span>Bitcoin adalah salah satu dari implementasi pertama dari yang disebut\u00a0cryptocurrency, pertama kali di deskripsikan oleh Wei Dai pada tahun 1998 dalam milis\u00a0cypherpunks<\/span><\/span>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2015-07-19T22:44:38+07:00",
+                                "approver": {
+                                    "id": 1466930,
+                                    "nickname": "IOwl",
+                                    "points": 501043,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/d5a\/61354785b9dfbaad5f9c7163472dbc88.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/d9b\/6059311a04e72b31c42d91fcb6b70d14.png"
+                                    },
+                                    "content_approved_count": 52290
+                                }
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 142101,
+                                        "user_id": 72064,
+                                        "content": "makasih yah",
+                                        "created": "2014-03-22T17:23:07+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 67615,
+                                "nick": "anisafidi",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d43\/a984931b9a84d3b72d422557fda9a679.jpg"
+                            },
+                            {
+                                "id": 20806,
+                                "nick": "Sa1sab1la",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/ddf\/9e3dd89928746fd671b861f9e1f33823.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 9293426,
+                        "subject_id": 11,
+                        "user_id": 4500052,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Bagaimana cara kerja bit coin terhadap rupiah Indonesia?",
+                        "created": "2017-02-05T21:11:10+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-02-05T22:20:17+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "6",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Bagaimana cara kerja <em>bit coin<\/em> terhadap rupiah Indonesia?",
+                        "snippet_content": "Bagaimana cara kerja <em>bit coin<\/em> terhadap rupiah Indonesia?"
+                    },
+                    "responses": [
+                        {
+                            "id": 11111413,
+                            "user_id": 2979683,
+                            "task_id": 9293426,
+                            "points": 5,
+                            "created": "2017-02-05T22:20:17+07:00",
+                            "content": "Bitcoin merupakan Mata uang kripto (Digital) yang di ciptakan kelompok yg menyebut dirinya Satoshi Nakamoto pada th 2009. tidak ada kaitan dari Bitcoin &amp; Rupiah. namun Bitcoin dapat di tukarkan ke semua mata uang, salah satunya rupiah melalui exchanger.<br \/>untuk belajar banyak silahkan mengunjungi www.bitcoin.org\u00a0:) semoga membantu",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2979683,
+                                "nick": "Habibulilalbaab",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 1572961,
+                        "subject_id": 5,
+                        "user_id": 931315,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 20,
+                            "ptsForResp": 10,
+                            "ptsForBest": 5
+                        },
+                        "content": "apa maksud kirim bitcoin",
+                        "created": "2014-11-26T08:36:44+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2014-11-26T08:38:29+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "apa maksud kirim <em>bitcoin<\/em>",
+                        "snippet_content": "apa maksud kirim <em>bitcoin<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 2008528,
+                            "user_id": 438686,
+                            "task_id": 1572961,
+                            "points": 10,
+                            "created": "2014-11-26T08:38:29+07:00",
+                            "content": "bitcoin = jaringan yang ada pada tubuh manusia yaitu jantung<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 6667863,
+                                        "user_id": 4853247,
+                                        "content": "lucu",
+                                        "created": "2017-04-08T01:07:40+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        },
+                        {
+                            "id": 2008653,
+                            "user_id": 892434,
+                            "task_id": 1572961,
+                            "points": 10,
+                            "created": "2014-11-26T08:56:36+07:00",
+                            "content": "Bitcoin adalah sebuah uang elektronik yang di buat pada tahun 2009 oleh Satoshi Nakamoto. Nama tersebut juga dikaitkan dengan perangkat lunak sumber terbuka yang dia rancang, dan juga menggunakan jaringan peer-ke-peer yang menghubungkan semuanya. \n\nJadi Maksud dari kirim bitcoin adalah mengirim sebuah uang elektronik. \nSemoga bermanfaat ;))",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 438686,
+                                "nick": "RichardAkbar",
+                                "avatar": null
+                            },
+                            {
+                                "id": 892434,
+                                "nick": "choyronisa",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 1110969,
+                        "subject_id": 11,
+                        "user_id": 697629,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "apa yang dimaksud bitcoin ",
+                        "created": "2014-10-17T07:36:06+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2014-10-17T07:36:56+07:00",
+                        "the_best_resp_id": "1433884",
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "apa yang dimaksud <em>bitcoin<\/em> ",
+                        "snippet_content": "apa yang dimaksud <em>bitcoin<\/em> "
+                    },
+                    "responses": [
+                        {
+                            "id": 1433884,
+                            "user_id": 696054,
+                            "task_id": 1110969,
+                            "points": 5,
+                            "created": "2014-10-17T07:36:56+07:00",
+                            "content": "Bitcoin<span>\u00a0adalah sebuah uang elektronik yang di buat pada tahun 2009 oleh Satoshi Nakamoto.\u00a0<\/span>",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 1433886,
+                            "user_id": 674093,
+                            "task_id": 1110969,
+                            "points": 5,
+                            "created": "2014-10-17T07:37:18+07:00",
+                            "content": "bitcoin adalah sebuah uang elektronok yang dibuat pada tahun 2009 oleh sathosi nakamoto",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 1005484,
+                                        "user_id": 697629,
+                                        "content": "Kalo kaitannya sama pasar gelap gmna y,  ....",
+                                        "created": "2014-10-17T07:44:45+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 696054,
+                                "nick": "feynadia",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dd6\/0c7de693dcbfe696aa0850ac38f1a0fd.jpg"
+                            },
+                            {
+                                "id": 674093,
+                                "nick": "AOctavia",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d4c\/07b47d36f31c1cc74b551598604dd43c.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 5991196,
+                        "subject_id": 11,
+                        "user_id": 2988357,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Sebutkan\/jelaskan apa itu bitcoin",
+                        "created": "2016-05-03T18:20:27+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2016-05-03T18:30:33+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Sebutkan\/jelaskan apa itu <em>bitcoin<\/em>",
+                        "snippet_content": "Sebutkan\/jelaskan apa itu <em>bitcoin<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 7122332,
+                            "user_id": 1528458,
+                            "task_id": 5991196,
+                            "points": 5,
+                            "created": "2016-05-03T18:30:33+07:00",
+                            "content": "BitCoin adalah mata uang non-fisik, rata rata kurs untuk 1 btc (BitCoin) adalah USD 380 = Rp3.800.000 . Beberapa negara seperti China, Thailand, Korut, dll tidak mengijinkan warganya untuk menggunakan uang tersebut. Uang tersebut dapat dihasilan dengan instan jika anda memiliki komputer server untuk men-generate file hash rekor bitcoin yang dihasilkan dengan komputer super tersebut (server) sekitar 5-9 BTC \/ hari.",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1528458,
+                                "nick": "albertong27",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 3453467,
+                        "subject_id": 4,
+                        "user_id": 1080828,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "apakah yang diomaksud dengan bitcoin itu?",
+                        "created": "2015-09-12T12:53:00+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2015-09-12T12:55:08+07:00",
+                        "the_best_resp_id": "4208394",
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "apakah yang diomaksud dengan <em>bitcoin<\/em> itu?",
+                        "snippet_content": "apakah yang diomaksud dengan <em>bitcoin<\/em> itu?"
+                    },
+                    "responses": [
+                        {
+                            "id": 4208394,
+                            "user_id": 1867719,
+                            "task_id": 3453467,
+                            "points": 5,
+                            "created": "2015-09-12T12:55:08+07:00",
+                            "content": "Bitcoin itu sama seperti menukar\u00a0<span>uang dengan cara yang lain dari bank biasanya.<br \/><\/span><span>Dengan demikian, Anda harus meluangkan waktu untuk belajar sebelum menggunakan Bitcoin untuk transaksi penting apapun. Bitcoin haruslah diperlakukan sama seperti Anda memperlakukan dompet Anda, atau bahkan lebih hati-hati dalam beberapa kasus.<\/span><br \/>",
+                            "mark": 5,
+                            "marks_count": 3,
+                            "thanks": 1,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 2640072,
+                                        "user_id": 1080828,
+                                        "content": "terimakasih ya...",
+                                        "created": "2015-09-12T13:03:42+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 3027340,
+                                        "user_id": 1867719,
+                                        "content": "sama\"",
+                                        "created": "2015-11-04T14:43:26+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 2
+                            }
+                        },
+                        {
+                            "id": 4208399,
+                            "user_id": 1849916,
+                            "task_id": 3453467,
+                            "points": 5,
+                            "created": "2015-09-12T12:55:35+07:00",
+                            "content": "coin yang diperkirakan akan menjadi mata uang seluruh dunia. Bit coin itu adalah uang Elektronik ",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1867719,
+                                "nick": "fadhil1956",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d8e\/f57856961e713e2ae41e64d5421e26f1.jpg"
+                            },
+                            {
+                                "id": 1849916,
+                                "nick": "seansan",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d90\/233915c45db820d95b8a5f80cdfbee90.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10277046,
+                        "subject_id": 11,
+                        "user_id": 749509,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 30,
+                            "ptsForResp": 15,
+                            "ptsForBest": 8
+                        },
+                        "content": "Apa yang dimaksud dengan bitcoin",
+                        "created": "2017-04-15T21:33:41+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2017-04-15T21:33:58+07:00",
+                        "the_best_resp_id": "12398142",
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Apa yang dimaksud dengan <em>bitcoin<\/em>",
+                        "snippet_content": "Apa yang dimaksud dengan <em>bitcoin<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 12398142,
+                            "user_id": 4866323,
+                            "task_id": 10277046,
+                            "points": 15,
+                            "created": "2017-04-15T21:33:58+07:00",
+                            "content": "Bitcoin\u00a0adalah sebuah\u00a0uang elektronik\u00a0yang di buat pada tahun 2009 oleh Satoshi Nakamoto. Nama tersebut juga dikaitkan dengan perangkat lunak\u00a0sumber terbuka\u00a0yang dia rancang, dan juga menggunakan jaringan peer-ke-peer tanpa penyimpanan terpusat atau administrator tunggal di mana Departemen Keuangan Amerika Serikat menyebut bitcoin sebuah mata uang yang terdesentralisasi.\u00a0",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2017-04-16T07:21:02+07:00",
+                                "approver": {
+                                    "id": 255538,
+                                    "nickname": "SyarifahAini",
+                                    "points": 16980,
+                                    "grade": 3,
+                                    "gender": 1,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/dc1\/09ac26df525da1023dfa44a04012ef23.jpg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/def\/8d6eb7df603abf35db74749931bebd69.jpg"
+                                    },
+                                    "content_approved_count": 429
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 12398152,
+                            "user_id": 4579136,
+                            "task_id": 10277046,
+                            "points": 15,
+                            "created": "2017-04-15T21:34:51+07:00",
+                            "content": "Bitcoin\u00a0adalah sebuah uang elektronik yang di buat pada tahun 2009 oleh Satoshi Nakamoto.  Tidak seperti mata uang pada umumnya,bitcoin\u00a0tidak tergantung dengan mempercayai penerbit utama.",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4866323,
+                                "nick": "TappoPhiz",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d11\/c411efdce0c4514c57b897f96e3218f3.jpg"
+                            },
+                            {
+                                "id": 4579136,
+                                "nick": "sabil301",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d78\/acc7f779320d18124a94e78a505474b4.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 5787213,
+                        "subject_id": 11,
+                        "user_id": 2894068,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "cara menghindari hack dan virus di deep web? dan cra mengumpulkan bitcoin gimana?",
+                        "created": "2016-04-14T21:10:52+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2016-04-14T21:43:22+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "cara menghindari hack dan virus di deep web? dan cra mengumpulkan <em>bitcoin<\/em> gimana?",
+                        "snippet_content": "cara menghindari hack dan virus di deep web? dan cra mengumpulkan <em>bitcoin<\/em> gimana?"
+                    },
+                    "responses": [
+                        {
+                            "id": 6867453,
+                            "user_id": 1535100,
+                            "task_id": 5787213,
+                            "points": 5,
+                            "created": "2016-04-14T21:43:22+07:00",
+                            "content": "kalo menurut sya , untuk menghindari hack pastikan , password anda itu panjang , memakai angka, lalu mudah dihapal , if virus gunakan antivirus saya sarankan pake avg<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 2,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 3964460,
+                                        "user_id": 2894068,
+                                        "content": "di deep web itu banyak hackers ..",
+                                        "created": "2016-04-14T21:56:58+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 6667864,
+                                        "user_id": 4853247,
+                                        "content": "ahahhaa kamu kaya memrk",
+                                        "created": "2017-04-08T01:08:39+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 2
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1535100,
+                                "nick": "asavin26",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d79\/ba674c7b5242197bc2d326d285c999b9.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 2806405,
+                        "subject_id": 11,
+                        "user_id": 528434,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 99,
+                            "ptsForResp": 50,
+                            "ptsForBest": 25
+                        },
+                        "content": "Sebutkan, 10 tempat-tempat \/ nama website (bukan link) yang dapat digunakan untuk menggali Bitcoin.?<br \/><br \/>\nMohon bantuannya :)",
+                        "created": "2015-06-01T17:20:02+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2015-06-01T17:27:38+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Sebutkan, 10 tempat-tempat \/ nama website (bukan link) yang dapat digunakan untuk menggali <em>Bitcoin.<\/em>?\nMohon bantuannya :)",
+                        "snippet_content": "Sebutkan, 10 tempat-tempat \/ nama website (bukan link) yang dapat digunakan untuk menggali <em>Bitcoin.<\/em>?\nMohon bantuannya :)"
+                    },
+                    "responses": [
+                        {
+                            "id": 3584213,
+                            "user_id": 1465737,
+                            "task_id": 2806405,
+                            "points": 50,
+                            "created": "2015-06-01T17:27:38+07:00",
+                            "content": "1. fast.com<br \/>2. rightclick.com<br \/>3. threelimits.com<br \/>4. witt.com<br \/>5. underlind.com<br \/>6. trickick.com<br \/>7. liard.com<br \/>8. dreambitcoin.com<br \/>9. slive.com<br \/>10. winered.com<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2015-06-01T21:46:50+07:00",
+                                "approver": {
+                                    "id": 1039751,
+                                    "nickname": "Dzaky111",
+                                    "points": 35904,
+                                    "grade": 2,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/d0a\/548016f644f9ea96dc78bd0183026111.jpg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/dba\/e7eb39aed7772a3298f5ab065b15f530.jpg"
+                                    },
+                                    "content_approved_count": 2640
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1465737,
+                                "nick": "Akun yang dihapus",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10616731,
+                        "subject_id": 4,
+                        "user_id": 5026046,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "bioindikator terhadap perairan yang tercemar oleh limbah kotoran manusia adalah",
+                        "created": "2017-05-12T08:15:11+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-05-12T12:14:59+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "<em>bioin<\/em>dikator terhadap perairan yang tercemar oleh limbah kotoran manusia adalah",
+                        "snippet_content": "<em>bioin<\/em>dikator terhadap perairan yang tercemar oleh limbah kotoran manusia adalah"
+                    },
+                    "responses": [
+                        {
+                            "id": 12859940,
+                            "user_id": 4654396,
+                            "task_id": 10616731,
+                            "points": 5,
+                            "created": "2017-05-12T12:14:59+07:00",
+                            "content": "bioindikatornya adalah bakteri<br \/><br \/><br \/><br \/><br \/><br \/>maaf salah<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4654396,
+                                "nick": "123yn",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d7d\/9ff70280d4406d824a8ec85f726ff260.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10802008,
+                        "subject_id": 4,
+                        "user_id": 5095717,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "peranan jamur sebagai bioindikator pencemaran udara",
+                        "created": "2017-05-28T17:18:44+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-05-28T17:22:21+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "peranan jamur sebagai <em>bioin<\/em>dikator pencemaran udara",
+                        "snippet_content": "peranan jamur sebagai <em>bioin<\/em>dikator pencemaran udara"
+                    },
+                    "responses": [
+                        {
+                            "id": 13117377,
+                            "user_id": 442276,
+                            "task_id": 10802008,
+                            "points": 5,
+                            "created": "2017-05-28T17:22:21+07:00",
+                            "content": "Peranan jamur sebagai bioindikator pencemaran udara untuk sebagai indikator kualitas udara.<br \/>Karena peran jamur atau fungi ini sebagai dekomposer atau pengurai zat organik ke zat anorganik sehingga unsur-unsur yang dibutuhkan lingkungan dapat kembali ke udara.",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 7,
+                            "source": "10",
+                            "client_type": "6",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 442276,
+                                "nick": "gra",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d13\/eb715797fba1d313b3a04935770ff5a8.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10624227,
+                        "subject_id": 5,
+                        "user_id": 5022106,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "A Lion And A mouse<br \/><br \/>\nOne day a lion was resting in the forest. He was sleeping and leaning his body under a tree. Then a mouse ran toward the lion without seeing him asleep in front of him. He was bumping the lion\u2019s face so hard that made him awake.<br \/>\nThe lion woke up and mad at him, \u201cWoaahhh, how dare you disturb my sleep?\u201d Then the lion caught the mouse. \u201cI\u2019m sorry my king! I accidentally hit you! \u201cHe said. \u201cI will eat you because you have wakened me up!\u201d cried the lion.<br \/>\n\u201cPlease! Do not eat me my king; I will reply your kindness someday if you let me go! \u201cBeg the mouse. Hearing what was said by the mouse, the lion laugh out loud, \u201cHHaaaa you will repay my kindness? How can a little creature like you can help me!\u201d He said. Then He looked at the mouse who was frightened. \u201cWell since you\u2019ve made me laugh, I\u2019ll let you go. Moreover, you cannot make me satisfied \u201csaid the Lion while releasing the mouse.<br \/>\nAfter he let him go, the mouse ran and said, \u201cI will not forget your kindness. Thank you \u201c. Then he was back into the forest. One day the lion was caught by hunter\u2019s trap. He was trapped in a net installed by hunter. The lion was struggling trying to escape from the net. But all of his efforts were useless because the net was too strong. Then he was screaming for help \u201cPlease, save me!\u201d the lion cried.<br \/>\nThe mouse that was foraging in the forest heard lion\u2019 screams. \u201cThat is lion. Seemed he is in trouble now. I have to help him \u201csaid the mouse. Soon afterward he went to lion. When he got there, he saw a lion that had trapped helpless in hunter\u2019s nets. \u201cHey, do not be afraid, I\u2019ll help you escape from this bondage\u201d said the mouse. \u201cWhat? You want to save me? Don\u2019t be kidding \u201csaid the lion. Then the mouse was climbing to the top of the net and began biting rope nets one by one with his sharp teeth. The lion, who initially did not believe, surprised to see what he did.<br \/>\nAfter a while the ropes broken and the lion could get out of the entanglement nets, \u201cThank you! My little friend, you have freed me. I do not think you can do it \u201csaid the lion. \u201cYou are welcome my friend. I had promised to repay your kindness someday so I did it \u201creplied the mouse. After that they were always together and became good friends in the forest.<br \/><br \/><br \/>\npertanyaan:<br \/>\n1.tuliskan complication dan resolution dari cerita di atas",
+                        "created": "2017-05-12T20:26:11+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-05-12T20:28:43+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "A Lion And A mouse\nOne day a lion was resting in the forest. He was sleeping and leaning his body under a tree. Then a mouse ran toward the lion without seeing him asleep in front of him. He was bumping the lion\u2019s face so hard that made him awake.\nThe lion woke up and mad at him, \u201cWoaahhh, how dare you disturb my sleep?\u201d Then the lion caught the mouse. \u201cI\u2019m sorry my king! I accidentally hit you! \u201cHe said. \u201cI will eat you because you have wakened me up!\u201d cried the lion.\n\u201cPlease! Do not eat me my king; I will reply your kindness someday if you let me go! \u201cBeg the mouse. Hearing what was said by the mouse, the lion laugh out loud, \u201cHHaaaa you will repay my kindness? How can a little creature like you can help me!\u201d He said. Then He looked at the mouse who was frightened. \u201cWell since you\u2019ve made me laugh, I\u2019ll let you go. Moreover, you cannot make me satisfied \u201csaid the Lion while releasing the mouse.\nAfter he let him go, the mouse ran and said, \u201cI will not forget your kindness. Thank you \u201c. Then he was back into the forest. One day the lion was caught by hunter\u2019s trap. He was trapped in a net installed by hunter. The lion was struggling trying to escape from the net. But all of his efforts were useless because the net was too strong. Then he was screaming for help \u201cPlease, save me!\u201d the lion cried.\nThe mouse that was foraging in the forest heard lion\u2019 screams. \u201cThat is lion. Seemed he is in trouble now. I have to help him \u201csaid the mouse. Soon afterward he went to lion. When he got there, he saw a lion that had trapped helpless in hunter\u2019s nets. \u201cHey, do not be afraid, I\u2019ll help you escape from this bondage\u201d said the mouse. \u201cWhat? You want to save me? Don\u2019t be kidding \u201csaid the lion. Then the mouse was climbing to the top of the net and began <em>bitin<\/em>g rope nets one by one with his sharp teeth. The lion, who initially did not believe, surprised to see what he did.\nAfter a while the ropes broken and the lion could get out of the entanglement nets, \u201cThank you! My little friend, you have freed me. I do not think you can do it \u201csaid the lion. \u201cYou are welcome my friend. I had promised to repay your kindness someday so I did it \u201creplied the mouse. After that they were always together and became good friends in the forest.\npertanyaan:\n1.tuliskan complication dan resolution dari cerita di atas",
+                        "snippet_content": "mouse was climbing to the top of the net and began <em>bitin<\/em>g rope nets one by one with his sharp teeth. The"
+                    },
+                    "responses": [
+                        {
+                            "id": 12868145,
+                            "user_id": 720015,
+                            "task_id": 10624227,
+                            "points": 5,
+                            "created": "2017-05-12T20:28:43+07:00",
+                            "content": "<span>After he let him go, the mouse ran and said, \u201cI will not forget your kindness. Thank you \u201c. Then he was back into the forest. One day the lion was caught by hunter\u2019s trap. He was trapped in a net installed by hunter.<\/span>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 720015,
+                                "nick": "smoking",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dae\/820ae9d5e25cde29228bb3a42164b51c.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10736086,
+                        "subject_id": 12,
+                        "user_id": 4194542,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 40,
+                            "ptsForResp": 20,
+                            "ptsForBest": 10
+                        },
+                        "content": "keuntungan yang diperoleh investor dengan memiliki saham adalah...<br \/>a.capital losa<br \/>b.capitak gain<br \/>c.laba<br \/>d.yield<br \/>e.fee<br \/>harga obligasi yang lebih besar dari nilai nominalnya disebut...<br \/>a.par<br \/>b.at discoint<br \/>c.yield<br \/>d.curent yield<br \/>e.premium<br \/>perusahaan yang menawarkan efeknya kepada masyrakat investor melalui penawaran umum disebut...<br \/>a.perusahaan publik<br \/>b.reksa dana<br \/>c.emiten<br \/>d.perusahaan go public<br \/>e.perusahaan efek",
+                        "created": "2017-05-21T18:04:55+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2017-05-22T14:57:31+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "keuntungan yang diperoleh investor dengan memiliki saham adalah...a.capital losab.capitak gainc.labad.yielde.feeharga obligasi yang lebih besar dari nilai nominalnya disebut...a.parb.at <em>discoin<\/em>tc.yieldd.curent yielde.premiumperusahaan yang menawarkan efeknya kepada masyrakat investor melalui penawaran umum disebut...a.perusahaan publikb.reksa danac.emitend.perusahaan go publice.perusahaan efek",
+                        "snippet_content": "obligasi yang lebih besar dari nilai nominalnya disebut...a.parb.at <em>discoin<\/em>tc.yieldd.curent yielde.premiumperusahaan yang menawarkan efeknya kepada masyrakat investor"
+                    },
+                    "responses": [
+                        {
+                            "id": 13036437,
+                            "user_id": 2297087,
+                            "task_id": 10736086,
+                            "points": 20,
+                            "created": "2017-05-22T14:57:31+07:00",
+                            "content": "1. b. capital gain<br \/>2. e. premium<br \/>3. c. emiten",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 7,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2297087,
+                                "nick": "tribeking22",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d72\/4e774648b0ecd206316fbbcd16b12345.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 17,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 5005159,
+            "nick": "indraheriawan",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 5,
+                "comments": 1
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/ddf\/7aad5b75f1431fea47becbf1637e7105.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d0e\/5e908e49f35bde38fd998642795f9ce9.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/ddf\/7aad5b75f1431fea47becbf1637e7105.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d0e\/5e908e49f35bde38fd998642795f9ce9.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 5005223,
+            "nick": "yogigintink",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 3,
+                "comments": 2
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dba\/fd7b07792d569aba9c4839da752d72e5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d3d\/0213dd8ba331ed5c3615aec0fb7eaa11.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dba\/fd7b07792d569aba9c4839da752d72e5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d3d\/0213dd8ba331ed5c3615aec0fb7eaa11.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 528434,
+            "nick": "nahason07",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 65,
+                "answers": 282,
+                "comments": 305
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d1f\/91218d2aecaf7ff1302440acbe922021.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d8b\/81a8746f12078b0ca0f0de182aef6d87.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d1f\/91218d2aecaf7ff1302440acbe922021.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d8b\/81a8746f12078b0ca0f0de182aef6d87.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 150839,
+            "nick": "sincanrpc",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 47,
+                "answers": 48,
+                "comments": 25
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de4\/375efed65c14348507745480fa989256.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc3\/8aacda4e47aa6375302d3a53970fd32f.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de4\/375efed65c14348507745480fa989256.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc3\/8aacda4e47aa6375302d3a53970fd32f.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 333592,
+            "nick": "GigWirawan",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 10,
+                "comments": 2
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d48\/4c949f1590bf683f35342ceef41bead9.jpeg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dee\/066e7cd259baee1d891b59f057c3c69f.jpeg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d48\/4c949f1590bf683f35342ceef41bead9.jpeg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dee\/066e7cd259baee1d891b59f057c3c69f.jpeg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 333834,
+            "nick": "elsiekey2000",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 126,
+                "comments": 2
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 452047,
+            "nick": "salmae",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 421,
+                "comments": 4
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df1\/cb3f2355600fd157881d20762b9170a8.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d80\/0d08931790c000d42d7647535993ae0a.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df1\/cb3f2355600fd157881d20762b9170a8.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d80\/0d08931790c000d42d7647535993ae0a.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        },
+        {
+            "id": 517575,
+            "nick": "Dessy30",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 81,
+                "comments": 8
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db8\/d10b6b350e62e88181f10a4d82e4ff8b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dcf\/4eac936cb1db8f46a4e57ec555fe87da.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db8\/d10b6b350e62e88181f10a4d82e4ff8b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dcf\/4eac936cb1db8f46a4e57ec555fe87da.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 72064,
+            "nick": "nidaankhofia",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 5,
+                "comments": 8
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d8d\/8f78f4033d006d44d3a54ef6d02aec87.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de5\/7ebea1e927139561165d0f113eb8f381.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d8d\/8f78f4033d006d44d3a54ef6d02aec87.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de5\/7ebea1e927139561165d0f113eb8f381.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 67615,
+            "nick": "anisafidi",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 54,
+                "comments": 32
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de9\/708e037111e389ead475cca52d22d42b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d43\/a984931b9a84d3b72d422557fda9a679.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de9\/708e037111e389ead475cca52d22d42b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d43\/a984931b9a84d3b72d422557fda9a679.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 20806,
+            "nick": "Sa1sab1la",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 192,
+                "answers": 1255,
+                "comments": 1109
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d38\/de33a8c2137168e22bf8fd0f2c9e4a10.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ddf\/9e3dd89928746fd671b861f9e1f33823.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d38\/de33a8c2137168e22bf8fd0f2c9e4a10.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ddf\/9e3dd89928746fd671b861f9e1f33823.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        },
+        {
+            "id": 4500052,
+            "nick": "levidjafu",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 2,
+                "comments": 2
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df1\/767f8cae91b2c1340ad849334b8a2b0e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dab\/f98a34817102fb52f7b80bbe75d0b3b8.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df1\/767f8cae91b2c1340ad849334b8a2b0e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dab\/f98a34817102fb52f7b80bbe75d0b3b8.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 2979683,
+            "nick": "Habibulilalbaab",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 5,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 931315,
+            "nick": "denykus",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 0,
+                "comments": 1
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4853247,
+            "nick": "baumencrett",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 1,
+                "comments": 8
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd7\/171dfb05587a670b60b5143facce835b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da9\/4d8aecf85aaf498e94b3cce85b67dc33.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd7\/171dfb05587a670b60b5143facce835b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da9\/4d8aecf85aaf498e94b3cce85b67dc33.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 438686,
+            "nick": "RichardAkbar",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 29,
+                "answers": 37,
+                "comments": 9
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#000000",
+                "names": [],
+                "count": 0
+            },
+            "ranks_ids": null
+        },
+        {
+            "id": 892434,
+            "nick": "choyronisa",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 15,
+                "comments": 1
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 697629,
+            "nick": "arievbepe",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 1,
+                "comments": 1
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 696054,
+            "nick": "feynadia",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 59,
+                "comments": 3
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/def\/b46e6269db94bff4fa5f0fe871949535.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd6\/0c7de693dcbfe696aa0850ac38f1a0fd.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/def\/b46e6269db94bff4fa5f0fe871949535.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd6\/0c7de693dcbfe696aa0850ac38f1a0fd.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 674093,
+            "nick": "AOctavia",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 6,
+                "answers": 67,
+                "comments": 18
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d8c\/03781bab4d0d1cc3a0b422babf2dc5eb.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d4c\/07b47d36f31c1cc74b551598604dd43c.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d8c\/03781bab4d0d1cc3a0b422babf2dc5eb.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d4c\/07b47d36f31c1cc74b551598604dd43c.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 2988357,
+            "nick": "a6fitriantiAfifahel",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d22\/96b2acac66fb12cbe2cd60625cf26293.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d80\/bbb839470579009ea39e44e56ccf0ce4.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d22\/96b2acac66fb12cbe2cd60625cf26293.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d80\/bbb839470579009ea39e44e56ccf0ce4.png"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1528458,
+            "nick": "albertong27",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 28,
+                "comments": 16
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 1080828,
+            "nick": "tonyhanung17",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 184,
+                "comments": 69
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d74\/6057d0e6717b7462a48bc6a4518bb676.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d04\/2d70078f7b6ba44bd11c17f6d7b6f75e.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d74\/6057d0e6717b7462a48bc6a4518bb676.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d04\/2d70078f7b6ba44bd11c17f6d7b6f75e.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 1867719,
+            "nick": "fadhil1956",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 8,
+                "comments": 3
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da4\/103aa3cc942bd4b946a4baaea4add030.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d8e\/f57856961e713e2ae41e64d5421e26f1.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da4\/103aa3cc942bd4b946a4baaea4add030.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d8e\/f57856961e713e2ae41e64d5421e26f1.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 1849916,
+            "nick": "seansan",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 9,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dff\/b1bf71e9794b4f218fc014b0475fa810.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d90\/233915c45db820d95b8a5f80cdfbee90.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dff\/b1bf71e9794b4f218fc014b0475fa810.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d90\/233915c45db820d95b8a5f80cdfbee90.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 749509,
+            "nick": "Miun99",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 9,
+                "answers": 4,
+                "comments": 2
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4a\/4a7421e9cd39ea0150a0228fef36fb69.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d48\/9ed41de45d9078545f6e878aeadbecbe.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4a\/4a7421e9cd39ea0150a0228fef36fb69.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d48\/9ed41de45d9078545f6e878aeadbecbe.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4866323,
+            "nick": "TappoPhiz",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 11,
+                "comments": 2
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d5e\/2b05ea0059a89e7be421e916607449b0.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d11\/c411efdce0c4514c57b897f96e3218f3.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d5e\/2b05ea0059a89e7be421e916607449b0.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d11\/c411efdce0c4514c57b897f96e3218f3.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4579136,
+            "nick": "sabil301",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 18,
+                "answers": 118,
+                "comments": 25
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d50\/ecd58ada9f9c10d1043295aad1a4e98a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d78\/acc7f779320d18124a94e78a505474b4.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d50\/ecd58ada9f9c10d1043295aad1a4e98a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d78\/acc7f779320d18124a94e78a505474b4.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 2894068,
+            "nick": "vikars",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 0,
+                "comments": 2
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1535100,
+            "nick": "asavin26",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 161,
+                "answers": 57,
+                "comments": 260
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dcc\/1d4c88d7a6fdac3b79eeff046ed321e4.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d79\/ba674c7b5242197bc2d326d285c999b9.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dcc\/1d4c88d7a6fdac3b79eeff046ed321e4.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d79\/ba674c7b5242197bc2d326d285c999b9.jpg"
+            },
+            "ranks": {
+                "color": "#000000",
+                "names": [],
+                "count": 0
+            },
+            "ranks_ids": null
+        },
+        {
+            "id": 1465737,
+            "nick": "Akun yang dihapus",
+            "gender": 1,
+            "is_deleted": true,
+            "stats": {
+                "questions": 17,
+                "answers": 40,
+                "comments": 74
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#000000",
+                "names": [],
+                "count": 0
+            },
+            "ranks_ids": null
+        },
+        {
+            "id": 5026046,
+            "nick": "alvi94",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4654396,
+            "nick": "123yn",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 87,
+                "comments": 46
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d08\/3da0e2e1091a48f4ebaceb8056c4627b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7d\/9ff70280d4406d824a8ec85f726ff260.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d08\/3da0e2e1091a48f4ebaceb8056c4627b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7d\/9ff70280d4406d824a8ec85f726ff260.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 5095717,
+            "nick": "dsftri",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 6,
+                "answers": 6,
+                "comments": 1
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d7c\/d137d94a4423bcd933ec6fa3cca35d25.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d27\/78123a4757ff97107d0e8be167919185.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d7c\/d137d94a4423bcd933ec6fa3cca35d25.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d27\/78123a4757ff97107d0e8be167919185.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 442276,
+            "nick": "gra",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 37,
+                "answers": 4685,
+                "comments": 1724
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d21\/c16207a1bb8f716a361668094da123c0.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d13\/eb715797fba1d313b3a04935770ff5a8.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d21\/c16207a1bb8f716a361668094da123c0.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d13\/eb715797fba1d313b3a04935770ff5a8.jpg"
+            },
+            "ranks": {
+                "color": "#ffbe32",
+                "names": [
+                    "Supervisor",
+                    "KsatriaBrainly",
+                    "Best Active",
+                    "PraSenior ",
+                    "Mentor",
+                    "Moderator",
+                    "GameMaker",
+                    "BrainlyElite",
+                    "Jenius"
+                ],
+                "count": 9
+            },
+            "ranks_ids": [
+                33,
+                23,
+                53,
+                25,
+                51,
+                19,
+                24,
+                27,
+                7
+            ]
+        },
+        {
+            "id": 5022106,
+            "nick": "AshaYasmin",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 8,
+                "comments": 2
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d6c\/4bf6c79eea2e5ca64d06c747f622374e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d73\/fd1723541c0683093f102d3715aaf34e.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d6c\/4bf6c79eea2e5ca64d06c747f622374e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d73\/fd1723541c0683093f102d3715aaf34e.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 720015,
+            "nick": "smoking",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 59,
+                "answers": 60,
+                "comments": 57
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d6c\/05665030b18a0c5aaaedd3418e44c2b2.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dae\/820ae9d5e25cde29228bb3a42164b51c.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d6c\/05665030b18a0c5aaaedd3418e44c2b2.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dae\/820ae9d5e25cde29228bb3a42164b51c.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 4194542,
+            "nick": "rizkarah1",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 2,
+                "comments": 1
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 2297087,
+            "nick": "tribeking22",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 24,
+                "answers": 16260,
+                "comments": 3602
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d61\/2a4619f5a42ca171c9f8c10c14dac697.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d72\/4e774648b0ecd206316fbbcd16b12345.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d61\/2a4619f5a42ca171c9f8c10c14dac697.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d72\/4e774648b0ecd206316fbbcd16b12345.jpg"
+            },
+            "ranks": {
+                "color": "#ffbe32",
+                "names": [
+                    "Guru",
+                    "BrainlyDoctor",
+                    "BrainlyElite",
+                    "O-ADVENTURER-O",
+                    "Moderator",
+                    "Mentor",
+                    "Economics-DavidRicardo",
+                    "Jenius"
+                ],
+                "count": 8
+            },
+            "ranks_ids": [
+                12,
+                32,
+                27,
+                94,
+                19,
+                51,
+                118,
+                7
+            ]
+        }
+    ],
+    "validated": false
+}

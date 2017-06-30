@@ -1,0 +1,1016 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 7802705,
+                        "subject_id": 1,
+                        "user_id": 3891509,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 40,
+                            "ptsForResp": 20,
+                            "ptsForBest": 10
+                        },
+                        "content": "Akar Sebuah Hati<br \/><br \/>\nHujan semakin deras dan petir sekali-kali menyambar membuat hatiku agak takut. Kulirik arlojiku, waktu sudah cukup larut. Tapi, aku masih berdiri di halte menunggu bus yang searah tujuan rumahku.<br \/>\n\u201cNaik taksi saja, Non.\u201d Tiba-tiba seorang lelaki tua penjual rokok yang mengkal di halte bus itu memberikan saran. Aku mengangguk dan tersenyum. Sejenak aku dilanda bimbang. Tapi ketika sebuah taksi melintas di hadapanku, aku menghentikannya juga. Sampai rumah dengan susah payah kubuka gerendel pitu pagar besi, sementara hujan mengguyur tubuhku.<br \/>\n\u201cKenapa tidak membawa payung?\u201d tiba-tiba ibuku sudah muncul di ambang pintu. \u201cKukira hari ini tidak akan turun hujan.\u201d \u201cHujan, tidak hujan kau harus bawa, kan tidak berat,\u201d kata ibu lagi seraya membalikkan tubuhnya ke dalam rumah. Aku hanya bisa mengangkat bahu dan segera melepas sepatuku yang sudah basah dan kotor. Begitulah ibu, melihat aku basah kuyup. Ibu bukannya iba dan membawakan handuk untukku, tapi malah menegur keaalpaanku.<br \/>\nKalau ibu tahu tadi aku pulang naik taksi, ibu pasti akan marah dan mengatakan aku \u201csi royal\u201d tidak peduli dengan keadaan yang kuhadapi. \u201cMakan dulu Ti! Tapi terserah kalau kau mau sakit\u2026,\u201d ujar ibu seraya melongokkan kepalanya sesaat dari balik pintu. Aku hanya mengangguk dan menggeliatkan tubuh di atas ranjang. Dengan malas akhirnya kuseret juga sandalku ke ruang makan.<br \/>\nIbu memang keras mendidikku. Sejak kecil setelah ayah tiada, ibu mengurus aku dan kakakku, Sisi, seorang diri. Ibu tidak pernah menggaji seorang pembantu rumah tangga, semua dikerjakannya sendiri. Untuk menambah uang pensiunan ayah yang tidak seberapa, ibu rajin membuat seprai dan bantal kursi, juga topi unik untuk dijual kepada kawan-kawannya dengan cara mencicilnya. Tetapi, meski hidup hemat dan sederhana, ibu sangat mementingkan pendidikanku dan Sisi. Untuk mendapatkan sebuah sepatu baru pada saat itu rasanya sulit sekali. Padahal kakiku sering lecet karena pakunya menonjol keluar. Ibu lebih suka mengeluarkan uangnya untuk biaya les-les tambahan. Selain itu ibu pun menerapkan disiplin yang kurasa cukup keras. Kakakku sisi pernah diberi tugas mencatat kalimat \u201csaya tidak akan lupa lagi\u201d sebanyak 100 kali setiap hari selama seminggu, hanya karena Sisi pulang sekolah sebelum waktunya. Ia tidak mengerjakan PR sekolahnya. Di lain waktu ibu pun pernah menghukumku mondar-mandir sebanyak 25 kali, antara serambi depan sampai dapur, hanya karena aku menyerahkan pekerjaan rumah menggambarku kepada Sisi. Aku memang tidak pandai menggambar.<br \/>\n\u201cGunakan tanganmu, jangan bergantung dan menyusahkan orang lain,\u201d Begitu katanya. Bahkan kami tidak boleh menangis bila menghadapi apapun yang membuat kami ingin menangis. Ibu akan membentak kami dan mengatakan, \u201cSi Cengeng.\u201d<br \/>\nIbu memang berkesan kaku dan keras, tapi itulah kenyataannya. Bahkan setelah Sisi duduk di bangku SMP, ibu mengharuskan Sisi untk memasuki perguruan pencak silat atau karate, walau Sisi akhirnya memilih Taekwondo.<br \/>\n\u201cSuatu saat nanti, kau pun akan memahami dan menyadarinya,\u201d begitu ucap Sisi suatu hari ketika menyampaikan keherananku akan sikap ibu akhir-akhir ini.<br \/>\nSumber: 25 Naskah terbaik Lomba Cerpen 2001 dengan pengubahan<br \/><br \/>\nBacalah teks cerpen di atas, lalu jawablah pertanyaan-pertanyaan di bawah ini!<br \/><br \/>\n1. Uraikanlah konflik\/masalah yang terdapat dalam cerpen di atas!<br \/>\n2. Apa penyebab konflik tersebut?<br \/>\n3. Jelaskan maksud kalimat \u201cGunakan tanganmu, jangan bergantung dan menyusahkan orang lain!\u201d<br \/>\n4. Sebutkan 3 amanat\/hikmah yang terdapat dalam cerpen di atas!<br \/><br \/><br \/><br \/>\nTolong dibantu ya, kawan!",
+                        "created": "2016-10-10T19:39:38+07:00",
+                        "responses": 1,
+                        "tickets": 3,
+                        "first_resp": "2016-10-11T17:08:16+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Akar Sebuah Hati\nHujan semakin deras dan petir sekali-kali menyambar membuat hatiku agak takut. Kulirik arlojiku, waktu sudah cukup larut. Tapi, aku masih berdiri di halte menunggu bus yang searah tujuan rumahku.\n\u201cNaik taksi saja, Non.\u201d Tiba-tiba seorang lelaki tua penjual rokok yang mengkal di halte bus itu memberikan saran. Aku mengangguk dan tersenyum. Sejenak aku dilanda bimbang. Tapi ketika sebuah taksi melintas di hadapanku, aku menghentikannya juga. Sampai rumah dengan susah payah kubuka gerendel pitu pagar besi, sementara hujan mengguyur tubuhku.\n\u201cKenapa tidak membawa payung?\u201d tiba-tiba ibuku sudah muncul di ambang pintu. \u201cKukira hari ini tidak akan turun hujan.\u201d \u201cHujan, tidak hujan kau harus bawa, kan tidak berat,\u201d kata ibu lagi seraya membalikkan tubuhnya ke dalam rumah. Aku hanya bisa mengangkat bahu dan segera melepas sepatuku yang sudah basah dan kotor. Begitulah ibu, melihat aku basah kuyup. Ibu bukannya iba dan membawakan handuk untukku, tapi malah menegur keaalpaanku.\nKalau ibu tahu tadi aku pulang naik taksi, ibu pasti akan marah dan mengatakan aku \u201csi royal\u201d tidak peduli dengan keadaan yang kuhadapi. \u201cMakan dulu Ti! Tapi terserah kalau kau mau sakit\u2026,\u201d ujar ibu seraya melongokkan kepalanya sesaat dari balik pintu. Aku hanya mengangguk dan menggeliatkan tubuh di atas ranjang. Dengan malas akhirnya kuseret juga sandalku ke ruang makan.\nIbu memang keras mendidikku. Sejak kecil setelah ayah tiada, ibu mengurus aku dan kakakku, Sisi, seorang diri. Ibu tidak pernah <em>menggaji<\/em> seorang pembantu rumah tangga, semua dikerjakannya sendiri. Untuk menambah uang pensiunan ayah yang tidak seberapa, ibu rajin membuat seprai dan bantal kursi, juga <em>topi<\/em> unik untuk dijual kepada kawan-kawannya dengan cara mencicilnya. Tetapi, meski hidup hemat dan sederhana, ibu sangat mementingkan pendidikanku dan Sisi. Untuk mendapatkan sebuah sepatu baru pada saat itu rasanya sulit sekali. Padahal kakiku sering lecet karena pakunya menonjol keluar. Ibu lebih suka mengeluarkan uangnya untuk biaya les-les tambahan. Selain itu ibu pun menerapkan disiplin yang kurasa cukup keras. Kakakku sisi pernah diberi tugas mencatat kalimat \u201csaya tidak akan lupa lagi\u201d sebanyak 100 kali setiap hari selama seminggu, hanya karena Sisi pulang sekolah sebelum waktunya. Ia tidak mengerjakan PR sekolahnya. Di lain waktu ibu pun pernah menghukumku mondar-mandir sebanyak 25 kali, antara serambi depan sampai dapur, hanya karena aku menyerahkan pekerjaan rumah menggambarku kepada Sisi. Aku memang tidak pandai menggambar.\n\u201cGunakan tanganmu, <em>jangan<\/em> bergantung dan menyusahkan orang lain,\u201d Begitu katanya. Bahkan kami tidak boleh menangis bila menghadapi apapun yang membuat kami ingin menangis. Ibu akan membentak kami dan mengatakan, \u201cSi Cengeng.\u201d\nIbu memang berkesan kaku dan keras, tapi itulah kenyataannya. Bahkan setelah Sisi duduk di bangku SMP, ibu mengharuskan Sisi untk memasuki perguruan pencak silat atau karate, walau Sisi akhirnya memilih Taekwondo.\n\u201cSuatu saat nanti, kau pun akan memahami dan menyadarinya,\u201d begitu ucap Sisi suatu hari ketika menyampaikan keherananku akan sikap ibu akhir-akhir ini.\nSumber: 25 Naskah terbaik Lomba Cerpen 2001 dengan pengubahan\nBacalah teks cerpen di atas, lalu jawablah pertanyaan-pertanyaan di bawah ini!\n1. Uraikanlah konflik\/masalah yang terdapat dalam cerpen di atas!\n2. Apa penyebab konflik tersebut?\n3. Jelaskan maksud kalimat \u201cGunakan tanganmu, <em>jangan<\/em> bergantung dan menyusahkan orang lain!\u201d\n4. Sebutkan 3 amanat\/hikmah yang terdapat dalam cerpen di atas!\nTolong dibantu ya, kawan!",
+                        "snippet_content": "ibu mengurus aku dan kakakku, Sisi, seorang diri. Ibu tidak pernah <em>menggaji<\/em> seorang pembantu rumah tangga, semua dikerjakannya sendiri. Untuk menambah uang"
+                    },
+                    "responses": [
+                        {
+                            "id": 9269971,
+                            "user_id": 3668569,
+                            "task_id": 7802705,
+                            "points": 20,
+                            "created": "2016-10-11T17:08:16+07:00",
+                            "content": "jangan selalu bertinggi hati sebab tidak ada gunanya",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3668569,
+                                "nick": "morsbeen",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d6e\/a926655687c01e5120f4caee0f18181e.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 1528265,
+                        "subject_id": 1,
+                        "user_id": 836204,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "tolong bikinin sinopsis cerita ini ya???<br \/><br \/>\nBerita Politik Humaniora Ekonomi Hiburan Olahraga Lifestyle Wisata Kesehatan Tekno Media Muda Green Jakarta Fiksiana Freez<br \/>\nHome<br \/>\nEkonomi<br \/>\nBisnis<br \/>\nArtikel<br \/>\nBisnis<br \/>\nJunanto Herdiawan<br \/><br \/>\nPecinta ekonomi dan traveling. Penulis empat buku, Flying Traveler, Shocking Japan, Shocking Korea, dan Japan selengkapnya<br \/>\nTERVERIFIKASI<br \/>\nJadikan Teman |  Kirim Pesan<br \/>\n0inShare<br \/>\nEkonomi Indonesia Lampaui Jerman<br \/>\nREP | 15 October 2012 | 06:59 Dibaca: 3250   Komentar: 1   0<br \/><br \/>\n13502589741634165286<br \/><br \/>\nSuasana Sidang IMF\/WB di Tokyo yang membahas ekonomi global \/ photo junanto<br \/><br \/>\nIndonesia menjadi buah bibir pada saat pelaksanaan Sidang Tahunan IMF\/World Bank 2012 Tokyo, 9-14 Oktober 2012, lalu. Newsletter resmi yang dibagikan IMF pada seluruh peserta sidang mengangkat satu topik khusus mengenai Indonesia. Media itu mengangkat hasil riset dari McKinsey dan Standard Chartered yang mengatakan bahwa ekonomi Indonesia akan melampaui Jerman dan Inggris pada tahun 2030.<br \/><br \/>\nSeorang kawan dari Amerika Serikat menyinggung hal itu pada saya, saat sedang berbincang bersama sambil menanti berlangsungnya salah satu sidang dalam rangkaian pertemuan IMF\/WB tersebut. Ia menyatakan kekagumannya atas pencapaian ekonomi Indonesia saat ini.<br \/><br \/>\nKeyakinannya tentu beralasan. Indonesia diperkirakan memiliki sekitar 90 juta orang yang berada di kelompok \u201cconsuming class\u201d. Angka ini adalah angka terbesar di dunia setelah Cina dan India. Dengan kekuatan itu pula, di tahun 2030, Indonesia akan menjadi kekuatan ekonomi nomor tujuh dunia dengan nilai pendapatan nasional sebesar 1,8 triliun dolar AS dari sektor pertanian, konsumsi, dan energi.<br \/><br \/>\nIndonesia saat ini sedang berada pada laju transformasi yang pesat menuju ke arah tersebut. Saat ini, ekonomi Indonesia berada pada posisi 16 dunia, dengan pendapatan domestik nasional sebesar 846 miliar dolar AS di tahun 2011. Angka ini akan terus tumbuh, hingga mencapai 1,8 triliun dolar AS mulai tahun 2017. Dan di tahun 2030, hanya AS, Cina, India, Jepang, Brazil, dan Rusia, yang berada di atas ekonomi Indonesia.<br \/><br \/>\nKekuatan terbesar ekonomi Indonesia bukan semata ekspor yang didukung oleh kekuatan tenaga kerja dan komoditas, namun justu kekuatan konsumsi domestik dan jasa-jasa, yang menjadi motor penggerak ekonomi nasional.<br \/><br \/>\nMelihat potensi yang sedemikian besar, dalam beberapa pertemuan side meeting sidang IMF yang sempat saya ikuti, para investor asing mengharapkan adanya semakin banyak pilihan melakukan investasi di Indonesia. Di satu sisi, mereka yakin dan paham betul akan ekonomi Indonesia ke depan beserta potensinya. Namun saat ingin melakukan investasi, tak banyak pilihan, baik di sektor riil maupun keuangan.<br \/><br \/>\n13502590451182932751<br \/><br \/>\nRuang Delegasi Indonesia saat Sidang IMF\/WB di Tokyo . photo junanto<br \/><br \/>\nDi sektor keuangan, beberapa investor mengharapkan premi yang rendah dalam memegang surat-surat berharga Indonesia. Hal ini mengingat pula bahwa Indonesia dalam sepuluh tahun terakhir ini tercatat memiliki fluktuasi terendah dalam ekonominya dibanding negara-negara di OECD dan BRIC. Utang pemerintah juga telah turun sebesar 70 persen dan saat ini yang terendah di kalangan negara OECD. Mereka juga mengharapkan munculnya berbagai pilihan investasi alternatif.<br \/><br \/>\nHarapan para investor tersebut tentu merupakan peluang dan tantangan bagi Indonesia. Upaya melakukan pendalaman pasar keuangan (financial deepening) menjadi penting dalam memberikan ragam pilihan investasi bagi para investor. Di sisi lain, pembenahan di sektor riil dan infrastruktur perlu terus dilakukan secara serius guna mendukung arah menjadikan ekonomi Indonesia yang terbesar di Asia Tenggara.<br \/><br \/>\nSaat ini, pertumbuhan ekonomi Indonesia yang berada pada kisaran 5 persen hingga 6 persen, apabila dapat terus dipertahankan, akan menambah jumlah masyarakat kelas menengah hingga 90 juta orang, dengan pendapatan per kapita lebih dari 3600 dolar AS. Apabila kita mampu mendorong pertumbuhan hingga 7 persen, jumlah itu bertambah lagi, dengan masyarakat menengah mencapai 170 juta orang.<br \/><br \/>\nBerbagai perkembangan dari sidang akbar IMF di Tokyo pekan lalu kembali mengingatkan kita tentang besarnya potensi Indonesia, dan sempitnya momentum yang sedang kita lalui saat ini.<br \/><br \/>\nApabila potensi itu tidak diwujudkan dalam aksi, dan momentum yang baik dilewatkan begitu saja, karena kita begitu asyik dengan urusan lain, maka prediksi para investor tersebut tidak akan menjadi kenyataan. Tentunya pilihan ada di tangan kita semua saat ini. Salam Indonesia.<br \/>",
+                        "created": "2014-11-21T18:24:09+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2014-11-21T18:30:55+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "tolong bikinin sinopsis cerita ini ya???\nBerita Politik Humaniora Ekonomi Hiburan Olahraga Lifestyle Wisata Kesehatan Tekno Media Muda Green Jakarta Fiksiana Freez\nHome\nEkonomi\nBisnis\nArtikel\nBisnis\nJunanto Herdiawan\nPecinta ekonomi dan traveling. Penulis empat buku, Flying Traveler, Shocking Japan, Shocking Korea, dan Japan selengkapnya\nTERVERIFIKASI\nJadikan Teman |  Kirim Pesan\n0inShare\nEkonomi Indonesia Lampaui Jerman\nREP | 15 October 2012 | 06:59 Dibaca: 3250   Komentar: 1   0\n13502589741634165286\nSuasana Sidang IMF\/WB di Tokyo yang membahas ekonomi global \/ photo junanto\nIndonesia menjadi buah bibir pada saat pelaksanaan Sidang Tahunan IMF\/World Bank 2012 Tokyo, 9-14 Oktober 2012, lalu. Newsletter resmi yang dibagikan IMF pada seluruh peserta sidang mengangkat satu <em>topik<\/em> khusus mengenai Indonesia. Media itu mengangkat hasil riset dari McKinsey dan Standard Chartered yang mengatakan bahwa ekonomi Indonesia akan melampaui Jerman dan Inggris pada tahun 2030.\nSeorang kawan dari Amerika Serikat menyinggung hal itu pada saya, saat sedang berbincang bersama sambil <em>menanti<\/em> berlangsungnya salah satu sidang dalam rangkaian pertemuan IMF\/WB tersebut. Ia menyatakan kekagumannya atas pencapaian ekonomi Indonesia saat ini.\nKeyakinannya tentu beralasan. Indonesia diperkirakan memiliki sekitar 90 juta orang yang berada di kelompok \u201cconsuming class\u201d. Angka ini adalah angka terbesar di dunia setelah Cina dan India. Dengan kekuatan itu pula, di tahun 2030, Indonesia akan menjadi kekuatan ekonomi nomor tujuh dunia dengan nilai pendapatan nasional sebesar 1,8 triliun dolar AS dari sektor pertanian, konsumsi, dan energi.\nIndonesia saat ini sedang berada pada laju transformasi yang pesat menuju ke arah tersebut. Saat ini, ekonomi Indonesia berada pada posisi 16 dunia, dengan pendapatan domestik nasional sebesar 846 miliar dolar AS di tahun 2011. Angka ini akan terus tumbuh, hingga mencapai 1,8 triliun dolar AS mulai tahun 2017. Dan di tahun 2030, hanya AS, Cina, India, Jepang, Brazil, dan Rusia, yang berada di atas ekonomi Indonesia.\nKekuatan terbesar ekonomi Indonesia bukan semata ekspor yang didukung oleh kekuatan tenaga kerja dan komoditas, namun justu kekuatan konsumsi domestik dan jasa-jasa, yang menjadi motor penggerak ekonomi nasional.\nMelihat potensi yang sedemikian besar, dalam beberapa pertemuan side meeting sidang IMF yang sempat saya ikuti, para investor asing mengharapkan adanya semakin banyak pilihan melakukan investasi di Indonesia. Di satu sisi, mereka yakin dan paham betul akan ekonomi Indonesia ke depan beserta potensinya. Namun saat ingin melakukan investasi, tak banyak pilihan, baik di sektor riil maupun keuangan.\n13502590451182932751\nRuang Delegasi Indonesia saat Sidang IMF\/WB di Tokyo . photo junanto\nDi sektor keuangan, beberapa investor mengharapkan premi yang rendah dalam memegang surat-surat berharga Indonesia. Hal ini mengingat pula bahwa Indonesia dalam sepuluh tahun terakhir ini tercatat memiliki fluktuasi terendah dalam ekonominya dibanding negara-negara di OECD dan BRIC. Utang pemerintah juga telah turun sebesar 70 persen dan saat ini yang terendah di kalangan negara OECD. Mereka juga mengharapkan munculnya berbagai pilihan investasi alternatif.\nHarapan para investor tersebut tentu merupakan peluang dan tantangan bagi Indonesia. Upaya melakukan pendalaman pasar keuangan (financial deepening) menjadi penting dalam memberikan ragam pilihan investasi bagi para investor. Di sisi lain, pembenahan di sektor riil dan infrastruktur perlu terus dilakukan secara serius guna mendukung arah menjadikan ekonomi Indonesia yang terbesar di Asia Tenggara.\nSaat ini, pertumbuhan ekonomi Indonesia yang berada pada kisaran 5 persen hingga 6 persen, apabila dapat terus dipertahankan, akan menambah jumlah masyarakat kelas menengah hingga 90 juta orang, dengan pendapatan per kapita lebih dari 3600 dolar AS. Apabila kita mampu mendorong pertumbuhan hingga 7 persen, jumlah itu bertambah lagi, dengan masyarakat menengah mencapai 170 juta orang.\nBerbagai perkembangan dari sidang akbar IMF di Tokyo pekan lalu kembali mengingatkan kita tentang besarnya potensi Indonesia, dan sempitnya momentum yang sedang kita lalui saat ini.\nApabila potensi itu tidak diwujudkan dalam aksi, dan momentum yang baik dilewatkan begitu saja, karena kita begitu asyik dengan urusan lain, maka prediksi para investor tersebut tidak akan menjadi kenyataan. Tentunya pilihan ada di <em>tangan<\/em> kita semua saat ini. Salam Indonesia.",
+                        "snippet_content": "Newsletter resmi yang dibagikan IMF pada seluruh peserta sidang mengangkat satu <em>topik<\/em> khusus mengenai Indonesia. Media itu mengangkat hasil riset dari McKinsey"
+                    },
+                    "responses": [
+                        {
+                            "id": 1950209,
+                            "user_id": 900637,
+                            "task_id": 1528265,
+                            "points": 5,
+                            "created": "2014-11-21T18:30:55+07:00",
+                            "content": "<span>beberapa investor mengharapkan premi yang rendah dalam memegang surat-surat berharga Indonesia.\u00a0<\/span>",
+                            "mark": 4,
+                            "marks_count": 2,
+                            "thanks": 7,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 900637,
+                                "nick": "deniyen",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/db5\/821b57157a61d52e9124b53a79b0bd7c.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 2678991,
+                        "subject_id": 19,
+                        "user_id": 1461577,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Latihan ulangan kenaikan kelas: Salah satu hal yang harus diperhatikan dalam menyusun gerak menjadi sebuah tarian adalah kepadatan yang artinya \u2026. a. penguasaan ruang oleh penari sehingga pementasan secara keseluruhan terkesan indah dan harmonis b. titik pandang penari dengan pononton sebagai pusatnya c. kesan garis yang ditimbulkan oleh gerakan penari di atas pentas, misalnya, gerak payung, topi, tangan menggapai, dan sebagainya d. ukuran ruang yang digunakan penari dalam bergerak e. tingkat jangkauan gerak ditentukan dan disesuaikan dengan kebutuhan gerak dalam tari",
+                        "created": "2015-05-14T14:08:15+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2015-05-14T15:24:07+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Latihan ulangan kenaikan kelas: Salah satu hal yang harus diperhatikan dalam menyusun gerak menjadi sebuah tarian adalah kepadatan yang artinya \u2026. a. penguasaan ruang oleh penari sehingga pementasan secara keseluruhan terkesan indah dan harmonis b. titik pandang penari dengan pononton sebagai pusatnya c. kesan garis yang ditimbulkan oleh gerakan penari di atas pentas, misalnya, gerak payung, <em>topi<\/em>, <em>tangan<\/em> <em>menggapai<\/em>, dan sebagainya d. ukuran ruang yang digunakan penari dalam bergerak e. tingkat jangkauan gerak ditentukan dan disesuaikan dengan kebutuhan gerak dalam tari",
+                        "snippet_content": "yang ditimbulkan oleh gerakan penari di atas pentas, misalnya, gerak payung, <em>topi<\/em>, <em>tangan<\/em> <em>menggapai<\/em>, dan sebagainya d. ukuran ruang yang digunakan penari"
+                    },
+                    "responses": [
+                        {
+                            "id": 3423278,
+                            "user_id": 798581,
+                            "task_id": 2678991,
+                            "points": 5,
+                            "created": "2015-05-14T15:24:07+07:00",
+                            "content": "A. <span>penguasaan ruang oleh penari sehingga pementasan secara keseluruhan terkesan indah dan harmonis.<br \/><br \/>maaf kalau salah<br \/><\/span><br \/><br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 798581,
+                                "nick": "crisantya",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d81\/9c287cb463da216d607e368bba317d90.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 3791481,
+                        "subject_id": 19,
+                        "user_id": 2010635,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "[Soal UTS Kelas 10 SMA] Salah satu hal yang harus diperhatikan dalam menyusun gerak menjadi sebuah tarian adalah kepadatan yang artinya \u2026. a. penguasaan ruang oleh penari sehingga pementasan secara keseluruhan terkesan indah dan harmonis b. titik pandang penari dengan pononton sebagai pusatnya c. kesan garis yang ditimbulkan oleh gerakan penari di atas pentas, misalnya, gerak payung, topi, tangan menggapai, dan sebagainya d. ukuran ruang yang digunakan penari dalam bergerak e. tingkat jangkauan gerak ditentukan dan disesuaikan dengan kebutuhan gerak dalam tari ",
+                        "created": "2015-10-06T20:41:07+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2015-10-06T21:16:06+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "[Soal UTS Kelas 10 SMA] Salah satu hal yang harus diperhatikan dalam menyusun gerak menjadi sebuah tarian adalah kepadatan yang artinya \u2026. a. penguasaan ruang oleh penari sehingga pementasan secara keseluruhan terkesan indah dan harmonis b. titik pandang penari dengan pononton sebagai pusatnya c. kesan garis yang ditimbulkan oleh gerakan penari di atas pentas, misalnya, gerak payung, <em>topi<\/em>, <em>tangan<\/em> <em>menggapai<\/em>, dan sebagainya d. ukuran ruang yang digunakan penari dalam bergerak e. tingkat jangkauan gerak ditentukan dan disesuaikan dengan kebutuhan gerak dalam tari ",
+                        "snippet_content": "yang ditimbulkan oleh gerakan penari di atas pentas, misalnya, gerak payung, <em>topi<\/em>, <em>tangan<\/em> <em>menggapai<\/em>, dan sebagainya d. ukuran ruang yang digunakan penari"
+                    },
+                    "responses": [
+                        {
+                            "id": 4581786,
+                            "user_id": 2010959,
+                            "task_id": 3791481,
+                            "points": 5,
+                            "created": "2015-10-06T21:16:06+07:00",
+                            "content": "a.penguasaan ruang oleh penari sehingga pementasan secara keseluruhan terkesan indah dan harmonis",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2010959,
+                                "nick": "hellulu",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dee\/c8be25b9f3009e2aa766e02d86cc9a87.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 2880839,
+                        "subject_id": 19,
+                        "user_id": 1562663,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "[Semangat Puasa Sebentar Lagi Ramadhan] Latihan ulangan kenaikan kelas: Salah satu hal yang harus diperhatikan dalam menyusun gerak menjadi sebuah tarian adalah kepadatan yang artinya \u2026. a. penguasaan ruang oleh penari sehingga pementasan secara keseluruhan terkesan indah dan harmonis b. titik pandang penari dengan pononton sebagai pusatnya c. kesan garis yang ditimbulkan oleh gerakan penari di atas pentas, misalnya, gerak payung, topi, tangan menggapai, dan sebagainya d. ukuran ruang yang digunakan penari dalam bergerak e. tingkat jangkauan gerak ditentukan dan disesuaikan dengan kebutuhan gerak dalam tari ",
+                        "created": "2015-07-01T04:53:46+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2015-07-01T05:17:11+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "[Semangat Puasa Sebentar Lagi Ramadhan] Latihan ulangan kenaikan kelas: Salah satu hal yang harus diperhatikan dalam menyusun gerak menjadi sebuah tarian adalah kepadatan yang artinya \u2026. a. penguasaan ruang oleh penari sehingga pementasan secara keseluruhan terkesan indah dan harmonis b. titik pandang penari dengan pononton sebagai pusatnya c. kesan garis yang ditimbulkan oleh gerakan penari di atas pentas, misalnya, gerak payung, <em>topi<\/em>, <em>tangan<\/em> <em>menggapai<\/em>, dan sebagainya d. ukuran ruang yang digunakan penari dalam bergerak e. tingkat jangkauan gerak ditentukan dan disesuaikan dengan kebutuhan gerak dalam tari ",
+                        "snippet_content": "yang ditimbulkan oleh gerakan penari di atas pentas, misalnya, gerak payung, <em>topi<\/em>, <em>tangan<\/em> <em>menggapai<\/em>, dan sebagainya d. ukuran ruang yang digunakan penari"
+                    },
+                    "responses": [
+                        {
+                            "id": 3680433,
+                            "user_id": 846891,
+                            "task_id": 2880839,
+                            "points": 5,
+                            "created": "2015-07-01T05:17:11+07:00",
+                            "content": "<em>Salah satu hal yg harus diperhatikan dalam menyusun gerak menjadi tarian adalah\u00a0Kepadatan yg\u00a0artinya<\/em> <strong><u>A.penguasaan ruang oleh penari sehingga pementasan secara keseluruhan terkesan indah dan harmonis.<br \/><br \/><em>Semoga Membantumu^^<\/em><\/u><\/strong>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2016-10-31T11:39:03+07:00",
+                                "approver": {
+                                    "id": 2663844,
+                                    "nickname": "Mahaguru",
+                                    "points": 262,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/db6\/c5fb7b6a68ce26ccea00dc12cb60d96f.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/df7\/fe8fb6dfa0d217a5d3fafa2a27e269ba.png"
+                                    },
+                                    "content_approved_count": 717882
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 3680561,
+                            "user_id": 1550383,
+                            "task_id": 2880839,
+                            "points": 5,
+                            "created": "2015-07-01T08:37:00+07:00",
+                            "content": "a. penguasa ruang oleh penari sehingga pementasan secara keseluruhan terkesan indah dan harmonis<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 846891,
+                                "nick": "yolandiasta",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dd2\/065d28fdecdec2d3cbed2e06eb22c23a.jpg"
+                            },
+                            {
+                                "id": 1550383,
+                                "nick": "ariyaandira",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dfa\/0c3faa04f013ba4f4db6dfe5a41e10d1.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 6262346,
+                        "subject_id": 19,
+                        "user_id": 3114856,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Buku Sekolah Elektronik BSE Soal Latihan Ujian Akhir Semester SMA\/SMK 2016*  Salah satu hal yang harus diperhatikan dalam menyusun gerak menjadi sebuah tarian adalah kepadatan yang artinya \u2026. a. penguasaan ruang oleh penari sehingga pementasan secara keseluruhan terkesan indah dan harmonis b. titik pandang penari dengan pononton sebagai pusatnya c. kesan garis yang ditimbulkan oleh gerakan penari di atas pentas, misalnya, gerak payung, topi, tangan menggapai, dan sebagainya d. ukuran ruang yang digunakan penari dalam bergerak e. tingkat jangkauan gerak ditentukan dan disesuaikan dengan kebutuhan gerak dalam tari",
+                        "created": "2016-05-27T07:37:24+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2016-05-27T07:39:32+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Buku Sekolah Elektronik BSE Soal Latihan Ujian Akhir Semester SMA\/SMK 2016*  Salah satu hal yang harus diperhatikan dalam menyusun gerak menjadi sebuah tarian adalah kepadatan yang artinya \u2026. a. penguasaan ruang oleh penari sehingga pementasan secara keseluruhan terkesan indah dan harmonis b. titik pandang penari dengan pononton sebagai pusatnya c. kesan garis yang ditimbulkan oleh gerakan penari di atas pentas, misalnya, gerak payung, <em>topi<\/em>, <em>tangan<\/em> <em>menggapai<\/em>, dan sebagainya d. ukuran ruang yang digunakan penari dalam bergerak e. tingkat jangkauan gerak ditentukan dan disesuaikan dengan kebutuhan gerak dalam tari",
+                        "snippet_content": "yang ditimbulkan oleh gerakan penari di atas pentas, misalnya, gerak payung, <em>topi<\/em>, <em>tangan<\/em> <em>menggapai<\/em>, dan sebagainya d. ukuran ruang yang digunakan penari"
+                    },
+                    "responses": [
+                        {
+                            "id": 7472989,
+                            "user_id": 3114715,
+                            "task_id": 6262346,
+                            "points": 5,
+                            "created": "2016-05-27T07:39:32+07:00",
+                            "content": "A.penguasaan ruang oleh penari sehingga pementasan secara keseluruhan terkesan indah dan harmonis",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3114715,
+                                "nick": "gina130",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dd9\/187d1ef62c45098d842fd64c660349ee.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 6,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 3891509,
+            "nick": "babyulightupmyworld",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 3668569,
+            "nick": "morsbeen",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 13,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d71\/e557ec5e5756d1b26cd978589cc6d5d8.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6e\/a926655687c01e5120f4caee0f18181e.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d71\/e557ec5e5756d1b26cd978589cc6d5d8.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6e\/a926655687c01e5120f4caee0f18181e.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 836204,
+            "nick": "MiFtahuul",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 0,
+                "comments": 1
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d52\/4d651a799c3e028a2c6beb919285217d.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d3d\/5ec38f65cf877db96cfb3b06f62656ed.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d52\/4d651a799c3e028a2c6beb919285217d.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d3d\/5ec38f65cf877db96cfb3b06f62656ed.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 900637,
+            "nick": "deniyen",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 175,
+                "comments": 62
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d26\/d4a23708784b16606bf280c095a0d7c6.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db5\/821b57157a61d52e9124b53a79b0bd7c.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d26\/d4a23708784b16606bf280c095a0d7c6.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db5\/821b57157a61d52e9124b53a79b0bd7c.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 1461577,
+            "nick": "CressidaDjervui868",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dee\/713ea5eedf5ace478b4e9488253daafe.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d54\/75f5004155af64e5d515ef56a62d6932.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dee\/713ea5eedf5ace478b4e9488253daafe.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d54\/75f5004155af64e5d515ef56a62d6932.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 798581,
+            "nick": "crisantya",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 60,
+                "answers": 252,
+                "comments": 352
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de2\/7ffeb6ee400e82d1b8ec67953f7357ee.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d81\/9c287cb463da216d607e368bba317d90.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de2\/7ffeb6ee400e82d1b8ec67953f7357ee.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d81\/9c287cb463da216d607e368bba317d90.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 2010635,
+            "nick": "KaulaDumatubun865",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d41\/a284a1cf16b40165e06c6abc1d152f4a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dca\/06cc8013f3746a613b289a894d89f99b.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d41\/a284a1cf16b40165e06c6abc1d152f4a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dca\/06cc8013f3746a613b289a894d89f99b.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 2010959,
+            "nick": "hellulu",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 12,
+                "comments": 3
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dcc\/8d0c01398821bc502c72475c53944b45.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dee\/c8be25b9f3009e2aa766e02d86cc9a87.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dcc\/8d0c01398821bc502c72475c53944b45.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dee\/c8be25b9f3009e2aa766e02d86cc9a87.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 1562663,
+            "nick": "KritiSoeryadjaya",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dea\/b4fe94e577773a9c125738826858e6d6.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc1\/d92c6202b0f0011011fd225c7fb89bf4.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dea\/b4fe94e577773a9c125738826858e6d6.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc1\/d92c6202b0f0011011fd225c7fb89bf4.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 846891,
+            "nick": "yolandiasta",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 13,
+                "answers": 982,
+                "comments": 290
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dae\/9d0a4a9f1b021e4e521dd4090a13b610.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd2\/065d28fdecdec2d3cbed2e06eb22c23a.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dae\/9d0a4a9f1b021e4e521dd4090a13b610.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd2\/065d28fdecdec2d3cbed2e06eb22c23a.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Anti Spammer",
+                    "Spam Fighter ",
+                    "Si Hebat"
+                ],
+                "count": 3
+            },
+            "ranks_ids": [
+                11,
+                17,
+                6
+            ]
+        },
+        {
+            "id": 1550383,
+            "nick": "ariyaandira",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 30,
+                "answers": 333,
+                "comments": 30
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da4\/e29aeda146bc140f34a9867ca1ebe1a0.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dfa\/0c3faa04f013ba4f4db6dfe5a41e10d1.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da4\/e29aeda146bc140f34a9867ca1ebe1a0.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dfa\/0c3faa04f013ba4f4db6dfe5a41e10d1.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 3114856,
+            "nick": "amilabningrumg",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dcd\/d6dceb9da2409d61760833b665a2578c.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d3e\/8613f6cb74635e7f99826db2dbeb4729.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dcd\/d6dceb9da2409d61760833b665a2578c.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d3e\/8613f6cb74635e7f99826db2dbeb4729.png"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 3114715,
+            "nick": "gina130",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 3,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dcb\/4cbc82ece83a7bae0a1124487aa2c548.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd9\/187d1ef62c45098d842fd64c660349ee.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dcb\/4cbc82ece83a7bae0a1124487aa2c548.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd9\/187d1ef62c45098d842fd64c660349ee.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        }
+    ],
+    "validated": false
+}

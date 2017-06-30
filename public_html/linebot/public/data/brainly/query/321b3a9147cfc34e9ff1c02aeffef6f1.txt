@@ -1,0 +1,173 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 1303245,
+                        "subject_id": 10,
+                        "user_id": 156326,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Tolong di jwb ya, gk smuany d jwb jga gk pp..<br \/>\n1. Perubahan mode pakaian dikategorikan sebagai perubahan yg pengaruhnya kecil dgn ruang lingkup tdk luas karena...<br \/>\na.hany abrhubungan dgn kebutuhan sekunder<br \/>\nb.hanya diikuti oleh golongan tertntu<br \/>\nc.tdk ada hubungan dgn bidang kebudayaan<br \/>\nd.tdk brtentangan dgn keyakinan masyarakat<br \/>\n2.Pemilihan presiden scr langsung oleh rakyat pd masa sekarang membuktikan bahwa perubahan sosial didasarkan pd...<br \/>\na.perasan tdk puas dgn bidang tertntu<br \/>\nb.pandangan yg lebih menyukai hal2 asing<br \/>\nc.kemajuan dibidang pendidikan formal<br \/>\nd.keinginan untuk menciptakan iklim demokratis<br \/>\n3.Perubahn pola pikir anak sebagai sumber rezeki menjadi tanggung jawab orang tua. Kondisi tersebut mendorong masyarakat untuk berpartisipasi dlm program kb. perubahan itu trmasuk dlm bentuk perubahan<br \/>\na.cepat<br \/>\nb.lambat<br \/>\nc.kecil<br \/>\nd.besar<br \/>\n4.Salah satu bentuk perubahan sosial budaya yg muncul setelah terjadi akomodasi yaitu...<br \/>\na.garis pemisah antargolongan yg tegas<br \/>\nb.integrasi pola pikir masyarakat yg sebelumnya mengalami pertentangan<br \/>\nc.kondisi keteraturan sosial dlm masyarakat yg terabaikan<br \/>\nd.pemberian hukum trhadap pihak yg bersalah sesuai aturan yg berlaku<br \/>\n5.A)Membangun rumah singgah untuk menampung anak jalanan<br \/>\nB)Menyelenggarakan sekolah gratis digedung yg kosong<br \/>\nC)Memusatkan tempat\u00b2 perjudian liar<br \/>\nD)Merelokasi tempat\u00b2 hiburan malam<br \/>\nPerubahan sosial budya yg tdk direncanakan yaitu<br \/>\na.A) dan B)<br \/>\nb.A) dan C)<br \/>\nb.B) dan C)<br \/>\nd.C) dan D)<br \/>\nMakasih banyak buat yg sudah jwb",
+                        "created": "2014-11-02T18:47:11+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2014-11-02T18:51:22+07:00",
+                        "the_best_resp_id": "1672430",
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Tolong di jwb ya, <em>gk<\/em> smuany d jwb jga <em>gk<\/em> pp..\n1. Perubahan mode pakaian dikategorikan sebagai perubahan yg pengaruhnya kecil dgn ruang lingkup tdk luas karena...\na.hany abrhubungan dgn kebutuhan sekunder\nb.hanya diikuti oleh golongan tertntu\nc.tdk ada hubungan dgn bidang kebudayaan\nd.tdk brtentangan dgn keyakinan masyarakat\n2.Pemilihan presiden scr <em>langsung<\/em> oleh rakyat pd masa sekarang membuktikan bahwa perubahan sosial didasarkan pd...\na.perasan tdk puas dgn bidang tertntu\nb.pandangan yg lebih menyukai hal2 asing\nc.kemajuan dibidang pendidikan formal\nd.keinginan untuk menciptakan iklim demokratis\n3.Perubahn pola pikir anak sebagai sumber rezeki menjadi tanggung jawab orang tua. Kondisi tersebut mendorong masyarakat untuk berpartisipasi dlm program kb. perubahan itu trmasuk dlm bentuk perubahan\na.cepat\nb.lambat\nc.kecil\nd.besar\n4.Salah satu bentuk perubahan sosial budaya yg muncul setelah terjadi akomodasi yaitu...\na.garis pemisah antargolongan yg tegas\nb.integrasi pola pikir masyarakat yg sebelumnya mengalami pertentangan\nc.kondisi keteraturan sosial dlm masyarakat yg terabaikan\nd.pemberian hukum trhadap pihak yg bersalah sesuai aturan yg berlaku\n5.A)Membangun rumah singgah untuk menampung anak jalanan\nB)Menyelenggarakan sekolah gratis digedung yg kosong\nC)Memusatkan tempat\u00b2 perjudian liar\nD)Merelokasi tempat\u00b2 hiburan malam\nPerubahan sosial <em>budya<\/em> yg tdk direncanakan yaitu\na.A) dan B)\nb.A) dan C)\nb.B) dan C)\nd.C) dan D)\nMakasih banyak buat yg sudah jwb",
+                        "snippet_content": "Tolong di jwb ya, <em>gk<\/em> smuany d jwb jga <em>gk<\/em> pp..\n1. Perubahan mode pakaian dikategorikan sebagai perubahan yg pengaruhnya kecil dgn"
+                    },
+                    "responses": [
+                        {
+                            "id": 1672430,
+                            "user_id": 752870,
+                            "task_id": 1303245,
+                            "points": 5,
+                            "created": "2014-11-02T18:51:22+07:00",
+                            "content": "1.A<br \/>2.D<br \/>3.A<br \/>5.D<br \/><br \/>maaaf kalo nomor 4 ga dijawab dan misalnya jawaban nya salah.",
+                            "mark": 3,
+                            "marks_count": 2,
+                            "thanks": 1,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 752870,
+                                "nick": "SarahTaniaS",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d12\/83a1bfcde2fb62aaad85cb0afbb68b23.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 1,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 156326,
+            "nick": "atiiqotul",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 28,
+                "answers": 11,
+                "comments": 7
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d5d\/832581279be72d88beb01510f2d18289.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd4\/ec4da020d69a644f1c3c038fea66133a.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d5d\/832581279be72d88beb01510f2d18289.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd4\/ec4da020d69a644f1c3c038fea66133a.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 752870,
+            "nick": "SarahTaniaS",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 21,
+                "answers": 916,
+                "comments": 214
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d8b\/7818c609f2863b0168b29474a4733ec6.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d12\/83a1bfcde2fb62aaad85cb0afbb68b23.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d8b\/7818c609f2863b0168b29474a4733ec6.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d12\/83a1bfcde2fb62aaad85cb0afbb68b23.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        }
+    ],
+    "validated": false
+}

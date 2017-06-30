@@ -1,0 +1,2904 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 1438575,
+                        "subject_id": 5,
+                        "user_id": 832877,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "* lengkap kalimat-kalimat berikut dengan subject pronoun !<br \/><br \/>\n1.The boxes are heavy <br \/>\n   ............... are heavy<br \/>\n2. Mr.smith is a teacher <br \/>\n    ............. is a teacher<br \/>\n3. you and bob are smart <br \/>\n    .................. are smart <br \/>\n4. Fred and georage are in the classroom<br \/>\n    .......................... are in the classroom <br \/>\n5. The book is on the table classroom<br \/>\n    ..............is on the table classroom<br \/>\n6. My parents are in the living room <br \/>\n    ................  are in the living room <br \/>\n7. harry and I are studiying <br \/>\n    ................ are studying <br \/><br \/>\n* lengkap kalimat berikut dengan object pronoun <br \/><br \/>\n8. we want to see ronald <br \/>\n    we want to see ........<br \/><br \/>\n9. I dont know eddie and jacob <br \/>\n    I dont know ...............<br \/><br \/>\n10. we love the children <br \/>\n     we love ........<br \/><br \/>\n11. she doesnt like the foods <br \/>\n     she doesnt like .......<br \/><br \/>\n12. He doesnt want to see suzan <br \/>\n      He doesnt want to see .........<br \/><br \/>\n13. Mother is watching me an bill<br \/>\n      Mother is watching .........<br \/><br \/>\n14. I know you and sarah<br \/>\n      I know .......  <br \/><br \/>",
+                        "created": "2014-11-13T15:50:54+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2014-11-13T15:56:19+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "* lengkap kalimat-kalimat berikut dengan subject pronoun !\n1.The boxes are heavy \n   ............... are heavy\n2. Mr.smith is a teacher \n    ............. is a teacher\n3. you and bob are smart \n    .................. are smart \n4. <em>Fred<\/em> and <em>geo<\/em>rage are in the classroom\n    .......................... are in the classroom \n5. The book is on the table classroom\n    ..............is on the table classroom\n6. My parents are in the living room \n    ................  are in the living room \n7. harry and I are studiying \n    ................ are studying \n* lengkap kalimat berikut dengan object pronoun \n8. we want to see ronald \n    we want to see ........\n9. I dont know eddie and jacob \n    I dont know ...............\n10. we love the children \n     we love ........\n11. she doesnt like the foods \n     she doesnt like .......\n12. He doesnt want to see suzan \n      He doesnt want to see .........\n13. Mother is watching me an bill\n      Mother is watching .........\n14. I know you and sarah\n      I know .......  ",
+                        "snippet_content": "a teacher\n3. you and bob are smart \n    .................. are smart \n4. <em>Fred<\/em> and <em>geo<\/em>rage are in the classroom\n    .......................... are in the classroom"
+                    },
+                    "responses": [
+                        {
+                            "id": 1835993,
+                            "user_id": 854515,
+                            "task_id": 1438575,
+                            "points": 5,
+                            "created": "2014-11-13T15:56:19+07:00",
+                            "content": "They, he, they, they, it,\u00a0they, we<br \/><br \/>him, them, them, it, her, us, you",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 2,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 1836254,
+                            "user_id": 386186,
+                            "task_id": 1438575,
+                            "points": 5,
+                            "created": "2014-11-13T16:14:59+07:00",
+                            "content": "1. they 2. he 3. we 4. they 4. they 5. it 6. they 7. we<br \/><br \/>8. him 9. them 10. them 11. it 12. her \u00a013. ? 14.you",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 2,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 1251929,
+                                        "user_id": 386186,
+                                        "content": "maksud no 13 apa?",
+                                        "created": "2014-11-13T16:15:13+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 854515,
+                                "nick": "MumuChe07",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d43\/21e43a8219c90307038f19f0d307dca9.jpg"
+                            },
+                            {
+                                "id": 386186,
+                                "nick": "MariaNatio",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/de3\/9c2e4cf6e7a5f362f3e19144d2a333a7.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 4533389,
+                        "subject_id": 8,
+                        "user_id": 973426,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Jagat raya terbentuk dari massa yg sangat besar dgn berat jenis yg besar &amp; mengalami ledakan besar,sehingga bagian massa berserakan dan terpental menjauh dr pusat ledakan. Setelah miliaran tahun bagian yg terpental tersebut membentuk kelompok2 yg di kenal sbg galaksi dlm tata surya. Pendat tsb dikemukakan oleh <br \/>\nA. Fred Hoyle<br \/>\nB. Edwin Hubble<br \/>\nC. Georges Lemaitres<br \/>\nD. Alexander Friedmann<br \/>\nE. Nicolas Copermicus",
+                        "created": "2015-12-02T15:47:27+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2015-12-02T15:49:10+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Jagat raya terbentuk dari massa yg sangat besar dgn berat jenis yg besar &amp; mengalami ledakan besar,sehingga bagian massa berserakan dan terpental menjauh dr pusat ledakan. Setelah miliaran tahun bagian yg terpental tersebut membentuk kelompok2 yg di kenal sbg galaksi dlm tata surya. Pendat tsb dikemukakan oleh \nA. <em>Fred<\/em> Hoyle\nB. Edwin Hubble\nC. <em>Geo<\/em>rges Lemaitres\nD. Alexander Friedmann\nE. Nicolas Copermicus",
+                        "snippet_content": "kenal sbg galaksi dlm tata surya. Pendat tsb dikemukakan oleh \nA. <em>Fred<\/em> Hoyle\nB. Edwin Hubble\nC. <em>Geo<\/em>rges Lemaitres\nD. Alexander Friedmann"
+                    },
+                    "responses": [
+                        {
+                            "id": 5334679,
+                            "user_id": 2363827,
+                            "task_id": 4533389,
+                            "points": 5,
+                            "created": "2015-12-02T15:49:10+07:00",
+                            "content": "teori ini di kemukakan oleh george lemaitre",
+                            "mark": 2,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2363827,
+                                "nick": "Averaaa",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 2353366,
+                        "subject_id": 8,
+                        "user_id": 1310704,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Teori Big Bang dikemukakan oleh\u2026<br \/>\n(clue: istilah big bang bukan diperkenalkan oleh penemunya)<br \/>\na Laplace dan Kant<br \/>\nb Fred Hoyle Bendi<br \/>\nc James Jeans <br \/>\nd George Lemaire<br \/>\ne Harold Jeffres<br \/><br \/>\ntolong ^^",
+                        "created": "2015-03-25T21:19:29+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2015-03-25T23:42:42+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Teori Big Bang dikemukakan oleh\u2026\n(clue: istilah big bang bukan diperkenalkan oleh penemunya)\na Laplace dan Kant\nb <em>Fred<\/em> Hoyle Bendi\nc James Jeans \nd <em>Geo<\/em>rge Lemaire\ne Harold Jeffres\ntolong ^^",
+                        "snippet_content": "big bang bukan diperkenalkan oleh penemunya)\na Laplace dan Kant\nb <em>Fred<\/em> Hoyle Bendi\nc James Jeans \nd <em>Geo<\/em>rge Lemaire\ne Harold"
+                    },
+                    "responses": [
+                        {
+                            "id": 3003369,
+                            "user_id": 1233672,
+                            "task_id": 2353366,
+                            "points": 5,
+                            "created": "2015-03-25T23:42:42+07:00",
+                            "content": "kalo tidak salah orang yang mencetuskannya adalah George Lemaire..sedangkan yang mencetuskan istilah big bang itu Fred Hoyle<br \/>",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1233672,
+                                "nick": "ChiaBunga",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d43\/23548bcf0a9e6305372f3d9828534aef.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 52973,
+                        "subject_id": 6,
+                        "user_id": 41687,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 20,
+                            "ptsForResp": 10,
+                            "ptsForBest": 5
+                        },
+                        "content": "redi sedang bermain tali dengan panjang 900 cm dan massa 18 gram.jika salah satu ujung tali tersebut diikat pada sebatang paku dan ujung tali yang lain digetarkan dengan tegangan 15 N,maka cepat rambat gelombang transversal pada tali tersebut adalah... m\/s",
+                        "created": "2014-02-22T20:10:08+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2014-02-22T20:18:17+07:00",
+                        "the_best_resp_id": "81928",
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "<em>redi<\/em> sedang bermain tali dengan panjang 900 cm dan massa 18 gram.jika salah satu ujung tali tersebut diikat pada sebatang paku dan ujung tali yang lain digetarkan dengan tegangan 15 N,maka cepat rambat <em>gelo<\/em>mbang transversal pada tali tersebut adalah... m\/s",
+                        "snippet_content": "<em>redi<\/em> sedang bermain tali dengan panjang 900 cm dan massa 18 gram.jika salah satu ujung tali tersebut diikat pada sebatang paku"
+                    },
+                    "responses": [
+                        {
+                            "id": 81928,
+                            "user_id": 10410,
+                            "task_id": 52973,
+                            "points": 10,
+                            "created": "2014-02-22T20:18:16+07:00",
+                            "content": "Dik F = 15 N<br \/>\u00a0 \u00a0 \u00a0l = 900 cm = 9 m<br \/>\u00a0 \u00a0 \u00a0m = 18 gr = 0,018 kg<br \/>Dit V ?<br \/>jawab.<br \/><br \/>V =\u00a0\u221a[tex] \\frac{F}{ \\frac{m}{l} } [\/tex]<br \/><br \/>\u00a0 \u00a0 =\u00a0[tex] \\sqrt{ \\frac{15}{ \\frac{0,018}{9} } } =  \\sqrt{ \\frac{15}{0,002} } =  \\sqrt{7500}  = 86,60m\/s[\/tex]",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 7,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2016-09-07T10:37:47+07:00",
+                                "approver": {
+                                    "id": 2663844,
+                                    "nickname": "Mahaguru",
+                                    "points": 1162,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/db6\/c5fb7b6a68ce26ccea00dc12cb60d96f.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/df7\/fe8fb6dfa0d217a5d3fafa2a27e269ba.png"
+                                    },
+                                    "content_approved_count": 718062
+                                }
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 78968,
+                                        "user_id": 10410,
+                                        "content": "Semoga membantu :) D jadikan jawaban terbaik ya kak",
+                                        "created": "2014-02-22T20:19:04+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 10410,
+                                "nick": "crutudg",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/df5\/3c8feed71eb4b5934c6d4e6c62b6147c.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 2170739,
+                        "subject_id": 10,
+                        "user_id": 1229586,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "hot dog,pizza,dan fred chicken yang terdapat di restoran indonesia sebagai dampak globalisasi dalam hal.........<br \/><br \/>",
+                        "created": "2015-02-27T20:30:51+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2015-02-27T20:31:38+07:00",
+                        "the_best_resp_id": "2756279",
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "hot dog,pizza,dan <em>fred<\/em> chicken yang terdapat di restoran indonesia sebagai dampak <em>glo<\/em>balisasi dalam hal.........",
+                        "snippet_content": "hot dog,pizza,dan <em>fred<\/em> chicken yang terdapat di restoran indonesia sebagai dampak <em>glo<\/em>balisasi dalam hal........."
+                    },
+                    "responses": [
+                        {
+                            "id": 2756279,
+                            "user_id": 1217660,
+                            "task_id": 2170739,
+                            "points": 5,
+                            "created": "2015-02-27T20:31:37+07:00",
+                            "content": "makanan ...........<br \/>semoga membantu",
+                            "mark": 5,
+                            "marks_count": 2,
+                            "thanks": 0,
+                            "user_best_rank_id": 1,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 2756283,
+                            "user_id": 1228337,
+                            "task_id": 2170739,
+                            "points": 5,
+                            "created": "2015-02-27T20:31:53+07:00",
+                            "content": "konsumsi (makanancepatsaji)<br \/>",
+                            "mark": 2,
+                            "marks_count": 1,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1217660,
+                                "nick": "asih2",
+                                "avatar": null
+                            },
+                            {
+                                "id": 1228337,
+                                "nick": "yosiayulianto07",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d0a\/6e40ce003590aa72032bdcd1494916a5.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 9299985,
+                        "subject_id": 8,
+                        "user_id": 4342532,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Teori big bang di kemukakan oleh... <br \/>\nA. Edwin hubble dan fred hoyle<br \/>\nB. Fred hoyle dan aristoteles<br \/>\nC. Arustoteles dan plato<br \/>\nD. Galileo galilei dan johanes kepler<br \/>\nE. George lemaitre dan edwin hubble",
+                        "created": "2017-02-06T15:51:56+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2017-02-06T16:13:13+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "6",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Teori big bang di kemukakan oleh... \nA. Edwin hubble dan <em>fred<\/em> hoyle\nB. <em>Fred<\/em> hoyle dan aristoteles\nC. Arustoteles dan plato\nD. Galileo galilei dan johanes kepler\nE. <em>Geo<\/em>rge lemaitre dan edwin hubble",
+                        "snippet_content": "hoyle\nB. <em>Fred<\/em> hoyle dan aristoteles\nC. Arustoteles dan plato\nD. Galileo galilei dan johanes kepler\nE. <em>Geo<\/em>rge lemaitre dan edwin hubble"
+                    },
+                    "responses": [
+                        {
+                            "id": 11117829,
+                            "user_id": 4502452,
+                            "task_id": 9299985,
+                            "points": 5,
+                            "created": "2017-02-06T16:13:13+07:00",
+                            "content": "E. Georges Lemaitre dan Edwin Hubble",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "6",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4502452,
+                                "nick": "Xxvvda",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d0a\/b310423be015aaa7c39f1dd39c57a8a3.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 8098495,
+                        "subject_id": 5,
+                        "user_id": 3906986,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "EXERCISE 10:Complete the sentences with the verbs in parentheses.<br \/><br \/>1. It\u2019s too bad Helen isn\u2019t here. If she (be) ________________ here, she (know) __________________ what to do.<br \/><br \/>2. Fred failed the test because he didn\u2019t study. However, if he (study) ___________________ for the test, he (pass) ___________________ it.<br \/><br \/>3. An aerosol spray can will explode if you (throw) ___________________ it into a fire.<br \/><br \/>4. You should tell your father exactly what happened. If I (be) ___________________ you, I (tell) ___________________ him the truth as soon as possible.<br \/><br \/>5. If I (have) _________________ my camera with me yesterday, I (take) _________________ a picture of Alex standing on his head.<br \/><br \/>6. I\u2019m almost ready to plant my garden. I have a lot of seeds. Maybe I have more than I need. If I (have) ___________________ more seeds than I need, I (give) ___________________ some to Nellie.<br \/><br \/>7. I got wet because I didn\u2019t take my umbrella. However, I (get, not) ___________________ wet if I (remember) ___________________ to take my umbrella with me yesterday.<br \/><br \/>8. I (change) ___________________ the present economic policy if I (be) ___________________ the President of the United States.<br \/><br \/>9. If the teacher (be) ___________________ absent tomorrow, class will be cancelled.<br \/><br \/>10. George has only two pairs of socks. If he (have) ___________________ more than two pairs of socks, he (have to, not) ___________________ wash his socks so often.<br \/><br \/>11. That sounds like a good job offer. If I (be) ___________________ you, I (accept) ___________________ it.<br \/><br \/>12. The cowboy pulled his gun to shoot at the rattlesnake, but he was too late. If he (be) ___________________ quicker to pull the trigger, the snake (bite, not) ___________________ him on the ankle. It\u2019s a good thing he was wearing heavy leather boots.",
+                        "created": "2016-10-27T23:29:36+07:00",
+                        "responses": 1,
+                        "tickets": 3,
+                        "first_resp": "2016-10-27T23:38:34+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "EXERCISE 10:Complete the sentences with the verbs in parentheses.1. It\u2019s too bad Helen isn\u2019t here. If she (be) ________________ here, she (know) __________________ what to do.2. <em>Fred<\/em> failed the test because he didn\u2019t study. However, if he (study) ___________________ for the test, he (pass) ___________________ it.3. An aerosol spray can will explode if you (throw) ___________________ it into a fire.4. You should tell your father exactly what happened. If I (be) ___________________ you, I (tell) ___________________ him the truth as soon as possible.5. If I (have) _________________ my camera with me yesterday, I (take) _________________ a picture of Alex standing on his head.6. I\u2019m almost ready to plant my garden. I have a lot of seeds. Maybe I have more than I need. If I (have) ___________________ more seeds than I need, I (give) ___________________ some to Nellie.7. I got wet because I didn\u2019t take my umbrella. However, I (get, not) ___________________ wet if I (remember) ___________________ to take my umbrella with me yesterday.8. I (change) ___________________ the present economic policy if I (be) ___________________ the President of the United States.9. If the teacher (be) ___________________ absent tomorrow, class will be cancelled.10. <em>Geo<\/em>rge has only two pairs of socks. If he (have) ___________________ more than two pairs of socks, he (have to, not) ___________________ wash his socks so often.11. That sounds like a good job offer. If I (be) ___________________ you, I (accept) ___________________ it.12. The cowboy pulled his gun to shoot at the rattlesnake, but he was too late. If he (be) ___________________ quicker to pull the trigger, the snake (bite, not) ___________________ him on the ankle. It\u2019s a good thing he was wearing heavy leather boots.",
+                        "snippet_content": "here. If she (be) ________________ here, she (know) __________________ what to do.2. <em>Fred<\/em> failed the test because he didn\u2019t study. However, if"
+                    },
+                    "responses": [
+                        {
+                            "id": 9614386,
+                            "user_id": 3462308,
+                            "task_id": 8098495,
+                            "points": 5,
+                            "created": "2016-10-27T23:38:34+07:00",
+                            "content": "1. is, knows<br \/>2. studied, passed<br \/>3. throw<br \/>4. am, tell<br \/>5. had, took<br \/>6. have, give<br \/>7. didn't get, remembered<br \/>8. change, am<br \/>9. is<br \/>10. has, hasn't<br \/>11. am, accept<br \/>12. was, didn't bite",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 5,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3462308,
+                                "nick": "yolatiwi",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d5c\/86b5636188c87cf015e3f5f7db6d76d0.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 2102565,
+                        "subject_id": 5,
+                        "user_id": 1183626,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "add the follwing sentences using question tag<br \/>\n1.Bob can come,..?<br \/>\n2.Herry can't come, ..?<br \/>\n3.Melinda is here,...?<br \/>\n4.Anna likes tea,..?<br \/>\n5.you don't like tea,...?<br \/>\n6.they haven't. left... ?<br \/>\n7.Nothing is wrong... ?<br \/>\n8.Everything is okay.. ?<br \/>\n9.we want to come..?<br \/>\n10.dini is a dentist..?<br \/>\n11Puspa would like to come with us to the party.. ?<br \/>\n12.those aren't Fred's books..?<br \/>\n13.you've never been to Paris.. ?<br \/>\n14.something is wrong with Jane today.. ?<br \/>\n15.everyone can learn how to swim,...?<br \/>\n16.Nobody cheated on exam..?<br \/>\n17.Nothing went wrong while I was gone,..?<br \/>\n18.I am invited.. ?<br \/>\n19.George is a student,..?<br \/>\n20.They will be sere,..?<br \/>",
+                        "created": "2015-02-18T21:40:10+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2015-02-18T21:48:13+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [
+                            {
+                                "full": "https:\/\/id-static.z-dn.net\/files\/daf\/c22a9e08bfac6f71494242f272f74895.jpg",
+                                "thumbnail": "https:\/\/id-static.z-dn.net\/files\/dd7\/0bfde9aff7dc47ccab49d28fa64c38a7.jpg",
+                                "type": "image\/jpeg",
+                                "size": 350293,
+                                "hash": "c22a9e08bfac6f71494242f272f74895",
+                                "id": 889743,
+                                "extension": "jpg"
+                            }
+                        ],
+                        "comments": {
+                            "items": [
+                                {
+                                    "id": 1720355,
+                                    "user_id": 1183626,
+                                    "content": "tolong bantu pleas",
+                                    "created": "2015-02-18T21:42:59+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                }
+                            ],
+                            "last_id": 0,
+                            "count": 1
+                        },
+                        "highlighted_content": "add the follwing sentences using question tag\n1.Bob can come,..?\n2.Herry can't come, ..?\n3.Melinda is here,...?\n4.Anna likes tea,..?\n5.you don't like tea,...?\n6.they haven't. left... ?\n7.Nothing is wrong... ?\n8.Everything is okay.. ?\n9.we want to come..?\n10.dini is a dentist..?\n11Puspa would like to come with us to the party.. ?\n12.those aren't <em>Fred<\/em>'s books..?\n13.you've never been to Paris.. ?\n14.something is wrong with Jane today.. ?\n15.everyone can learn how to swim,...?\n16.Nobody cheated on exam..?\n17.Nothing went wrong while I was gone,..?\n18.I am invited.. ?\n19.<em>Geo<\/em>rge is a student,..?\n20.They will be sere,..?",
+                        "snippet_content": "to come with us to the party.. ?\n12.those aren't <em>Fred<\/em>'s books..?\n13.you've never been to Paris.. ?\n14"
+                    },
+                    "responses": [
+                        {
+                            "id": 2670890,
+                            "user_id": 922416,
+                            "task_id": 2102565,
+                            "points": 5,
+                            "created": "2015-02-18T21:48:13+07:00",
+                            "content": "1. can't he<br \/>2.can he<br \/>3. isn't she<br \/>4. doesn't she<br \/>5. do you<br \/>6.have they?<br \/>7.isnt it<br \/>8.isnt it<br \/>9.wont\u00a0 we<br \/>10.isnt she<br \/>11. wouldnt she<br \/>12. <br \/>13.havent you<br \/>14.isnt it<br \/>15.cant they<br \/>16. didnt they<br \/>17. didnt ....<br \/>18.do you<br \/>19.isnt he<br \/>20. wont they<br \/>\u00a0 <br \/>MAAF KALO ADA YG SALAH, SEMOGA MEMBANTU!<br \/><br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 1720393,
+                                        "user_id": 1183626,
+                                        "content": "makasih ya ka",
+                                        "created": "2015-02-18T21:52:59+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 1720397,
+                                        "user_id": 922416,
+                                        "content": "sama sama ya",
+                                        "created": "2015-02-18T21:53:45+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 1720398,
+                                        "user_id": 1183626,
+                                        "content": "nama kaka siapah?",
+                                        "created": "2015-02-18T21:54:47+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 1720407,
+                                        "user_id": 922416,
+                                        "content": "Intan",
+                                        "created": "2015-02-18T21:57:03+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 1720418,
+                                        "user_id": 1183626,
+                                        "content": "oh ...dari manah?",
+                                        "created": "2015-02-18T21:59:04+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 5
+                            }
+                        },
+                        {
+                            "id": 2670902,
+                            "user_id": 1197423,
+                            "task_id": 2102565,
+                            "points": 5,
+                            "created": "2015-02-18T21:50:52+07:00",
+                            "content": "<span>1.Bob can come, can't he?<br \/> 2.Herry can't come, can he?<br \/> 3.Melinda is here, isn't she?<br \/> 4.Anna likes tea,...?<br \/> 5.you don't like tea, do you?<br \/> 6.they haven't. left... ?<br \/> 7.Nothing is wrong. isn't it?<br \/> 8.Everything is okay, isn't it?<br \/> 9.we want to come, doesn't we?<br \/> 10.dini is a dentist, isn't she?<br \/> 11Puspa would like to come with us to the party, won't she?<br \/> 12.those aren't Fred's books. are they?<br \/> 13.you've never been to Paris.. ?<br \/> 14.something is wrong with Jane today,isn't it?<br \/> 15.everyone can learn how to swim,.can't it?<br \/> 16.Nobody cheated on exam..?<br \/> 17.Nothing went wrong while I was gone,didn't it?<br \/> 18.I am invited. aren't I?<br \/> 19.George is a student,.isn't he?<br \/> 20.They will be sere,.<\/span>won't they?<br \/><br \/>maaf ada yg belum, maaf kalo salah, semoga membantu...<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 922416,
+                                "nick": "intansianturi",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d31\/73a3ab7be203419c41c32391789faed5.jpeg"
+                            },
+                            {
+                                "id": 1197423,
+                                "nick": "revytanovacn",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 9677391,
+                        "subject_id": 1,
+                        "user_id": 4185565,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Topi Seleksi<br \/>pintu langsung membuka seorang penyihir wanita Jangkung memakai jubah hijau Zamrud berdiri di sana wajahnya sangat galak dan pikiran pertama adalah jangan sampai membuat penyihir ini marah kelas 1 Professor McGonagall kata Hagrid terima kasih Hagrid Biar aku ambil alih sekarang dibukanya pintu lebar-lebar aula di belakang pintu luas kali seluruh rumah keluarga dursley bisa dipindahkan ke situ dinding batunya diterangi obor obor menyala seperti di Greek Gods langit-langitnya tinggi sekali sehingga tak bisa dilihat dan ada tangga pualam megah depan mereka Selamat datang di Hogwarts Kata Profesor McGonagall pesta awal tahun ajaran baru akan segera dimulai tetapi sebelum kalian mengambil tempat duduk di aula besar kalian akan di seleksi masuk rumah asrama mana seleksi Ini upacara yang sangat penting karena selama kalian berada di sini asrama kalian akan menjadi semacam keluarga bagi kalian kalian akan belajar dan satu kelas dengan teman-teman seasrama kalian tidur di asrama kalian dan melewatkan waktu luang di ruang rekreasi asrama Kalian ada 4 asrama di sini Gryffindor hufflepuff ravenclaw dan slytherin masing-masing asrama punya sejarah Luhur dan masing-masing telah menghasilkan penyihir hebat selama kalian di Hogwarts prestasi dan kemenangan kalian akan menambah angka bagi asrama kalian sementara pelanggaran peraturan akan membuat angka asrama kalian dikurangi pada akhir tahun asrama yang berhasil mengumpulkan angka paling banyak akan di Anugrah piala asrama Suatu kehormatan besar Kuharap kalian semua akan membawa kebanggaan bagi asrama menelepon yang akan kalian tempat upacara seleksi akan berlangsung berapa menit lagi di hadapan seluruh penghuni sekolah yang di bawah telinga dan hidung Run yang ada kotoran hitamnya hari dengan gelisah mencoba meratakan rambutnya Aku akan kembali kalau kamu sudah siap menerima kalian Kata Profesor McGonagall tunggu di sini dan jangan ribut dia meninggalkan ruangan Heri menelan ludah bagaimana cara mereka menyeleksi kita masuk asrama tanyanya kepada Ron dengan semacam tes kata Fred prosesnya menyakitkan sekali tapi kurasa dia bergurau hati Heri mencelos tes di depan seluruh sekolah tetapi dia sama sekali tak tahu apa-apa tentang siapa yang harus dilakukannya dia tidak menyangka akan ada tes dia memandang berkeliling dengan cemas dan melihat bahwa anak-anak lain juga sama takutnya tak ada yang banyak bicara kecuali Hermione Granger yang dalam bisikan mengucapkan dengan cepat semua mantra yang telah dipelajarinya dan bertanya-tanya sendiri mantra mana yang akan diperlukannya Harry berusaha keras untuk mendengarkannya ini belum pernah ketika dia harus membawa laporan dari sekolah kepada keluarga dursley bagaimana dia telah mengubahnya menjadi biru matanya diarahkannya ke pintu setiap saat Profesor mc gonaggal agar bisa kembali dan bawahnya menyongsong malapetaka.<br \/><br \/>1.Jelaskan jenis alur yang digunakan, sertakan pula<br \/>-Tahap perkenalan <br \/>-tahap masalah<br \/>-tahap puncak masalah<br \/>-tahap peleraian<br \/>-tahap penyelesaian<br \/>2.sebutkan pelaku-pelaku ceritanya!<br \/>3.jelaskan latart tempat, waktu dan suasana!<br \/>#pliss KA tolong bntuin ya",
+                        "created": "2017-03-03T12:54:11+07:00",
+                        "responses": 2,
+                        "tickets": 4,
+                        "first_resp": "2017-03-03T21:22:34+07:00",
+                        "the_best_resp_id": "11595401",
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Topi Seleksipintu langsung membuka seorang penyihir wanita Jangkung memakai jubah hijau Zamrud berdiri di sana wajahnya sangat galak dan pikiran pertama adalah jangan sampai membuat penyihir ini marah kelas 1 Professor McGonagall kata Hagrid terima kasih Hagrid Biar aku ambil alih sekarang dibukanya pintu lebar-lebar aula di belakang pintu luas kali seluruh rumah keluarga dursley bisa dipindahkan ke situ dinding batunya diterangi obor obor menyala seperti di Greek Gods langit-langitnya tinggi sekali sehingga tak bisa dilihat dan ada tangga pualam megah depan mereka Selamat datang di Hogwarts Kata Profesor McGonagall pesta awal tahun ajaran baru akan segera dimulai tetapi sebelum kalian mengambil tempat duduk di aula besar kalian akan di seleksi masuk rumah asrama mana seleksi Ini upacara yang sangat penting karena selama kalian berada di sini asrama kalian akan menjadi semacam keluarga bagi kalian kalian akan belajar dan satu kelas dengan teman-teman seasrama kalian tidur di asrama kalian dan melewatkan waktu luang di ruang rekreasi asrama Kalian ada 4 asrama di sini Gryffindor hufflepuff ravenclaw dan slytherin masing-masing asrama punya sejarah Luhur dan masing-masing telah menghasilkan penyihir hebat selama kalian di Hogwarts prestasi dan kemenangan kalian akan menambah angka bagi asrama kalian sementara pelanggaran peraturan akan membuat angka asrama kalian dikurangi pada akhir tahun asrama yang berhasil mengumpulkan angka paling banyak akan di Anugrah piala asrama Suatu kehormatan besar Kuharap kalian semua akan membawa kebanggaan bagi asrama menelepon yang akan kalian tempat upacara seleksi akan berlangsung berapa menit lagi di hadapan seluruh penghuni sekolah yang di bawah telinga dan hidung Run yang ada kotoran hitamnya hari dengan <em>geli<\/em>sah mencoba meratakan rambutnya Aku akan kembali kalau kamu sudah siap menerima kalian Kata Profesor McGonagall tunggu di sini dan jangan ribut dia meninggalkan ruangan Heri menelan ludah bagaimana cara mereka menyeleksi kita masuk asrama tanyanya kepada Ron dengan semacam tes kata <em>Fred<\/em> prosesnya menyakitkan sekali tapi kurasa dia bergurau hati Heri mencelos tes di depan seluruh sekolah tetapi dia sama sekali tak tahu apa-apa tentang siapa yang harus dilakukannya dia tidak menyangka akan ada tes dia memandang berkeliling dengan cemas dan melihat bahwa anak-anak lain juga sama takutnya tak ada yang banyak bicara kecuali Hermione Granger yang dalam bisikan mengucapkan dengan cepat semua mantra yang telah dipelajarinya dan bertanya-tanya sendiri mantra mana yang akan diperlukannya Harry berusaha keras untuk mendengarkannya ini belum pernah ketika dia harus membawa laporan dari sekolah kepada keluarga dursley bagaimana dia telah mengubahnya menjadi biru matanya diarahkannya ke pintu setiap saat Profesor mc gonaggal agar bisa kembali dan bawahnya menyongsong malapetaka.1.Jelaskan jenis alur yang digunakan, sertakan pula-Tahap perkenalan -tahap masalah-tahap puncak masalah-tahap peleraian-tahap penyelesaian2.sebutkan pelaku-pelaku ceritanya!3.jelaskan latart tempat, waktu dan suasana!#pliss KA tolong bntuin ya",
+                        "snippet_content": "bawah telinga dan hidung Run yang ada kotoran hitamnya hari dengan <em>geli<\/em>sah mencoba meratakan rambutnya Aku akan kembali kalau kamu sudah siap"
+                    },
+                    "responses": [
+                        {
+                            "id": 11595020,
+                            "user_id": 4546830,
+                            "task_id": 9677391,
+                            "points": 5,
+                            "created": "2017-03-03T21:22:34+07:00",
+                            "content": "di sekolah, harry cemas, harry menelan ludah karena dia cemas \u00a0harry bertanya tanya karena membaca mantra sangat cepat,<br \/><br \/>harry, mc gonagall,fred hermione greges,hufflepuf,slytherin<br \/>sekolah,masuk ruangan tenang",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 11595401,
+                            "user_id": 4649513,
+                            "task_id": 9677391,
+                            "points": 5,
+                            "created": "2017-03-03T21:38:22+07:00",
+                            "content": "1. alur maju kalau enggak salah namanya<br \/>tahap perkenalannya, saat menceritakan kejadian ketika pintu masuk dibuka dan apa yang disekelilingnya<br \/>tahap masalah saat dia ingin diasramakan<br \/>puncak masalah saat dia menunggu proses seleksi dan bingung dengan situasi<br \/>tahap penyelesaian dia mengatakan beberapa mantra yang dia tau dan mengingat tingkahnya di asrama lama<br \/>2. heri,",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 2,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 6283428,
+                                        "user_id": 4185565,
+                                        "content": "coba ka tulis lgi thapan perkenalannnya",
+                                        "created": "2017-03-03T21:52:18+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 6283449,
+                                        "user_id": 4649513,
+                                        "content": "di komentar aku tadi udah ada kok ku jelasin :)",
+                                        "created": "2017-03-03T21:53:31+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 6283505,
+                                        "user_id": 4185565,
+                                        "content": "ok mksih ya ka",
+                                        "created": "2017-03-03T21:57:42+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 6283510,
+                                        "user_id": 4649513,
+                                        "content": "terima kasih kembali",
+                                        "created": "2017-03-03T21:58:12+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 6283801,
+                                        "user_id": 4185565,
+                                        "content": "ka klo tahap peleraian nya gimna? ko blum ditulis",
+                                        "created": "2017-03-03T22:23:16+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 6283428,
+                                "count": 14
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4546830,
+                                "nick": "reifaldo",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d90\/24596925537ea08bf9cbaecae2fe5516.jpg"
+                            },
+                            {
+                                "id": 4649513,
+                                "nick": "geges06",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d66\/d516f9e2867826cc011826eeb9e94e78.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 8014314,
+                        "subject_id": 4,
+                        "user_id": 3983009,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "untuk menyangkal teori abiogenesis francesco redi mengadakan percobaan dengan menggunakan tabung gelas berisi (mohon bantuanya ya)",
+                        "created": "2016-10-23T18:56:38+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2016-10-23T23:56:19+07:00",
+                        "the_best_resp_id": "9523513",
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "untuk menyangkal teori abiogenesis francesco <em>redi<\/em> mengadakan percobaan dengan menggunakan tabung <em>gela<\/em>s berisi (mohon bantuanya ya)",
+                        "snippet_content": "untuk menyangkal teori abiogenesis francesco <em>redi<\/em> mengadakan percobaan dengan menggunakan tabung <em>gela<\/em>s berisi (mohon bantuanya ya)"
+                    },
+                    "responses": [
+                        {
+                            "id": 9523513,
+                            "user_id": 2265010,
+                            "task_id": 8014314,
+                            "points": 5,
+                            "created": "2016-10-23T23:56:19+07:00",
+                            "content": "daging segar, ada yang dibiarin ada juga yg di tutup",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 5512707,
+                                        "user_id": 3983009,
+                                        "content": "thx",
+                                        "created": "2016-11-20T19:11:43+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2265010,
+                                "nick": "kikirizkim",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dfc\/e9cf029b124a2ca9d02876caf002c4be.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10350610,
+                        "subject_id": 1,
+                        "user_id": 4231881,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 28,
+                            "ptsForResp": 14,
+                            "ptsForBest": 7
+                        },
+                        "content": "Perhatikan kalimat berikut ini!<br \/>Ali dan Badu....karena Johan dan Redi merusak mainan mereka.<br \/>Ungkapan yang artinya sama untuk melengkapi kalimat diatas adalah...<br \/>A.naik darah, putih tulang, tebal muka<br \/>B.gelap mata, naik daun, naik pitam<br \/>C.naik darah, naik pitam, merah telinga<br \/>D.Tangan kanan, buah hati, anak bawang",
+                        "created": "2017-04-20T20:15:44+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2017-04-20T20:17:03+07:00",
+                        "the_best_resp_id": "12494340",
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Perhatikan kalimat berikut ini!Ali dan Badu....karena Johan dan <em>Redi<\/em> merusak mainan mereka.Ungkapan yang artinya sama untuk melengkapi kalimat diatas adalah...A.naik darah, putih tulang, tebal mukaB.<em>gela<\/em>p mata, naik daun, naik pitamC.naik darah, naik pitam, merah telingaD.Tangan kanan, buah hati, anak bawang",
+                        "snippet_content": "Perhatikan kalimat berikut ini!Ali dan Badu....karena Johan dan <em>Redi<\/em> merusak mainan mereka.Ungkapan yang artinya sama untuk melengkapi kalimat diatas"
+                    },
+                    "responses": [
+                        {
+                            "id": 12494340,
+                            "user_id": 4583256,
+                            "task_id": 10350610,
+                            "points": 14,
+                            "created": "2017-04-20T20:17:03+07:00",
+                            "content": "c. naik darah, naik pitam, merah telanga",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 12494347,
+                            "user_id": 4638818,
+                            "task_id": 10350610,
+                            "points": 14,
+                            "created": "2017-04-20T20:17:07+07:00",
+                            "content": "C.naik darah,naik pitam,merah telinga<br \/>semoga betul!<br \/><br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4583256,
+                                "nick": "asrofimoch7",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d84\/b608d3d88b87148d19aefdcfbb0b563e.jpg"
+                            },
+                            {
+                                "id": 4638818,
+                                "nick": "FADLYGT71",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 2460684,
+                        "subject_id": 2,
+                        "user_id": 1357504,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 20,
+                            "ptsForResp": 10,
+                            "ptsForBest": 5
+                        },
+                        "content": "1.harga 1 jeruk adalah dua kali harga 1 pisang.jika Melody membeli 3 jeruk dan 4 pisang,ia harus membayar Rp.25.000,00.Berapakah harga 1 pisang? <br \/>\n2.pak Fredy memiliki sebuah mobil box pengangkut barang dengan daya angkut tidak lebih dari 500 kg.Berat pak Fredy adalah 60 kg dan dia akan mengangkut kotak barang yang setiap kotak beratnya 20 kg.a)Berapa kotak paling bantak dapat diangkut pak Fredy alam sekali pengangkutan?<br \/>\nb)jika pak Fredy akan mengangkut 110 kotak ,paling sedikit berapa kali pengangkutan kotak itu akan habis? <br \/><br \/>",
+                        "created": "2015-04-12T15:23:40+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2015-04-12T15:27:53+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "1.harga 1 jeruk adalah dua kali harga 1 pisang.jika <em>Melo<\/em>dy membeli 3 jeruk dan 4 pisang,ia harus membayar Rp.25.000,00.Berapakah harga 1 pisang? \n2.pak <em>Fredy<\/em> memiliki sebuah mobil box pengangkut barang dengan daya angkut tidak lebih dari 500 kg.Berat pak <em>Fredy<\/em> adalah 60 kg dan dia akan mengangkut kotak barang yang setiap kotak beratnya 20 kg.a)Berapa kotak paling bantak dapat diangkut pak <em>Fredy<\/em> alam sekali pengangkutan?\nb)jika pak <em>Fredy<\/em> akan mengangkut 110 kotak ,paling sedikit berapa kali pengangkutan kotak itu akan habis? ",
+                        "snippet_content": "beratnya 20 kg.a)Berapa kotak paling bantak dapat diangkut pak <em>Fredy<\/em> alam sekali pengangkutan?\nb)jika pak <em>Fredy<\/em> akan mengangkut 110"
+                    },
+                    "responses": [
+                        {
+                            "id": 3147202,
+                            "user_id": 1318220,
+                            "task_id": 2460684,
+                            "points": 10,
+                            "created": "2015-04-12T15:27:53+07:00",
+                            "content": "misal jeruk = x dan pisang = y<br \/><br \/>x = 2y<br \/>3x + 4y = 25000<br \/><br \/>x = 2y<br \/>3x = 6y<br \/><br \/>3x + 4y = 25000<br \/>6y + 4y = 25000<br \/>10y = 25000<br \/>y = 25000 \/ 10<br \/>y = 2500<br \/><br \/>jadi harga 1 pisang = Rp 2.500,-<br \/><br \/>==========<br \/><br \/>daya angkut = 500 kg<br \/>(20 * x) + 60 = 500<br \/>20x + 60 = 500<br \/>20x = 500 - 60<br \/>20x = 440<br \/>x = 440 \/ 20<br \/>x = 22 buah kotak dalam sekali pengangkutan<br \/><br \/>untuk 110 kotak = 110 \/ 22 = 5 kali pengangkutan.<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 7,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2015-06-08T23:34:25+07:00",
+                                "approver": {
+                                    "id": 843226,
+                                    "nickname": "Asruul",
+                                    "points": 244757,
+                                    "grade": 2,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/d57\/2305e6ee5f91c7c1a4ed6e62a7b69fda.jpg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/d79\/6d17fc9c6105895c55f1ece47e94334e.jpg"
+                                    },
+                                    "content_approved_count": 29778
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 3147239,
+                            "user_id": 2894,
+                            "task_id": 2460684,
+                            "points": 10,
+                            "created": "2015-04-12T15:31:03+07:00",
+                            "content": "1)<br \/>Misal <br \/>jeruk = J.... Pisang = P<br \/><br \/>J = 2P<br \/>3J + 4P = 25.000<br \/>3(2P) + 4P = 25.000<br \/>6P + 4P = 25.000<br \/>10P = 25.000<br \/>P(Pisang) = 2.500<br \/><br \/>2)<br \/>daya angkut barang = 500-60= 440kg<br \/>a. banyak kotak 1 kali angkut <br \/>\u00a0 \u00a0 \u00a0\u00a0= 440kg\/20kg=22 kotak<br \/>b. 110 kotak \/22kotak = 5 kali angkut<br \/><br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 7,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2015-06-08T23:34:29+07:00",
+                                "approver": {
+                                    "id": 843226,
+                                    "nickname": "Asruul",
+                                    "points": 244757,
+                                    "grade": 2,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/d57\/2305e6ee5f91c7c1a4ed6e62a7b69fda.jpg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/d79\/6d17fc9c6105895c55f1ece47e94334e.jpg"
+                                    },
+                                    "content_approved_count": 29778
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1318220,
+                                "nick": "Kilos",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d63\/abe6538e236bf31d57ab4e211b2a9ebb.jpg"
+                            },
+                            {
+                                "id": 2894,
+                                "nick": "IvanaA",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dbb\/688b84ac08184ba46af072b87b3e2841.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 6304877,
+                        "subject_id": 5,
+                        "user_id": 3135490,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "tolong bantu saya plisss. jawabanya ada di gambar. pilihlah jawaban yang benar.<br \/><br \/>\nchoose the correct statements from the sentences below based on the text.<br \/>\n1. a.the high school     team had white shorts.<br \/>\n   b.the high school team had black shorts.<br \/>\n2. a.fred said,\"they look like bees because rhey ran ver fast\".<br \/>\n    b.fred said,\"they look like bees because they had orange and black clothes\".<br \/>\n3. a.the high school team scored first.<br \/>\n    b.the valley school team scored first.<br \/>\n4.a.they valley school team got a free kick because their captain took it.<br \/>\n    b.the valley school team got a free kick becauae a high school boy stopped the ball with one of his hands.<br \/>\n5. a.the valley school team won the match.<br \/>\n     b.neither team won the match",
+                        "created": "2016-05-31T15:06:01+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2016-05-31T15:20:17+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [
+                            {
+                                "full": "https:\/\/id-static.z-dn.net\/files\/df5\/773f9418b6f585cd765b1b267f63691c.jpg",
+                                "thumbnail": "https:\/\/id-static.z-dn.net\/files\/df7\/d09fdbe57b59e747f2c520f01433e7b9.jpg",
+                                "type": "image\/jpeg",
+                                "size": 1434885,
+                                "hash": "773f9418b6f585cd765b1b267f63691c",
+                                "id": 2687953,
+                                "extension": "jpg"
+                            }
+                        ],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "tolong bantu saya plisss. jawabanya ada di gambar. pilihlah jawaban yang benar.\nchoose the correct statements from the sentences <em>belo<\/em>w based on the text.\n1. a.the high school     team had white shorts.\n   b.the high school team had black shorts.\n2. a.<em>fred<\/em> said,\"they look like bees because rhey ran ver fast\".\n    b.<em>fred<\/em> said,\"they look like bees because they had orange and black clothes\".\n3. a.the high school team scored first.\n    b.the valley school team scored first.\n4.a.they valley school team got a free kick because their captain took it.\n    b.the valley school team got a free kick becauae a high school boy stopped the ball with one of his hands.\n5. a.the valley school team won the match.\n     b.neither team won the match",
+                        "snippet_content": "tolong bantu saya plisss. jawabanya ada di gambar. pilihlah jawaban yang benar.\nchoose the correct statements from the sentences <em>belo<\/em>w based on"
+                    },
+                    "responses": [
+                        {
+                            "id": 7530788,
+                            "user_id": 3113640,
+                            "task_id": 6304877,
+                            "points": 5,
+                            "created": "2016-05-31T15:20:17+07:00",
+                            "content": "1. A. The high school team had white shorts.<br \/>2. B. Fred said,\"they look like bees because they had orange and black clothes\".<br \/>3. B. The valley school team scored first. <br \/>4. B. The valley school team got a free kick becauae a high school boy stopped the ball with one of his hands.<br \/>5. B. Neither team won the match. <br \/><br \/><br \/><br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3113640,
+                                "nick": "Abil07",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d37\/7ac3d6dfee5677c5735d96f61e711477.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 3572063,
+                        "subject_id": 4,
+                        "user_id": 943712,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "35. Cara pemanasan bahan alkohol yg benar adalah ...<br \/>\na. alkohol dimasukkan dalam tabung reaksi yg tertutup<br \/>\nb. alkohol dipanaskan dalam gelas kimia<br \/>\nc. alkohol dipanaskan dalam gelas kimia yg berisi es<br \/>\nd. alkohol dalam tabung reaksi dipanaskan dalam gelas kimia berisi air panas<br \/><br \/>\n59. Dalam menerapkan metode ilmiah,membuat hipotesis adalah dasar untuk ...<br \/>\na. menemukan masalah<br \/>\nb. menarik kesimpulan<br \/>\nc. mengumpulkan data<br \/>\nd. mengadakan eksperimen<br \/><br \/>\n60. Untuk membuktikan suatu dugaan (hipotesis) dalam pemecahan masalah dengan metode ilmiah,harus dilaksanakan ...<br \/>\na. eksperimen<br \/>\nb. observasi<br \/>\nc. perumusan masalah<br \/>\nd. menguji kesimpulan<br \/><br \/>\n61. Eksperimen diperlukan dalam metode ilmiah untuk ...<br \/>\na. merumuskan masalah<br \/>\nb. mengangkat persoalan<br \/>\nc. menguji kesimpulan<br \/>\nd. menguji hipotesis<br \/><br \/>\n65. Dalam suatu observasi, Anita dapat mendeskripsikan suatu tanaman : perdu,urat daun menjadi,tepi daun bergerigi.hasil pengamatan tersebut merupakan ...<br \/>\na. hipotesis<br \/>\nb. eksperimen<br \/>\nc. data kualitatif<br \/>\nd. data kuantitatif<br \/><br \/>\n66. Gejala alam kejadian pada objek biotik ditunjukkan oleh ...<br \/>\na. warna<br \/>\nb. ukuran<br \/>\nc. bau<br \/>\nd. tumbuh<br \/><br \/>\n68. Gejala alam kebendaan pada objek biotik ditunjukkan oleh ciri ...<br \/>\na. warna bunga<br \/>\nb. tumbuh<br \/>\nc. bernapas<br \/>\nd. berkembang biak<br \/><br \/>\n69. Peristiwa perubahan air menjadi uap jika dipanaskan merupakan gejala alam ...<br \/>\na. kejadian objek biotik<br \/>\nb. kejadian objek abiotik<br \/>\nc. kebendaan objek abiotik<br \/>\nd. kebendaan objek biotik<br \/><br \/>\n70. Para konsumen memilih semangka nonbiji daripada semangka yg berbiji.Semangka nonbiji menunjukkan kemajuan biologi khususnya cabang ...<br \/>\na. genetika<br \/>\nb. zoologi<br \/>\nc. fisiologi<br \/>\nd. mikrobiologi<br \/><br \/>\n71.Jika kita mengunjungi rumah sakit besar,kita dapat menemukan adanya bagian Patologi.Bidang yg dikaji dibagian tersebut adalah ...<br \/>\na. pengaturan gizi penderita<br \/>\nb. persiapan pembedahan<br \/>\nc. pemeriksaan laboratorium para pasien<br \/>\nd. penyakit &amp; pengaruhnya pada pasien<br \/><br \/>\n76. Penelitian dalam bidang biologi tidak untuk menunjang perkembangan ilmu ...<br \/>\na. kedokteran<br \/>\nb. kehutanan<br \/>\nc. perikanan<br \/>\nd. perbintangan<br \/><br \/>\n79. Pada eksperimen Francesco Redi,setelah beberapa hari digelas A yg terbuka terdapat belatung sedangkan di gelas B yg tertutup tidak.belatung digelas A berasal dari ...<br \/>\na. debu<br \/>\nb. telur telur lalat<br \/>\nc. daging yg membusuk<br \/>\nd. air dari daging yg membusuk",
+                        "created": "2015-09-20T18:03:23+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2015-09-20T18:41:51+07:00",
+                        "the_best_resp_id": "4333827",
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "35. Cara pemanasan bahan alkohol yg benar adalah ...\na. alkohol dimasukkan dalam tabung reaksi yg tertutup\nb. alkohol dipanaskan dalam <em>gela<\/em>s kimia\nc. alkohol dipanaskan dalam <em>gela<\/em>s kimia yg berisi es\nd. alkohol dalam tabung reaksi dipanaskan dalam <em>gela<\/em>s kimia berisi air panas\n59. Dalam menerapkan metode ilmiah,membuat hipotesis adalah dasar untuk ...\na. menemukan masalah\nb. menarik kesimpulan\nc. mengumpulkan data\nd. mengadakan eksperimen\n60. Untuk membuktikan suatu dugaan (hipotesis) dalam pemecahan masalah dengan metode ilmiah,harus dilaksanakan ...\na. eksperimen\nb. observasi\nc. perumusan masalah\nd. menguji kesimpulan\n61. Eksperimen diperlukan dalam metode ilmiah untuk ...\na. merumuskan masalah\nb. mengangkat persoalan\nc. menguji kesimpulan\nd. menguji hipotesis\n65. Dalam suatu observasi, Anita dapat mendeskripsikan suatu tanaman : perdu,urat daun menjadi,tepi daun bergerigi.hasil pengamatan tersebut merupakan ...\na. hipotesis\nb. eksperimen\nc. data kualitatif\nd. data kuantitatif\n66. Gejala alam kejadian pada objek biotik ditunjukkan oleh ...\na. warna\nb. ukuran\nc. bau\nd. tumbuh\n68. Gejala alam kebendaan pada objek biotik ditunjukkan oleh ciri ...\na. warna bunga\nb. tumbuh\nc. bernapas\nd. berkembang biak\n69. Peristiwa perubahan air menjadi uap jika dipanaskan merupakan gejala alam ...\na. kejadian objek biotik\nb. kejadian objek abiotik\nc. kebendaan objek abiotik\nd. kebendaan objek biotik\n70. Para konsumen memilih semangka nonbiji daripada semangka yg berbiji.Semangka nonbiji menunjukkan kemajuan biologi khususnya cabang ...\na. genetika\nb. zoologi\nc. fisiologi\nd. mikrobiologi\n71.Jika kita mengunjungi rumah sakit besar,kita dapat menemukan adanya bagian Patologi.Bidang yg dikaji dibagian tersebut adalah ...\na. pengaturan gizi penderita\nb. persiapan pembedahan\nc. pemeriksaan laboratorium para pasien\nd. penyakit &amp; pengaruhnya pada pasien\n76. Penelitian dalam bidang biologi tidak untuk menunjang perkembangan ilmu ...\na. kedokteran\nb. kehutanan\nc. perikanan\nd. perbintangan\n79. Pada eksperimen Francesco <em>Redi<\/em>,setelah beberapa hari digelas A yg terbuka terdapat belatung sedangkan di <em>gela<\/em>s B yg tertutup tidak.belatung digelas A berasal dari ...\na. debu\nb. telur telur lalat\nc. daging yg membusuk\nd. air dari daging yg membusuk",
+                        "snippet_content": "alkohol dimasukkan dalam tabung reaksi yg tertutup\nb. alkohol dipanaskan dalam <em>gela<\/em>s kimia\nc. alkohol dipanaskan dalam <em>gela<\/em>s kimia yg berisi es"
+                    },
+                    "responses": [
+                        {
+                            "id": 4333827,
+                            "user_id": 1907636,
+                            "task_id": 3572063,
+                            "points": 5,
+                            "created": "2015-09-20T18:41:51+07:00",
+                            "content": "79:b<br \/>76:a<br \/>71:a<br \/>70;b<br \/>69:c<br \/>68:c<br \/><br \/>66:d",
+                            "mark": 3,
+                            "marks_count": 3,
+                            "thanks": 3,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1907636,
+                                "nick": "salwa1232",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 5334382,
+                        "subject_id": 13,
+                        "user_id": 2643326,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 30,
+                            "ptsForResp": 15,
+                            "ptsForBest": 8
+                        },
+                        "content": "Adakah yang bisa menerjemahkan ini ke aksara jawa? buruan ya..!! makasih :) :<br \/><br \/>\nCerito berawal saking Mbok Sirni satiyang randha sepuh ingkang dipunsukani bibit mentimun ajaib dening buta, kaliyan balasan Mbok Sirni kedah ngunjuk pikantuk saking bibit mentimun punika.<br \/><br \/>\nBibit mentimun tuwuh dados wit uga berbuah mentimun ageng sanget ingkang jebulna berisi bayi elok estri ingkang dipunsukani nami Timun jene utawi Timun Mas.<br \/><br \/>\nDinten ingkang dipunkuwatosaken Mbok Sirni tiba, buta nedha jatah pikantuk saking bibit ingkang dipunsukaninipun. pun buta wicanten badhe datheng wangsul konjuk memangsa Timun Mas ing umuripun ingkang datheng pitulas.<br \/><br \/>\nKonjuk sanguh milujengaken putrinya saking buta, Mbok Sirni kesah memoni pertapa sakti ing redi Gundul. Pertapa sakti nyukakaken bibit mentimun, jarum, segenggam sarem uga sepotong traos dados senjata konjuk mengsah pun buta.<br \/><br \/>\nBermodalkan senjata saking Pertapa sakti, Timun Mas kedadosan lolos saking pun buta, Bahkan pun buta akhiripun memoni kepejahan tersedot wedi hisap. saksampune mboten enten pambengan saking buta, Timun Mas uga Mbok Sirni gesang berbahagia.",
+                        "created": "2016-03-04T17:26:06+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2016-03-05T18:08:25+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Adakah yang bisa menerjemahkan ini ke aksara jawa? buruan ya..!! makasih :) :\nCerito berawal saking Mbok Sirni satiyang randha sepuh ingkang dipunsukani bibit mentimun ajaib dening buta, kaliyan balasan Mbok Sirni kedah ngunjuk pikantuk saking bibit mentimun punika.\nBibit mentimun tuwuh dados wit uga berbuah mentimun ageng sanget ingkang jebulna berisi bayi <em>elo<\/em>k estri ingkang dipunsukani nami Timun jene utawi Timun Mas.\nDinten ingkang dipunkuwatosaken Mbok Sirni tiba, buta nedha jatah pikantuk saking bibit ingkang dipunsukaninipun. pun buta wicanten badhe datheng wangsul konjuk memangsa Timun Mas ing umuripun ingkang datheng pitulas.\nKonjuk sanguh milujengaken putrinya saking buta, Mbok Sirni kesah memoni pertapa sakti ing <em>redi<\/em> Gundul. Pertapa sakti nyukakaken bibit mentimun, jarum, segenggam sarem uga sepotong traos dados senjata konjuk mengsah pun buta.\nBermodalkan senjata saking Pertapa sakti, Timun Mas kedadosan lolos saking pun buta, Bahkan pun buta akhiripun memoni kepejahan tersedot wedi hisap. saksampune mboten enten pambengan saking buta, Timun Mas uga Mbok Sirni gesang berbahagia.",
+                        "snippet_content": "dados wit uga berbuah mentimun ageng sanget ingkang jebulna berisi bayi <em>elo<\/em>k estri ingkang dipunsukani nami Timun jene utawi Timun Mas.\nDinten"
+                    },
+                    "responses": [
+                        {
+                            "id": 6311367,
+                            "user_id": 2659335,
+                            "task_id": 5334382,
+                            "points": 15,
+                            "created": "2016-03-05T18:08:25+07:00",
+                            "content": "itu baru yg paragraf utama, yg paragraf selanjutnya belum<br \/><br \/>jika tlisannya krang jelas, aq ambil foto lagi pada bgian yg krang jls..",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [
+                                {
+                                    "full": "https:\/\/id-static.z-dn.net\/files\/ddc\/df1da4b1dcce1c9d0957240f0c03758e.jpg",
+                                    "thumbnail": "https:\/\/id-static.z-dn.net\/files\/df7\/924f97de2117b7c042c291a78abd44d8.jpg",
+                                    "type": "image\/jpeg",
+                                    "size": 195468,
+                                    "hash": "df1da4b1dcce1c9d0957240f0c03758e",
+                                    "id": 2145353,
+                                    "extension": "jpg"
+                                }
+                            ],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2659335,
+                                "nick": "dinnha",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 15,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 832877,
+            "nick": "alyasrsaudi",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 21,
+                "answers": 3,
+                "comments": 2
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 854515,
+            "nick": "MumuChe07",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 67,
+                "comments": 32
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d2c\/e83225230bd9cc06f9c2d88af1049cd6.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d43\/21e43a8219c90307038f19f0d307dca9.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d2c\/e83225230bd9cc06f9c2d88af1049cd6.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d43\/21e43a8219c90307038f19f0d307dca9.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 386186,
+            "nick": "MariaNatio",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 8,
+                "answers": 181,
+                "comments": 63
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d19\/f1b1b36ab48f89cc39f54fdecc9c8033.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de3\/9c2e4cf6e7a5f362f3e19144d2a333a7.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d19\/f1b1b36ab48f89cc39f54fdecc9c8033.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de3\/9c2e4cf6e7a5f362f3e19144d2a333a7.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 973426,
+            "nick": "uce03",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 22,
+                "answers": 27,
+                "comments": 1
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 2363827,
+            "nick": "Averaaa",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 10,
+                "comments": 2
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 1310704,
+            "nick": "Nurita77",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 3,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d23\/ce324fc0bed9233c0dcf85dadd0b65d5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d93\/d6e94f1b9eef837e8997d956d3e7fe48.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d23\/ce324fc0bed9233c0dcf85dadd0b65d5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d93\/d6e94f1b9eef837e8997d956d3e7fe48.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1233672,
+            "nick": "ChiaBunga",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 65,
+                "comments": 17
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d62\/1ec6a1cae7bd9242368dbc615438be5f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d43\/23548bcf0a9e6305372f3d9828534aef.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d62\/1ec6a1cae7bd9242368dbc615438be5f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d43\/23548bcf0a9e6305372f3d9828534aef.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 41687,
+            "nick": "erikaBella",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 1,
+                "comments": 2
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d25\/ef62d78bcfeb657e78d8b2fa4b9c0660.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dda\/d74daa17d226ca829800c8ff0a48b5c4.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d25\/ef62d78bcfeb657e78d8b2fa4b9c0660.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dda\/d74daa17d226ca829800c8ff0a48b5c4.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 10410,
+            "nick": "crutudg",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 10,
+                "answers": 1964,
+                "comments": 1495
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d99\/85b9ac0c4511091e4a637c0f2417214b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df5\/3c8feed71eb4b5934c6d4e6c62b6147c.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d99\/85b9ac0c4511091e4a637c0f2417214b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df5\/3c8feed71eb4b5934c6d4e6c62b6147c.jpg"
+            },
+            "ranks": {
+                "color": "#ffbe32",
+                "names": [
+                    "Jenius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                7
+            ]
+        },
+        {
+            "id": 1229586,
+            "nick": "laolimeitinus",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 3,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1217660,
+            "nick": "asih2",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 16,
+                "comments": 6
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1228337,
+            "nick": "yosiayulianto07",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 124,
+                "comments": 18
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d35\/43e3d900558ca52beecaffda7e3de8cd.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d0a\/6e40ce003590aa72032bdcd1494916a5.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d35\/43e3d900558ca52beecaffda7e3de8cd.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d0a\/6e40ce003590aa72032bdcd1494916a5.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 4342532,
+            "nick": "setianiheny200",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 17,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4502452,
+            "nick": "Xxvvda",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 9,
+                "comments": 1
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d2b\/972279b5186a1b5d945fb48514e296b2.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d0a\/b310423be015aaa7c39f1dd39c57a8a3.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d2b\/972279b5186a1b5d945fb48514e296b2.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d0a\/b310423be015aaa7c39f1dd39c57a8a3.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 3906986,
+            "nick": "mayangsari6",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 0,
+                "comments": 1
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 3462308,
+            "nick": "yolatiwi",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 408,
+                "comments": 50
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d65\/3e26afd1e0cee58c426ad656bb5195db.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d5c\/86b5636188c87cf015e3f5f7db6d76d0.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d65\/3e26afd1e0cee58c426ad656bb5195db.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d5c\/86b5636188c87cf015e3f5f7db6d76d0.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 1183626,
+            "nick": "0878888014733",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 25,
+                "answers": 5,
+                "comments": 18
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 922416,
+            "nick": "intansianturi",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 9,
+                "answers": 182,
+                "comments": 25
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d91\/fe994442e6f721fa564c897581972bfd.jpeg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d31\/73a3ab7be203419c41c32391789faed5.jpeg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d91\/fe994442e6f721fa564c897581972bfd.jpeg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d31\/73a3ab7be203419c41c32391789faed5.jpeg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 1197423,
+            "nick": "revytanovacn",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 17,
+                "answers": 35,
+                "comments": 21
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 4185565,
+            "nick": "antikhairi",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 279,
+                "answers": 206,
+                "comments": 197
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da2\/30ca73a18f38c2212f400915f12f6a90.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d1d\/0fa1609e5e402d11c4a7cb8da7f03e62.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da2\/30ca73a18f38c2212f400915f12f6a90.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d1d\/0fa1609e5e402d11c4a7cb8da7f03e62.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 4546830,
+            "nick": "reifaldo",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 9,
+                "answers": 84,
+                "comments": 153
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de3\/4b9efeb095dc23ed38f9bd8e196bba37.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d90\/24596925537ea08bf9cbaecae2fe5516.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de3\/4b9efeb095dc23ed38f9bd8e196bba37.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d90\/24596925537ea08bf9cbaecae2fe5516.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 4649513,
+            "nick": "geges06",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 159,
+                "comments": 34
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d74\/8867b0bff30de42414149df89cad4fcd.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d66\/d516f9e2867826cc011826eeb9e94e78.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d74\/8867b0bff30de42414149df89cad4fcd.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d66\/d516f9e2867826cc011826eeb9e94e78.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 3983009,
+            "nick": "mysha73",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 1,
+                "comments": 4
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d0d\/6100f4147575fdc7567cb84b4bb2f99c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d67\/e3a63cb8663ae790e80b6965adb4bbf2.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d0d\/6100f4147575fdc7567cb84b4bb2f99c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d67\/e3a63cb8663ae790e80b6965adb4bbf2.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 2265010,
+            "nick": "kikirizkim",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 9,
+                "answers": 152,
+                "comments": 39
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/ded\/948e7d081375cd144be39c699bb9d0b6.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dfc\/e9cf029b124a2ca9d02876caf002c4be.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/ded\/948e7d081375cd144be39c699bb9d0b6.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dfc\/e9cf029b124a2ca9d02876caf002c4be.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 4231881,
+            "nick": "rakha113",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 139,
+                "answers": 310,
+                "comments": 728
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da3\/d64a0800b7b7c3ac282abb9fdb97a74c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d66\/3fc677a4a23456763ebb75e64fa3e5ff.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da3\/d64a0800b7b7c3ac282abb9fdb97a74c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d66\/3fc677a4a23456763ebb75e64fa3e5ff.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 4583256,
+            "nick": "asrofimoch7",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 20,
+                "answers": 310,
+                "comments": 36
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd8\/135d3543b599f8e386d7fc3ab39ef292.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d84\/b608d3d88b87148d19aefdcfbb0b563e.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd8\/135d3543b599f8e386d7fc3ab39ef292.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d84\/b608d3d88b87148d19aefdcfbb0b563e.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        },
+        {
+            "id": 4638818,
+            "nick": "FADLYGT71",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 2,
+                "comments": 7
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1357504,
+            "nick": "zaleaaaaa",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1318220,
+            "nick": "Kilos",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 21,
+                "answers": 8385,
+                "comments": 1760
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd6\/35fd23dcdb522623b3eefb144db0f605.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d63\/abe6538e236bf31d57ab4e211b2a9ebb.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd6\/35fd23dcdb522623b3eefb144db0f605.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d63\/abe6538e236bf31d57ab4e211b2a9ebb.jpg"
+            },
+            "ranks": {
+                "color": "#ffbe32",
+                "names": [
+                    "Brainly Advisor",
+                    "BrainlyDoctor",
+                    "BrainlyElite",
+                    "BrainlyTeacher",
+                    "GameMaker",
+                    "Guru",
+                    "Moderator",
+                    "Best Active",
+                    "Jenius"
+                ],
+                "count": 9
+            },
+            "ranks_ids": [
+                45,
+                32,
+                27,
+                91,
+                24,
+                12,
+                19,
+                53,
+                7
+            ]
+        },
+        {
+            "id": 2894,
+            "nick": "IvanaA",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 4304,
+                "comments": 1865
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d8f\/54c8e20bc0baffa30e9e8a0445a58980.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dbb\/688b84ac08184ba46af072b87b3e2841.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d8f\/54c8e20bc0baffa30e9e8a0445a58980.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dbb\/688b84ac08184ba46af072b87b3e2841.jpg"
+            },
+            "ranks": {
+                "color": "#ffbe32",
+                "names": [
+                    "BrainlyLegend",
+                    "BrainlyElite",
+                    "Apprentice",
+                    "Spam Fighter ",
+                    "Jenius"
+                ],
+                "count": 5
+            },
+            "ranks_ids": [
+                26,
+                27,
+                20,
+                17,
+                7
+            ]
+        },
+        {
+            "id": 3135490,
+            "nick": "nina179",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 3,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 3113640,
+            "nick": "Abil07",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 87,
+                "comments": 9
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d16\/474145dff9cb16cb871039c374f4f457.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d37\/7ac3d6dfee5677c5735d96f61e711477.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d16\/474145dff9cb16cb871039c374f4f457.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d37\/7ac3d6dfee5677c5735d96f61e711477.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 943712,
+            "nick": "shani1803",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 55,
+                "answers": 239,
+                "comments": 62
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d34\/8b1345b4213d54a74e02acd9887bdbec.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d33\/90434724101563d694c8e7424ab20d32.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d34\/8b1345b4213d54a74e02acd9887bdbec.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d33\/90434724101563d694c8e7424ab20d32.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 1907636,
+            "nick": "salwa1232",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 6,
+                "answers": 41,
+                "comments": 28
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 2643326,
+            "nick": "shafiraashaff",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d8e\/1b78c6cd0c216ecc797e1a4e6cd362dc.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d49\/4a24e590d6ec79e30d1377e15d58a848.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d8e\/1b78c6cd0c216ecc797e1a4e6cd362dc.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d49\/4a24e590d6ec79e30d1377e15d58a848.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 2659335,
+            "nick": "dinnha",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 8,
+                "answers": 33,
+                "comments": 3
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        }
+    ],
+    "validated": false
+}

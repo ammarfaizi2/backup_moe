@@ -1,0 +1,1543 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 10781478,
+                        "subject_id": 1,
+                        "user_id": 5087379,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Harapan untuk Mas Galang<br \/>\nArini Izzataddini<br \/><br \/><br \/>\n\u201cZita, ayo tidur sayaang. Sudah jam setengah sepuluh niih. Memangnya besok kamu tidak sekolah ? Ayo cepat tidur Zita\u201d Mama menyuruhku tidur sambil berlalu ke kamarnya. \u201c Iya maa.\u201d Ujarku yang sedang menonton sinetron kesukaanku. Aku matikan tivi dan naik tangga menuju kamarku.<br \/>\nAku langsung naik ke kasurku untuk tidur. Karena aku sudah mulai mengantuk. Tapii. Kok aku nggak bisa tidur ya ? Seperti ada yang kurang. Oh iya ! Aku lupa menulis diary. Kebiasaanku setiap sebelum tidur adalah menulis diary. Tapi kenapa sekarang aku lupa ya ?<br \/>\nAku langsung mengambil diaryku di lemari dan mulai menulisnya.<br \/><br \/>\nDear Diary,<br \/>\nHari ini, aku punya satu cerita yang mengaharukan tentang sepupuku sendiri.. Mas Galang namanya.<br \/>\nPada tahun 1995, lahir 5 orang anak dari lima pasang suami istri. Ibu-ibu yang melahirkan berasal dari satu keluarga besar yang sama. Kakek dan Nenek sangat bahagia. Mereka langsung memiliki 5 cucu sekaligus di tahun itu. Galang, Dimaz, Agung, Rania dan aku. Mereka lahir normal dan sehat. Itu terjadi lima belas tahun yang lalu..<br \/>\nDi tahun ajaran ini, kami berlima seharusnya akan menjalani UAS-BN. Empat anak diantara kami telah bersiap-siap untuk melakukannya. Tapi satu anak lagi? Ia hanya bisa di rumah melakukan kegiatan yang tak menentu\u2026<br \/>\nYa, mas Galang namanya. Putra ketiga dari kakak ayahku yang tertua. Dia menderita autis. Mamaku masih suka bercerita bahwa pada tahun pertama, mas Galang terlihat sebagai anak yang paling sehat diantara kami. Tinggi besar, tampan, dan sangat aktif. Tapi makin lama, makin terlihat bahwa dia tidak memiliki kemampuan berkomunikasi dan bersosialisasi yang baik.<br \/>\nSaat ini, kondisinya sangat mengkhawatirkan. Karena masih belum dapat berkomunikasi dengan baik. Bahkan belum dapat melakukan pekerjaan-pekerjaan yang menunjukkan kemandiriannya. Jadi selama ini bude dan Pakdeku sangat memproteksi dirinya. Memang kasihan mas Galang, orang tuanya bukan orang yang berpunya. Bahkan\u2026.rumahnya di pinggir sekaligus di atas sungai. Rumah yang sungguh membahayakan untuk kondisi mas Galang yang seperti ini. Aku ingin menangis jika aku berkunjung ke rumahnya. Wilayahnya tidak layak dan rumahnya bukan seperti rumah melainkan gudang kecil.<br \/>\nUsaha-usaha orangtuanya sedikit membuahkan hasil. Ayahnya belum punya pekerjaan tetap. Hanya seorang perangkai dan penjual bunga yang tak selalu mendapat order untuk dikerjakan. Kakaknya masih kelas 11 sekarang. Mas Galang punya satu kakak lagi, yang sedang bekerja di Filipina. Dan ia satu-satunya tulang punggung di keluarga itu. Selain keadaan mas Galang yang mengkhawatirkan, ibunya lebih mengkhawatirkan. Bude Lina, jika kupanggil dirinya, terkena Thalasemia hingga saat ini. Uang mereka tak cukup untuk menyembuhkan Bude Lina dan melaksanakan terapi autis mas Galang sekaligus.<br \/>\nAnaknya tampan dan selalu ingin tahu. Kini, ia sudah mulai dapat sedikit berbicara walaupun belum mampu berfikir jelas. Mas Galang sudah tumbuh lebih tinggi dari aku, Dimaz, Agung,dan Rania. Tapi walaupun begitu, keadaan non fisiknya jauh tertinggal dari kami. Tidak pernah ada yang menduga, karena Mas Galang terlahir normal dan sama seperti kami semua.<br \/>\nPapaku bilang, dulu keluarga nenek tidak mampu. Sebagai kakak pertama, Bude Lina menjadi tulang punggung keluarga. Ia tak sekolah hingga S1. Langsung saja bekerja. Jadi, beliau sekolahkan adik-adiknya. Memang, seluruh keluarga besar kami saat ini telah turut membantu ekonomi keluarga bude, namun karena masing-masing memiliki tanggungan keluarga yang juga tidak sedikit, maka bantuan bagi mas Galang masihlah jauh dari kebutuhan. Menghidupi keluarga sehari-hari, membantu pengobatan mas Galang, dan bude Lina sekaligus.<br \/>\nHarapanku, mas Galang dapat sembuh dan dapat bermain dan belajar bersama kami, atau paling tidak, dia mampu membantu dirinya sendiri, sehinga dapat menjadi manusia yang mandiri, dan kelak tidak bergantung pada orang lain. Aku ingin sekali mas Galang dapat menjalani terapi yang Intensif, agar kondisi itu dapat terwujud. Dan aku ingin bude Lina berkurang beban hidupnya, sebagaimana yang selalu beliau rasakan selama ini\u2026.. Ini adalah Harapanku.<br \/>\n****<br \/>\n\u201cHoaam. Sudah pukul 22.30\u201d ujarku sambil melongok ke jam weker yang diletakkan di samping tempat tidurku. \u201c Lama sekali ya aku menulis diary.\u201d Kataku sambil menaruh kembali buku diaryku lalu naik ke kasur dan menarik selimut. \u201cHhh, semoga harapanku untuk mas Galang dapat terkabul Ya Allah\u201d Aku pun memejamkan mataku setelah berdoa untuk mas Galang. Amiin.<br \/><br \/>\n8.buatlah kerangka teks ulasan yang memuat butir butir penting sesuai dengan struktur isi teks ulasan.<br \/>\n9.berdasarkan kerangka yang telah kamu buat, susunlah sebuah teks ulasan sederhana berdasarkan kutipan cerpen dengan memperhatikan struktur isi dan fitur bahasa teks ulasan.",
+                        "created": "2017-05-26T05:50:07+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2017-05-26T08:58:09+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Harapan untuk <em>Mas<\/em> Galang\nArini Izzataddini\n\u201cZita, ayo tidur sayaang. Sudah jam setengah sepuluh niih. Memangnya besok kamu tidak sekolah ? Ayo cepat tidur Zita\u201d Mama menyuruhku tidur sambil berlalu ke kamarnya. \u201c Iya maa.\u201d Ujarku yang sedang menonton sinetron kesukaanku. Aku matikan tivi dan naik tangga menuju kamarku.\nAku langsung naik ke kasurku untuk tidur. Karena aku sudah mulai mengantuk. Tapii. Kok aku nggak bisa tidur ya ? Seperti ada yang kurang. Oh iya ! Aku lupa menulis diary. Kebiasaanku setiap sebelum tidur adalah menulis diary. Tapi kenapa sekarang aku lupa ya ?\nAku langsung mengambil diaryku di lemari dan mulai menulisnya.\nDear Diary,\nHari ini, aku punya satu cerita yang mengaharukan tentang sepupuku sendiri.. <em>Mas<\/em> Galang namanya.\nPada tahun 1995, lahir 5 orang anak dari lima pasang suami istri. Ibu-ibu yang melahirkan berasal dari satu keluarga besar yang sama. Kakek dan Nenek <em>sangat<\/em> bahagia. Mereka langsung memiliki 5 cucu sekaligus di tahun itu. Galang, Dimaz, Agung, Rania dan aku. Mereka lahir normal dan sehat. Itu terjadi lima belas tahun yang lalu..\nDi tahun ajaran ini, kami berlima seharusnya akan menjalani UAS-BN. Empat anak diantara kami telah bersiap-siap untuk melakukannya. Tapi satu anak lagi? Ia hanya bisa di rumah melakukan kegiatan yang tak menentu\u2026\nYa, <em>mas<\/em> Galang namanya. Putra ketiga dari kakak ayahku yang tertua. Dia menderita autis. Mamaku masih suka bercerita bahwa pada tahun pertama, <em>mas<\/em> Galang terlihat sebagai anak yang paling sehat diantara kami. Tinggi besar, <em>tampan<\/em>, dan <em>sangat<\/em> aktif. Tapi makin lama, makin terlihat bahwa dia tidak memiliki kemampuan berkomunikasi dan bersosialisasi yang baik.\nSaat ini, kondisinya <em>sangat<\/em> mengkhawatirkan. Karena masih belum dapat berkomunikasi dengan baik. Bahkan belum dapat melakukan pekerjaan-pekerjaan yang menunjukkan kemandiriannya. Jadi selama ini bude dan Pakdeku <em>sangat<\/em> memproteksi dirinya. Memang kasihan <em>mas<\/em> Galang, orang tuanya bukan orang yang berpunya. Bahkan\u2026.rumahnya di pinggir sekaligus di atas sungai. Rumah yang sungguh membahayakan untuk kondisi <em>mas<\/em> Galang yang seperti ini. Aku ingin menangis jika aku berkunjung ke rumahnya. Wilayahnya tidak layak dan rumahnya bukan seperti rumah melainkan gudang kecil.\nUsaha-usaha orangtuanya sedikit membuahkan hasil. Ayahnya belum punya pekerjaan tetap. Hanya seorang perangkai dan penjual bunga yang tak selalu mendapat order untuk dikerjakan. Kakaknya masih kelas 11 sekarang. <em>Mas<\/em> Galang punya satu kakak lagi, yang sedang bekerja di Filipina. Dan ia satu-satunya tulang punggung di keluarga itu. Selain keadaan <em>mas<\/em> Galang yang mengkhawatirkan, ibunya lebih mengkhawatirkan. Bude Lina, jika kupanggil dirinya, terkena Thalasemia hingga saat ini. Uang mereka tak cukup untuk menyembuhkan Bude Lina dan melaksanakan terapi autis <em>mas<\/em> Galang sekaligus.\nAnaknya <em>tampan<\/em> dan selalu ingin tahu. Kini, ia sudah mulai dapat sedikit berbicara walaupun belum mampu berfikir jelas. <em>Mas<\/em> Galang sudah tumbuh lebih tinggi dari aku, Dimaz, Agung,dan Rania. Tapi walaupun begitu, keadaan non fisiknya jauh tertinggal dari kami. Tidak pernah ada yang menduga, karena <em>Mas<\/em> Galang terlahir normal dan sama seperti kami semua.\nPapaku bilang, dulu keluarga nenek tidak mampu. Sebagai kakak pertama, Bude Lina menjadi tulang punggung keluarga. Ia tak sekolah hingga S1. Langsung saja bekerja. Jadi, beliau sekolahkan adik-adiknya. Memang, seluruh keluarga besar kami saat ini telah turut membantu ekonomi keluarga bude, namun karena masing-masing memiliki tanggungan keluarga yang juga tidak sedikit, maka bantuan bagi <em>mas<\/em> Galang masihlah jauh dari kebutuhan. Menghidupi keluarga sehari-hari, membantu pengobatan <em>mas<\/em> Galang, dan bude Lina sekaligus.\nHarapanku, <em>mas<\/em> Galang dapat sembuh dan dapat bermain dan belajar bersama kami, atau paling tidak, dia mampu membantu dirinya sendiri, sehinga dapat menjadi manusia yang mandiri, dan kelak tidak bergantung pada orang lain. Aku ingin sekali <em>mas<\/em> Galang dapat menjalani terapi yang Intensif, agar kondisi itu dapat terwujud. Dan aku ingin bude Lina berkurang beban hidupnya, sebagaimana yang selalu beliau rasakan selama ini\u2026.. Ini adalah Harapanku.\n****\n\u201cHoaam. Sudah pukul 22.30\u201d ujarku sambil melongok ke jam weker yang diletakkan di samping tempat tidurku. \u201c Lama sekali ya aku menulis diary.\u201d Kataku sambil menaruh kembali buku diaryku lalu naik ke kasur dan menarik selimut. \u201cHhh, semoga harapanku untuk <em>mas<\/em> Galang dapat terkabul Ya Allah\u201d Aku pun memejamkan mataku setelah berdoa untuk <em>mas<\/em> Galang. Amiin.\n8.buatlah kerangka teks ulasan yang memuat butir butir penting sesuai dengan struktur isi teks ulasan.\n9.berdasarkan kerangka yang telah kamu buat, susunlah sebuah teks ulasan sederhana berdasarkan kutipan cerpen dengan memperhatikan struktur isi dan fitur bahasa teks ulasan.",
+                        "snippet_content": "Galang terlihat sebagai anak yang paling sehat diantara kami. Tinggi besar, <em>tampan<\/em>, dan <em>sangat<\/em> aktif. Tapi makin lama, makin terlihat bahwa dia"
+                    },
+                    "responses": [
+                        {
+                            "id": 13087234,
+                            "user_id": 5084615,
+                            "task_id": 10781478,
+                            "points": 5,
+                            "created": "2017-05-26T08:58:09+07:00",
+                            "content": "itu masukan dari saya, terserah mau diterima atau tidak tergantung anda :)",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 13090332,
+                            "user_id": 5038838,
+                            "task_id": 10781478,
+                            "points": 5,
+                            "created": "2017-05-26T13:39:02+07:00",
+                            "content": "Uraikan saja jawaban<br \/><br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5084615,
+                                "nick": "Ananda563",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dad\/cf4a6955b736bdd16cfb0461e63da146.jpg"
+                            },
+                            {
+                                "id": 5038838,
+                                "nick": "sidqifikriilham",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d78\/a4c7ce2123fd8879fafd982962daee96.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10637272,
+                        "subject_id": 1,
+                        "user_id": 4383135,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Pada suatu hari ada seekor kelinci yang sangat sombong. Ia menyombongkan diri sebagai kelinci yang paling baik sedunia. Si kelinci selalu membanggakan betapa cepat larinya. Ia mempunyai kaki belakang yang sangat kuat untuk berlari seperti angin. Ia selalu memperlihatkan keahliannya berlari cepat kepada teman-temannya.<br \/>Pada suatu hari si kelinci membual di depan teman-temannya dan menunjukkan betapa cepat larinya. Ketika ia berlari, ia melompat di atas sebuah cangkang di jalanan. Perlahan-lahan sebuah kepala dan empat kaki keluar dari cangkang tersebut dan mulai bergerak di jalanan. Barulah si kelinci sadar, bahwa cangkang itu adalah kura-kura yang tampak merangkak perlahan-lahan dijalanan.<br \/>\u2019\u2019Betapa lambatnya kamu,\u2019\u2019kata kelinci kepada kura-kura. \u2018\u2019kamu sangat lambat. Saya tidak mengerti mengapa kamu tidak terganggu dengan gerakkan lambatmu.\u2019\u2019 Si kelinci tertawa mendengar leluconnya sendiri mengenai kura-kura.<br \/>Kura-kura menatap dingin pada kelinci dan berkata, \u2018\u2019Setiap hewan bergerak dengan langkahnya sendiri. Saya mungkin bergerak lambat, tetapi saya dapat pergi kemana saja yang saya mau. Pada kenyataannya, saya dapat mencapai tujuan lebih cepat dari pada kamu dan lebih kencang dari pada kamu.\u2019\u2019<br \/>Si kelinci berpikir, bahwa kata-kata si kura-kura sangat lucu. Ia tertawa mendengar, bahwa kura-kura berlari lebih kencang darinya. \u2018\u2019Tidak mungkin,\u2019\u2019 kata si kelinci. \u2018\u2019Bagaimana mungkin kamu lebih cepat dari saya? Saya dapat berlari secepat angin. Sementara kamu merangkak sangat lambat, sehingga sulit dikatakan, bahwa kamu bergerak lebih cepat dari saya. Saya mau lihat.\u2019\u2019<br \/>Si kelinci kemudian menantang si kura-kura untuk lomba lari, sehingga mereka akan lihat siapa yang lebih cepat. Lomba lari akan di adakan keesokkan harinya. Setiap hewan ingin melihat perlombaan lari antara si kelinci yang cepat dan si kura-kura yang lambat.<br \/>Serigala yang menghitung mundur saat mulai perlombaan. \u2018\u2019Lima, empat, tiga, dua, satu, lari\u2026\u2019\u2019 Dengan satu loncatan, si kelinci dengan cepat hilang dari pandangan mata. Si kura-kura melangkahkan kakinya perlahan-lahan, selangkah demi selangkah, sementara tatapan matanya terus bertuju pada jalan didepannya. Si kelinci berlari sepanjang jalan. Setiap kali melihat kerumunan penonton di pinggir jalan, ia membalikkan tubuhya dan melambaikan tangannya. Ia ingin mereka tau siapa yang paling cepat larinya. Jauh, jau dibelakangnya si kura-kura terus melangkah, selangkah demi selangkah, dengan lambatnya dan matanya yang terus menatap jalan di depannya. Tidak lama kemudian si kelinci tiba pada suatu tanda di jalan. Tanda itu menunjukkan, bahwa ia sudah berlari setengah jarak antara garis start dan finish. Ia pun tidak lagi melihat kura-kura.<br \/>Si kelinci berpikir, \u2018\u2019 Saya sudah jauh di depan dan si kura-kura sangat lambat, sehingga ia masih sangat jauh dibelakang. Perlu waktu lama bagi kura-kura untuk sampai di sini. Saya kira saya dapat berbaring dulu di sini dan beristirahat sebentar dibawah sinar matahari yang sangat hangat. Masih banyak waktu untuk memenangkan pertandingan ini saat saya bangun nanti.\u2019\u2019<br \/>Sementara itu, si kura-kura terus merangkak perlahan-lahan tanpa berhenti. Ia terus bergerak. Waktu terus berlalu, si kelinci masih tertidur dengan lelapnya. Dengan perlahan-lahan dan mantap, si kura-kura meneruskan langkahnya tanpa beristirahat. Ia bergerakperlahan-lahan sepanjang jalan. Akhirnya si kura-kura melewati si kelinci yang masih tertidur di tepi jalan. Si kelinci tertidur lelap, sehingga ia tidak mendengar saat si kura-kura melewatinya. Ketika kelinci terbangun dari tidur lelapnya, ia melihat kea rah belakang untuk mengetahui keberadaan si kura-kura. Namun ia tidak melihat kura-kura. Namun, ia tidak melihat kura-kura. Ia berkata , \u2018\u2019 Ternyata si kura-kura lebih lambat dari yang saya kira. Mungkin baru tengah malam ia tiba di garis finish.\u2019\u2019<br \/>Si kelinci merenggangkan kakinya dan kembalu ke jalan untuk melanjutkan perlombaan lari. Si kelinci berlari dan menaiki bukit. Kemudian ia melihat pemandangan yang menakjubkan. Di garis finish tampak si kura-kura. Penonton bersuka ria, karena si kura-kura memutuskan pita garis finish. Si kura-kura di umumkan sebagai pemenang. Si kelinci menghela nafas panjang dan si kura-kura tersenyum. \u201c Bagaimana\u2026kapan\u2026 di mana?\u2019\u2019 gumam si kelinci.<br \/>Si kura-kura berkata, \u2018\u2019 Saya menyusul kamu ketika kamu sedang tertidur. Saya mungkin saja lambat, tetapi mata saya menatap tujuan. Dengan pelan dan mantap, saya memenangkan perlombaan lari ini.\u2019\u2019<br \/><br \/>1)tokoh,ciri tokoh,penokohan pda fabel kelinci dan kura kura<br \/><br \/>tlong di jwb ya,bsk di kmpul mksih...",
+                        "created": "2017-05-14T11:41:16+07:00",
+                        "responses": 2,
+                        "tickets": 4,
+                        "first_resp": "2017-05-14T11:43:37+07:00",
+                        "the_best_resp_id": "12887641",
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Pada suatu hari ada seekor kelinci yang <em>sangat<\/em> sombong. Ia menyombongkan diri sebagai kelinci yang paling baik sedunia. Si kelinci selalu membanggakan betapa cepat larinya. Ia mempunyai kaki belakang yang <em>sangat<\/em> kuat untuk berlari seperti angin. Ia selalu memperlihatkan keahliannya berlari cepat kepada teman-temannya.Pada suatu hari si kelinci membual di depan teman-temannya dan menunjukkan betapa cepat larinya. Ketika ia berlari, ia melompat di atas sebuah cangkang di jalanan. Perlahan-lahan sebuah kepala dan empat kaki keluar dari cangkang tersebut dan mulai bergerak di jalanan. Barulah si kelinci sadar, bahwa cangkang itu adalah kura-kura yang <em>tampak<\/em> merangkak perlahan-lahan dijalanan.\u2019\u2019Betapa lambatnya kamu,\u2019\u2019kata kelinci kepada kura-kura. \u2018\u2019kamu <em>sangat<\/em> lambat. Saya tidak mengerti mengapa kamu tidak terganggu dengan gerakkan lambatmu.\u2019\u2019 Si kelinci tertawa mendengar leluconnya sendiri mengenai kura-kura.Kura-kura menatap dingin pada kelinci dan berkata, \u2018\u2019Setiap hewan bergerak dengan langkahnya sendiri. Saya mungkin bergerak lambat, tetapi saya dapat pergi kemana saja yang saya <em>mau.<\/em> Pada kenyataannya, saya dapat mencapai tujuan lebih cepat dari pada kamu dan lebih kencang dari pada kamu.\u2019\u2019Si kelinci berpikir, bahwa kata-kata si kura-kura <em>sangat<\/em> lucu. Ia tertawa mendengar, bahwa kura-kura berlari lebih kencang darinya. \u2018\u2019Tidak mungkin,\u2019\u2019 kata si kelinci. \u2018\u2019Bagaimana mungkin kamu lebih cepat dari saya? Saya dapat berlari secepat angin. Sementara kamu merangkak <em>sangat<\/em> lambat, sehingga sulit dikatakan, bahwa kamu bergerak lebih cepat dari saya. Saya <em>mau<\/em> lihat.\u2019\u2019Si kelinci kemudian menantang si kura-kura untuk lomba lari, sehingga mereka akan lihat siapa yang lebih cepat. Lomba lari akan di adakan keesokkan harinya. Setiap hewan ingin melihat perlombaan lari antara si kelinci yang cepat dan si kura-kura yang lambat.Serigala yang menghitung mundur saat mulai perlombaan. \u2018\u2019Lima, empat, tiga, dua, satu, lari\u2026\u2019\u2019 Dengan satu loncatan, si kelinci dengan cepat hilang dari pandangan mata. Si kura-kura melangkahkan kakinya perlahan-lahan, selangkah demi selangkah, sementara tatapan matanya terus bertuju pada jalan didepannya. Si kelinci berlari sepanjang jalan. Setiap kali melihat kerumunan penonton di pinggir jalan, ia membalikkan tubuhya dan melambaikan tangannya. Ia ingin mereka tau siapa yang paling cepat larinya. Jauh, jau dibelakangnya si kura-kura terus melangkah, selangkah demi selangkah, dengan lambatnya dan matanya yang terus menatap jalan di depannya. Tidak lama kemudian si kelinci tiba pada suatu tanda di jalan. Tanda itu menunjukkan, bahwa ia sudah berlari setengah jarak antara garis start dan finish. Ia pun tidak lagi melihat kura-kura.Si kelinci berpikir, \u2018\u2019 Saya sudah jauh di depan dan si kura-kura <em>sangat<\/em> lambat, sehingga ia masih <em>sangat<\/em> jauh dibelakang. Perlu waktu lama bagi kura-kura untuk sampai di sini. Saya kira saya dapat berbaring dulu di sini dan beristirahat sebentar dibawah sinar matahari yang <em>sangat<\/em> hangat. Masih banyak waktu untuk memenangkan pertandingan ini saat saya bangun nanti.\u2019\u2019Sementara itu, si kura-kura terus merangkak perlahan-lahan tanpa berhenti. Ia terus bergerak. Waktu terus berlalu, si kelinci masih tertidur dengan lelapnya. Dengan perlahan-lahan dan mantap, si kura-kura meneruskan langkahnya tanpa beristirahat. Ia bergerakperlahan-lahan sepanjang jalan. Akhirnya si kura-kura melewati si kelinci yang masih tertidur di tepi jalan. Si kelinci tertidur lelap, sehingga ia tidak mendengar saat si kura-kura melewatinya. Ketika kelinci terbangun dari tidur lelapnya, ia melihat kea rah belakang untuk mengetahui keberadaan si kura-kura. Namun ia tidak melihat kura-kura. Namun, ia tidak melihat kura-kura. Ia berkata , \u2018\u2019 Ternyata si kura-kura lebih lambat dari yang saya kira. Mungkin baru tengah malam ia tiba di garis finish.\u2019\u2019Si kelinci merenggangkan kakinya dan kembalu ke jalan untuk melanjutkan perlombaan lari. Si kelinci berlari dan menaiki bukit. Kemudian ia melihat pemandangan yang menakjubkan. Di garis finish <em>tampak<\/em> si kura-kura. Penonton bersuka ria, karena si kura-kura memutuskan pita garis finish. Si kura-kura di umumkan sebagai pemenang. Si kelinci menghela nafas panjang dan si kura-kura tersenyum. \u201c Bagaimana\u2026kapan\u2026 di mana?\u2019\u2019 gumam si kelinci.Si kura-kura berkata, \u2018\u2019 Saya menyusul kamu ketika kamu sedang tertidur. Saya mungkin saja lambat, tetapi mata saya menatap tujuan. Dengan pelan dan mantap, saya memenangkan perlombaan lari ini.\u2019\u20191)tokoh,ciri tokoh,penokohan pda fabel kelinci dan kura kuratlong di jwb ya,bsk di kmpul mksih...",
+                        "snippet_content": "mungkin bergerak lambat, tetapi saya dapat pergi kemana saja yang saya <em>mau.<\/em> Pada kenyataannya, saya dapat mencapai tujuan lebih cepat dari pada"
+                    },
+                    "responses": [
+                        {
+                            "id": 12887559,
+                            "user_id": 4901617,
+                            "task_id": 10637272,
+                            "points": 5,
+                            "created": "2017-05-14T11:43:37+07:00",
+                            "content": "tokohnya kelinci dan kura kura<br \/>sifatnya kelinci itu sombong dan suka menghina kekurangan orang lain.<br \/>sifatnya kura kura itu baik hati dan tidak sombong.",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 12887641,
+                            "user_id": 5034429,
+                            "task_id": 10637272,
+                            "points": 5,
+                            "created": "2017-05-14T11:48:44+07:00",
+                            "content": "1. Tokoh: kelinci dan kura-kura<br \/>2. Ciri tokoh: Kelinci= sombong, merendahkan hewan lain<br \/>kura-kura= baik, sabar, fokus, rendah hati.<br \/>3. Penokohan= kelinci: di tokohkan sebagai hewan yg sombong.<br \/>kura-kura: sebagai hewan yg rendah hati.<br \/>",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4901617,
+                                "nick": "ningsih80",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d6a\/f4460059ba283a36e763514e5a2a96f2.jpg"
+                            },
+                            {
+                                "id": 5034429,
+                                "nick": "ecaesternesia",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d0d\/4360212500640d101bb6b1a457b69448.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 5681145,
+                        "subject_id": 1,
+                        "user_id": 2848069,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "carilah unsur intrinsik dari cerpen ulang tahun ibu kartini besertabuktinya! unsur intrinsik meliputi: tema ,alur, sudut pandang, gaya bahasa ,amanat ,penokohan,dan setting ceritanya ini :Ulang Tahun Ibu Kartini(Oleh: Yuni Prihatiningrum)Siswa-siswi kelas VII C SMP Duta Bangsa tampak sibuk menyiapkan perayaan ulang tahun wali kelasnya, Ibu Kartini. Tapi beliau lebih akrab dipanggil Ibu Tini. Tidaklah heran jika semuanya sibuk karena hari ulang tahun Ibu Tini tinggal beberapa hari lagi. Sebagai ketua kelas, Ello lebih sibuk dari teman-temannya. Untung saja ada Tora, Fita, Rudi, dan Anis yang tampaksangat bersemangat membantu. Teman-teman yang lain juga tampak kompak menyiapkan semuanya. Tentu saja hal itu tanpa sepengetahuan wali kelasnya. \"Ayo teman-teman kumpul sebentar!\" pinta Ello kepada teman-temannya. Setelah teman-temannya berkumpul, Ello menanyakan segala sesuatunya pada teman-temannya. \"Bagaimana soal roti ulang tahunnyaFit, kamu sudah menemukan tempat untuk memesannya?\" tanya Ello kepada Fita. \"Santai saja, mamaku bersedia membuatkan demi guru kita tercinta. Aku jamin rasanya pasti lezat. Nanti biarsebagian anak perempuan membantunya,\" kata Fita. Tidak lama kemudian bel tanda selesai istirahat berbunyi. Semua siswa segera menyiapkan pelajaran berikutnya.***Hari ulang tahun Ibu Tini tinggal sehari lagi. Anak-anak semakin sibuk menyiapkan semuanya. Sepulang sekolah, mereka bersama-sama mendekorasi ruangan. \"Itu balonnya masih kurang!\" kata Fita. \"Nanti aku tambah, ini mau dipasang di mana lagi?\" tanya Rudi kepada Fita\"Di ujung sana saja! Nis, kita cari kado sekalian beli bunga yuk!\" ajak Fita kepada Anis. \"Tapi aku masih bingung, Bu Tini mau dikasih kado apa?\" tanya Anis kepada teman-temannya.\"Bagaimana kalau bed cover saja?\" usul Arini.\"Jangan, itu terlalu mahal, kalian tahukalau anggaran kita terbatas?\" sergah Tora. \"Bagaimana kalau tas? Ada toko tas langganan mamaku yang harganya murah,\" usul Arini lagi. \"Itu ide bagus!\" sahut teman-temannyakompak. Setelah semua anak sepakat, Anis, Fita, dan Arini berangkat membeli kado dan bunga. Sementara anak-anak yang lain melanjutkan tugas masing-masing. Sebagian dari mereka menuju ke rumah Fita untuk memantu mama Fita menyiapkan roti ulang tahun dan makanan untuk hidangan. Semuanya tampak sibuk bekerja, sesekali mereka sambil bergurau untuk menghilangkan rasa capai.***Hari yang ditunggu-tunggu akhirnya datang juga. Sebelum memberikan pesta kejutan, seluruh siswa mengikuti upacara bendera memperingati lahirnya R.A. Kartini tanggal 21 April. Setelah upacara selesai, semua siswa kelas VII C bergegas masuk ke kelas. Mereka lalu menyiapkan segala sesuatunya, mulai dari mengeluarkan roti tar dari kardusnya dan menyalakan lilinnya, sampai menyiapkan makanan dan minuman. Setelah Ibu Tini masuk ke ruang kelas, semua siswa serentak menyanyikan lagu \"Selamat Ulang Tahun\". Semua siswa terlihat bahagia, tak terkecuali Ibu Tini. \"Terima kasih semuanya, Ibu sangat senang. Ibu tidak menyangka kalian bias melakukan semua ini tanpa sepengetahuan Ibu,\" seru Ibu Tini sambil meneteskan air mata tanda haru bercampur gembira. \"Sebelum meniup lilin, Ibu make a wish dulu dong!\" celetuk salah seorang anak. \"Harapannya, Ibu sehat selalu, murah rezeki, disayang keluarga, dan tidak lupapula Ibu berdoa untuk kalian agar menjadi murid-murid yang pandai,\" ucap Ibu Tini. \"Amin....\" jawab semua siswa serentak diikuti tepuk tangan.\"Kemudian Ibu Tini meniup lilin, setelahitu dia bercerita panjang lebar mengenai namanya. Dia menjelaskan mengapa dia dinamai Kartini oleh kedua orang tuanya. Hal itu dikarenakan tanggal lahirnya sama dengan tanggal lahir R.A. Kartini, pejuang emansipasi wanita dari Jepara. Orang tuanya berharap dengan memberinya nama Kartini, dia bisa mengikuti jejak R.A. Kartini yang bisa mengangkat derajat perempuandan berguna bagi bangsa dan negaranya. Tidak lupa pula kepala sekolah beserta guru-guru diundang dalam pesta kecil- kecilan tersebut. Semua yang hadir memberi ucapan selamat kepada Ibu Tini, termasuk siswa-siswanya. Mereka menyalaminya satu per satu. Tidak lupa Ibu Tinimemberi ucapan terima kasih pada siswa-siswanya yang telah memberinya pesta kejutan. Semoga Ibu Tini bisa meneruskan jejak R.A. Kartini dan semoga pula muncul R.A. Kartini, R.A. Kartini baru.",
+                        "created": "2016-04-05T22:28:23+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-06-07T16:15:21+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "carilah unsur intrinsik dari cerpen ulang tahun ibu kartini besertabuktinya! unsur intrinsik meliputi: tema ,alur, sudut pandang, gaya bahasa ,amanat ,penokohan,dan setting ceritanya ini :Ulang Tahun Ibu Kartini(Oleh: Yuni Prihatiningrum)Siswa-siswi kelas VII C SMP Duta Bangsa <em>tampak<\/em> sibuk menyiapkan perayaan ulang tahun wali kelasnya, Ibu Kartini. Tapi beliau lebih akrab dipanggil Ibu Tini. Tidaklah heran jika semuanya sibuk karena hari ulang tahun Ibu Tini tinggal beberapa hari lagi. Sebagai ketua kelas, Ello lebih sibuk dari teman-temannya. Untung saja ada Tora, Fita, Rudi, dan Anis yang tampaksangat bersemangat membantu. Teman-teman yang lain juga <em>tampak<\/em> kompak menyiapkan semuanya. Tentu saja hal itu tanpa sepengetahuan wali kelasnya. \"Ayo teman-teman kumpul sebentar!\" pinta Ello kepada teman-temannya. Setelah teman-temannya berkumpul, Ello menanyakan segala sesuatunya pada teman-temannya. \"Bagaimana soal roti ulang tahunnyaFit, kamu sudah menemukan tempat untuk memesannya?\" tanya Ello kepada Fita. \"Santai saja, mamaku bersedia membuatkan demi guru kita tercinta. Aku jamin rasanya pasti lezat. Nanti biarsebagian anak perempuan membantunya,\" kata Fita. Tidak lama kemudian bel tanda selesai istirahat berbunyi. Semua siswa segera menyiapkan pelajaran berikutnya.***Hari ulang tahun Ibu Tini tinggal sehari lagi. Anak-anak semakin sibuk menyiapkan semuanya. Sepulang sekolah, mereka bersama-sama mendekorasi ruangan. \"Itu balonnya masih kurang!\" kata Fita. \"Nanti aku tambah, ini <em>mau<\/em> dipasang di mana lagi?\" tanya Rudi kepada Fita\"Di ujung sana saja! Nis, kita cari kado sekalian beli bunga yuk!\" ajak Fita kepada Anis. \"Tapi aku masih bingung, Bu Tini <em>mau<\/em> dikasih kado apa?\" tanya Anis kepada teman-temannya.\"Bagaimana kalau bed cover saja?\" usul Arini.\"Jangan, itu terlalu mahal, kalian tahukalau anggaran kita terbatas?\" sergah Tora. \"Bagaimana kalau tas? Ada toko tas langganan mamaku yang harganya murah,\" usul Arini lagi. \"Itu ide bagus!\" sahut teman-temannyakompak. Setelah semua anak sepakat, Anis, Fita, dan Arini berangkat membeli kado dan bunga. Sementara anak-anak yang lain melanjutkan tugas masing-masing. Sebagian dari mereka menuju ke rumah Fita untuk memantu mama Fita menyiapkan roti ulang tahun dan makanan untuk hidangan. Semuanya <em>tampak<\/em> sibuk bekerja, sesekali mereka sambil bergurau untuk menghilangkan rasa capai.***Hari yang ditunggu-tunggu akhirnya datang juga. Sebelum memberikan pesta kejutan, seluruh siswa mengikuti upacara bendera memperingati lahirnya R.A. Kartini tanggal 21 April. Setelah upacara selesai, semua siswa kelas VII C bergegas masuk ke kelas. Mereka lalu menyiapkan segala sesuatunya, mulai dari mengeluarkan roti tar dari kardusnya dan menyalakan lilinnya, sampai menyiapkan makanan dan minuman. Setelah Ibu Tini masuk ke ruang kelas, semua siswa serentak menyanyikan lagu \"Selamat Ulang Tahun\". Semua siswa terlihat bahagia, tak terkecuali Ibu Tini. \"Terima kasih semuanya, Ibu <em>sangat<\/em> senang. Ibu tidak menyangka kalian bias melakukan semua ini tanpa sepengetahuan Ibu,\" seru Ibu Tini sambil meneteskan air mata tanda haru bercampur gembira. \"Sebelum meniup lilin, Ibu make a wish dulu dong!\" celetuk salah seorang anak. \"Harapannya, Ibu sehat selalu, murah rezeki, disayang keluarga, dan tidak lupapula Ibu berdoa untuk kalian agar menjadi murid-murid yang pandai,\" ucap Ibu Tini. \"Amin....\" jawab semua siswa serentak diikuti tepuk tangan.\"Kemudian Ibu Tini meniup lilin, setelahitu dia bercerita panjang lebar mengenai namanya. Dia menjelaskan mengapa dia dinamai Kartini oleh kedua orang tuanya. Hal itu dikarenakan tanggal lahirnya sama dengan tanggal lahir R.A. Kartini, pejuang emansipasi wanita dari Jepara. Orang tuanya berharap dengan memberinya nama Kartini, dia bisa mengikuti jejak R.A. Kartini yang bisa mengangkat derajat perempuandan berguna bagi bangsa dan negaranya. Tidak lupa pula kepala sekolah beserta guru-guru diundang dalam pesta kecil- kecilan tersebut. Semua yang hadir memberi ucapan selamat kepada Ibu Tini, termasuk siswa-siswanya. Mereka menyalaminya satu per satu. Tidak lupa Ibu Tinimemberi ucapan terima kasih pada siswa-siswanya yang telah memberinya pesta kejutan. Semoga Ibu Tini bisa meneruskan jejak R.A. Kartini dan semoga pula muncul R.A. Kartini, R.A. Kartini baru.",
+                        "snippet_content": "Oleh: Yuni Prihatiningrum)Siswa-siswi kelas VII C SMP Duta Bangsa <em>tampak<\/em> sibuk menyiapkan perayaan ulang tahun wali kelasnya, Ibu Kartini. Tapi"
+                    },
+                    "responses": [
+                        {
+                            "id": 13257396,
+                            "user_id": 5034443,
+                            "task_id": 5681145,
+                            "points": 5,
+                            "created": "2017-06-07T16:15:21+07:00",
+                            "content": "1.\u00a0tema : ultah seorang guru pada hari R.A.Kartini<br \/>2. alur :maju mundur<br \/>3. sudu pandang : mereka, ibu tini, tora, fita,anis<br \/>4. gaya bhasa : santun dan kadang-kadang ada sedikit kurang santun<br \/>5. amanat : kita sebgai siswa harus menyanyangi guru terlebih lagi guru ultah<br \/>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0kita yg berulang tahun sama dengan pahwalan kita kta juga harus menirunya<br \/><br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5034443,
+                                "nick": "renika2004",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/daf\/6f2a1ac14f359fc24eb11a8c19625ab6.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 6100513,
+                        "subject_id": 5,
+                        "user_id": 3038879,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Tolong terjemahkan ke inggris drama narative teks ini pakai past tense mohon sekali bantuannya drama nya harus selesai senin #Suatu hari ada kakak uberadik yang hidup dari<br \/>\nkeluarga yang berkecukupan,tetapi sang kakak<br \/>\nmemiliki kekurangan mental sejak lahir. Dia memiliki<br \/>\nseorang ibu yang sangat sabar mengurus sang kakak<br \/>\nuudan sang adik yang belum bisa mengertidan<br \/>\nmemahami kakaknya.<br \/>\n#Rumah<br \/>\nIbu : \u201cKakak ini rumah baru kita,Engel beresin barang-<br \/>\nbarang kamu!\u201d<br \/>\nAngel : \u201cIya Bu\u201d<br \/>\nNopi (melihat keadaan sekeliling rumah) (Ibu mengajak<br \/>\nNopi bermain Congklak)<br \/>\n#Taman<br \/>\n# Keesokan harinya angel keluar rumah untuk mencari<br \/>\ntema baru di lingkungan rumah barunya itu. Sampai di<br \/>\nsebuah taman angel melihat ada seorang perempuan<br \/>\nsedang bermain basket dan angel pun menghampiri<br \/>\nperempuan tersebut.<br \/>\nAngel : \u201cHy? Nama kamu siapa? Aku Angel \u201d<br \/>\nRachel : \u201cHy juga ,aku Rachel , kamu orang baru yang<br \/>\ndinggal disi kan ?\u201d<br \/>\nAngel : : \u201ciya kok kmu tau ,kamu udah lama tinggal<br \/>\ndisini?\u201d<br \/>\nRachel : \u201ctau lah ,Iya aku udah lama tinggal disini<br \/>\nAkhirnya angel pun mendapatkan teman baru dan<br \/>\nakhirnya mereka bermain basket bersama.<br \/>\nAngel : \u201cUdah sore nih aku pulang dulu yah?\u201d<br \/>\nRachel : \u201cOke hati-hati\u201d<br \/>\nAngel : \u201cSampai ketemu\u201d<br \/>\n#Taman<br \/>\nKeesokan harinya Angel dan Rachel bertemu di<br \/>\ntaman,pada saat mereka sedang asik bermain ada<br \/>\nseorang perempuan menghampiri mereka.<br \/>\nAngel : \u201cRachel itu sispa?\u201d<br \/>\nRachel : \u201cItu Anggie,dia itu anak orang kaya yang<br \/>\nsombong,setiap ada orang baru pasti dia labrak\u201d<br \/>\nAngel: \u201cWah iya? Terus aku gimana dong? Kan aku<br \/>\norang baru disini\u201d<br \/>\nRachel : \u201cUdah tenangaja aku yang hadapi\u201d<br \/>\nKetika Anggie menghampiri Angel dan Rachel,Anggie<br \/>\nlangsung menghina dan memaki Angel karena sudah<br \/>\nbermain di wilayah Anggie.<br \/>\nAnggie: \u201cHey,kamu siapa? Beraninya datang kesini<br \/>\nhuh??\u201d<br \/>\nAngel: \u201cApa kamu? Memangnya kenapa kalau aku<br \/>\ndisini?\u201d<br \/>\nRachel: \u201cAngel,sudah tidak usah di balas<br \/>\nperkataannya\u201d<br \/>\nAnggie: \u201cHeh,kamu sama temen kamu pergi sana<br \/>\njauh-jauh\u201d<br \/>\nRachel: \u201cAngel,ayo kita pergi..\u201d<br \/>\nAngel: \u201c Ya gak bisa gitu bdong he !! Memangnya dia<br \/>\nitu siapa?\u201d<br \/>\nAnggie : \u201cHeh\u2026 cepet kalian pergi!!!\u201d<br \/>\nAngel: \u201cYaudah sih biasa aja kita juga bakal pergi<br \/>\ntanpa kamu suruh,yuk chel\u201d<br \/>\nSesampainya angel di rumah angel di beri tahu oleh<br \/>\nmamahnya besok mereka akan jalan-jalan bersama<br \/>\nkesebuah taman dekat rumah. Keesokan harinya<br \/>\nmereka bergegas untuk pergi ke taman.<br \/>\n#Taman<br \/>\nIbu: \u201cKaka,angel ayo berangkat\u201d<br \/>\nAngel: \u201cIya mah\u201d<br \/>\nAngel : \u201cIh apaan sih kak aku kan bukan anak kecil<br \/>\nlagi,udah ayo pergi\u201d<br \/>\n#Sesampainya di taman ternyata ada barang yang<br \/>\ntertinggal dan lupa di bawa oleh ibu.<br \/>\nIbu: \u201cKakak,angel ibu ke rumah dulu ya ada yang<br \/>\nketinggalan\u201d<br \/>\nAngel: \u201cIya bu\u201d Ketika ibu pergi,angel melihat boal<br \/>\nbasket tergeletak di sebrang taman.<br \/>\n#Akhirnya angel mendekati bola basket tersebut dan<br \/>\nmemainkannya. Sang kakak mengikuti Angel tetapi<br \/>\nkakak malah tersesat. Tapi Angel tidak menytadari itu.<br \/>\nSampai akhirnya ibu kembali dan kakak sudah tidak<br \/>\nada.<br \/>\nIbu:\u201cKemana mereka?\u201d<br \/>\n(Ibu sudah mencari keberbagai sudut taman tapi ibu<br \/>\ntidak menemukan mereka,lalu ibu lihat k sebrang<br \/>\ntaman ternyata angel sedang disana sedang barmain<br \/>\nbasket.Tapi anehnya angel tidak bersama kakak. Ibu<br \/>\nmulai panik dan memanggil angel)<br \/>\n. Ibu: \u201cAngel sini!\u201d<br \/>\nAngel: \u201cKakak kemana?\u201d<br \/>\nAngel: \u201c Gak tau,tadi kan ada disini\u201d<br \/>\nIbu: \u201cTadi kan ibu kerumah sebentar kenapa kamu<br \/>\ngkak jagain kakak!!!\u201d<br \/>\nEngel : kok jd salah aku sih bu ?,salah kakak lah<br \/>\nngapain jalan jalan \u201c<br \/>\nIbu : Yaiyalah ibu nyalahin kamu orang kamu yanga<br \/>\nda di sini , knpa kamu gk jagain kk ?<br \/>\nEngel : kan kk udh gede bu , ngapain harus di jagain<br \/>\nlg !!<br \/>\nIbu : (Ibu hanya terdian dan sedih mendengar engel<br \/>\nberbicara seperti itu )<br \/>\n#Akhirnya Engel dan ibu terus berdebat , sambil<br \/>\nmencari kaka ( nopi ) . sampai akhirnya ibu menengok<br \/>\nkesebrang jalan dan ibu melihat kakak sedang berdiri<br \/>\ndi tepi jalan dan dengan wajah kebingungan .<br \/>\nIbu : kaka ngapain di sini ? , knpa tadi kk pergi dari<br \/>\ntaman ?<br \/>\n# keesokan harinya kk menanyakan kemana boneka<br \/>\nkesayangan nya ke pada ibu<br \/>\nIbu : coba cari di kamar kaka ( menggunakan bahasa<br \/>\nisyarat )<br \/>\n# Dan ternyata boneka itu tidak ada di mana mana ,<br \/>\nakhirnya kaka pun mengamuk dan membanting radio ,<br \/>\nlalu ibu dan engel menghampiri kaka , dan mencegah<br \/>\nkaka .dan pada siang harinya Rachel pun dating ke<br \/>\nrumah Engel untuk mengundang Engel agar bias<br \/>\ndating di acara pesta ulang tahunya nanti sore.<br \/>\n#Sorehari Engel pun telah bersiap untuk menghadiri<br \/>\npesta ulang tahun teman barunya itu . tapi satu hal<br \/>\nyang tidak Engel bawa , Engel lupa menbawa kado<br \/>\nyang masih ada di rumah . sesampainya di acara<br \/>\npesta ulang tahun Rachel Engel dimaki oleh Anggie<br \/>\nanak orang kaya sombong itu .<br \/>\nAnggie : Hai Enggel , kok gk bawa kado untuk Rachel<br \/>",
+                        "created": "2016-05-14T16:44:30+07:00",
+                        "responses": 1,
+                        "tickets": 6,
+                        "first_resp": "2016-05-15T19:33:25+07:00",
+                        "the_best_resp_id": "7284324",
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Tolong terjemahkan ke inggris drama narative teks ini pakai past tense mohon sekali bantuannya drama nya harus selesai senin #Suatu hari ada kakak uberadik yang hidup dari\nkeluarga yang berkecukupan,tetapi sang kakak\nmemiliki kekurangan mental sejak lahir. Dia memiliki\nseorang ibu yang <em>sangat<\/em> sabar mengurus sang kakak\nuudan sang adik yang belum bisa mengertidan\nmemahami kakaknya.\n#Rumah\nIbu : \u201cKakak ini rumah baru kita,Engel beresin barang-\nbarang kamu!\u201d\nAngel : \u201cIya Bu\u201d\nNopi (melihat keadaan sekeliling rumah) (Ibu mengajak\nNopi bermain Congklak)\n#<em>Taman<\/em>\n# Keesokan harinya angel keluar rumah untuk mencari\ntema baru di lingkungan rumah barunya itu. Sampai di\nsebuah <em>taman<\/em> angel melihat ada seorang perempuan\nsedang bermain basket dan angel pun menghampiri\nperempuan tersebut.\nAngel : \u201cHy? Nama kamu siapa? Aku Angel \u201d\nRachel : \u201cHy juga ,aku Rachel , kamu orang baru yang\ndinggal disi kan ?\u201d\nAngel : : \u201ciya kok kmu tau ,kamu udah lama tinggal\ndisini?\u201d\nRachel : \u201ctau lah ,Iya aku udah lama tinggal disini\nAkhirnya angel pun mendapatkan teman baru dan\nakhirnya mereka bermain basket bersama.\nAngel : \u201cUdah sore nih aku pulang dulu yah?\u201d\nRachel : \u201cOke hati-hati\u201d\nAngel : \u201cSampai ketemu\u201d\n#<em>Taman<\/em>\nKeesokan harinya Angel dan Rachel bertemu di\n<em>taman<\/em>,pada saat mereka sedang asik bermain ada\nseorang perempuan menghampiri mereka.\nAngel : \u201cRachel itu sispa?\u201d\nRachel : \u201cItu Anggie,dia itu anak orang kaya yang\nsombong,setiap ada orang baru pasti dia labrak\u201d\nAngel: \u201cWah iya? Terus aku gimana dong? Kan aku\norang baru disini\u201d\nRachel : \u201cUdah tenangaja aku yang hadapi\u201d\nKetika Anggie menghampiri Angel dan Rachel,Anggie\nlangsung menghina dan memaki Angel karena sudah\nbermain di wilayah Anggie.\nAnggie: \u201cHey,kamu siapa? Beraninya datang kesini\nhuh??\u201d\nAngel: \u201cApa kamu? Memangnya kenapa kalau aku\ndisini?\u201d\nRachel: \u201cAngel,sudah tidak usah di balas\nperkataannya\u201d\nAnggie: \u201cHeh,kamu sama temen kamu pergi sana\njauh-jauh\u201d\nRachel: \u201cAngel,ayo kita pergi..\u201d\nAngel: \u201c Ya gak bisa gitu bdong he !! Memangnya dia\nitu siapa?\u201d\nAnggie : \u201cHeh\u2026 cepet kalian pergi!!!\u201d\nAngel: \u201cYaudah sih biasa aja kita juga bakal pergi\ntanpa kamu suruh,yuk chel\u201d\nSesampainya angel di rumah angel di beri tahu oleh\nmamahnya besok mereka akan jalan-jalan bersama\nkesebuah <em>taman<\/em> dekat rumah. Keesokan harinya\nmereka bergegas untuk pergi ke <em>taman.<\/em>\n#<em>Taman<\/em>\nIbu: \u201cKaka,angel ayo berangkat\u201d\nAngel: \u201cIya <em>mah<\/em>\u201d\nAngel : \u201cIh apaan sih kak aku kan bukan anak kecil\nlagi,udah ayo pergi\u201d\n#Sesampainya di <em>taman<\/em> ternyata ada barang yang\ntertinggal dan lupa di bawa oleh ibu.\nIbu: \u201cKakak,angel ibu ke rumah dulu ya ada yang\nketinggalan\u201d\nAngel: \u201cIya bu\u201d Ketika ibu pergi,angel melihat boal\nbasket tergeletak di sebrang <em>taman.<\/em>\n#Akhirnya angel mendekati bola basket tersebut dan\nmemainkannya. Sang kakak mengikuti Angel tetapi\nkakak malah tersesat. Tapi Angel tidak menytadari itu.\nSampai akhirnya ibu kembali dan kakak sudah tidak\nada.\nIbu:\u201cKemana mereka?\u201d\n(Ibu sudah mencari keberbagai sudut <em>taman<\/em> tapi ibu\ntidak menemukan mereka,lalu ibu lihat k sebrang\n<em>taman<\/em> ternyata angel sedang disana sedang barmain\nbasket.Tapi anehnya angel tidak bersama kakak. Ibu\nmulai panik dan memanggil angel)\n. Ibu: \u201cAngel sini!\u201d\nAngel: \u201cKakak kemana?\u201d\nAngel: \u201c Gak tau,tadi kan ada disini\u201d\nIbu: \u201cTadi kan ibu kerumah sebentar kenapa kamu\ngkak jagain kakak!!!\u201d\nEngel : kok jd salah aku sih bu ?,salah kakak lah\nngapain jalan jalan \u201c\nIbu : Yaiyalah ibu nyalahin kamu orang kamu yanga\nda di sini , knpa kamu gk jagain kk ?\nEngel : kan kk udh gede bu , ngapain harus di jagain\nlg !!\nIbu : (Ibu hanya terdian dan sedih mendengar engel\nberbicara seperti itu )\n#Akhirnya Engel dan ibu terus berdebat , sambil\nmencari kaka ( nopi ) . sampai akhirnya ibu menengok\nkesebrang jalan dan ibu melihat kakak sedang berdiri\ndi tepi jalan dan dengan wajah kebingungan .\nIbu : kaka ngapain di sini ? , knpa tadi kk pergi dari\n<em>taman<\/em> ?\n# keesokan harinya kk menanyakan kemana boneka\nkesayangan nya ke pada ibu\nIbu : coba cari di kamar kaka ( menggunakan bahasa\nisyarat )\n# Dan ternyata boneka itu tidak ada di mana mana ,\nakhirnya kaka pun mengamuk dan membanting radio ,\nlalu ibu dan engel menghampiri kaka , dan mencegah\nkaka .dan pada siang harinya Rachel pun dating ke\nrumah Engel untuk mengundang Engel agar bias\ndating di acara pesta ulang tahunya nanti sore.\n#Sorehari Engel pun telah bersiap untuk menghadiri\npesta ulang tahun teman barunya itu . tapi satu hal\nyang tidak Engel bawa , Engel lupa menbawa kado\nyang masih ada di rumah . sesampainya di acara\npesta ulang tahun Rachel Engel dimaki oleh Anggie\nanak orang kaya sombong itu .\nAnggie : Hai Enggel , kok gk bawa kado untuk Rachel",
+                        "snippet_content": "kesebuah <em>taman<\/em> dekat rumah. Keesokan harinya\nmereka bergegas untuk pergi ke <em>taman.<\/em>\n#<em>Taman<\/em>\nIbu: \u201cKaka,angel ayo berangkat\u201d\nAngel: \u201cIya <em>mah<\/em>\u201d\nAngel"
+                    },
+                    "responses": [
+                        {
+                            "id": 7284324,
+                            "user_id": 117080,
+                            "task_id": 6100513,
+                            "points": 5,
+                            "created": "2016-05-15T19:33:25+07:00",
+                            "content": "<strong>\ufeff<\/strong>\ufeffOne day, there lived sisters in a sufficient family, but the older sister had a mental deficiency since birth. She had a mother who took care of her very patiently and a younger sister who still couldn't understand and took care of her.<br \/><br \/>#Home<br \/>Mother : \"Sis, this is our new home. Angel, tidy\u00a0up your stuff!\"<br \/>Angel : \"Okay, Mom.\"<br \/>(Nopi looks around the house) (Mother invites Nopi to play Congklak)<br \/><br \/>#Park<br \/>#The next day, Angel went out to find new theme in her new home environment. When she got in the park, Angel saw a girl who was playing basketball and she approached the girl.<br \/>Angel : \u201cHi, what's your name? I'm Angel.\"<br \/>Rachel : \u201cHi, too. I'm Rachel. You are the new person who lives here, right?\"<br \/>Angel : : \u201cYes, how did you know that? Have you been living here?\"<br \/>Rachel : \u201cOf course. Yes, I have been living here.\"<br \/>At last, Angel got a new a friend and they played basketball together.<br \/>Angel : \u201cIt's already\u00a0afternoon. I'm going back, okay?\"<br \/>Rachel : \u201cOkay, take care.\"<br \/>Angel : \u201cSee you again.\"<br \/><br \/>#Park<br \/>The next day, Angel and Rachel met in the park. When they were playing, there was a girl who approached them.<br \/>Angel : \u201cRachel, who is she?\"<br \/>Rachel : \u201cThat's Anggie, she is a rich, arrogant girl. Every new person will surely get scolded by her.\"<br \/>Angel\u00a0: \u201cWoah, really? Then, what should I do? I'm a new person here.<br \/>Rachel : \u201cDon't worry, I will face her.\"<br \/>When Anggie approached Angel and Rachel, Anggie directly insulted and scolded Angel for playing in her territory.<br \/>Anggie\u00a0: \u201cHey, who are you? How dare you come in here?\"<br \/>Angel\u00a0: \u201cWhat are you? So what if I come here?\"<br \/>Rachel\u00a0: \u201cAngel, it's enough. Don't response to her words.\"<br \/>Anggie\u00a0: \u201cHeh! You and your friend go far\u00a0away.\"<br \/>Rachel\u00a0: \u201cAngel, let's go..\"<br \/>Angel\u00a0: \u201cNo way! Who does she think she is?\"<br \/>Anggie : \u201cHeh.. Hurry and go!!!\"<br \/>Angel\u00a0: \u201cChill out.. We will go even if you don't tell us to. Let's go, Chel.\"<br \/><br \/>When Angel arrived home, she was told by her mother that they would go together in the nearby park. The next day, they hurried to the park.\"<br \/>#Park<br \/>Mother\u00a0: \u201cSis, Angel, let's go to the park!\"<br \/>Angel\u00a0: \u201cYes, Mom.\"<br \/>Angel : \u201cUgh! What is it, sis? I'm not a little girl anymore. Let's go!<br \/>#When they arrived in the park, mother left something and forgot to take it.<br \/>Mother\u00a0: \u201cSis, Angel, Mom's going back, there is something I forgot.\"<br \/>Angel\u00a0: \u201cYes, Mom.\u201d <br \/>When Mother went home, Angel saw a basketball laying across the park.<br \/>#Finally, Angel approached the ball and played it. The older sister followed Angel and\u00a0she got lost.\u00a0But Angel didn't realize it. Until mother came back and sister was not there anymore.<br \/>Mother:\u00a0\u201cWhere did they go?\"<br \/>(Mother has searched in every corner of the park, but mother still couldn't find them. Then, mother looked across the park and saw Angel was playing basketball. But strangely, Angel was not with her older sister. (Mother started to panic and called Angel.)<br \/>Mother:\u00a0\u201cAngel, come here!\u00a0Where is sis?\"<br \/>Angel: \u201cI don't know.\u00a0She was here.\"<br \/>Mother\u00a0: \u201cMother just went home for a moment. Why didn't you keep an eye on her!!\"<br \/>Angel : \"Why is it my fault? Blame sister for loitering around.\"<br \/>Mother : \"Of course I blame you because you are the only one here. Why didn't you look after her?\"<br \/>Angel : \"She's a grown up, Mom. Why should I take care of her?\"<br \/>Mother : (Mother just silent\u00a0and sad hearing Angel talked like that)<br \/>#In the end, Angel and mother keep arguing while looking for sister (Nopi). <br \/>Until mother looked across the street and saw sister who was standing by the roadside with a confused face.<br \/>Mother : \"What are you doing, dear? Why did you go from the park?\"<br \/>#The next day, sister asked mother about her favorite doll.<br \/>Mother : \"Try looking in your room\"\u00a0(using sign languange)<br \/>#And it turned out that the doll was nowhere. Finally, sister went rampage and slammed the radio. Then, mother and Angel approached sister and stop her. And at daylight, Rachel came to Angel's house to invite Angel so that she can go to her birthday party in the afternoon.<br \/><br \/>#Afternoon <br \/>Angel has gotten ready to attend her new friend's birthday party. But there was one thing that Angel didn't bring. Angel forgot to bring the present which still at home. When she arrived at Rachel's birthday. Angel got scolded by Anggie, the rich and arrogant girl.<br \/><span>Anggie : \"Hi, Angel. Why didn't you bring any present for Rachel?\"<\/span><br \/>",
+                            "mark": 5,
+                            "marks_count": 2,
+                            "thanks": 2,
+                            "user_best_rank_id": 7,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2016-05-16T12:27:46+07:00",
+                                "approver": {
+                                    "id": 1474741,
+                                    "nickname": "gumantinr",
+                                    "points": 285748,
+                                    "grade": 3,
+                                    "gender": 1,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/d6c\/6886afc4fe968c0a4e99b01c1cf79277.jpg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/d87\/62084e44ff4fa7912aea7c8054bc01be.jpg"
+                                    },
+                                    "content_approved_count": 9543
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 117080,
+                                "nick": "umaimahazzahrah",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dc0\/b74cf22baf05a0f62e08596720e7a529.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10661275,
+                        "subject_id": 9,
+                        "user_id": 4901941,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 40,
+                            "ptsForResp": 20,
+                            "ptsForBest": 10
+                        },
+                        "content": "Kerjakan semua soal-soal berikut dengan benar!<br \/><br \/>\n1. Hubungan positif yang muncul jika warga negara meyakini makna Bhinneka Tunggal Ika yaitu....<br \/>\na. Terjadi berbagai konflik dalam masyarakat<br \/>\nb. Lingkungan masyarakat menjadi aman dan tenteram<br \/>\nc. Bangsa-bangsa lain dapat tinggal di negara Indonesia<br \/>\nd. Indonesia dipandang sebagai negara liberal karena memberikan perlindungan kepada setiap bangsa<br \/><br \/>\n2. Cermati cerita berikut!<br \/>\nAndre, Alia dan Anton sedang duduk di taman. Mereka membicarakan rencana liburan akhir pekan. Andre mengajak Alia dan Anton pergi ke museum Sumpah Pemuda. Alia setuju dengan usul Andre. Andre mengusulkan berangkat pukul 07.00. Anton merasa keberatan karena dia harus beribadat di gereja. Andre membujuk Anton untuk tidak mengikuti kebaktian di gereja. Anton lebih memilih mengikuti kebaktian. Alia mencoba membujuk dan menjelaskan kepada Andre bahwa ibadah itu penting. Oleh karena itu, Alia mengusulkan berangkat ke museum setelah Anton melaksanakan kebaktian. Andre pun mengerti dan menerima usul Alia.<br \/>\nBerdasarkan cerita, nilai-nilai yang dapat diteladan yaitu....<br \/>\na. Anton tidak suka berkunjung ke museum<br \/>\nb. Setiap orang hendaknya memiliki sikap toleran<br \/>\nc. Mengunjungi museum dapat meningkatkan rasa persaudaraan<br \/>\nd. Mengunjungi museum merupakan upaya mengisi akhir pekan<br \/><br \/>\n3. Semangat persatuan dan kesatuan dapat terlihat dalam pernyataan....<br \/>\na. Semua anggota kelompok saling membantu menyelesaikan tugas.<br \/>\nb. Budi membaca puisi mengenai makna persatuan Indonesia.<br \/>\nc. Ali dan Ilham mengajak Anton bermain sepak bola.<br \/>\nd. Tiara berangkat sekolah naik sepeda.<br \/><br \/>\n4. Toleransi umat beragama dalam kehidupan sehari-hari dapat dilakukan dengan cara....<br \/>\na. Memberikan kesempatan kepada teman beribadah sesuai ajaran agamanya<br \/>\nb. Memberikan nasihat supaya orang lain mau mengikuti ajaran agama yang kita anut<br \/>\nc. Ikut melaksanakan ibadah sesuai ajaran agama yang dianut teman<br \/>\nd. Menahan teman menunda pelaksanaan ibadah<br \/><br \/>\n5. Keberagaman budaya di Indonesia merupakan warisan nenek moyang bangsa Indonesia. Berikut ini pernyataan yang menunjukkan keberagaman budaya bisa menjadi sarana pemersatu bangsa ialah....<br \/>\na. Sanggar tari Nusantara sedang mengikuti kejuaraan tari tradisional di Rusia.<br \/>\nb. Acara pekan kebudayaan nasional diikuti oleh seluruh perwakilan daerah.<br \/>\nc. Kebudayaan Jawa memiliki nilai sangat tinggi.<br \/>\nd. Ani bangga menjadi duta kesenian Indonesia.<br \/><br \/>\n6. Bangsa Indonesia adalah bangsa yang menjunjung persatuan dan kesatuan. Makna persatuan dan kesatuan bangsa yaitu....<br \/>\na. Bangsa yang mampu menghormati bangsa-bangsa lain<br \/>\nb. Bersatunya suatu bangsa dalam satu negara<br \/>\nc. Bangsa yang utuh dan tidak terpecah-pecah<br \/>\nd. Terciptanya kerukunan antarbangsa<br \/><br \/>\n7. Indonesia bebas dari penjajahan sejak tanggal 17 Agustus 1945. Kebebasan tersebut berdampak pada masa depan Indonesia. Dampak yang akan dirasakan oleh bangsa Indonesia Ialah....<br \/>\na. Negara-negara lain akan tunduk dan patuh kepada Indonesia<br \/>\nb. Indonesia bebas mengatur kehidupan berbangsa dan bernegara<br \/>\nc. Bangsa Indonesia akan mendapat pujian dari bangsa lain<br \/>\nd. Bangsa Indonesia menjadi bangsa terkuat di dunia<br \/><br \/>\n8. Kemerdekaan negara Indonesia yang telah diperjuangkan selama ini harus diisi dengan kegiatan positif. Contoh kegiatan positif untuk mengisi kemerdekaan ialah....<br \/>\na. Melakukan perubahan sistem ketatanegaraan Indonesia<br \/>\nb. Bergotong royong mempersiapkan diri menghadapi konflik perbatasan negara<br \/>\nc. Mengubah Pembukaan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945<br \/>\nd. Menjalin kerja sama dalam berbagai bidang kehidupan untuk melaksanakan pembangunan nasional<br \/><br \/>\n9. Salah satu realisasi tujuan negara Indonesia yang terdapat dalam Pembukaan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 ialah....<br \/>\na. Memberikan beasiswa pendidikan kepada warga negara<br \/>\nb. Menjadi mediator dalam konflik Laut Cina Selatan<br \/>\nc. Mengolah kekayaan alam Indonesia secara mandiri<br \/>\nd. Menjalin kerja sama militer dengan NATO<br \/><br \/>\n10. Perhatikan pernyataan berikut!<br \/>\n1) Pemerintah kabupaten menyediakan fasilitas kesehatan gratis.<br \/>\n2) Pemerintah menyalurkan kredit usaha kecil menengah melalui bank.<br \/>\n3) Sekolah-sekolah di daerah mendapatkan dana bantuan operasional Sekolah.<br \/>\n4) Pemerintah menggalakan program produksi padat karya.<br \/>\n5) Besaran tunjangan bantuan langsung tunai bagi warga miskin ditingkatkan 20%.<br \/>\nUpaya pemerintah dalam rangka meningkatkan kesejahteraan dalam bidang ekonomi ditunjukkan oleh nomor....<br \/>\na. 1) dan 4)<br \/>\nb. 1) dan 5)<br \/>\nc. 2) dan 3)<br \/>\nd. 2) dan 4)<br \/><br \/>\n11. Pemerintah membuka lowongan calon pegawai negeri sipil. Keterangan tersebut merupakan upaya pemerintah untuk melaksanakan tujuan negara yaitu....<br \/>\na. Memajukan kesejahteraan umum<br \/>\nb. Mencerdaskan kehidupan bangsa<br \/>\nc. Melaksanakan ketertiban dunia<br \/>\nd. Melindungi bangsa Indonesia<br \/><br \/>\n(TOLONG CEPETAN DIJAWAB MAU DIKUMPULIN SOALNYA DAN DIJAWAB SEMUANYA YA! DAN DIBERI PENJELASANNYA YA! SERTA TERIMA KASIH BANYAK BAGI YANG SUDAH MENJAWAB PERTANYAAN PPKN TERSEBUT DENGAN JELAS DAN BENAR) ",
+                        "created": "2017-05-15T22:23:18+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2017-05-15T22:32:24+07:00",
+                        "the_best_resp_id": "12917609",
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Kerjakan semua soal-soal berikut dengan benar!\n1. Hubungan positif yang muncul jika warga negara meyakini makna Bhinneka Tunggal Ika yaitu....\na. Terjadi berbagai konflik dalam masyarakat\nb. Lingkungan masyarakat menjadi aman dan tenteram\nc. Bangsa-bangsa lain dapat tinggal di negara Indonesia\nd. Indonesia dipandang sebagai negara liberal karena memberikan perlindungan kepada setiap bangsa\n2. Cermati cerita berikut!\nAndre, Alia dan Anton sedang duduk di <em>taman.<\/em> Mereka membicarakan rencana liburan akhir pekan. Andre mengajak Alia dan Anton pergi ke museum Sumpah Pemuda. Alia setuju dengan usul Andre. Andre mengusulkan berangkat pukul 07.00. Anton merasa keberatan karena dia harus beribadat di gereja. Andre membujuk Anton untuk tidak mengikuti kebaktian di gereja. Anton lebih memilih mengikuti kebaktian. Alia mencoba membujuk dan menjelaskan kepada Andre bahwa ibadah itu penting. Oleh karena itu, Alia mengusulkan berangkat ke museum setelah Anton melaksanakan kebaktian. Andre pun mengerti dan menerima usul Alia.\nBerdasarkan cerita, nilai-nilai yang dapat diteladan yaitu....\na. Anton tidak suka berkunjung ke museum\nb. Setiap orang hendaknya memiliki sikap toleran\nc. Mengunjungi museum dapat meningkatkan rasa persaudaraan\nd. Mengunjungi museum merupakan upaya mengisi akhir pekan\n3. Semangat persatuan dan kesatuan dapat terlihat dalam pernyataan....\na. Semua anggota kelompok saling membantu menyelesaikan tugas.\nb. Budi membaca puisi mengenai makna persatuan Indonesia.\nc. Ali dan Ilham mengajak Anton bermain sepak bola.\nd. Tiara berangkat sekolah naik sepeda.\n4. Toleransi umat beragama dalam kehidupan sehari-hari dapat dilakukan dengan cara....\na. Memberikan kesempatan kepada teman beribadah sesuai ajaran agamanya\nb. Memberikan nasihat supaya orang lain <em>mau<\/em> mengikuti ajaran agama yang kita anut\nc. Ikut melaksanakan ibadah sesuai ajaran agama yang dianut teman\nd. Menahan teman menunda pelaksanaan ibadah\n5. Keberagaman budaya di Indonesia merupakan warisan nenek moyang bangsa Indonesia. Berikut ini pernyataan yang menunjukkan keberagaman budaya bisa menjadi sarana pemersatu bangsa ialah....\na. Sanggar tari Nusantara sedang mengikuti kejuaraan tari tradisional di Rusia.\nb. Acara pekan kebudayaan nasional diikuti oleh seluruh perwakilan daerah.\nc. Kebudayaan Jawa memiliki nilai <em>sangat<\/em> tinggi.\nd. Ani bangga menjadi duta kesenian Indonesia.\n6. Bangsa Indonesia adalah bangsa yang menjunjung persatuan dan kesatuan. Makna persatuan dan kesatuan bangsa yaitu....\na. Bangsa yang mampu menghormati bangsa-bangsa lain\nb. Bersatunya suatu bangsa dalam satu negara\nc. Bangsa yang utuh dan tidak terpecah-pecah\nd. Terciptanya kerukunan antarbangsa\n7. Indonesia bebas dari penjajahan sejak tanggal 17 Agustus 1945. Kebebasan tersebut berdampak pada masa depan Indonesia. Dampak yang akan dirasakan oleh bangsa Indonesia Ialah....\na. Negara-negara lain akan tunduk dan patuh kepada Indonesia\nb. Indonesia bebas mengatur kehidupan berbangsa dan bernegara\nc. Bangsa Indonesia akan mendapat pujian dari bangsa lain\nd. Bangsa Indonesia menjadi bangsa terkuat di dunia\n8. Kemerdekaan negara Indonesia yang telah diperjuangkan selama ini harus diisi dengan kegiatan positif. Contoh kegiatan positif untuk mengisi kemerdekaan ialah....\na. Melakukan perubahan sistem ketatanegaraan Indonesia\nb. Bergotong royong mempersiapkan diri menghadapi konflik perbatasan negara\nc. Mengubah Pembukaan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945\nd. Menjalin kerja sama dalam berbagai bidang kehidupan untuk melaksanakan pembangunan nasional\n9. Salah satu realisasi tujuan negara Indonesia yang terdapat dalam Pembukaan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 ialah....\na. Memberikan beasiswa pendidikan kepada warga negara\nb. Menjadi mediator dalam konflik Laut Cina Selatan\nc. Mengolah kekayaan alam Indonesia secara mandiri\nd. Menjalin kerja sama militer dengan NATO\n10. Perhatikan pernyataan berikut!\n1) Pemerintah kabupaten menyediakan fasilitas kesehatan gratis.\n2) Pemerintah menyalurkan kredit usaha kecil menengah melalui bank.\n3) Sekolah-sekolah di daerah mendapatkan dana bantuan operasional Sekolah.\n4) Pemerintah menggalakan program produksi padat karya.\n5) Besaran tunjangan bantuan langsung tunai bagi warga miskin ditingkatkan 20%.\nUpaya pemerintah dalam rangka meningkatkan kesejahteraan dalam bidang ekonomi ditunjukkan oleh nomor....\na. 1) dan 4)\nb. 1) dan 5)\nc. 2) dan 3)\nd. 2) dan 4)\n11. Pemerintah membuka lowongan calon pegawai negeri sipil. Keterangan tersebut merupakan upaya pemerintah untuk melaksanakan tujuan negara yaitu....\na. Memajukan kesejahteraan umum\nb. Mencerdaskan kehidupan bangsa\nc. Melaksanakan ketertiban dunia\nd. Melindungi bangsa Indonesia\n(TOLONG CEPETAN DIJAWAB <em>MAU<\/em> DIKUMPULIN SOALNYA DAN DIJAWAB SEMUANYA YA! DAN DIBERI PENJELASANNYA YA! SERTA TERIMA KASIH BANYAK BAGI YANG SUDAH MENJAWAB PERTANYAAN PPKN TERSEBUT DENGAN JELAS DAN BENAR) ",
+                        "snippet_content": "2. Cermati cerita berikut!\nAndre, Alia dan Anton sedang duduk di <em>taman.<\/em> Mereka membicarakan rencana liburan akhir pekan. Andre mengajak Alia dan"
+                    },
+                    "responses": [
+                        {
+                            "id": 12917609,
+                            "user_id": 5037292,
+                            "task_id": 10661275,
+                            "points": 20,
+                            "created": "2017-05-15T22:32:24+07:00",
+                            "content": "1.B <br \/>2.B<br \/>3.A<br \/>4.A<br \/>5.B<br \/>6.D<br \/>7.B<br \/>8.D<br \/>9.A<br \/>10.D<br \/>11.B<br \/><br \/>semoga terbantu, hehe :)",
+                            "mark": 4,
+                            "marks_count": 3,
+                            "thanks": 5,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 12917666,
+                            "user_id": 5040366,
+                            "task_id": 10661275,
+                            "points": 20,
+                            "created": "2017-05-15T22:36:55+07:00",
+                            "content": "1. b. lingkungan masyarakat menjadi aman dan tentram<br \/>2. b. setiap ohang hendaknya memiliki sikap toleran<br \/>3. a. semua anggota kelompok saling membantu menyelesaikan tugas<br \/>4. a. memberikan kesempatan kpd teman  beribadah sesuai ajaran agamanya<br \/>5. b. acara pekan kebidayaan nasional di ikuti oleh seluruh perwakilan daerah<br \/>6. c. bangsa yg utuh dan tidak terpecah pecah<br \/>7. b. indonesia bebas mengatur kehidupan berbangsa dan bernegara<br \/>8. d. Menjalin kerja sama dalam berbagai bidang kehidupan untuk melaksanakan pembangunan nasional<br \/>9. a. Memberikan beasiswa pendidikan kepada warga negara<br \/>10. d. 2) dan 4)<br \/>11. a. Memajukan kesejahteraan umum<br \/><br \/><br \/>maaf klo salah :)",
+                            "mark": 3,
+                            "marks_count": 2,
+                            "thanks": 4,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5037292,
+                                "nick": "itsdekom",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dd9\/6eadc5660f6e59b684abe1d8a6a3ce13.jpg"
+                            },
+                            {
+                                "id": 5040366,
+                                "nick": "Zahraniindah",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d02\/845034173e9fa22f927c6af4817855fb.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10876597,
+                        "subject_id": 1,
+                        "user_id": 1586910,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Sahabat Baikku Saskia dan Peony adalah sahabat baik. Mereka selalu berbagi makanan kecil di sekolah. Juga berbagi dalam segala hal. Suatu hari Sabtu, Saskia bangun seperti biasa. Ia minum segelas susu, makan roti, merapikan kamar, memberi makan kucing, dan membuang sampah. Di rumahnya, Peony juga melakukan hal yang sama, pada waktu yang hampir sama. Setelah selesai bekerja, mereka ngobrol di telepon untuk merencanakan kegiatan mereka sepanjang hari itu. Biasanya, mereka bersepeda bersama ke taman untuk bermain ayunan. Di siang hari, mereka membeli es krim. Mereka selalu saling mencicipi es krim, agar bisa membandingkan rasanya. Setelah itu, mereka pulang dan bermain boneka hingga tiba saat makan siang. Mereka selalu makan siang bersama. Jika Sabtu ini mereka makan siang di rumah Saskia, maka minggu depannya, makan siang di rumah Peony. Akan tetapi, pada Sabtu ini, hingga menjelang siang, Saskia masih belum menerima telepon dari Peony. \u201cHalo, selamat pagi. Ini dari Saskia, bisa bicara dengan Peony?\u201d Ternyata yang menerima telepon adalah Ricky, kakak Peony. \u201cOh Saskia, selamat pagi. Mencari Peony ya? Waaah, Kakak tidak yakin dia ada di rumah atau tidak. Sejak tadi pagi dia bermain dengan seseorang dan baru saja pergi membeli es krim. Mm, tunggu ya, Kakak coba panggil\u2026\u201d Saskia mendengar Ricky memanggil Peony, kemudian\u2026 \u201cMaaf Saskia, kata Peony, dia tidak bisa menerima teleponmu hari  ini. Katanya, hari Senin saja berjumpa di sekolah.\u201d Saskia sedih dan terkejut mendengar hal itu. Sambil meletakkan gagang telepon, perasaan Saskia campur aduk. Rasa sedih dan terkejut perlahan-lahan berubah menjadi kecewa dan marah. \u201cYah, kalau memang Peony tidak mau bermain denganku, aku juga tidak paduli. Siapa yang butuh teman seperti dia?\u201d kata Saskia dalam hati. Sepanjang hari Sabtu itu Saskia terus-menerus menggerutu. \u201cLihat saja hari Senin nanti. Aku akan tunjukkan kalau aku juga tidak butuh Peony sebagai temanku.\u201d Hingga malam menjelang, Saskia masih tetap marah-marah. Sehabis makan malam, mama Saskia melihat sikap Saskia yang aneh. Saskia tampak murung dan tidak bernapsu makan, padahal makanan yang dihidangkan adalah kesukaan Saskia. Mama Saskia meraba dahi Saskia. Ternyata Saskia demam. Malam itu Ia harus minum obat dan cepat tidur. Keesokan harinya, demam Saskia masih belum hilang. Saskia makan di tempat tidur dan beristirahat. Mama Saskia menemani sambil bercerita tentang indahnya persahabatan. Di akhir cerita, Saskia berkata \u201cAku tidak punya seorang sahabat pun! Aku hanya memiliki Peony yang tidak mau bermain denganku lagi. Aku benci Peony!\u201d Saskia mulai menangis dan menceritakan kejadian kemarin kepada mamanya. Mama Saskia tersenyum menenangkan, \u201cSaskia, kamu dan Peony sudah lama berteman. Jangan marah-marah dulu. Kamu kan belum tahu, kenapa Peony tidak bisa bermain bersamamu. Coba pikirkan kebaikan Peony selama ini. Besok, berikan kesempatan pada Peony untuk menjelaskan semua itu\u2026\u201d Sore harinya, bel rumah Saskia berbunyi. Ternyata Peony datang membawa sekantong apel merah kesukaan Saskia.\u201dSebutir apel akan mengusir penyakitmu.\u201d Kata Peony sambil tersenyum. \u201cWah, aku kangen sekali padamu. Hari Jumat malam Om Han, teman ayah, datang. Rumah Om Han baru terbakar. Tidak ada yang terluka dalam kejadian itu, tetapi Om Han minta tolong ayah untuk menjaga Sari, anak Om Han. Soalnya Om Han akan membersihkan rumah dari asap dan sisa-sisa benda yang terbakar. Sari sangat sedih karena rumahnya terbakar. Aku berusaha menghiburnya seharian. Aku tahu, kamu temanku yang baik. Kamu pasti tidak akan marah jika aku tidak bisa bermain denganmu seperti biasa. Ups, Saskia tertegun mendengar cerita Peony. Saskia menjadi malu. Sepanjang hari dia marah-marah pada Peony. Padahal ternyata Peony memiliki alasan yang mulia, mengapa tidak bisa bermain bersama Saskia. Saskia duduk di tempat tidurnya dan berkata, \u201cOh Peony, aku minta maaf. Aku telah menjadi teman yang jahat. Aku sudah berpikir jelek tentang kamu. Aku hampir tidak mau memberikanmu kesempatan untuk menjelaskan kejadian yang sebenarnya. Maukah kau memaafkanku?\u201d Peony mendekati Saskia dan memeluknya. \u201cTentu saja aku memaafkanmu. Itulah gunanya teman. Aku mengerti kalau kamu kecewa karena aku tidak menelponmu. Cepatlah sembuh supaya kita bisa sama-sama bermain dan belajar di sekolah. Saskia gembira sekali karena tidak jadi kehilangan sahabat yang disayanginya dan berhati mulia itu. Dalam hati Saskia berjanji akan menjaga persahabatan yang dia jalin bersama Peony selamanya.carikan unsur intrinsiknya.tema,alur,setting,penokohan,sudut pandang,amanat,gaya bahasa.sebutkan gaya bahasa atau majas apa kalimat tersebut.",
+                        "created": "2017-06-04T19:10:29+07:00",
+                        "responses": 1,
+                        "tickets": 5,
+                        "first_resp": "2017-06-28T14:09:31+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": true,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Sahabat Baikku Saskia dan Peony adalah sahabat baik. Mereka selalu berbagi makanan kecil di sekolah. Juga berbagi dalam segala hal. Suatu hari Sabtu, Saskia bangun seperti biasa. Ia minum segelas susu, makan roti, merapikan kamar, memberi makan kucing, dan membuang sampah. Di rumahnya, Peony juga melakukan hal yang sama, pada waktu yang hampir sama. Setelah selesai bekerja, mereka ngobrol di telepon untuk merencanakan kegiatan mereka sepanjang hari itu. Biasanya, mereka bersepeda bersama ke <em>taman<\/em> untuk bermain ayunan. Di siang hari, mereka membeli es krim. Mereka selalu saling mencicipi es krim, agar bisa membandingkan rasanya. Setelah itu, mereka pulang dan bermain boneka hingga tiba saat makan siang. Mereka selalu makan siang bersama. Jika Sabtu ini mereka makan siang di rumah Saskia, maka minggu depannya, makan siang di rumah Peony. Akan tetapi, pada Sabtu ini, hingga menjelang siang, Saskia masih belum menerima telepon dari Peony. \u201cHalo, selamat pagi. Ini dari Saskia, bisa bicara dengan Peony?\u201d Ternyata yang menerima telepon adalah Ricky, kakak Peony. \u201cOh Saskia, selamat pagi. Mencari Peony ya? Waaah, Kakak tidak yakin dia ada di rumah atau tidak. Sejak tadi pagi dia bermain dengan seseorang dan baru saja pergi membeli es krim. Mm, tunggu ya, Kakak coba panggil\u2026\u201d Saskia mendengar Ricky memanggil Peony, kemudian\u2026 \u201cMaaf Saskia, kata Peony, dia tidak bisa menerima teleponmu hari  ini. Katanya, hari Senin saja berjumpa di sekolah.\u201d Saskia sedih dan terkejut mendengar hal itu. Sambil meletakkan gagang telepon, perasaan Saskia campur aduk. Rasa sedih dan terkejut perlahan-lahan berubah menjadi kecewa dan marah. \u201cYah, kalau memang Peony tidak <em>mau<\/em> bermain denganku, aku juga tidak paduli. Siapa yang butuh teman seperti dia?\u201d kata Saskia dalam hati. Sepanjang hari Sabtu itu Saskia terus-menerus menggerutu. \u201cLihat saja hari Senin nanti. Aku akan tunjukkan kalau aku juga tidak butuh Peony sebagai temanku.\u201d Hingga malam menjelang, Saskia masih tetap marah-marah. Sehabis makan malam, mama Saskia melihat sikap Saskia yang aneh. Saskia tampak murung dan tidak bernapsu makan, padahal makanan yang dihidangkan adalah kesukaan Saskia. Mama Saskia meraba dahi Saskia. Ternyata Saskia demam. Malam itu Ia harus minum obat dan cepat tidur. Keesokan harinya, demam Saskia masih belum hilang. Saskia makan di tempat tidur dan beristirahat. Mama Saskia menemani sambil bercerita tentang indahnya persahabatan. Di akhir cerita, Saskia berkata \u201cAku tidak punya seorang sahabat pun! Aku hanya memiliki Peony yang tidak <em>mau<\/em> bermain denganku lagi. Aku benci Peony!\u201d Saskia mulai menangis dan menceritakan kejadian kemarin kepada mamanya. Mama Saskia tersenyum menenangkan, \u201cSaskia, kamu dan Peony sudah lama berteman. Jangan marah-marah dulu. Kamu kan belum tahu, kenapa Peony tidak bisa bermain bersamamu. Coba pikirkan kebaikan Peony selama ini. Besok, berikan kesempatan pada Peony untuk menjelaskan semua itu\u2026\u201d Sore harinya, bel rumah Saskia berbunyi. Ternyata Peony datang membawa sekantong apel merah kesukaan Saskia.\u201dSebutir apel akan mengusir penyakitmu.\u201d Kata Peony sambil tersenyum. \u201cWah, aku kangen sekali padamu. Hari Jumat malam Om Han, teman ayah, datang. Rumah Om Han baru terbakar. Tidak ada yang terluka dalam kejadian itu, tetapi Om Han minta tolong ayah untuk menjaga Sari, anak Om Han. Soalnya Om Han akan membersihkan rumah dari asap dan sisa-sisa benda yang terbakar. Sari <em>sangat<\/em> sedih karena rumahnya terbakar. Aku berusaha menghiburnya seharian. Aku tahu, kamu temanku yang baik. Kamu pasti tidak akan marah jika aku tidak bisa bermain denganmu seperti biasa. Ups, Saskia tertegun mendengar cerita Peony. Saskia menjadi malu. Sepanjang hari dia marah-marah pada Peony. Padahal ternyata Peony memiliki alasan yang mulia, mengapa tidak bisa bermain bersama Saskia. Saskia duduk di tempat tidurnya dan berkata, \u201cOh Peony, aku minta maaf. Aku telah menjadi teman yang jahat. Aku sudah berpikir jelek tentang kamu. Aku hampir tidak <em>mau<\/em> memberikanmu kesempatan untuk menjelaskan kejadian yang sebenarnya. Maukah kau memaafkanku?\u201d Peony mendekati Saskia dan memeluknya. \u201cTentu saja aku memaafkanmu. Itulah gunanya teman. Aku mengerti kalau kamu kecewa karena aku tidak menelponmu. Cepatlah sembuh supaya kita bisa sama-sama bermain dan belajar di sekolah. Saskia gembira sekali karena tidak jadi kehilangan sahabat yang disayanginya dan berhati mulia itu. Dalam hati Saskia berjanji akan menjaga persahabatan yang dia jalin bersama Peony selamanya.carikan unsur intrinsiknya.tema,alur,setting,penokohan,sudut pandang,amanat,gaya bahasa.sebutkan gaya bahasa atau majas apa kalimat tersebut.",
+                        "snippet_content": "merencanakan kegiatan mereka sepanjang hari itu. Biasanya, mereka bersepeda bersama ke <em>taman<\/em> untuk bermain ayunan. Di siang hari, mereka membeli es krim"
+                    },
+                    "responses": [
+                        {
+                            "id": 13339316,
+                            "user_id": 5142223,
+                            "task_id": 10876597,
+                            "points": 5,
+                            "created": "2017-06-28T14:09:31+07:00",
+                            "content": "majas gagang telpon,perasaan campur aduk<br \/>#sorry kalau salah",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5142223,
+                                "nick": "ChanifHana",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d9f\/a589fa44c8100fc6adf1ecf5da15539c.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10777746,
+                        "subject_id": 1,
+                        "user_id": 3313146,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "1. Topik negosiasi: pengajuan izin tempat pertunjukan wayang kulit<br \/><br \/>\n    Bagian yang tidak perlu dinegosiasikan adalah\u2026.<br \/>\n    A. Pentingnya pertunjukan wayang kulit<br \/>\n    B. Keamanan ketika pertunjukan berlangsung<br \/>\n    C. Alasan diadakan pertunjukan wayang kulit<br \/>\n    D. Kemungkinan akibat buruk pertunjukan wayang kulit<br \/>\n    E. Pengertian wayang kulit<br \/><br \/>\n2. Perhatikan teks negosiasi di bawah ini!<br \/>\n    (1) Manager : Saya tahu. Dengan kemampuan Saudara, kami berani menggaji lebih besar daripada gaji perusahaan Saudara sekarang.<br \/>\n    (2) Karyawan: Maaf Pak. Saya masih berstatus kontrak di perusahaan saya sekarang.<br \/>\n    (3) Manager   : dua kali gaji Anda sekarang.<br \/>\n    (4) Karyawan : Betul, Pak? Memangnya saya akan digaji berapa, Pak?<br \/>\n    (5) Manager   : Bagaimana kalau Saudara bergabung dengan perusahaan kami?<br \/><br \/>\n    Susunan yang tepat agar menjadi teks negosiasi  yang baik adalah\u2026.<br \/>\n    A. (5), (1), (3), (2), (4)<br \/>\n    B. (5), (2), (4), (1), (3)<br \/>\n    C. (5), (2), (1), (4), (3)<br \/>\n    D. (3), (4), (1), (2), (5)<br \/>\n    E. (2), (5), (1), (3), (4)<br \/><br \/><br \/><br \/><br \/><br \/>\n3.   Bacalah percakapan berikut ini!<br \/>\n Penjual: Selamat Pagi, Bu?<br \/>\n Pembeli: Selamat pagi.<br \/>\n Penjual: Mau beli apa?<br \/>\n Pembeli: Ada patung garuda wisnu kencana?<br \/>\n Penjual: Ada. Mau yang besar atau yang kecil?<br \/><br \/>\n      Struktur yang tampak pada kutipan negosiasi tersebut adalah\u2026<br \/>\n      A. pembukaan dan isi<br \/>\n      B. orientasi dan penawaran<br \/>\n      C. orientasi dan permintaan<br \/>\n      D. orientasi dan pengajuan<br \/>\n      E. penawaran dan persetujuan<br \/><br \/>\n4. Negosiasi harus menggunakan bahasa yang santun dan persuasif. Contoh tuturan yang bersifat persuasif terdapat pada kalimat\u2026.<br \/>\n     A. Usahakan Rp 5 juta. Kami akan bekerja lagi untuk perusahaan ini.<br \/>\n     B. Baik, Pak. Saya mengucapkan terima kasih<br \/>\n     C. Baiklah, akan saya coba. Tolong kendalikan teman-teman Saudara agar menghentikan aksi demo dan segera aktif kerja lagi. Karyawan yang mogok kena sanksi.<br \/>\n     D. Ya, saya terima<br \/>\n     E. Permisi, selamat siang<br \/><br \/>\n5. Kalimat yang termasuk penutup dalam teks negosiasi adalah\u2026.<br \/>\n     A. Raya bertanya mengenai Kafa yang tidak mengikuti kunjungan industri.<br \/>\n     B. Mereka sepakat kalau Maya akan membantu Azah dan Maya akan menjenguk Beni dan ibunya keesokan harinya.<br \/>\n     C. Jazaina bercerita kalau Sinta tidak mengikuti kemah karena menjaga ayahnya yang sakit.<br \/>\n     D. Sekar bersedia membantu Jazaina dengan syarat  bahwa mereka akan menjenguk keesokan harinya.<br \/>\n     E. Putri meminta Rina untuk membantunya mengambil buku di perpustakaan.<br \/><br \/>\n6.  Cermati pernyataan berikut!<br \/>\n    \u201c Kebetulan kita lagi ada promo untuk merek Wiwa ada special diskon 10%, jadi harganya tinggal <br \/>\n       RP 3.500.000,00. Bu.\u201d <br \/><br \/>\n       Isi dari pernyataan yang digambarkan dalam kalimat tersebut adalah\u2026.<br \/>\n       A. orientasi                                      D. penawaran<br \/>\n       B. pengajuan                                    E. kesepakatan<br \/>\n       C. penutup\t<br \/><br \/><br \/><br \/><br \/>\n7. Risma: ya, kamu buka harga berapa?<br \/><br \/>\n    Ungkapan buka harga pada kalimat tersebut adalah\u2026<br \/>\n    A. menaikan harga<br \/>\n    B. harga pasar<br \/>\n    C. harga jadi<br \/>\n    D. membuka harga<br \/>\n    E. harga penawaran<br \/><br \/>\n8. Baca penggalan teks negosiasi berikut!<br \/>\n    Pedagang : Bukan Suap, tetapi uang tip saja, Pak. Minta waktu sebentar saja untuk jualan.<br \/>\n    Petugas   : Baik, hari ini saya kasih kesempatan, tapi mulai besok tidak boleh jualan di sini lagi. Ambil uang kamu lagi saya tidak mau terima.<br \/><br \/>\n     Pasangan tuturan pada teks di atas adalah\u2026.<br \/>\n     A. bertanya-menjawab\t\t C. mengusulkan-menerima     E. menawarkan-menerima<br \/>\n     B. memerintah-mematuhi\t\t D. meminta-menerima<br \/><br \/>\n9.   Cermati pernyataan-pernyataan khusus di bawah ini!<br \/>\n      Bima menyukai tarian breakdance.<br \/>\n      Arjuna menyukai tarian modern dance.<br \/>\n      Jenis musik yang disukai Nakula adalah Rock.<br \/>\n      Sadewa menyukai musik blues<br \/><br \/>\n      Pernyataan umum yang tepat dari pernyataan khusus tersebut adalah\u2026.<br \/>\n      A. Sadewa lebih tertarik dengan tarian dan musik dari luar<br \/>\n      B. Remaja sekarang lebih tertarik dengan tarian dari luar.<br \/>\n      C. Remaja sekarang menyukai tarian dan musik dari luar.<br \/>\n      D. Arjuna sangat menyukai tarian dan musik dari luar.<br \/>\n      E. Remaja sekarang lebih menyukai musik dari luar.",
+                        "created": "2017-05-25T11:37:27+07:00",
+                        "responses": 2,
+                        "tickets": 3,
+                        "first_resp": "2017-05-25T12:26:54+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "1. Topik negosiasi: pengajuan izin tempat pertunjukan wayang kulit\n    Bagian yang tidak perlu dinegosiasikan adalah\u2026.\n    A. Pentingnya pertunjukan wayang kulit\n    B. Keamanan ketika pertunjukan berlangsung\n    C. Alasan diadakan pertunjukan wayang kulit\n    D. Kemungkinan akibat buruk pertunjukan wayang kulit\n    E. Pengertian wayang kulit\n2. Perhatikan teks negosiasi di bawah ini!\n    (1) Manager : Saya tahu. Dengan kemampuan Saudara, kami berani menggaji lebih besar daripada gaji perusahaan Saudara sekarang.\n    (2) Karyawan: Maaf Pak. Saya masih berstatus kontrak di perusahaan saya sekarang.\n    (3) Manager   : dua kali gaji Anda sekarang.\n    (4) Karyawan : Betul, Pak? Memangnya saya akan digaji berapa, Pak?\n    (5) Manager   : Bagaimana kalau Saudara bergabung dengan perusahaan kami?\n    Susunan yang tepat agar menjadi teks negosiasi  yang baik adalah\u2026.\n    A. (5), (1), (3), (2), (4)\n    B. (5), (2), (4), (1), (3)\n    C. (5), (2), (1), (4), (3)\n    D. (3), (4), (1), (2), (5)\n    E. (2), (5), (1), (3), (4)\n3.   Bacalah percakapan berikut ini!\n Penjual: Selamat Pagi, Bu?\n Pembeli: Selamat pagi.\n Penjual: <em>Mau<\/em> beli apa?\n Pembeli: Ada patung garuda wisnu kencana?\n Penjual: Ada. <em>Mau<\/em> yang besar atau yang kecil?\n      Struktur yang <em>tampak<\/em> pada kutipan negosiasi tersebut adalah\u2026\n      A. pembukaan dan isi\n      B. orientasi dan penawaran\n      C. orientasi dan permintaan\n      D. orientasi dan pengajuan\n      E. penawaran dan persetujuan\n4. Negosiasi harus menggunakan bahasa yang santun dan persuasif. Contoh tuturan yang bersifat persuasif terdapat pada kalimat\u2026.\n     A. Usahakan Rp 5 juta. Kami akan bekerja lagi untuk perusahaan ini.\n     B. Baik, Pak. Saya mengucapkan terima kasih\n     C. Baiklah, akan saya coba. Tolong kendalikan teman-teman Saudara agar menghentikan aksi demo dan segera aktif kerja lagi. Karyawan yang mogok kena sanksi.\n     D. Ya, saya terima\n     E. Permisi, selamat siang\n5. Kalimat yang termasuk penutup dalam teks negosiasi adalah\u2026.\n     A. Raya bertanya mengenai Kafa yang tidak mengikuti kunjungan industri.\n     B. Mereka sepakat kalau Maya akan membantu Azah dan Maya akan menjenguk Beni dan ibunya keesokan harinya.\n     C. Jazaina bercerita kalau Sinta tidak mengikuti kemah karena menjaga ayahnya yang sakit.\n     D. Sekar bersedia membantu Jazaina dengan syarat  bahwa mereka akan menjenguk keesokan harinya.\n     E. Putri meminta Rina untuk membantunya mengambil buku di perpustakaan.\n6.  Cermati pernyataan berikut!\n    \u201c Kebetulan kita lagi ada promo untuk merek Wiwa ada special diskon 10%, jadi harganya tinggal \n       RP 3.500.000,00. Bu.\u201d \n       Isi dari pernyataan yang digambarkan dalam kalimat tersebut adalah\u2026.\n       A. orientasi                                      D. penawaran\n       B. pengajuan                                    E. kesepakatan\n       C. penutup\t\n7. Risma: ya, kamu buka harga berapa?\n    Ungkapan buka harga pada kalimat tersebut adalah\u2026\n    A. menaikan harga\n    B. harga pasar\n    C. harga jadi\n    D. membuka harga\n    E. harga penawaran\n8. Baca penggalan teks negosiasi berikut!\n    Pedagang : Bukan Suap, tetapi uang tip saja, Pak. Minta waktu sebentar saja untuk jualan.\n    Petugas   : Baik, hari ini saya kasih kesempatan, tapi mulai besok tidak boleh jualan di sini lagi. Ambil uang kamu lagi saya tidak <em>mau<\/em> terima.\n     Pasangan tuturan pada teks di atas adalah\u2026.\n     A. bertanya-menjawab\t\t C. mengusulkan-menerima     E. menawarkan-menerima\n     B. memerintah-mematuhi\t\t D. meminta-menerima\n9.   Cermati pernyataan-pernyataan khusus di bawah ini!\n      Bima menyukai tarian breakdance.\n      Arjuna menyukai tarian modern dance.\n      Jenis musik yang disukai Nakula adalah Rock.\n      Sadewa menyukai musik blues\n      Pernyataan umum yang tepat dari pernyataan khusus tersebut adalah\u2026.\n      A. Sadewa lebih tertarik dengan tarian dan musik dari luar\n      B. Remaja sekarang lebih tertarik dengan tarian dari luar.\n      C. Remaja sekarang menyukai tarian dan musik dari luar.\n      D. Arjuna <em>sangat<\/em> menyukai tarian dan musik dari luar.\n      E. Remaja sekarang lebih menyukai musik dari luar.",
+                        "snippet_content": "<em>Mau<\/em> beli apa?\n Pembeli: Ada patung garuda wisnu kencana?\n Penjual: Ada. <em>Mau<\/em> yang besar atau yang kecil?\n      Struktur yang <em>tampak<\/em> pada kutipan"
+                    },
+                    "responses": [
+                        {
+                            "id": 13079204,
+                            "user_id": 5085434,
+                            "task_id": 10777746,
+                            "points": 5,
+                            "created": "2017-05-25T12:26:54+07:00",
+                            "content": "1.e<br \/>2. c<br \/>3. c <br \/>4.c<br \/>5.b<br \/>7.e<br \/>8.a<br \/>9.c<br \/>semoga membantu, dengan catatan silakan baca lagi dan lebih dipahami maksud dari soalnya",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 13081049,
+                            "user_id": 5069923,
+                            "task_id": 10777746,
+                            "points": 5,
+                            "created": "2017-05-25T15:32:01+07:00",
+                            "content": "1.e :pengertian wayang kulit<br \/>2.c:5,2,1,4,3<br \/>3.c:orientasi dan permintaan\u00a0<br \/>4.b:baik pak saya mengucapkan terimakasih<br \/>5.e:putri meminta rina untuk membantunya mengambil\u00a0",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5085434,
+                                "nick": "MuhammadEdwin12",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d3b\/bc73ec0b3b525bf36141f406c86d6289.jpg"
+                            },
+                            {
+                                "id": 5069923,
+                                "nick": "PERMATAX",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dbf\/a4bb04d0379cefca01bedd6b44c3143a.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10667713,
+                        "subject_id": 1,
+                        "user_id": 4789101,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Tolong cari Orientasi, Komplikasi, Resolusi, dan Koda<br \/><br \/>\nTangkuban Perahu<br \/><br \/>\nPada suatu hari, seperti biasanya Sangkuriang pergi ke hutan untuk berburu. Setelah sesampainya di hutan, Sangkuriang mulai mencari buruan. Dia melihat ada seekor burung yang sedang bertengger di dahan, lalu tanpa berpikir panjang Sangkuriang langsung menembaknya, dan tepat mengenai sasaran. Sangkuriang lalu memerintah Tumang untuk mengejar buruannya tadi, tetapi si Tumang diam saja dan tidak mau mengikuti perintah Sangkuriang. Karena sangat jengkel pada Tumang, maka Sangkuriang lalu mengusir Tumang dan tidak diijinkan pulang ke rumah bersamanya lagi.<br \/><br \/>\nSesampainya di rumah, Sangkuriang menceritakan kejadian tersebut kepada ibunya. Begitu mendengar cerita dari anaknya, Dayang Sumbi sangat marah. Diambilnya sendok nasi, dan dipukulkan ke kepala Sangkuriang. Karena merasa kecewa dengan perlakuan ibunya, maka Sangkuriang memutuskan untuk pergi mengembara, dan meninggalkan rumahnya.<br \/><br \/>\nSetelah kejadian itu, Dayang Sumbi sangat menyesali perbuatannya. Ia berdoa setiap hari, dan meminta agar suatu hari dapat bertemu dengan anaknya kembali. Karena kesungguhan dari doa Dayang Sumbi tersebut, maka Dewa memberinya sebuah hadiah berupa kecantikan abadi dan usia muda selamanya.<br \/><br \/>\nSetelah bertahun-tahun lamanya Sangkuriang mengembara, akhirnya ia berniat untuk pulang ke kampung halamannya. Sesampainya di sana, dia sangat terkejut sekali, karena kampung halamannya sudah berubah total. Rasa senang Sangkuriang tersebut bertambah ketika saat di tengah jalan bertemu dengan seorang wanita yang sangat cantik jelita, yang tidak lain adalah Dayang Sumbi. Karena terpesona dengan kecantikan wanita tersebut, maka Sangkuriang langsung melamarnya. Akhirnya lamaran Sangkuriang diterima oleh Dayang Sumbi, dan sepakat akan menikah di waktu dekat. Pada suatu hari, Sangkuriang meminta ijin calon istrinya untuk berburu di hutan. Sebelum berangkat, ia meminta Dayang Sumbi untuk mengencangkan dan merapikan ikat kapalanya. Alangkah terkejutnya Dayang Sumbi, karena pada saat dia merapikan ikat kepala Sangkuriang, Ia melihat ada bekas luka. Bekas luka tersebut mirip dengan bekas luka anaknya. Setelah bertanya kepada Sangkuriang tentang penyebab lukanya itu, Dayang Sumbi bertambah tekejut, karena ternyata benar bahwa calon suaminya tersebut adalah anaknya sendiri.<br \/><br \/>\nDayang Sumbi sangat bingung sekali, karena dia tidak mungkin menikah dengan anaknya sendiri. Setelah Sangkuriang pulang berburu, Dayang Sumbi mencoba berbicara kepada Sangkuriang, supaya Sangkuriang membatalkan rencana pernikahan mereka. Permintaan Dayang Sumbi tersebut tidak disetujui Sangkuriang, dan hanya dianggap angin lalu saja.<br \/><br \/>\nSetiap hari Dayang Sumbi berpikir bagaimana cara agar pernikahan mereka tidak pernah terjadi. Setelah berpikir keras, akhirnya Dayang Sumbi menemukan cara terbaik. Dia mengajukan dua buah syarat kepada Sangkuriang. Apabila Sangkuriang dapat memenuhi kedua syarat tersebut, maka Dayang Sumbi mau dijadikan istri, tetapi sebaliknya jika gagal maka pernikahan itu akan dibatalkan. Syarat yang pertama Dayang Sumbi ingin supaya sungai Citarum dibendung. Dan yang kedua adalah, meminta Sangkuriang untuk membuat sampan yang sangat besar untuk menyeberang sungai. Kedua syarat itu harus diselesai sebelum fajar menyingsing.<br \/><br \/>\nSangkuriang menyanggupi kedua permintaan Dayang Sumbi tersebut, dan berjanji akan menyelesaikannya sebelum fajar menyingsing. Dengan kesaktian yang dimilikinya, Sangkuriang lalu mengerahkan teman-temannya dari bangsa jin untuk membantu menyelesaikan tugasnya tersebut. Diam-diam, Dayang Sumbi mengintip hasil kerja dari Sangkuriang. Betapa terkejutnya dia, karena Sangkuriang hampir menyelesaiklan semua syarat yang diberikan Dayang Sumbi sebelum fajar.<br \/><br \/>\nDayang Sumbi lalu meminta bantuan masyarakat sekitar untuk menggelar kain sutera berwarna merah di sebelah timur kota. Ketika melihat warna memerah di timur kota, Sangkuriang mengira kalau hari sudah menjelang pagi. Sangkuriang langsung menghentikan pekerjaannya dan merasa tidak dapat memenuhi syarat yang telah diajukan oleh Dayang Sumbi.<br \/><br \/>\nDengan rasa jengkel dan kecewa, Sangkuriang lalu menjebol bendungan yang telah dibuatnya sendiri. Karena jebolnya bendungan itu, maka terjadilah banjir dan seluruh kota terendam air. Sangkuriang juga menendang sampan besar yang telah dibuatnya. Sampan itu melayang dan jatuh tertelungkup, lalu menjadi sebuah gunung yang bernama Tangkuban Perahu.",
+                        "created": "2017-05-16T14:45:11+07:00",
+                        "responses": 1,
+                        "tickets": 4,
+                        "first_resp": "2017-05-21T13:05:37+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [
+                                {
+                                    "id": 7088206,
+                                    "user_id": 4789101,
+                                    "content": "tolong yaa",
+                                    "created": "2017-05-16T14:53:08+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                }
+                            ],
+                            "last_id": 0,
+                            "count": 1
+                        },
+                        "highlighted_content": "Tolong cari Orientasi, Komplikasi, Resolusi, dan Koda\nTangkuban Perahu\nPada suatu hari, seperti biasanya Sangkuriang pergi ke hutan untuk berburu. Setelah sesampainya di hutan, Sangkuriang mulai mencari buruan. Dia melihat ada seekor burung yang sedang bertengger di dahan, lalu tanpa berpikir panjang Sangkuriang langsung menembaknya, dan tepat mengenai sasaran. Sangkuriang lalu memerintah Tumang untuk mengejar buruannya tadi, tetapi si Tumang diam saja dan tidak <em>mau<\/em> mengikuti perintah Sangkuriang. Karena <em>sangat<\/em> jengkel pada Tumang, maka Sangkuriang lalu mengusir Tumang dan tidak diijinkan pulang ke rumah bersamanya lagi.\nSesampainya di rumah, Sangkuriang menceritakan kejadian tersebut kepada ibunya. Begitu mendengar cerita dari anaknya, Dayang Sumbi <em>sangat<\/em> marah. Diambilnya sendok nasi, dan dipukulkan ke kepala Sangkuriang. Karena merasa kecewa dengan perlakuan ibunya, maka Sangkuriang memutuskan untuk pergi mengembara, dan meninggalkan rumahnya.\nSetelah kejadian itu, Dayang Sumbi <em>sangat<\/em> menyesali perbuatannya. Ia berdoa setiap hari, dan meminta agar suatu hari dapat bertemu dengan anaknya kembali. Karena kesungguhan dari doa Dayang Sumbi tersebut, maka Dewa memberinya sebuah hadiah berupa kecantikan abadi dan usia muda selamanya.\nSetelah bertahun-tahun lamanya Sangkuriang mengembara, akhirnya ia berniat untuk pulang ke kampung halamannya. Sesampainya di sana, dia <em>sangat<\/em> terkejut sekali, karena kampung halamannya sudah berubah total. Rasa senang Sangkuriang tersebut bertambah ketika saat di tengah jalan bertemu dengan seorang wanita yang <em>sangat<\/em> cantik jelita, yang tidak lain adalah Dayang Sumbi. Karena terpesona dengan kecantikan wanita tersebut, maka Sangkuriang langsung melamarnya. Akhirnya lamaran Sangkuriang diterima oleh Dayang Sumbi, dan sepakat akan menikah di waktu dekat. Pada suatu hari, Sangkuriang meminta ijin calon istrinya untuk berburu di hutan. Sebelum berangkat, ia meminta Dayang Sumbi untuk mengencangkan dan merapikan ikat kapalanya. Alangkah terkejutnya Dayang Sumbi, karena pada saat dia merapikan ikat kepala Sangkuriang, Ia melihat ada bekas luka. Bekas luka tersebut mirip dengan bekas luka anaknya. Setelah bertanya kepada Sangkuriang tentang penyebab lukanya itu, Dayang Sumbi bertambah tekejut, karena ternyata benar bahwa calon suaminya tersebut adalah anaknya sendiri.\nDayang Sumbi <em>sangat<\/em> bingung sekali, karena dia tidak mungkin menikah dengan anaknya sendiri. Setelah Sangkuriang pulang berburu, Dayang Sumbi mencoba berbicara kepada Sangkuriang, supaya Sangkuriang membatalkan rencana pernikahan mereka. Permintaan Dayang Sumbi tersebut tidak disetujui Sangkuriang, dan hanya dianggap angin lalu saja.\nSetiap hari Dayang Sumbi berpikir bagaimana cara agar pernikahan mereka tidak pernah terjadi. Setelah berpikir keras, akhirnya Dayang Sumbi menemukan cara terbaik. Dia mengajukan dua buah syarat kepada Sangkuriang. Apabila Sangkuriang dapat memenuhi kedua syarat tersebut, maka Dayang Sumbi <em>mau<\/em> dijadikan istri, tetapi sebaliknya jika gagal maka pernikahan itu akan dibatalkan. Syarat yang pertama Dayang Sumbi ingin supaya sungai Citarum dibendung. Dan yang kedua adalah, meminta Sangkuriang untuk membuat <em>sampan<\/em> yang <em>sangat<\/em> besar untuk menyeberang sungai. Kedua syarat itu harus diselesai sebelum fajar menyingsing.\nSangkuriang menyanggupi kedua permintaan Dayang Sumbi tersebut, dan berjanji akan menyelesaikannya sebelum fajar menyingsing. Dengan kesaktian yang dimilikinya, Sangkuriang lalu mengerahkan teman-temannya dari bangsa jin untuk membantu menyelesaikan tugasnya tersebut. Diam-diam, Dayang Sumbi mengintip hasil kerja dari Sangkuriang. Betapa terkejutnya dia, karena Sangkuriang hampir menyelesaiklan semua syarat yang diberikan Dayang Sumbi sebelum fajar.\nDayang Sumbi lalu meminta bantuan masyarakat sekitar untuk menggelar kain sutera berwarna merah di sebelah timur kota. Ketika melihat warna memerah di timur kota, Sangkuriang mengira kalau hari sudah menjelang pagi. Sangkuriang langsung menghentikan pekerjaannya dan merasa tidak dapat memenuhi syarat yang telah diajukan oleh Dayang Sumbi.\nDengan rasa jengkel dan kecewa, Sangkuriang lalu menjebol bendungan yang telah dibuatnya sendiri. Karena jebolnya bendungan itu, maka terjadilah banjir dan seluruh kota terendam air. Sangkuriang juga menendang <em>sampan<\/em> besar yang telah dibuatnya. <em>Sampan<\/em> itu melayang dan jatuh tertelungkup, lalu menjadi sebuah gunung yang bernama Tangkuban Perahu.",
+                        "snippet_content": "untuk mengejar buruannya tadi, tetapi si Tumang diam saja dan tidak <em>mau<\/em> mengikuti perintah Sangkuriang. Karena <em>sangat<\/em> jengkel pada Tumang, maka Sangkuriang"
+                    },
+                    "responses": [
+                        {
+                            "id": 13016944,
+                            "user_id": 5055702,
+                            "task_id": 10667713,
+                            "points": 5,
+                            "created": "2017-05-21T13:05:37+07:00",
+                            "content": "-Orientasi : Pada suatu hari, seperti biasanya Sangkuriang pergi ke hutan untuk berburu. Setelah sesampainya di hutan, Sangkuriang mulai mencari buruan.<br \/><br \/>-Komplikasi : Dia melihat ada seekor burung yang sedang bertengger di dahan, lalu tanpa berpikir panjang Sangkuriang langsung menembaknya, dan tepat mengenai sasaran. Sangkuriang lalu memerintah Tumang untuk mengejar buruannya tadi, tetapi si Tumang diam saja dan tidak mau mengikuti perintah Sangkuriang. Karena sangat jengkel pada Tumang, maka Sangkuriang lalu mengusir Tumang dan tidak diijinkan pulang ke rumah bersamanya lagi.<br \/><br \/>Sesampainya di rumah, Sangkuriang menceritakan kejadian tersebut kepada ibunya. Begitu mendengar cerita dari anaknya, Dayang Sumbi sangat marah. Diambilnya sendok nasi, dan dipukulkan ke kepala Sangkuriang. Karena merasa kecewa dengan perlakuan ibunya, maka Sangkuriang memutuskan untuk pergi mengembara, dan meninggalkan rumahnya.<br \/><br \/>Setelah kejadian itu, Dayang Sumbi sangat menyesali perbuatannya. Ia berdoa setiap hari, dan meminta agar suatu hari dapat bertemu dengan anaknya kembali. Karena kesungguhan dari doa Dayang Sumbi tersebut, maka Dewa memberinya sebuah hadiah berupa kecantikan abadi dan usia muda selamanya.<br \/><br \/>Setelah bertahun-tahun lamanya Sangkuriang mengembara, akhirnya ia berniat untuk pulang ke kampung halamannya. Sesampainya di sana, dia sangat terkejut sekali, karena kampung halamannya sudah berubah total. Rasa senang Sangkuriang tersebut bertambah ketika saat di tengah jalan bertemu dengan seorang wanita yang sangat cantik jelita, yang tidak lain adalah Dayang Sumbi. Karena terpesona dengan kecantikan wanita tersebut, maka Sangkuriang langsung melamarnya. Akhirnya lamaran Sangkuriang diterima oleh Dayang Sumbi, dan sepakat akan menikah di waktu dekat. Pada suatu hari, Sangkuriang meminta ijin calon istrinya untuk berburu di hutan. Sebelum berangkat, ia meminta Dayang Sumbi untuk mengencangkan dan merapikan ikat kapalanya. Alangkah terkejutnya Dayang Sumbi, karena pada saat dia merapikan ikat kepala Sangkuriang, Ia melihat ada bekas luka. Bekas luka tersebut mirip dengan bekas luka anaknya. Setelah bertanya kepada Sangkuriang tentang penyebab lukanya itu, Dayang Sumbi bertambah tekejut, karena ternyata benar bahwa calon suaminya tersebut adalah anaknya sendiri.<br \/><br \/>Dayang Sumbi sangat bingung sekali, karena dia tidak mungkin menikah dengan anaknya sendiri. Setelah Sangkuriang pulang berburu, Dayang Sumbi mencoba berbicara kepada Sangkuriang, supaya Sangkuriang membatalkan rencana pernikahan mereka. Permintaan Dayang Sumbi tersebut tidak disetujui Sangkuriang, dan hanya dianggap angin lalu saja.<br \/><br \/>Setiap hari Dayang Sumbi berpikir bagaimana cara agar pernikahan mereka tidak pernah terjadi. Setelah berpikir keras, akhirnya Dayang Sumbi menemukan cara terbaik. Dia mengajukan dua buah syarat kepada Sangkuriang. Apabila Sangkuriang dapat memenuhi kedua syarat tersebut, maka Dayang Sumbi mau dijadikan istri, tetapi sebaliknya jika gagal maka pernikahan itu akan dibatalkan. Syarat yang pertama Dayang Sumbi ingin supaya sungai Citarum dibendung. Dan yang kedua adalah, meminta Sangkuriang untuk membuat sampan yang sangat besar untuk menyeberang sungai. Kedua syarat itu harus diselesai sebelum fajar menyingsing.<br \/><br \/>-Resolusi : <br \/>Sangkuriang menyanggupi kedua permintaan Dayang Sumbi tersebut, dan berjanji akan menyelesaikannya sebelum fajar menyingsing. Dengan kesaktian yang dimilikinya, Sangkuriang lalu mengerahkan teman-temannya dari bangsa jin untuk membantu menyelesaikan tugasnya tersebut. Diam-diam, Dayang Sumbi mengintip hasil kerja dari Sangkuriang. Betapa terkejutnya dia, karena Sangkuriang hampir menyelesaiklan semua syarat yang diberikan Dayang Sumbi sebelum fajar.<br \/><br \/>Dayang Sumbi lalu meminta bantuan masyarakat sekitar untuk menggelar kain sutera berwarna merah di sebelah timur kota. Ketika melihat warna memerah di timur kota, Sangkuriang mengira kalau hari sudah menjelang pagi. Sangkuriang langsung menghentikan pekerjaannya dan merasa tidak dapat memenuhi syarat yang telah diajukan oleh Dayang Sumbi.<br \/><br \/>-Koda : Dengan rasa jengkel dan kecewa, Sangkuriang lalu menjebol bendungan yang telah dibuatnya sendiri. Karena jebolnya bendungan itu, maka terjadilah banjir dan seluruh kota terendam air. Sangkuriang juga menendang sampan besar yang telah dibuatnya. Sampan itu melayang dan jatuh tertelungkup, lalu menjadi sebuah gunung yang bernama Tangkuban Perahu.<br \/><br \/>Atau Lebih Singkat Nya <br \/>-Orientasi (Paragraf 1)<br \/>-Komplikasi (Paragraf 2-7)<br \/>-Resolusi (Paragraf 8-9)<br \/>-Koda (Paragraf 10)<br \/><br \/>Semoga Membantu",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 2,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5055702,
+                                "nick": "RaihanFadillah11",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dab\/625a29c8e4b5ab7bf52ffc7e3a62a1df.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 8,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 5087379,
+            "nick": "dhis6477",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 5084615,
+            "nick": "Ananda563",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 164,
+                "comments": 9
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc8\/046c40f8d5b5f87277cb1df34f381eab.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dad\/cf4a6955b736bdd16cfb0461e63da146.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc8\/046c40f8d5b5f87277cb1df34f381eab.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dad\/cf4a6955b736bdd16cfb0461e63da146.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 5038838,
+            "nick": "sidqifikriilham",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 96,
+                "comments": 17
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d44\/96e4d2e52e99f4f8ec2f4ebce5ca11ef.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d78\/a4c7ce2123fd8879fafd982962daee96.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d44\/96e4d2e52e99f4f8ec2f4ebce5ca11ef.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d78\/a4c7ce2123fd8879fafd982962daee96.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 4383135,
+            "nick": "03chubby",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 6,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4901617,
+            "nick": "ningsih80",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 54,
+                "answers": 421,
+                "comments": 153
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d75\/f1771028d4d445516e90c53b8220b902.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6a\/f4460059ba283a36e763514e5a2a96f2.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d75\/f1771028d4d445516e90c53b8220b902.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6a\/f4460059ba283a36e763514e5a2a96f2.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 5034429,
+            "nick": "ecaesternesia",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 94,
+                "comments": 78
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/ded\/c2be66ec90a9fd0bf974a64bce2f688c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d0d\/4360212500640d101bb6b1a457b69448.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/ded\/c2be66ec90a9fd0bf974a64bce2f688c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d0d\/4360212500640d101bb6b1a457b69448.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 2848069,
+            "nick": "A3sr0ihasabriani",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d00\/5f104ba31dc8b063052dce526e32bce8.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7f\/c117996d1b215f9cb1871916e7bbda6b.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d00\/5f104ba31dc8b063052dce526e32bce8.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7f\/c117996d1b215f9cb1871916e7bbda6b.png"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 5034443,
+            "nick": "renika2004",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 10,
+                "answers": 14,
+                "comments": 5
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de3\/b39ee9d2dfe80324f7ec117030dae5eb.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/daf\/6f2a1ac14f359fc24eb11a8c19625ab6.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de3\/b39ee9d2dfe80324f7ec117030dae5eb.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/daf\/6f2a1ac14f359fc24eb11a8c19625ab6.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 3038879,
+            "nick": "ZelliciaAvera",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 81,
+                "answers": 58,
+                "comments": 40
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d90\/a9796d98bb7750718e7656633de46a56.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d62\/b34637fe3382324c4c99d6de2ed688eb.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d90\/a9796d98bb7750718e7656633de46a56.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d62\/b34637fe3382324c4c99d6de2ed688eb.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 117080,
+            "nick": "umaimahazzahrah",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 26,
+                "answers": 3150,
+                "comments": 928
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d49\/e224c79ec8ebe9c5b777a6d849d88ef5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc0\/b74cf22baf05a0f62e08596720e7a529.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d49\/e224c79ec8ebe9c5b777a6d849d88ef5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc0\/b74cf22baf05a0f62e08596720e7a529.jpg"
+            },
+            "ranks": {
+                "color": "#ffbe32",
+                "names": [
+                    "Junior",
+                    "KsatriaBrainly",
+                    "BrainlyBlogger",
+                    "Mentor",
+                    "Moderator",
+                    "Jenius"
+                ],
+                "count": 6
+            },
+            "ranks_ids": [
+                15,
+                23,
+                84,
+                51,
+                19,
+                7
+            ]
+        },
+        {
+            "id": 4901941,
+            "nick": "FelixBenaya21",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 73,
+                "answers": 77,
+                "comments": 13
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de3\/79be5d909c9253265fff6c8be7ce144b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/deb\/251e2d88ec646b78948bcaa989b77657.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de3\/79be5d909c9253265fff6c8be7ce144b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/deb\/251e2d88ec646b78948bcaa989b77657.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 5037292,
+            "nick": "itsdekom",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 113,
+                "comments": 50
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d62\/209694496b0a32ec25cface25cad22b3.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd9\/6eadc5660f6e59b684abe1d8a6a3ce13.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d62\/209694496b0a32ec25cface25cad22b3.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd9\/6eadc5660f6e59b684abe1d8a6a3ce13.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 5040366,
+            "nick": "Zahraniindah",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 74,
+                "comments": 21
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dca\/39cc689db11bcab55332840fcec6b3b2.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d02\/845034173e9fa22f927c6af4817855fb.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dca\/39cc689db11bcab55332840fcec6b3b2.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d02\/845034173e9fa22f927c6af4817855fb.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 1586910,
+            "nick": "muhammadabdiilhami",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d08\/64b0be966e1f28b8f789b89a83bcdde3.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/deb\/abaef444afc59b3149fe8708d47e9fe5.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d08\/64b0be966e1f28b8f789b89a83bcdde3.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/deb\/abaef444afc59b3149fe8708d47e9fe5.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 5142223,
+            "nick": "ChanifHana",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 9,
+                "comments": 5
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d93\/d789119438ee43d8e5a90e275c50879a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d9f\/a589fa44c8100fc6adf1ecf5da15539c.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d93\/d789119438ee43d8e5a90e275c50879a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d9f\/a589fa44c8100fc6adf1ecf5da15539c.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 3313146,
+            "nick": "gilangmhdhatta",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 0,
+                "comments": 1
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 5085434,
+            "nick": "MuhammadEdwin12",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 91,
+                "comments": 5
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d8e\/34684e4628651e1312c3096a2bdaf269.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d3b\/bc73ec0b3b525bf36141f406c86d6289.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d8e\/34684e4628651e1312c3096a2bdaf269.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d3b\/bc73ec0b3b525bf36141f406c86d6289.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 5069923,
+            "nick": "PERMATAX",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 18,
+                "comments": 3
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc7\/fb9c8e6ea4c9677f71abbc78818aa6da.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dbf\/a4bb04d0379cefca01bedd6b44c3143a.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc7\/fb9c8e6ea4c9677f71abbc78818aa6da.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dbf\/a4bb04d0379cefca01bedd6b44c3143a.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4789101,
+            "nick": "iramutiahandaya1",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 8,
+                "answers": 0,
+                "comments": 7
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/daa\/2bfa595912801a043a884e27b3b74066.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d73\/0d07602daff63355967808500e19c21b.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/daa\/2bfa595912801a043a884e27b3b74066.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d73\/0d07602daff63355967808500e19c21b.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 5055702,
+            "nick": "RaihanFadillah11",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 10,
+                "comments": 1
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d29\/a3b229b3f83c295f333417b74e89ff95.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dab\/625a29c8e4b5ab7bf52ffc7e3a62a1df.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d29\/a3b229b3f83c295f333417b74e89ff95.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dab\/625a29c8e4b5ab7bf52ffc7e3a62a1df.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        }
+    ],
+    "validated": false
+}

@@ -1,0 +1,3313 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 767411,
+                        "subject_id": 15,
+                        "user_id": 513402,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "apa itu cerita rakyat chin chin kobakama?",
+                        "created": "2014-09-21T11:10:14+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2014-09-21T22:38:10+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "apa itu cerita rakyat <em>chin<\/em> <em>chin<\/em> kobakama?",
+                        "snippet_content": "apa itu cerita rakyat <em>chin<\/em> <em>chin<\/em> kobakama?"
+                    },
+                    "responses": [
+                        {
+                            "id": 1004651,
+                            "user_id": 521552,
+                            "task_id": 767411,
+                            "points": 5,
+                            "created": "2014-09-21T22:38:10+07:00",
+                            "content": "cerita anak\/ cerita rakyat yang menceritakan seorang istri yang malas<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2015-08-24T17:58:51+07:00",
+                                "approver": {
+                                    "id": 288144,
+                                    "nickname": "adeevaAbqari",
+                                    "points": 174797,
+                                    "grade": 3,
+                                    "gender": 1,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/d10\/9b7107f0bd2e50b4cf91638d0cc683eb.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/db2\/72bbe55ffcf6323827368889f3642a91.png"
+                                    },
+                                    "content_approved_count": 22052
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 521552,
+                                "nick": "mother",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d66\/33f65cf07b5e7699663e94a0fddf49bb.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 1338499,
+                        "subject_id": 10,
+                        "user_id": 820752,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "alasan teori imigrasi nenek moyang indonesia dari  campa,kochin china, kamboja?",
+                        "created": "2014-11-04T21:52:00+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2014-11-04T21:55:13+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "alasan teori imigrasi nenek moyang indonesia dari  campa,<em>kochin<\/em> <em>chin<\/em>a, kamboja?",
+                        "snippet_content": "alasan teori imigrasi nenek moyang indonesia dari  campa,<em>kochin<\/em> <em>chin<\/em>a, kamboja?"
+                    },
+                    "responses": [
+                        {
+                            "id": 1711415,
+                            "user_id": 820943,
+                            "task_id": 1338499,
+                            "points": 5,
+                            "created": "2014-11-04T21:55:13+07:00",
+                            "content": "karena fenomena alam yang belum stabil<br \/>",
+                            "mark": 2,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 1177688,
+                                        "user_id": 820752,
+                                        "content": "terima kasih kak",
+                                        "created": "2014-11-04T22:06:44+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 1177711,
+                                        "user_id": 820943,
+                                        "content": "oke sama-sama",
+                                        "created": "2014-11-04T22:07:52+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 2
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 820943,
+                                "nick": "dindakmdt",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/db1\/b26bf66dc59401c4b4fdfab00b8c9699.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10767115,
+                        "subject_id": 3,
+                        "user_id": 5080725,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Tsailum adalah tokoh penemu kertas. dia hidup pada dinasti<br \/>\na.chin<br \/>\nb.chou<br \/>\nc.shang<br \/>\nd.han<br \/>\ne.hsin",
+                        "created": "2017-05-23T19:48:00+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-05-23T19:49:26+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Tsailum adalah tokoh penemu kertas. dia hidup pada dinasti\n<em>a.chin<\/em>\nb.chou\nc.shang\nd.han\ne.hsin",
+                        "snippet_content": "Tsailum adalah tokoh penemu kertas. dia hidup pada dinasti\n<em>a.chin<\/em>\nb.chou\nc.shang\nd.han\ne.hsin"
+                    },
+                    "responses": [
+                        {
+                            "id": 13061049,
+                            "user_id": 5081862,
+                            "task_id": 10767115,
+                            "points": 5,
+                            "created": "2017-05-23T19:49:26+07:00",
+                            "content": "Dia hidup pada dinasti Han. Jawabannya D. Han",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5081862,
+                                "nick": "nicolassibarani",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d09\/7260578cf756f91a1cbfd3603e94954d.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 1892234,
+                        "subject_id": 5,
+                        "user_id": 1086538,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Rinto ...... is short and straight<br \/>\nA.tongue<br \/>\nB.mouth<br \/>\nC.hair<br \/>\nD.chin<br \/>\n(jawabanya di abc an yang betul yah.....)",
+                        "created": "2015-01-22T15:19:22+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2015-01-22T15:20:20+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [
+                                {
+                                    "id": 1596019,
+                                    "user_id": 1092026,
+                                    "content": "C. Hair",
+                                    "created": "2015-01-22T15:20:43+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                }
+                            ],
+                            "last_id": 0,
+                            "count": 1
+                        },
+                        "highlighted_content": "Rinto ...... is short and straight\nA.tongue\nB.mouth\nC.hair\n<em>D.chin<\/em>\n(jawabanya di abc an yang betul yah.....)",
+                        "snippet_content": "Rinto ...... is short and straight\nA.tongue\nB.mouth\nC.hair\n<em>D.chin<\/em>\n(jawabanya di abc an yang betul yah.....)"
+                    },
+                    "responses": [
+                        {
+                            "id": 2424859,
+                            "user_id": 1088026,
+                            "task_id": 1892234,
+                            "points": 5,
+                            "created": "2015-01-22T15:20:20+07:00",
+                            "content": "jawaban nya adalah C",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 1596042,
+                                        "user_id": 1086538,
+                                        "content": "kalo boleh tau artinya apa?",
+                                        "created": "2015-01-22T15:22:54+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 1596054,
+                                        "user_id": 1088026,
+                                        "content": "rambut rinto pendek dan lurus",
+                                        "created": "2015-01-22T15:24:13+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 2
+                            }
+                        },
+                        {
+                            "id": 2424864,
+                            "user_id": 1045019,
+                            "task_id": 1892234,
+                            "points": 5,
+                            "created": "2015-01-22T15:20:53+07:00",
+                            "content": "rinto hair is short and straight<br \/>C. hair",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1088026,
+                                "nick": "williamrinaldy",
+                                "avatar": null
+                            },
+                            {
+                                "id": 1045019,
+                                "nick": "AbdillahThoha",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10569879,
+                        "subject_id": 3,
+                        "user_id": 3539349,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Bangsa Cina kuno mencapai puncak kejayaan pada masa dinasti..<br \/>\na.Chou<br \/>\nb.Chin<br \/>\nc.Han<br \/>\nd.Tang<br \/>\ne.Sung",
+                        "created": "2017-05-08T19:02:13+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2017-05-08T19:02:45+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Bangsa Cina kuno mencapai puncak kejayaan pada masa dinasti..\na.Chou\n<em>b.Chin<\/em>\nc.Han\nd.Tang\ne.Sung",
+                        "snippet_content": "Bangsa Cina kuno mencapai puncak kejayaan pada masa dinasti..\na.Chou\n<em>b.Chin<\/em>\nc.Han\nd.Tang\ne.Sung"
+                    },
+                    "responses": [
+                        {
+                            "id": 12795092,
+                            "user_id": 5000522,
+                            "task_id": 10569879,
+                            "points": 5,
+                            "created": "2017-05-08T19:02:45+07:00",
+                            "content": "Jawabannya d.Tang<br \/>maaf klw salah",
+                            "mark": 4,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5000522,
+                                "nick": "N\u00e3fisKun",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d38\/ccd3b210cedca8ad78d359248e2a341a.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 5989155,
+                        "subject_id": 14,
+                        "user_id": 2987337,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "prof. hendrik kern berpendapat bahwa asal usul bangsa indonesia adalah dari champa,cochin china, dan kamboja.pendapat kern itu didasarkan pada",
+                        "created": "2016-05-03T16:00:07+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2016-05-03T20:48:27+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "prof. hendrik kern berpendapat bahwa asal usul bangsa indonesia adalah dari champa,<em>cochin<\/em> <em>chin<\/em>a, dan kamboja.pendapat kern itu didasarkan pada",
+                        "snippet_content": "prof. hendrik kern berpendapat bahwa asal usul bangsa indonesia adalah dari champa,<em>cochin<\/em> <em>chin<\/em>a, dan kamboja.pendapat kern itu didasarkan pada"
+                    },
+                    "responses": [
+                        {
+                            "id": 7126670,
+                            "user_id": 2106388,
+                            "task_id": 5989155,
+                            "points": 5,
+                            "created": "2016-05-03T20:48:27+07:00",
+                            "content": "didasarkan atas hasil penelitian yang ia lakukan , terhadap bangsa indonesia .",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2106388,
+                                "nick": "wirel",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 395616,
+                        "subject_id": 15,
+                        "user_id": 274011,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 40,
+                            "ptsForResp": 20,
+                            "ptsForBest": 10
+                        },
+                        "content": "Apa latar belakang, tinjauan budaya, dan nilai-nilai yang terkandung di cerita rakyat Jepang \"Chin Chin Kobakama\"?<br \/>",
+                        "created": "2014-08-20T16:35:14+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2014-08-20T21:03:02+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Apa latar belakang, tinjauan budaya, dan nilai-nilai yang terkandung di cerita rakyat Jepang \"<em>Chin<\/em> <em>Chin<\/em> Kobakama\"?",
+                        "snippet_content": "Apa latar belakang, tinjauan budaya, dan nilai-nilai yang terkandung di cerita rakyat Jepang \"<em>Chin<\/em> <em>Chin<\/em> Kobakama\"?"
+                    },
+                    "responses": [
+                        {
+                            "id": 576304,
+                            "user_id": 271442,
+                            "task_id": 395616,
+                            "points": 20,
+                            "created": "2014-08-20T21:03:02+07:00",
+                            "content": "&gt;_&lt; sory yach aku nggak bisa jawab",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 576615,
+                            "user_id": 122815,
+                            "task_id": 395616,
+                            "points": 20,
+                            "created": "2014-08-20T21:17:08+07:00",
+                            "content": "latar belakang dari cerita ini untuk mendidik anak2 agar selalu ersih2. Tinjauan budayanya aku gk ngerti. Pesannya janganlah kamu membuang benda sembarangan",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 271442,
+                                "nick": "1367",
+                                "avatar": null
+                            },
+                            {
+                                "id": 122815,
+                                "nick": "BlackRose",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d8f\/61581c91f167dff35947f2aaf68381f9.bmp"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 4813932,
+                        "subject_id": 5,
+                        "user_id": 2462996,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Tolong terjemahin yaa kedalam bhs indonesia , But Mr wolf came there too. He said, \" let me in , let me in, little pigs! Or I'II huff and I'II  puff and blow your house in. \" not by the hair of my chinny chin chin, \" said the second little pig . so the wolf huffed and he puffed and the house of sticks came tumbling down. ",
+                        "created": "2016-01-17T16:51:28+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2016-01-17T16:53:59+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Tolong terjemahin yaa kedalam bhs indonesia , But Mr wolf came there too. He said, \" let me in , let me in, little pigs! Or I'II huff and I'II  puff and blow your house in. \" not by the hair of my <em>chin<\/em>ny <em>chin<\/em> <em>chin<\/em>, \" said the second little pig . so the wolf huffed and he puffed and the house of sticks came tumbling down. ",
+                        "snippet_content": "and blow your house in. \" not by the hair of my <em>chin<\/em>ny <em>chin<\/em> <em>chin<\/em>, \" said the second little pig . so the wolf"
+                    },
+                    "responses": [
+                        {
+                            "id": 5723022,
+                            "user_id": 469105,
+                            "task_id": 4813932,
+                            "points": 5,
+                            "created": "2016-01-17T16:53:59+07:00",
+                            "content": "<span>Tapi Mr. Serigala datang ke sana juga. Dia mengatakan, \"biarkan aku masuk, biarkan aku masuk, babi kecil! Atau aku akan gusar dan saya akan engah dan<br \/> meniup rumah Anda di. \"bukan oleh rambut chinny dagu dagu saya,\" kata babi kecil kedua. sehingga serigala gusar dan ia sombong dan rumah tongkat datang runtuh<span>.<\/span><\/span><br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 5723071,
+                            "user_id": 2472508,
+                            "task_id": 4813932,
+                            "points": 5,
+                            "created": "2016-01-17T16:57:46+07:00",
+                            "content": "Tetapi Pak Wolf datang kesini pula! Dia berkata \"biarkanlah saya masuk, Biarkanlah saya masuk para babi yang kecil! Kalau tidak saya akan menghembus dan hembus dan merobohkan rumahmu!\" \"Tidak! Tidak dengan rambut dagu saya!\" kata babi kecil kedua. Lalu serigala itu hembus dan hembus dan rumah kayu tersebut perlahan-lahan roboh.",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 469105,
+                                "nick": "andini2002",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dcb\/9f9ca92c6147bb1fe1a2da6a360bae97.jpg"
+                            },
+                            {
+                                "id": 2472508,
+                                "nick": "JollyFrankle",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d21\/b4725771e3eab1c399d6b23eb5a57c7e.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10140707,
+                        "subject_id": 10,
+                        "user_id": 4827717,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 14,
+                            "ptsForResp": 7,
+                            "ptsForBest": 4
+                        },
+                        "content": "Sumber sejarah yang dapat memberi petunjuk bahwa Islam di Indonesia mula-mula dari gurajat adalah<br \/>\nA.banyak keturunan india di indonesia<br \/>\nB.berdasarkan batu nisan di indonesia<br \/>\nC.corak budaya islam berasal dari india<br \/>\nD.raja\u00b2 islam di indonesia keturunan india<br \/>\nDua diantara Walisongo yang dikenal sebagai bapaknya para wali adalah a.Sunan Giri <br \/>\nb.Sunan Kudus <br \/>\nc.Sunan Ampel <br \/>\nd.Sunan Muria <br \/>\n3.Berita Cina yang mengundang menginformasikan bahwa ada orang-orang ta sih yang mengurungkan niatnya menyerahkan Holing berasal dari catatan Dinasti.. <br \/>\nA.Tang B.chin C.Han D.Ming <br \/>\n4.pendapat bahwa Islam masuk Indonesia pada abad ke-7 didasari pada bukti<br \/>\nA.nisan Fatimah binti Maimun <br \/>\nB.nisan Sultan Malik Al Saleh <br \/>\nC. kisah perjalanan Marcopolo <br \/>\nD.Berita Cina tentang perkembangan Arab di Indonesia lima pada tahap awal Saluran islamisasi yang digunakan dalam penyebaran Islam adalah A.berdagangan dan perkawinan B.pendidikan dan kesenian C.perdagangan dan kolonialisasi D.dekolonialisasi dan pendidikan<br \/>\nTolong yaa",
+                        "created": "2017-04-04T21:18:30+07:00",
+                        "responses": 2,
+                        "tickets": 4,
+                        "first_resp": "2017-04-04T21:24:15+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "6",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Sumber sejarah yang dapat memberi petunjuk bahwa Islam di Indonesia mula-mula dari gurajat adalah\nA.banyak keturunan india di indonesia\nB.berdasarkan batu nisan di indonesia\nC.corak budaya islam berasal dari india\nD.raja\u00b2 islam di indonesia keturunan india\nDua diantara Walisongo yang dikenal sebagai bapaknya para wali adalah a.Sunan Giri \nb.Sunan Kudus \nc.Sunan Ampel \nd.Sunan Muria \n3.Berita Cina yang mengundang menginformasikan bahwa ada orang-orang ta sih yang mengurungkan niatnya menyerahkan Holing berasal dari catatan Dinasti.. \nA.Tang <em>B.chin<\/em> C.Han D.Ming \n4.pendapat bahwa Islam masuk Indonesia pada abad ke-7 didasari pada bukti\nA.nisan Fatimah binti Maimun \nB.nisan Sultan Malik Al Saleh \nC. kisah perjalanan Marcopolo \nD.Berita Cina tentang perkembangan Arab di Indonesia lima pada tahap awal Saluran islamisasi yang digunakan dalam penyebaran Islam adalah A.berdagangan dan perkawinan B.pendidikan dan kesenian C.perdagangan dan kolonialisasi D.dekolonialisasi dan pendidikan\nTolong yaa",
+                        "snippet_content": "yang mengurungkan niatnya menyerahkan Holing berasal dari catatan Dinasti.. \nA.Tang <em>B.chin<\/em> C.Han D.Ming \n4.pendapat bahwa Islam masuk"
+                    },
+                    "responses": [
+                        {
+                            "id": 12208629,
+                            "user_id": 4775529,
+                            "task_id": 10140707,
+                            "points": 7,
+                            "created": "2017-04-04T21:24:15+07:00",
+                            "content": "1. b(berdasarkan penemuan batu nisan di indonesia)<br \/>4.b<br \/>5.a<br \/>",
+                            "mark": 3,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 6633879,
+                                        "user_id": 4827717,
+                                        "content": "Tolong jawab nomer yg lainnya juga yaa mksh..",
+                                        "created": "2017-04-04T21:24:53+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        },
+                        {
+                            "id": 12208686,
+                            "user_id": 4828942,
+                            "task_id": 10140707,
+                            "points": 7,
+                            "created": "2017-04-04T21:25:35+07:00",
+                            "content": "(3) A. Tang<br \/>(5) A. perdagangan dan perkawinan",
+                            "mark": 4,
+                            "marks_count": 1,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 6633961,
+                                        "user_id": 4827717,
+                                        "content": "Terima kasih",
+                                        "created": "2017-04-04T21:29:03+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 6634200,
+                                        "user_id": 4828942,
+                                        "content": "sama-sama",
+                                        "created": "2017-04-04T21:39:26+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 6634223,
+                                        "user_id": 4828942,
+                                        "content": "tapi maaf ya aku cuma 2 aja tau",
+                                        "created": "2017-04-04T21:40:39+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 6634294,
+                                        "user_id": 4827717,
+                                        "content": "Iya gpp",
+                                        "created": "2017-04-04T21:44:24+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 4
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4775529,
+                                "nick": "Irnisembiring2001",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d26\/98e2ea52855046049407dbcf5a953f75.jpg"
+                            },
+                            {
+                                "id": 4828942,
+                                "nick": "Tina2946",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dc6\/5f1ce5fa1acc463218a162c875f8885b.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 2809385,
+                        "subject_id": 3,
+                        "user_id": 1520647,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 20,
+                            "ptsForResp": 10,
+                            "ptsForBest": 5
+                        },
+                        "content": "1. Peradaban lembah sungai mekong pada mulanya merupakan kebudayaan...<br \/>\n    a. batu tua    b. logam   c. neolitikum   d. paleolitikum   e. mesolitikum<br \/>\n2. Pada masa Cina Kuno,muncul tokoh\u00b2 filsafat terkenal seperti Kong Fu Tse, Mo Ti, dan Lao Tse. Tokoh\u00b2 filsafat ini muncul pada masa dinasti...<br \/>\n    a. Chin   b. Chou   c. Han   d. Shang   e. Tang<br \/>\n3. Dilihat dari segi PEMERINTAHAN Cina, maka dinasti yang pertama adalah...<br \/>\n    a. Shang  b.  Hsin  c. Chou  d. Chin  e. Tang<br \/>",
+                        "created": "2015-06-02T11:09:02+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2015-06-02T11:21:14+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "1. Peradaban lembah sungai mekong pada mulanya merupakan kebudayaan...\n    a. batu tua    b. logam   c. neolitikum   d. paleolitikum   e. mesolitikum\n2. Pada masa Cina Kuno,muncul tokoh\u00b2 filsafat terkenal seperti Kong Fu Tse, Mo Ti, dan Lao Tse. Tokoh\u00b2 filsafat ini muncul pada masa dinasti...\n    a. <em>Chin<\/em>   b. Chou   c. Han   d. Shang   e. Tang\n3. Dilihat dari segi PEMERINTAHAN Cina, maka dinasti yang pertama adalah...\n    a. Shang  b.  Hsin  c. Chou  d. <em>Chin<\/em>  e. Tang",
+                        "snippet_content": "dan Lao Tse. Tokoh\u00b2 filsafat ini muncul pada masa dinasti...\n    a. <em>Chin<\/em>   b. Chou   c. Han   d. Shang   e. Tang\n3. Dilihat"
+                    },
+                    "responses": [
+                        {
+                            "id": 3588585,
+                            "user_id": 689398,
+                            "task_id": 2809385,
+                            "points": 10,
+                            "created": "2015-06-02T11:21:14+07:00",
+                            "content": "1.c<br \/>2.1<br \/>3.e<br \/><br \/>maaf kalo salah",
+                            "mark": 1,
+                            "marks_count": 2,
+                            "thanks": 4,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 3589561,
+                            "user_id": 1428117,
+                            "task_id": 2809385,
+                            "points": 10,
+                            "created": "2015-06-02T13:10:29+07:00",
+                            "content": "1.c<br \/>2.1<br \/>3.e<br \/><br \/>maaf kalo salah ya",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 3,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 689398,
+                                "nick": "anadadang89",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d18\/363195b54adda80db1b1754afe55c9a8.jpg"
+                            },
+                            {
+                                "id": 1428117,
+                                "nick": "widyaratnacantik",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/da2\/8aeab59a99b842695aa3f8c6ab536d6d.png"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 9348270,
+                        "subject_id": 10,
+                        "user_id": 4520533,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "prof. Kern berpendapat bahwa asal-usul bangsa Indonesia adalah dari Champa, Cochin Cina dan Kamboja. Pendapat prof. Kern itu didasarkan atas ...<br \/>\na. kesamaan fisik<br \/>\nb. kesamaan bahasa<br \/>\nc. kesamaan sistem keuangan<br \/>\nd. kesamaan peralatan pertanian yang dipergunakan",
+                        "created": "2017-02-09T09:47:33+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-02-09T09:50:59+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "prof. Kern berpendapat bahwa asal-usul bangsa Indonesia adalah dari Champa, <em>Cochin<\/em> <em>Cin<\/em>a dan Kamboja. Pendapat prof. Kern itu didasarkan atas ...\na. kesamaan fisik\nb. kesamaan bahasa\nc. kesamaan sistem keuangan\nd. kesamaan peralatan pertanian yang dipergunakan",
+                        "snippet_content": "prof. Kern berpendapat bahwa asal-usul bangsa Indonesia adalah dari Champa, <em>Cochin<\/em> <em>Cin<\/em>a dan Kamboja. Pendapat prof. Kern itu didasarkan atas ...\na"
+                    },
+                    "responses": [
+                        {
+                            "id": 11170373,
+                            "user_id": 3379046,
+                            "task_id": 9348270,
+                            "points": 5,
+                            "created": "2017-02-09T09:50:59+07:00",
+                            "content": "a.kesamaan fisik<br \/>semoga membantu:)",
+                            "mark": 1,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3379046,
+                                "nick": "fernandohansome",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/ddc\/2fad02c7563ebc85b051d2c1d6e3f9c5.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 836750,
+                        "subject_id": 3,
+                        "user_id": 554623,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "prof. Kern berpendapat bahwa asal-usul bangsa Indonesia adalah dari Champa, Cochin Cina dan Kamboja. Pendapat prof. Kern itu didasarkan atas ...<br \/><br \/>\na. kesamaan fisik<br \/>\nb. kesamaan bahasa<br \/>\nc. kesamaan sistem keuangan<br \/>\nd. kesamaan peralatan pertanian yang dipergunakan",
+                        "created": "2014-09-25T15:17:33+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2014-09-25T15:19:25+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "prof. Kern berpendapat bahwa asal-usul bangsa Indonesia adalah dari Champa, <em>Cochin<\/em> <em>Cin<\/em>a dan Kamboja. Pendapat prof. Kern itu didasarkan atas ...\na. kesamaan fisik\nb. kesamaan bahasa\nc. kesamaan sistem keuangan\nd. kesamaan peralatan pertanian yang dipergunakan",
+                        "snippet_content": "prof. Kern berpendapat bahwa asal-usul bangsa Indonesia adalah dari Champa, <em>Cochin<\/em> <em>Cin<\/em>a dan Kamboja. Pendapat prof. Kern itu didasarkan atas ...\na"
+                    },
+                    "responses": [
+                        {
+                            "id": 1073617,
+                            "user_id": 172344,
+                            "task_id": 836750,
+                            "points": 5,
+                            "created": "2014-09-25T15:19:25+07:00",
+                            "content": "\u00a0B. Kesamaan bahasa<br \/><br \/>Semoga membantu... <br \/>",
+                            "mark": 4,
+                            "marks_count": 2,
+                            "thanks": 7,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 775101,
+                                        "user_id": 172344,
+                                        "content": "jadikan yang terbaik pliss",
+                                        "created": "2014-09-25T15:19:59+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 775111,
+                                        "user_id": 554623,
+                                        "content": "emangnya dulu sudah mengenal bahasa ?",
+                                        "created": "2014-09-25T15:20:46+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 775169,
+                                        "user_id": 172344,
+                                        "content": "iya... seperti kata \"Kampong\" yang banyak dipakai sebagai kata tempat di kamboja",
+                                        "created": "2014-09-25T15:25:47+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 6547038,
+                                        "user_id": 4789472,
+                                        "content": "Jawaban dia benar yaitu kesamaan bahasa",
+                                        "created": "2017-03-27T20:54:13+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 4
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 172344,
+                                "nick": "adilahaira",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dc5\/1b6c2a06f44bd57c3fdd6eb2e12ad850.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 9992249,
+                        "subject_id": 10,
+                        "user_id": 4779194,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Prof.hendrik kern berpendapat bahwa asal usul bangsa indonesia adl dari champa cochin cina dan kamboja.pendapat kern itu didasarkan pada ...",
+                        "created": "2017-03-24T07:18:01+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2017-03-25T14:15:54+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Prof.hendrik kern berpendapat bahwa asal usul bangsa indonesia adl dari champa <em>cochin<\/em> <em>cin<\/em>a dan kamboja.pendapat kern itu didasarkan pada ...",
+                        "snippet_content": "Prof.hendrik kern berpendapat bahwa asal usul bangsa indonesia adl dari champa <em>cochin<\/em> <em>cin<\/em>a dan kamboja.pendapat kern itu didasarkan pada ..."
+                    },
+                    "responses": [
+                        {
+                            "id": 12032812,
+                            "user_id": 4784971,
+                            "task_id": 9992249,
+                            "points": 5,
+                            "created": "2017-03-25T14:15:54+07:00",
+                            "content": "\u00a0Kesamaan bahasa kamboja<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4784971,
+                                "nick": "ericcahkawi",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/df5\/6d4fc865c64605d7fbaadd88b44e2f1c.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 7993183,
+                        "subject_id": 3,
+                        "user_id": 2435468,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "siapakah ahli yang menyatakan bahwa nenek moyang bangsa indonesia berasal dari cempa, kochin, cina, kamboja ?",
+                        "created": "2016-10-21T18:54:21+07:00",
+                        "responses": 1,
+                        "tickets": 3,
+                        "first_resp": "2016-10-21T22:11:47+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "siapakah ahli yang menyatakan bahwa nenek moyang bangsa indonesia berasal dari cempa, <em>kochin<\/em>, <em>cin<\/em>a, kamboja ?",
+                        "snippet_content": "siapakah ahli yang menyatakan bahwa nenek moyang bangsa indonesia berasal dari cempa, <em>kochin<\/em>, <em>cin<\/em>a, kamboja ?"
+                    },
+                    "responses": [
+                        {
+                            "id": 9488953,
+                            "user_id": 3981849,
+                            "task_id": 7993183,
+                            "points": 5,
+                            "created": "2016-10-21T22:11:47+07:00",
+                            "content": "Prof. Dr. H. Kern Prof. Dr. H. Kern<br \/>Berdasarkan kesimpulan Kern bahwa nenek-moyang bangsa IndonKamboja, dan Kochin Cina (Indocina).\u00a0",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3981849,
+                                "nick": "liantiwww",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d6b\/163681fca911eb03c5c54d54705d344e.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 8804616,
+                        "subject_id": 3,
+                        "user_id": 4273007,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "manusia purba yang menjadi nenek moyang bangsa Indonesia berasal dari Asia seperti dari wilayah campa kochin Cina dan Kamboja hal ini didukung dengan perbandingan bahasa yang digunakan di kepulauan Indonesia yang mempunyai akar bahasa yang sama yaitu bahasa Austronesia pendapat ini dikemukakan oleh..?",
+                        "created": "2016-12-08T21:17:37+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2016-12-08T21:21:12+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "manusia purba yang menjadi nenek moyang bangsa Indonesia berasal dari Asia seperti dari wilayah campa <em>kochin<\/em> <em>Cin<\/em>a dan Kamboja hal ini didukung dengan perbandingan bahasa yang digunakan di kepulauan Indonesia yang mempunyai akar bahasa yang sama yaitu bahasa Austronesia pendapat ini dikemukakan oleh..?",
+                        "snippet_content": "manusia purba yang menjadi nenek moyang bangsa Indonesia berasal dari Asia seperti dari wilayah campa <em>kochin<\/em> <em>Cin<\/em>a dan Kamboja hal ini didukung"
+                    },
+                    "responses": [
+                        {
+                            "id": 10491811,
+                            "user_id": 4275481,
+                            "task_id": 8804616,
+                            "points": 5,
+                            "created": "2016-12-08T21:21:12+07:00",
+                            "content": "Profesor.Dokter.H.Kern",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "6",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4275481,
+                                "nick": "Wahyuramadhan316",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dcb\/420c8b04b5de3b89f95e5fc2e266cf9d.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 7847013,
+                        "subject_id": 3,
+                        "user_id": 3914277,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Manusia purba yang menjadi nenek moyang bangsa indonesia berasal dari asia seperti dari  qilayah campa , kochin , cina dan kamboja. Hal ini didukung dengan perbandingan bahasa yang dogunakan di kepulauan indonesia yang mempunyai akar bahasa yang sama , yaitu bahwa austronesia. Pendapat ini dokemukakan oleh <br \/>\nA. Prof. Dr. H. Kern<br \/>\nB. Mohammad yamin<br \/>\nC. N. J. Krom<br \/>\nD. R. Van heine geldren<br \/>\nE. Dr. Brandes",
+                        "created": "2016-10-12T19:27:23+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2016-10-16T12:39:46+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Manusia purba yang menjadi nenek moyang bangsa indonesia berasal dari asia seperti dari  qilayah campa , <em>kochin<\/em> , <em>cin<\/em>a dan kamboja. Hal ini didukung dengan perbandingan bahasa yang dogunakan di kepulauan indonesia yang mempunyai akar bahasa yang sama , yaitu bahwa austronesia. Pendapat ini dokemukakan oleh \nA. Prof. Dr. H. Kern\nB. Mohammad yamin\nC. N. J. Krom\nD. R. Van heine geldren\nE. Dr. Brandes",
+                        "snippet_content": "Manusia purba yang menjadi nenek moyang bangsa indonesia berasal dari asia seperti dari  qilayah campa , <em>kochin<\/em> , <em>cin<\/em>a dan kamboja. Hal ini didukung"
+                    },
+                    "responses": [
+                        {
+                            "id": 9360509,
+                            "user_id": 3885302,
+                            "task_id": 7847013,
+                            "points": 5,
+                            "created": "2016-10-16T12:39:46+07:00",
+                            "content": "A. Prof. Dr. H. Kern <br \/>semoga membantu",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3885302,
+                                "nick": "evirayl",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 1087284,
+                        "subject_id": 3,
+                        "user_id": 263638,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "nama ahli yg berpendapat bahwa nenek moyang bangsa indonesia berasal dari daerah indonesia adalah?<br \/>\na.Mohammad Yamin<br \/>\nb.van heine gedern<br \/>\nc.prof.dr.H.Kern<br \/>\nd.MohammadAli<br \/>\ne.Hogen<br \/><br \/>\nnama ahli yg berpendapat bahwa nenek moyang bangsa indonesia berasal dari champa, kochin cina,kamboja adalah<br \/><br \/>\na.van heine geldren<br \/>\nb.prof . dr. H kern<br \/>\nc.Mohammad Ali<br \/>\nd.Mohammad Yamin<br \/>\ne.Hogen",
+                        "created": "2014-10-15T15:37:31+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2014-10-15T15:39:30+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "nama ahli yg berpendapat bahwa nenek moyang bangsa indonesia berasal dari daerah indonesia adalah?\na.Mohammad Yamin\nb.van heine gedern\nc.prof.dr.H.Kern\nd.MohammadAli\ne.Hogen\nnama ahli yg berpendapat bahwa nenek moyang bangsa indonesia berasal dari champa, <em>kochin<\/em> <em>cin<\/em>a,kamboja adalah\na.van heine geldren\nb.prof . dr. H kern\nc.Mohammad Ali\nd.Mohammad Yamin\ne.Hogen",
+                        "snippet_content": "ahli yg berpendapat bahwa nenek moyang bangsa indonesia berasal dari champa, <em>kochin<\/em> <em>cin<\/em>a,kamboja adalah\na.van heine geldren\nb.prof . dr"
+                    },
+                    "responses": [
+                        {
+                            "id": 1404016,
+                            "user_id": 344127,
+                            "task_id": 1087284,
+                            "points": 5,
+                            "created": "2014-10-15T15:39:30+07:00",
+                            "content": "yg no. 1 jawabannya d moh. ali<br \/><br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 987881,
+                                        "user_id": 263638,
+                                        "content": "makasi , kalo yg nomer 2 gan ? ;)",
+                                        "created": "2014-10-15T15:40:09+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 987891,
+                                        "user_id": 344127,
+                                        "content": "kuran tau jg, maaf yah",
+                                        "created": "2014-10-15T15:41:15+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 987903,
+                                        "user_id": 263638,
+                                        "content": "hehe iyagpp kok",
+                                        "created": "2014-10-15T15:41:54+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 3
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 344127,
+                                "nick": "R22",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dfd\/86cff51486cb7d76c384dd4ff83b6a05.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 7161509,
+                        "subject_id": 10,
+                        "user_id": 3598851,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "tolong bantu!!!<br \/>jelaskan ajaran yang diajarkan oleh ajaran Hokho-Ichin dalam Shintoisme....  ",
+                        "created": "2016-09-02T23:30:41+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2016-09-03T01:59:50+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "tolong bantu!!!jelaskan ajaran yang diajarkan oleh ajaran Hokho-<em>Ichin<\/em> dalam Shintoisme....  ",
+                        "snippet_content": "tolong bantu!!!jelaskan ajaran yang diajarkan oleh ajaran Hokho-<em>Ichin<\/em> dalam Shintoisme....  "
+                    },
+                    "responses": [
+                        {
+                            "id": 8460585,
+                            "user_id": 3560391,
+                            "task_id": 7161509,
+                            "points": 5,
+                            "created": "2016-09-03T01:59:50+07:00",
+                            "content": "Hokho-Ichin dalam Shintoisme mengajarkan tentang kesatuan keluarga umat manusia <br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 2,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3560391,
+                                "nick": "pratamahany",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dc5\/911cf94877a5657d1bd3f959cc3f52cc.png"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 18,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 513402,
+            "nick": "DewiAntika10",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dbc\/06abf9500452cc348a40db03449ffca5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d63\/7e36a2bce146f374a5e54d4eb17c2483.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dbc\/06abf9500452cc348a40db03449ffca5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d63\/7e36a2bce146f374a5e54d4eb17c2483.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 521552,
+            "nick": "mother",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 25,
+                "comments": 11
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d00\/5bc0ebd79dbbf0b1cfe3760c0d70c4ff.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d66\/33f65cf07b5e7699663e94a0fddf49bb.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d00\/5bc0ebd79dbbf0b1cfe3760c0d70c4ff.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d66\/33f65cf07b5e7699663e94a0fddf49bb.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 820752,
+            "nick": "zahransofa",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 8,
+                "comments": 16
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/ddd\/0f8dcd49f2d06d48d564ee8cb81f43be.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d92\/7b09e2b34a5b426c90bee5ea49fbb19d.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/ddd\/0f8dcd49f2d06d48d564ee8cb81f43be.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d92\/7b09e2b34a5b426c90bee5ea49fbb19d.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 820943,
+            "nick": "dindakmdt",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 64,
+                "comments": 18
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de3\/0c5e7de2909c734a879cf2b2122d43bc.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db1\/b26bf66dc59401c4b4fdfab00b8c9699.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de3\/0c5e7de2909c734a879cf2b2122d43bc.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db1\/b26bf66dc59401c4b4fdfab00b8c9699.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 5080725,
+            "nick": "rickyant",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 1,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d26\/9aa2d30ee33aa6afb7480a1c1d1f3d70.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de3\/cfce094f04ee43cd461bdb2dd8db24d8.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d26\/9aa2d30ee33aa6afb7480a1c1d1f3d70.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de3\/cfce094f04ee43cd461bdb2dd8db24d8.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 5081862,
+            "nick": "nicolassibarani",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 8,
+                "answers": 8,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dbe\/ba0b54134a6d5e8060f2b981a6bcd64e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d09\/7260578cf756f91a1cbfd3603e94954d.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dbe\/ba0b54134a6d5e8060f2b981a6bcd64e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d09\/7260578cf756f91a1cbfd3603e94954d.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1086538,
+            "nick": "1Agista",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 17,
+                "answers": 420,
+                "comments": 152
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d5f\/1d7598a59586bf14dccf1a85c7ef3e3c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d8a\/eb880e5ba77b8ab626caeff3a7ad1299.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d5f\/1d7598a59586bf14dccf1a85c7ef3e3c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d8a\/eb880e5ba77b8ab626caeff3a7ad1299.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 1092026,
+            "nick": "uzzaimah",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 4,
+                "comments": 4
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1088026,
+            "nick": "williamrinaldy",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 58,
+                "comments": 14
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 1045019,
+            "nick": "AbdillahThoha",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 23,
+                "comments": 4
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 3539349,
+            "nick": "rismafebiana170risma",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 6,
+                "answers": 4,
+                "comments": 1
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d2c\/d132e709a732aca87e26522f7146c456.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d28\/34021ac6c19bc869d027127a780c04f5.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d2c\/d132e709a732aca87e26522f7146c456.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d28\/34021ac6c19bc869d027127a780c04f5.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 5000522,
+            "nick": "N\u00e3fisKun",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 34,
+                "answers": 187,
+                "comments": 57
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d96\/c6996fa4198396fb0b231c0f9d1dd19c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d38\/ccd3b210cedca8ad78d359248e2a341a.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d96\/c6996fa4198396fb0b231c0f9d1dd19c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d38\/ccd3b210cedca8ad78d359248e2a341a.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 2987337,
+            "nick": "farrrindygul",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db3\/446bb208211e4332829cf7ecc8687e19.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d77\/61574a680c88b73f0f77aa33d891f24e.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db3\/446bb208211e4332829cf7ecc8687e19.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d77\/61574a680c88b73f0f77aa33d891f24e.png"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 2106388,
+            "nick": "wirel",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 42,
+                "answers": 23,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 274011,
+            "nick": "mariobilly",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 271442,
+            "nick": "1367",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 9,
+                "comments": 10
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 122815,
+            "nick": "BlackRose",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 13,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/ddf\/61cd6bbe059b0fd88451045330c3dc10.bmp",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d8f\/61581c91f167dff35947f2aaf68381f9.bmp"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/ddf\/61cd6bbe059b0fd88451045330c3dc10.bmp",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d8f\/61581c91f167dff35947f2aaf68381f9.bmp"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 2462996,
+            "nick": "Sinya1",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 12,
+                "answers": 0,
+                "comments": 3
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 469105,
+            "nick": "andini2002",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 16,
+                "answers": 205,
+                "comments": 55
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4b\/1574f3dfe2486b3f2afd44acdc76d9fd.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dcb\/9f9ca92c6147bb1fe1a2da6a360bae97.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4b\/1574f3dfe2486b3f2afd44acdc76d9fd.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dcb\/9f9ca92c6147bb1fe1a2da6a360bae97.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 2472508,
+            "nick": "JollyFrankle",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 21,
+                "comments": 3
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d60\/2ef641b684d940f49c598f3f720a1003.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d21\/b4725771e3eab1c399d6b23eb5a57c7e.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d60\/2ef641b684d940f49c598f3f720a1003.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d21\/b4725771e3eab1c399d6b23eb5a57c7e.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4827717,
+            "nick": "tutitii85",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 0,
+                "comments": 9
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dfe\/2daf965620a64e5f44b3f30fbf328dae.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d9a\/07a9c662a7dc2abd8dacb282706dd41d.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dfe\/2daf965620a64e5f44b3f30fbf328dae.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d9a\/07a9c662a7dc2abd8dacb282706dd41d.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4775529,
+            "nick": "Irnisembiring2001",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 24,
+                "comments": 3
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d56\/673573730eae26d7573ff1f4a910cdef.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d26\/98e2ea52855046049407dbcf5a953f75.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d56\/673573730eae26d7573ff1f4a910cdef.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d26\/98e2ea52855046049407dbcf5a953f75.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4828942,
+            "nick": "Tina2946",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 6,
+                "answers": 20,
+                "comments": 3
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9a\/c1d949065d579a9ca48326a9410d82aa.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc6\/5f1ce5fa1acc463218a162c875f8885b.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9a\/c1d949065d579a9ca48326a9410d82aa.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc6\/5f1ce5fa1acc463218a162c875f8885b.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 1520647,
+            "nick": "GawanDikapandu",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 10,
+                "comments": 1
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 689398,
+            "nick": "anadadang89",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 37,
+                "comments": 14
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dfd\/a88f6d8e5e295d5955a9055657643cdf.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d18\/363195b54adda80db1b1754afe55c9a8.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dfd\/a88f6d8e5e295d5955a9055657643cdf.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d18\/363195b54adda80db1b1754afe55c9a8.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 1428117,
+            "nick": "widyaratnacantik",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 20,
+                "comments": 2
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc9\/649c2cfef5e5998f8e5192fcb17deba2.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da2\/8aeab59a99b842695aa3f8c6ab536d6d.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc9\/649c2cfef5e5998f8e5192fcb17deba2.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da2\/8aeab59a99b842695aa3f8c6ab536d6d.png"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 4520533,
+            "nick": "sanah24062000",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 6,
+                "answers": 0,
+                "comments": 1
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da0\/0b1a474f5b85f0490d38c4e399d6f13d.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd7\/82dd468574b1271906edd33ccb9bf2bf.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da0\/0b1a474f5b85f0490d38c4e399d6f13d.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd7\/82dd468574b1271906edd33ccb9bf2bf.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 3379046,
+            "nick": "fernandohansome",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 2,
+                "comments": 2
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d2e\/d1926c80290e3e16a1d2f5b4f02144b0.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ddc\/2fad02c7563ebc85b051d2c1d6e3f9c5.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d2e\/d1926c80290e3e16a1d2f5b4f02144b0.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ddc\/2fad02c7563ebc85b051d2c1d6e3f9c5.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 554623,
+            "nick": "Arinanurul22",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 9,
+                "answers": 0,
+                "comments": 8
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d6d\/e946717d06560d1fa6cf5fe2ab65e62b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d26\/1ee2882bd198960d435715b24bb138dd.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d6d\/e946717d06560d1fa6cf5fe2ab65e62b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d26\/1ee2882bd198960d435715b24bb138dd.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4789472,
+            "nick": "EgiRius",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 0,
+                "comments": 3
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9c\/c5e99e64f757bcf8292ec16221ea360f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7b\/916762eb0bd1bb29aee912fe86dad2ab.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9c\/c5e99e64f757bcf8292ec16221ea360f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7b\/916762eb0bd1bb29aee912fe86dad2ab.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 172344,
+            "nick": "adilahaira",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 25,
+                "answers": 164,
+                "comments": 60
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d2e\/1232d85a56a50e6e28d7afd3b3e10c2e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc5\/1b6c2a06f44bd57c3fdd6eb2e12ad850.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d2e\/1232d85a56a50e6e28d7afd3b3e10c2e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc5\/1b6c2a06f44bd57c3fdd6eb2e12ad850.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 4779194,
+            "nick": "D4i2nmuthkurniiyaha",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4784971,
+            "nick": "ericcahkawi",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 11,
+                "answers": 55,
+                "comments": 27
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9d\/e8490e7befd9dd4b1ccccdf7d1668f6e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df5\/6d4fc865c64605d7fbaadd88b44e2f1c.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9d\/e8490e7befd9dd4b1ccccdf7d1668f6e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df5\/6d4fc865c64605d7fbaadd88b44e2f1c.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 2435468,
+            "nick": "farihahhayati",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 14,
+                "answers": 6,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d99\/7d29fe58a709697fddaa4acff7f7d64f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d36\/c6b390563c236631b0012704bc69779c.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d99\/7d29fe58a709697fddaa4acff7f7d64f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d36\/c6b390563c236631b0012704bc69779c.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 3981849,
+            "nick": "liantiwww",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 6,
+                "answers": 39,
+                "comments": 15
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d96\/f099fd3dcacc6608058b1adcceb9d2cd.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6b\/163681fca911eb03c5c54d54705d344e.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d96\/f099fd3dcacc6608058b1adcceb9d2cd.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6b\/163681fca911eb03c5c54d54705d344e.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4273007,
+            "nick": "nadia864",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 13,
+                "answers": 9,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de7\/62fed3a20cea47c83b07e8606668f437.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d5c\/72253d0be5f34cdc2818b64e1f5431d6.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de7\/62fed3a20cea47c83b07e8606668f437.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d5c\/72253d0be5f34cdc2818b64e1f5431d6.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4275481,
+            "nick": "Wahyuramadhan316",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 87,
+                "comments": 7
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d11\/6ec11c15fadbc10a7354899851c1b347.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dcb\/420c8b04b5de3b89f95e5fc2e266cf9d.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d11\/6ec11c15fadbc10a7354899851c1b347.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dcb\/420c8b04b5de3b89f95e5fc2e266cf9d.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 3914277,
+            "nick": "Damarwulanasek",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dee\/defe28ffc633fe73d0927ae3033dbe5d.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d1c\/a27189ab424a9cabcb804ebc3d8256bd.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dee\/defe28ffc633fe73d0927ae3033dbe5d.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d1c\/a27189ab424a9cabcb804ebc3d8256bd.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 3885302,
+            "nick": "evirayl",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 18,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 263638,
+            "nick": "EvaOktaokta",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 17,
+                "answers": 1,
+                "comments": 10
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d6a\/25161ee4df25ba1d6a7a92d499de9744.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d39\/bf23297fdb8b6982717a7c3fde5f4057.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d6a\/25161ee4df25ba1d6a7a92d499de9744.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d39\/bf23297fdb8b6982717a7c3fde5f4057.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 344127,
+            "nick": "R22",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 9,
+                "answers": 16,
+                "comments": 10
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d78\/ed57d4ca58df9807842e01e612a22c2b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dfd\/86cff51486cb7d76c384dd4ff83b6a05.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d78\/ed57d4ca58df9807842e01e612a22c2b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dfd\/86cff51486cb7d76c384dd4ff83b6a05.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 3598851,
+            "nick": "Fidira",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 10,
+                "answers": 19,
+                "comments": 21
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d40\/82b46698920d50bda3de81ef80b4537b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d3b\/81e329c587a50b5227bf6572f264d4e6.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d40\/82b46698920d50bda3de81ef80b4537b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d3b\/81e329c587a50b5227bf6572f264d4e6.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 3560391,
+            "nick": "pratamahany",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 246,
+                "comments": 33
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d19\/3081e3f0ff6c29abfd95328e4177ac2a.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc5\/911cf94877a5657d1bd3f959cc3f52cc.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d19\/3081e3f0ff6c29abfd95328e4177ac2a.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc5\/911cf94877a5657d1bd3f959cc3f52cc.png"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Spam Fighter ",
+                    "Pakar"
+                ],
+                "count": 2
+            },
+            "ranks_ids": [
+                17,
+                5
+            ]
+        }
+    ],
+    "validated": false
+}

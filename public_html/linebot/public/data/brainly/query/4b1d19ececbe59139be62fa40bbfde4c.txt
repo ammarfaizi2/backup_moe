@@ -1,0 +1,346 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 4234216,
+                        "subject_id": 22,
+                        "user_id": 195693,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 19,
+                            "ptsForResp": 10,
+                            "ptsForBest": 5
+                        },
+                        "content": "1. memegang raket dengan posisi lengan lurus dengan raket sedang senar menghadap ke kiri atau ke kanan disebut cara...<br \/>\na. kampak            c. jabat tangan<br \/>\nb. backhand         d. geblok kasur<br \/><br \/>\n2. posisi bola yang benar diletakkan pada telapak tangan saat akan melakukan servis forehand pada permainan tenis meja adalah...<br \/>\na. di depan dada<br \/>\nb. di atas wajah<br \/>\nc. di depan dagu<br \/>\nd. di atas bahu<br \/><br \/>\n3. arah pandangan mata saat awal melakukan servis forehand pada permainan tenis meja adalah...<br \/>\na. tertuju pada arah gerakan<br \/>\nb. tertuju pada net<br \/>\nc. tertuju pada sudut meja<br \/>\nd. tertuju ada garis tengah meja<br \/><br \/>\n4. bentuk gerakan lengan yang benar saat melakukan pukulan servis topspin pada permainan tenis meja adalah...<br \/>\na. mengayun bet ke arah bola<br \/>\nb. memukul bat ke arah bola<br \/>\nc. memutar bat ke arah bola<br \/>\nd. menyilangkan bat ke arah bola",
+                        "created": "2015-11-08T17:19:11+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2015-11-08T17:22:10+07:00",
+                        "the_best_resp_id": "5007503",
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "1. memegang raket dengan posisi lengan lurus dengan raket sedang senar menghadap ke kiri atau ke kanan disebut cara...\na. kampak            c. jabat tangan\nb. backhand         d. <em>geblok<\/em> kasur\n2. posisi bola yang benar diletakkan pada telapak tangan saat akan melakukan servis forehand pada permainan tenis meja adalah...\na. di depan dada\nb. di atas wajah\nc. di depan dagu\nd. di atas bahu\n3. arah pandangan mata saat awal melakukan servis forehand pada permainan tenis meja adalah...\na. tertuju pada arah gerakan\nb. tertuju pada net\nc. tertuju pada sudut meja\nd. tertuju ada garis tengah meja\n4. bentuk gerakan lengan yang benar saat melakukan pukulan servis topspin pada permainan tenis meja adalah...\na. mengayun <em>bet<\/em> ke arah bola\nb. memukul bat ke arah bola\nc. memutar bat ke arah bola\nd. menyilangkan bat ke arah bola",
+                        "snippet_content": "kanan disebut cara...\na. kampak            c. jabat tangan\nb. backhand         d. <em>geblok<\/em> kasur\n2. posisi bola yang benar diletakkan pada telapak tangan"
+                    },
+                    "responses": [
+                        {
+                            "id": 5007503,
+                            "user_id": 657711,
+                            "task_id": 4234216,
+                            "points": 10,
+                            "created": "2015-11-08T17:22:10+07:00",
+                            "content": "1.B.backhand<br \/>2.A.didepan dada<br \/>3.A.tertuju pada arah gerakan<br \/>4.A.mengayunkan bet kearah bola",
+                            "mark": 4,
+                            "marks_count": 6,
+                            "thanks": 14,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2015-11-11T17:20:22+07:00",
+                                "approver": {
+                                    "id": 584148,
+                                    "nickname": "SyifaUlQalbi",
+                                    "points": 91461,
+                                    "grade": 2,
+                                    "gender": 1,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/da3\/e13a3265c212c37cc3c9dabd5a4f7d37.jpg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/df9\/755f2431441479ef79b08286044d1293.jpg"
+                                    },
+                                    "content_approved_count": 12740
+                                }
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 3051497,
+                                        "user_id": 195693,
+                                        "content": "http:\/\/brainly.co.id\/tugas\/4234356 bntu di sini juga yaa, makasih",
+                                        "created": "2015-11-08T17:33:09+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 657711,
+                                "nick": "noritaafrianis",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d35\/35936e9bcde605f9b3c44bac9a43716e.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10917320,
+                        "subject_id": 22,
+                        "user_id": 5143838,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "1. Olahraga bola volly memakai bola...<br \/>\nA. Besar<br \/>\nB. Kecil<br \/>\nC. Sedang<br \/>\nD. Bulat telur <br \/><br \/>\n2. Menerbangkan kok setinggi mungkin ke garis belakang bidag lapangan lawan merupakan prinsip dari teknik pukulan...<br \/>\n3.pukulan voli dalam permainan tenis....<br \/>\n4. The best five sets adlh istilah tenis yang artinya...<br \/>\n5. Induk organisasi tenis meja indonsia adlh...<br \/>\n6. Permainan tenis meja di tentukan oleh game,yaitu permainanyg mendapat nilai....<br \/>\n7. Teknik pegangan bat sperti memegang pensil\/pena atau juga di kenal juga dengan sebutan asia adalah...grip <br \/>\nA.shakehand <br \/>\nB. Penshil<br \/>\nC. Shakedown<br \/>\nD. Penhold <br \/><br \/>\n8.lembing di pegang dengan cara dijepit oleh telunjuk dan jari tengah.sementara itu,ibu jari,jari manis dan kelingking memperkuat pda lilitan. Cara tsb adalah teknik memegang lembing cara....<br \/>\nA. Campuran<br \/>\nB. Tang<br \/>\nC. Finlandia<br \/>\nD. Amerika <br \/><br \/>\n9. Jarak awalan untuk melempar pada olahraga lempr lembing adalah...<br \/>\n10. Stelah peluru dapat dipegang dengan baik,peluru di letakkan pada...<br \/>\n11. Pembeda gaya tolak peluru adalah...<br \/>\n12. Yg mempengaruhi hasil lompat pada permainan lompat jauh adalah...<br \/>\n13. Yg hrus dilakukan menjelang akhir lari pada awalan lompat jauh adalah...<br \/>\n14. Salah satu ciri khas pertandingan pencak silat,yaitu......<br \/>\n15.ditinjau dari bobotnya yg bukan merupakan kuda kuda adalah kuda2....<br \/>\n16. Dibawah ini yang merupakan perlengkapan pribadi saat berjelajah adalah..<br \/>\nA. Sepatu,tenda,dan ransel<br \/>\nB. Jaket,topi &amp; ransel<br \/>\nC. Golok,tenda dan tali <br \/>\nD. Kompas,sepatu &amp; tenda <br \/><br \/>\n17. Aids merupakan penyakit yang di sebabkan oleh....<br \/>\n18. Yang merupakan jenis penyakit menulas seksual adalah....<br \/>\n19. Penyakit menular seksual yg mempunyai nama lain raja singa adalah....<br \/>\n20. Perilaku yg tidak membahayakan terhadap penularan penyakit aids adalah....",
+                        "created": "2017-06-08T23:49:44+07:00",
+                        "responses": 1,
+                        "tickets": 7,
+                        "first_resp": "2017-06-08T23:57:47+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "6",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "1. Olahraga bola volly memakai bola...\nA. Besar\nB. Kecil\nC. Sedang\nD. Bulat telur \n2. Menerbangkan kok setinggi mungkin ke garis belakang bidag lapangan lawan merupakan prinsip dari teknik pukulan...\n3.pukulan voli dalam permainan tenis....\n4. The best five sets adlh istilah tenis yang artinya...\n5. Induk organisasi tenis meja indonsia adlh...\n6. Permainan tenis meja di tentukan oleh game,yaitu permainanyg mendapat nilai....\n7. Teknik pegangan <em>bat<\/em> sperti memegang pensil\/pena atau juga di kenal juga dengan sebutan asia adalah...grip \nA.shakehand \nB. Penshil\nC. Shakedown\nD. Penhold \n8.lembing di pegang dengan cara dijepit oleh telunjuk dan jari tengah.sementara itu,ibu jari,jari manis dan kelingking memperkuat pda lilitan. Cara tsb adalah teknik memegang lembing cara....\nA. Campuran\nB. Tang\nC. Finlandia\nD. Amerika \n9. Jarak awalan untuk melempar pada olahraga lempr lembing adalah...\n10. Stelah peluru dapat dipegang dengan baik,peluru di letakkan pada...\n11. Pembeda gaya tolak peluru adalah...\n12. Yg mempengaruhi hasil lompat pada permainan lompat jauh adalah...\n13. Yg hrus dilakukan menjelang akhir lari pada awalan lompat jauh adalah...\n14. Salah satu ciri khas pertandingan pencak silat,yaitu......\n15.ditinjau dari bobotnya yg bukan merupakan kuda kuda adalah kuda2....\n16. Dibawah ini yang merupakan perlengkapan pribadi saat berjelajah adalah..\nA. Sepatu,tenda,dan ransel\nB. Jaket,topi &amp; ransel\nC. <em>Golok<\/em>,tenda dan tali \nD. Kompas,sepatu &amp; tenda \n17. Aids merupakan penyakit yang di sebabkan oleh....\n18. Yang merupakan jenis penyakit menulas seksual adalah....\n19. Penyakit menular seksual yg mempunyai nama lain raja singa adalah....\n20. Perilaku yg tidak membahayakan terhadap penularan penyakit aids adalah....",
+                        "snippet_content": "di tentukan oleh game,yaitu permainanyg mendapat nilai....\n7. Teknik pegangan <em>bat<\/em> sperti memegang pensil\/pena atau juga di kenal juga dengan"
+                    },
+                    "responses": [
+                        {
+                            "id": 13272688,
+                            "user_id": 5137515,
+                            "task_id": 10917320,
+                            "points": 5,
+                            "created": "2017-06-08T23:57:47+07:00",
+                            "content": "1. A<br \/>2. melambung<br \/>3. servis<br \/>4. 5 babak yang sempurna<br \/>6. banyak<br \/>7. D<br \/>8. C<br \/>12. jarak lompatan<br \/>16. B<br \/>17. Human Infected Virus (HIV)<br \/>18. Aids<br \/>19. Infeksi Pada organ sex pria<br \/>20. Berjabat tangan",
+                            "mark": 2,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5137515,
+                                "nick": "Mariko456",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d10\/e121d9f1a90140e165dfe9dbaa055e5f.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 2,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 195693,
+            "nick": "agathadangga",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 79,
+                "answers": 496,
+                "comments": 154
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9f\/78e95e5e44913fc325f5aeeff7bc2877.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d8b\/7a28a6ead407dbf6d42df60b2d0b9737.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9f\/78e95e5e44913fc325f5aeeff7bc2877.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d8b\/7a28a6ead407dbf6d42df60b2d0b9737.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 657711,
+            "nick": "noritaafrianis",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 786,
+                "answers": 579,
+                "comments": 733
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d11\/8ba110bca5e3e1e9ab4fd9e5e413190a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d35\/35936e9bcde605f9b3c44bac9a43716e.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d11\/8ba110bca5e3e1e9ab4fd9e5e413190a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d35\/35936e9bcde605f9b3c44bac9a43716e.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 5143838,
+            "nick": "Gueraraz48",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d07\/015089c3b0dc27227d665a404bc02316.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ddb\/fc5d9a4f007aabb49aa21ddead16d081.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d07\/015089c3b0dc27227d665a404bc02316.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ddb\/fc5d9a4f007aabb49aa21ddead16d081.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 5137515,
+            "nick": "Mariko456",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 83,
+                "comments": 7
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d02\/b740d6fdaf5802a21939b1ff9c090773.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d10\/e121d9f1a90140e165dfe9dbaa055e5f.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d02\/b740d6fdaf5802a21939b1ff9c090773.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d10\/e121d9f1a90140e165dfe9dbaa055e5f.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        }
+    ],
+    "validated": false
+}

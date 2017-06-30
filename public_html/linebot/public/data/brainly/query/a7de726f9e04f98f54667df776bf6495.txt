@@ -1,0 +1,698 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 7967598,
+                        "subject_id": 2,
+                        "user_id": 3972117,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "cara membesarkan payudara",
+                        "created": "2016-10-20T05:13:02+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2016-10-20T05:18:38+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "cara <em>membesarkan<\/em> <em>payudara<\/em>",
+                        "snippet_content": "cara <em>membesarkan<\/em> <em>payudara<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 9448606,
+                            "user_id": 3970135,
+                            "task_id": 7967598,
+                            "points": 5,
+                            "created": "2016-10-20T05:18:38+07:00",
+                            "content": "Emanggnya Ada yahh ??",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 5227611,
+                                        "user_id": 3972117,
+                                        "content": "ada",
+                                        "created": "2016-10-20T05:19:18+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        },
+                        {
+                            "id": 9448691,
+                            "user_id": 3958817,
+                            "task_id": 7967598,
+                            "points": 5,
+                            "created": "2016-10-20T05:26:25+07:00",
+                            "content": "hawabanya adl payudara x 2",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3970135,
+                                "nick": "Khotimah14",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/df7\/2b5fe453dfb3f75b9b211c412e77b05a.jpg"
+                            },
+                            {
+                                "id": 3958817,
+                                "nick": "adi737",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d04\/a4d09e9b4966d474e609d8aae0f20d4e.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 7641665,
+                        "subject_id": 4,
+                        "user_id": 3810252,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "cara membesarkan payudara",
+                        "created": "2016-09-30T07:47:40+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2016-09-30T07:50:45+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [
+                                {
+                                    "id": 5030653,
+                                    "user_id": 3810252,
+                                    "content": "just for fun hahah",
+                                    "created": "2016-09-30T07:51:47+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                },
+                                {
+                                    "id": 5030658,
+                                    "user_id": 3603727,
+                                    "content": "Oh, I know you're kidding.. :D",
+                                    "created": "2016-09-30T07:54:38+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                },
+                                {
+                                    "id": 5030664,
+                                    "user_id": 3810252,
+                                    "content": "iya lah gue cuma bercanda haha",
+                                    "created": "2016-09-30T07:56:33+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                },
+                                {
+                                    "id": 5030681,
+                                    "user_id": 3603727,
+                                    "content": "Wkwkwk, ada yg jawab pertanyaan lo tuh!",
+                                    "created": "2016-09-30T08:01:54+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                },
+                                {
+                                    "id": 5030683,
+                                    "user_id": 3795218,
+                                    "content": "boleh dicoba lho xixixixi",
+                                    "created": "2016-09-30T08:02:07+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                }
+                            ],
+                            "last_id": 5030653,
+                            "count": 6
+                        },
+                        "highlighted_content": "cara <em>membesarkan<\/em> <em>payudara<\/em>",
+                        "snippet_content": "cara <em>membesarkan<\/em> <em>payudara<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 9040567,
+                            "user_id": 3795218,
+                            "task_id": 7641665,
+                            "points": 5,
+                            "created": "2016-09-30T07:50:45+07:00",
+                            "content": "pemijatan dibagian bawah dapat dicoba.",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 2,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3795218,
+                                "nick": "Fatublana",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d96\/400972ea6620569fb951d1f336c16e84.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 8291724,
+                        "subject_id": 6,
+                        "user_id": 4066779,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "bagaimana cara membesarkan payudara.?",
+                        "created": "2016-11-08T22:45:41+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2016-11-08T22:46:10+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "bagaimana cara <em>membesarkan<\/em> <em>payudara.<\/em>?",
+                        "snippet_content": "bagaimana cara <em>membesarkan<\/em> <em>payudara.<\/em>?"
+                    },
+                    "responses": [
+                        {
+                            "id": 9837266,
+                            "user_id": 4104934,
+                            "task_id": 8291724,
+                            "points": 5,
+                            "created": "2016-11-08T22:46:10+07:00",
+                            "content": "Akan Di Lakukan Yg Kau Ingin Kann",
+                            "mark": 1,
+                            "marks_count": 1,
+                            "thanks": 3,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 9837279,
+                            "user_id": 3989097,
+                            "task_id": 8291724,
+                            "points": 5,
+                            "created": "2016-11-08T22:47:22+07:00",
+                            "content": "dengan cara tanya dokter langsung ",
+                            "mark": 2,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4104934,
+                                "nick": "sonisotta09",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dbe\/868b225e53a2ce9761ba6e7af3f776f3.jpg"
+                            },
+                            {
+                                "id": 3989097,
+                                "nick": "esse8",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dc8\/aacc0185088d18cb399040ddbe703e31.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 3,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 3972117,
+            "nick": "brainlyyy1",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 1,
+                "comments": 1
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 3970135,
+            "nick": "Khotimah14",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 6,
+                "answers": 17,
+                "comments": 5
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d58\/cd954f6924eb68551c00529de24aacc5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df7\/2b5fe453dfb3f75b9b211c412e77b05a.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d58\/cd954f6924eb68551c00529de24aacc5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df7\/2b5fe453dfb3f75b9b211c412e77b05a.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 3958817,
+            "nick": "adi737",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 21,
+                "comments": 2
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d2e\/1622cf876309ee82453ecc71c29a7cd9.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d04\/a4d09e9b4966d474e609d8aae0f20d4e.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d2e\/1622cf876309ee82453ecc71c29a7cd9.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d04\/a4d09e9b4966d474e609d8aae0f20d4e.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 3810252,
+            "nick": "oxxx1",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 2
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 3795218,
+            "nick": "Fatublana",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 53,
+                "comments": 25
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9a\/ea697ca7c2fcba3f26909ffa5e261e62.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d96\/400972ea6620569fb951d1f336c16e84.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9a\/ea697ca7c2fcba3f26909ffa5e261e62.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d96\/400972ea6620569fb951d1f336c16e84.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 3603727,
+            "nick": "antartikalingga",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 80,
+                "comments": 55
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dfa\/dd0f6d25a72a6a37358f98d1b585d278.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d40\/48a4136c9a899018a189d5f629596185.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dfa\/dd0f6d25a72a6a37358f98d1b585d278.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d40\/48a4136c9a899018a189d5f629596185.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 4066779,
+            "nick": "fadli188",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 21,
+                "answers": 40,
+                "comments": 14
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dff\/172f433d2ce0efe609452ddecd0c8fc2.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d12\/2aa1ef26e92932e7dc4ab2ca678a2e39.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dff\/172f433d2ce0efe609452ddecd0c8fc2.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d12\/2aa1ef26e92932e7dc4ab2ca678a2e39.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4104934,
+            "nick": "sonisotta09",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 5,
+                "comments": 2
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d67\/6ee67705122a075f721a41fb8915e3d6.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dbe\/868b225e53a2ce9761ba6e7af3f776f3.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d67\/6ee67705122a075f721a41fb8915e3d6.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dbe\/868b225e53a2ce9761ba6e7af3f776f3.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 3989097,
+            "nick": "esse8",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 21,
+                "answers": 14,
+                "comments": 12
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d42\/220453dd1508d24ce84d9bbb53416e33.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc8\/aacc0185088d18cb399040ddbe703e31.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d42\/220453dd1508d24ce84d9bbb53416e33.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc8\/aacc0185088d18cb399040ddbe703e31.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        }
+    ],
+    "validated": false
+}

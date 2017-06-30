@@ -1,0 +1,2366 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 8682186,
+                        "subject_id": 3,
+                        "user_id": 3859666,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Jd baru aktif di berbagai daerah di Indonesia yg ke dua orang yang kita miliki sekarang udah gak jaman sekarang itu beda tipis lah yang paling sering kena marah dengan orang yang kamu suka dari si dia lagi di luar sana yg lebih cantik dan ganteng banget sih jadi anak yang soleh itu ada di dalam hati kita selalu dekat dengan kita adalah untuk mencoba untuk lebih mengerti dan memahami dan mengerti aku juga gak tau diri aja lah biar gak ada pulsa nyasar ke wrg lg ya yu plg hbs yang tidak pernah ada yg tau gak sih kalo mau ikut ga lu aja deh ya kalo ada salah sama lu juga kan lucu dan banget ya allah sama dengan sekali tidak lagi menjadi menghasilkan uang sesuatu yang tak kalah penting adalah bahwa aku bisa jadi yang terakhir terbaik untuk buat awak tersenyum dan merasa nyaman dengan dan tanpa tanpa kamu ada berapa yang berkembang di di wrg rmh lu gua ga ada yg lebih baik daripada berpura-pura tegar tersenyum dan saat ini itu banyak banget yang yg di di rumah wrg nya lg di di rmh wrg nya lg di di wrg di tumpukan gigitan di dan di di rmh aku juga mau ke tidur dan bangun jam jam nya berapa kali kali dibaca nih anak yg baik dan benar? Apa ringkasannya! (plisssssss, besok dikumpulkan oke). ",
+                        "created": "2016-12-02T13:01:24+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2017-01-02T05:35:41+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Jd baru aktif di berbagai daerah di Indonesia yg ke dua orang yang kita miliki sekarang udah gak jaman sekarang itu beda tipis lah yang paling sering kena marah dengan orang yang kamu suka dari si dia lagi di luar sana yg lebih cantik dan ganteng banget sih jadi anak yang soleh itu ada di dalam hati kita selalu dekat dengan kita adalah untuk mencoba untuk lebih mengerti dan memahami dan mengerti aku juga gak <em>tau<\/em> diri <em>aja<\/em> lah biar gak ada pulsa nyasar ke wrg lg ya yu plg hbs yang tidak pernah ada yg <em>tau<\/em> gak sih kalo mau ikut ga <em>lu<\/em> <em>aja<\/em> deh ya kalo ada salah sama <em>lu<\/em> juga kan lucu dan banget ya allah sama dengan sekali tidak lagi menjadi menghasilkan uang sesuatu yang tak kalah penting adalah bahwa aku bisa jadi yang terakhir terbaik untuk buat awak tersenyum dan merasa nyaman dengan dan tanpa tanpa kamu ada berapa yang berkembang di di wrg rmh <em>lu<\/em> gua ga ada yg lebih baik daripada berpura-pura tegar tersenyum dan saat ini itu banyak banget yang yg di di rumah wrg nya lg di di rmh wrg nya lg di di wrg di tumpukan gigitan di dan di di rmh aku juga mau ke tidur dan bangun jam jam nya berapa kali kali dibaca nih anak yg baik dan benar? Apa ringkasannya! (plisssssss, besok dikumpulkan oke). ",
+                        "snippet_content": "tidak pernah ada yg <em>tau<\/em> gak sih kalo mau ikut ga <em>lu<\/em> <em>aja<\/em> deh ya kalo ada salah sama <em>lu<\/em> juga kan"
+                    },
+                    "responses": [
+                        {
+                            "id": 10639841,
+                            "user_id": 4339248,
+                            "task_id": 8682186,
+                            "points": 5,
+                            "created": "2017-01-02T05:35:41+07:00",
+                            "content": "ringkasannya<br \/><br \/>seorang gadis yg merasa bersalah, walaupun tidak tau salahnya apa. ia merasa menyesal akan kepergian pria idamannya. <br \/><br \/>sebenrnya soalnya juga kuranh benar tata bahasanya.",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4339248,
+                                "nick": "nurulfauziahk",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 1586205,
+                        "subject_id": 19,
+                        "user_id": 938392,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Drama Tradisional                  \"PERSAHABATAN HANCUR KARENA CINTA\" <br \/>\nLATAR: Di pagi hari , di sebuah gang.<br \/>\nCady :\"hy guys,... !\" <br \/>\nRegina : \"apa kabar?udh lma nih eng ketemu kalian semua!\" <br \/>\nBale : \"ETT..!tunggu kayaknya ada yg punya pasangan baru nih!\" <br \/>\nStevani : \"hehe,bisa aja kalian . namanya jg cewek cantik, pasti banyaklah yg mau. ya eng bebz?\" <br \/>\nGorge : \"tau ah. Mendingan kita berduaan aja ditaman , yang! <br \/>\nLATAR : di sebuah taman , datanglah 4 sahabat stevani dan gorge.<br \/>\nRegina:\"jadi gini stev , mentang - mentang lo udh punya cowo ganteng?1<br \/>\nCady:\"tau tuh , kita semua malah dilupain!\"<br \/>\nSam :\"mungkin mereka berdua mau menikmati pemandangan baru. Serasa di awan...!!!\"<br \/>\nBale :\"udh yuk!mendingan kita pergi aja dri sini!kita cmn jd NYAMUK doang!<br \/>\nGorge :\"DIIIH?!\"<br \/>\nBale : \"DAH..DIIHH.DAHH...DIIH. \" <br \/>\nR,C,B,S : \"DIIHH?!\"<br \/>\nStevani : \"ywd sana pergi.!!mengganggy tau eng sih kalian.!\" <br \/>\nCady,R: \" BYEE..!!\"<br \/>\nLATAR : keesokan harinya , di pinggir jalan.<br \/>\nStevani :\"hey.!kalian..tunggguuu...!!\"<br \/>\nGorge :\"kita berdua mau minta maaf ke kalian semua .\" <br \/>\nCady : \"ywd!gpp kok. Kita udh maafin kalian berdia sebelum kalian minta maaf .!\"<br \/>\nRegina : \"tapi dia udh!milih cowonya itu dr pada kita!\"<br \/>\nBale : \"TAUU TUUH.!\"<br \/>\nSam : \"udh lah , bener kata Cady!kita hrs saling memaafkan.!\"<br \/>\nRegina : \"ywd kita semua maafin kalian berdua!tp jgn ngulangin kesalahan lg ya,!\"<br \/>\nBale : \"iya tuh.! RT bingiitttzzz...!\"<br \/>\nC,R :\"yeeaaayyy..asiiikkk!!kita semua bisa kumpul bersama ky dulu lgi deh.!\"<br \/>\nBale:\" oh ya ! gue lupa nih, stev kan lu cantik,baik,anggun,kebut,pokoknya perfect deh. Gue blh minta PJ engg?????!!!\"<br \/>\nSam :\"iya dong guee mauuu!!!\"<br \/>\nC,R :\" kita berdua jg mau doong...!!!\"<br \/>\nLATAR: akhirnya mereka semua bermain bersama kembali..dan bahagiaa selamanyaa!! <br \/>\nada yg mau nanya , ada yg lucu enggak dari drama ini thx mohon di jawab ya guys !!! ",
+                        "created": "2014-11-27T18:17:14+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2014-11-27T18:20:36+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [
+                                {
+                                    "id": 1367727,
+                                    "user_id": 938392,
+                                    "content": "itu yg menunggy jadi menunggu",
+                                    "created": "2014-11-27T19:02:04+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                },
+                                {
+                                    "id": 1367753,
+                                    "user_id": 938392,
+                                    "content": "ada yg mau jawab atau nanya lg selain 2 orang itu banyakin jg gpp",
+                                    "created": "2014-11-27T19:03:20+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                },
+                                {
+                                    "id": 1373358,
+                                    "user_id": 933685,
+                                    "content": "ngobrol bareng yu, ka",
+                                    "created": "2014-11-28T16:37:07+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                }
+                            ],
+                            "last_id": 0,
+                            "count": 3
+                        },
+                        "highlighted_content": "Drama Tradisional                  \"PERSAHABATAN HANCUR KARENA CINTA\" \nLATAR: Di pagi hari , di sebuah gang.\nCady :\"hy guys,... !\" \nRegina : \"apa kabar?udh lma nih eng ketemu kalian semua!\" \nBale : \"ETT..!tunggu kayaknya ada yg punya pasangan baru nih!\" \nStevani : \"hehe,bisa <em>aja<\/em> kalian . namanya jg cewek cantik, pasti banyaklah yg mau. ya eng bebz?\" \nGorge : \"<em>tau<\/em> ah. Mendingan kita berduaan <em>aja<\/em> ditaman , yang! \nLATAR : di sebuah taman , datanglah 4 sahabat stevani dan gorge.\nRegina:\"jadi gini stev , mentang - mentang lo udh punya cowo ganteng?1\nCady:\"<em>tau<\/em> tuh , kita semua malah dilupain!\"\nSam :\"mungkin mereka berdua mau menikmati pemandangan baru. Serasa di awan...!!!\"\nBale :\"udh yuk!mendingan kita pergi <em>aja<\/em> dri sini!kita cmn jd NYAMUK doang!\nGorge :\"DIIIH?!\"\nBale : \"DAH..DIIHH.DAHH...DIIH. \" \nR,C,B,S : \"DIIHH?!\"\nStevani : \"ywd sana pergi.!!mengganggy <em>tau<\/em> eng sih kalian.!\" \nCady,R: \" BYEE..!!\"\nLATAR : keesokan harinya , di pinggir jalan.\nStevani :\"hey.!kalian..tunggguuu...!!\"\nGorge :\"kita berdua mau minta maaf ke kalian semua .\" \nCady : \"ywd!gpp kok. Kita udh maafin kalian berdia sebelum kalian minta maaf .!\"\nRegina : \"tapi dia udh!milih cowonya itu dr pada kita!\"\nBale : \"TAUU TUUH.!\"\nSam : \"udh lah , bener kata Cady!kita hrs saling memaafkan.!\"\nRegina : \"ywd kita semua maafin kalian berdua!tp jgn ngulangin kesalahan lg ya,!\"\nBale : \"iya tuh.! RT bingiitttzzz...!\"\nC,R :\"yeeaaayyy..asiiikkk!!kita semua bisa kumpul bersama ky dulu lgi deh.!\"\nBale:\" oh ya ! gue lupa nih, stev kan <em>lu<\/em> cantik,baik,anggun,kebut,pokoknya perfect deh. Gue blh minta PJ engg?????!!!\"\nSam :\"iya dong guee mauuu!!!\"\nC,R :\" kita berdua jg mau doong...!!!\"\nLATAR: akhirnya mereka semua bermain bersama kembali..dan bahagiaa selamanyaa!! \nada yg mau nanya , ada yg lucu enggak dari drama ini thx mohon di jawab ya guys !!! ",
+                        "snippet_content": "jg cewek cantik, pasti banyaklah yg mau. ya eng bebz?\" \nGorge : \"<em>tau<\/em> ah. Mendingan kita berduaan <em>aja<\/em> ditaman , yang! \nLATAR : di sebuah"
+                    },
+                    "responses": [
+                        {
+                            "id": 2026001,
+                            "user_id": 933685,
+                            "task_id": 1586205,
+                            "points": 5,
+                            "created": "2014-11-27T18:20:36+07:00",
+                            "content": "Hahahahahahahaha<br \/>Lucu banget aku sakit perut (menurutku)<br \/>Paling suka tokoh: Cady dan Stevani <br \/>Tapi menurutku tambah lagi aja naskahnya biar bagus....<br \/>",
+                            "mark": 4,
+                            "marks_count": 1,
+                            "thanks": 4,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2015-03-12T20:36:50+07:00",
+                                "approver": {
+                                    "id": 934585,
+                                    "nickname": "Ganjar64",
+                                    "points": 58789,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/d9b\/81b9240ac2412b67209e6c68f2ecea81.jpg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/db4\/323bba01e0f8241fe4945926495ef64d.jpg"
+                                    },
+                                    "content_approved_count": 1745
+                                }
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 1373670,
+                                        "user_id": 938392,
+                                        "content": "di nusa indah school sarua ciputat",
+                                        "created": "2014-11-28T17:34:40+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 1373671,
+                                        "user_id": 938392,
+                                        "content": "bkn bunga nusa indah bkn salah",
+                                        "created": "2014-11-28T17:34:58+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 1373673,
+                                        "user_id": 938392,
+                                        "content": "ya",
+                                        "created": "2014-11-28T17:35:06+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 1373964,
+                                        "user_id": 933685,
+                                        "content": "berarti di daerah mana",
+                                        "created": "2014-11-28T18:16:25+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 1373971,
+                                        "user_id": 933685,
+                                        "content": "aku sih di sdk 6 bpk penabur",
+                                        "created": "2014-11-28T18:17:25+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 1373670,
+                                "count": 77
+                            }
+                        },
+                        {
+                            "id": 2026032,
+                            "user_id": 45459,
+                            "task_id": 1586205,
+                            "points": 5,
+                            "created": "2014-11-27T18:22:14+07:00",
+                            "content": "Bagus.cuman\u00a0aku mau nanya PJ itu apaan yahh.... kok akhir cerita nya berliku-liku..?<br \/>aku suka tokoh stevany dan regina :D",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 5,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 1367082,
+                                        "user_id": 940383,
+                                        "content": "PJ = Pajak Jadian",
+                                        "created": "2014-11-27T18:22:43+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 1367093,
+                                        "user_id": 938392,
+                                        "content": "betul tuh kata andien you punya pin bbm",
+                                        "created": "2014-11-27T18:23:38+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 1367105,
+                                        "user_id": 45459,
+                                        "content": "tapi keren kok ceritanya.",
+                                        "created": "2014-11-27T18:24:41+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 1367118,
+                                        "user_id": 938392,
+                                        "content": "thx menggangy itu jd mengganggu",
+                                        "created": "2014-11-27T18:25:27+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 4
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 933685,
+                                "nick": "rachelliemidia",
+                                "avatar": null
+                            },
+                            {
+                                "id": 45459,
+                                "nick": "valdakalangie",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d1f\/c161bbc536b8df08b0c1c59cc36faf64.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 1807259,
+                        "subject_id": 13,
+                        "user_id": 1030972,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "TOLONG DI BAHASA JAWAKAN. TAPI PAKEK BAHASA JAWA NGOKO<br \/><br \/>\nCandranui: \u201cya Allah.... udah siang gini baru dapat segini\u201d<br \/>\nKaryauan : \u201csabar ya cuy, namanya juga rezeki kita cuma segini, mau gimana lagi.\u201d<br \/>\nCandranui: \u201c semoga aja masih ada rezeki buat kita ya....\u201d<br \/>\nKaryauan: \u201c amin...... dari pada bersedih, mending kita nyanyi cuy.\u201d<br \/>\nCandranui: \u201c ok.\u201d<br \/><br \/>\nAkhirnya mereka pun bernyanyi dan suasana pun menjadi asyik. Ketika sedang asyik bernyanyi, tiba\u201d Karyauan tertuju pada 2 orang yg tengah berdua\u2019an di seberang jalan.<br \/>\nKaryauan: \u201c cuy, liat. Disana ada yg lagi berduaan tu. Kesana yok.\u201d<br \/>\nCandranui: \u201c ayok.\u201d<br \/><br \/>\nMereka pun beranjak dari tempat mereka menghibur diri. Disisi lain, ti dan van dua orang yg sedang di tuju kedua pengamen tersebut sedang update berita terkini melalui laptop.<br \/><br \/>\nTi: \u201cvan liat, sadis banget ya. Seorang pengamen merampok dan membunuh anak\u201d kayak kita ini.<br \/>\nVan: \u201csadis banget. Jadi ngeri sama pengamen.\u201d<br \/><br \/>\nLalu tiba-tiba datang 2 orang pengamen menghampiri mereka.<br \/><br \/>\nCandranui : \u201cpermisi mas, permisi mbak.\u201d<br \/>\nLalu Candranui bernyanyi dgn di iringi musik Karyauan.<br \/><br \/>\nKarena baru membaca berita mengenai pengamen, ti dan van merasa ketakutan dan langsung melarikan diri.<br \/>\nKaryauan: \u201c hei mbak, mas. Mau kemana.....\u201d [berusaha mengejar ti dan van]<br \/>\nCandranui: \u201cudalah cuy, gak usah di kejar. Mungkin belum rezeki kita\u201d<br \/>\nKaryauan: \u201c huufffttttt.... ya udah lah.\u201d [tertunduk lesu]<br \/><br \/>\nSetelah merasa aman, ti dan van berhenti sejenak.<br \/><br \/>\nTi: \u201cuda van, berhenti dulu. Toh mereka uda gak ngejar kita lagi.\u201d<br \/>\nVan: \u201c iya. Untung aja ya kita lari sebelum di apa-apain sama mereka.\u201d<br \/><br \/>\nTiba-tiba mereka di todong oleh seorang rampok.<br \/><br \/>\nRampok: \u201chey kalian, serahkan hp, dompet sama laptop kalian. Cepat!!! [dgn nada keras sambil menodongkan pisau]<br \/>\nVan: \u201c i... i.... iya bang.\u201d [ sambil menyerahkan hp, dompet dan laptop nya.]<br \/><br \/>\nSementara itu ti ketakutan dan sembunyi di balik van. Dari kejauhan Candranui melihat van dan ti tengah di rampok.<br \/>\nCandranui: \u201ccuy, mereka di rampok tu. Kita tolong yok.\u201d<br \/>\nKaryauan: \u201c ngapain sih cuy, mereka aja tadi lari pas kita mau ngamen. Loe peduli amat sih ma mereka.\u201d<br \/>\nCandranui: \u201c kita itu sebagai sesama manusia harus saling tolong menolong. Walau sejahat apapun mereka sama kita.\u201d<br \/>\nKaryauan: \u201c ya udah lah terserah mu. Aku disini aja.\u201d<br \/>\nCandranui: \u201c ya udah kau telpon polisi aja. Biar rampok tu aku yg ngurus\u201d<br \/>\nKaryauan: \u201c ok\u201d.<br \/><br \/>\nAkhirnya Candranui datang dan membantu van dan ti.<br \/><br \/>\nRampok: \u201c hei, siapa lu. Gak usah ikut campur. Mau mampus lu.\u201d<br \/><br \/>\nTanpa banyak kata, Candranui langsung berkelahi dgn rampok tersebut. Akhirnya sang rampok kalah dan tersungkur di tanah. Di waktu yg bersamaan pun Karyauan bersama pak polisi datang dan pak polisi pun langsung memborgol rampok tersebut.<br \/>\nPolisi: \u201c terima kasih ya nak. Orang ini sudah menjadi buronan kami selama ini. Karena kamu, kami sekarang bisa menangkap nya.\u201d<br \/>\nCandranui: \u201c iya pak, sama-sama\u201d.<br \/>\nPolisi: \u201c ayok ikut....\u201d[sambil membawa sang rampok]<br \/><br \/>\nDengan sedikit menahan rasa sakit Candranui memberikan laptop, hp dan dompet milik van.<br \/><br \/>\nCandranui: \u201cini barang lo cuy\u201d<br \/><br \/>\nDengan rasa malu van mengambilnya dan mengucapkan terima kasih.<br \/><br \/>\nVan: \u201c makasih ya bro. Gue gak tau kalo gak ada lo tadi. Oh ya, maaf ya tentang yg tadi. Gue kira semua pengamen itu sama.\u201d<br \/>\nCandranui: \u201chahahahaha.... gak apa-apa cuy. Lagi pula jangan melihat seseorang tu dari luarnya aja. Ge pula gak semua orang itu sama.\u201d<br \/>\nVan: \u201c bro, ini ambil. Ya... anggap aja sebagai tanda terima kasih.\u201d<br \/>\nKaryauan: \u201cambil cuy, lumayan tambahan buat hari ini.\u201d<br \/>\nCandranui: \u201cah kau ne. Cuy, kita tu Cuma mau terima uang kalau kami sudah kerja.\u201d<br \/>\nVan: \u201c ya uda, kalau gitu kenapa kalian gak nyanyi satu lagu aja buat kita. Kan kita jadi impas.\u201d<br \/>\nCandranui: \u201cok. Let\u2019s go......\u201d",
+                        "created": "2015-01-13T15:47:42+07:00",
+                        "responses": 2,
+                        "tickets": 3,
+                        "first_resp": "2016-09-22T23:58:18+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [
+                                {
+                                    "id": 1544049,
+                                    "user_id": 758530,
+                                    "content": "waduhh...jngan di bor0ng donk kak...",
+                                    "created": "2015-01-13T16:55:03+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                }
+                            ],
+                            "last_id": 0,
+                            "count": 1
+                        },
+                        "highlighted_content": "TOLONG DI BAHASA JAWAKAN. TAPI PAKEK BAHASA JAWA NGOKO\nCandranui: \u201cya Allah.... udah siang gini baru dapat segini\u201d\nKaryauan : \u201csabar ya cuy, namanya juga rezeki kita cuma segini, mau gimana lagi.\u201d\nCandranui: \u201c semoga <em>aja<\/em> masih ada rezeki buat kita ya....\u201d\nKaryauan: \u201c amin...... dari pada bersedih, mending kita nyanyi cuy.\u201d\nCandranui: \u201c ok.\u201d\nAkhirnya mereka pun bernyanyi dan suasana pun menjadi asyik. Ketika sedang asyik bernyanyi, tiba\u201d Karyauan tertuju pada 2 orang yg tengah berdua\u2019an di seberang jalan.\nKaryauan: \u201c cuy, liat. Disana ada yg lagi berduaan tu. Kesana yok.\u201d\nCandranui: \u201c ayok.\u201d\nMereka pun beranjak dari tempat mereka menghibur diri. Disisi lain, ti dan van dua orang yg sedang di tuju kedua pengamen tersebut sedang update berita terkini melalui laptop.\nTi: \u201cvan liat, sadis banget ya. Seorang pengamen merampok dan membunuh anak\u201d kayak kita ini.\nVan: \u201csadis banget. Jadi ngeri sama pengamen.\u201d\nLalu tiba-tiba datang 2 orang pengamen menghampiri mereka.\nCandranui : \u201cpermisi mas, permisi mbak.\u201d\nLalu Candranui bernyanyi dgn di iringi musik Karyauan.\nKarena baru membaca berita mengenai pengamen, ti dan van merasa ketakutan dan langsung melarikan diri.\nKaryauan: \u201c hei mbak, mas. Mau kemana.....\u201d [berusaha mengejar ti dan van]\nCandranui: \u201cudalah cuy, gak usah di kejar. Mungkin belum rezeki kita\u201d\nKaryauan: \u201c huufffttttt.... ya udah lah.\u201d [tertunduk lesu]\nSetelah merasa aman, ti dan van berhenti sejenak.\nTi: \u201cuda van, berhenti dulu. Toh mereka uda gak ngejar kita lagi.\u201d\nVan: \u201c iya. Untung <em>aja<\/em> ya kita lari sebelum di apa-apain sama mereka.\u201d\nTiba-tiba mereka di todong oleh seorang rampok.\nRampok: \u201chey kalian, serahkan hp, dompet sama laptop kalian. Cepat!!! [dgn nada keras sambil menodongkan pisau]\nVan: \u201c i... i.... iya bang.\u201d [ sambil menyerahkan hp, dompet dan laptop nya.]\nSementara itu ti ketakutan dan sembunyi di balik van. Dari kejauhan Candranui melihat van dan ti tengah di rampok.\nCandranui: \u201ccuy, mereka di rampok tu. Kita tolong yok.\u201d\nKaryauan: \u201c ngapain sih cuy, mereka <em>aja<\/em> tadi lari pas kita mau ngamen. Loe peduli amat sih ma mereka.\u201d\nCandranui: \u201c kita itu sebagai sesama manusia harus saling tolong menolong. Walau sejahat apapun mereka sama kita.\u201d\nKaryauan: \u201c ya udah lah terserah mu. Aku disini <em>aja.<\/em>\u201d\nCandranui: \u201c ya udah kau telpon polisi <em>aja.<\/em> Biar rampok tu aku yg ngurus\u201d\nKaryauan: \u201c ok\u201d.\nAkhirnya Candranui datang dan membantu van dan ti.\nRampok: \u201c hei, siapa <em>lu.<\/em> Gak usah ikut campur. Mau mampus <em>lu.<\/em>\u201d\nTanpa banyak kata, Candranui langsung berkelahi dgn rampok tersebut. Akhirnya sang rampok kalah dan tersungkur di tanah. Di waktu yg bersamaan pun Karyauan bersama pak polisi datang dan pak polisi pun langsung memborgol rampok tersebut.\nPolisi: \u201c terima kasih ya nak. Orang ini sudah menjadi buronan kami selama ini. Karena kamu, kami sekarang bisa menangkap nya.\u201d\nCandranui: \u201c iya pak, sama-sama\u201d.\nPolisi: \u201c ayok ikut....\u201d[sambil membawa sang rampok]\nDengan sedikit menahan rasa sakit Candranui memberikan laptop, hp dan dompet milik van.\nCandranui: \u201cini barang lo cuy\u201d\nDengan rasa malu van mengambilnya dan mengucapkan terima kasih.\nVan: \u201c makasih ya bro. Gue gak <em>tau<\/em> kalo gak ada lo tadi. Oh ya, maaf ya tentang yg tadi. Gue kira semua pengamen itu sama.\u201d\nCandranui: \u201chahahahaha.... gak apa-apa cuy. Lagi pula jangan melihat seseorang tu dari luarnya <em>aja.<\/em> Ge pula gak semua orang itu sama.\u201d\nVan: \u201c bro, ini ambil. Ya... anggap <em>aja<\/em> sebagai tanda terima kasih.\u201d\nKaryauan: \u201cambil cuy, lumayan tambahan buat hari ini.\u201d\nCandranui: \u201cah kau ne. Cuy, kita tu Cuma mau terima uang kalau kami sudah kerja.\u201d\nVan: \u201c ya uda, kalau gitu kenapa kalian gak nyanyi satu lagu <em>aja<\/em> buat kita. Kan kita jadi impas.\u201d\nCandranui: \u201cok. Let\u2019s go......\u201d",
+                        "snippet_content": "mereka sama kita.\u201d\nKaryauan: \u201c ya udah lah terserah mu. Aku disini <em>aja.<\/em>\u201d\nCandranui: \u201c ya udah kau telpon polisi <em>aja.<\/em> Biar rampok tu"
+                    },
+                    "responses": [
+                        {
+                            "id": 8876316,
+                            "user_id": 3194820,
+                            "task_id": 1807259,
+                            "points": 5,
+                            "created": "2016-09-22T23:58:18+07:00",
+                            "content": "C : ya alloh. wis awan kaya kie tembe plih rejeki<br \/>K : sabar ya cuy, jenenge bae rejekii ya kur kaya, arep kepriwe maning<br \/>C : moga-moga bae ana rejeki nggo dewek ya..<br \/>k : AMINN... dari pada ngresulah, mending dewek nembang cuy<br \/>C : OK<br \/><br \/>akhire pada nyanyi lan suasana dadi asik. pas lg asik nyanyi ijing-ijig Karyauan ndelengna wong 2 sing lg pacaran nang sebrang dalan<br \/>K : cuy deleng kae, nang kana ada wong lg loroan, nganah yuh<br \/>C : yuh<br \/><br \/>mereka beranjank sekang nggon jagong. nang sisi liane , ti dan van wong loro sing lg dituju pengamen mau lg update status sekang laptop<br \/><br \/>ti : van deleng, sadis bgt yah. pengamen ngrampok lan mateni anak \"kaya dewek kie\"<br \/>van : sadis yah. dadi ngeri karo pengamen koh<br \/><br \/>ijig-ijig teka 2 pengamen<br \/><br \/>C : ngampuntene mas, ppunten mba<br \/>trus pengamnen nyanyi<br \/><br \/>vi lan taan keweden llan langsung mlayu lunga<br \/>K : hei mba, mas, arep maring ndi<br \/>C : wislah cuy, ra usah diuber mungkin durung rejeki<br \/>K : huft ua wis lah<br \/><br \/>Sewise ngrasa aman, ti lan van mandeg mlayu<br \/><br \/>ti : wis van, mandeg disit , pengamene ora nguber<br \/>van. iya untung bae dewek mlayu dadi ora diapak-apakna<br \/><br \/>ijig-ijig ti karo van di palak preman<br \/><br \/>rampok : hey ,, ngneh aku njaluk hpne karo dompetmu lan leptopmu.. cepetann!!<br \/>van : i...i.. iya kang (karo ngawehna hap,dompet, laptop)<br \/><br \/>c : cuy bocah mau dirampok<br \/>k : ngapa sih coy, mau be bocaeh mlayu pas dewek ngamen . ko peduli bgt koh<br \/>C : dewek sebagai manungsa kudu saling tulung\\<br \/>K : ya wis lah terserah koe. aku nang kene<br \/>C: ya wis lah ko telfon polisi bae, kon rampoke ditangkep<br \/>k : OK<br \/><br \/>akhire C teka lan mbantu van lan ti<br \/><br \/>Rampok : HEI sapa sih ko ,, ora susah melu melu,, mati mengko ko<br \/><br \/>ora kakehen omong C langsung gelut karo rampoke, akhire rampok kalah lan rampoke ngletak nang lemah. pas wektu sing pada K teka karo polisi langsung mborgol rampoke.<br \/>polisi : matursuwun ya cah, wongkie wis dadi buronan sue<br \/><br \/>C : iya pak ,, pada pada<br \/>polosi : ayuh melu (ngaawa rampoke)<br \/><br \/>VAN : matursuwun ya bro..q ora ngerti loh nek langka njenengan,, ngampurane yah ujarku kabeh pengamen kue pada<br \/>c : hahahhaha. ora apa apa cuy. dasare aja ndeleng wong sekang njabane tok, kabeh wong juga ora pada bae<br \/>van : bro. kie nggo njenengan,, anggep bae sbg tanda matursuwun<br \/>k : trima bae cuy..lumayan tambahan nggo dina kie <br \/>c : dewek cuma nrima duit nek dewek wis kerja<br \/>van : ya wis.. nek kaya kue njenengan nyanyindisit selagu nggo aku,, kan dadi impas<br \/>C : OK.. LETS GOO<br \/>",
+                            "mark": 3,
+                            "marks_count": 2,
+                            "thanks": 1,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 8876419,
+                            "user_id": 1474741,
+                            "task_id": 1807259,
+                            "points": 5,
+                            "created": "2016-09-23T00:27:39+07:00",
+                            "content": "<p>Candranui\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 :\n\"Duh Gusti... Wis awan ngene lagi entuk sakmene\"<br \/>\nKaryauan\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 :\"Sabar yo cuy,\njenenge yo rezekine awak dewe mung entuk sakmene, ameh kepriye maneh.\"<br \/>\nCandranui\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 :\"Semoga wae\ntasih ana rezeki kanggo awakdewe\u2026\u201d<\/p>\n\n<p>Karyauan\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 :\u201daamiin\u2026\nkatimbang nelangsa, mending awakdewe nembang cuy\u201d<\/p>\n\n<p>Candranui\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 :\u201dOk.\u201d<\/p>\n\n<p>\u00a0<\/p>\n\n<p>Akhire Karyauan lan Candranui nembang lan suasananipun dados\nasik. Nalika asik nembang, ngerti \u2013 ngerti Karyauan ndelok ono loro(2) wong\nsing lagi berduaan ning seberang dalan.<\/p>\n\n<p>Karyauan\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 :\u201dCuy,\ndeloken, nengkono ono sing lagi berduaan, ndono yoo.\u201d<\/p>\n\n<p>Candranui\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 :\u201dayooo.\u201d<\/p>\n\n<p>\u00a0<\/p>\n\n<p>Karyauan lan Candranui banjur pindah panggon saking panggon\nnghibur diri. Ning sisi liyane, Ti lan Van loro(2) wong sing ameh di tuju wong\nloro pengamen mau, lagi update pawarta terkini saking laptop.<\/p>\n\n<p>\u00a0<\/p>\n\n<p>Ti\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 :\u201dVan,\ndeloken. Tego tenan yo. Ono Seorang pengamen ngrampok lan mateni bocah koyo\nawak dewe\u201d<\/p>\n\n<p>Van\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 :\u201dTego\ntenan. Dadi ngeri karo pengamen\u201d<\/p>\n\n<p>\u00a0<\/p>\n\n<p>Banjur moro loro(2) pengamen marani Ti lan Van.<\/p>\n\n<p>Candranuia\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 :\u201dKulo\nnuwun mas, kulo nuwun mbak.\u201d<\/p>\n\n<p>Banjur Candranui nembang lan diiringi musik Karyauan.<\/p>\n\n<p>\u00a0<\/p>\n\n<p>Gara \u2013 gara bar wae moco berita tentang pengamen, TI lan Van\nbanjur ngerasa wedi lan langsung mlayu.<\/p>\n\n<p>Karyauan\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 :\u201dHei\nmbak, mas. Ameh nandi\u2026.\u201d(Nyobo ngoyak Ti lan Van)<\/p>\n\n<p>Candranui\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 :\u201dWislah\ncuy, rausah di oyak. Paling durung rezekine awak dewe\u201d<\/p>\n\n<p>Karyauan\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 :\u201dhuffftttt\u2026\nYawislah.\u201d (lemessss)<\/p>\n\n<p>\u00a0<\/p>\n\n<p>Mbasen ngeroso aman, Ti lan Van mandek sedelet.<\/p>\n\n<p>Ti\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 :\u201dUwis\nvan, mandik sikik. Toh ndeke uwis ora ngoyak awak dewe maneh.\u201d<\/p>\n\n<p>Van\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 :\u201dHo\u2019o,\nuntung wae awak dewe mlayu sakdurunge diapak \u2013 apakke karo ndeke.\u201d<\/p>\n\n<p>\u00a0<\/p>\n\n<p>Ndilalah Ti lan Van ditodong karo rampok.<\/p>\n\n<p>Rampok\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 :\u201dHehh\nkowe, kekno Hpmu, dompetmu lan laptopmu. Cepeettt!!!! (nganggo suara banter lan\nnodongake piso)<\/p>\n\n<p>Van\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 :\u201di\u2026.i\u2026.inggih\nmas.\u201d (karo ngulungake HP, dompet, lan laptop)<\/p>\n\n<p>\u00a0<\/p>\n\n<p>Sementara iku Ti kaweden lan ndelik ning mburine Van. Seko\nkadohan Candranui ndelok Van lan T lagi di rampok.<\/p>\n\n<p>Candranui\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 :\u201dCuy,\nbocah mau dirampok, ayo ditulungi.\u201d<\/p>\n\n<p>Karyauan\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 :\u201dNgopo\ntho cuy, ndeke wae mlayu pas awak dewe mau ngamen. Kowe pangerten banget marang\nbocah \u2013 bocah mau\u201d<\/p>\n\n<p>Candranui\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 :\u201dAwakdewe\niku sebagai manungsa kudu tulung pitulung. Walaupun ndeke sejahat apapun marang\nawakdewe.\u201d<\/p>\n\n<p>Karyauan\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 :\u201dYawislah\nsakkarepmu, aku ning kene wae.\u201d<\/p>\n\n<p>Candranui\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 :\u201dYawis,\nkowe nelfon polisi wae, ben rampoke aku wae sing urus\u201d<\/p>\n\n<p>Karyauan\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 :\u201d\nOK\u2026.\u201d<\/p>\n\n<p>\u00a0<\/p>\n\n<p>Akhire Candranui teko lan nulungi Van lan Ti.<\/p>\n\n<p>Rampok\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 :\u201dHeh,\nsopo kowe, rausah melu \u2013 melu. Gelem mati kowe?<\/p>\n\n<p>\u00a0<\/p>\n\n<p>Tanpo ngomong akeh, Candranui langsung gelut marang Rampoke\nwae. Akhire rampok wae kalah lan nggletak ning lemah. Ning waktu sing podo,\nKaryauan bareng polisi langsung memborgol rampok.<\/p>\n\n<p>Polis\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 :\u201d\nMatur nuwun nggih le, wong iki uwis dadi buronan suwi banget. Mergo kaliyan,\nbapak sakiki siso nyekel uwong iki.\u201d<\/p>\n\n<p>Candranui\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 :\u201dInggih\npak, sami \u2013 sami.\u201d<\/p>\n\n<p>Polisi\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 :\u201dAyoo\nmelu\u2026.\u201d(karo nggowo rampoke wae)<\/p>\n\n<p>\u00a0<\/p>\n\n<p>Karo setitik nahan loro, candranui ngewehi laptop, HP, lan\ndompet panggonane Van<\/p>\n\n<p>Candranui\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 :\u201dNiki\nbarangmu\u201d<\/p>\n\n<p>\u00a0<\/p>\n\n<p>Karo isin isin, Van njupuk barange lan nembung matur nuwun.<\/p>\n\n<p>Van\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 :\u201dNuwun\nyo bro. aku rareti kepriye dadine yen ora ono kowe. Ohyo nyuwun ngapunten yo\nsing wau, takkiro kabeh pengamen iku podo.\u201d<\/p>\n\n<p>Candranui\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 :\u201dhahahahah\u2026\nora opo opo cuy. Lagian ndelok wong iku ojo seko njobone tok, ora kabeh uwong\nkuwi podo.\u201d<\/p>\n\n<p>Van\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 :\u201dBro,\niki dijupuk yo, anggep wae kanggo tanda matur nuwun.\u201d<\/p>\n\n<p>Karyauan\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 :\u201dJupuk\nwae cuy, lumayan kanggo tambahan dino iki.\u201d<\/p>\n\n<p>Candranui\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 :\u201dDasar\nkowe kuwi, awakdewe namung nerimo duwit yen awak dewe uwis kerjo\u201d<\/p>\n\n<p>Van\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 :\u201dYawis,\nyen ngono, kenopo kaliyan ora nembang siji tembang kanggo awak dewe? Kan awak\ndewe impas.\u201d<\/p>\n\n<p>Candranui\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 :\u201dOke.\nLet\u2019s go\u2026.\u201d<\/p>\n\n<br \/><br \/><br \/>",
+                            "mark": 5,
+                            "marks_count": 2,
+                            "thanks": 1,
+                            "user_best_rank_id": 7,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2016-11-25T00:05:45+07:00",
+                                "approver": {
+                                    "id": 2663844,
+                                    "nickname": "Mahaguru",
+                                    "points": 262,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/db6\/c5fb7b6a68ce26ccea00dc12cb60d96f.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/df7\/fe8fb6dfa0d217a5d3fafa2a27e269ba.png"
+                                    },
+                                    "content_approved_count": 717882
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3194820,
+                                "nick": "alfinfauzan1993",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/de5\/4c5e6d66043265143342a94fe26b3530.jpg"
+                            },
+                            {
+                                "id": 1474741,
+                                "nick": "gumantinr",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d6c\/6886afc4fe968c0a4e99b01c1cf79277.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 9766150,
+                        "subject_id": 6,
+                        "user_id": 4642832,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "gw nanya....misalnya kita kan minta beliin sepatu sama org tua udh berhari hari gk dibeliin...terus ade lo sendiri minta pianika langsung di beliin ama ortu lu nah pendapat lu apa...<br \/><br \/>a.sakit hati<br \/>b.menangis ngumpet2<br \/>c.biasa aja",
+                        "created": "2017-03-08T21:27:43+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2017-03-08T21:28:20+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "gw nanya....misalnya kita kan minta beliin sepatu sama org <em>tua<\/em> udh berhari hari gk dibeliin...terus ade lo sendiri minta pianika langsung di beliin ama ortu <em>lu<\/em> nah pendapat <em>lu<\/em> apa...a.sakit hatib.menangis ngumpet2c.biasa <em>aja<\/em>",
+                        "snippet_content": "ade lo sendiri minta pianika langsung di beliin ama ortu <em>lu<\/em> nah pendapat <em>lu<\/em> apa...a.sakit hatib.menangis ngumpet2c.biasa <em>aja<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 11703863,
+                            "user_id": 3689157,
+                            "task_id": 9766150,
+                            "points": 5,
+                            "created": "2017-03-08T21:28:20+07:00",
+                            "content": "pendapat ku a. sakit hati ;V\u00a0",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 7203816,
+                                        "user_id": 4267992,
+                                        "content": "Hmm yasakit hatu sih, tqpi ya belajar dewasa aja",
+                                        "created": "2017-05-29T10:20:39+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 7203818,
+                                        "user_id": 4267992,
+                                        "content": "hati",
+                                        "created": "2017-05-29T10:20:50+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 2
+                            }
+                        },
+                        {
+                            "id": 11703898,
+                            "user_id": 4386377,
+                            "task_id": 9766150,
+                            "points": 5,
+                            "created": "2017-03-08T21:29:09+07:00",
+                            "content": "pasti jawabanya 'a' lah<br \/>kalau aku sih itu, emang kejadian? <br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 6343747,
+                                        "user_id": 4689311,
+                                        "content": "jawabnya A. karena jawaban A lebih spesifik, lebih masuk akal :v",
+                                        "created": "2017-03-08T21:44:39+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3689157,
+                                "nick": "venusvalenciia19",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d0a\/0f40519b9dc22a59d9a4b29294c4c2c7.jpg"
+                            },
+                            {
+                                "id": 4386377,
+                                "nick": "Jeconia466",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d11\/3e81664e6d4ef10beb1741db7bf36abf.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 6776750,
+                        "subject_id": 9,
+                        "user_id": 3322825,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "gan aku mau tanya nih . tadikan di sekolah temen-temn ku ngerencanain mau bolos karena mau nonton temenku yang sedang ikut lombe gerak jalan . trus aku bilangin mereka \"eh , lu pada ko mau bolos si , kagak boleh masah si anak mia bolos,  wlkes ajah bilang sama kita kalo kita ajah anak yg paling taat pada aturan , kok sekarang kalian mau bolos di saat  pelajaran mau mulai sih , nanti walkes marah loh  ?\" trus mereka bilang gini \" iii gak usah takut , udah lah nabti kita juga di marahin kok sama \" tenag ajah \" trus bel pertama berbunyi di jam pertama sampe jam ke 3 sih masih ada gurunya , nah pas jam terakhir gak ada gurunya dan mereka dah mau bolos , trus gue panggilin temen gue rani , eh ran kita musti cepet kasi tau walkes nih , kalo mereka mau bolos untuk nonton lomba gerak jalan ayoo , trus kita kasi tau walkes gue rani bilg gini buat walkes \" bu kami boleh pulang gak bu , soalnya kami mau nonton gerak jalan temen \" juga pada mau pulang !\" walkes langsung marah dibilangnya gini \" gak boleh ada yang pulang , kalo pulang ibu kasih alfa m trus panghilan orang tua\"  , suara walkes ku kan besar tuh sampe ketahuan sama temen \" . nah pas balik eh kita di marahin katanya kenapa mau laporin sih ,? lah itu kan buat kebaikan mereka kalo di panggil orang tua giman ? menurrut kalian , gue yang bener kalo meu nyelametin mereka diri mala petaka , atukah mereka yang bener  kalau mau bolos demi untuk suport temen yag sedang ikut lomba pelajaran?",
+                        "created": "2016-08-12T17:47:17+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2016-08-12T17:53:26+07:00",
+                        "the_best_resp_id": "8050014",
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "gan aku mau tanya nih . tadikan di sekolah temen-temn ku ngerencanain mau bolos karena mau nonton temenku yang sedang ikut lombe gerak jalan . trus aku bilangin mereka \"eh , <em>lu<\/em> pada ko mau bolos si , kagak boleh masah si anak mia bolos,  wlkes <em>ajah<\/em> bilang sama kita kalo kita <em>ajah<\/em> anak yg paling taat pada aturan , kok sekarang kalian mau bolos di saat  pelajaran mau mulai sih , nanti walkes marah loh  ?\" trus mereka bilang gini \" iii gak usah takut , udah lah nabti kita juga di marahin kok sama \" tenag <em>ajah<\/em> \" trus bel pertama berbunyi di jam pertama sampe jam ke 3 sih masih ada gurunya , nah pas jam terakhir gak ada gurunya dan mereka dah mau bolos , trus gue panggilin temen gue rani , eh ran kita musti cepet kasi <em>tau<\/em> walkes nih , kalo mereka mau bolos untuk nonton lomba gerak jalan ayoo , trus kita kasi <em>tau<\/em> walkes gue rani bilg gini buat walkes \" bu kami boleh pulang gak bu , soalnya kami mau nonton gerak jalan temen \" juga pada mau pulang !\" walkes langsung marah dibilangnya gini \" gak boleh ada yang pulang , kalo pulang ibu kasih alfa m trus panghilan orang tua\"  , suara walkes ku kan besar tuh sampe ketahuan sama temen \" . nah pas balik eh kita di marahin katanya kenapa mau laporin sih ,? lah itu kan buat kebaikan mereka kalo di panggil orang tua giman ? menurrut kalian , gue yang bener kalo meu nyelametin mereka diri mala petaka , atukah mereka yang bener  kalau mau bolos demi untuk suport temen yag sedang ikut lomba pelajaran?",
+                        "snippet_content": "mau bolos si , kagak boleh masah si anak mia bolos,  wlkes <em>ajah<\/em> bilang sama kita kalo kita <em>ajah<\/em> anak yg paling taat"
+                    },
+                    "responses": [
+                        {
+                            "id": 8049883,
+                            "user_id": 3393865,
+                            "task_id": 6776750,
+                            "points": 5,
+                            "created": "2016-08-12T17:53:26+07:00",
+                            "content": "harusnya kamu minta ijin dulu sama walkes kalau boleh ya biarin aja kalau gak boleh kamu bilangin kemereka kalau walkes dah tau cepetan balik ke kelas",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 4555127,
+                                        "user_id": 3322825,
+                                        "content": "walkes nya marh , gak boleh katanya . eh pas balok ke kelas aku di musuhin , di ejek truss terpojok deh",
+                                        "created": "2016-08-12T17:57:44+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 4555147,
+                                        "user_id": 3393865,
+                                        "content": "bilang aja deh gini kan aku udah berusaha ingetin ngapain lagi masih nyalahin aku... itu jawaban sopannya kalau jawaban kasar silahkam keluarkan unek unek anda",
+                                        "created": "2016-08-12T18:00:59+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 4555172,
+                                        "user_id": 3322825,
+                                        "content": "heheh , ia ia kak siap !! makasih ya kak",
+                                        "created": "2016-08-12T18:04:24+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 4555178,
+                                        "user_id": 3393865,
+                                        "content": "sama sama",
+                                        "created": "2016-08-12T18:05:08+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 4
+                            }
+                        },
+                        {
+                            "id": 8050014,
+                            "user_id": 2702375,
+                            "task_id": 6776750,
+                            "points": 5,
+                            "created": "2016-08-12T18:01:30+07:00",
+                            "content": "Pilihan yng  kamu lakukan pas.\nUrusan dgn teman km,sebaiknya kamu minta maaf dan memberikn alasan yg logis kpd mereka.",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3393865,
+                                "nick": "Aquesz",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d19\/15b19abb103c5926663bc060f724c025.jpg"
+                            },
+                            {
+                                "id": 2702375,
+                                "nick": "mariamrpg",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/db7\/5e3b0879eff78715f9a8a797ed2b3edb.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 6776745,
+                        "subject_id": 10,
+                        "user_id": 3322825,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "gan aku mau tanya nih . tadikan di sekolah temen-temn ku ngerencanain mau bolos karena mau nonton temenku yang sedang ikut lombe gerak jalan . trus aku bilangin mereka \"eh , lu pada ko mau bolos si , kagak boleh masah si anak mia bolos,  wlkes ajah bilang sama kita kalo kita ajah anak yg paling taat pada aturan , kok sekarang kalian mau bolos di saat  pelajaran mau mulai sih , nanti walkes marah loh  ?\" trus mereka bilang gini \" iii gak usah takut , udah lah nabti kita juga di marahin kok sama \" tenag ajah \" trus bel pertama berbunyi di jam pertama sampe jam ke 3 sih masih ada gurunya , nah pas jam terakhir gak ada gurunya dan mereka dah mau bolos , trus gue panggilin temen gue rani , eh ran kita musti cepet kasi tau walkes nih , kalo mereka mau bolos untuk nonton lomba gerak jalan ayoo , trus kita kasi tau walkes gue rani bilg gini buat walkes \" bu kami boleh pulang gak bu , soalnya kami mau nonton gerak jalan temen \" juga pada mau pulang !\" walkes langsung marah dibilangnya gini \" gak boleh ada yang pulang , kalo pulang ibu kasih alfa m trus panghilan orang tua\"  , suara walkes ku kan besar tuh sampe ketahuan sama temen \" . nah pas balik eh kita di marahin katanya kenapa mau laporin sih ,? lah itu kan buat kebaikan mereka kalo di panggil orang tua giman ? menurrut kalian , gue yang bener kalo meu nyelametin mereka diri mala petaka , atukah mereka yang bener  kalau mau bolos demi untuk suport temen yag sedang ikut lomba pelajaran?",
+                        "created": "2016-08-12T17:46:56+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2016-08-12T17:48:35+07:00",
+                        "the_best_resp_id": "8049840",
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "gan aku mau tanya nih . tadikan di sekolah temen-temn ku ngerencanain mau bolos karena mau nonton temenku yang sedang ikut lombe gerak jalan . trus aku bilangin mereka \"eh , <em>lu<\/em> pada ko mau bolos si , kagak boleh masah si anak mia bolos,  wlkes <em>ajah<\/em> bilang sama kita kalo kita <em>ajah<\/em> anak yg paling taat pada aturan , kok sekarang kalian mau bolos di saat  pelajaran mau mulai sih , nanti walkes marah loh  ?\" trus mereka bilang gini \" iii gak usah takut , udah lah nabti kita juga di marahin kok sama \" tenag <em>ajah<\/em> \" trus bel pertama berbunyi di jam pertama sampe jam ke 3 sih masih ada gurunya , nah pas jam terakhir gak ada gurunya dan mereka dah mau bolos , trus gue panggilin temen gue rani , eh ran kita musti cepet kasi <em>tau<\/em> walkes nih , kalo mereka mau bolos untuk nonton lomba gerak jalan ayoo , trus kita kasi <em>tau<\/em> walkes gue rani bilg gini buat walkes \" bu kami boleh pulang gak bu , soalnya kami mau nonton gerak jalan temen \" juga pada mau pulang !\" walkes langsung marah dibilangnya gini \" gak boleh ada yang pulang , kalo pulang ibu kasih alfa m trus panghilan orang tua\"  , suara walkes ku kan besar tuh sampe ketahuan sama temen \" . nah pas balik eh kita di marahin katanya kenapa mau laporin sih ,? lah itu kan buat kebaikan mereka kalo di panggil orang tua giman ? menurrut kalian , gue yang bener kalo meu nyelametin mereka diri mala petaka , atukah mereka yang bener  kalau mau bolos demi untuk suport temen yag sedang ikut lomba pelajaran?",
+                        "snippet_content": "mau bolos si , kagak boleh masah si anak mia bolos,  wlkes <em>ajah<\/em> bilang sama kita kalo kita <em>ajah<\/em> anak yg paling taat"
+                    },
+                    "responses": [
+                        {
+                            "id": 8049815,
+                            "user_id": 3392119,
+                            "task_id": 6776745,
+                            "points": 5,
+                            "created": "2016-08-12T17:48:35+07:00",
+                            "content": "kamu lah kan mencegah agar tidak bolos karena mensupport dari doa pun bisa",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 8049840,
+                            "user_id": 3396179,
+                            "task_id": 6776745,
+                            "points": 5,
+                            "created": "2016-08-12T17:50:13+07:00",
+                            "content": "cegahlah temenmu agar tidak mbolos karena nanti pas mbolos ketauhan walkes nya gimana",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3392119,
+                                "nick": "faisal246",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d7f\/c8e77681b58cef4e1c8d9606331c0f8e.jpg"
+                            },
+                            {
+                                "id": 3396179,
+                                "nick": "Reherty",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d34\/3583b9926104a411788df52d76fc54b4.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 6776739,
+                        "subject_id": 18,
+                        "user_id": 3322825,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "gan aku mau tanya nih . tadikan di sekolah temen-temn ku ngerencanain mau bolos karena mau nonton temenku yang sedang ikut lombe gerak jalan . trus aku bilangin mereka \"eh , lu pada ko mau bolos si , kagak boleh masah si anak mia bolos,  wlkes ajah bilang sama kita kalo kita ajah anak yg paling taat pada aturan , kok sekarang kalian mau bolos di saat  pelajaran mau mulai sih , nanti walkes marah loh  ?\" trus mereka bilang gini \" iii gak usah takut , udah lah nabti kita juga di marahin kok sama \" tenag ajah \" trus bel pertama berbunyi di jam pertama sampe jam ke 3 sih masih ada gurunya , nah pas jam terakhir gak ada gurunya dan mereka dah mau bolos , trus gue panggilin temen gue rani , eh ran kita musti cepet kasi tau walkes nih , kalo mereka mau bolos untuk nonton lomba gerak jalan ayoo , trus kita kasi tau walkes gue rani bilg gini buat walkes \" bu kami boleh pulang gak bu , soalnya kami mau nonton gerak jalan temen \" juga pada mau pulang !\" walkes langsung marah dibilangnya gini \" gak boleh ada yang pulang , kalo pulang ibu kasih alfa m trus panghilan orang tua\"  , suara walkes ku kan besar tuh sampe ketahuan sama temen \" . nah pas balik eh kita di marahin katanya kenapa mau laporin sih ,? lah itu kan buat kebaikan mereka kalo di panggil orang tua giman ? menurrut kalian , gue yang bener kalo meu nyelametin mereka diri mala petaka , atukah mereka yang bener  kalau mau bolos demi untuk suport temen yag sedang ikut lomba pelajaran?",
+                        "created": "2016-08-12T17:46:32+07:00",
+                        "responses": 2,
+                        "tickets": 3,
+                        "first_resp": "2016-08-12T17:54:55+07:00",
+                        "the_best_resp_id": "8049907",
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "gan aku mau tanya nih . tadikan di sekolah temen-temn ku ngerencanain mau bolos karena mau nonton temenku yang sedang ikut lombe gerak jalan . trus aku bilangin mereka \"eh , <em>lu<\/em> pada ko mau bolos si , kagak boleh masah si anak mia bolos,  wlkes <em>ajah<\/em> bilang sama kita kalo kita <em>ajah<\/em> anak yg paling taat pada aturan , kok sekarang kalian mau bolos di saat  pelajaran mau mulai sih , nanti walkes marah loh  ?\" trus mereka bilang gini \" iii gak usah takut , udah lah nabti kita juga di marahin kok sama \" tenag <em>ajah<\/em> \" trus bel pertama berbunyi di jam pertama sampe jam ke 3 sih masih ada gurunya , nah pas jam terakhir gak ada gurunya dan mereka dah mau bolos , trus gue panggilin temen gue rani , eh ran kita musti cepet kasi <em>tau<\/em> walkes nih , kalo mereka mau bolos untuk nonton lomba gerak jalan ayoo , trus kita kasi <em>tau<\/em> walkes gue rani bilg gini buat walkes \" bu kami boleh pulang gak bu , soalnya kami mau nonton gerak jalan temen \" juga pada mau pulang !\" walkes langsung marah dibilangnya gini \" gak boleh ada yang pulang , kalo pulang ibu kasih alfa m trus panghilan orang tua\"  , suara walkes ku kan besar tuh sampe ketahuan sama temen \" . nah pas balik eh kita di marahin katanya kenapa mau laporin sih ,? lah itu kan buat kebaikan mereka kalo di panggil orang tua giman ? menurrut kalian , gue yang bener kalo meu nyelametin mereka diri mala petaka , atukah mereka yang bener  kalau mau bolos demi untuk suport temen yag sedang ikut lomba pelajaran?",
+                        "snippet_content": "mau bolos si , kagak boleh masah si anak mia bolos,  wlkes <em>ajah<\/em> bilang sama kita kalo kita <em>ajah<\/em> anak yg paling taat"
+                    },
+                    "responses": [
+                        {
+                            "id": 8049907,
+                            "user_id": 3402291,
+                            "task_id": 6776739,
+                            "points": 5,
+                            "created": "2016-08-12T17:54:55+07:00",
+                            "content": "seharusnya mereka itu berterima kasih. dari pada di keesokan harinya mereka dapet SP1\/ pemanggilan ortu? kan malu-maluin.",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 4555109,
+                                        "user_id": 3322825,
+                                        "content": "tapi aku sekarang malah di pojokin kak ,",
+                                        "created": "2016-08-12T17:56:10+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 4555151,
+                                        "user_id": 3402291,
+                                        "content": "ga usah takut. yang penting kita udh ngasih tau, bahwa yg akan dilakukannya itu salah. toh kalo mereka masih punya akal sehat\/ merenungi kesalahannya, pasti bakal minta maaf.",
+                                        "created": "2016-08-12T18:01:55+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 4555806,
+                                        "user_id": 3322825,
+                                        "content": "oo ia , kak makasih yah",
+                                        "created": "2016-08-12T18:54:33+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 4556112,
+                                        "user_id": 3402291,
+                                        "content": "sama-sama :)",
+                                        "created": "2016-08-12T19:16:55+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 4
+                            }
+                        },
+                        {
+                            "id": 8050927,
+                            "user_id": 3406598,
+                            "task_id": 6776739,
+                            "points": 5,
+                            "created": "2016-08-12T18:40:42+07:00",
+                            "content": "Kamu ga salah kok,, jangaann dengerinn ucapaan merekaa",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3402291,
+                                "nick": "SalAqsal",
+                                "avatar": null
+                            },
+                            {
+                                "id": 3406598,
+                                "nick": "Kysakr",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/df9\/f15f4f9f2751f9d4bfd282de2071e091.png"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 6776737,
+                        "subject_id": 9,
+                        "user_id": 3322825,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "gan aku mau tanya nih . tadikan di sekolah temen-temn ku ngerencanain mau bolos karena mau nonton temenku yang sedang ikut lombe gerak jalan . trus aku bilangin mereka \"eh , lu pada ko mau bolos si , kagak boleh masah si anak mia bolos,  wlkes ajah bilang sama kita kalo kita ajah anak yg paling taat pada aturan , kok sekarang kalian mau bolos di saat  pelajaran mau mulai sih , nanti walkes marah loh  ?\" trus mereka bilang gini \" iii gak usah takut , udah lah nabti kita juga di marahin kok sama \" tenag ajah \" trus bel pertama berbunyi di jam pertama sampe jam ke 3 sih masih ada gurunya , nah pas jam terakhir gak ada gurunya dan mereka dah mau bolos , trus gue panggilin temen gue rani , eh ran kita musti cepet kasi tau walkes nih , kalo mereka mau bolos untuk nonton lomba gerak jalan ayoo , trus kita kasi tau walkes gue rani bilg gini buat walkes \" bu kami boleh pulang gak bu , soalnya kami mau nonton gerak jalan temen \" juga pada mau pulang !\" walkes langsung marah dibilangnya gini \" gak boleh ada yang pulang , kalo pulang ibu kasih alfa m trus panghilan orang tua\"  , suara walkes ku kan besar tuh sampe ketahuan sama temen \" . nah pas balik eh kita di marahin katanya kenapa mau laporin sih ,? lah itu kan buat kebaikan mereka kalo di panggil orang tua giman ? menurrut kalian , gue yang bener kalo meu nyelametin mereka diri mala petaka , atukah mereka yang bener  kalau mau bolos demi untuk suport temen yag sedang ikut lomba pelajaran?",
+                        "created": "2016-08-12T17:46:12+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2016-08-12T17:49:21+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "gan aku mau tanya nih . tadikan di sekolah temen-temn ku ngerencanain mau bolos karena mau nonton temenku yang sedang ikut lombe gerak jalan . trus aku bilangin mereka \"eh , <em>lu<\/em> pada ko mau bolos si , kagak boleh masah si anak mia bolos,  wlkes <em>ajah<\/em> bilang sama kita kalo kita <em>ajah<\/em> anak yg paling taat pada aturan , kok sekarang kalian mau bolos di saat  pelajaran mau mulai sih , nanti walkes marah loh  ?\" trus mereka bilang gini \" iii gak usah takut , udah lah nabti kita juga di marahin kok sama \" tenag <em>ajah<\/em> \" trus bel pertama berbunyi di jam pertama sampe jam ke 3 sih masih ada gurunya , nah pas jam terakhir gak ada gurunya dan mereka dah mau bolos , trus gue panggilin temen gue rani , eh ran kita musti cepet kasi <em>tau<\/em> walkes nih , kalo mereka mau bolos untuk nonton lomba gerak jalan ayoo , trus kita kasi <em>tau<\/em> walkes gue rani bilg gini buat walkes \" bu kami boleh pulang gak bu , soalnya kami mau nonton gerak jalan temen \" juga pada mau pulang !\" walkes langsung marah dibilangnya gini \" gak boleh ada yang pulang , kalo pulang ibu kasih alfa m trus panghilan orang tua\"  , suara walkes ku kan besar tuh sampe ketahuan sama temen \" . nah pas balik eh kita di marahin katanya kenapa mau laporin sih ,? lah itu kan buat kebaikan mereka kalo di panggil orang tua giman ? menurrut kalian , gue yang bener kalo meu nyelametin mereka diri mala petaka , atukah mereka yang bener  kalau mau bolos demi untuk suport temen yag sedang ikut lomba pelajaran?",
+                        "snippet_content": "mau bolos si , kagak boleh masah si anak mia bolos,  wlkes <em>ajah<\/em> bilang sama kita kalo kita <em>ajah<\/em> anak yg paling taat"
+                    },
+                    "responses": [
+                        {
+                            "id": 8049824,
+                            "user_id": 2927394,
+                            "task_id": 6776737,
+                            "points": 5,
+                            "created": "2016-08-12T17:49:21+07:00",
+                            "content": "niat kamu bagus untuk mereka jadi kamu tidak bersalah",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2927394,
+                                "nick": "ramdani14",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 6776733,
+                        "subject_id": 1,
+                        "user_id": 3322825,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "gan aku mau tanya nih . tadikan di sekolah temen-temn ku ngerencanain mau bolos karena mau nonton temenku yang sedang ikut lombe gerak jalan . trus aku bilangin mereka \"eh , lu pada ko mau bolos si , kagak boleh masah si anak mia bolos,  wlkes ajah bilang sama kita kalo kita ajah anak yg paling taat pada aturan , kok sekarang kalian mau bolos di saat  pelajaran mau mulai sih , nanti walkes marah loh  ?\" trus mereka bilang gini \" iii gak usah takut , udah lah nabti kita juga di marahin kok sama \" tenag ajah \" trus bel pertama berbunyi di jam pertama sampe jam ke 3 sih masih ada gurunya , nah pas jam terakhir gak ada gurunya dan mereka dah mau bolos , trus gue panggilin temen gue rani , eh ran kita musti cepet kasi tau walkes nih , kalo mereka mau bolos untuk nonton lomba gerak jalan ayoo , trus kita kasi tau walkes gue rani bilg gini buat walkes \" bu kami boleh pulang gak bu , soalnya kami mau nonton gerak jalan temen \" juga pada mau pulang !\" walkes langsung marah dibilangnya gini \" gak boleh ada yang pulang , kalo pulang ibu kasih alfa m trus panghilan orang tua\"  , suara walkes ku kan besar tuh sampe ketahuan sama temen \" . nah pas balik eh kita di marahin katanya kenapa mau laporin sih ,? lah itu kan buat kebaikan mereka kalo di panggil orang tua giman ? menurrut kalian , gue yang bener kalo meu nyelametin mereka diri mala petaka , atukah mereka yang bener  kalau mau bolos demi untuk suport temen yag sedang ikut lomba pelajaran?",
+                        "created": "2016-08-12T17:45:53+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2016-08-12T17:47:39+07:00",
+                        "the_best_resp_id": "8049825",
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "gan aku mau tanya nih . tadikan di sekolah temen-temn ku ngerencanain mau bolos karena mau nonton temenku yang sedang ikut lombe gerak jalan . trus aku bilangin mereka \"eh , <em>lu<\/em> pada ko mau bolos si , kagak boleh masah si anak mia bolos,  wlkes <em>ajah<\/em> bilang sama kita kalo kita <em>ajah<\/em> anak yg paling taat pada aturan , kok sekarang kalian mau bolos di saat  pelajaran mau mulai sih , nanti walkes marah loh  ?\" trus mereka bilang gini \" iii gak usah takut , udah lah nabti kita juga di marahin kok sama \" tenag <em>ajah<\/em> \" trus bel pertama berbunyi di jam pertama sampe jam ke 3 sih masih ada gurunya , nah pas jam terakhir gak ada gurunya dan mereka dah mau bolos , trus gue panggilin temen gue rani , eh ran kita musti cepet kasi <em>tau<\/em> walkes nih , kalo mereka mau bolos untuk nonton lomba gerak jalan ayoo , trus kita kasi <em>tau<\/em> walkes gue rani bilg gini buat walkes \" bu kami boleh pulang gak bu , soalnya kami mau nonton gerak jalan temen \" juga pada mau pulang !\" walkes langsung marah dibilangnya gini \" gak boleh ada yang pulang , kalo pulang ibu kasih alfa m trus panghilan orang tua\"  , suara walkes ku kan besar tuh sampe ketahuan sama temen \" . nah pas balik eh kita di marahin katanya kenapa mau laporin sih ,? lah itu kan buat kebaikan mereka kalo di panggil orang tua giman ? menurrut kalian , gue yang bener kalo meu nyelametin mereka diri mala petaka , atukah mereka yang bener  kalau mau bolos demi untuk suport temen yag sedang ikut lomba pelajaran?",
+                        "snippet_content": "mau bolos si , kagak boleh masah si anak mia bolos,  wlkes <em>ajah<\/em> bilang sama kita kalo kita <em>ajah<\/em> anak yg paling taat"
+                    },
+                    "responses": [
+                        {
+                            "id": 8049799,
+                            "user_id": 3130210,
+                            "task_id": 6776733,
+                            "points": 5,
+                            "created": "2016-08-12T17:47:39+07:00",
+                            "content": "yang bener itu kamu karena mau menasehati temen kamu yang manu bolos sekolah.",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 8049825,
+                            "user_id": 330285,
+                            "task_id": 6776733,
+                            "points": 5,
+                            "created": "2016-08-12T17:49:22+07:00",
+                            "content": "kamu yg bener dong :) kan orang yang baik itu selalu menaati aturan, dan mungkin jika ingin dukung temennya seharusnya izin terlebih dahulu kepada walikelas atau guru pelajarannya...itu lebih baik daripada melarikan diri tanpa sepengetahuan guru :)<br \/><br \/><span>kalau sangat membantu mohon diberi jawaban tercerdasnya :)<\/span><br \/>",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3130210,
+                                "nick": "joshua1231",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d96\/9a39d37076b796e60e08a5a5280d875b.jpg"
+                            },
+                            {
+                                "id": 330285,
+                                "nick": "Keymal",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dda\/afbd7d205151fa614a037ca313f88f31.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10596946,
+                        "subject_id": 2,
+                        "user_id": 5018854,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "tolong yg bisa ngerjain ini gw kasih ape aje yg lu mau tapi pakai cara nomor16",
+                        "created": "2017-05-10T12:54:27+07:00",
+                        "responses": 2,
+                        "tickets": 3,
+                        "first_resp": "2017-05-10T12:59:48+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [
+                            {
+                                "full": "https:\/\/id-static.z-dn.net\/files\/d5c\/7505437fca8e1c82f455df983d51acb0.jpg",
+                                "thumbnail": "https:\/\/id-static.z-dn.net\/files\/d6a\/b0d6b46f151eca142375d5ddee542520.jpg",
+                                "type": "image\/jpeg",
+                                "size": 42829,
+                                "hash": "7505437fca8e1c82f455df983d51acb0",
+                                "id": 5155584,
+                                "extension": "jpg"
+                            }
+                        ],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "tolong yg bisa ngerjain ini gw kasih ape <em>aje<\/em> yg <em>lu<\/em> <em>mau<\/em> tapi pakai cara nomor16",
+                        "snippet_content": "tolong yg bisa ngerjain ini gw kasih ape <em>aje<\/em> yg <em>lu<\/em> <em>mau<\/em> tapi pakai cara nomor16"
+                    },
+                    "responses": [
+                        {
+                            "id": 12827831,
+                            "user_id": 4336399,
+                            "task_id": 10596946,
+                            "points": 5,
+                            "created": "2017-05-10T12:59:48+07:00",
+                            "content": "10 ha - 120 are - 36.500 m\u00b2 = .......m\u00b2<br \/>10 ha \u00d7 10.000 = 100.000 m\u00b2<br \/>120 are \u00d7 100 =      12.000 m\u00b2<br \/>36.500 m\u00b2    =        36.500 m\u00b2<br \/>                            _____________-<br \/>                             D.   51.500 m\u00b2<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 7026736,
+                                        "user_id": 4336399,
+                                        "content": "jadikan jawabanku jawaban terbaik",
+                                        "created": "2017-05-10T13:00:25+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        },
+                        {
+                            "id": 12827860,
+                            "user_id": 3084473,
+                            "task_id": 10596946,
+                            "points": 5,
+                            "created": "2017-05-10T13:02:29+07:00",
+                            "content": "10 ha setara dengan hm\u00b2 maka 10 ha=100000 m\u00b2<br \/>120 are setara dengan dam\u00b2 maka 120 are=12000 m\u00b2<br \/>\u00a0<br \/>100000-12000-36.500<br \/>88.000-36.500<br \/>51.500 m\u00b2(d)<br \/>maaf kalau salah semoga membantu",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4336399,
+                                "nick": "salsa1191",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d39\/8683777c9c2e090ae926f1359c52d784.jpg"
+                            },
+                            {
+                                "id": 3084473,
+                                "nick": "020705",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dc7\/adfccfc5e4eec75b850e2b469e4dce94.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 10,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 3859666,
+            "nick": "Mzidansantoso",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 21,
+                "answers": 26,
+                "comments": 13
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4d\/5bb4f3e4bb4b3d000be69c0a54e2a37a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dea\/030e1e4c8ce74aadb2e498e4c3000032.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d4d\/5bb4f3e4bb4b3d000be69c0a54e2a37a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dea\/030e1e4c8ce74aadb2e498e4c3000032.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4339248,
+            "nick": "nurulfauziahk",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 120,
+                "comments": 54
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 938392,
+            "nick": "evelinemeisya",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 265,
+                "answers": 169,
+                "comments": 732
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#000000",
+                "names": [],
+                "count": 0
+            },
+            "ranks_ids": null
+        },
+        {
+            "id": 933685,
+            "nick": "rachelliemidia",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 16,
+                "comments": 40
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 45459,
+            "nick": "valdakalangie",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 10,
+                "answers": 79,
+                "comments": 50
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d6b\/2936a86112857bb35b2cbc56eb675389.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d1f\/c161bbc536b8df08b0c1c59cc36faf64.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d6b\/2936a86112857bb35b2cbc56eb675389.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d1f\/c161bbc536b8df08b0c1c59cc36faf64.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 940383,
+            "nick": "Andien05",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 8,
+                "answers": 2,
+                "comments": 6
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d30\/52133a1100455004d6e7b83a7a22bfc3.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d1a\/71510e840d08dae87e9b3c75c4805542.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d30\/52133a1100455004d6e7b83a7a22bfc3.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d1a\/71510e840d08dae87e9b3c75c4805542.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 1030972,
+            "nick": "Putrihmp",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d70\/269767ccdf65d0040220423f2202f19b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d08\/5bf0b44cd1b0687efb3c8668df6d3ced.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d70\/269767ccdf65d0040220423f2202f19b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d08\/5bf0b44cd1b0687efb3c8668df6d3ced.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 758530,
+            "nick": "yayukodol",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 31,
+                "answers": 132,
+                "comments": 52
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd8\/c2fd5193a0edc824dd2d83c01ecedf43.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d54\/c8954ff9c687d4bfeeb655f7b90e98c9.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd8\/c2fd5193a0edc824dd2d83c01ecedf43.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d54\/c8954ff9c687d4bfeeb655f7b90e98c9.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 3194820,
+            "nick": "alfinfauzan1993",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 916,
+                "comments": 19
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d8b\/52c8fcfa55923b15e3cb306a24806950.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de5\/4c5e6d66043265143342a94fe26b3530.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d8b\/52c8fcfa55923b15e3cb306a24806950.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de5\/4c5e6d66043265143342a94fe26b3530.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "BrainlyTeacher",
+                    "Moderator",
+                    "Si Hebat"
+                ],
+                "count": 3
+            },
+            "ranks_ids": [
+                91,
+                19,
+                6
+            ]
+        },
+        {
+            "id": 1474741,
+            "nick": "gumantinr",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 76,
+                "answers": 17038,
+                "comments": 4542
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d87\/62084e44ff4fa7912aea7c8054bc01be.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6c\/6886afc4fe968c0a4e99b01c1cf79277.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d87\/62084e44ff4fa7912aea7c8054bc01be.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6c\/6886afc4fe968c0a4e99b01c1cf79277.jpg"
+            },
+            "ranks": {
+                "color": "#ffbe32",
+                "names": [
+                    "Guru",
+                    "BrainlyTeacher",
+                    "BrainlyDoctor",
+                    "BrainlyElite",
+                    "Moderator",
+                    "Jenius"
+                ],
+                "count": 6
+            },
+            "ranks_ids": [
+                12,
+                91,
+                32,
+                27,
+                19,
+                7
+            ]
+        },
+        {
+            "id": 4642832,
+            "nick": "NadiaNursefianaa",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 19,
+                "comments": 2
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d83\/44f8f8e5cbe813a75502c076bcfdac7f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd7\/2a3d58858244871f64ff172c72e98f6c.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d83\/44f8f8e5cbe813a75502c076bcfdac7f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd7\/2a3d58858244871f64ff172c72e98f6c.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4267992,
+            "nick": "ridwantanjung66",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 0,
+                "comments": 2
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d59\/06257a213fd0b989323a0f262450767d.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d26\/0352600116f6f685cd8ef96207fcaee1.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d59\/06257a213fd0b989323a0f262450767d.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d26\/0352600116f6f685cd8ef96207fcaee1.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 3689157,
+            "nick": "venusvalenciia19",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 28,
+                "comments": 4
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dcf\/d9fc2b18fcf56f204ee3ac5672deca83.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d0a\/0f40519b9dc22a59d9a4b29294c4c2c7.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dcf\/d9fc2b18fcf56f204ee3ac5672deca83.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d0a\/0f40519b9dc22a59d9a4b29294c4c2c7.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 4689311,
+            "nick": "JihanShahira",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 1
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d57\/512584fed494b725aee1d81cc86d2f1a.jpeg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d2d\/6432a1fb6d2a9d0e7b118530e47f0993.jpeg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d57\/512584fed494b725aee1d81cc86d2f1a.jpeg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d2d\/6432a1fb6d2a9d0e7b118530e47f0993.jpeg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4386377,
+            "nick": "Jeconia466",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 24,
+                "answers": 304,
+                "comments": 121
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d62\/b5b611e6723e726d3299546894ca575c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d11\/3e81664e6d4ef10beb1741db7bf36abf.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d62\/b5b611e6723e726d3299546894ca575c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d11\/3e81664e6d4ef10beb1741db7bf36abf.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 3322825,
+            "nick": "tia336",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 52,
+                "answers": 23,
+                "comments": 59
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db2\/864b4ab7c61c529615090041d1df103e.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d75\/6787ba797e16c5744324b1d1992ebd00.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db2\/864b4ab7c61c529615090041d1df103e.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d75\/6787ba797e16c5744324b1d1992ebd00.png"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 3393865,
+            "nick": "Aquesz",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 16,
+                "comments": 5
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/ddc\/19cda0d019a3bcd01cb8abb1aaf0a2aa.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d19\/15b19abb103c5926663bc060f724c025.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/ddc\/19cda0d019a3bcd01cb8abb1aaf0a2aa.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d19\/15b19abb103c5926663bc060f724c025.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 2702375,
+            "nick": "mariamrpg",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 7,
+                "comments": 6
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df0\/533fe53d2a8430ed09cef5b872f5db06.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db7\/5e3b0879eff78715f9a8a797ed2b3edb.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df0\/533fe53d2a8430ed09cef5b872f5db06.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db7\/5e3b0879eff78715f9a8a797ed2b3edb.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 3392119,
+            "nick": "faisal246",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 42,
+                "comments": 14
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d5e\/6395724a32241e96d1045f813859a367.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7f\/c8e77681b58cef4e1c8d9606331c0f8e.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d5e\/6395724a32241e96d1045f813859a367.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7f\/c8e77681b58cef4e1c8d9606331c0f8e.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 3396179,
+            "nick": "Reherty",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 3,
+                "comments": 1
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d2e\/9ae2828624ca1ecdbe10cb9da6320377.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d34\/3583b9926104a411788df52d76fc54b4.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d2e\/9ae2828624ca1ecdbe10cb9da6320377.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d34\/3583b9926104a411788df52d76fc54b4.jpg"
+            },
+            "ranks": {
+                "color": "#000000",
+                "names": [],
+                "count": 0
+            },
+            "ranks_ids": null
+        },
+        {
+            "id": 3402291,
+            "nick": "SalAqsal",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 18,
+                "comments": 3
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 3406598,
+            "nick": "Kysakr",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 2,
+                "comments": 3
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da5\/d45a1f89e31845e91fc681cebd0ecb92.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df9\/f15f4f9f2751f9d4bfd282de2071e091.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da5\/d45a1f89e31845e91fc681cebd0ecb92.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df9\/f15f4f9f2751f9d4bfd282de2071e091.png"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 2927394,
+            "nick": "ramdani14",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 6,
+                "answers": 8,
+                "comments": 5
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 3130210,
+            "nick": "joshua1231",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 22,
+                "answers": 993,
+                "comments": 785
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d85\/d928c0397c14b54d42956419b1a74fea.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d96\/9a39d37076b796e60e08a5a5280d875b.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d85\/d928c0397c14b54d42956419b1a74fea.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d96\/9a39d37076b796e60e08a5a5280d875b.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        },
+        {
+            "id": 330285,
+            "nick": "Keymal",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 18,
+                "answers": 180,
+                "comments": 16
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d43\/1194be3ceba7b363e46014c58c06038e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dda\/afbd7d205151fa614a037ca313f88f31.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d43\/1194be3ceba7b363e46014c58c06038e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dda\/afbd7d205151fa614a037ca313f88f31.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 5018854,
+            "nick": "ronaldajaf",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db8\/8ddb79e6c2d4c8e3afc778229b1a19f9.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d0d\/f510fecea87f4d171d119e39d33bd7ac.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db8\/8ddb79e6c2d4c8e3afc778229b1a19f9.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d0d\/f510fecea87f4d171d119e39d33bd7ac.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4336399,
+            "nick": "salsa1191",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 111,
+                "answers": 1132,
+                "comments": 854
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d8b\/fdd87d4a47a5db26d3996f77c6b9c272.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d39\/8683777c9c2e090ae926f1359c52d784.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d8b\/fdd87d4a47a5db26d3996f77c6b9c272.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d39\/8683777c9c2e090ae926f1359c52d784.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        },
+        {
+            "id": 3084473,
+            "nick": "020705",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 13,
+                "answers": 264,
+                "comments": 175
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d7b\/2dd7187f295fab1d38e607419fae5314.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc7\/adfccfc5e4eec75b850e2b469e4dce94.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d7b\/2dd7187f295fab1d38e607419fae5314.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc7\/adfccfc5e4eec75b850e2b469e4dce94.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        }
+    ],
+    "validated": false
+}

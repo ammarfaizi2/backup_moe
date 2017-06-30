@@ -1,0 +1,1744 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 9282468,
+                        "subject_id": 2,
+                        "user_id": 4165168,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "1.Sebuah kalengberisi 18 liter minyak tanah. Sebanyak 4\/9 dari minyak tanah itu diisikaan ke dalam kompor. Berapa liter minyak tanah yang telah diisikan ke dalam kompor ? Berapa liter sisanya<br \/><br \/>2. Rumah mirna 1\/4 km dari sekolah. Rumah nadya 2\/5 km dari sekolah. Rumah siapakah yang lebih dekat ke sekolah ? Berapakm lebih dekat?<br \/><br \/>3. Mana yang lebih banyak 2\/3 dari 12 kg atau 5\/6 dari 12 kg? Berapa kg bedanya?",
+                        "created": "2017-02-05T10:11:55+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-02-05T10:15:48+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "1.Sebuah kalengberisi 18 liter minyak tanah. Sebanyak 4\/9 dari minyak tanah itu diisikaan ke dalam kompor. Berapa liter minyak tanah yang telah diisikan ke dalam kompor ? Berapa liter sisanya2. Rumah mirna 1\/4 km dari sekolah. Rumah <em>nadya<\/em> 2\/5 km dari sekolah. Rumah siapakah yang lebih dekat ke sekolah ? Berapakm lebih dekat?3. <em>Mana<\/em> yang lebih banyak 2\/3 dari 12 kg atau 5\/6 dari 12 kg? Berapa kg bedanya?",
+                        "snippet_content": "Berapa liter sisanya2. Rumah mirna 1\/4 km dari sekolah. Rumah <em>nadya<\/em> 2\/5 km dari sekolah. Rumah siapakah yang lebih dekat"
+                    },
+                    "responses": [
+                        {
+                            "id": 11097381,
+                            "user_id": 4270519,
+                            "task_id": 9282468,
+                            "points": 5,
+                            "created": "2017-02-05T10:15:48+07:00",
+                            "content": "1.kedalam kompor=4\/9 x18=8 liter<br \/>disana =18-8=10liter",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4270519,
+                                "nick": "JhonsonRivaiSianturi",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d5e\/6b7500c8f4e3de18a467fd508ba0cb5d.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 656063,
+                        "subject_id": 2,
+                        "user_id": 264469,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "no 1. sebuah kaleng berisi 18 liter minyak tanah. sebanyak 4 per 9 dri minyak tanah itu diisikan ke dlm kompor. berapa lietr minyak tanah yg telah diisikan ke dlm kompor?  berapa liter sisanya ? <br \/><br \/>\nno 2. rumah mirna 1 per 4 km dri sklh. rumah nadya 2 per 5 km dri sklh. rumah siapa yang lebih dkt kesekolah?  berapa km lebih dekat ? <br \/><br \/>\nno 3. mana yang lebih bnyk 2 per 3 dri 12 kg atau 5 per 6 dri 12 kg ? berapa kg beda nya ? <br \/><br \/>\nno 4. dalan sehari ada 24 jam. berapa jamkah terdapat dlm 7 per 8 hari ? <br \/><br \/><br \/><br \/><br \/>\ntlg dijawab semua nya ya<br \/>\nterima kasih :)",
+                        "created": "2014-09-11T21:03:15+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2014-09-11T21:22:10+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "2",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "no 1. sebuah kaleng berisi 18 liter minyak tanah. sebanyak 4 per 9 dri minyak tanah itu diisikan ke dlm kompor. berapa lietr minyak tanah yg telah diisikan ke dlm kompor?  berapa liter sisanya ? \nno 2. rumah mirna 1 per 4 km dri sklh. rumah <em>nadya<\/em> 2 per 5 km dri sklh. rumah siapa yang lebih dkt kesekolah?  berapa km lebih dekat ? \nno 3. <em>mana<\/em> yang lebih bnyk 2 per 3 dri 12 kg atau 5 per 6 dri 12 kg ? berapa kg beda nya ? \nno 4. dalan sehari ada 24 jam. berapa jamkah terdapat dlm 7 per 8 hari ? \ntlg dijawab semua nya ya\nterima kasih :)",
+                        "snippet_content": "no 2. rumah mirna 1 per 4 km dri sklh. rumah <em>nadya<\/em> 2 per 5 km dri sklh. rumah siapa yang lebih"
+                    },
+                    "responses": [
+                        {
+                            "id": 850562,
+                            "user_id": 21454,
+                            "task_id": 656063,
+                            "points": 5,
+                            "created": "2014-09-11T21:22:10+07:00",
+                            "content": "1)\u00a0 18\u00a0x 4\/9 = 8 liter yang diisi kedalam kompor. sisa 18-8= 10 liter<br \/>2) yang lebih dekat rumah mirna 1\/4 km . <br \/>1\/4 x 1 km = 0,25 km ( mirna)<br \/>\u00a02\/5 x 1 km\u00a0= 0,4 km (nadya). \u00a0<br \/>0,4-0,25= 0,15 km lebih dekat.<br \/>3) 2\/3 x 12 = 8<br \/>5\/6 x 12 = 10 ( lebih banyak dengan beda 2)<br \/>4)7\/8 x 24 \u00a0jam= 21 jam<br \/>insya Allah benar<br \/><br \/>",
+                            "mark": 5,
+                            "marks_count": 2,
+                            "thanks": 11,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 21454,
+                                "nick": "aiyuerika",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d15\/94a1d04bbd95755cf8813d8cb044f972.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 6866904,
+                        "subject_id": 5,
+                        "user_id": 3273433,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Simple present tense<br \/>\n1. What time does your father come home ?(at 4pm?<br \/>\n2.how many spoons does nadya need?(twelve)?<br \/>\n3.what do you write?(an application letter)?",
+                        "created": "2016-08-19T16:25:35+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2016-08-19T16:30:59+07:00",
+                        "the_best_resp_id": "8151285",
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Simple present tense\n1. What time does your father come home ?(at 4pm?\n2.how <em>many<\/em> spoons does <em>nadya<\/em> need?(twelve)?\n3.what do you write?(an application letter)?",
+                        "snippet_content": "Simple present tense\n1. What time does your father come home ?(at 4pm?\n2.how <em>many<\/em> spoons does <em>nadya<\/em> need?(twelve)?\n3"
+                    },
+                    "responses": [
+                        {
+                            "id": 8151285,
+                            "user_id": 3448241,
+                            "task_id": 6866904,
+                            "points": 5,
+                            "created": "2016-08-19T16:30:59+07:00",
+                            "content": "1. my father comes home at 4pm<br \/>2. nadya needs twelve spoons<br \/>3. I write an application letter",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 2,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 4603792,
+                                        "user_id": 3173899,
+                                        "content": "comes home ganti come home biar lebih bener",
+                                        "created": "2016-08-19T16:32:48+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 4603808,
+                                        "user_id": 3448241,
+                                        "content": "tapi my dad is singular dan org ketiga jadi kan tambah -s?",
+                                        "created": "2016-08-19T16:34:26+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 2
+                            }
+                        },
+                        {
+                            "id": 8151298,
+                            "user_id": 3173899,
+                            "task_id": 6866904,
+                            "points": 5,
+                            "created": "2016-08-19T16:31:44+07:00",
+                            "content": "1.my father come home at 4 pm <br \/>2.nadya needs twelve spoons<br \/>3.i write an application letter",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 3,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3448241,
+                                "nick": "RaymondWillinsky14",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/da5\/6b7a37626c6e45083f444ddf31a9437a.jpg"
+                            },
+                            {
+                                "id": 3173899,
+                                "nick": "RizqullahGhani",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/de8\/3fee48656826786fcac758a95e5a8fdb.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 5219004,
+                        "subject_id": 5,
+                        "user_id": 2437545,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 11,
+                            "ptsForResp": 6,
+                            "ptsForBest": 3
+                        },
+                        "content": "ubah menjadi kalimat passive<br \/>\n1. nadya received an e-mail from devina last night<br \/>\n2. the students have chosen arkan as the osis chairperson<br \/>\n3. many people like stories in the mahabharata epic<br \/>\n4. painters are displaying their beautiful pantings in an exhibition ",
+                        "created": "2016-02-24T15:04:21+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2016-02-24T16:02:25+07:00",
+                        "the_best_resp_id": "6171995",
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "ubah menjadi kalimat passive\n1. <em>nadya<\/em> received an e-mail from devina last night\n2. the students have chosen arkan as the osis chairperson\n3. <em>many<\/em> people like stories in the mahabharata epic\n4. painters are displaying their beautiful pantings in an exhibition ",
+                        "snippet_content": "ubah menjadi kalimat passive\n1. <em>nadya<\/em> received an e-mail from devina last night\n2. the students have chosen arkan as the"
+                    },
+                    "responses": [
+                        {
+                            "id": 6171995,
+                            "user_id": 117080,
+                            "task_id": 5219004,
+                            "points": 6,
+                            "created": "2016-02-24T16:02:25+07:00",
+                            "content": "<strong>1. An e-mail was received by Nadya from Devina last night.<\/strong><br \/><strong>2. Arkan has been chosen by the students as the OSIS chairperson.<\/strong><br \/><strong>3. Stories in the Mahabharata epic are liked by many people.<\/strong><br \/><strong>4. Their beautiful paintings are being displayed by painters in an exhibition.<\/strong>",
+                            "mark": 5,
+                            "marks_count": 3,
+                            "thanks": 3,
+                            "user_best_rank_id": 7,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2016-09-24T13:05:01+07:00",
+                                "approver": {
+                                    "id": 2663844,
+                                    "nickname": "Mahaguru",
+                                    "points": 1857,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/db6\/c5fb7b6a68ce26ccea00dc12cb60d96f.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/df7\/fe8fb6dfa0d217a5d3fafa2a27e269ba.png"
+                                    },
+                                    "content_approved_count": 718187
+                                }
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 3628984,
+                                        "user_id": 2437545,
+                                        "content": "terimakasih",
+                                        "created": "2016-02-24T19:29:31+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 117080,
+                                "nick": "umaimahazzahrah",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dc0\/b74cf22baf05a0f62e08596720e7a529.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 188951,
+                        "subject_id": 5,
+                        "user_id": 126014,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 42,
+                            "ptsForResp": 21,
+                            "ptsForBest": 11
+                        },
+                        "content": "artikan ringkasan berikut <br \/>\n             my parent' s profession <br \/>\nmy name is Nadya , I want to tell you about my parent' s profession . my father is a Doctor ,   he works in a hospital . its name is RS Bhayangkara . many profession works over There such as: a doctor , a nurse , a surgeon , a dentist etc . my mother is a teacher , she works in A school , she is an English teacher , she has many student she is a diligent teacher so many student likes her <br \/>",
+                        "created": "2014-05-16T10:39:51+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2014-05-16T10:41:28+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "artikan ringkasan berikut \n             my parent' s profession \nmy name is <em>Nadya<\/em> , I want to tell you about my parent' s profession . my father is a Doctor ,   he works in a hospital . its name is RS Bhayangkara . <em>many<\/em> profession works over There such as: a doctor , a nurse , a surgeon , a dentist etc . my mother is a teacher , she works in A school , she is an English teacher , she has <em>many<\/em> student she is a diligent teacher so <em>many<\/em> student likes her ",
+                        "snippet_content": "works in A school , she is an English teacher , she has <em>many<\/em> student she is a diligent teacher so <em>many<\/em> student likes"
+                    },
+                    "responses": [
+                        {
+                            "id": 298723,
+                            "user_id": 23207,
+                            "task_id": 188951,
+                            "points": 21,
+                            "created": "2014-05-16T10:41:28+07:00",
+                            "content": "profesi orang tua saya\u00a0<span>nama saya Nadya, saya ingin memberitahu Anda tentang profesi orang tua saya. Ayah saya adalah seorang Dokter, ia bekerja di rumah sakit. namanya adalah RS Bhayangkara. banyak profesi bekerja lebih Ada seperti: dokter, perawat, ahli bedah, dokter gigi dll. Ibu saya adalah seorang guru, dia bekerja di sekolah A, dia adalah seorang guru bahasa Inggris, dia memiliki banyak murid dia adalah guru rajin begitu banyak mahasiswa menyukai wanita<\/span>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 2,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2015-07-18T17:16:14+07:00",
+                                "approver": {
+                                    "id": 228480,
+                                    "nickname": "dnnyz07",
+                                    "points": 213644,
+                                    "grade": 2,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/da2\/802a51900652d2dc17bc8dcdbab9e130.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/d46\/920491bd7bc9160d6494c0f4e9a0f9bc.png"
+                                    },
+                                    "content_approved_count": 18743
+                                }
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 280744,
+                                        "user_id": 23207,
+                                        "content": "jadikan jawaban terbaik dong...",
+                                        "created": "2014-05-16T10:41:46+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        },
+                        {
+                            "id": 298726,
+                            "user_id": 102315,
+                            "task_id": 188951,
+                            "points": 21,
+                            "created": "2014-05-16T10:44:52+07:00",
+                            "content": "pekerjaan orangtuaku<br \/>namaku nadya<br \/>saya ingin menceritakan padamu tentang pekerjaan ortuku<br \/>ayahku seorang dokter.dia bekerja di rumah sakit.namanya rs bhayangkara.banyak sekali pkrjaannya.seperti dokter suster ,a surgeon dan dkter gigi.ibuku seorang guru.dia bekerja di sekolah.dia guru bahasa inggris.dia punya banyak murid.dia adalah guru yg rajin jadi banyak murid yg menyukainya",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2015-07-18T17:16:14+07:00",
+                                "approver": {
+                                    "id": 228480,
+                                    "nickname": "dnnyz07",
+                                    "points": 213644,
+                                    "grade": 2,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/da2\/802a51900652d2dc17bc8dcdbab9e130.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/d46\/920491bd7bc9160d6494c0f4e9a0f9bc.png"
+                                    },
+                                    "content_approved_count": 18743
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 23207,
+                                "nick": "nelapintar",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/db5\/7b6b461bce1135056ff8b1986fadd800.jpg"
+                            },
+                            {
+                                "id": 102315,
+                                "nick": "hyemee",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dd0\/df9df0f8069cf0a6c736c3356f9a4dd1.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 2375346,
+                        "subject_id": 5,
+                        "user_id": 1319804,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "question 3 to 7 : choose the inappropriate structure in the following sentence or dialogues<br \/>\n3. nadya : how about the cost of living? is living in a country cheaper than living a city? <br \/>\n    grace : oh yes, living in a city is the most expensive than in a country<br \/>\n    a. about                 c. cheaper than<br \/>\n    b. in                       d. most expensive <br \/>\n4. tony : can you describe you house?<br \/>\n    paul : well, my house isn't too big, but it has many big wooden windows. the walls are<br \/>\n             painted white<br \/>\n    a. can                    c. big<br \/>\n    b. you house         d. are painted<br \/>\n5. sandra : what else can you tell me about our new teacher?<br \/>\n    dewi : well, he is a man fat with a birthmark on his right cheek<br \/>\n    a. else                    c. man fat<br \/>\n    b. about                 d. right cheek<br \/>\n6. oky : mr. handoko offered me a part time job, but i'll take exams next month<br \/>\n    tania : I will take it if I were you. you must focus on the best<br \/>\n    a. offered               c. will<br \/>\n    b. take                   d. the best<br \/>\n7. tyas : it's hard for me to understand the text because of the difficult words<br \/>\n    denny : you can look it up in a digital dictionary. the technology really helps we<br \/>\n    a. hard                   c. look it up<br \/>\n    b. words                d. we<br \/>",
+                        "created": "2015-03-29T21:54:50+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2015-03-29T22:19:06+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "question 3 to 7 : choose the inappropriate structure in the following sentence or dialogues\n3. <em>nadya<\/em> : how about the cost of living? is living in a country cheaper than living a city? \n    grace : oh yes, living in a city is the most expensive than in a country\n    a. about                 c. cheaper than\n    b. in                       d. most expensive \n4. tony : can you describe you house?\n    paul : well, my house isn't too big, but it has <em>many<\/em> big wooden windows. the walls are\n             painted white\n    a. can                    c. big\n    b. you house         d. are painted\n5. sandra : what else can you tell me about our new teacher?\n    dewi : well, he is a man fat with a birthmark on his right cheek\n    a. else                    c. man fat\n    b. about                 d. right cheek\n6. oky : mr. handoko offered me a part time job, but i'll take exams next month\n    tania : I will take it if I were you. you must focus on the best\n    a. offered               c. will\n    b. take                   d. the best\n7. tyas : it's hard for me to understand the text because of the difficult words\n    denny : you can look it up in a digital dictionary. the technology really helps we\n    a. hard                   c. look it up\n    b. words                d. we",
+                        "snippet_content": "question 3 to 7 : choose the inappropriate structure in the following sentence or dialogues\n3. <em>nadya<\/em> : how about the cost of living"
+                    },
+                    "responses": [
+                        {
+                            "id": 3033707,
+                            "user_id": 1297492,
+                            "task_id": 2375346,
+                            "points": 5,
+                            "created": "2015-03-29T22:19:06+07:00",
+                            "content": "3. B &gt; harusnya<span> <strong>more expensive<\/strong><\/span><br \/>4. B &gt; harusnya <strong>your house<\/strong><br \/>5. C &gt; harusnya <strong>fat man<\/strong><br \/>6. C &gt; harusnya <strong>I wouldn't<\/strong><br \/>7. D &gt; harusnya <strong>us<\/strong> ^^<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 7,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2016-11-16T17:03:14+07:00",
+                                "approver": {
+                                    "id": 2663844,
+                                    "nickname": "Mahaguru",
+                                    "points": 1857,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/db6\/c5fb7b6a68ce26ccea00dc12cb60d96f.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/df7\/fe8fb6dfa0d217a5d3fafa2a27e269ba.png"
+                                    },
+                                    "content_approved_count": 718187
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1297492,
+                                "nick": "iPandaa",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d6c\/0a163d6682eecc1a0d29740f6a98725e.png"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 8913027,
+                        "subject_id": 5,
+                        "user_id": 3264790,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Change to active or passive sentences!<br \/>\n1. The eggs are being hatched by the hen.<br \/>\n2. Nadya received an e-mail from Devina last night.<br \/>\n3. The puzzle cannot be solved by the children easily<br \/>\n4. The students have chosen Arkan as the OSIS chairperson .<br \/>\n5. The dishes are arranged on the rack by my brother.<br \/>\n6. The tragic accident was reported by a journalist.<br \/>\n7. Many poeple like stories in the Mahabharata epic.<br \/>\n8. The hello kitty doll is always carried by Erlinda.<br \/>\n9. Painters are displaying their beautiful pantings in an exhibition.<br \/>\n10. The plane crashed into cumulonimbus clouds before falling into the sea.",
+                        "created": "2017-01-05T18:15:16+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-01-05T18:59:43+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "6",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Change to active or passive sentences!\n1. The eggs are being hatched by the hen.\n2. <em>Nadya<\/em> received an e-mail from Devina last night.\n3. The puzzle cannot be solved by the children easily\n4. The students have chosen Arkan as the OSIS chairperson .\n5. The dishes are arranged on the rack by my brother.\n6. The tragic accident was reported by a journalist.\n7. <em>Many<\/em> poeple like stories in the Mahabharata epic.\n8. The hello kitty doll is always carried by Erlinda.\n9. Painters are displaying their beautiful pantings in an exhibition.\n10. The plane crashed into cumulonimbus clouds before falling into the sea.",
+                        "snippet_content": "Change to active or passive sentences!\n1. The eggs are being hatched by the hen.\n2. <em>Nadya<\/em> received an e-mail from"
+                    },
+                    "responses": [
+                        {
+                            "id": 10659914,
+                            "user_id": 4227670,
+                            "task_id": 8913027,
+                            "points": 5,
+                            "created": "2017-01-05T18:59:43+07:00",
+                            "content": "1. The hen is  hatching the eggs.<br \/>2. An e-mail from Devina was received by Nadya last night.<br \/>3. The children easily can not solve the puzzle.<br \/>4. Arkan as the OSIS chairperson have been by the students.<br \/>5. My brother arrange the dishes on the rack.<br \/>6. A journalist reported the tragic accident.<br \/>7. Stories in the Mahabarata epic is liked by many people.<br \/>8. Erlinda always carry the hello kitty doll.<br \/>9. Their beautiful pantings in an exhibition are being displayed by painters.<br \/>10. Cumulonimbus clouds before falling into the sea was crashed the plane.",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4227670,
+                                "nick": "enimarprianti",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d1a\/84719360c0b51a4429f7bfbdd9a410c4.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 9518675,
+                        "subject_id": 5,
+                        "user_id": 2692651,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Indentify whether each of the following sentences is active or passive<br \/>\n1.the eggs are being hatched by the hen<br \/>\n2.nadya received an e-mail from devina last night<br \/>\n3.the puzzle cannot be solved by the children easily<br \/>\n4.the students have choson arkan as the osis chairperson<br \/>\n5.the dishea are arranged on the rack by my mother<br \/>\n6.the tragic accident was reported by a journailst<br \/>\n7.many people like stories in the mahabharata epic<br \/>\n8.the hello kity doll is always carried by erlinda<br \/>\n9. Painters are displaying their beautiful paintings in an exhibition<br \/>\n10.the plance crashed into cumulonimbus clouds before falling into the sea<br \/>\n Tolong di bantu yaaa..<br \/>\nPkai 3 rumus <br \/>\n-simple present tense<br \/>\n-presenr continous tense<br \/>\n-present perfect tense<br \/>\nTERIMA KASIH",
+                        "created": "2017-02-21T16:24:54+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-02-21T16:41:53+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "6",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Indentify whether each of the following sentences is active or passive\n1.the eggs are being hatched by the hen\n2.<em>nadya<\/em> received an e-mail from devina last night\n3.the puzzle cannot be solved by the children easily\n4.the students have choson arkan as the osis chairperson\n5.the dishea are arranged on the rack by my mother\n6.the tragic accident was reported by a journailst\n7.<em>many<\/em> people like stories in the mahabharata epic\n8.the hello kity doll is always carried by erlinda\n9. Painters are displaying their beautiful paintings in an exhibition\n10.the plance crashed into cumulonimbus clouds before falling into the sea\n Tolong di bantu yaaa..\nPkai 3 rumus \n-simple present tense\n-presenr continous tense\n-present perfect tense\nTERIMA KASIH",
+                        "snippet_content": "Indentify whether each of the following sentences is active or passive\n1.the eggs are being hatched by the hen\n2.<em>nadya<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 11383753,
+                            "user_id": 2720990,
+                            "task_id": 9518675,
+                            "points": 5,
+                            "created": "2017-02-21T16:41:53+07:00",
+                            "content": "1. passive, present continous tense<br \/>2. active, simple past tense<br \/>3. passive, simple future tense<br \/>4. active, present perfect <br \/>5. passive, simple present tense<br \/>6. passive, simple past tense<br \/>7. active, simple present tense<br \/>8. passive, simple present tense<br \/>9. active, simple present tense<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 6167116,
+                                        "user_id": 2720990,
+                                        "content": "10. active, simple past tense",
+                                        "created": "2017-02-21T16:42:28+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2720990,
+                                "nick": "Diahfa",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d9d\/ae39d377b79a8d4b7bbefb40fe095ff9.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 8912733,
+                        "subject_id": 5,
+                        "user_id": 3264790,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Identify whether each of the following sentences is active or passive!<br \/>\n1. The eggs are being hatched by the hen.<br \/>\n2. Nadya received an e-mail from Devina last night.<br \/>\n3. The puzzle cannot be solved by the children easily<br \/>\n4. The students have chosen Arkan as the OSIS chairperson .<br \/>\n5. The dishes are arranged on the rack by my brother.<br \/>\n6. The tragic accident was reported by a journalist.<br \/>\n7. Many poeple like stories in the Mahabharata epic.<br \/>\n8. The hello kitty doll is always carried by Erlinda.<br \/>\n9. Painters are displaying their beautiful pantings in an exhibition.<br \/>\n10. The plane crashed into cumulonimbus clouds before falling into the sea.",
+                        "created": "2017-01-05T17:29:24+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2017-01-05T17:37:29+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "6",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Identify whether each of the following sentences is active or passive!\n1. The eggs are being hatched by the hen.\n2. <em>Nadya<\/em> received an e-mail from Devina last night.\n3. The puzzle cannot be solved by the children easily\n4. The students have chosen Arkan as the OSIS chairperson .\n5. The dishes are arranged on the rack by my brother.\n6. The tragic accident was reported by a journalist.\n7. <em>Many<\/em> poeple like stories in the Mahabharata epic.\n8. The hello kitty doll is always carried by Erlinda.\n9. Painters are displaying their beautiful pantings in an exhibition.\n10. The plane crashed into cumulonimbus clouds before falling into the sea.",
+                        "snippet_content": "Identify whether each of the following sentences is active or passive!\n1. The eggs are being hatched by the hen.\n2. <em>Nadya<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 10659060,
+                            "user_id": 3276467,
+                            "task_id": 8912733,
+                            "points": 5,
+                            "created": "2017-01-05T17:37:29+07:00",
+                            "content": "yang termasuk kalimat passive<br \/><br \/>1. the eggs are being hatched by the hen<br \/>3. the puzzle cannot be solved by the children easily<br \/>5. the dishes are arranged on the rack by my brother<br \/>6. the tragic accident was reported by a journalist<br \/>8. the hello kitty doll is always carried by Erlinda<br \/>saya menentukan kalau kalimat2 diatas adalah kalimat pasif (passive) karena ciri2 kalimat pasif :<br \/>1. memakai kata kerja bentuk ke-3<br \/>2. sebelum kata kerja, terdapat to be sperti (am,is,are,was,were,be)<br \/>3. selalu menggunakan kata \"by\" sebelum objek...<br \/><br \/>maaf kalau salah. selamat belajar :&gt;",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 7,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2017-03-19T20:55:47+07:00",
+                                "approver": {
+                                    "id": 2663844,
+                                    "nickname": "Mahaguru",
+                                    "points": 1857,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/db6\/c5fb7b6a68ce26ccea00dc12cb60d96f.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/df7\/fe8fb6dfa0d217a5d3fafa2a27e269ba.png"
+                                    },
+                                    "content_approved_count": 718187
+                                }
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 5791019,
+                                        "user_id": 1474741,
+                                        "content": "no 8 passive tdk kak??",
+                                        "created": "2017-01-05T17:39:22+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 5791059,
+                                        "user_id": 3276467,
+                                        "content": "passive buk",
+                                        "created": "2017-01-05T17:44:43+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 5791060,
+                                        "user_id": 3276467,
+                                        "content": "saya yang salah",
+                                        "created": "2017-01-05T17:44:48+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 5823554,
+                                        "user_id": 3276467,
+                                        "content": "orangnya pelit.... gak terima kasih",
+                                        "created": "2017-01-12T06:59:56+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 4
+                            }
+                        },
+                        {
+                            "id": 10659066,
+                            "user_id": 1474741,
+                            "task_id": 8912733,
+                            "points": 5,
+                            "created": "2017-01-05T17:38:02+07:00",
+                            "content": "1. passive<br \/>2. active<br \/>3. passive<br \/>4. active<br \/>5. passive<br \/>6. passive<br \/>7. active<br \/>8. passive<br \/>9. active<br \/>10. active",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 0,
+                            "user_best_rank_id": 7,
+                            "source": "10",
+                            "client_type": "6",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2017-01-10T20:57:14+07:00",
+                                "approver": {
+                                    "id": 2663844,
+                                    "nickname": "Mahaguru",
+                                    "points": 1857,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/db6\/c5fb7b6a68ce26ccea00dc12cb60d96f.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/df7\/fe8fb6dfa0d217a5d3fafa2a27e269ba.png"
+                                    },
+                                    "content_approved_count": 718187
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3276467,
+                                "nick": "andanarjuna",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/db6\/5b9b33da6cb7668508fdaccaa39f4aa1.jpeg"
+                            },
+                            {
+                                "id": 1474741,
+                                "nick": "gumantinr",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d6c\/6886afc4fe968c0a4e99b01c1cf79277.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 9,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 4165168,
+            "nick": "felisa5",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 9,
+                "answers": 16,
+                "comments": 16
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd9\/134d964b2ea5798ed98c5a357ae936e9.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd4\/f9dd991d8fbed4c441e55d2ed68fd232.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd9\/134d964b2ea5798ed98c5a357ae936e9.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd4\/f9dd991d8fbed4c441e55d2ed68fd232.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4270519,
+            "nick": "JhonsonRivaiSianturi",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 108,
+                "comments": 36
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d21\/a1725d240860d1df2c2323373e94ceb4.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d5e\/6b7500c8f4e3de18a467fd508ba0cb5d.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d21\/a1725d240860d1df2c2323373e94ceb4.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d5e\/6b7500c8f4e3de18a467fd508ba0cb5d.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 264469,
+            "nick": "cristyevelyn",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 20,
+                "answers": 4,
+                "comments": 25
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 21454,
+            "nick": "aiyuerika",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 6,
+                "answers": 31,
+                "comments": 7
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d95\/69d941ff4b87d55bfb607e2e3a33f002.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d15\/94a1d04bbd95755cf8813d8cb044f972.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d95\/69d941ff4b87d55bfb607e2e3a33f002.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d15\/94a1d04bbd95755cf8813d8cb044f972.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 3273433,
+            "nick": "vidavania23",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 6,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 3448241,
+            "nick": "RaymondWillinsky14",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 26,
+                "comments": 4
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d05\/2160c138e83f85bb3e7842dd7aa605c7.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da5\/6b7a37626c6e45083f444ddf31a9437a.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d05\/2160c138e83f85bb3e7842dd7aa605c7.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da5\/6b7a37626c6e45083f444ddf31a9437a.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 3173899,
+            "nick": "RizqullahGhani",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 24,
+                "comments": 6
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de4\/e63e620224840409622ca3188b53e72b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de8\/3fee48656826786fcac758a95e5a8fdb.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de4\/e63e620224840409622ca3188b53e72b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de8\/3fee48656826786fcac758a95e5a8fdb.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 2437545,
+            "nick": "fdilaaa01",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 19,
+                "answers": 8,
+                "comments": 9
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9c\/8db9a394bd2d3c578c9fa73f823e615c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d5d\/5d6586102499dd7e03fd85f076c36f2a.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9c\/8db9a394bd2d3c578c9fa73f823e615c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d5d\/5d6586102499dd7e03fd85f076c36f2a.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 117080,
+            "nick": "umaimahazzahrah",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 26,
+                "answers": 3150,
+                "comments": 928
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d49\/e224c79ec8ebe9c5b777a6d849d88ef5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc0\/b74cf22baf05a0f62e08596720e7a529.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d49\/e224c79ec8ebe9c5b777a6d849d88ef5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc0\/b74cf22baf05a0f62e08596720e7a529.jpg"
+            },
+            "ranks": {
+                "color": "#ffbe32",
+                "names": [
+                    "Junior",
+                    "KsatriaBrainly",
+                    "BrainlyBlogger",
+                    "Mentor",
+                    "Moderator",
+                    "Jenius"
+                ],
+                "count": 6
+            },
+            "ranks_ids": [
+                15,
+                23,
+                84,
+                51,
+                19,
+                7
+            ]
+        },
+        {
+            "id": 126014,
+            "nick": "nonik",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 3,
+                "comments": 1
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 23207,
+            "nick": "nelapintar",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 13,
+                "answers": 285,
+                "comments": 205
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d88\/6128c84b367aa85a58b6c8c7370473ae.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db5\/7b6b461bce1135056ff8b1986fadd800.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d88\/6128c84b367aa85a58b6c8c7370473ae.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db5\/7b6b461bce1135056ff8b1986fadd800.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 102315,
+            "nick": "hyemee",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 18,
+                "answers": 2,
+                "comments": 1
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d60\/34267c30566b40dd7d675bb23c996959.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd0\/df9df0f8069cf0a6c736c3356f9a4dd1.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d60\/34267c30566b40dd7d675bb23c996959.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd0\/df9df0f8069cf0a6c736c3356f9a4dd1.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1319804,
+            "nick": "Nisbahul",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 0,
+                "comments": 8
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d64\/e5c6c892cb1c646aec108006e182fd67.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de6\/cccebdfcea53e6880d92333e34ceb191.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d64\/e5c6c892cb1c646aec108006e182fd67.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de6\/cccebdfcea53e6880d92333e34ceb191.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1297492,
+            "nick": "iPandaa",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 2213,
+                "comments": 1315
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d99\/b379e01f2b51d97e9c65883037e0c8f5.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6c\/0a163d6682eecc1a0d29740f6a98725e.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d99\/b379e01f2b51d97e9c65883037e0c8f5.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6c\/0a163d6682eecc1a0d29740f6a98725e.png"
+            },
+            "ranks": {
+                "color": "#ffbe32",
+                "names": [
+                    "BrainlyTeacher",
+                    "Jenius"
+                ],
+                "count": 2
+            },
+            "ranks_ids": [
+                91,
+                7
+            ]
+        },
+        {
+            "id": 3264790,
+            "nick": "Akagi02",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 21,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d52\/75e5dbc95453629546c1a99911c6326c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc6\/413c710a708f2685cb12dad85b626615.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d52\/75e5dbc95453629546c1a99911c6326c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc6\/413c710a708f2685cb12dad85b626615.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4227670,
+            "nick": "enimarprianti",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 55,
+                "comments": 19
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d7f\/9a67b1e501303fae0f2fe6641a308e43.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d1a\/84719360c0b51a4429f7bfbdd9a410c4.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d7f\/9a67b1e501303fae0f2fe6641a308e43.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d1a\/84719360c0b51a4429f7bfbdd9a410c4.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 2692651,
+            "nick": "Marfiratul",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 0,
+                "comments": 3
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d48\/ab4447e11488881e53fd592ba1807b40.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d18\/6ad19d767d3738594cd3566e3dbb1f35.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d48\/ab4447e11488881e53fd592ba1807b40.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d18\/6ad19d767d3738594cd3566e3dbb1f35.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 2720990,
+            "nick": "Diahfa",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 769,
+                "comments": 190
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc5\/400c6372a724b5d3dc5e8d6fd80ac28e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d9d\/ae39d377b79a8d4b7bbefb40fe095ff9.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc5\/400c6372a724b5d3dc5e8d6fd80ac28e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d9d\/ae39d377b79a8d4b7bbefb40fe095ff9.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        },
+        {
+            "id": 3276467,
+            "nick": "andanarjuna",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 2593,
+                "comments": 2048
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da4\/521a3e011a85c4811eb0c642907eb840.jpeg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db6\/5b9b33da6cb7668508fdaccaa39f4aa1.jpeg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da4\/521a3e011a85c4811eb0c642907eb840.jpeg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db6\/5b9b33da6cb7668508fdaccaa39f4aa1.jpeg"
+            },
+            "ranks": {
+                "color": "#ffbe32",
+                "names": [
+                    "Apprentice",
+                    "Spam Fighter ",
+                    "KsatriaBrainly",
+                    "Jenius"
+                ],
+                "count": 4
+            },
+            "ranks_ids": [
+                20,
+                17,
+                23,
+                7
+            ]
+        },
+        {
+            "id": 1474741,
+            "nick": "gumantinr",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 76,
+                "answers": 17050,
+                "comments": 4542
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d87\/62084e44ff4fa7912aea7c8054bc01be.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6c\/6886afc4fe968c0a4e99b01c1cf79277.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d87\/62084e44ff4fa7912aea7c8054bc01be.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6c\/6886afc4fe968c0a4e99b01c1cf79277.jpg"
+            },
+            "ranks": {
+                "color": "#ffbe32",
+                "names": [
+                    "Guru",
+                    "BrainlyTeacher",
+                    "BrainlyDoctor",
+                    "BrainlyElite",
+                    "Moderator",
+                    "Jenius"
+                ],
+                "count": 6
+            },
+            "ranks_ids": [
+                12,
+                91,
+                32,
+                27,
+                19,
+                7
+            ]
+        }
+    ],
+    "validated": false
+}

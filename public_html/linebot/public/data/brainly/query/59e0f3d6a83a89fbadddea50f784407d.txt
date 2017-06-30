@@ -1,0 +1,1610 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 4612327,
+                        "subject_id": 2,
+                        "user_id": 2018296,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Wildan menabung uang sebesar Rp. 200.000 pada sebuah bank dengan bunga sebesar 12% per tahun. Besar bunga yang diperoleh Wildan setelah 9 bulan adalah ??? ",
+                        "created": "2015-12-07T20:59:12+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2015-12-07T21:00:30+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "<em>Wildan<\/em> menabung uang sebesar Rp. 200.000 pada sebuah bank dengan bunga sebesar 12% per tahun. Besar bunga yang diperoleh <em>Wildan<\/em> setelah 9 <em>bulan<\/em> adalah ??? ",
+                        "snippet_content": "sebesar Rp. 200.000 pada sebuah bank dengan bunga sebesar 12% per tahun. Besar bunga yang diperoleh <em>Wildan<\/em> setelah 9 <em>bulan<\/em> adalah ??? "
+                    },
+                    "responses": [
+                        {
+                            "id": 5439532,
+                            "user_id": 2348035,
+                            "task_id": 4612327,
+                            "points": 5,
+                            "created": "2015-12-07T21:00:30+07:00",
+                            "content": "12\/100 x 9\/12 x 200.000\u00a0<br \/>= 18000",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2015-12-07T22:05:10+07:00",
+                                "approver": {
+                                    "id": 1573937,
+                                    "nickname": "Syubbana",
+                                    "points": 426820,
+                                    "grade": 2,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/d71\/8157ce2fd6d941f783d01264baf3b26f.jpg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/d21\/3e42ddab575b5140b83d33d172b18f51.jpg"
+                                    },
+                                    "content_approved_count": 29174
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2348035,
+                                "nick": "cachann",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d64\/aae65f2c2bce64c2048e1fbec577cd54.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 6294713,
+                        "subject_id": 2,
+                        "user_id": 2689327,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "wildan menyimpan uang sebesar RP600.000,00 di sebuah bank.jika bankmberi bunga 18% per tahun,maka bunga tabungan selama 9 bulan adalah",
+                        "created": "2016-05-30T18:16:35+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2016-05-30T18:19:27+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "<em>wildan<\/em> menyimpan uang sebesar RP600.000,00 di sebuah bank.jika bankmberi bunga 18% per tahun,maka bunga tabungan selama 9 <em>bulan<\/em> adalah",
+                        "snippet_content": "<em>wildan<\/em> menyimpan uang sebesar RP600.000,00 di sebuah bank.jika bankmberi bunga 18% per tahun,maka bunga tabungan selama 9 <em>bulan<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 7518388,
+                            "user_id": 2903836,
+                            "task_id": 6294713,
+                            "points": 5,
+                            "created": "2016-05-30T18:19:27+07:00",
+                            "content": "Tabungan = Rp 600.000 + 3\/4 (18\/100 x 600.000)<br \/>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= Rp 600.000 + Rp 81.000<br \/>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= Rp 681.000",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 4283896,
+                                        "user_id": 2903836,
+                                        "content": "bunganya Rp 81.000",
+                                        "created": "2016-05-30T18:20:13+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        },
+                        {
+                            "id": 7518390,
+                            "user_id": 3100829,
+                            "task_id": 6294713,
+                            "points": 5,
+                            "created": "2016-05-30T18:19:28+07:00",
+                            "content": "kalo setahun 18%, berarti bunga 9 bulan= 9\/12 x18%=13,5%<br \/>bunganya 13,5\/100 x 600000= 81000",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2903836,
+                                "nick": "kharismalintang1",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d34\/97f3208c2a34b43309e6490903c1d4d0.jpg"
+                            },
+                            {
+                                "id": 3100829,
+                                "nick": "Asamutia",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d9d\/8d591e630e77edf2af30f561a8f70d8f.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 3652141,
+                        "subject_id": 2,
+                        "user_id": 1862244,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "wildan mempunyai uang sebanyak rp600.000. 35% akan digunakan untuk membeli buku, 1\/3 nya dipakai untuk membayar iuran bulanan,dan sisanya ditabung. besar uang yg ditabung adalah",
+                        "created": "2015-09-27T16:31:51+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2015-09-27T16:38:16+07:00",
+                        "the_best_resp_id": "4428461",
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "<em>wildan<\/em> mempunyai uang sebanyak rp600.000. 35% akan digunakan untuk membeli buku, 1\/3 nya dipakai untuk membayar iuran <em>bulan<\/em>an,dan sisanya ditabung. besar uang yg ditabung adalah",
+                        "snippet_content": "<em>wildan<\/em> mempunyai uang sebanyak rp600.000. 35% akan digunakan untuk membeli buku, 1\/3 nya dipakai untuk membayar iuran <em>bulan<\/em>an,dan sisanya"
+                    },
+                    "responses": [
+                        {
+                            "id": 4428461,
+                            "user_id": 1952749,
+                            "task_id": 3652141,
+                            "points": 5,
+                            "created": "2015-09-27T16:38:16+07:00",
+                            "content": "35\/100 x 600.000 = 210.000<br \/>1\/3 x 600.000 = 200.000<br \/>jadi, uang yg ditabung : 600.000-(210.000+200.000) = 190.000<br \/>",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 2772535,
+                                        "user_id": 1862244,
+                                        "content": "trimakasih.",
+                                        "created": "2015-09-27T16:39:07+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1952749,
+                                "nick": "Febiyona",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 9995414,
+                        "subject_id": 2,
+                        "user_id": 4779102,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 12,
+                            "ptsForResp": 6,
+                            "ptsForBest": 3
+                        },
+                        "content": "1. seorang pedagang buku membeli 5 lusin buku dengan harga 3000,00\/buku, setelah pedagang itu menjual semua bukunya ternyata mengalami kerugian sebesar 12%,hitung harga jual perbuku adalah = <br \/>\n2.seorang pedagang membeli sejumlah barang dengan harga 300.000,00 dengan biaya perjalanan 11.000,00 pedagang itu menjual kembali barang dagangannya dengan keuntungan 15%,berapakah harga jual barang tersebut <br \/>\n3.sebuah barang dibeli dengan harga 9.000,00 perlusin,kemudian barang tersebut dijual dengan harga 900,00 maka persentase keuntungan terhadap pembelian barang tersebut adalah<br \/>\n4.bapak wildan adalah seorang pedagan sembako,ia membeli 2 kwintal beras dengan harga 2.750,00 per kg, kemudian beras tersebut terjual dengan harga 620.000,00 seluruhnya, berapa persen kah keuntungan bapak wildan<br \/>\n5.harga satu gross pensil adalah 86.400,00 jika pensil itu dijual kembali dengan harga 700,00 per pensil,maka persentase keuntungan yg diperoleh adalah<br \/>\n6.harga pembelian sebuah sepeda motor adalah 4.500.000, jika sepeda motor itu laku dijual dengan harga 5.175.000,00 ,maka keuntungan yg diperoleh adalah......%<br \/>",
+                        "created": "2017-03-24T09:47:15+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-03-24T10:25:34+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [
+                                {
+                                    "id": 6515976,
+                                    "user_id": 4779102,
+                                    "content": "tolong di jawab ya soalnya untuk peelajaran sekarang",
+                                    "created": "2017-03-24T09:53:37+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                }
+                            ],
+                            "last_id": 0,
+                            "count": 1
+                        },
+                        "highlighted_content": "1. seorang pedagang buku membeli 5 lusin buku dengan harga 3000,00\/buku, setelah pedagang itu menjual semua <em>bukun<\/em>ya ternyata mengalami kerugian sebesar 12%,hitung harga jual perbuku adalah = \n2.seorang pedagang membeli sejumlah barang dengan harga 300.000,00 dengan biaya perjalanan 11.000,00 pedagang itu menjual kembali barang dagangannya dengan keuntungan 15%,berapakah harga jual barang tersebut \n3.sebuah barang dibeli dengan harga 9.000,00 perlusin,kemudian barang tersebut dijual dengan harga 900,00 maka persentase keuntungan terhadap pembelian barang tersebut adalah\n4.bapak <em>wildan<\/em> adalah seorang pedagan sembako,ia membeli 2 kwintal beras dengan harga 2.750,00 per kg, kemudian beras tersebut terjual dengan harga 620.000,00 seluruhnya, berapa persen kah keuntungan bapak <em>wildan<\/em>\n5.harga satu gross pensil adalah 86.400,00 jika pensil itu dijual kembali dengan harga 700,00 per pensil,maka persentase keuntungan yg diperoleh adalah\n6.harga pembelian sebuah sepeda motor adalah 4.500.000, jika sepeda motor itu laku dijual dengan harga 5.175.000,00 ,maka keuntungan yg diperoleh adalah......%",
+                        "snippet_content": "1. seorang pedagang buku membeli 5 lusin buku dengan harga 3000,00\/buku, setelah pedagang itu menjual semua <em>bukun<\/em>ya ternyata mengalami kerugian"
+                    },
+                    "responses": [
+                        {
+                            "id": 12013757,
+                            "user_id": 4766846,
+                            "task_id": 9995414,
+                            "points": 6,
+                            "created": "2017-03-24T10:25:34+07:00",
+                            "content": "300.000<br \/>\u00a011 .000<br \/>----------- - <br \/>289 .000<br \/><br \/><br \/>15<br \/>----- * 289.000 = 43.350 Ini untuk nomor 2<br \/><br \/>100<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4766846,
+                                "nick": "ekamaryati89",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/def\/ff9e3c455af81f7bf7b6deac4ea9c1dc.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 9617441,
+                        "subject_id": 2,
+                        "user_id": 4631885,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "pada awal januari 1995 Wilma menabung di bank sebanyak RP80.000,00.tiap bulan dia menambah tabungannya sebanyak RP35.000,00.berapa jumlah tabungan Wilman oada bulan maret tahun 1996 jika bunga tidajk di hitung?",
+                        "created": "2017-02-27T21:01:01+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2017-02-27T21:06:16+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "pada awal januari 1995 Wilma menabung di bank sebanyak RP80.000,00.tiap <em>bulan<\/em> dia menambah tabungannya sebanyak RP35.000,00.berapa jumlah tabungan <em>Wilman<\/em> oada <em>bulan<\/em> maret tahun 1996 jika bunga tidajk di hitung?",
+                        "snippet_content": "<em>bulan<\/em> dia menambah tabungannya sebanyak RP35.000,00.berapa jumlah tabungan <em>Wilman<\/em> oada <em>bulan<\/em> maret tahun 1996 jika bunga tidajk di hitung?"
+                    },
+                    "responses": [
+                        {
+                            "id": 11508222,
+                            "user_id": 1843563,
+                            "task_id": 9617441,
+                            "points": 5,
+                            "created": "2017-02-27T21:06:16+07:00",
+                            "content": "Dari Bulan Januari 1995 ----- Bulan Maret 1996 = Totalnya 15 Bulan<br \/>Total Bulannya dikalikan dengan uang tabungan per bulannya<br \/>35.000 x 15 Bulan = 525.000 <br \/>Lalu ditambahkan dengan total tabungan saat itu<br \/>80.000 + 525.000 = Rp 605.000,00<br \/>Jadi total uang tabungannya pada bulan Maret 1996 adalah Rp 605.000,00<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 11508332,
+                            "user_id": 4631889,
+                            "task_id": 9617441,
+                            "points": 5,
+                            "created": "2017-02-27T21:08:24+07:00",
+                            "content": "35.000,00\u00d712 bulan <br \/>= 420.000,00+80.000,00<br \/>=500.000,00<br \/>Maaf kak klo ada yg salah ",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "6",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 6234306,
+                                        "user_id": 4631889,
+                                        "content": "Maaf ka gk liat bulan maret nya",
+                                        "created": "2017-02-27T21:10:15+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1843563,
+                                "nick": "13789",
+                                "avatar": null
+                            },
+                            {
+                                "id": 4631889,
+                                "nick": "novidwinugroho",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d18\/fe1152743bfec8f22a8879b8384bd303.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 9281008,
+                        "subject_id": 2,
+                        "user_id": 4495931,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "pada awal januari 1995 Wilma menabung di bank sebanyak RP80.000,00.tiap bulan dia menambah tabungannya sebanyak RP35.000,00.berapa jumlah tabungan Wilman oada bulan maret tahun 1996 jika bunga tidajk di hitung?",
+                        "created": "2017-02-04T22:56:53+07:00",
+                        "responses": 2,
+                        "tickets": 3,
+                        "first_resp": "2017-02-04T23:02:26+07:00",
+                        "the_best_resp_id": "11094876",
+                        "source": "10",
+                        "client_type": "6",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "pada awal januari 1995 Wilma menabung di bank sebanyak RP80.000,00.tiap <em>bulan<\/em> dia menambah tabungannya sebanyak RP35.000,00.berapa jumlah tabungan <em>Wilman<\/em> oada <em>bulan<\/em> maret tahun 1996 jika bunga tidajk di hitung?",
+                        "snippet_content": "<em>bulan<\/em> dia menambah tabungannya sebanyak RP35.000,00.berapa jumlah tabungan <em>Wilman<\/em> oada <em>bulan<\/em> maret tahun 1996 jika bunga tidajk di hitung?"
+                    },
+                    "responses": [
+                        {
+                            "id": 11094876,
+                            "user_id": 4492404,
+                            "task_id": 9281008,
+                            "points": 5,
+                            "created": "2017-02-04T23:02:26+07:00",
+                            "content": "jawabanya adalah 605,000",
+                            "mark": 3,
+                            "marks_count": 2,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 6017179,
+                                        "user_id": 4495931,
+                                        "content": "Bukannya di Januari udah nabung 80rb jadi yang Januari ga di hitung",
+                                        "created": "2017-02-05T12:14:00+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 6017185,
+                                        "user_id": 4495931,
+                                        "content": "kayanya sih hahaha",
+                                        "created": "2017-02-05T12:14:10+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 6017191,
+                                        "user_id": 4492404,
+                                        "content": "oh... sorry",
+                                        "created": "2017-02-05T12:14:23+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 6017201,
+                                        "user_id": 4495931,
+                                        "content": "Iya gpp",
+                                        "created": "2017-02-05T12:14:54+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 6017234,
+                                        "user_id": 4492404,
+                                        "content": "boleh knlan gak",
+                                        "created": "2017-02-05T12:17:50+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 6017179,
+                                "count": 7
+                            }
+                        },
+                        {
+                            "id": 11094891,
+                            "user_id": 4342157,
+                            "task_id": 9281008,
+                            "points": 5,
+                            "created": "2017-02-04T23:05:12+07:00",
+                            "content": "14 bulan\u00a0<strong>\u00d7<\/strong> 35.000 = 490.000<br \/><br \/>80.000+490.000= 570.000<br \/>jadi jumlah tabungan wilman pada bulan maret 1996 jika bunga tidak dihitung adalah Rp.570.000 <br \/><br \/>kayaknya jawabannya ini,maaf kalau salah<br \/>\u00a0<br \/>",
+                            "mark": 3,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 6015155,
+                                        "user_id": 4492404,
+                                        "content": "itu 15 bulan",
+                                        "created": "2017-02-05T07:54:27+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4492404,
+                                "nick": "freddys",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/db8\/f19bbb1b6913a8e71d8f21cea3bcebc9.jpg"
+                            },
+                            {
+                                "id": 4342157,
+                                "nick": "naellairsyairsya",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d68\/7c360215b01a58a5560684471a822740.png"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 9275334,
+                        "subject_id": 2,
+                        "user_id": 4494127,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "pada awal januari 1995 Wilman menabung di bank sebanyak Rp80.000,00.Tiap bulan ia menambah tabungannya sebanyak RP35.000,00.berapa jumlah tabungan Wilman pada bulan maret tahun 1996 jika bunga tidak di hitung?",
+                        "created": "2017-02-04T10:18:57+07:00",
+                        "responses": 2,
+                        "tickets": 4,
+                        "first_resp": "2017-02-04T10:34:33+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "pada awal januari 1995 <em>Wilman<\/em> menabung di bank sebanyak Rp80.000,00.Tiap <em>bulan<\/em> ia menambah tabungannya sebanyak RP35.000,00.berapa jumlah tabungan <em>Wilman<\/em> pada <em>bulan<\/em> maret tahun 1996 jika bunga tidak di hitung?",
+                        "snippet_content": "<em>bulan<\/em> ia menambah tabungannya sebanyak RP35.000,00.berapa jumlah tabungan <em>Wilman<\/em> pada <em>bulan<\/em> maret tahun 1996 jika bunga tidak di hitung?"
+                    },
+                    "responses": [
+                        {
+                            "id": 11086161,
+                            "user_id": 4191301,
+                            "task_id": 9275334,
+                            "points": 5,
+                            "created": "2017-02-04T10:34:33+07:00",
+                            "content": " jawabannya Rp645.000.00",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 11086384,
+                            "user_id": 3214041,
+                            "task_id": 9275334,
+                            "points": 5,
+                            "created": "2017-02-04T10:54:14+07:00",
+                            "content": "januari 1995 sampai maret 1996 = 15 bulan<br \/>35.000 x 15 = 525.000<br \/>525.000 + 80.000 = 605.000<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4191301,
+                                "nick": "inchy5",
+                                "avatar": null
+                            },
+                            {
+                                "id": 3214041,
+                                "nick": "galaktine",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d7e\/d7a7f46f74a2aecc1afeb2b1ce6d91a1.png"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 9274821,
+                        "subject_id": 2,
+                        "user_id": 4493956,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "pada awal januari 1995 Wilma menabung di bank sebanyak RP80.000,00.tiap bulan dia menambah tabungannya sebanyak RP35.000,00.berapa jumlah tabungan Wilman oada bulan maret tahun 1996 jika bunga tidajk di hitung?",
+                        "created": "2017-02-04T09:05:25+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-02-04T10:21:18+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "pada awal januari 1995 Wilma menabung di bank sebanyak RP80.000,00.tiap <em>bulan<\/em> dia menambah tabungannya sebanyak RP35.000,00.berapa jumlah tabungan <em>Wilman<\/em> oada <em>bulan<\/em> maret tahun 1996 jika bunga tidajk di hitung?",
+                        "snippet_content": "<em>bulan<\/em> dia menambah tabungannya sebanyak RP35.000,00.berapa jumlah tabungan <em>Wilman<\/em> oada <em>bulan<\/em> maret tahun 1996 jika bunga tidajk di hitung?"
+                    },
+                    "responses": [
+                        {
+                            "id": 11086025,
+                            "user_id": 4490747,
+                            "task_id": 9274821,
+                            "points": 5,
+                            "created": "2017-02-04T10:21:18+07:00",
+                            "content": "Rp 35.000 x 12bulan = 4.20000<br \/>4.20.000 + 80.000 = 500.000<br \/>jadi jumlah tabungan wilman tahun 1996 Rp 500.000 + 2 bulan sampai maret <br \/>500.000 + 70.000 = Rp 570.000",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4490747,
+                                "nick": "Yulia0107",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d9a\/e8696f8428df7a6fd8b612509daa5085.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 8,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 2018296,
+            "nick": "laurakartika",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 11,
+                "answers": 5,
+                "comments": 1
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d83\/85c83ca391c8d384603b1c99b4b3d085.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dff\/ecffe8d7f50e6f43cd0f849fe3ef4830.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d83\/85c83ca391c8d384603b1c99b4b3d085.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dff\/ecffe8d7f50e6f43cd0f849fe3ef4830.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 2348035,
+            "nick": "cachann",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 292,
+                "comments": 71
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dbf\/a9cb4950f7c43fc0fb0e4466377c760e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d64\/aae65f2c2bce64c2048e1fbec577cd54.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dbf\/a9cb4950f7c43fc0fb0e4466377c760e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d64\/aae65f2c2bce64c2048e1fbec577cd54.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 2689327,
+            "nick": "and9",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 15,
+                "answers": 0,
+                "comments": 1
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 2903836,
+            "nick": "kharismalintang1",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 467,
+                "comments": 38
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d78\/83a777d30cb89837c888c1bf5e8ccb26.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d34\/97f3208c2a34b43309e6490903c1d4d0.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d78\/83a777d30cb89837c888c1bf5e8ccb26.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d34\/97f3208c2a34b43309e6490903c1d4d0.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        },
+        {
+            "id": 3100829,
+            "nick": "Asamutia",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 443,
+                "comments": 169
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de1\/761e0d7987e131a9a2e426426dc30ad8.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d9d\/8d591e630e77edf2af30f561a8f70d8f.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de1\/761e0d7987e131a9a2e426426dc30ad8.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d9d\/8d591e630e77edf2af30f561a8f70d8f.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 1862244,
+            "nick": "Dini11111",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 17,
+                "answers": 14,
+                "comments": 18
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9b\/f1d9864b6ecdeb1ecd3f1f045c04f58d.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dbb\/153bc0a7d325ab12d7b64a8415114f59.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9b\/f1d9864b6ecdeb1ecd3f1f045c04f58d.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dbb\/153bc0a7d325ab12d7b64a8415114f59.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 1952749,
+            "nick": "Febiyona",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 7,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4779102,
+            "nick": "diandranurul",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 0,
+                "comments": 5
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d06\/f64062bcc0e1c68138d08b98c66ae033.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6c\/dae6c2bbc08cdcbec2e0a337cf954e0e.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d06\/f64062bcc0e1c68138d08b98c66ae033.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6c\/dae6c2bbc08cdcbec2e0a337cf954e0e.png"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4766846,
+            "nick": "ekamaryati89",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 19,
+                "comments": 14
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d25\/bbd2a9de7513a58a5bf1e5333c69c228.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/def\/ff9e3c455af81f7bf7b6deac4ea9c1dc.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d25\/bbd2a9de7513a58a5bf1e5333c69c228.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/def\/ff9e3c455af81f7bf7b6deac4ea9c1dc.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4631885,
+            "nick": "a9ngpratyailmazialm",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1843563,
+            "nick": "13789",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 22,
+                "comments": 10
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 4631889,
+            "nick": "novidwinugroho",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 1,
+                "comments": 2
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de0\/805e8a802deb8022a8d9dd450c32eda0.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d18\/fe1152743bfec8f22a8879b8384bd303.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de0\/805e8a802deb8022a8d9dd450c32eda0.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d18\/fe1152743bfec8f22a8879b8384bd303.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4495931,
+            "nick": "Darnisa1230",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 4
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd7\/0c1d0345a917d7476d918c10a0de0fcb.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dae\/16fa115e6e3d5e643c9cdfb11b13761f.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd7\/0c1d0345a917d7476d918c10a0de0fcb.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dae\/16fa115e6e3d5e643c9cdfb11b13761f.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4492404,
+            "nick": "freddys",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 16,
+                "comments": 16
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d2b\/f492eec5d38bbba74f28c13ea97fbade.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db8\/f19bbb1b6913a8e71d8f21cea3bcebc9.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d2b\/f492eec5d38bbba74f28c13ea97fbade.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db8\/f19bbb1b6913a8e71d8f21cea3bcebc9.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 4342157,
+            "nick": "naellairsyairsya",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 5,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d72\/40d7be46f45dd20447c1d250a68ce73a.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d68\/7c360215b01a58a5560684471a822740.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d72\/40d7be46f45dd20447c1d250a68ce73a.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d68\/7c360215b01a58a5560684471a822740.png"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 4494127,
+            "nick": "mawati1",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 1,
+                "comments": 1
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4191301,
+            "nick": "inchy5",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 22,
+                "answers": 7,
+                "comments": 1
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 3214041,
+            "nick": "galaktine",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 19,
+                "answers": 470,
+                "comments": 651
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc6\/4a5c32de7abe568578431e69a01323fe.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7e\/d7a7f46f74a2aecc1afeb2b1ce6d91a1.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc6\/4a5c32de7abe568578431e69a01323fe.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7e\/d7a7f46f74a2aecc1afeb2b1ce6d91a1.png"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        },
+        {
+            "id": 4493956,
+            "nick": "temantemansemua",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9c\/09f956e16b9dac57f8171cfce0180327.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da8\/14ca8a9c2d0ca8be6b52c41d023af984.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9c\/09f956e16b9dac57f8171cfce0180327.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da8\/14ca8a9c2d0ca8be6b52c41d023af984.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4490747,
+            "nick": "Yulia0107",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 49,
+                "comments": 15
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d24\/010223032c6f24045b7f11a1dc495551.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d9a\/e8696f8428df7a6fd8b612509daa5085.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d24\/010223032c6f24045b7f11a1dc495551.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d9a\/e8696f8428df7a6fd8b612509daa5085.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        }
+    ],
+    "validated": false
+}

@@ -1,0 +1,332 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 10955474,
+                        "subject_id": 15,
+                        "user_id": 5159995,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Apa arti dari Sasageyo",
+                        "created": "2017-06-17T14:02:55+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2017-06-20T20:19:50+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "6",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Apa arti dari <em>Sasageyo<\/em>",
+                        "snippet_content": "Apa arti dari <em>Sasageyo<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 13325273,
+                            "user_id": 7929,
+                            "task_id": 10955474,
+                            "points": 5,
+                            "created": "2017-06-20T20:19:50+07:00",
+                            "content": "<strong>Kategori Soal : Bahasa Jepang<\/strong><br \/><strong>Materi : Umum<\/strong><br \/><strong>Kelas : -<\/strong><br \/><strong>Kata Kunci :\u00a0<\/strong><span><strong>Shinzo wo sasageyo<\/strong><br \/><br \/><strong>Pembahasan :<\/strong><br \/><br \/>Hai, saya coba bantu jawab yaa..<br \/><br \/><\/span>Shinzo wo sasageyo merupakan sebuah lagu dari soundtrack\u00a0<span>Opening Shingeki no Kyojin Season 2 atau Attack on Titan S2.<br \/><br \/><\/span>Penyanyi dari lagu\u00a0Shinzo wo sasageyo\u00a0adalah\u00a0Linked Horizon.<br \/><br \/>Arti dari kalimat \"Shinzo wo sasageyo\" yaitu \"<span>Persembahkan Jantung Ini\".<\/span>",
+                            "mark": 4,
+                            "marks_count": 3,
+                            "thanks": 1,
+                            "user_best_rank_id": 7,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2017-06-22T08:55:12+07:00",
+                                "approver": {
+                                    "id": 1224042,
+                                    "nickname": "theomartinz",
+                                    "points": 42584,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/d9c\/c529d98819aafc17ed23ad75478694c0.jpg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/d6f\/ab960deba2336f0e67e23aac92e309a7.jpg"
+                                    },
+                                    "content_approved_count": 3953
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 7929,
+                                "nick": "DenmazEvan",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dcb\/d1ec20355c506bcd36a329c02ba38425.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10942967,
+                        "subject_id": 15,
+                        "user_id": 4670873,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "arti kata Shinzo wo sasageyo",
+                        "created": "2017-06-13T21:05:45+07:00",
+                        "responses": 1,
+                        "tickets": 3,
+                        "first_resp": "2017-06-18T20:45:57+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "arti kata Shinzo wo <em>sasageyo<\/em>",
+                        "snippet_content": "arti kata Shinzo wo <em>sasageyo<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 13319282,
+                            "user_id": 7929,
+                            "task_id": 10942967,
+                            "points": 5,
+                            "created": "2017-06-18T20:45:57+07:00",
+                            "content": "<strong>Kategori Soal : Bahasa Jepang<\/strong><br \/><strong>Materi : Umum<\/strong><br \/><strong>Kelas : -<\/strong><br \/><strong>Kata Kunci :\u00a0<\/strong><span><strong>Shinzo wo sasageyo<\/strong><br \/><br \/><strong>Pembahasan :<\/strong><br \/><br \/>Hai, saya coba bantu jawab yaa..<br \/><br \/><\/span>Shinzo wo sasageyo merupakan sebuah lagu dari soundtrack\u00a0<span>Opening Shingeki no Kyojin Season 2 atau Attack on Titan S2.<br \/><br \/><\/span><span>Penyanyi dari lagu\u00a0Shinzo wo sasageyo\u00a0adalah\u00a0<\/span>Linked Horizon.<br \/><br \/>Arti dari kalimat \"Shinzo wo sasageyo\" yaitu \"<span>Persembahkan Jantung Ini\".<\/span>",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 0,
+                            "user_best_rank_id": 7,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2017-06-19T06:55:42+07:00",
+                                "approver": {
+                                    "id": 2663844,
+                                    "nickname": "Mahaguru",
+                                    "points": 2237,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/db6\/c5fb7b6a68ce26ccea00dc12cb60d96f.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/df7\/fe8fb6dfa0d217a5d3fafa2a27e269ba.png"
+                                    },
+                                    "content_approved_count": 718253
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 7929,
+                                "nick": "DenmazEvan",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dcb\/d1ec20355c506bcd36a329c02ba38425.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 2,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 5159995,
+            "nick": "dwinahazeline",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d56\/fae545a9e83ca634f7ceca9a844d13d1.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d1a\/58714f2baae5daccda35b6aeb2a21799.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d56\/fae545a9e83ca634f7ceca9a844d13d1.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d1a\/58714f2baae5daccda35b6aeb2a21799.png"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 7929,
+            "nick": "DenmazEvan",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 25484,
+                "comments": 538
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da9\/7afab82326ad691cf3062b2e8231ba88.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dcb\/d1ec20355c506bcd36a329c02ba38425.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da9\/7afab82326ad691cf3062b2e8231ba88.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dcb\/d1ec20355c506bcd36a329c02ba38425.jpg"
+            },
+            "ranks": {
+                "color": "#ffbe32",
+                "names": [
+                    "BrainlyTeacher",
+                    "BrainlyDoctor",
+                    "BrainlyElite",
+                    "O-ADVENTURER-O",
+                    "Moderator",
+                    "Jenius"
+                ],
+                "count": 6
+            },
+            "ranks_ids": [
+                91,
+                32,
+                27,
+                94,
+                19,
+                7
+            ]
+        },
+        {
+            "id": 4670873,
+            "nick": "riansianipar",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 74,
+                "answers": 1328,
+                "comments": 772
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d2f\/70c2c685c5300f156f0db6575f4645f2.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d83\/a38828e6613743fe29115184da95fc80.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d2f\/70c2c685c5300f156f0db6575f4645f2.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d83\/a38828e6613743fe29115184da95fc80.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "BrainlyElite",
+                    "Spam Fighter ",
+                    "Si Hebat"
+                ],
+                "count": 3
+            },
+            "ranks_ids": [
+                27,
+                17,
+                6
+            ]
+        }
+    ],
+    "validated": false
+}

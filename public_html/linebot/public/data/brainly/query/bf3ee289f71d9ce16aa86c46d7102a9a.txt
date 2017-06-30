@@ -1,0 +1,1625 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 952413,
+                        "subject_id": 19,
+                        "user_id": 260306,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": " apa kegunaan dakron dan serat kapas sbg bahan utama dlm membuat kerajinan tekstil.",
+                        "created": "2014-10-03T19:33:10+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2014-10-03T19:34:07+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": " apa kegunaan dakron dan <em>serat<\/em> <em>kapas<\/em> <em>sbg<\/em> bahan utama dlm membuat kerajinan tekstil.",
+                        "snippet_content": " apa kegunaan dakron dan <em>serat<\/em> <em>kapas<\/em> <em>sbg<\/em> bahan utama dlm membuat kerajinan tekstil."
+                    },
+                    "responses": [
+                        {
+                            "id": 1221801,
+                            "user_id": 599622,
+                            "task_id": 952413,
+                            "points": 5,
+                            "created": "2014-10-03T19:34:07+07:00",
+                            "content": "sebagai isian boneka",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 4,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 1221809,
+                            "user_id": 153314,
+                            "task_id": 952413,
+                            "points": 5,
+                            "created": "2014-10-03T19:34:30+07:00",
+                            "content": "dakron digunakan sebagai pengganti kapas untuk pengisi bantal atau boneka<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 3,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 599622,
+                                "nick": "duarsa",
+                                "avatar": null
+                            },
+                            {
+                                "id": 153314,
+                                "nick": "Riuka",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d32\/fed3eefe72cbd2569f510740a9989d99.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 5729427,
+                        "subject_id": 1,
+                        "user_id": 158454,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "perhatikan kalimat tdk tepat berikut!\n\nKapal Dewa Ruci Berlayar mengarungi Samudra Hindia\n\nkalimat tsb salah dlm penggunaaan ejaan karena..\nA. huruf kapital seharusnya digunakan sbg penjelas huruf pertama nama diri geografi yg digunakan sbg penjelas nama jenis.\nB. huruf kapital seharusnya digunakan sbg huruf pertama nama diri geografi jika kata yg mendahuluinya menggambarkan kekhasan budaya\nC. huruf kapital seharusnya tdk dipakai sbg penjelas huruf pertama nama diri geografi yg digunakan sbg penjelas nama jenis.\nD. huruf kapital seharusnya digunakan sbg huruf pertama unsur unsur nama geografi yg diikuti nama diri geografi.",
+                        "created": "2016-04-10T19:31:46+07:00",
+                        "responses": 1,
+                        "tickets": 3,
+                        "first_resp": "2016-04-10T22:30:36+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [
+                            {
+                                "full": "https:\/\/id-static.z-dn.net\/files\/dab\/c73a94da058bbbfffecec0146129cd55.jpg",
+                                "thumbnail": "https:\/\/id-static.z-dn.net\/files\/d5d\/40d5c308962c0d601d98cc6d9b9775e4.jpg",
+                                "type": "image\/jpeg",
+                                "size": 105403,
+                                "hash": "c73a94da058bbbfffecec0146129cd55",
+                                "id": 2350214,
+                                "extension": "jpg"
+                            }
+                        ],
+                        "comments": {
+                            "items": [
+                                {
+                                    "id": 3932408,
+                                    "user_id": 2867952,
+                                    "content": "masih ragu2",
+                                    "created": "2016-04-10T19:56:11+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                },
+                                {
+                                    "id": 3932414,
+                                    "user_id": 2867952,
+                                    "content": "soalnya gk begitu jelas",
+                                    "created": "2016-04-10T19:56:50+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                },
+                                {
+                                    "id": 3932415,
+                                    "user_id": 158454,
+                                    "content": "hmmm--  gapapa kali kalo salah. situ kls brp?",
+                                    "created": "2016-04-10T19:57:15+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                },
+                                {
+                                    "id": 3932422,
+                                    "user_id": 2867952,
+                                    "content": "kelas 9",
+                                    "created": "2016-04-10T19:57:42+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                },
+                                {
+                                    "id": 3932435,
+                                    "user_id": 158454,
+                                    "content": "sama. jadi apa jawabannya? '-'",
+                                    "created": "2016-04-10T19:58:30+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                }
+                            ],
+                            "last_id": 3932408,
+                            "count": 13
+                        },
+                        "highlighted_content": "perhatikan kalimat tdk tepat berikut!\n\n<em>Kapal<\/em> Dewa Ruci Berlayar mengarungi Samudra Hindia\n\nkalimat tsb salah dlm penggunaaan ejaan karena..\nA. huruf kapital <em>sehar<\/em>usnya digunakan <em>sbg<\/em> penjelas huruf pertama nama diri geografi yg digunakan <em>sbg<\/em> penjelas nama jenis.\nB. huruf kapital <em>sehar<\/em>usnya digunakan <em>sbg<\/em> huruf pertama nama diri geografi jika kata yg mendahuluinya menggambarkan kekhasan budaya\nC. huruf kapital <em>sehar<\/em>usnya tdk dipakai <em>sbg<\/em> penjelas huruf pertama nama diri geografi yg digunakan <em>sbg<\/em> penjelas nama jenis.\nD. huruf kapital <em>sehar<\/em>usnya digunakan <em>sbg<\/em> huruf pertama unsur unsur nama geografi yg diikuti nama diri geografi.",
+                        "snippet_content": "<em>sehar<\/em>usnya digunakan <em>sbg<\/em> penjelas huruf pertama nama diri geografi yg digunakan <em>sbg<\/em> penjelas nama jenis.\nB. huruf kapital <em>sehar<\/em>usnya digunakan <em>sbg<\/em> huruf"
+                    },
+                    "responses": [
+                        {
+                            "id": 6801647,
+                            "user_id": 2869103,
+                            "task_id": 5729427,
+                            "points": 5,
+                            "created": "2016-04-10T22:30:36+07:00",
+                            "content": "d huruf kapital seharusnya digunakansbg huruf pertama unsur2 namageografiyang diikuti nama diri geografi",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 3936634,
+                                        "user_id": 158454,
+                                        "content": "makasih",
+                                        "created": "2016-04-11T15:33:16+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2869103,
+                                "nick": "rani319",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/de5\/257eb796c61d556e6b71e6f621c5041a.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 9226240,
+                        "subject_id": 3,
+                        "user_id": 4474499,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "misalnya sesorang kawan kamu sedang dilanda musibah. ayahnya meninggal karena sakit keras. ibu tdk bekerja, sehingga temanmu itu bingung dan sedih memikirkan biaya sehari hari nya , kamu sbg teman nya ap bisa kamu bantu<br \/>",
+                        "created": "2017-01-31T21:16:34+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2017-01-31T21:18:20+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "misalnya sesorang <em>kawan<\/em> kamu sedang dilanda musibah. ayahnya meninggal karena sakit keras. ibu tdk bekerja, sehingga temanmu itu bingung dan sedih memikirkan biaya <em>sehar<\/em>i hari nya , kamu <em>sbg<\/em> teman nya ap bisa kamu bantu",
+                        "snippet_content": "ibu tdk bekerja, sehingga temanmu itu bingung dan sedih memikirkan biaya <em>sehar<\/em>i hari nya , kamu <em>sbg<\/em> teman nya ap bisa kamu bantu"
+                    },
+                    "responses": [
+                        {
+                            "id": 11027445,
+                            "user_id": 4401816,
+                            "task_id": 9226240,
+                            "points": 5,
+                            "created": "2017-01-31T21:18:20+07:00",
+                            "content": "iyyaa sayaa akan membantu diaa dan akan minta kepada tmen2 untuk membantu dia juga..",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "6",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 5980424,
+                                        "user_id": 4353756,
+                                        "content": "Membantu dia setidak nya saya berusaha meminta sumbangan untuk dia kepada teman teman saya , dan mengumpulkan uang untuk dia , dan memberi sedikit rejeki yang saya punya",
+                                        "created": "2017-01-31T21:39:47+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 5980443,
+                                        "user_id": 4467125,
+                                        "content": "berarti kita tidak perlu memberi bantan mental?",
+                                        "created": "2017-01-31T21:40:55+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 5980446,
+                                        "user_id": 4467125,
+                                        "content": "*bantuan",
+                                        "created": "2017-01-31T21:41:07+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 3
+                            }
+                        },
+                        {
+                            "id": 11027448,
+                            "user_id": 4467125,
+                            "task_id": 9226240,
+                            "points": 5,
+                            "created": "2017-01-31T21:18:25+07:00",
+                            "content": "membantu=<br \/>a.memberi uang<br \/>b.memberi dukungan mental",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4401816,
+                                "nick": "Damarimam",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dc0\/d6ccc470ed69605954daa8ce345c932b.jpg"
+                            },
+                            {
+                                "id": 4467125,
+                                "nick": "TRICKSTER1",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dce\/196c5b2ff6119eec1aece83ad4193aae.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 2068340,
+                        "subject_id": 12,
+                        "user_id": 125156,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Akuntansi SMA Kelas 2, bantuin yah!<br \/>\njurnalnya ini gimana? Bantu gue :( please kawan!!<br \/>\n-Juli 1= Tn. Trias menginvestasikan kekayaanya sbg modal awal usaha berupa uang tunai sebesar Rp 60.000.000 dan peralatan bengkel senilai Rp 5.000.000<br \/>\n-Juli 3= Membayar sewa kantor untuk 3 bulan Rp 90.000<br \/>\n-Juli 5= Membeli mobil dari intan motor untuk operasional perusahaan seharga Rp 30.000.000 dan baru dibayar Rp 20.000.000 sisanya diangsur bulanan @Rp 500.000 perbulan dengan beban bunga 12% pertahun<br \/>\n-Juli 6= Membeli peralatan kantor tunai seharga Rp 3.000.000<br \/>\n-Juli 8= Membeli perlengkapan bengkel tunai Rp 2.000.000<br \/>\n-Juli 10= Diterima jasa bengkel sebesar Rp 7.000.000 dari Tn. Bambang",
+                        "created": "2015-02-13T21:27:51+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2015-02-14T00:53:53+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Akuntansi SMA Kelas 2, bantuin yah!\njurnalnya ini gimana? Bantu gue :( please <em>kawan<\/em>!!\n-Juli 1= Tn. Trias menginvestasikan kekayaanya <em>sbg<\/em> modal awal usaha berupa uang tunai sebesar Rp 60.000.000 dan peralatan bengkel senilai Rp 5.000.000\n-Juli 3= Membayar sewa kantor untuk 3 bulan Rp 90.000\n-Juli 5= Membeli mobil dari intan motor untuk operasional perusahaan <em>sehar<\/em>ga Rp 30.000.000 dan baru dibayar Rp 20.000.000 sisanya diangsur bulanan @Rp 500.000 perbulan dengan beban bunga 12% pertahun\n-Juli 6= Membeli peralatan kantor tunai <em>sehar<\/em>ga Rp 3.000.000\n-Juli 8= Membeli perlengkapan bengkel tunai Rp 2.000.000\n-Juli 10= Diterima jasa bengkel sebesar Rp 7.000.000 dari Tn. Bambang",
+                        "snippet_content": "Akuntansi SMA Kelas 2, bantuin yah!\njurnalnya ini gimana? Bantu gue :( please <em>kawan<\/em>!!\n-Juli 1= Tn. Trias menginvestasikan kekayaanya <em>sbg<\/em> modal awal"
+                    },
+                    "responses": [
+                        {
+                            "id": 2627933,
+                            "user_id": 797925,
+                            "task_id": 2068340,
+                            "points": 5,
+                            "created": "2015-02-14T00:53:53+07:00",
+                            "content": "Jurnal umumnya :<br \/><br \/>Juli 1 <br \/>Kas (Dr) Rp 60jt<br \/>Peralatan bengkel (Dr) Rp 5jt<br \/>Modal (Cr) Rp 65jt<br \/><br \/>Juli 3 <br \/>Sewa dibayar dimuka (Dr) Rp 90rb<br \/>Kas (Cr) Rp 90rb<br \/><br \/>Juli 5<br \/>Kendaraan\/Mobil (Dr) Rp 30jt<br \/>Kas (Cr) Rp 20jt<br \/>Utang usaha (Cr) Rp 10jt<br \/><br \/>Juli 6<br \/>Peralatan kantor (Dr) Rp 3jt<br \/>Kas (Cr) Rp 3jt<br \/><br \/>Juli 8<br \/>Pelengkapan bengkel (Dr) Rp 2jt<br \/>Kas (Dr) Rp 2jt<br \/><br \/>Juli 10<br \/>Kas (Dr) Rp 7jt<br \/>Pendapatan usaha (Cr) Rp 7jt<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 7,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2016-10-30T04:30:05+07:00",
+                                "approver": {
+                                    "id": 2663844,
+                                    "nickname": "Mahaguru",
+                                    "points": 1857,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/db6\/c5fb7b6a68ce26ccea00dc12cb60d96f.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/df7\/fe8fb6dfa0d217a5d3fafa2a27e269ba.png"
+                                    },
+                                    "content_approved_count": 718187
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 797925,
+                                "nick": "MariaRubino",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d51\/20e5105e246cf173d22ba54879405fb4.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 9652851,
+                        "subject_id": 12,
+                        "user_id": 4076522,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Evaluasi 271-272<br \/><br \/>\n1.\tPermintaan uang adalah\u2026..<br \/>\na.\tKebutuhan uang untuk melakukan transaksi sehari-hari<br \/>\nb.\tKebutuhan uang untuk melakukan transaksi yang bersifat tunai<br \/>\nc.\tKebutuhan uang untuk berjaga-jaga<br \/>\nd.\tKebutuhan uang untuk melakukan transaksi yang bersifat spekulasi<br \/>\ne.\tUang kartal maupun uang giral yang ingin dipegang sebagai harta tunai ( yang mudah untuk dibelanjakan Negara)<br \/><br \/>\n2.\tMenurut ahli moneter klasik, fungsi uang hanyalah sebagai \u2026..<br \/>\na.\tAlat penyambung kekayaan<br \/>\nb.\tAlat pemindahan  kekayaan<br \/>\nc.\tAlat tukar<br \/>\nd.\tAlat pembuat bunga<br \/>\ne.\tAlat penyimpanan kekayaan<br \/><br \/>\n3.\tAlas an menahan uang menurut Kynes adalah\u2026..<br \/>\na.\tTransaksi, berjaga-jaga, dan menabung<br \/>\nb.\tTransaksi, berjaga-jaga, dan keamanan<br \/>\nc.\tTransaksi, berjaga-jaga, dan spekulasi<br \/>\nd.\tSpekulasi,berjaga-jaga,  dan menabung<br \/>\ne.\tSpekulasi,berjaga-jaga, dan keamanan<br \/><br \/>\n4.\tYang tidak termasuk M3 adalah \u2026\u2026<br \/>\na.\tSertifikasi Bank Indonesia pendek<br \/>\nb.\tUang giral<br \/>\nc.\tUang kartal<br \/>\nd.\tDeposito jangka<br \/>\ne.\tDeposito jangka panjang<br \/><br \/><br \/>\n5.\tMenurut teori nominalis, nilai uang ditentukan oleh \u2026..<br \/>\na.\tBahannya<br \/>\nb.\tNilai yang tertulis pada uang<br \/>\nc.\tPerjanjian antara pemerintah dan masyarakat<br \/>\nd.\tKebutuhan masyarakat<br \/>\ne.\tFungsi uang sebagai alat tukar<br \/><br \/>\n6.\tUang logam dan uang kertas adalah pembagian uang atas dasar\u2026\u2026<br \/>\na.\tBahan<br \/>\nb.\tNegara<br \/>\nc.\tNilai<br \/>\nd.\tKeperluan<br \/>\ne.\tTujuan<br \/><br \/>\n7.\tPelopor teori pendapatan adalah\u2026..<br \/>\na.\tDavid Ricardo<br \/>\nb.\tAlfred Marshall<br \/>\nc.\tKeynes<br \/><br \/>\n8.\tJika pendapatan nasional dan produk nasional meningkat, ceteris paribus, maka\u2026..<br \/>\na.\tKurva permintaan uang bergeser ke kanan <br \/>\nb.\tKurva permintaan uang bergeser ke kiri<br \/>\nc.\tKurva penawaran uang bergeser ke kanan<br \/>\nd.\tKurva penawaran uang bergeser ke kiri<br \/>\ne.\tKurva penawaran uang tidak bergeser ( tetap)<br \/><br \/>\n9.\tStandar uang yang masih umum berlaku di dunia adalah\u2026..<br \/>\na.\tStandar emas<br \/>\nb.\tStandar kembar<br \/>\nc.\tStandar pincang<br \/>\nd.\tStandar logam<br \/>\ne.\tStandar kertas<br \/><br \/><br \/><br \/><br \/><br \/><br \/><br \/><br \/><br \/><br \/>\nEvaluasi 291 \u0336  292<br \/><br \/>\n1.\tBank sentral, bank umum, dan bank perkreditan rakyat adalah bank yang dikelompokkan  menurut\u2026.<br \/>\na.\tJenis kegiatan<br \/>\nb.\tBentuk badan hukum<br \/>\nc.\tKepemilikan<br \/>\nd.\tTahun dibentuk<br \/>\ne.\tBesar uang yang dikelola<br \/>\n2.\tBank yang sebagian modalnya dimiliki pemerintah dan sebagian lainnya dimiliki swasta disebut\u2026..<br \/>\na.\tBank pemerintah<br \/>\nb.\tBank swasta<br \/>\nc.\tBank campuran <br \/>\nd.\tBank swasta asing<br \/>\ne.\tBank pemerintah daerah<br \/><br \/>\n3.\tBank yang didirikan atas dasar pandangan umat Islam yang menyatakan bahwa bunga bank hukumnya haram adalah\u2026..<br \/>\na.\tBank pemerintah<br \/>\nb.\tBank pemerintah daerah<br \/>\nc.\tBank swasta asing<br \/>\nd.\tBank swasta<br \/>\ne.\tBank syariah<br \/><br \/>\n4.\tAliran dana yang masuk ke bank disebut \u2026\u2026<br \/>\na.\tKredit pasif<br \/>\nb.\tKredit aktif<br \/>\nc.\tATM<br \/>\nd.\tCek<br \/>\ne.\tGiro<br \/><br \/>\n5.\tMencapai dan memelihara kestabilan nilai rupiah adalah fungsi \u2026\u2026.<br \/>\na.\tBank Sentral<br \/>\nb.\tBank Pemerintah<br \/>\nc.\tBank Perkreditan Rakyat<br \/>\nd.\tBank Umum <br \/>\ne.\tBank syariah<br \/><br \/><br \/><br \/><br \/>\n6.\tSebagai seorang siswa, produk perbankan yang bisa dimanfaatkan antara lain\u2026..<br \/>\na.\tSimpanan giro<br \/>\nb.\tKliring<br \/>\nc.\tInkaso<br \/>\nd.\tTabungan<br \/>\ne.\tKredit investasi<br \/><br \/>\n7.\tUntuk mengatasi inflasi, maka Bank Indonesia\u2026\u2026<br \/>\na.\tMenambah jumlah uang beredar<br \/>\nb.\tMengurangi jumlah uang beredar<br \/>\nc.\tMenurunkan tingkat suku bunga<br \/>\nd.\tMembeli surat-surat berharga<br \/>\ne.\tMengurangi pengeluaran pemerintah<br \/><br \/>\n8.\tKebijakan diskonto dilakukan dengan cara\u2026..<br \/>\na.\tMembeli dan menjual SBI<br \/>\nb.\tMenaikkan dan menurunkan suku bunga<br \/>\nc.\tMenaikkan dan menurunkan cadangan kas<br \/>\nd.\tPengumuman dan pidato<br \/>\ne.\tMenambah penghasilan masyarakat<br \/><br \/>\n9.\tKebijakan bank sentral di bidang moneter dengan cara membeli atau menjual surat berharga di pasar modal untuk memengaruhi jumlah uang beredar disebut \u2026\u2026<br \/>\na.\tKebijakan operasi pasar terbuka<br \/>\nb.\tKebijakan diskonto<br \/>\nc.\tKebijakan cadangan kas <br \/>\nd.\tKebijakan kredit ketat<br \/>\ne.\tKebijakan dorongan moral<br \/><br \/>\n10.\tJika Bank Indonesia menaikkan suku bunga, maka jumlah uang beredar\u2026\u2026<br \/>\na.\tBertambah<br \/>\nb.\tBerkurang<br \/>\nc.\tTetap<br \/>\nd.\tBerfluktuasi<br \/>\ne.\tBerhenti <br \/><br \/><br \/>",
+                        "created": "2017-03-01T20:57:40+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2017-03-01T21:46:50+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Evaluasi 271-272\n1.\tPermintaan uang adalah\u2026..\na.\tKebutuhan uang untuk melakukan transaksi <em>sehar<\/em>i-hari\nb.\tKebutuhan uang untuk melakukan transaksi yang bersifat tunai\nc.\tKebutuhan uang untuk berjaga-jaga\nd.\tKebutuhan uang untuk melakukan transaksi yang bersifat spekulasi\ne.\tUang kartal maupun uang giral yang ingin dipegang sebagai harta tunai ( yang mudah untuk dibelanjakan Negara)\n2.\tMenurut ahli moneter klasik, fungsi uang hanyalah sebagai \u2026..\na.\tAlat penyambung kekayaan\nb.\tAlat pemindahan  kekayaan\nc.\tAlat tukar\nd.\tAlat pembuat bunga\ne.\tAlat penyimpanan kekayaan\n3.\tAlas an menahan uang menurut Kynes adalah\u2026..\na.\tTransaksi, berjaga-jaga, dan menabung\nb.\tTransaksi, berjaga-jaga, dan keamanan\nc.\tTransaksi, berjaga-jaga, dan spekulasi\nd.\tSpekulasi,berjaga-jaga,  dan menabung\ne.\tSpekulasi,berjaga-jaga, dan keamanan\n4.\tYang tidak termasuk M3 adalah \u2026\u2026\na.\tSertifikasi Bank Indonesia pendek\nb.\tUang giral\nc.\tUang kartal\nd.\tDeposito jangka\ne.\tDeposito jangka panjang\n5.\tMenurut teori nominalis, nilai uang ditentukan oleh \u2026..\na.\tBahannya\nb.\tNilai yang tertulis pada uang\nc.\tPerjanjian antara pemerintah dan masyarakat\nd.\tKebutuhan masyarakat\ne.\tFungsi uang sebagai alat tukar\n6.\tUang logam dan uang kertas adalah pembagian uang atas dasar\u2026\u2026\na.\tBahan\nb.\tNegara\nc.\tNilai\nd.\tKeperluan\ne.\tTujuan\n7.\tPelopor teori pendapatan adalah\u2026..\na.\tDavid Ricardo\nb.\tAlfred Marshall\nc.\tKeynes\n8.\tJika pendapatan nasional dan produk nasional meningkat, ceteris paribus, maka\u2026..\na.\tKurva permintaan uang bergeser ke <em>kanan<\/em> \nb.\tKurva permintaan uang bergeser ke kiri\nc.\tKurva penawaran uang bergeser ke <em>kanan<\/em>\nd.\tKurva penawaran uang bergeser ke kiri\ne.\tKurva penawaran uang tidak bergeser ( tetap)\n9.\tStandar uang yang masih umum berlaku di dunia adalah\u2026..\na.\tStandar emas\nb.\tStandar kembar\nc.\tStandar pincang\nd.\tStandar logam\ne.\tStandar kertas\nEvaluasi 291 \u0336  292\n1.\tBank sentral, bank umum, dan bank perkreditan rakyat adalah bank yang dikelompokkan  menurut\u2026.\na.\tJenis kegiatan\nb.\tBentuk badan hukum\nc.\tKepemilikan\nd.\tTahun dibentuk\ne.\tBesar uang yang dikelola\n2.\tBank yang sebagian modalnya dimiliki pemerintah dan sebagian lainnya dimiliki swasta disebut\u2026..\na.\tBank pemerintah\nb.\tBank swasta\nc.\tBank campuran \nd.\tBank swasta asing\ne.\tBank pemerintah daerah\n3.\tBank yang didirikan atas dasar pandangan umat Islam yang menyatakan bahwa bunga bank hukumnya haram adalah\u2026..\na.\tBank pemerintah\nb.\tBank pemerintah daerah\nc.\tBank swasta asing\nd.\tBank swasta\ne.\tBank syariah\n4.\tAliran dana yang masuk ke bank disebut \u2026\u2026\na.\tKredit pasif\nb.\tKredit aktif\nc.\tATM\nd.\tCek\ne.\tGiro\n5.\tMencapai dan memelihara kestabilan nilai rupiah adalah fungsi \u2026\u2026.\na.\tBank Sentral\nb.\tBank Pemerintah\nc.\tBank Perkreditan Rakyat\nd.\tBank Umum \ne.\tBank syariah\n6.\tSebagai seorang siswa, produk perbankan yang bisa dimanfaatkan antara lain\u2026..\na.\tSimpanan giro\nb.\tKliring\nc.\tInkaso\nd.\tTabungan\ne.\tKredit investasi\n7.\tUntuk mengatasi inflasi, maka Bank Indonesia\u2026\u2026\na.\tMenambah jumlah uang beredar\nb.\tMengurangi jumlah uang beredar\nc.\tMenurunkan tingkat suku bunga\nd.\tMembeli surat-surat berharga\ne.\tMengurangi pengeluaran pemerintah\n8.\tKebijakan diskonto dilakukan dengan cara\u2026..\na.\tMembeli dan menjual <em>SBI<\/em>\nb.\tMenaikkan dan menurunkan suku bunga\nc.\tMenaikkan dan menurunkan cadangan kas\nd.\tPengumuman dan pidato\ne.\tMenambah penghasilan masyarakat\n9.\tKebijakan bank sentral di bidang moneter dengan cara membeli atau menjual surat berharga di pasar modal untuk memengaruhi jumlah uang beredar disebut \u2026\u2026\na.\tKebijakan operasi pasar terbuka\nb.\tKebijakan diskonto\nc.\tKebijakan cadangan kas \nd.\tKebijakan kredit ketat\ne.\tKebijakan dorongan moral\n10.\tJika Bank Indonesia menaikkan suku bunga, maka jumlah uang beredar\u2026\u2026\na.\tBertambah\nb.\tBerkurang\nc.\tTetap\nd.\tBerfluktuasi\ne.\tBerhenti ",
+                        "snippet_content": "Evaluasi 271-272\n1.\tPermintaan uang adalah\u2026..\na.\tKebutuhan uang untuk melakukan transaksi <em>sehar<\/em>i-hari\nb.\tKebutuhan uang untuk melakukan transaksi yang"
+                    },
+                    "responses": [
+                        {
+                            "id": 11554202,
+                            "user_id": 3099371,
+                            "task_id": 9652851,
+                            "points": 5,
+                            "created": "2017-03-01T21:46:50+07:00",
+                            "content": "1. a. Kebutuhan uang untuk melakukan transaksi sehari-hari.<br \/>2. c.\tAlat tukar<br \/>3. c.\tTransaksi, berjaga-jaga, dan spekulasi<br \/>4. a.\tSertifikasi Bank Indonesia pendek<br \/>5. a.\tBahannya<br \/>6. c.\tNilai<br \/>7. a.\tDavid Ricardo<br \/>8. c.\tKurva penawaran uang bergeser ke kanan<br \/>9. b.\tStandar kembar",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "6",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3099371,
+                                "nick": "Anisarizqi30",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/da3\/a85a9fbdc3d2832ce90f9f275853bd67.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 2843758,
+                        "subject_id": 18,
+                        "user_id": 1536189,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 54,
+                            "ptsForResp": 27,
+                            "ptsForBest": 14
+                        },
+                        "content": "31.\tPosisi badan saat melakukan guling ke belakang yang benar adalah \u2026.<br \/>\na.\tmembelakangi matras\td. di sebelah kanan matras<br \/>\nb.\tdi samping matras\te. di sebelah kiri matras<br \/>\nc.\tdi depan matras <br \/>\n32.\tSikap akhir guling belakang pada umumnya adalah \u2026.<br \/>\na.\ttelentang\td. miring atau tidur<br \/>\nb.\ttelungkup \te. berdiri<br \/>\nc.\tjongkok<br \/>\n33.\tGerakan mengguling ke belakang disebut \u2026.<br \/>\na.\tback exention\td. back roll<br \/>\nb.\twalk over\te. salto<br \/>\nc.\tback walk over<br \/>\n34.\tBentuk latihan untuk mendapatkan kekuatan otot lengan disebut \u2026.<br \/>\na.\tback-up\td. squat jump<br \/>\nb.\tpush-up \te. squat trush<br \/>\nc.\tsit-up<br \/>\n35.\tSalah satu bentuk latihan untuk meningkatkan kelincahan adalah \u2026.<br \/>\na.\tshuttle-run \td. squat-jump<br \/>\nb.\tpush-up\te. lari 60 meter<br \/>\nc.\tsquat-trust<br \/>\n36.\tKemampuan seseorang untuk dapat melakukan gerak dengan ruang gerak seluas-luasnya dalam persendiannya dinamakan \u2026.<br \/>\na.\tkecepatan\td. kelincahan<br \/>\nb.\tkelentukan\te. daya tahan<br \/>\nc.\tkekuatan<br \/>\n37.\tKemampuan seseorang untuk dapat mengubah arah dengan cepat dan tepat pada waktu bergerak tanpa kehilangan keseimbangan dinamakan \u2026.<br \/>\na.\tdaya tahan\td. kelentukan<br \/>\nb.\tkecepatan\te. keseimbangan<br \/>\nc.\tkelincahan<br \/>\n38.\tPeregangan otot dengan maksud menyiapkan otot sebelum melakukan suatu aktivitas jasmani disebut \u2026.<br \/>\na.\tcooling down\td. circuit training<br \/>\nb.\tweight training\te. interval training<br \/>\nc.\twarming up<br \/>\n39.\tTujuan utama latihan kondisi fisik\/kebugaran jasmani adalah \u2026.<br \/>\na.\tmeningkatkan fleksibilitas\td. membentuk postur tubuh<br \/>\nb.\tmeningkatkan daya tahan\te. meningkatkan kebugaran jasmani<br \/>\nc.\tmeningkatkan kecepatan<br \/>\n40.\tNomor-nomor yang diperlombakan dalam atletik lari jarak pendek adalah \u2026.<br \/>\na.\t100, 200, 300 m\td. 400, 800, 1500 m<br \/>\nb.\t100, 200, 400 m\te. 400, 800, 1000 m<br \/>\nc.\t200, 400, 800 m<br \/>\n41.\tNomor-nomor yang diperlombakan dalam atletik jarak menengah adalah \u2026.<br \/>\na.\t100, 200, 300 m\td. 800, 1500 m<br \/>\nb.\t100, 200, 400 m\te. 1500, 5000 m<br \/>\nc.\t200, 400, 800 m<br \/>\n42.\tStart jongkok umumnya digunakan untuk perlombaan lari \u2026.<br \/>\na.\tjarak pendek\td. marathon<br \/>\nb.\tjarak menengah\te. lari 1000 m<br \/>\nc.\tjarak jauh<br \/>\n43.\tDalam cabang atletik nomor lompat jauh, pada saat mendekat balok tumpuan, langkah kaki seharusnya \u2026.<br \/>\na.\tstabil\td. setengah dipercepat<br \/>\nb.\tdiperlambat\te. setengah diperlambat<br \/>\nc.\tdipercepat<br \/>\n44.\tDalam olahraga lompat jauh, ketika di udara posisi badan seperti sedang berjalan di udara, atlet tersebut menggunakan lompat jauh gaya \u2026.<br \/>\na.\thanging in the air\td. flying in the air<br \/>\nb.\tset down in the air\te. walking in the air<br \/>\nc.\tsky in the air<br \/>\n45.\tKegiatan berlari berasal dari sebuah kota kecil yang bernama Marathon. Jaraknya sejauh \u2026.<br \/>\na.\t10 km\td. 40 km<br \/>\nb.\t20 km\te. 42, 195 km<br \/>\nc.\t30 km<br \/>\n46.\tInduk organisasi cabang olahraga bulutangkis di Indonesia adalah \u2026.<br \/>\na.\tPERBASI\td. PBSI<br \/>\nb.\tIPSI\te. PBVSI<br \/>\nc.\tISSI<br \/>\n47.\tBerikut ini yang bukan merupakan macam-macam pukulan dalam permainan bulutangkis adalah \u2026.<br \/>\na.\tsmash\td. chest pass<br \/>\nb.\tdropshot\te. drive<br \/>\nc.\tlob<br \/>\n48.\tTambahan angka jika kedua pemain memperoleh nilai yang sama dalam pertandingan bulutangkis disebut \u2026.<br \/>\na.\tservis over\td. match poin<br \/>\nb.\trubber set\te. game over<br \/>\nc.\tdeuce<br \/>\n49.\tDalam permainan bulutangkis pukulan lob adalah pukulan yang jatuhnya shuttlecock \u2026.<br \/>\na.\tdi daerah tengah lapangan\td. tipis di atas net<br \/>\nb.\tdi daerah belakang lapangan\te. dekat dengan net<br \/>\nc.\tdi daerah depan lapangan<br \/><br \/>\n50.\tHIV\/ AIDS adalah penyakit menular seksual yang disebarkan oleh \u2026.<br \/>\na.\tkuman\td. jamur<br \/>\nb.\tvirus\te. amuba<br \/>\nc.\tbakteri <br \/>\n51.\tAIDS disebabkan oleh virus HIV. HIV merupakan singkatan dari \u2026.<br \/>\na.\tHuman Immunodeficiency Varians\t<br \/>\nb.\tHabbit Immunodeficiency Virus\t<br \/>\nc.\tHuman Immunode Virus<br \/>\nd.\tHuman Immunodeficiency Virus<br \/>\ne.\tHuman Immunity Virus<br \/>\n52.\tCara penularan HIV\/ AIDS melalui .\u2026<br \/>\na.\tbersentuhan\td. jarum suntik tidak steril<br \/>\nb.\tpakaian\te. air liur<br \/>\nc.\tkeringat<br \/>\n53.\tMakanan di bawah ini yang mengandung karbohidrat yang benar adalah \u2026.<br \/>\na.\tnasi, tempe, tahu\td. nasi, jagung<br \/>\nb.\tbayam, jagung, gandum\te. kacang mete, tempe, kacang tanah<br \/>\nc.\tsusu, keju, kacang panjang<br \/>\na.\t<br \/>\n54.\tYang tidak boleh dilakukan saat mengalami cedera olahraga atau terkena pukulan benda tumpul adalah \u2026.<br \/>\na.\tkompres air dingin<br \/>\nb.\tpijat<br \/>\nc.\tletakkan bagian yang luka lebih tinggi dari jantung<br \/>\nd.\tmembalut luka\/ menekan luka<br \/>\ne.\tmengistirahatkan bagian tubuh yang cedera<br \/>\n55.\tManfaat makanan bagi tubuh adalah sebagai \u2026.<br \/>\na.\tsumber energi atau tenaga\td. jaminan hidup<br \/>\nb.\tkelangsungan hidup\te. keutuhan jasmani<br \/>\nc.\tsarana bagi tubuh<br \/>\n56.\tZat makanan yang berfungsi sebagai sumber tenaga adalah \u2026.<br \/>\na.\tkalsium\td. protein<br \/>\nb.\tkarbohidrat\te. mineral<br \/>\nc.\tlemak<br \/>\n57.\tWaktu tidur di malam hari yang ideal adalah \u2026. jam<br \/>\na.\t5-6\td. 9-10<br \/>\nb.\t6-7\te. 10-12<br \/>\nc.\t7-8<br \/>\n58.\tBerasal dari Negara manakah cabang olahraga pencak silat?<br \/>\na.\tMalasya<br \/>\nb.\tBrunai darusalam<br \/>\nc.\tCina<br \/>\nd.\tIndonesia<br \/>\ne.\tjepang<br \/>\n59.\tSebutkan induk organisasi  cabang olahraga pencak silat di Indonesia?<br \/>\na.\tIKPI<br \/>\nb.\tIPPI<br \/>\nc.\tIPSI<br \/>\nd.\tISLI<br \/>\ne.\tIKKI<br \/>\n60.\tVitamin yang larut dalam lemak adalah \u2026.<br \/>\na.\tB\td. B6<br \/>\nb.\tB12\te. A<br \/>\nc.\tC",
+                        "created": "2015-06-08T19:27:24+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2015-06-08T19:34:17+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "31.\tPosisi badan saat melakukan guling ke belakang yang benar adalah \u2026.\na.\tmembelakangi matras\td. di sebelah <em>kanan<\/em> matras\nb.\tdi samping matras\te. di sebelah kiri matras\nc.\tdi depan matras \n32.\tSikap akhir guling belakang pada umumnya adalah \u2026.\na.\ttelentang\td. miring atau tidur\nb.\ttelungkup \te. berdiri\nc.\tjongkok\n33.\tGerakan mengguling ke belakang disebut \u2026.\na.\tback exention\td. back roll\nb.\twalk over\te. salto\nc.\tback walk over\n34.\tBentuk latihan untuk mendapatkan kekuatan otot lengan disebut \u2026.\na.\tback-up\td. squat jump\nb.\tpush-up \te. squat trush\nc.\tsit-up\n35.\tSalah satu bentuk latihan untuk meningkatkan kelincahan adalah \u2026.\na.\tshuttle-run \td. squat-jump\nb.\tpush-up\te. lari 60 meter\nc.\tsquat-trust\n36.\tKemampuan seseorang untuk dapat melakukan gerak dengan ruang gerak seluas-luasnya dalam persendiannya dinamakan \u2026.\na.\tkecepatan\td. kelincahan\nb.\tkelentukan\te. daya tahan\nc.\tkekuatan\n37.\tKemampuan seseorang untuk dapat mengubah arah dengan cepat dan tepat pada waktu bergerak tanpa kehilangan keseimbangan dinamakan \u2026.\na.\tdaya tahan\td. kelentukan\nb.\tkecepatan\te. keseimbangan\nc.\tkelincahan\n38.\tPeregangan otot dengan maksud menyiapkan otot sebelum melakukan suatu aktivitas jasmani disebut \u2026.\na.\tcooling down\td. circuit training\nb.\tweight training\te. interval training\nc.\twarming up\n39.\tTujuan utama latihan kondisi fisik\/kebugaran jasmani adalah \u2026.\na.\tmeningkatkan fleksibilitas\td. membentuk postur tubuh\nb.\tmeningkatkan daya tahan\te. meningkatkan kebugaran jasmani\nc.\tmeningkatkan kecepatan\n40.\tNomor-nomor yang diperlombakan dalam atletik lari jarak pendek adalah \u2026.\na.\t100, 200, 300 m\td. 400, 800, 1500 m\nb.\t100, 200, 400 m\te. 400, 800, 1000 m\nc.\t200, 400, 800 m\n41.\tNomor-nomor yang diperlombakan dalam atletik jarak menengah adalah \u2026.\na.\t100, 200, 300 m\td. 800, 1500 m\nb.\t100, 200, 400 m\te. 1500, 5000 m\nc.\t200, 400, 800 m\n42.\tStart jongkok umumnya digunakan untuk perlombaan lari \u2026.\na.\tjarak pendek\td. marathon\nb.\tjarak menengah\te. lari 1000 m\nc.\tjarak jauh\n43.\tDalam cabang atletik nomor lompat jauh, pada saat mendekat balok tumpuan, langkah kaki <em>sehar<\/em>usnya \u2026.\na.\tstabil\td. setengah dipercepat\nb.\tdiperlambat\te. setengah diperlambat\nc.\tdipercepat\n44.\tDalam olahraga lompat jauh, ketika di udara posisi badan seperti sedang berjalan di udara, atlet tersebut menggunakan lompat jauh gaya \u2026.\na.\thanging in the air\td. flying in the air\nb.\tset down in the air\te. walking in the air\nc.\t<em>sky<\/em> in the air\n45.\tKegiatan berlari berasal dari sebuah kota kecil yang bernama Marathon. Jaraknya sejauh \u2026.\na.\t10 km\td. 40 km\nb.\t20 km\te. 42, 195 km\nc.\t30 km\n46.\tInduk organisasi cabang olahraga bulutangkis di Indonesia adalah \u2026.\na.\tPERBASI\td. PBSI\nb.\tIPSI\te. PBVSI\nc.\tISSI\n47.\tBerikut ini yang bukan merupakan macam-macam pukulan dalam permainan bulutangkis adalah \u2026.\na.\tsmash\td. chest pass\nb.\tdropshot\te. drive\nc.\tlob\n48.\tTambahan angka jika kedua pemain memperoleh nilai yang sama dalam pertandingan bulutangkis disebut \u2026.\na.\tservis over\td. match poin\nb.\trubber set\te. game over\nc.\tdeuce\n49.\tDalam permainan bulutangkis pukulan lob adalah pukulan yang jatuhnya shuttlecock \u2026.\na.\tdi daerah tengah lapangan\td. tipis di atas net\nb.\tdi daerah belakang lapangan\te. dekat dengan net\nc.\tdi daerah depan lapangan\n50.\tHIV\/ AIDS adalah penyakit menular seksual yang disebarkan oleh \u2026.\na.\tkuman\td. jamur\nb.\tvirus\te. amuba\nc.\tbakteri \n51.\tAIDS disebabkan oleh virus HIV. HIV merupakan singkatan dari \u2026.\na.\tHuman Immunodeficiency Varians\t\nb.\tHabbit Immunodeficiency Virus\t\nc.\tHuman Immunode Virus\nd.\tHuman Immunodeficiency Virus\ne.\tHuman Immunity Virus\n52.\tCara penularan HIV\/ AIDS melalui .\u2026\na.\tbersentuhan\td. jarum suntik tidak steril\nb.\tpakaian\te. air liur\nc.\tkeringat\n53.\tMakanan di bawah ini yang mengandung karbohidrat yang benar adalah \u2026.\na.\tnasi, tempe, tahu\td. nasi, jagung\nb.\tbayam, jagung, gandum\te. kacang mete, tempe, kacang tanah\nc.\tsusu, keju, kacang panjang\na.\t\n54.\tYang tidak boleh dilakukan saat mengalami cedera olahraga atau terkena pukulan benda tumpul adalah \u2026.\na.\tkompres air dingin\nb.\tpijat\nc.\tletakkan bagian yang luka lebih tinggi dari jantung\nd.\tmembalut luka\/ menekan luka\ne.\tmengistirahatkan bagian tubuh yang cedera\n55.\tManfaat makanan bagi tubuh adalah sebagai \u2026.\na.\tsumber energi atau tenaga\td. jaminan hidup\nb.\tkelangsungan hidup\te. keutuhan jasmani\nc.\tsarana bagi tubuh\n56.\tZat makanan yang berfungsi sebagai sumber tenaga adalah \u2026.\na.\tkalsium\td. protein\nb.\tkarbohidrat\te. mineral\nc.\tlemak\n57.\tWaktu tidur di malam hari yang ideal adalah \u2026. jam\na.\t5-6\td. 9-10\nb.\t6-7\te. 10-12\nc.\t7-8\n58.\tBerasal dari Negara manakah cabang olahraga pencak silat?\na.\tMalasya\nb.\tBrunai darusalam\nc.\tCina\nd.\tIndonesia\ne.\tjepang\n59.\tSebutkan induk organisasi  cabang olahraga pencak silat di Indonesia?\na.\tIKPI\nb.\tIPPI\nc.\tIPSI\nd.\tISLI\ne.\tIKKI\n60.\tVitamin yang larut dalam lemak adalah \u2026.\na.\tB\td. B6\nb.\tB12\te. A\nc.\tC",
+                        "snippet_content": "31.\tPosisi badan saat melakukan guling ke belakang yang benar adalah \u2026.\na.\tmembelakangi matras\td. di sebelah <em>kanan<\/em> matras\nb.\tdi samping"
+                    },
+                    "responses": [
+                        {
+                            "id": 3633593,
+                            "user_id": 1530358,
+                            "task_id": 2843758,
+                            "points": 27,
+                            "created": "2015-06-08T19:34:17+07:00",
+                            "content": "31.A<br \/>32.c<br \/>33.d<br \/>34.b<br \/>35.a<br \/>36.b<br \/>37.e<br \/>39.e<br \/>44.e<br \/>50.b<br \/>55.a<br \/>57.c<br \/>maaf kalo ada yg slh+ g d jwb semua<br \/>",
+                            "mark": 3,
+                            "marks_count": 4,
+                            "thanks": 24,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 3633697,
+                            "user_id": 1079434,
+                            "task_id": 2843758,
+                            "points": 27,
+                            "created": "2015-06-08T19:44:46+07:00",
+                            "content": "31. a<br \/>32. e<br \/>33. d<br \/>34. b<br \/>35. d (sprtnya)<br \/>36. b<br \/>37. c<br \/>38. -<br \/>39. e<br \/>40. b<br \/>41. d<br \/>42. a<br \/>43. b<br \/>44. e<br \/>45. -<br \/>46. d<br \/>47. d<br \/>48. d<br \/>49. b<br \/>50. b<br \/>51. d.<br \/>52. d\/e bisa<br \/>53. d<br \/>54. c<br \/>55. a<br \/>56. b<br \/>57. c<br \/>58. d<br \/>59. c<br \/>60. e",
+                            "mark": 4,
+                            "marks_count": 7,
+                            "thanks": 21,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1530358,
+                                "nick": "alver01",
+                                "avatar": null
+                            },
+                            {
+                                "id": 1079434,
+                                "nick": "WindaFANG",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d8c\/79a8595339a84cf9315d7ca965eaa4cc.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 2843474,
+                        "subject_id": 18,
+                        "user_id": 1536004,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "1.\tPosisi badan saat melakukan guling ke belakang yang benar adalah \u2026.<br \/>\na.\tmembelakangi matras\td. di sebelah kanan matras<br \/>\nb.\tdi samping matras\te. di sebelah kiri matras<br \/>\nc.\tdi depan matras <br \/>\n2.\tSikap akhir guling belakang pada umumnya adalah \u2026.<br \/>\na.\ttelentang\td. miring atau tidur<br \/>\nb.\ttelungkup \te. berdiri<br \/>\nc.\tjongkok<br \/>\n3.\tGerakan mengguling ke belakang disebut \u2026.<br \/>\na.\tback exention\td. back roll<br \/>\nb.\twalk over\te. salto<br \/>\nc.\tback walk over<br \/>\n4.\tBentuk latihan untuk mendapatkan kekuatan otot lengan disebut \u2026.<br \/>\na.\tback-up\td. squat jump<br \/>\nb.\tpush-up \te. squat trush<br \/>\nc.\tsit-up<br \/>\n5.\tSalah satu bentuk latihan untuk meningkatkan kelincahan adalah \u2026.<br \/>\na.\tshuttle-run \td. squat-jump<br \/>\nb.\tpush-up\te. lari 60 meter<br \/>\nc.\tsquat-trust<br \/>\n6.\tKemampuan seseorang untuk dapat melakukan gerak dengan ruang gerak seluas-luasnya dalam persendiannya dinamakan \u2026.<br \/>\na.\tkecepatan\td. kelincahan<br \/>\nb.\tkelentukan\te. daya tahan<br \/>\nc.\tkekuatan<br \/>\n7.\tKemampuan seseorang untuk dapat mengubah arah dengan cepat dan tepat pada waktu bergerak tanpa kehilangan keseimbangan dinamakan \u2026.<br \/>\na.\tdaya tahan\td. kelentukan<br \/>\nb.\tkecepatan\te. keseimbangan<br \/>\nc.\tkelincahan<br \/>\n8.\tPeregangan otot dengan maksud menyiapkan otot sebelum melakukan suatu aktivitas jasmani disebut \u2026.<br \/>\na.\tcooling down\td. circuit training<br \/>\nb.\tweight training\te. interval training<br \/>\nc.\twarming up<br \/>\n9.\tTujuan utama latihan kondisi fisik\/kebugaran jasmani adalah \u2026.<br \/>\na.\tmeningkatkan fleksibilitas\td. membentuk postur tubuh<br \/>\nb.\tmeningkatkan daya tahan\te. meningkatkan kebugaran jasmani<br \/>\nc.\tmeningkatkan kecepatan<br \/>\n10.\tNomor-nomor yang diperlombakan dalam atletik lari jarak pendek adalah \u2026.<br \/>\na.\t100, 200, 300 m\td. 400, 800, 1500 m<br \/>\nb.\t100, 200, 400 m\te. 400, 800, 1000 m<br \/>\nc.\t200, 400, 800 m<br \/>\n11.\tNomor-nomor yang diperlombakan dalam atletik jarak menengah adalah \u2026.<br \/>\na.\t100, 200, 300 m\td. 800, 1500 m<br \/>\nb.\t100, 200, 400 m\te. 1500, 5000 m<br \/>\nc.\t200, 400, 800 m<br \/>\n12.\tStart jongkok umumnya digunakan untuk perlombaan lari \u2026.<br \/>\na.\tjarak pendek\td. marathon<br \/>\nb.\tjarak menengah\te. lari 1000 m<br \/>\nc.\tjarak jauh<br \/>\n13.\tDalam cabang atletik nomor lompat jauh, pada saat mendekat balok tumpuan, langkah kaki seharusnya \u2026.<br \/>\na.\tstabil\td. setengah dipercepat<br \/>\nb.\tdiperlambat\te. setengah diperlambat<br \/>\nc.\tdipercepat<br \/>\n14.\tDalam olahraga lompat jauh, ketika di udara posisi badan seperti sedang berjalan di udara, atlet tersebut menggunakan lompat jauh gaya \u2026.<br \/>\na.\thanging in the air\td. flying in the air<br \/>\nb.\tset down in the air\te. walking in the air<br \/>\nc.\tsky in the air<br \/>\n15.\tKegiatan berlari berasal dari sebuah kota kecil yang bernama Marathon. Jaraknya sejauh \u2026.<br \/>\na.\t10 km\td. 40 km<br \/>\nb.\t20 km\te. 42, 195 km<br \/>\nc.\t30 km<br \/>\n16.\tInduk organisasi cabang olahraga bulutangkis di Indonesia adalah \u2026.<br \/>\na.\tPERBASI\td. PBSI<br \/>\nb.\tIPSI\te. PBVSI<br \/>\nc.\tISSI<br \/>\n17.\tBerikut ini yang bukan merupakan macam-macam pukulan dalam permainan bulutangkis adalah \u2026.<br \/>\na.\tsmash\td. chest pass<br \/>\nb.\tdropshot\te. drive<br \/>\nc.\tlob<br \/>\n18.\tTambahan angka jika kedua pemain memperoleh nilai yang sama dalam pertandingan bulutangkis disebut \u2026.<br \/>\na.\tservis over\td. match poin<br \/>\nb.\trubber set\te. game over<br \/>\nc.\tdeuce<br \/>\n19.\tDalam permainan bulutangkis pukulan lob adalah pukulan yang jatuhnya shuttlecock \u2026.<br \/>\na.\tdi daerah tengah lapangan\td. tipis di atas net<br \/>\nb.\tdi daerah belakang lapangan\te. dekat dengan net<br \/>\nc.\tdi daerah depan lapangan<br \/>\n20.\tHIV\/ AIDS adalah penyakit menular seksual yang disebarkan oleh \u2026.<br \/>\na.\tkuman\td. jamur<br \/>\nb.\tvirus\te. amuba<br \/>\nc.\tbakteri <br \/>\n21.\tAIDS disebabkan oleh virus HIV. HIV merupakan singkatan dari \u2026.<br \/>\na.\tHuman Immunodeficiency Varians\t<br \/>\nb.\tHabbit Immunodeficiency Virus\t<br \/>\nc.\tHuman Immunode Virus<br \/>\nd.\tHuman Immunodeficiency Virus<br \/>\ne.\tHuman Immunity Virus<br \/>\n22.\tCara penularan HIV\/ AIDS melalui .\u2026<br \/>\na.\tbersentuhan\td. jarum suntik tidak steril<br \/>\nb.\tpakaian\te. air liur<br \/>\nc.\tkeringat<br \/>\n23.\tMakanan di bawah ini yang mengandung karbohidrat yang benar adalah \u2026.<br \/>\na.\tnasi, tempe, tahu\td. nasi, jagung<br \/>\nb.\tbayam, jagung, gandum\te. kacang mete, tempe, kacang tanah<br \/>\nc.\tsusu, keju, kacang panjang\t<br \/>\n24.\tYang tidak boleh dilakukan saat mengalami cedera olahraga atau terkena pukulan benda tumpul adalah \u2026.<br \/>\na.\tkompres air dingin<br \/>\nb.\tpijat<br \/>\nc.\tletakkan bagian yang luka lebih tinggi dari jantung<br \/>\nd.\tmembalut luka\/ menekan luka<br \/>\ne.\tmengistirahatkan bagian tubuh yang cedera<br \/>\n25.\tManfaat makanan bagi tubuh adalah sebagai \u2026.<br \/>\na.\tsumber energi atau tenaga\td. jaminan hidup<br \/>\nb.\tkelangsungan hidup\te. keutuhan jasmani<br \/>\nc.\tsarana bagi tubuh<br \/>\n26.\tZat makanan yang berfungsi sebagai sumber tenaga adalah \u2026.<br \/>\na.\tkalsium\td. protein<br \/>\nb.\tkarbohidrat\te. mineral<br \/>\nc.\tlemak<br \/>\n27.\tWaktu tidur di malam hari yang ideal adalah \u2026. jam<br \/>\na.\t5-6\td. 9-10<br \/>\nb.\t6-7\te. 10-12<br \/>\nc.\t7-8<br \/>\n28.\tBerasal dari Negara manakah cabang olahraga pencak silat?<br \/>\na.\tMalasya<br \/>\nb.\tBrunai darusalam<br \/>\nc.\tCina<br \/>\nd.\tIndonesia<br \/>\ne.\tjepang<br \/>\n29.\tSebutkan induk organisasi  cabang olahraga pencak silat di Indonesia?<br \/>\na.\tIKPI<br \/>\nb.\tIPPI<br \/>\nc.\tIPSI<br \/>\nd.\tISLI<br \/>\ne.\tIKKI<br \/>\n30.\tVitamin yang larut dalam lemak adalah \u2026.<br \/>\na.\tB\td. B6<br \/>\nb.\tB12\te. A<br \/>\nc.\tC<br \/>",
+                        "created": "2015-06-08T18:47:35+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2015-10-23T06:14:08+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "1.\tPosisi badan saat melakukan guling ke belakang yang benar adalah \u2026.\na.\tmembelakangi matras\td. di sebelah <em>kanan<\/em> matras\nb.\tdi samping matras\te. di sebelah kiri matras\nc.\tdi depan matras \n2.\tSikap akhir guling belakang pada umumnya adalah \u2026.\na.\ttelentang\td. miring atau tidur\nb.\ttelungkup \te. berdiri\nc.\tjongkok\n3.\tGerakan mengguling ke belakang disebut \u2026.\na.\tback exention\td. back roll\nb.\twalk over\te. salto\nc.\tback walk over\n4.\tBentuk latihan untuk mendapatkan kekuatan otot lengan disebut \u2026.\na.\tback-up\td. squat jump\nb.\tpush-up \te. squat trush\nc.\tsit-up\n5.\tSalah satu bentuk latihan untuk meningkatkan kelincahan adalah \u2026.\na.\tshuttle-run \td. squat-jump\nb.\tpush-up\te. lari 60 meter\nc.\tsquat-trust\n6.\tKemampuan seseorang untuk dapat melakukan gerak dengan ruang gerak seluas-luasnya dalam persendiannya dinamakan \u2026.\na.\tkecepatan\td. kelincahan\nb.\tkelentukan\te. daya tahan\nc.\tkekuatan\n7.\tKemampuan seseorang untuk dapat mengubah arah dengan cepat dan tepat pada waktu bergerak tanpa kehilangan keseimbangan dinamakan \u2026.\na.\tdaya tahan\td. kelentukan\nb.\tkecepatan\te. keseimbangan\nc.\tkelincahan\n8.\tPeregangan otot dengan maksud menyiapkan otot sebelum melakukan suatu aktivitas jasmani disebut \u2026.\na.\tcooling down\td. circuit training\nb.\tweight training\te. interval training\nc.\twarming up\n9.\tTujuan utama latihan kondisi fisik\/kebugaran jasmani adalah \u2026.\na.\tmeningkatkan fleksibilitas\td. membentuk postur tubuh\nb.\tmeningkatkan daya tahan\te. meningkatkan kebugaran jasmani\nc.\tmeningkatkan kecepatan\n10.\tNomor-nomor yang diperlombakan dalam atletik lari jarak pendek adalah \u2026.\na.\t100, 200, 300 m\td. 400, 800, 1500 m\nb.\t100, 200, 400 m\te. 400, 800, 1000 m\nc.\t200, 400, 800 m\n11.\tNomor-nomor yang diperlombakan dalam atletik jarak menengah adalah \u2026.\na.\t100, 200, 300 m\td. 800, 1500 m\nb.\t100, 200, 400 m\te. 1500, 5000 m\nc.\t200, 400, 800 m\n12.\tStart jongkok umumnya digunakan untuk perlombaan lari \u2026.\na.\tjarak pendek\td. marathon\nb.\tjarak menengah\te. lari 1000 m\nc.\tjarak jauh\n13.\tDalam cabang atletik nomor lompat jauh, pada saat mendekat balok tumpuan, langkah kaki <em>sehar<\/em>usnya \u2026.\na.\tstabil\td. setengah dipercepat\nb.\tdiperlambat\te. setengah diperlambat\nc.\tdipercepat\n14.\tDalam olahraga lompat jauh, ketika di udara posisi badan seperti sedang berjalan di udara, atlet tersebut menggunakan lompat jauh gaya \u2026.\na.\thanging in the air\td. flying in the air\nb.\tset down in the air\te. walking in the air\nc.\t<em>sky<\/em> in the air\n15.\tKegiatan berlari berasal dari sebuah kota kecil yang bernama Marathon. Jaraknya sejauh \u2026.\na.\t10 km\td. 40 km\nb.\t20 km\te. 42, 195 km\nc.\t30 km\n16.\tInduk organisasi cabang olahraga bulutangkis di Indonesia adalah \u2026.\na.\tPERBASI\td. PBSI\nb.\tIPSI\te. PBVSI\nc.\tISSI\n17.\tBerikut ini yang bukan merupakan macam-macam pukulan dalam permainan bulutangkis adalah \u2026.\na.\tsmash\td. chest pass\nb.\tdropshot\te. drive\nc.\tlob\n18.\tTambahan angka jika kedua pemain memperoleh nilai yang sama dalam pertandingan bulutangkis disebut \u2026.\na.\tservis over\td. match poin\nb.\trubber set\te. game over\nc.\tdeuce\n19.\tDalam permainan bulutangkis pukulan lob adalah pukulan yang jatuhnya shuttlecock \u2026.\na.\tdi daerah tengah lapangan\td. tipis di atas net\nb.\tdi daerah belakang lapangan\te. dekat dengan net\nc.\tdi daerah depan lapangan\n20.\tHIV\/ AIDS adalah penyakit menular seksual yang disebarkan oleh \u2026.\na.\tkuman\td. jamur\nb.\tvirus\te. amuba\nc.\tbakteri \n21.\tAIDS disebabkan oleh virus HIV. HIV merupakan singkatan dari \u2026.\na.\tHuman Immunodeficiency Varians\t\nb.\tHabbit Immunodeficiency Virus\t\nc.\tHuman Immunode Virus\nd.\tHuman Immunodeficiency Virus\ne.\tHuman Immunity Virus\n22.\tCara penularan HIV\/ AIDS melalui .\u2026\na.\tbersentuhan\td. jarum suntik tidak steril\nb.\tpakaian\te. air liur\nc.\tkeringat\n23.\tMakanan di bawah ini yang mengandung karbohidrat yang benar adalah \u2026.\na.\tnasi, tempe, tahu\td. nasi, jagung\nb.\tbayam, jagung, gandum\te. kacang mete, tempe, kacang tanah\nc.\tsusu, keju, kacang panjang\t\n24.\tYang tidak boleh dilakukan saat mengalami cedera olahraga atau terkena pukulan benda tumpul adalah \u2026.\na.\tkompres air dingin\nb.\tpijat\nc.\tletakkan bagian yang luka lebih tinggi dari jantung\nd.\tmembalut luka\/ menekan luka\ne.\tmengistirahatkan bagian tubuh yang cedera\n25.\tManfaat makanan bagi tubuh adalah sebagai \u2026.\na.\tsumber energi atau tenaga\td. jaminan hidup\nb.\tkelangsungan hidup\te. keutuhan jasmani\nc.\tsarana bagi tubuh\n26.\tZat makanan yang berfungsi sebagai sumber tenaga adalah \u2026.\na.\tkalsium\td. protein\nb.\tkarbohidrat\te. mineral\nc.\tlemak\n27.\tWaktu tidur di malam hari yang ideal adalah \u2026. jam\na.\t5-6\td. 9-10\nb.\t6-7\te. 10-12\nc.\t7-8\n28.\tBerasal dari Negara manakah cabang olahraga pencak silat?\na.\tMalasya\nb.\tBrunai darusalam\nc.\tCina\nd.\tIndonesia\ne.\tjepang\n29.\tSebutkan induk organisasi  cabang olahraga pencak silat di Indonesia?\na.\tIKPI\nb.\tIPPI\nc.\tIPSI\nd.\tISLI\ne.\tIKKI\n30.\tVitamin yang larut dalam lemak adalah \u2026.\na.\tB\td. B6\nb.\tB12\te. A\nc.\tC",
+                        "snippet_content": "1.\tPosisi badan saat melakukan guling ke belakang yang benar adalah \u2026.\na.\tmembelakangi matras\td. di sebelah <em>kanan<\/em> matras\nb.\tdi samping"
+                    },
+                    "responses": [
+                        {
+                            "id": 4803675,
+                            "user_id": 1447156,
+                            "task_id": 2843474,
+                            "points": 5,
+                            "created": "2015-10-23T06:14:08+07:00",
+                            "content": "1.C<br \/>2.A<br \/>3.D<br \/>4.B<br \/>5.A<br \/>6.D<br \/>7.E<br \/>8.C<br \/>9.B<br \/>10.A<br \/>11.D<br \/>12.B<br \/>13.D<br \/>14.E<br \/>15.E<br \/>16.D<br \/>17.D<br \/>18.D<br \/>19.A<br \/>20.C<br \/>21.D<br \/>22.E<br \/>23.D<br \/>24.C<br \/>25.A<br \/>26.B<br \/>27.C<br \/>28.D<br \/>29.C<br \/>30.B<br \/>",
+                            "mark": 3,
+                            "marks_count": 5,
+                            "thanks": 45,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1447156,
+                                "nick": "gifarinax",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dc7\/847c4dd8c6d727a801f348662a9e7d6a.png"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 5473176,
+                        "subject_id": 5,
+                        "user_id": 2754070,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Latihan 1 CONGRESSIONAL BILL WOULD MAKE WEEKLY WORLD NEWS  REQUIRED READING FOR EVERY AMERICAN! Thursday January 19, 2006  By Mark Miller  WASHINGTON, D.C. -- Weekly World News is already one of the most popular publications in the country, but if a new bill passes Congress, this newspaper will not only become more popular, it will become legally required reading for every American!   Senator Sean Collins explains why he is sponsoring the bill, H.R. 1662, to make reading WWN mandatory. \"Being that Weekly World News informs and entertains all American citizens honestly and courageously without allowing itself to be influenced by special interest groups . . . being that Weekly World News never shies away from presenting the citizens of this great country with the absolute truth about national, international and interplanetary events . . . being that Weekly World News fights for Americans' First Amendment right to know . . . my feeling is that this is not only a great paper, it is an essential paper. Bottom line -- any American not reading Weekly World News weekly is simply uninformed. The greatest country in the world needs to have the most highly informed populace in the world, and my bill guarantees that America will have it.\"   According to the bill, any citizen caught not reading Weekly World News weekly will be subject to a fine of up to $5,000 and a possible jail sentence of up to five years. Japan has had a similar law in effect for the past 27 years for The Asahi Evening Press, and the country's average IQ has risen 35 points during that time period.  Pertanyaan 1.what is paragraph one about? 2.who is the senator? 3.what happen to WWN? 4.how much is the punishment for the people if they caught not reading WWN? 5.what a similar law Japan has had? ",
+                        "created": "2016-03-17T12:35:38+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2016-03-17T17:58:12+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Latihan 1 CONGRESSIONAL BILL WOULD MAKE WEEKLY WORLD NEWS  REQUIRED READING FOR EVERY AMERICAN! Thursday January 19, 2006  <em>By<\/em> Mark Miller  WASHINGTON, D.C. -- Weekly World News is already one of the most popular publications in the country, but if a new bill passes Congress, this newspaper will not only become more popular, it will become legally required reading for every American!   <em>Senat<\/em>or Sean Collins explains why he is sponsoring the bill, H.R. 1662, to make reading WWN mandatory. \"Being that Weekly World News informs and entertains all American citizens honestly and courageously without allowing itself to be influenced <em>by<\/em> special interest groups . . . being that Weekly World News never shies away from presenting the citizens of this great country with the absolute truth about national, international and interplanetary events . . . being that Weekly World News fights for Americans' First Amendment right to know . . . my feeling is that this is not only a great paper, it is an essential paper. Bottom line -- any American not reading Weekly World News weekly is simply uninformed. The greatest country in the world needs to have the most highly informed populace in the world, and my bill guarantees that America will have it.\"   According to the bill, any citizen caught not reading Weekly World News weekly will be subject to a fine of up to $5,000 and a possible jail sentence of up to five years. <em>Japan<\/em> has had a similar law in effect for the past 27 years for The Asahi Evening Press, and the country's average IQ has risen 35 points during that time period.  Pertanyaan 1.what is paragraph one about? 2.who is the <em>senat<\/em>or? 3.what happen to WWN? 4.how much is the punishment for the people if they caught not reading WWN? 5.what a similar law <em>Japan<\/em> has had? ",
+                        "snippet_content": "Latihan 1 CONGRESSIONAL BILL WOULD MAKE WEEKLY WORLD NEWS  REQUIRED READING FOR EVERY AMERICAN! Thursday January 19, 2006  <em>By<\/em> Mark Miller  WASHINGTON"
+                    },
+                    "responses": [
+                        {
+                            "id": 6472053,
+                            "user_id": 117080,
+                            "task_id": 5473176,
+                            "points": 5,
+                            "created": "2016-03-17T17:58:12+07:00",
+                            "content": "<strong>1. What is paragraph one about?<\/strong><br \/>Paragraph one is about Weekly World News that will become required reading for every Americans.<br \/><strong>2. Who is the senator?<\/strong><br \/>The senator is Sean Collins.<br \/><strong>3. What happen to WWN?<\/strong><br \/>WWN has become an essential paper because it\u00a0<span>informs and entertains all American citizens honestly and courageously without allowing itself to be influenced by special interest groups, never shies away from presenting the citizens of the great country with the absolute truth about national, international and interplanetary events and fights for Americans' First Amendment right to know.<br \/><strong>4. H<\/strong><\/span><span><strong>ow much is the punishment for the people if they caught not reading WWN?<\/strong><br \/>Any citizen caught not reading Weekly World News weekly will be subject to a fine of up to $5000 and a possible jail sentence of up to five years.<br \/><strong>5. What a similar law Japan has had?<\/strong><br \/>Japan has had a similar law in effect for the past 27 years for The Asahi Evening Press.<\/span>",
+                            "mark": 4,
+                            "marks_count": 1,
+                            "thanks": 0,
+                            "user_best_rank_id": 7,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2016-09-24T13:33:59+07:00",
+                                "approver": {
+                                    "id": 2663844,
+                                    "nickname": "Mahaguru",
+                                    "points": 1857,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/db6\/c5fb7b6a68ce26ccea00dc12cb60d96f.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/df7\/fe8fb6dfa0d217a5d3fafa2a27e269ba.png"
+                                    },
+                                    "content_approved_count": 718187
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 117080,
+                                "nick": "umaimahazzahrah",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dc0\/b74cf22baf05a0f62e08596720e7a529.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 8,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 260306,
+            "nick": "ridaunnafisah",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 8,
+                "answers": 0,
+                "comments": 2
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df7\/ff4fff3d5736171e7d58bae5dc9c85e6.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d69\/b0a606251cd4199d7b38f89af76c5066.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df7\/ff4fff3d5736171e7d58bae5dc9c85e6.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d69\/b0a606251cd4199d7b38f89af76c5066.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 599622,
+            "nick": "duarsa",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 9,
+                "answers": 14,
+                "comments": 2
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 153314,
+            "nick": "Riuka",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 354,
+                "comments": 88
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dfe\/984f2937b7159ee00a27b82115fdbacc.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d32\/fed3eefe72cbd2569f510740a9989d99.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dfe\/984f2937b7159ee00a27b82115fdbacc.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d32\/fed3eefe72cbd2569f510740a9989d99.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Spam Fighter ",
+                    "Pakar"
+                ],
+                "count": 2
+            },
+            "ranks_ids": [
+                17,
+                5
+            ]
+        },
+        {
+            "id": 158454,
+            "nick": "dhaniiaaa",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 14,
+                "answers": 58,
+                "comments": 26
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dbb\/685b3f921401db5ff07294232aa08ed2.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d47\/747416e5ce8a871f2df23d260cbbd661.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dbb\/685b3f921401db5ff07294232aa08ed2.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d47\/747416e5ce8a871f2df23d260cbbd661.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 2867952,
+            "nick": "lucky65",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 0,
+                "comments": 11
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 2869103,
+            "nick": "rani319",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 11,
+                "comments": 3
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9a\/862982900369baa965f34e226fc2f79d.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de5\/257eb796c61d556e6b71e6f621c5041a.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9a\/862982900369baa965f34e226fc2f79d.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de5\/257eb796c61d556e6b71e6f621c5041a.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4474499,
+            "nick": "foyu",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4467125,
+            "nick": "TRICKSTER1",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 20,
+                "comments": 5
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd2\/aa3da74b0cfd82b95470575cc799f836.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dce\/196c5b2ff6119eec1aece83ad4193aae.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd2\/aa3da74b0cfd82b95470575cc799f836.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dce\/196c5b2ff6119eec1aece83ad4193aae.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4353756,
+            "nick": "Naufaly15",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 1,
+                "comments": 1
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d61\/3b562f8b218871cdb888e9be0effab6f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d13\/3a91cbbb56a2d391c43275dcdc64f136.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d61\/3b562f8b218871cdb888e9be0effab6f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d13\/3a91cbbb56a2d391c43275dcdc64f136.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4401816,
+            "nick": "Damarimam",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 6,
+                "answers": 3,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d60\/cf360fc7d5f810096c4c0c508959a930.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc0\/d6ccc470ed69605954daa8ce345c932b.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d60\/cf360fc7d5f810096c4c0c508959a930.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc0\/d6ccc470ed69605954daa8ce345c932b.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 125156,
+            "nick": "SekarWangi23",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 8,
+                "answers": 119,
+                "comments": 16
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d5e\/8ee5657d965a3e632b58d3b0eed6bd6d.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d1c\/a881e69cc3204cb40361654553974099.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d5e\/8ee5657d965a3e632b58d3b0eed6bd6d.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d1c\/a881e69cc3204cb40361654553974099.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 797925,
+            "nick": "MariaRubino",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 10,
+                "answers": 2712,
+                "comments": 1863
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d3e\/9943174305b6eed3606e03b75070e316.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d51\/20e5105e246cf173d22ba54879405fb4.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d3e\/9943174305b6eed3606e03b75070e316.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d51\/20e5105e246cf173d22ba54879405fb4.jpg"
+            },
+            "ranks": {
+                "color": "#ffbe32",
+                "names": [
+                    "KsatriaBrainly",
+                    "Jenius"
+                ],
+                "count": 2
+            },
+            "ranks_ids": [
+                23,
+                7
+            ]
+        },
+        {
+            "id": 4076522,
+            "nick": "Luqmanh2242",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 23,
+                "answers": 16,
+                "comments": 29
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9e\/ae99519ac3610e7c54115c2aad6aced0.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d12\/0c713796892b8271f5e55d868ea9c641.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9e\/ae99519ac3610e7c54115c2aad6aced0.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d12\/0c713796892b8271f5e55d868ea9c641.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 3099371,
+            "nick": "Anisarizqi30",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 26,
+                "answers": 23,
+                "comments": 9
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d83\/0cd8561ab83ad33304f98ce355fb10f4.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da3\/a85a9fbdc3d2832ce90f9f275853bd67.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d83\/0cd8561ab83ad33304f98ce355fb10f4.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da3\/a85a9fbdc3d2832ce90f9f275853bd67.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 1536189,
+            "nick": "meiikristinn",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc7\/005c63ff31ed37c614c34ceb404bc36e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dcd\/537cbd12f0198d16a745b087b4feebef.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc7\/005c63ff31ed37c614c34ceb404bc36e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dcd\/537cbd12f0198d16a745b087b4feebef.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1530358,
+            "nick": "alver01",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 41,
+                "comments": 20
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 1079434,
+            "nick": "WindaFANG",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 13,
+                "answers": 724,
+                "comments": 221
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d6b\/c0363fb945f45bd6010df9bd4b937e2c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d8c\/79a8595339a84cf9315d7ca965eaa4cc.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d6b\/c0363fb945f45bd6010df9bd4b937e2c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d8c\/79a8595339a84cf9315d7ca965eaa4cc.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Spam Fighter ",
+                    "Si Hebat"
+                ],
+                "count": 2
+            },
+            "ranks_ids": [
+                17,
+                6
+            ]
+        },
+        {
+            "id": 1536004,
+            "nick": "Meikristin",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1447156,
+            "nick": "gifarinax",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 609,
+                "comments": 235
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9a\/dac9f3403391fae4b34e92b973655d33.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc7\/847c4dd8c6d727a801f348662a9e7d6a.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9a\/dac9f3403391fae4b34e92b973655d33.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc7\/847c4dd8c6d727a801f348662a9e7d6a.png"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        },
+        {
+            "id": 2754070,
+            "nick": "anandasaputra91",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 9,
+                "answers": 0,
+                "comments": 2
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d5c\/8dd5963614149ccb5a94030c8f7609c8.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d11\/f5f1066ba54a81733f31d3061dea3d74.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d5c\/8dd5963614149ccb5a94030c8f7609c8.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d11\/f5f1066ba54a81733f31d3061dea3d74.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 117080,
+            "nick": "umaimahazzahrah",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 26,
+                "answers": 3150,
+                "comments": 928
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d49\/e224c79ec8ebe9c5b777a6d849d88ef5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc0\/b74cf22baf05a0f62e08596720e7a529.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d49\/e224c79ec8ebe9c5b777a6d849d88ef5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc0\/b74cf22baf05a0f62e08596720e7a529.jpg"
+            },
+            "ranks": {
+                "color": "#ffbe32",
+                "names": [
+                    "Junior",
+                    "KsatriaBrainly",
+                    "BrainlyBlogger",
+                    "Mentor",
+                    "Moderator",
+                    "Jenius"
+                ],
+                "count": 6
+            },
+            "ranks_ids": [
+                15,
+                23,
+                84,
+                51,
+                19,
+                7
+            ]
+        }
+    ],
+    "validated": false
+}

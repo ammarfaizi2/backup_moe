@@ -1,0 +1,3781 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 8663299,
+                        "subject_id": 7,
+                        "user_id": 4235877,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "siapa penemu ayam bakar",
+                        "created": "2016-12-01T13:17:57+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2016-12-01T13:18:54+07:00",
+                        "the_best_resp_id": "10295567",
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "<em>siapa<\/em> <em>penemu<\/em> <em>ayam<\/em> bakar",
+                        "snippet_content": "<em>siapa<\/em> <em>penemu<\/em> <em>ayam<\/em> bakar"
+                    },
+                    "responses": [
+                        {
+                            "id": 10295567,
+                            "user_id": 2555484,
+                            "task_id": 8663299,
+                            "points": 5,
+                            "created": "2016-12-01T13:18:54+07:00",
+                            "content": "koki yang membakar ayam dengan tudak sengaja",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 5610364,
+                                        "user_id": 4235877,
+                                        "content": "namanya",
+                                        "created": "2016-12-01T13:19:11+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2555484,
+                                "nick": "tyovano1",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d5b\/ddf5e95674eaeb2dc96c6c756f9e49eb.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 1260398,
+                        "subject_id": 1,
+                        "user_id": 780630,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "siapa penemu ayam goreng<br \/>",
+                        "created": "2014-10-29T19:14:00+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2014-10-29T19:14:42+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "<em>siapa<\/em> <em>penemu<\/em> <em>ayam<\/em> goreng",
+                        "snippet_content": "<em>siapa<\/em> <em>penemu<\/em> <em>ayam<\/em> goreng"
+                    },
+                    "responses": [
+                        {
+                            "id": 1616920,
+                            "user_id": 396070,
+                            "task_id": 1260398,
+                            "points": 5,
+                            "created": "2014-10-29T19:14:42+07:00",
+                            "content": "Kolonel Harland Sanders, lahir pada tanggal 9 September 1890. Mulai aktif dalam mewaralabakan (franchise<span>)\u00a0<\/span>bisnis ayamnya<span>\u00a0pada usia 65 tahun. Saat ini, usahanya yang dikenal dengan\u00a0<\/span>Kentucky Fried Chickendunia<span>\u00a0atau KFC telah tumbuh menjadi salah satu yang terbesar dalam sistem makanan siap saji di . Sosok Kolonel Sanders, pionir dalam\u00a0<\/span>restoran<span>\u00a0siap saji menjadi simbol dari semangat kewirausahaan. Lebih dari satu miliar ayam goreng hasil resep Kolonel dinikmati setiap tahunnya. Dan itu tidak hanya di\u00a0<\/span>Amerika Utara.<span>\u00a0Bahkan tersedia hampir di\u00a0<\/span>80 negara<span>\u00a0di seluruh dunia.<\/span><span><br \/><\/span>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 396070,
+                                "nick": "rizkiamalia235",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/db5\/bb5ba2a4b0087506b69c03bdf7c844cd.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 6659285,
+                        "subject_id": 3,
+                        "user_id": 3300002,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Siapa nama Penemu Ayam Goreng?",
+                        "created": "2016-08-06T18:51:19+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2016-08-06T18:53:02+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "<em>Siapa<\/em> nama <em>Penemu<\/em> <em>Ayam<\/em> Goreng?",
+                        "snippet_content": "<em>Siapa<\/em> nama <em>Penemu<\/em> <em>Ayam<\/em> Goreng?"
+                    },
+                    "responses": [
+                        {
+                            "id": 7940185,
+                            "user_id": 3342787,
+                            "task_id": 6659285,
+                            "points": 5,
+                            "created": "2016-08-06T18:53:02+07:00",
+                            "content": "kolonel Harland Sanders",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 7940187,
+                            "user_id": 3275493,
+                            "task_id": 6659285,
+                            "points": 5,
+                            "created": "2016-08-06T18:53:16+07:00",
+                            "content": "namanya Kolonel Sanders<br \/><br \/>Semoga Membantu :)<br \/><br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3342787,
+                                "nick": "GaluhPutriF",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d59\/5c3572c9c0fd79a7a79075c85927fcc9.jpg"
+                            },
+                            {
+                                "id": 3275493,
+                                "nick": "azizahfikriyah5",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d83\/beb8628c1006d32c5ac837e70376d65e.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 4692749,
+                        "subject_id": 3,
+                        "user_id": 2424794,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "siapa penemu bubur ayam",
+                        "created": "2015-12-18T21:00:37+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2015-12-18T21:04:13+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "<em>siapa<\/em> <em>penemu<\/em> bubur <em>ayam<\/em>",
+                        "snippet_content": "<em>siapa<\/em> <em>penemu<\/em> bubur <em>ayam<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 5556147,
+                            "user_id": 1767025,
+                            "task_id": 4692749,
+                            "points": 5,
+                            "created": "2015-12-18T21:04:13+07:00",
+                            "content": "bani hasyim. Dia yang pertama kali meremukkan roti dan penemu bubur untuk menjamu orang yang berhaji.<br \/>adanya ini. maaf",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1767025,
+                                "nick": "novianifa",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d6d\/14065f56a960bd2332467d4569a59a9d.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 3784264,
+                        "subject_id": 3,
+                        "user_id": 2000780,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "siapa penemu hewan ayam??",
+                        "created": "2015-10-06T16:42:42+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2015-10-06T16:57:55+07:00",
+                        "the_best_resp_id": "4574214",
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "<em>siapa<\/em> <em>penemu<\/em> hewan <em>ayam<\/em>??",
+                        "snippet_content": "<em>siapa<\/em> <em>penemu<\/em> hewan <em>ayam<\/em>??"
+                    },
+                    "responses": [
+                        {
+                            "id": 4573885,
+                            "user_id": 1838680,
+                            "task_id": 3784264,
+                            "points": 5,
+                            "created": "2015-10-06T16:57:55+07:00",
+                            "content": "kakek saya yang menemukan ayam",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 2,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 4574214,
+                            "user_id": 1790744,
+                            "task_id": 3784264,
+                            "points": 5,
+                            "created": "2015-10-06T17:14:20+07:00",
+                            "content": "hanya Allah saja yang tahu ^.^",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 3,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1838680,
+                                "nick": "nofi1",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d92\/0c594734f0a4723338c777c4e09b8dc6.jpg"
+                            },
+                            {
+                                "id": 1790744,
+                                "nick": "Mikhail1",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/db6\/cfab835772a68695c672d4d78b44ef86.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 8065410,
+                        "subject_id": 10,
+                        "user_id": 3891670,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "siapa pondasi penemu cakar ayam?",
+                        "created": "2016-10-26T09:15:59+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2016-10-26T09:17:34+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "<em>siapa<\/em> pondasi <em>penemu<\/em> cakar <em>ayam<\/em>?",
+                        "snippet_content": "<em>siapa<\/em> pondasi <em>penemu<\/em> cakar <em>ayam<\/em>?"
+                    },
+                    "responses": [
+                        {
+                            "id": 9574386,
+                            "user_id": 3954281,
+                            "task_id": 8065410,
+                            "points": 5,
+                            "created": "2016-10-26T09:17:34+07:00",
+                            "content": "cakar ayam apa cagar alam?",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 5291168,
+                                        "user_id": 3891670,
+                                        "content": "cagar",
+                                        "created": "2016-10-26T09:59:09+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3954281,
+                                "nick": "Izen1",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dc7\/236cbd2d17606798ab08c597a69e009f.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 158078,
+                        "subject_id": 1,
+                        "user_id": 83496,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "<strong>jika anda hebat apa jawabnya<\/strong><br \/>1.cicak apa yang menyakitkan?<br \/>2 ayam apa yang nggak bisa bertelur?<br \/>3.siapa penemu hp<br \/>",
+                        "created": "2014-04-27T20:36:46+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2014-04-27T20:45:30+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "jika anda hebat apa jawabnya1.cicak apa yang menyakitkan?2 <em>ayam<\/em> apa yang nggak bisa bertelur?3.<em>siapa<\/em> <em>penemu<\/em> hp",
+                        "snippet_content": "jika anda hebat apa jawabnya1.cicak apa yang menyakitkan?2 <em>ayam<\/em> apa yang nggak bisa bertelur?3.<em>siapa<\/em> <em>penemu<\/em> hp"
+                    },
+                    "responses": [
+                        {
+                            "id": 252210,
+                            "user_id": 97314,
+                            "task_id": 158078,
+                            "points": 5,
+                            "created": "2014-04-27T20:45:29+07:00",
+                            "content": "cicakmu bertepuk sebelah tangan... ayaman... orang... :v<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 2,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 236020,
+                                        "user_id": 83496,
+                                        "content": "salh masak cicakmu sama cintamu kan beda jauh",
+                                        "created": "2014-04-27T20:47:20+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 236030,
+                                        "user_id": 97314,
+                                        "content": "yang penting kan bisa dipahami :3",
+                                        "created": "2014-04-27T20:49:09+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 236042,
+                                        "user_id": 83496,
+                                        "content": "yang benar adalah ....",
+                                        "created": "2014-04-27T20:51:14+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 236058,
+                                        "user_id": 83496,
+                                        "content": "1 cicak nafas",
+                                        "created": "2014-04-27T20:54:06+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 4
+                            }
+                        },
+                        {
+                            "id": 252454,
+                            "user_id": 107768,
+                            "task_id": 158078,
+                            "points": 5,
+                            "created": "2014-04-27T21:34:18+07:00",
+                            "content": "1. cicak nafas<br \/>2.ayam goreng<br \/>3.bukan saya<br \/><br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 236254,
+                                        "user_id": 83496,
+                                        "content": "2 ayam jago",
+                                        "created": "2014-04-27T21:35:28+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 236269,
+                                        "user_id": 107768,
+                                        "content": "hembb,,ayam goreng kan juga gag bisa bertelur,,,heheheheh",
+                                        "created": "2014-04-27T21:37:54+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 236274,
+                                        "user_id": 83496,
+                                        "content": "lha kalo ayam goreng kan makanan",
+                                        "created": "2014-04-27T21:39:15+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 3
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 97314,
+                                "nick": "jihannk99",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d8c\/941804584de2ec6940b1e34db90ae8f2.jpg"
+                            },
+                            {
+                                "id": 107768,
+                                "nick": "andhre1725",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d59\/837575ded141e9b712fe3709905fe0f7.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 7844793,
+                        "subject_id": 6,
+                        "user_id": 3912884,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "siapa penemu asam basa?",
+                        "created": "2016-10-12T18:54:36+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2016-10-12T18:57:17+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "<em>siapa<\/em> <em>penemu<\/em> <em>asam<\/em> basa?",
+                        "snippet_content": "<em>siapa<\/em> <em>penemu<\/em> <em>asam<\/em> basa?"
+                    },
+                    "responses": [
+                        {
+                            "id": 9299638,
+                            "user_id": 3912445,
+                            "task_id": 7844793,
+                            "points": 5,
+                            "created": "2016-10-12T18:57:17+07:00",
+                            "content": "Svante August Arrhenius",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 9299674,
+                            "user_id": 3913033,
+                            "task_id": 7844793,
+                            "points": 5,
+                            "created": "2016-10-12T18:58:01+07:00",
+                            "content": "yang menemukan asam basa ialah thomas martin lowry",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3912445,
+                                "nick": "Saskia2211",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d5d\/b5859d331c580db829bc4d01af231e57.jpg"
+                            },
+                            {
+                                "id": 3913033,
+                                "nick": "viola0123",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dd3\/995d9e06abf3a3f0f62675aee3917e93.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 6786287,
+                        "subject_id": 3,
+                        "user_id": 3412141,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "siapa penemu aya gravitasi",
+                        "created": "2016-08-13T07:58:33+07:00",
+                        "responses": 2,
+                        "tickets": 3,
+                        "first_resp": "2016-08-13T08:01:12+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "<em>siapa<\/em> <em>penemu<\/em> <em>aya<\/em> gravitasi",
+                        "snippet_content": "<em>siapa<\/em> <em>penemu<\/em> <em>aya<\/em> gravitasi"
+                    },
+                    "responses": [
+                        {
+                            "id": 8059226,
+                            "user_id": 3378855,
+                            "task_id": 6786287,
+                            "points": 5,
+                            "created": "2016-08-13T08:01:12+07:00",
+                            "content": "ilmuwan isaac newton tahun 1666",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 8059229,
+                            "user_id": 3384842,
+                            "task_id": 6786287,
+                            "points": 5,
+                            "created": "2016-08-13T08:01:25+07:00",
+                            "content": "penemu gaya gravitasi adalah isaac newton<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3378855,
+                                "nick": "Rohim0s",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d36\/5003e9d71f35260bfdd82462e5b2d25d.jpg"
+                            },
+                            {
+                                "id": 3384842,
+                                "nick": "tegesari",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 6786286,
+                        "subject_id": 3,
+                        "user_id": 3412141,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "siapa penemu aya gravitasi",
+                        "created": "2016-08-13T07:58:28+07:00",
+                        "responses": 2,
+                        "tickets": 3,
+                        "first_resp": "2016-08-13T08:00:36+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "<em>siapa<\/em> <em>penemu<\/em> <em>aya<\/em> gravitasi",
+                        "snippet_content": "<em>siapa<\/em> <em>penemu<\/em> <em>aya<\/em> gravitasi"
+                    },
+                    "responses": [
+                        {
+                            "id": 8059216,
+                            "user_id": 1439797,
+                            "task_id": 6786286,
+                            "points": 5,
+                            "created": "2016-08-13T08:00:36+07:00",
+                            "content": "Isaac Newton<br \/><br \/>Maaf jika jawaban tidak tepat",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 4559155,
+                                        "user_id": 3412141,
+                                        "content": "tepat sekali",
+                                        "created": "2016-08-13T08:05:54+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        },
+                        {
+                            "id": 8059248,
+                            "user_id": 3341627,
+                            "task_id": 6786286,
+                            "points": 5,
+                            "created": "2016-08-13T08:03:48+07:00",
+                            "content": "penemu gaya gravitasi yaitu isaac newton<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 3,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 4559158,
+                                        "user_id": 3412141,
+                                        "content": "hebat",
+                                        "created": "2016-08-13T08:06:05+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1439797,
+                                "nick": "irfanfachridyan",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d58\/72d57113a0e9c82360dbf3d5339e2b57.jpg"
+                            },
+                            {
+                                "id": 3341627,
+                                "nick": "Devifh123",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d7f\/aa47f634bf7c2f003a88cc765cd387bd.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 1124508,
+                        "subject_id": 7,
+                        "user_id": 705348,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "siapa penemu asam sulfat?",
+                        "created": "2014-10-18T14:59:10+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2014-10-18T15:00:59+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [
+                                {
+                                    "id": 1015832,
+                                    "user_id": 705153,
+                                    "content": "abu musa jabir bin hayyan(geber) dipercayai sebagai penemu asam sulfat",
+                                    "created": "2014-10-18T15:05:27+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                },
+                                {
+                                    "id": 1015857,
+                                    "user_id": 705348,
+                                    "content": "thank you kak.",
+                                    "created": "2014-10-18T15:09:33+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                }
+                            ],
+                            "last_id": 0,
+                            "count": 2
+                        },
+                        "highlighted_content": "<em>siapa<\/em> <em>penemu<\/em> <em>asam<\/em> sulfat?",
+                        "snippet_content": "<em>siapa<\/em> <em>penemu<\/em> <em>asam<\/em> sulfat?"
+                    },
+                    "responses": [
+                        {
+                            "id": 1452305,
+                            "user_id": 401538,
+                            "task_id": 1124508,
+                            "points": 5,
+                            "created": "2014-10-18T15:00:59+07:00",
+                            "content": "Abu Musa Jabir bin Hayyan (Gebber)<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 1452312,
+                            "user_id": 700406,
+                            "task_id": 1124508,
+                            "points": 5,
+                            "created": "2014-10-18T15:02:22+07:00",
+                            "content": "Alkimiawaan abad ke 8 Abu Musa Jabir Bin Hayyan<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 401538,
+                                "nick": "geawidyananda",
+                                "avatar": null
+                            },
+                            {
+                                "id": 700406,
+                                "nick": "rakahardrewarsetting",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dbd\/c87b852a0a1f9d29ca5b652025420e7e.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 7286617,
+                        "subject_id": 25,
+                        "user_id": 3654216,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "siapa penemu nama ADAM",
+                        "created": "2016-09-09T13:29:19+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2016-09-09T13:29:54+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "<em>siapa<\/em> <em>penemu<\/em> nama <em>ADAM<\/em>",
+                        "snippet_content": "<em>siapa<\/em> <em>penemu<\/em> nama <em>ADAM<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 8596202,
+                            "user_id": 3577262,
+                            "task_id": 7286617,
+                            "points": 5,
+                            "created": "2016-09-09T13:29:54+07:00",
+                            "content": "allah kalau gak salah",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 8596204,
+                            "user_id": 3274425,
+                            "task_id": 7286617,
+                            "points": 5,
+                            "created": "2016-09-09T13:29:58+07:00",
+                            "content": "ALLAH SWT .maaf kalau salah",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 4816311,
+                                        "user_id": 3654216,
+                                        "content": "bukan coy",
+                                        "created": "2016-09-09T13:42:50+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3577262,
+                                "nick": "nanineazra",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/de4\/fdcedee3365cd457f56f33ab1edd2aa0.jpg"
+                            },
+                            {
+                                "id": 3274425,
+                                "nick": "elsa224",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d45\/43548c314db625dd9fff6148094095e7.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 3357122,
+                        "subject_id": 6,
+                        "user_id": 1826133,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "siapa penemu teori asam dan basa dan tahun berapa ditemukannya",
+                        "created": "2015-09-06T14:53:15+07:00",
+                        "responses": 2,
+                        "tickets": 6,
+                        "first_resp": "2015-09-06T14:55:03+07:00",
+                        "the_best_resp_id": "4113593",
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "<em>siapa<\/em> <em>penemu<\/em> teori <em>asam<\/em> dan basa dan tahun berapa ditemukannya",
+                        "snippet_content": "<em>siapa<\/em> <em>penemu<\/em> teori <em>asam<\/em> dan basa dan tahun berapa ditemukannya"
+                    },
+                    "responses": [
+                        {
+                            "id": 4113535,
+                            "user_id": 1826021,
+                            "task_id": 3357122,
+                            "points": 5,
+                            "created": "2015-09-06T14:55:03+07:00",
+                            "content": "bronsted pada tahun1896 - 1913<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 2583366,
+                                        "user_id": 1825519,
+                                        "content": "Reverend E. P. Lowry. Ia belajar di Kingswood School, Bath, Somerset, dan kemudian melanjutkan ke Central Technical College South Kensington. Selama itu pula Lowry menyadari ketertarikannya di bidang kimia. Ia belajar dibawah bimbingan Henry Edward Armstrong, seorang kimiawan Inggris yang menekuni bidang kimia organik dan mempelajari sifat ion yang terlarut dalam air.<br \/><br \/>Dari tahun 1896 sampai 1913 Lowry menjadi asisten Armstrong dan antara 1904 dan 1913 bekerja sebagai dosen Kimia di Westminster",
+                                        "created": "2015-09-06T14:56:31+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        },
+                        {
+                            "id": 4113593,
+                            "user_id": 134750,
+                            "task_id": 3357122,
+                            "points": 5,
+                            "created": "2015-09-06T14:59:18+07:00",
+                            "content": "penemunya adalah Johannes Nicolaus bronsted dan Thomas Martin Lewis pada tahun 1923 secara terpisah",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1826021,
+                                "nick": "arjunaignatius",
+                                "avatar": null
+                            },
+                            {
+                                "id": 134750,
+                                "nick": "RayaAndreini05",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dcc\/4e7ca9b94427bc0f25f7df9927c957d8.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 2178911,
+                        "subject_id": 7,
+                        "user_id": 1234087,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "asam sulfat termasuk elektrolit?<br \/>\nsiapa penemu teori ion?<br \/>\nperistiwa terurainya suatu elektrolit menjadi ion disebut?<br \/><br \/>",
+                        "created": "2015-03-01T12:43:43+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2015-03-01T17:31:14+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "<em>asam<\/em> sulfat termasuk elektrolit?\n<em>siapa<\/em> <em>penemu<\/em> teori ion?\nperistiwa terurainya suatu elektrolit menjadi ion disebut?",
+                        "snippet_content": "<em>asam<\/em> sulfat termasuk elektrolit?\n<em>siapa<\/em> <em>penemu<\/em> teori ion?\nperistiwa terurainya suatu elektrolit menjadi ion disebut?"
+                    },
+                    "responses": [
+                        {
+                            "id": 2769636,
+                            "user_id": 124418,
+                            "task_id": 2178911,
+                            "points": 5,
+                            "created": "2015-03-01T17:31:14+07:00",
+                            "content": "1.ya karena menghantarkan listrik<br \/>2.Svante August Arrhenius (1859-1927)<br \/>3.Peristiwa terurainya suatu elektrolit menjadi ion<span>-ionnya disebut proses ionisasi.<\/span><br \/><br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 124418,
+                                "nick": "hasemyr",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d9b\/8829f285bc654b593fc0800800145999.jpeg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 7251778,
+                        "subject_id": 3,
+                        "user_id": 3496412,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "1.apa kepanjangan dari LKBBT?<br \/>\n2.apa kepanjangan darikwarran?<br \/>\n3.apa kepanjangan dari warcap?<br \/>\n4.apa kepanjangan dari wardah?<br \/>\n5.apa kepanjangan dari kwarnas?<br \/>\n6.siapa nama bapak pandu indonesia?<br \/>\n7.siapa nama penemu lambang gerakan pramuka?<br \/>\n8.siapa ayah WR.Supratman?<br \/>\n9.sebutkqn macam macam lambang gerakan pramuka?<br \/>\n10.lambang gerakan pramuka di resmikan SK nomer\/KN\/tahun",
+                        "created": "2016-09-07T20:27:50+07:00",
+                        "responses": 1,
+                        "tickets": 3,
+                        "first_resp": "2016-09-08T19:24:39+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "1.apa kepanjangan dari LKBBT?\n2.apa kepanjangan darikwarran?\n3.apa kepanjangan dari warcap?\n4.apa kepanjangan dari wardah?\n5.apa kepanjangan dari kwarnas?\n6.<em>siapa<\/em> nama bapak pandu indonesia?\n7.<em>siapa<\/em> nama <em>penemu<\/em> lambang gerakan pramuka?\n8.<em>siapa<\/em> <em>ayah<\/em> WR.Supratman?\n9.sebutkqn macam macam lambang gerakan pramuka?\n10.lambang gerakan pramuka di resmikan SK nomer\/KN\/tahun",
+                        "snippet_content": "apa kepanjangan dari kwarnas?\n6.<em>siapa<\/em> nama bapak pandu indonesia?\n7.<em>siapa<\/em> nama <em>penemu<\/em> lambang gerakan pramuka?\n8.<em>siapa<\/em> <em>ayah<\/em> WR.Supratman"
+                    },
+                    "responses": [
+                        {
+                            "id": 8581866,
+                            "user_id": 3541207,
+                            "task_id": 7251778,
+                            "points": 5,
+                            "created": "2016-09-08T19:24:39+07:00",
+                            "content": "1.latihan ketangkasan baris berbaris tongkat<br \/>2.Kwarran\t(singkatan) Kwartir Ranting; Kwartir ditingkat Ranting\/Kecamatan. Di bawah Kwarcab<br \/>3.pos lembar surat pos yang dapat dilihat seperti surat tertutup<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 4849521,
+                                        "user_id": 3496412,
+                                        "content": "mohon maaf kok cuman sampai 3 yah",
+                                        "created": "2016-09-13T18:47:32+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 4849522,
+                                        "user_id": 3496412,
+                                        "content": "mohon maaf kok cuman sampai 3 yah",
+                                        "created": "2016-09-13T18:47:32+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 4849523,
+                                        "user_id": 3496412,
+                                        "content": "mohon maaf kok cuman sampai 3 yah",
+                                        "created": "2016-09-13T18:47:32+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 3
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3541207,
+                                "nick": "habib148",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 2176700,
+                        "subject_id": 3,
+                        "user_id": 777660,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 25,
+                            "ptsForResp": 13,
+                            "ptsForBest": 7
+                        },
+                        "content": "1.Siapa Raja Pertama Kerajaan Majapahit<br \/>\n2.Siapa Penemu Kereta Api<br \/>\n3.Siapa Pememu Situs Gunung Padang<br \/>\n4.Kapan Hari Ayah Se-Dunia<br \/>\n5.Sebutkan 3 Hewan Yg Berasal Dari Afrika Selatan<br \/><br \/><br \/><br \/>",
+                        "created": "2015-03-01T04:52:02+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2015-03-01T05:04:55+07:00",
+                        "the_best_resp_id": "2764593",
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "1.<em>Siapa<\/em> Raja Pertama Kerajaan Majapahit\n2.<em>Siapa<\/em> <em>Penemu<\/em> Kereta Api\n3.<em>Siapa<\/em> Pememu Situs Gunung Padang\n4.Kapan Hari <em>Ayah<\/em> Se-Dunia\n5.Sebutkan 3 Hewan Yg Berasal Dari Afrika Selatan",
+                        "snippet_content": "1.<em>Siapa<\/em> Raja Pertama Kerajaan Majapahit\n2.<em>Siapa<\/em> <em>Penemu<\/em> Kereta Api\n3.<em>Siapa<\/em> Pememu Situs Gunung Padang\n4.Kapan Hari <em>Ayah<\/em> Se"
+                    },
+                    "responses": [
+                        {
+                            "id": 2764593,
+                            "user_id": 1106082,
+                            "task_id": 2176700,
+                            "points": 13,
+                            "created": "2015-03-01T05:04:55+07:00",
+                            "content": "1.raden wijayq<br \/>2.Penemu Kereta api Adalah William Murdocks<br \/>3. Laporan pertama mengenai keberadaan<br \/>situs ini dimuat pada Rapporten van de<br \/>Oudheidkundige Dienst (ROD, \"Buletin<br \/>Dinas Kepurbakalaan\") tahun 1914.<br \/>4. 12 November .<br \/>5. Badak Hitam<br \/>Badak Putih<br \/>Entung jati<br \/>Kadal armadillo girdled<br \/>",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 2,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2015-03-14T11:41:13+07:00",
+                                "approver": {
+                                    "id": 95568,
+                                    "nickname": "MicoArrafi",
+                                    "points": 267141,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": null,
+                                    "content_approved_count": 11958
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1106082,
+                                "nick": "Auralia96",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dd5\/72ddcd6286ffc58f56c5ec0aaf38a149.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 7914051,
+                        "subject_id": 25,
+                        "user_id": 3801833,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 16,
+                            "ptsForResp": 8,
+                            "ptsForBest": 4
+                        },
+                        "content": "1. apa yang dibentuk pada tanggal 1 Maret 1944? sebutkan!<br \/>2. siapa nama ayah Soekarno?<br \/>3. wakil ketua pada kongres pemuda 1 ?<br \/>4. siapa penemu vaksin?<br \/>5. siapa penemu telepon?",
+                        "created": "2016-10-17T19:19:12+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2016-10-17T19:28:56+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "1. apa yang dibentuk pada tanggal 1 Maret 1944? sebutkan!2. <em>siapa<\/em> nama <em>ayah<\/em> Soekarno?3. wakil ketua pada kongres pemuda 1 ?4. <em>siapa<\/em> <em>penemu<\/em> vaksin?5. <em>siapa<\/em> <em>penemu<\/em> telepon?",
+                        "snippet_content": "1944? sebutkan!2. <em>siapa<\/em> nama <em>ayah<\/em> Soekarno?3. wakil ketua pada kongres pemuda 1 ?4. <em>siapa<\/em> <em>penemu<\/em> vaksin?5. <em>siapa<\/em> <em>penemu<\/em> telepon?"
+                    },
+                    "responses": [
+                        {
+                            "id": 9389682,
+                            "user_id": 3920519,
+                            "task_id": 7914051,
+                            "points": 8,
+                            "created": "2016-10-17T19:28:56+07:00",
+                            "content": "1.Jawa Hokokai<br \/>2.Raden Soekemi Sosrodihardjo<br \/>3.Sumarto<br \/>4.Edward Jenner<br \/>5.Alexander Graham Bell",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3920519,
+                                "nick": "suli5",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dac\/26fa487bf1c60c84314b55ec1476e949.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10586420,
+                        "subject_id": 22,
+                        "user_id": 978555,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "71. heroin yaitu obat obatan yang termasuk kelompok...<br \/>a. ganja<br \/>b.narkotika <br \/>c. alcohol<br \/>d. kokain<br \/>e.  kalau gk da jwban nya isi sendiri ya<br \/>72. pada umumnya yang menyalahgunakan obat obatan terlarang adalah... <br \/>a.  remaja<br \/>b.  wanita<br \/>c.  laki laki <br \/>d.  pra orang tua<br \/>e.  anak anak<br \/>73. pola hidup dapat di pengaruhi oleh.... <br \/>a.  orang lain<br \/>b.  manusia<br \/>c.  ligkungan <br \/>d.  adaptasi <br \/>e.  social<br \/>74. kesehatan mental tercantum dalam....  <br \/>a. UU No. 3 tahun 1960 pasal 1<br \/>b. UU No. 3 tahun 1960 pasal 2<br \/>c. UU No. 3 tahun 1960 pasal 3<br \/>d. UU No. 3 tahun 1960 pasal 4<br \/>e. UU No. 4 tahun 1960 pasal 5<br \/>75. keluarga sehat mencerminkan..... <br \/>a. pribadi yang sehat <br \/>b. pribadi disiplin <br \/>c. menaati peraturan <br \/>d.mencerminkan hidup<br \/>e. mempengaruhi hidup<br \/>76. pertumbuhan dan perkembangan yang baik di pengaruhi oleh.... <br \/>a. kebiasaan makan banyak <br \/>b. kebiasaan olahraga<br \/>c. kebiasaan istirahat <br \/>d. kebiasaan disiplin<br \/>e. kebiasaan makan bergizi<br \/>77. usia perkawinan untuk wanita idealnya adalah....<br \/>a. 15 tahun<br \/>b. 20 tahun<br \/>c. 25 tahun <br \/>d. 30 tahun <br \/>e. 35 tahun <br \/>78. siapa penemu bola basket <br \/>a. willam g morgan<br \/>b. a. adam smit<br \/>c. tomas edison<br \/>d. .........a,  gamil<br \/>79. penyakit syphilis adalah penyakit yang.... <br \/>a. tidak menular<br \/>b. penyakit menahan<br \/>c. penyakit akun<br \/>d. pentakit menular dan akan menurun pada keturunan<br \/>e. penyakit yang disebabkan oleh kekurangan protein<br \/>80. penyebab penyakit kolera <br \/>a. virus <br \/>b. baksil<br \/>c. kuman kuman<br \/>d. vibrio cholera <br \/>e. variola<br \/>tolong di bantu dan di jawab ya kawan<br \/><br \/>",
+                        "created": "2017-05-09T19:13:16+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2017-05-09T19:58:46+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "71. heroin yaitu obat obatan yang termasuk kelompok...a. ganjab.narkotika c. alcohold. kokaine.  kalau gk da jwban nya isi sendiri ya72. pada umumnya yang menyalahgunakan obat obatan terlarang adalah... a.  remajab.  wanitac.  laki laki d.  pra orang tuae.  anak anak73. pola hidup dapat di pengaruhi oleh.... a.  orang lainb.  manusiac.  ligkungan d.  adaptasi e.  social74. kesehatan mental tercantum dalam....  a. UU No. 3 tahun 1960 pasal 1b. UU No. 3 tahun 1960 pasal 2c. UU No. 3 tahun 1960 pasal 3d. UU No. 3 tahun 1960 pasal 4e. UU No. 4 tahun 1960 pasal 575. keluarga sehat mencerminkan..... a. pribadi yang sehat b. pribadi disiplin c. menaati peraturan d.mencerminkan hidupe. mempengaruhi hidup76. pertumbuhan dan perkembangan yang baik di pengaruhi oleh.... a. kebiasaan makan banyak b. kebiasaan olahragac. kebiasaan istirahat d. kebiasaan disipline. kebiasaan makan bergizi77. usia perkawinan untuk wanita idealnya adalah....a. 15 tahunb. 20 tahunc. 25 tahun d. 30 tahun e. 35 tahun 78. <em>siapa<\/em> <em>penemu<\/em> bola basket a. willam g morganb. a. <em>adam<\/em> smitc. tomas edisond. .........a,  gamil79. penyakit syphilis adalah penyakit yang.... a. tidak menularb. penyakit menahanc. penyakit akund. pentakit menular dan akan menurun pada keturunane. penyakit yang disebabkan oleh kekurangan protein80. penyebab penyakit kolera a. virus b. baksilc. kuman kumand. vibrio cholera e. variolatolong di bantu dan di jawab ya kawan",
+                        "snippet_content": "20 tahunc. 25 tahun d. 30 tahun e. 35 tahun 78. <em>siapa<\/em> <em>penemu<\/em> bola basket a. willam g morganb. a. <em>adam<\/em> smitc"
+                    },
+                    "responses": [
+                        {
+                            "id": 12817375,
+                            "user_id": 3661584,
+                            "task_id": 10586420,
+                            "points": 5,
+                            "created": "2017-05-09T19:58:46+07:00",
+                            "content": "71. b<br \/>72. a<br \/>73, c<br \/>74. b<br \/>75. a<br \/>76. e<br \/>77. b<br \/>78. a<br \/>79. d<br \/>80. a<br \/><br \/>Semoga Membantu",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3661584,
+                                "nick": "Vitruviuz",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/ddd\/8a2da4426f15cdb21654ce927269f73e.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 116413,
+                        "subject_id": 3,
+                        "user_id": 76840,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 15,
+                            "ptsForResp": 8,
+                            "ptsForBest": 4
+                        },
+                        "content": "penemu dan peneliti manusia purba yang pertama di dunia siapa?, <br \/>dan<br \/>duluan nabi adam atau manusia purba hidupnya?<br \/>",
+                        "created": "2014-04-04T19:31:20+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2014-04-04T19:33:10+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "<em>penemu<\/em> dan peneliti manusia purba yang pertama di dunia <em>siapa<\/em>?, danduluan nabi <em>adam<\/em> atau manusia purba hidupnya?",
+                        "snippet_content": "<em>penemu<\/em> dan peneliti manusia purba yang pertama di dunia <em>siapa<\/em>?, danduluan nabi <em>adam<\/em> atau manusia purba hidupnya?"
+                    },
+                    "responses": [
+                        {
+                            "id": 185746,
+                            "user_id": 85031,
+                            "task_id": 116413,
+                            "points": 8,
+                            "created": "2014-04-04T19:33:10+07:00",
+                            "content": "duluan nabi adam lah itu anak cucu nya nabi adam",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 185756,
+                            "user_id": 83983,
+                            "task_id": 116413,
+                            "points": 8,
+                            "created": "2014-04-04T19:35:20+07:00",
+                            "content": "kalau berdasarkan teori agama, jelas bahwa nabi Adam adalah mnusia pertama. tapi kalau berdasarkan teori sejarah bahwa manusia purba yang pertama.<br \/>",
+                            "mark": 3,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 85031,
+                                "nick": "agilazizzahir",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/db3\/8a7b314210df6365eaa4216097b06509.jpg"
+                            },
+                            {
+                                "id": 83983,
+                                "nick": "ophi",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d79\/9a4712639949d973fe955cbc50d1b635.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 19,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 4235877,
+            "nick": "Lakers11",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 8,
+                "answers": 15,
+                "comments": 10
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/daf\/ca1ad0a62d626faea22c2965b11af9f2.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd8\/c3adf21b464788b1f205ebb854e7e341.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/daf\/ca1ad0a62d626faea22c2965b11af9f2.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd8\/c3adf21b464788b1f205ebb854e7e341.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 2555484,
+            "nick": "tyovano1",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 6,
+                "answers": 16,
+                "comments": 4
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da9\/c79a07392d6c39883c253be389be0252.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d5b\/ddf5e95674eaeb2dc96c6c756f9e49eb.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da9\/c79a07392d6c39883c253be389be0252.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d5b\/ddf5e95674eaeb2dc96c6c756f9e49eb.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 780630,
+            "nick": "rudiwijaya566",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 396070,
+            "nick": "rizkiamalia235",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 9,
+                "answers": 207,
+                "comments": 44
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d47\/32c42a8d530ce70bdb9a6ccdc9374f9e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db5\/bb5ba2a4b0087506b69c03bdf7c844cd.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d47\/32c42a8d530ce70bdb9a6ccdc9374f9e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db5\/bb5ba2a4b0087506b69c03bdf7c844cd.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 3300002,
+            "nick": "DENISGTI",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 12,
+                "answers": 50,
+                "comments": 18
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d77\/9057b1c79b61d780a61145714604e292.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dac\/604ab9c0e3df0c311c3eaf13ffa1cbfe.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d77\/9057b1c79b61d780a61145714604e292.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dac\/604ab9c0e3df0c311c3eaf13ffa1cbfe.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 3342787,
+            "nick": "GaluhPutriF",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 10,
+                "comments": 2
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dbe\/fffb46f323115eb048bab69aaa1e4bcd.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d59\/5c3572c9c0fd79a7a79075c85927fcc9.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dbe\/fffb46f323115eb048bab69aaa1e4bcd.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d59\/5c3572c9c0fd79a7a79075c85927fcc9.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 3275493,
+            "nick": "azizahfikriyah5",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 74,
+                "comments": 18
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d7a\/fe97fec670e80a937ad39dd79738b1c3.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d83\/beb8628c1006d32c5ac837e70376d65e.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d7a\/fe97fec670e80a937ad39dd79738b1c3.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d83\/beb8628c1006d32c5ac837e70376d65e.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 2424794,
+            "nick": "bobo6",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 8,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 1767025,
+            "nick": "novianifa",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 9,
+                "answers": 94,
+                "comments": 19
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db5\/a36b95868751354f464f8e440d4f16a9.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6d\/14065f56a960bd2332467d4569a59a9d.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db5\/a36b95868751354f464f8e440d4f16a9.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6d\/14065f56a960bd2332467d4569a59a9d.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 2000780,
+            "nick": "rara114",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 12,
+                "comments": 7
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 1838680,
+            "nick": "nofi1",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 26,
+                "answers": 12,
+                "comments": 9
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d92\/62a936e42b4db21b78e44b231bff88bc.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d92\/0c594734f0a4723338c777c4e09b8dc6.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d92\/62a936e42b4db21b78e44b231bff88bc.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d92\/0c594734f0a4723338c777c4e09b8dc6.jpg"
+            },
+            "ranks": {
+                "color": "#000000",
+                "names": [],
+                "count": 0
+            },
+            "ranks_ids": null
+        },
+        {
+            "id": 1790744,
+            "nick": "Mikhail1",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 40,
+                "comments": 3
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d44\/dde4aab650651489f0d005436b567b4a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db6\/cfab835772a68695c672d4d78b44ef86.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d44\/dde4aab650651489f0d005436b567b4a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db6\/cfab835772a68695c672d4d78b44ef86.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 3891670,
+            "nick": "AleviaTakeda",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 8,
+                "answers": 8,
+                "comments": 8
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de3\/bb9ec4865bd6d3688dc28f5b4d8c2697.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d49\/1524d48695f2297984da753711e9bcb6.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/de3\/bb9ec4865bd6d3688dc28f5b4d8c2697.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d49\/1524d48695f2297984da753711e9bcb6.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 3954281,
+            "nick": "Izen1",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 4,
+                "comments": 1
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d71\/b92708154416211167d239ca39f72751.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc7\/236cbd2d17606798ab08c597a69e009f.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d71\/b92708154416211167d239ca39f72751.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc7\/236cbd2d17606798ab08c597a69e009f.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 83496,
+            "nick": "MahdiS3",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 34,
+                "answers": 189,
+                "comments": 218
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d27\/d1e2ac55709f7780796f7ef9ddfcdafb.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d11\/d5d1bb9cfca8610ab3c64916d9902e5c.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d27\/d1e2ac55709f7780796f7ef9ddfcdafb.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d11\/d5d1bb9cfca8610ab3c64916d9902e5c.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 97314,
+            "nick": "jihannk99",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 17,
+                "answers": 171,
+                "comments": 158
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d36\/843343a2f37f0606e91972f1a23d5d6b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d8c\/941804584de2ec6940b1e34db90ae8f2.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d36\/843343a2f37f0606e91972f1a23d5d6b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d8c\/941804584de2ec6940b1e34db90ae8f2.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 107768,
+            "nick": "andhre1725",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 13,
+                "comments": 13
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d73\/7ae7306c1bb76306a9f8d8a773756bcf.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d59\/837575ded141e9b712fe3709905fe0f7.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d73\/7ae7306c1bb76306a9f8d8a773756bcf.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d59\/837575ded141e9b712fe3709905fe0f7.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 3912884,
+            "nick": "vira309",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 13,
+                "answers": 0,
+                "comments": 1
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 3912445,
+            "nick": "Saskia2211",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 10,
+                "answers": 35,
+                "comments": 27
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d3d\/f8933e0896555de623c6b35634254631.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d5d\/b5859d331c580db829bc4d01af231e57.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d3d\/f8933e0896555de623c6b35634254631.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d5d\/b5859d331c580db829bc4d01af231e57.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 3913033,
+            "nick": "viola0123",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 11,
+                "answers": 6,
+                "comments": 3
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d64\/f646ef605be3a4709b23169cbb8bc08e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd3\/995d9e06abf3a3f0f62675aee3917e93.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d64\/f646ef605be3a4709b23169cbb8bc08e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd3\/995d9e06abf3a3f0f62675aee3917e93.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 3412141,
+            "nick": "putri2598",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 44,
+                "answers": 43,
+                "comments": 98
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d21\/2942dbb208de61a8c1f8fd84a8c5a29a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d1c\/7cf14793c03afcc3eb66f99744ffba79.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d21\/2942dbb208de61a8c1f8fd84a8c5a29a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d1c\/7cf14793c03afcc3eb66f99744ffba79.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 3378855,
+            "nick": "Rohim0s",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 84,
+                "comments": 21
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/ddf\/67bd9b42e7f29f1858ed863a08b633d8.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d36\/5003e9d71f35260bfdd82462e5b2d25d.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/ddf\/67bd9b42e7f29f1858ed863a08b633d8.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d36\/5003e9d71f35260bfdd82462e5b2d25d.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 3384842,
+            "nick": "tegesari",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 1,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1439797,
+            "nick": "irfanfachridyan",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 18,
+                "comments": 3
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d5a\/8c7567e29d122abf75f6de8824ad7886.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d58\/72d57113a0e9c82360dbf3d5339e2b57.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d5a\/8c7567e29d122abf75f6de8824ad7886.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d58\/72d57113a0e9c82360dbf3d5339e2b57.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 3341627,
+            "nick": "Devifh123",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 21,
+                "answers": 290,
+                "comments": 165
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d03\/9df055840633f344be933bcc05f905eb.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7f\/aa47f634bf7c2f003a88cc765cd387bd.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d03\/9df055840633f344be933bcc05f905eb.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7f\/aa47f634bf7c2f003a88cc765cd387bd.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 705348,
+            "nick": "harymadjid",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 0,
+                "comments": 1
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 705153,
+            "nick": "hafsyahnabila",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 9,
+                "comments": 9
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 401538,
+            "nick": "geawidyananda",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 6,
+                "answers": 145,
+                "comments": 7
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 700406,
+            "nick": "rakahardrewarsetting",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 5,
+                "comments": 1
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d6e\/969671ddeb97cefacd7d65d16ca469a4.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dbd\/c87b852a0a1f9d29ca5b652025420e7e.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d6e\/969671ddeb97cefacd7d65d16ca469a4.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dbd\/c87b852a0a1f9d29ca5b652025420e7e.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 3654216,
+            "nick": "MRprayoga1",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 15,
+                "comments": 3
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d06\/d190fc220d260650b74a2e98a73105dd.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6a\/73166fdd76020ad0aa7fdb7890784aed.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d06\/d190fc220d260650b74a2e98a73105dd.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6a\/73166fdd76020ad0aa7fdb7890784aed.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 3577262,
+            "nick": "nanineazra",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 19,
+                "comments": 1
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd6\/d84d6878a3f296514bd89ce21d003230.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de4\/fdcedee3365cd457f56f33ab1edd2aa0.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd6\/d84d6878a3f296514bd89ce21d003230.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de4\/fdcedee3365cd457f56f33ab1edd2aa0.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 3274425,
+            "nick": "elsa224",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 242,
+                "answers": 590,
+                "comments": 142
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d73\/ea87ff563b7b43b099c8c1808a474e16.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d45\/43548c314db625dd9fff6148094095e7.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d73\/ea87ff563b7b43b099c8c1808a474e16.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d45\/43548c314db625dd9fff6148094095e7.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 1826133,
+            "nick": "maulida7",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1825519,
+            "nick": "mixtanajjah",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 24,
+                "answers": 0,
+                "comments": 18
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#000000",
+                "names": [],
+                "count": 0
+            },
+            "ranks_ids": null
+        },
+        {
+            "id": 1826021,
+            "nick": "arjunaignatius",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 7,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 134750,
+            "nick": "RayaAndreini05",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 12,
+                "answers": 279,
+                "comments": 148
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d29\/8fa2a63a33853923c8575c9ec4084e21.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dcc\/4e7ca9b94427bc0f25f7df9927c957d8.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d29\/8fa2a63a33853923c8575c9ec4084e21.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dcc\/4e7ca9b94427bc0f25f7df9927c957d8.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 1234087,
+            "nick": "faizurrahman22",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d72\/2a07f4bedb0572238dda6fb430b7dafe.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d0c\/c520a04856d21c7c5454a5c4d914e38e.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d72\/2a07f4bedb0572238dda6fb430b7dafe.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d0c\/c520a04856d21c7c5454a5c4d914e38e.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 124418,
+            "nick": "hasemyr",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 15,
+                "answers": 569,
+                "comments": 73
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dae\/ec8ae8acfb99fe94c4fff5f8632faf66.jpeg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d9b\/8829f285bc654b593fc0800800145999.jpeg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dae\/ec8ae8acfb99fe94c4fff5f8632faf66.jpeg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d9b\/8829f285bc654b593fc0800800145999.jpeg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        },
+        {
+            "id": 3496412,
+            "nick": "srimurtini1",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 12,
+                "answers": 7,
+                "comments": 5
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 3541207,
+            "nick": "habib148",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 13,
+                "comments": 4
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 777660,
+            "nick": "enengawardah",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 11,
+                "answers": 33,
+                "comments": 1
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 1106082,
+            "nick": "Auralia96",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 59,
+                "answers": 45,
+                "comments": 7
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dba\/864be556e9858a6e62f3f30c364b4f40.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd5\/72ddcd6286ffc58f56c5ec0aaf38a149.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dba\/864be556e9858a6e62f3f30c364b4f40.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd5\/72ddcd6286ffc58f56c5ec0aaf38a149.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 3801833,
+            "nick": "faris303",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 34,
+                "answers": 369,
+                "comments": 166
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d3a\/db23ef713d64aa346752be631fb3929b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de1\/164e3a867af981abadb619ef841e58e0.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d3a\/db23ef713d64aa346752be631fb3929b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de1\/164e3a867af981abadb619ef841e58e0.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 3920519,
+            "nick": "suli5",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 2,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dcf\/49ac67da29d15f01087015ef632a24ff.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dac\/26fa487bf1c60c84314b55ec1476e949.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dcf\/49ac67da29d15f01087015ef632a24ff.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dac\/26fa487bf1c60c84314b55ec1476e949.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 978555,
+            "nick": "athiqafazilla",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 11,
+                "answers": 3,
+                "comments": 14
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 3661584,
+            "nick": "Vitruviuz",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 10,
+                "answers": 1315,
+                "comments": 153
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df5\/7fcfd580706c25d032dc7a35341103ea.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ddd\/8a2da4426f15cdb21654ce927269f73e.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df5\/7fcfd580706c25d032dc7a35341103ea.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ddd\/8a2da4426f15cdb21654ce927269f73e.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "P.E.-AyrtonSenna ",
+                    "Apprentice",
+                    "Spam Fighter ",
+                    "Si Hebat"
+                ],
+                "count": 4
+            },
+            "ranks_ids": [
+                130,
+                20,
+                17,
+                6
+            ]
+        },
+        {
+            "id": 76840,
+            "nick": "larashati",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 10,
+                "answers": 10,
+                "comments": 3
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d40\/cf44db9eaba6705b82cfd365fae86691.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d67\/8cc67f2a830877734fff969deab69738.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d40\/cf44db9eaba6705b82cfd365fae86691.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d67\/8cc67f2a830877734fff969deab69738.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 85031,
+            "nick": "agilazizzahir",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 77,
+                "comments": 14
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da3\/58aab10a20e7d37387cea2862b929ae6.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db3\/8a7b314210df6365eaa4216097b06509.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da3\/58aab10a20e7d37387cea2862b929ae6.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db3\/8a7b314210df6365eaa4216097b06509.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 83983,
+            "nick": "ophi",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 3,
+                "comments": 1
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d53\/6785b92bc000335940e5fb8fef737ed6.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d79\/9a4712639949d973fe955cbc50d1b635.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d53\/6785b92bc000335940e5fb8fef737ed6.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d79\/9a4712639949d973fe955cbc50d1b635.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        }
+    ],
+    "validated": false
+}

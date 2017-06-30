@@ -1,0 +1,1683 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 3400115,
+                        "subject_id": 15,
+                        "user_id": 1839687,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "apa artinya aishiteru dan artinya nan desuka",
+                        "created": "2015-09-08T20:03:46+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2015-09-08T20:08:55+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "apa <em>artinya<\/em> <em>aishiteru<\/em> dan <em>artinya<\/em> nan desuka",
+                        "snippet_content": "apa <em>artinya<\/em> <em>aishiteru<\/em> dan <em>artinya<\/em> nan desuka"
+                    },
+                    "responses": [
+                        {
+                            "id": 4153063,
+                            "user_id": 1844807,
+                            "task_id": 3400115,
+                            "points": 5,
+                            "created": "2015-09-08T20:08:55+07:00",
+                            "content": "aishiteru artinya i love you tp dipake cuma buat yg udah nikah. kalau nan desuka seinget saya sih kayak \"what?!\" \"apa?!\"<br \/><br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 2607658,
+                                        "user_id": 1839687,
+                                        "content": "tau dr mana",
+                                        "created": "2015-09-08T20:09:26+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 2607718,
+                                        "user_id": 1844807,
+                                        "content": "saya pernah baca ya gitu, kalau salah mungkin sumber bacaan saya salah atau ingatan saya yg salah",
+                                        "created": "2015-09-08T20:11:56+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 2607741,
+                                        "user_id": 1837087,
+                                        "content": "saya cari di kamus",
+                                        "created": "2015-09-08T20:13:05+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 2607752,
+                                        "user_id": 1839687,
+                                        "content": "sebenarnya artinya \"apa maksuknya\"",
+                                        "created": "2015-09-08T20:13:33+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 2677293,
+                                        "user_id": 1839687,
+                                        "content": "alvito asrik pito takallam",
+                                        "created": "2015-09-16T09:46:59+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 5
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1844807,
+                                "nick": "chim97",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 3102948,
+                        "subject_id": 15,
+                        "user_id": 1664688,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "aishiteru. artinya adalah?",
+                        "created": "2015-08-19T12:50:56+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2015-08-19T12:55:02+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "<em>aishiteru.<\/em> <em>artinya<\/em> adalah?",
+                        "snippet_content": "<em>aishiteru.<\/em> <em>artinya<\/em> adalah?"
+                    },
+                    "responses": [
+                        {
+                            "id": 3879033,
+                            "user_id": 1617667,
+                            "task_id": 3102948,
+                            "points": 5,
+                            "created": "2015-08-19T12:55:01+07:00",
+                            "content": "Artinya, Aku mencintai mu",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2015-08-28T17:56:24+07:00",
+                                "approver": {
+                                    "id": 288144,
+                                    "nickname": "adeevaAbqari",
+                                    "points": 174792,
+                                    "grade": 3,
+                                    "gender": 1,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/d10\/9b7107f0bd2e50b4cf91638d0cc683eb.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/db2\/72bbe55ffcf6323827368889f3642a91.png"
+                                    },
+                                    "content_approved_count": 22052
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 3879034,
+                            "user_id": 230328,
+                            "task_id": 3102948,
+                            "points": 5,
+                            "created": "2015-08-19T12:55:17+07:00",
+                            "content": "artinya aku cinta kamu",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2015-08-28T17:56:28+07:00",
+                                "approver": {
+                                    "id": 288144,
+                                    "nickname": "adeevaAbqari",
+                                    "points": 174792,
+                                    "grade": 3,
+                                    "gender": 1,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/d10\/9b7107f0bd2e50b4cf91638d0cc683eb.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/db2\/72bbe55ffcf6323827368889f3642a91.png"
+                                    },
+                                    "content_approved_count": 22052
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1617667,
+                                "nick": "Dyan3",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dfa\/ec1f34f90e847aa82832458ec7e7442a.jpg"
+                            },
+                            {
+                                "id": 230328,
+                                "nick": "Aryataka",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d87\/d9a809bf46dea78d62d072ca7f0848cf.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 1729793,
+                        "subject_id": 15,
+                        "user_id": 670289,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Aishiteru artinya apa ya?",
+                        "created": "2014-12-13T16:43:52+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2014-12-13T16:44:51+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "<em>Aishiteru<\/em> <em>artinya<\/em> apa ya?",
+                        "snippet_content": "<em>Aishiteru<\/em> <em>artinya<\/em> apa ya?"
+                    },
+                    "responses": [
+                        {
+                            "id": 2222094,
+                            "user_id": 1001412,
+                            "task_id": 1729793,
+                            "points": 5,
+                            "created": "2014-12-13T16:44:51+07:00",
+                            "content": "AISHITERU= 'AKU CINTA KAMU' ataw 'AKU SAYANG KAMU' ataw 'AKU SUKA KAMU' dalam bhs ing9ris 'I LOVE YOU' dalam bhs cina 'WO AI NI' dalam bhs jerman 'ICH LIEBE DICH' dalam bhs arab 'ANA BEHIBEK' dalam bhs mexico 'MI AMOR' dalam bhs korea 'SARANGHEYO'",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 4,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 1468695,
+                                        "user_id": 951702,
+                                        "content": "kamu terrrrbaek...!",
+                                        "created": "2014-12-13T16:52:43+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        },
+                        {
+                            "id": 2222123,
+                            "user_id": 40231,
+                            "task_id": 1729793,
+                            "points": 5,
+                            "created": "2014-12-13T16:51:28+07:00",
+                            "content": "aishiteru artinya aku sayang kamu",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1001412,
+                                "nick": "salmonger",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dac\/c77a3bbf4de10c7b2f1a0681e79e20a1.png"
+                            },
+                            {
+                                "id": 40231,
+                                "nick": "masdzaky",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dc4\/20dc5f7ec4d4e45c64c8c3b1e134162f.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 8664473,
+                        "subject_id": 19,
+                        "user_id": 4245012,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "aishiteru apa artinya ?",
+                        "created": "2016-12-01T14:45:59+07:00",
+                        "responses": 1,
+                        "tickets": 3,
+                        "first_resp": "2016-12-01T14:47:05+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "<em>aishiteru<\/em> apa <em>artinya<\/em> ?",
+                        "snippet_content": "<em>aishiteru<\/em> apa <em>artinya<\/em> ?"
+                    },
+                    "responses": [
+                        {
+                            "id": 10297433,
+                            "user_id": 4177484,
+                            "task_id": 8664473,
+                            "points": 5,
+                            "created": "2016-12-01T14:47:05+07:00",
+                            "content": "Aku cinta kamuu.......",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 5611151,
+                                        "user_id": 4245012,
+                                        "content": "oooo",
+                                        "created": "2016-12-01T14:47:57+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 5611191,
+                                        "user_id": 4177484,
+                                        "content": "gitu terosss --\"",
+                                        "created": "2016-12-01T14:50:42+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 5611413,
+                                        "user_id": 4245012,
+                                        "content": "heh",
+                                        "created": "2016-12-01T15:11:17+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 3
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4177484,
+                                "nick": "Meilindae",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 8879155,
+                        "subject_id": 15,
+                        "user_id": 4241324,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "apa artinya watashi wa Anata aishiteru ",
+                        "created": "2016-12-22T13:19:04+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2016-12-22T13:21:15+07:00",
+                        "the_best_resp_id": "10608759",
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "apa <em>artinya<\/em> watashi wa Anata <em>aishiteru<\/em> ",
+                        "snippet_content": "apa <em>artinya<\/em> watashi wa Anata <em>aishiteru<\/em> "
+                    },
+                    "responses": [
+                        {
+                            "id": 10608759,
+                            "user_id": 2902074,
+                            "task_id": 8879155,
+                            "points": 5,
+                            "created": "2016-12-22T13:21:15+07:00",
+                            "content": "Japan : W<span>atashi wa Anata aishiteru.<br \/><\/span>Indo :\u00a0Saya selalu\u00a0\/ sangat mencintaimu.",
+                            "mark": 5,
+                            "marks_count": 3,
+                            "thanks": 3,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 5777524,
+                                        "user_id": 4336091,
+                                        "content": "oh? bukan \"SAYA SEDANG MENCINTAIMU?\"",
+                                        "created": "2016-12-31T17:55:37+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 5777526,
+                                        "user_id": 4336091,
+                                        "content": "kan, kalo \"SHITE IRU atau SHITE IMASU\" itu ibarat \"SEDANG\" ????",
+                                        "created": "2016-12-31T17:56:20+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 5777527,
+                                        "user_id": 4336091,
+                                        "content": "ah, au ah :v",
+                                        "created": "2016-12-31T17:56:32+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 3
+                            }
+                        },
+                        {
+                            "id": 10608761,
+                            "user_id": 4313963,
+                            "task_id": 8879155,
+                            "points": 5,
+                            "created": "2016-12-22T13:21:34+07:00",
+                            "content": "saya selalu mencintaimu maaf kalau salah",
+                            "mark": 4,
+                            "marks_count": 1,
+                            "thanks": 2,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2902074,
+                                "nick": "Arvian13",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d50\/e505b5bdedfa209efb0c11ac137fdd1e.png"
+                            },
+                            {
+                                "id": 4313963,
+                                "nick": "LEONARIFF",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d25\/a97292eaba30150dc142c330598efb53.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 5273148,
+                        "subject_id": 15,
+                        "user_id": 2663453,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Ada yang tau artinya daisuki ga? Watashi wa aishiteru anata itu juga apa ya? <br \/>\nTolong minta penjelasannya ya.<br \/>\nMakasii",
+                        "created": "2016-02-29T14:48:10+07:00",
+                        "responses": 2,
+                        "tickets": 3,
+                        "first_resp": "2016-02-29T14:50:17+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Ada yang tau <em>artinya<\/em> daisuki ga? Watashi wa <em>aishiteru<\/em> anata itu juga apa ya? \nTolong minta penjelasannya ya.\nMakasii",
+                        "snippet_content": "Ada yang tau <em>artinya<\/em> daisuki ga? Watashi wa <em>aishiteru<\/em> anata itu juga apa ya? \nTolong minta penjelasannya ya.\nMakasii"
+                    },
+                    "responses": [
+                        {
+                            "id": 6234369,
+                            "user_id": 2491653,
+                            "task_id": 5273148,
+                            "points": 5,
+                            "created": "2016-02-29T14:50:17+07:00",
+                            "content": "kalo disuki ga :aku sayang<br \/>kalo watashi wa aishiteru anata : ketika waktu sudah berjalan",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 3657766,
+                                        "user_id": 2491653,
+                                        "content": "jadiin jawBan twrcedas yaaaa",
+                                        "created": "2016-02-29T14:50:50+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        },
+                        {
+                            "id": 6240204,
+                            "user_id": 2056097,
+                            "task_id": 5273148,
+                            "points": 5,
+                            "created": "2016-02-29T19:53:31+07:00",
+                            "content": "Daisuki ga [\u5927\u597d\u304d\u304c] = Cinta<br \/><span>Watashi wa aishiteru anata [\u79c1\u306f\u611b\u3057\u3066\u308b\u3042\u306a\u305f] = Aku cinta kamu kamu<br \/><br \/>NB=Kalo yg kedua itu perasaan Watashi wa aishiteru<br \/><\/span><br \/><br \/><br \/><br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2491653,
+                                "nick": "muhibah1",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dd8\/a50df999f326885c2404f08ced1fa5bc.jpg"
+                            },
+                            {
+                                "id": 2056097,
+                                "nick": "IvyAdhaeni123",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d5f\/50450d9330274f485960a603b4b1799b.png"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 3254975,
+                        "subject_id": 15,
+                        "user_id": 1775734,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Ada yg tau ini artinya apa:<br \/>\n1.Watashi wa anata o aishiteru",
+                        "created": "2015-08-30T19:56:21+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2015-08-30T19:57:09+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Ada yg tau ini <em>artinya<\/em> apa:\n1.Watashi wa anata o <em>aishiteru<\/em>",
+                        "snippet_content": "Ada yg tau ini <em>artinya<\/em> apa:\n1.Watashi wa anata o <em>aishiteru<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 4012970,
+                            "user_id": 1773333,
+                            "task_id": 3254975,
+                            "points": 5,
+                            "created": "2015-08-30T19:57:09+07:00",
+                            "content": "artinya itu aku cinta kamu<br \/>",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2015-11-14T09:12:33+07:00",
+                                "approver": {
+                                    "id": 288144,
+                                    "nickname": "adeevaAbqari",
+                                    "points": 174792,
+                                    "grade": 3,
+                                    "gender": 1,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/d10\/9b7107f0bd2e50b4cf91638d0cc683eb.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/db2\/72bbe55ffcf6323827368889f3642a91.png"
+                                    },
+                                    "content_approved_count": 22052
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 4012971,
+                            "user_id": 200800,
+                            "task_id": 3254975,
+                            "points": 5,
+                            "created": "2015-08-30T19:57:09+07:00",
+                            "content": "saya suka kamu atau saya jatuh cinta\u00a0padamu",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2015-11-14T09:12:33+07:00",
+                                "approver": {
+                                    "id": 288144,
+                                    "nickname": "adeevaAbqari",
+                                    "points": 174792,
+                                    "grade": 3,
+                                    "gender": 1,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/d10\/9b7107f0bd2e50b4cf91638d0cc683eb.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/db2\/72bbe55ffcf6323827368889f3642a91.png"
+                                    },
+                                    "content_approved_count": 22052
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1773333,
+                                "nick": "julianingrum",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/da5\/782a02a4aa8a4546214123a8f04fde2f.jpg"
+                            },
+                            {
+                                "id": 200800,
+                                "nick": "Yassmyn",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d69\/6bf6e629ce02699b8c241ff891cf9488.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 7,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 1839687,
+            "nick": "jesikapurnama",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 8,
+                "answers": 5,
+                "comments": 167
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da8\/7d0a8d60b7c808ea81201da0b5660c2a.jpeg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d84\/635845a549b764eedd14f6b386b5cec8.jpeg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da8\/7d0a8d60b7c808ea81201da0b5660c2a.jpeg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d84\/635845a549b764eedd14f6b386b5cec8.jpeg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 1837087,
+            "nick": "alvito2",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 14,
+                "answers": 18,
+                "comments": 19
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db4\/2d0b1a307403f412f1589157c407af5d.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d31\/13c356353a5e211c26956a8d1ea2125e.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db4\/2d0b1a307403f412f1589157c407af5d.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d31\/13c356353a5e211c26956a8d1ea2125e.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 1844807,
+            "nick": "chim97",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 3,
+                "comments": 3
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1664688,
+            "nick": "bagas220000000",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d2d\/03924512c7488d32e9758ee9754d0853.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc9\/9f3c28e1dfccb9c4421dc74283f33552.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d2d\/03924512c7488d32e9758ee9754d0853.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc9\/9f3c28e1dfccb9c4421dc74283f33552.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1617667,
+            "nick": "Dyan3",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 30,
+                "comments": 7
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d79\/9ba7be3e063c393f468bc147ba2dd8d3.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dfa\/ec1f34f90e847aa82832458ec7e7442a.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d79\/9ba7be3e063c393f468bc147ba2dd8d3.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dfa\/ec1f34f90e847aa82832458ec7e7442a.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 230328,
+            "nick": "Aryataka",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 8,
+                "answers": 37,
+                "comments": 16
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d55\/e735677de400e5ca8d0ec310d8398cd9.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d87\/d9a809bf46dea78d62d072ca7f0848cf.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d55\/e735677de400e5ca8d0ec310d8398cd9.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d87\/d9a809bf46dea78d62d072ca7f0848cf.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 670289,
+            "nick": "apip25",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 6,
+                "answers": 1,
+                "comments": 15
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 951702,
+            "nick": "asar94445",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 9,
+                "answers": 533,
+                "comments": 160
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d64\/d2a60cf00877a4a59fb21d0a5f538248.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d2c\/9ca20b004a8a4c30310daeb32b5f6e43.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d64\/d2a60cf00877a4a59fb21d0a5f538248.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d2c\/9ca20b004a8a4c30310daeb32b5f6e43.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        },
+        {
+            "id": 1001412,
+            "nick": "salmonger",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 106,
+                "comments": 17
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dab\/073a3804bf865b988e2b9735081bc94c.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dac\/c77a3bbf4de10c7b2f1a0681e79e20a1.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dab\/073a3804bf865b988e2b9735081bc94c.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dac\/c77a3bbf4de10c7b2f1a0681e79e20a1.png"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 40231,
+            "nick": "masdzaky",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 29,
+                "comments": 11
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d34\/27f3d533b74ca47b3076448859f56cc6.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc4\/20dc5f7ec4d4e45c64c8c3b1e134162f.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d34\/27f3d533b74ca47b3076448859f56cc6.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc4\/20dc5f7ec4d4e45c64c8c3b1e134162f.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 4245012,
+            "nick": "ghost5",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 4,
+                "comments": 36
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4177484,
+            "nick": "Meilindae",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 25,
+                "comments": 19
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4241324,
+            "nick": "nabila1383",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 120,
+                "answers": 297,
+                "comments": 539
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d70\/c0a76d573376a0188ccfbf936a5dad08.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d08\/24b077357046a82cb0c20c316b7b4074.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d70\/c0a76d573376a0188ccfbf936a5dad08.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d08\/24b077357046a82cb0c20c316b7b4074.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 4336091,
+            "nick": "AkiraFathinah2003",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 0,
+                "comments": 23
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9f\/3519a6befaca9f0f7ce5bf52cf71c9f3.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d54\/63e5aaff6a4364d7ea1e4230e90dc4ca.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9f\/3519a6befaca9f0f7ce5bf52cf71c9f3.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d54\/63e5aaff6a4364d7ea1e4230e90dc4ca.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 2902074,
+            "nick": "Arvian13",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 6,
+                "answers": 476,
+                "comments": 30
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d34\/0e53a46f8339445ee106adbb44b0f17a.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d50\/e505b5bdedfa209efb0c11ac137fdd1e.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d34\/0e53a46f8339445ee106adbb44b0f17a.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d50\/e505b5bdedfa209efb0c11ac137fdd1e.png"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        },
+        {
+            "id": 4313963,
+            "nick": "LEONARIFF",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 9,
+                "answers": 187,
+                "comments": 225
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd8\/fd2d11daf9669859138d75493ae4e553.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d25\/a97292eaba30150dc142c330598efb53.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd8\/fd2d11daf9669859138d75493ae4e553.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d25\/a97292eaba30150dc142c330598efb53.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 2663453,
+            "nick": "Hello26",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d0d\/2360ea935dd2ed969d14e7f6a9af569a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dcd\/fd5c56d6b719bdfa1beee58d5328cd1b.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d0d\/2360ea935dd2ed969d14e7f6a9af569a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dcd\/fd5c56d6b719bdfa1beee58d5328cd1b.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 2491653,
+            "nick": "muhibah1",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 67,
+                "answers": 172,
+                "comments": 262
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd3\/fbfd446e9bfdc34ef30b0e011ed8a268.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd8\/a50df999f326885c2404f08ced1fa5bc.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd3\/fbfd446e9bfdc34ef30b0e011ed8a268.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd8\/a50df999f326885c2404f08ced1fa5bc.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 2056097,
+            "nick": "IvyAdhaeni123",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 94,
+                "answers": 845,
+                "comments": 774
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df0\/455f1e58731ab003e5d138f8bbc9da33.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d5f\/50450d9330274f485960a603b4b1799b.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df0\/455f1e58731ab003e5d138f8bbc9da33.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d5f\/50450d9330274f485960a603b4b1799b.png"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Spam Fighter ",
+                    "Si Hebat"
+                ],
+                "count": 2
+            },
+            "ranks_ids": [
+                17,
+                6
+            ]
+        },
+        {
+            "id": 1775734,
+            "nick": "azizfauzi",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 4,
+                "comments": 1
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc7\/234c8d77570f57299cf76c9e12c3099b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df5\/b95f1675e7cd75c55bffe044fc845002.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc7\/234c8d77570f57299cf76c9e12c3099b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df5\/b95f1675e7cd75c55bffe044fc845002.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1773333,
+            "nick": "julianingrum",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 6,
+                "answers": 17,
+                "comments": 15
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d00\/6f40094ee91a9008aac69c4370142045.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da5\/782a02a4aa8a4546214123a8f04fde2f.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d00\/6f40094ee91a9008aac69c4370142045.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da5\/782a02a4aa8a4546214123a8f04fde2f.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 200800,
+            "nick": "Yassmyn",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 105,
+                "comments": 57
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d61\/fba64ad1960101bf50a670423a586072.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d69\/6bf6e629ce02699b8c241ff891cf9488.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d61\/fba64ad1960101bf50a670423a586072.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d69\/6bf6e629ce02699b8c241ff891cf9488.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        }
+    ],
+    "validated": false
+}

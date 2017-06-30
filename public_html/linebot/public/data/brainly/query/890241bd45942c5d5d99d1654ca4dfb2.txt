@@ -1,0 +1,1791 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 10756848,
+                        "subject_id": 10,
+                        "user_id": 5077526,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 85,
+                            "ptsForResp": 43,
+                            "ptsForBest": 22
+                        },
+                        "content": "siapa jodohku di masa tua nanti?",
+                        "created": "2017-05-22T22:41:53+07:00",
+                        "responses": 2,
+                        "tickets": 3,
+                        "first_resp": "2017-05-22T22:42:32+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "<em>siapa<\/em> <em>jodohku<\/em> di masa tua nanti?",
+                        "snippet_content": "<em>siapa<\/em> <em>jodohku<\/em> di masa tua nanti?"
+                    },
+                    "responses": [
+                        {
+                            "id": 13047952,
+                            "user_id": 5075173,
+                            "task_id": 10756848,
+                            "points": 43,
+                            "created": "2017-05-22T22:42:32+07:00",
+                            "content": "msnusia yang pastinya",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 13047957,
+                            "user_id": 4980886,
+                            "task_id": 10756848,
+                            "points": 43,
+                            "created": "2017-05-22T22:43:13+07:00",
+                            "content": "Seorang Manusia Yang Berjenis Kelamin Perempuan :V",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5075173,
+                                "nick": "sherin69",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d8e\/cbf818688fc3de3d6d653be5c52c29d3.jpg"
+                            },
+                            {
+                                "id": 4980886,
+                                "nick": "ProfNoName",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d13\/4131ef517244133d33edbda21b7c0528.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 6124766,
+                        "subject_id": 1,
+                        "user_id": 3049818,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Apa makna dari kata 'Siapa jodoh ku?'",
+                        "created": "2016-05-16T20:33:04+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2016-05-16T20:35:09+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [
+                                {
+                                    "id": 4186023,
+                                    "user_id": 3050102,
+                                    "content": "Artinya Bahwa kamu lagi mencari jodoh Karena kamu kesepian",
+                                    "created": "2016-05-16T21:22:12+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                }
+                            ],
+                            "last_id": 0,
+                            "count": 1
+                        },
+                        "highlighted_content": "Apa makna dari kata '<em>Siapa<\/em> <em>jodoh<\/em> <em>ku<\/em>?'",
+                        "snippet_content": "Apa makna dari kata '<em>Siapa<\/em> <em>jodoh<\/em> <em>ku<\/em>?'"
+                    },
+                    "responses": [
+                        {
+                            "id": 7300103,
+                            "user_id": 2998715,
+                            "task_id": 6124766,
+                            "points": 5,
+                            "created": "2016-05-16T20:35:09+07:00",
+                            "content": "Maknanya = Menandakan Seseorang bertanya siapakah Yang Akan menemaniku Hingga Ajal memisahkannya (jodoh\/istri\/suami)",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2998715,
+                                "nick": "MaulanaYusuf1999",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/da0\/c3aadcd04b2bb05426707d6b0c44eacf.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 5510251,
+                        "subject_id": 1,
+                        "user_id": 2771140,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "pak jodohku sopo nangndi kemana siapa",
+                        "created": "2016-03-21T10:55:37+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2016-03-21T11:01:42+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "pak <em>jodohku<\/em> sopo nangndi kemana <em>siapa<\/em>",
+                        "snippet_content": "pak <em>jodohku<\/em> sopo nangndi kemana <em>siapa<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 6514254,
+                            "user_id": 2406031,
+                            "task_id": 5510251,
+                            "points": 5,
+                            "created": "2016-03-21T11:01:42+07:00",
+                            "content": "pak jodohku siapa,dimana ? ada sudah tertulis di lauhul mahfudz",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 6514366,
+                            "user_id": 2735573,
+                            "task_id": 5510251,
+                            "points": 5,
+                            "created": "2016-03-21T11:14:56+07:00",
+                            "content": "d mkan kucing pling..............   ",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2406031,
+                                "nick": "cheriel1314",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/de0\/528ef2053178309aa9976e56dcaa0e87.jpg"
+                            },
+                            {
+                                "id": 2735573,
+                                "nick": "MansurAj",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 2486601,
+                        "subject_id": 1,
+                        "user_id": 772382,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 20,
+                            "ptsForResp": 10,
+                            "ptsForBest": 5
+                        },
+                        "content": "Di sebuah hutan yang lebat, ada seekor kelinci yang terkenal mampu berlari sangat cepat. Dia di juluki pelari tercepat di hutan itu, bahkan semua hewan juga mengakuinya. Tapi sayang, ketenaran yang di miliki si kelinci membuat dia menjadi sombong dan besar kepala. Dia selalu menyombongkan kemampuanya di depan tiap hewan yang di lewatinya. Dia selalu berlari dengan cepat, sehingga menerbangkan debu di sekitarnya dan membuat hewan yang di laluinya menjadi terbatuk-batuk.<br \/><br \/>\nPada suatu hari, ada sekelompok hewan yang tengah bercakap-cakap. Mereka bercanda dan berbagi cerita tentang kisah-kisah lucu yang pernah mereka alami. Hewan-hewan itu adalah kura-kura, keong, dan juga bekicot. Tapi waktu tengah asik-asik bergurau, tiba-tiba kelinci datang dan berlari dengan cepat. Debu yang berterbangan tentu saja membuat tiga sekawan itu terbatuk-batuk.<br \/><br \/>\n\"Hai kelinci.. kami tahu bahwa kamu bisa lari cepat, tapi apakah kamu bisa menghargai juga teman-teman di sekitar mu?\". Teriak kura-kura karena kesal. Mendengar perkataan kura-kura, kelinci berhenti dan menghampiri mereka. \"Hah buat apa? Mengapa aku harus mendengarkan perkataan dari komunitas hewan lambat seperti kalian? Pasti karena kalian iri sebab tak mampu berlari secepat aku, dan hanya bisa merayap pelan-pelan saja. hahahaha..\". Kata kelinci malah mengejek.<br \/><br \/>\nMendengar ejekan si kelinci, kura-kura menjadi geram. Dia tak terima jika dia dan teman-temanya di lecehkan begitu. Jangan sombong kau kelinci.. Kalau kau berani, mari kita lomba lari. Aku yakin aku mampu mengalahkan mu..\". Tantang kura-kura. Mendengar tantangan itu, si kelinci tertawa terbahak-bahak dengan sikap melecehkan. \"Kau? Mengalahkan aku? hahahaha.. Kau ini belum tidur, tapi sudah mengigau. Dasar kura-kura bodoh.. baiklah, demi menjaga nama baik ku karena kelancangan mu, akau akan memberimu pelajaran tentang arti kemenangan dan kecepatan\". jawab kelinci.<br \/><br \/>\nAhirnya, merekapun memutuskan untuk berlomba. Si bekicot bertugas sebagai hakim di garis start, sedangkan si keong berada di garis finish untuk mengawasi siapa yang sampai lebih dulu. Dan lomba lari itu di mulai. dengan mudahnya si kelinci memimpin lomba, di berlari jauh di depan kura-kura yang merangkak lambat. Hal tersebut membuat si kelinci tertawa semakin menghina, tapi si kura-kura tetap berusaha dan pantang menyerah. Dia tetap berlari dengan sekuat tenaga demi harga dirinya dan teman-temanya.<br \/><br \/>\nMelihat kegigihan kura-kura, timbul niat usil di hati kelinci. Sebenarnya, kurang beberapa langkah lagi si kelinci sudah sampai garis finish. Tapi dia ingin mengejek si kura-kura lebih dari itu, maka dia memutuskan untuk beristirahat di bawah pohon dekat garis finish. Dan ketika si kura-kura sudah tinggal beberapa langkah lagi dari garis finish, dia akan dengan cepat mendahuluinya. Tentu saja hal itu pasti akan membuat kura-kura menjadi putus asa dan dia bisa mengejeknya sesuka hati.<br \/><br \/>\nDi kejauhan, kura-kura masih berusaha berlari sekuat tenaga. Keringatnya bercucuran, tapi dia tak memperdulikanya. Apa lagi ketika dari kejauhan dia melihat kelinci yang tengah  istirahat di bawah pohon seolah mengejeknya, membuat kura-kura semakin bersemangat dan terus berusaha. Sementara itu, si kelinci yang menunggu kura-kura di bawah pohon menjadi sangat bosan. Karena langkah kura-kura yang cukup lambat, maka membutuhkan waktu yang lama bagi kura-kura untuk sampai di garis finish.<br \/><br \/>\n\"Ah.. jadi ngantuk.. Lebih baik aku tidur sejenak untuk menunggu kura-kura tiba di sini. denagn langkah yang begitu lambat, butuh waktu lama baginya untuk mengejar aku\". Kata kelinci kemudian tertidur. Tapi udara bawah pohon yang cukup sejuk di tambah dengan hembusan angin sepoi-sepoi yang cukup segar, membuat kelinci tertidur cukup pulas. Bahkan dia tak menyadari ketika kura-kura berjalan melewatinya. Ketika dia terbangun, semua sudah terlambat. Kura-kura sudah menapakan langkah terahirnya tepat di garis finish sehingga kelinci tak bisa mendahuluinya. Ahirnya, kelinci yang sombong itu di kalahkan oleh kurTOLONG SIMPULKAN CERPEN INI Y PLISSS",
+                        "created": "2015-04-15T19:53:18+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2015-04-15T19:55:09+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Di sebuah hutan yang lebat, ada seekor kelinci yang terkenal mampu berlari sangat cepat. Dia di juluki pelari tercepat di hutan itu, bahkan semua hewan juga mengakuinya. Tapi sayang, ketenaran yang di miliki si kelinci membuat dia menjadi sombong dan besar kepala. Dia selalu menyombongkan kemampuanya di depan tiap hewan yang di lewatinya. Dia selalu berlari dengan cepat, sehingga menerbangkan debu di sekitarnya dan membuat hewan yang di laluinya menjadi terbatuk-batuk.\nPada suatu hari, ada sekelompok hewan yang tengah bercakap-cakap. Mereka bercanda dan berbagi cerita tentang kisah-kisah lucu yang pernah mereka alami. Hewan-hewan itu adalah kura-kura, keong, dan juga bekicot. Tapi waktu tengah asik-asik bergurau, tiba-tiba kelinci datang dan berlari dengan cepat. Debu yang berterbangan tentu saja membuat tiga sekawan itu terbatuk-batuk.\n\"Hai kelinci.. kami tahu bahwa kamu bisa lari cepat, tapi apakah kamu bisa menghargai juga teman-teman di sekitar mu?\". Teriak kura-kura karena kesal. Mendengar perkataan kura-kura, kelinci berhenti dan menghampiri mereka. \"Hah buat apa? Mengapa aku harus mendengarkan perkataan dari komunitas hewan lambat seperti kalian? Pasti karena kalian iri sebab tak mampu berlari secepat aku, dan hanya bisa merayap pelan-pelan saja. hahahaha..\". Kata kelinci malah mengejek.\nMendengar ejekan si kelinci, kura-kura menjadi geram. Dia tak terima jika dia dan teman-temanya di lecehkan begitu. Jangan sombong kau kelinci.. Kalau kau berani, mari kita lomba lari. Aku yakin aku mampu mengalahkan mu..\". Tantang kura-kura. Mendengar tantangan itu, si kelinci tertawa terbahak-bahak dengan sikap melecehkan. \"Kau? Mengalahkan aku? hahahaha.. Kau ini belum tidur, tapi sudah mengigau. Dasar kura-kura <em>bodoh..<\/em> baiklah, demi menjaga nama baik <em>ku<\/em> karena kelancangan mu, akau akan memberimu pelajaran tentang arti kemenangan dan kecepatan\". jawab kelinci.\nAhirnya, merekapun memutuskan untuk berlomba. Si bekicot bertugas sebagai hakim di garis start, sedangkan si keong berada di garis finish untuk mengawasi <em>siapa<\/em> yang sampai lebih dulu. Dan lomba lari itu di mulai. dengan mudahnya si kelinci memimpin lomba, di berlari jauh di depan kura-kura yang merangkak lambat. Hal tersebut membuat si kelinci tertawa semakin menghina, tapi si kura-kura tetap berusaha dan pantang menyerah. Dia tetap berlari dengan sekuat tenaga demi harga dirinya dan teman-temanya.\nMelihat kegigihan kura-kura, timbul niat usil di hati kelinci. Sebenarnya, kurang beberapa langkah lagi si kelinci sudah sampai garis finish. Tapi dia ingin mengejek si kura-kura lebih dari itu, maka dia memutuskan untuk beristirahat di bawah pohon dekat garis finish. Dan ketika si kura-kura sudah tinggal beberapa langkah lagi dari garis finish, dia akan dengan cepat mendahuluinya. Tentu saja hal itu pasti akan membuat kura-kura menjadi putus asa dan dia bisa mengejeknya sesuka hati.\nDi kejauhan, kura-kura masih berusaha berlari sekuat tenaga. Keringatnya bercucuran, tapi dia tak memperdulikanya. Apa lagi ketika dari kejauhan dia melihat kelinci yang tengah  istirahat di bawah pohon seolah mengejeknya, membuat kura-kura semakin bersemangat dan terus berusaha. Sementara itu, si kelinci yang menunggu kura-kura di bawah pohon menjadi sangat bosan. Karena langkah kura-kura yang cukup lambat, maka membutuhkan waktu yang lama bagi kura-kura untuk sampai di garis finish.\n\"Ah.. jadi ngantuk.. Lebih baik aku tidur sejenak untuk menunggu kura-kura tiba di sini. denagn langkah yang begitu lambat, butuh waktu lama baginya untuk mengejar aku\". Kata kelinci kemudian tertidur. Tapi udara bawah pohon yang cukup sejuk di tambah dengan hembusan angin sepoi-sepoi yang cukup segar, membuat kelinci tertidur cukup pulas. Bahkan dia tak menyadari ketika kura-kura berjalan melewatinya. Ketika dia terbangun, semua sudah terlambat. Kura-kura sudah menapakan langkah terahirnya tepat di garis finish sehingga kelinci tak bisa mendahuluinya. Ahirnya, kelinci yang sombong itu di kalahkan oleh kurTOLONG SIMPULKAN CERPEN INI Y PLISSS",
+                        "snippet_content": "hahahaha.. Kau ini belum tidur, tapi sudah mengigau. Dasar kura-kura <em>bodoh..<\/em> baiklah, demi menjaga nama baik <em>ku<\/em> karena kelancangan mu, akau"
+                    },
+                    "responses": [
+                        {
+                            "id": 3180641,
+                            "user_id": 955009,
+                            "task_id": 2486601,
+                            "points": 10,
+                            "created": "2015-04-15T19:55:09+07:00",
+                            "content": "kesimpulannya kita tidak boleh meremehkan orang lain",
+                            "mark": 4,
+                            "marks_count": 2,
+                            "thanks": 8,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 2022082,
+                                        "user_id": 772382,
+                                        "content": "bukan seperti itu maksudnya diringkas",
+                                        "created": "2015-04-15T19:57:23+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        },
+                        {
+                            "id": 3180671,
+                            "user_id": 1368838,
+                            "task_id": 2486601,
+                            "points": 10,
+                            "created": "2015-04-15T19:56:18+07:00",
+                            "content": "janganlah jadi orang yang sombong karena kesombongan belum tentu bisa saja menjerumuskan ke hal hal yang tidak baik\/yang sebenarnya tidak kita inginkan. Intinya berbuatlah kebaikan kepada semua orang :) <br \/>",
+                            "mark": 4,
+                            "marks_count": 4,
+                            "thanks": 10,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 955009,
+                                "nick": "ellyafaamanah",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dba\/40cbac557b138aec4bdd8abc41a230f6.jpg"
+                            },
+                            {
+                                "id": 1368838,
+                                "nick": "charajuliarta",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 8173921,
+                        "subject_id": 1,
+                        "user_id": 3351062,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Assalamu Alaikum wr. wb.<br \/>\n\tSegala puji bagi Allah yang menguasai seluruh alam. Sholawat dan salam semoga tetap dicurahkan kepada penghulu semua utusan, penghulu dan pimpinan kita, Nabi Muhammad Saw. , kepada keluarga, sahabat dan umatnya hingga akhir jaman. Ibu dan bapak guru yang kami hormati. Dan seluruh anak-anak ku siswa SMK Negeri 8 Kota Tangerang yang bapak sayangi. Kalian mungkin memahami dan mengerti betapa pentingnya harga diri bagi diri kalian sendiri. Setiap orang tentu sangat menjaga harga diri nya dan tidak rela siapa pun meremehkan dan merendahkan dirinya.<br \/>\n\tKalian mungkin sebelumnya sudah mengetehui bahwa harga diri adalah penilaian individu terhadap kehormatan diri, melalui sikap terhadap dirinya sendiri yang sifatnya implisit dan tidak diverbalisasikan dan menggambarkan sejauh mana individu tersebut menilai dirinya sebagai orang yang memiliki kemampuan, keberartian, berharga, dan kompeten. Begitu sangat pentingnya harga diri untuk selalu ditingkatkan untuk dapat mencapai hidup yang memiliki derajat dan martabat yang tinggi. Berawal dari diri sendirilah harga diri akan tumbuh.<br \/>\n\u261e\tMulai dari diri sendiri<br \/>\n\u261e\tMulai dari hal kecil<br \/>\n\u261e\tMulai dari saat ini<br \/>\nAda beberapa langkah untuk menumbuhkan dan meningkatkan harga diri dan ini bisa kalian terapkan mulai dari saat ini :<br \/>\n\uf0c4\tPertama, Belajar untuk selalu menghargai diri sendiri. Walaupun terkadang orang lain memandang diri anda rendah tapi tetapkan keyakinan anda bahwa andalah yang berhak atas hidup anda dan anda yang paling mengerti diri anda.<br \/><br \/>\n\uf0c4\tKedua, Belajar untuk menyukai diri sendiri. Menyukai diri sendiri berarti menerima diri apa adanya. dan belajar untuk mengembangkan potensi yang dimiliki. Lihat sisi positif dari diri anda, adn yang paling penting adalah bersyukur untuk segala yang kita miliki.<br \/><br \/>\n\uf0c4\tKetiga, Miliki gambar diri yang positif. hal ini berhubungan dengan penerimaan diri. gambar diri adalah cara pandang anda terhadap diri anda. yakinkan diri anda kalau anda layak untuk berhasil, anda pantas untuk dicintai dan dihargai, anda adalah pribadi yang special.<br \/><br \/>\n\uf0c4\tKeempat, Lakukan apa yang anda anggap penting. Walaupun anda merasa anda tidak mampu karena anda malu dan takut, paksakan diri anda untuk melalui proses itu. percayalah bahwa ternyata diri anda mampu untuk melakukannya.<br \/><br \/>\n\uf0c4\tKelima, Belajar untuk hidup mandiri, tidak tergantung dengan orang lain, sehingga anda tidak rentan terhadap penolakan. Keenam, Jangan menghubungkan harga diri anda dengan kegagalan atau kesalahan yang anda lakukan.<br \/><br \/>\n\uf0c4\tKetujuh, Miliki konsep diri yang benar tentang harga diri, bahwa harga diri berasal dari dalam bukan dari luar diri kita. bukan terletak pada materi yang kita peroleh, kesuksesan yang kita peroleh karena materi dan kesuksesan hanya menumbuhkan harga diri semu dan tidak dapat bertahan selamanya.<br \/><br \/>\n\uf0c4\tKedelapan, Hargai diri sendiri, jangan tolak pujian sederhana yang dikatakan orang mengenai kita. terima itu dan berpikir lebih maju lagi. hati-hati bila ada kata-kata dibeak anda seperti \u201caku memang bodoh\u201d, \u201d aku memang gak bisa\u201d, \u201calah ini cuma mimpi , gak mungkin jadi nyata\u201d. kata2 beracun ini akan merusak harga diri anda yang anda bangun perlahan-lahan.<br \/>\nInilah yang bisa kalian terapkan untuk menjadikan harga diri kalian makin meningkat. Jaga harga diri kalian dan tingkatkanlah dengan cara mempraktekkan delapan resep yang bapak coba sampaikan tadi.<br \/>\nSemoga uraian ini bermanfaat bagi kita semua dan bagi kalian semua sebagai anak-anak bapak. Mohon maaf jika ada kata-kata yang kurang berkenan.<br \/>\nWassalamu \u2018alaikum wr.wb.<br \/><br \/>\nTema nya apa?",
+                        "created": "2016-11-01T22:22:06+07:00",
+                        "responses": 1,
+                        "tickets": 3,
+                        "first_resp": "2016-11-02T05:23:52+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Assalamu Alaikum wr. wb.\n\tSegala puji bagi Allah yang menguasai seluruh alam. Sholawat dan salam semoga tetap dicurahkan kepada penghulu semua utusan, penghulu dan pimpinan kita, Nabi Muhammad Saw. , kepada keluarga, sahabat dan umatnya hingga akhir jaman. Ibu dan bapak guru yang kami hormati. Dan seluruh anak-anak <em>ku<\/em> siswa SMK Negeri 8 Kota Tangerang yang bapak sayangi. Kalian mungkin memahami dan mengerti betapa pentingnya harga diri bagi diri kalian sendiri. Setiap orang tentu sangat menjaga harga diri nya dan tidak rela <em>siapa<\/em> pun meremehkan dan merendahkan dirinya.\n\tKalian mungkin sebelumnya sudah mengetehui bahwa harga diri adalah penilaian individu terhadap kehormatan diri, melalui sikap terhadap dirinya sendiri yang sifatnya implisit dan tidak diverbalisasikan dan menggambarkan sejauh mana individu tersebut menilai dirinya sebagai orang yang memiliki kemampuan, keberartian, berharga, dan kompeten. Begitu sangat pentingnya harga diri untuk selalu ditingkatkan untuk dapat mencapai hidup yang memiliki derajat dan martabat yang tinggi. Berawal dari diri sendirilah harga diri akan tumbuh.\n\u261e\tMulai dari diri sendiri\n\u261e\tMulai dari hal kecil\n\u261e\tMulai dari saat ini\nAda beberapa langkah untuk menumbuhkan dan meningkatkan harga diri dan ini bisa kalian terapkan mulai dari saat ini :\n\uf0c4\tPertama, Belajar untuk selalu menghargai diri sendiri. Walaupun terkadang orang lain memandang diri anda rendah tapi tetapkan keyakinan anda bahwa andalah yang berhak atas hidup anda dan anda yang paling mengerti diri anda.\n\uf0c4\tKedua, Belajar untuk menyukai diri sendiri. Menyukai diri sendiri berarti menerima diri apa adanya. dan belajar untuk mengembangkan potensi yang dimiliki. Lihat sisi positif dari diri anda, adn yang paling penting adalah bersyukur untuk segala yang kita miliki.\n\uf0c4\tKetiga, Miliki gambar diri yang positif. hal ini berhubungan dengan penerimaan diri. gambar diri adalah cara pandang anda terhadap diri anda. yakinkan diri anda kalau anda layak untuk berhasil, anda pantas untuk dicintai dan dihargai, anda adalah pribadi yang special.\n\uf0c4\tKeempat, Lakukan apa yang anda anggap penting. Walaupun anda merasa anda tidak mampu karena anda malu dan takut, paksakan diri anda untuk melalui proses itu. percayalah bahwa ternyata diri anda mampu untuk melakukannya.\n\uf0c4\tKelima, Belajar untuk hidup mandiri, tidak tergantung dengan orang lain, sehingga anda tidak rentan terhadap penolakan. Keenam, Jangan menghubungkan harga diri anda dengan kegagalan atau kesalahan yang anda lakukan.\n\uf0c4\tKetujuh, Miliki konsep diri yang benar tentang harga diri, bahwa harga diri berasal dari dalam bukan dari luar diri kita. bukan terletak pada materi yang kita peroleh, kesuksesan yang kita peroleh karena materi dan kesuksesan hanya menumbuhkan harga diri semu dan tidak dapat bertahan selamanya.\n\uf0c4\tKedelapan, Hargai diri sendiri, jangan tolak pujian sederhana yang dikatakan orang mengenai kita. terima itu dan berpikir lebih maju lagi. hati-hati bila ada kata-kata dibeak anda seperti \u201caku memang <em>bodoh<\/em>\u201d, \u201d aku memang gak bisa\u201d, \u201calah ini cuma mimpi , gak mungkin jadi nyata\u201d. kata2 beracun ini akan merusak harga diri anda yang anda bangun perlahan-lahan.\nInilah yang bisa kalian terapkan untuk menjadikan harga diri kalian makin meningkat. Jaga harga diri kalian dan tingkatkanlah dengan cara mempraktekkan delapan resep yang bapak coba sampaikan tadi.\nSemoga uraian ini bermanfaat bagi kita semua dan bagi kalian semua sebagai anak-anak bapak. Mohon maaf jika ada kata-kata yang kurang berkenan.\nWassalamu \u2018alaikum wr.wb.\nTema nya apa?",
+                        "snippet_content": "Ibu dan bapak guru yang kami hormati. Dan seluruh anak-anak <em>ku<\/em> siswa SMK Negeri 8 Kota Tangerang yang bapak sayangi. Kalian"
+                    },
+                    "responses": [
+                        {
+                            "id": 9703448,
+                            "user_id": 78095,
+                            "task_id": 8173921,
+                            "points": 5,
+                            "created": "2016-11-02T05:23:52+07:00",
+                            "content": "Meningkatkan dan menumbuhkan harga diri pada diri sendiri",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 78095,
+                                "nick": "BtgZelo",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 8173891,
+                        "subject_id": 1,
+                        "user_id": 3351062,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Assalamu Alaikum wr. wb.<br \/>\n\tSegala puji bagi Allah yang menguasai seluruh alam. Sholawat dan salam semoga tetap dicurahkan kepada penghulu semua utusan, penghulu dan pimpinan kita, Nabi Muhammad Saw. , kepada keluarga, sahabat dan umatnya hingga akhir jaman. Ibu dan bapak guru yang kami hormati. Dan seluruh anak-anak ku siswa SMK Negeri 8 Kota Tangerang yang bapak sayangi. Kalian mungkin memahami dan mengerti betapa pentingnya harga diri bagi diri kalian sendiri. Setiap orang tentu sangat menjaga harga diri nya dan tidak rela siapa pun meremehkan dan merendahkan dirinya.<br \/>\n\tKalian mungkin sebelumnya sudah mengetehui bahwa harga diri adalah penilaian individu terhadap kehormatan diri, melalui sikap terhadap dirinya sendiri yang sifatnya implisit dan tidak diverbalisasikan dan menggambarkan sejauh mana individu tersebut menilai dirinya sebagai orang yang memiliki kemampuan, keberartian, berharga, dan kompeten. Begitu sangat pentingnya harga diri untuk selalu ditingkatkan untuk dapat mencapai hidup yang memiliki derajat dan martabat yang tinggi. Berawal dari diri sendirilah harga diri akan tumbuh.<br \/>\n\u261e\tMulai dari diri sendiri<br \/>\n\u261e\tMulai dari hal kecil<br \/>\n\u261e\tMulai dari saat ini<br \/>\nAda beberapa langkah untuk menumbuhkan dan meningkatkan harga diri dan ini bisa kalian terapkan mulai dari saat ini :<br \/>\n\uf0c4\tPertama, Belajar untuk selalu menghargai diri sendiri. Walaupun terkadang orang lain memandang diri anda rendah tapi tetapkan keyakinan anda bahwa andalah yang berhak atas hidup anda dan anda yang paling mengerti diri anda.<br \/><br \/>\n\uf0c4\tKedua, Belajar untuk menyukai diri sendiri. Menyukai diri sendiri berarti menerima diri apa adanya. dan belajar untuk mengembangkan potensi yang dimiliki. Lihat sisi positif dari diri anda, adn yang paling penting adalah bersyukur untuk segala yang kita miliki.<br \/><br \/>\n\uf0c4\tKetiga, Miliki gambar diri yang positif. hal ini berhubungan dengan penerimaan diri. gambar diri adalah cara pandang anda terhadap diri anda. yakinkan diri anda kalau anda layak untuk berhasil, anda pantas untuk dicintai dan dihargai, anda adalah pribadi yang special.<br \/><br \/>\n\uf0c4\tKeempat, Lakukan apa yang anda anggap penting. Walaupun anda merasa anda tidak mampu karena anda malu dan takut, paksakan diri anda untuk melalui proses itu. percayalah bahwa ternyata diri anda mampu untuk melakukannya.<br \/><br \/>\n\uf0c4\tKelima, Belajar untuk hidup mandiri, tidak tergantung dengan orang lain, sehingga anda tidak rentan terhadap penolakan. Keenam, Jangan menghubungkan harga diri anda dengan kegagalan atau kesalahan yang anda lakukan.<br \/><br \/>\n\uf0c4\tKetujuh, Miliki konsep diri yang benar tentang harga diri, bahwa harga diri berasal dari dalam bukan dari luar diri kita. bukan terletak pada materi yang kita peroleh, kesuksesan yang kita peroleh karena materi dan kesuksesan hanya menumbuhkan harga diri semu dan tidak dapat bertahan selamanya.<br \/><br \/>\n\uf0c4\tKedelapan, Hargai diri sendiri, jangan tolak pujian sederhana yang dikatakan orang mengenai kita. terima itu dan berpikir lebih maju lagi. hati-hati bila ada kata-kata dibeak anda seperti \u201caku memang bodoh\u201d, \u201d aku memang gak bisa\u201d, \u201calah ini cuma mimpi , gak mungkin jadi nyata\u201d. kata2 beracun ini akan merusak harga diri anda yang anda bangun perlahan-lahan.<br \/>\nInilah yang bisa kalian terapkan untuk menjadikan harga diri kalian makin meningkat. Jaga harga diri kalian dan tingkatkanlah dengan cara mempraktekkan delapan resep yang bapak coba sampaikan tadi.<br \/>\nSemoga uraian ini bermanfaat bagi kita semua dan bagi kalian semua sebagai anak-anak bapak. Mohon maaf jika ada kata-kata yang kurang berkenan.<br \/>\nWassalamu \u2018alaikum wr.wb.<br \/><br \/>\nTema nya apa?",
+                        "created": "2016-11-01T22:20:48+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2016-11-02T04:46:40+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Assalamu Alaikum wr. wb.\n\tSegala puji bagi Allah yang menguasai seluruh alam. Sholawat dan salam semoga tetap dicurahkan kepada penghulu semua utusan, penghulu dan pimpinan kita, Nabi Muhammad Saw. , kepada keluarga, sahabat dan umatnya hingga akhir jaman. Ibu dan bapak guru yang kami hormati. Dan seluruh anak-anak <em>ku<\/em> siswa SMK Negeri 8 Kota Tangerang yang bapak sayangi. Kalian mungkin memahami dan mengerti betapa pentingnya harga diri bagi diri kalian sendiri. Setiap orang tentu sangat menjaga harga diri nya dan tidak rela <em>siapa<\/em> pun meremehkan dan merendahkan dirinya.\n\tKalian mungkin sebelumnya sudah mengetehui bahwa harga diri adalah penilaian individu terhadap kehormatan diri, melalui sikap terhadap dirinya sendiri yang sifatnya implisit dan tidak diverbalisasikan dan menggambarkan sejauh mana individu tersebut menilai dirinya sebagai orang yang memiliki kemampuan, keberartian, berharga, dan kompeten. Begitu sangat pentingnya harga diri untuk selalu ditingkatkan untuk dapat mencapai hidup yang memiliki derajat dan martabat yang tinggi. Berawal dari diri sendirilah harga diri akan tumbuh.\n\u261e\tMulai dari diri sendiri\n\u261e\tMulai dari hal kecil\n\u261e\tMulai dari saat ini\nAda beberapa langkah untuk menumbuhkan dan meningkatkan harga diri dan ini bisa kalian terapkan mulai dari saat ini :\n\uf0c4\tPertama, Belajar untuk selalu menghargai diri sendiri. Walaupun terkadang orang lain memandang diri anda rendah tapi tetapkan keyakinan anda bahwa andalah yang berhak atas hidup anda dan anda yang paling mengerti diri anda.\n\uf0c4\tKedua, Belajar untuk menyukai diri sendiri. Menyukai diri sendiri berarti menerima diri apa adanya. dan belajar untuk mengembangkan potensi yang dimiliki. Lihat sisi positif dari diri anda, adn yang paling penting adalah bersyukur untuk segala yang kita miliki.\n\uf0c4\tKetiga, Miliki gambar diri yang positif. hal ini berhubungan dengan penerimaan diri. gambar diri adalah cara pandang anda terhadap diri anda. yakinkan diri anda kalau anda layak untuk berhasil, anda pantas untuk dicintai dan dihargai, anda adalah pribadi yang special.\n\uf0c4\tKeempat, Lakukan apa yang anda anggap penting. Walaupun anda merasa anda tidak mampu karena anda malu dan takut, paksakan diri anda untuk melalui proses itu. percayalah bahwa ternyata diri anda mampu untuk melakukannya.\n\uf0c4\tKelima, Belajar untuk hidup mandiri, tidak tergantung dengan orang lain, sehingga anda tidak rentan terhadap penolakan. Keenam, Jangan menghubungkan harga diri anda dengan kegagalan atau kesalahan yang anda lakukan.\n\uf0c4\tKetujuh, Miliki konsep diri yang benar tentang harga diri, bahwa harga diri berasal dari dalam bukan dari luar diri kita. bukan terletak pada materi yang kita peroleh, kesuksesan yang kita peroleh karena materi dan kesuksesan hanya menumbuhkan harga diri semu dan tidak dapat bertahan selamanya.\n\uf0c4\tKedelapan, Hargai diri sendiri, jangan tolak pujian sederhana yang dikatakan orang mengenai kita. terima itu dan berpikir lebih maju lagi. hati-hati bila ada kata-kata dibeak anda seperti \u201caku memang <em>bodoh<\/em>\u201d, \u201d aku memang gak bisa\u201d, \u201calah ini cuma mimpi , gak mungkin jadi nyata\u201d. kata2 beracun ini akan merusak harga diri anda yang anda bangun perlahan-lahan.\nInilah yang bisa kalian terapkan untuk menjadikan harga diri kalian makin meningkat. Jaga harga diri kalian dan tingkatkanlah dengan cara mempraktekkan delapan resep yang bapak coba sampaikan tadi.\nSemoga uraian ini bermanfaat bagi kita semua dan bagi kalian semua sebagai anak-anak bapak. Mohon maaf jika ada kata-kata yang kurang berkenan.\nWassalamu \u2018alaikum wr.wb.\nTema nya apa?",
+                        "snippet_content": "Ibu dan bapak guru yang kami hormati. Dan seluruh anak-anak <em>ku<\/em> siswa SMK Negeri 8 Kota Tangerang yang bapak sayangi. Kalian"
+                    },
+                    "responses": [
+                        {
+                            "id": 9703209,
+                            "user_id": 3657449,
+                            "task_id": 8173891,
+                            "points": 5,
+                            "created": "2016-11-02T04:46:40+07:00",
+                            "content": "Kalau menurutku itu tentang harga diri",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 6670596,
+                                        "user_id": 4858579,
+                                        "content": "menurutku temanya",
+                                        "created": "2017-04-08T14:36:24+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 6670644,
+                                        "user_id": 4858579,
+                                        "content": "\"menghargai diri sendiri\"",
+                                        "created": "2017-04-08T14:39:21+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 2
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3657449,
+                                "nick": "Ganisyarihma",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d2d\/24d2864baa248db5684d1c57dd037ad1.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 8378072,
+                        "subject_id": 1,
+                        "user_id": 2217826,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "bantu dong bsk dikumpul <br \/>\namanat\/pesan:<br \/>\nkisahnya:<br \/>\nlatar:<br \/>\ntempat:<br \/>\nwaktu:<br \/>\nsuasana:<br \/><br \/>\ndari cerpen tersebut<br \/><br \/>\nSenandung lagu Sheila On 7 dan Iwan Fals menghiburku malam ini, hampir lima kali lagu itu terus diputar di playlist musikku. Sebab, setiap liriknya tak lepas dari apa yang sekarang menjadi kondisiku.<br \/><br \/>\nKita bertemu dan saling bicara untuk pertama kalinya ialah anugrah terindah dari jalannya waktuku di hidup ini, kamu yang satu kelompok denganku saat pentas perdana di SMA baru kita, walau yang kita pentaskan tak sebaik yang kolompok lain, namun pentas ini menjadi awal ku bisa mengetahui suaramu, senyummu dan pandanganmu.<br \/><br \/>\nTak tahu pada Tuhankah aku harus bersyukur, yang mungkin aku sudah tak diakuinya. Entah kenapa ku merasa terlalu diberi keajaiban indah ini, atas keatheisan yang aku jadikan landasan pikirku. tapi masa bodoh dengan itu, dia begitu baik padaku sehingga ku melupakan siapa diriku.<br \/><br \/><br \/>\nSehingga cermin menyedarkanku, Saat itulah aku merasa Tuhan bukannya memberiku sebuah keajaiban tapi ialah Kutukan. Kutukan dimana aku tersadar bahwa aku tak berhak memiliki ciptaan nya itu, memiliki kisah cinta dengan ciptaanya itu, memiliki rasa dicintai dan mencintai dengan ciptaan nya itu.<br \/><br \/>\nTuhan takkan membiarkanku untuk tersenyum, menimbulkan dendam atas hidup ini yang akan semakin kelam, air mata sudah terlalu kental hingga hanya sebuah senyuman menyeringai. Tapi Tuhan juga adil, dia tetap memberikanku kesempatan melihat senyumnya itu dan memberikan kesempatan mendengar suaranya itu. Ini membuatku reda dari emosiku, tapi aku tau ini menyiksaku.<br \/><br \/><br \/>\nTringgg\u2026 trriingg\u2026 alarmku berbunyi!! ku harus ke sekolah, SMA ku sudah menunggu. Dan dia\u2026 selalu ada untuk kupandang di sana\u2026<br \/>\nHooaaamm wah hapeku mati ini pasti malam tadi kubawa tidur hingga kelupaan charge. yah\u2026 sudahlah.<br \/><br \/><br \/><br \/><br \/><br \/>",
+                        "created": "2016-11-14T18:38:12+07:00",
+                        "responses": 1,
+                        "tickets": 9,
+                        "first_resp": "2016-11-18T17:06:26+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "bantu dong bsk dikumpul \namanat\/pesan:\nkisahnya:\nlatar:\ntempat:\nwaktu:\nsuasana:\ndari cerpen tersebut\nSenandung lagu Sheila On 7 dan Iwan Fals menghiburku malam ini, hampir lima kali lagu itu terus diputar di playlist musikku. Sebab, setiap liriknya tak lepas dari apa yang sekarang menjadi kondisiku.\nKita bertemu dan saling bicara untuk pertama kalinya ialah anugrah terindah dari jalannya waktuku di hidup ini, kamu yang satu kelompok denganku saat pentas perdana di SMA baru kita, walau yang kita pentaskan tak sebaik yang kolompok lain, namun pentas ini menjadi awal <em>ku<\/em> bisa mengetahui suaramu, senyummu dan pandanganmu.\nTak tahu pada Tuhankah aku harus bersyukur, yang mungkin aku sudah tak diakuinya. Entah kenapa <em>ku<\/em> merasa terlalu diberi keajaiban indah ini, atas keatheisan yang aku jadikan landasan pikirku. tapi masa <em>bodoh<\/em> dengan itu, dia begitu baik padaku sehingga <em>ku<\/em> melupakan <em>siapa<\/em> diriku.\nSehingga cermin menyedarkanku, Saat itulah aku merasa Tuhan bukannya memberiku sebuah keajaiban tapi ialah Kutukan. Kutukan dimana aku tersadar bahwa aku tak berhak memiliki ciptaan nya itu, memiliki kisah cinta dengan ciptaanya itu, memiliki rasa dicintai dan mencintai dengan ciptaan nya itu.\nTuhan takkan membiarkanku untuk tersenyum, menimbulkan dendam atas hidup ini yang akan semakin kelam, air mata sudah terlalu kental hingga hanya sebuah senyuman menyeringai. Tapi Tuhan juga adil, dia tetap memberikanku kesempatan melihat senyumnya itu dan memberikan kesempatan mendengar suaranya itu. Ini membuatku reda dari emosiku, tapi aku tau ini menyiksaku.\nTringgg\u2026 trriingg\u2026 alarmku berbunyi!! <em>ku<\/em> harus ke sekolah, SMA <em>ku<\/em> sudah menunggu. Dan dia\u2026 selalu ada untuk kupandang di sana\u2026\nHooaaamm wah hapeku mati ini pasti malam tadi kubawa tidur hingga kelupaan charge. yah\u2026 sudahlah.",
+                        "snippet_content": "indah ini, atas keatheisan yang aku jadikan landasan pikirku. tapi masa <em>bodoh<\/em> dengan itu, dia begitu baik padaku sehingga <em>ku<\/em> melupakan <em>siapa<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 10033477,
+                            "user_id": 3181660,
+                            "task_id": 8378072,
+                            "points": 5,
+                            "created": "2016-11-18T17:06:26+07:00",
+                            "content": "<span>amanat\/pesan: jika sedang patah hati, daripada mendendam atau melakukan hal - hal yang negatif, lebih baik mendengarkan lagu favorit sehingga\u00a0<br \/>kisahnya: alur maju<br \/>latar: kamar anak tersebut<br \/>tempat: kamar anak tersebut<br \/>waktu: malam hari\u00a0<br \/>suasana: sedih dan penuh rindu, galau<br \/><br \/>semoga membantu :)<\/span>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2017-01-12T22:43:55+07:00",
+                                "approver": {
+                                    "id": 2663844,
+                                    "nickname": "Mahaguru",
+                                    "points": 262,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/db6\/c5fb7b6a68ce26ccea00dc12cb60d96f.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/df7\/fe8fb6dfa0d217a5d3fafa2a27e269ba.png"
+                                    },
+                                    "content_approved_count": 717882
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3181660,
+                                "nick": "misteranswer1",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d00\/ce90d96f66c7403efa6116ad56ed5ebc.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 3732074,
+                        "subject_id": 1,
+                        "user_id": 1757158,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 25,
+                            "ptsForResp": 13,
+                            "ptsForBest": 7
+                        },
+                        "content": "Ringkas\/Susunlah teks dibawah ini dengan kata-kata sendiri..!!<br \/><br \/>\nKisah Si Kancil Yang Pandai<br \/>\ncerita anak indonesia si kancil yang cerdik<br \/>\ncerita anak indonesia si kancil yang cerdik<br \/>\nKancil baru saja lepas dari bahaya. Para buaya yang akan memakannya telah ditipu mentah-mentah. Kancil berjalan dengan santai.<br \/><br \/>\nPerutnya mulia terasa lapar lagi karena seharian berlari menyelamatkan diri dari buaya. Kancil berjalan-jalan ditepi hutan. Tapi huup ! tiba-tiba ada Macan datang menghadangnya.<br \/><br \/>\n\u2018\u2019Cil ! Aku sudah tiga hari tidak makan. Untung ada kau sekarang. Jadi aku bisa makan daging..!\u2019\u2019 kata Macan.<br \/><br \/>\n\u2018\u2019Hah ? kau mau memakanku? Siapa takut ? boleh saja !\u2019\u2019 kata Kancil tanpa rasa takut.<br \/><br \/>\n\u2018\u2019Betulkah Cil ? kau mau aku makan? Tanya Macan dengan gembira.<br \/><br \/>\n\u2018\u2019Aku maklum, aku kan hewan kecil. Mau menolak pun bagaimana ! aku pasrah saja. Tapi\u2026\u2026\u201d\u201d<br \/><br \/>\n\u2018\u2019Kenapa Cil..?<br \/><br \/>\n\u2018\u2019Sebelum aku mati, bolehkah aku meminta sesuatu?\u2019\u2019<br \/><br \/>\n\u2018\u2019Apa itu Cil?\u2019\u2019<br \/><br \/>\n\u2018\u2019Biarkan aku mencari makanan sebentar saja di sekitar sini.\u2019\u2019<br \/><br \/>\n\u2018\u2019Baiklah Cil, permintaan terakhirmu itu akan aku kabulkan.\u2019\u2019<br \/><br \/>\n\u2018\u2019Terima kasih Macan. Kau memang baik sekali. Tapi sekarang tolong pejamkan matamu sebentar.\u2019\u2019<br \/><br \/>\n\u2018\u2019Loh ko pakai pajam mata segala Cil?\u2019\u2019<br \/><br \/>\n\u2018\u2019Iya Can, tutup mata seperti main petak umpet. Toh aku tidak bisa lari terlalu jauh darimu.\u2019\u2019<br \/><br \/>\n\u2018\u2019Baiklah Cil. Akan aku pejamkan mataku.\u2019\u2019<br \/><br \/>\nKancil langsung berlari dengan sekuat tenaganya.<br \/><br \/>\n\u2018\u2019Sudah Cil?\u2019\u2019 Macan sudah tidak sabar ingin memakan Kancil.<br \/><br \/>\n\u2018\u2019Beluuuuum\u2026!\u2019\u2019<br \/><br \/>\n\u2018\u2019Sudah Cil?\u2019\u2019 Tanya Macan sekali lagi.<br \/><br \/>\n\u2018\u2019Belluuuuuuuuuum!\u2019\u2019 jawab Kancil dari kejauhan.<br \/><br \/>\n\u2018\u2019Sudah Cil?\u2019\u2019<br \/><br \/>\nKancil tidak menjawab lagi. Macan segera membuka matanya.<br \/><br \/>\n\u2018\u2019Wauuuuuw\u2026! Mana si Kancil.? Kurang ajar, dia menipuku!\u2019\u2019<br \/><br \/>\nMacan langsung mencari Kancil kesana kemari. Tapi sudah sekian lama Macan tidak bisa menemukan Kancil.<br \/><br \/>\n\u2018\u2019Bodohnya aku\u2026!geram si Macan.<br \/><br \/>\n\u2018\u2019Seharusnya aku tidak usah menuruti permintaan si Kancil. Coba saja tadi Kancil langsung aku makan.\u2019\u2019 Geram si Kancil.<br \/><br \/>\nDengan marah si Macan terus mencari si Kancil.<br \/><br \/>\n\u2018\u2019Kemana hewan kecil yang licik itu.!<br \/><br \/>\n\u2018\u2019Awas kau Cil !\u2019\u2019<br \/><br \/>\nkancil melihat ada ular besar yang sedang tidur<br \/>\nkancil melihat ada ular besar yang sedang tidur<br \/>\nSementara itu Kancil terus berjalan dan mencari persembunyian yang aman. Kancil menoleh kebelakang. Ia takut jika Macan sudah datang menyusulnya.<br \/><br \/>\n\u2018\u2019Mudah-mudahan Macan sakit perut, sakit gigi, tertusuk duri. Sehingga ia tidak bisa mengejarku.\u2019\u2019<br \/><br \/>\nOtaknya terus berputar dengan keras. Kancil terus berpikir bagaimana caranya ia meloloskan diri dari kejaran Macan.<br \/><br \/>\nKarena Kancil sering melihat kebelakang. Ia tidak melihat ada seekor ular didepannya.<br \/><br \/>\n\u2018\u2019Huup! Aduh, hamper saja aku menabrak ular yang sedang tidur ini.\u2019\u2019 Kata Kancil<br \/><br \/>\nKancil istirahat tak jauh dari si Ular yang sedang tidur. Dan terus mencari akal.<br \/><br \/>\nBeberapa saat kemudian \u2026\u2026.<br \/><br \/>\n\u2018\u2019Nah ! ini dia..!! kata Macan dengan gembira setelah menemukan si Kancil.<br \/><br \/>\n\u201cSssst !\u2019\u2019 jangan bicara keras-keras Can.\u2019\u2019<br \/><br \/>\n\u2018\u2019Mau apa lagi ? Mau menipuku ?\u2019\u2019<br \/><br \/>\nmacan dapat menemukan persembunyian si kancil<br \/>\nmacan dapat menemukan persembunyian si kancil<br \/>\n\u201cTidaaaaaak..! Tenang sajalah dulu !\u201d kata Kancil dengan santai.<br \/><br \/>\n\u201cAku sudah sangat kelaparan Cil ! Sudahlah Kancil, kau tidak bisa menipuku lagi.<br \/><br \/>\n\u2018\u2019Sabar dulu Can. Aku sedng duduk disini sebenarnya sedang bertugas. Aku diperintahkan Nabi Sulaiman .\u2019\u2019<br \/><br \/>\n\u2018\u2019Jangan ngaco kau ! Apa tugasmu?\u2019\u2019<br \/><br \/>\n\u2018\u2019Mari ikut aku.\u2019\u2019 Kata Kancil mengajak Macan mendekati si Ular yang sedang tidur.<br \/><br \/>\nSepintas ular itu di seperti sabuk yang digulung rapi.<br \/><br \/>\n\u2018\u2019Cil ini kan Ular?\u2019\u2019<br \/><br \/>\n\u201cWah.. bodohnya kau. Ini bukan Ular hidup. Ini adalah sabuknya Baginda Nabi Sulaiman, penguasa para Binatang. Siapapun yang memakai sabuk ini maka dia akan ditakuti seluruh binatang di dunia ini.\u2019\u2019<br \/><br \/>\nmacan dililit ular besar<br \/>\nmacan dililit ular besar<br \/>\n\u201cBoleh ku coba Cil?\u2019\u2019<br \/><br \/>\n\u201cJangan\u2026!\u201d<br \/><br \/>\n\u2018\u2019Baiklah Cil. Jika tidak boleh kau akan langsung kumakan.\u2019\u2019<br \/><br \/>\n\u201cBa\u2026baiklah kalau begitu.\u201d<br \/><br \/>\nMacan segera menjulurkan lidah dan lehernya. Ia bermaksud mengelus-elus sabuk itu sebelum memakannya.<br \/><br \/>\n\u201cHmm\u2026halus juga sabuk ini\u2026\u201dkata Macan sambil menjilati benda yang dianggapnya sabuk itu.<br \/><br \/>\nTapi\u2026..<br \/><br \/>\n\u201cMacan kurang ajar !\u201d tiba-tiba si Ular itu terbangun dari tidurnya. \u201cBeraninya kau mengganggu waktu istirahatku.\u201d<br \/><br \/>\nSecepat kilat Ular besar itu membelit tubuh Macan dan langsung menggiginya.<br \/><br \/>\nMacan pun membalas menggigit perut Ular dan mencakar tubuh Ular itu. Keduanya bertarung dalam waktu yang lama.<br \/><br \/>\n\u201cHahaa\u2026!\u2019\u2019Kancil tertawa.\u2019\u2019 Aku tidak tau siapa yang akan menang dalam pertarungan ini. Lebih bik aku segera pergi dari tempat ini. Selamat tinggal macan yang bodoh.\u201d",
+                        "created": "2015-10-02T11:16:08+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2015-10-02T11:38:02+07:00",
+                        "the_best_resp_id": "4511935",
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Ringkas\/Susunlah teks dibawah ini dengan kata-kata sendiri..!!\nKisah Si Kancil Yang Pandai\ncerita anak indonesia si kancil yang cerdik\ncerita anak indonesia si kancil yang cerdik\nKancil baru saja lepas dari bahaya. Para buaya yang akan memakannya telah ditipu mentah-mentah. Kancil berjalan dengan santai.\nPerutnya mulia terasa lapar lagi karena seharian berlari menyelamatkan diri dari buaya. Kancil berjalan-jalan ditepi hutan. Tapi huup ! tiba-tiba ada Macan datang menghadangnya.\n\u2018\u2019Cil ! Aku sudah tiga hari tidak makan. Untung ada kau sekarang. Jadi aku bisa makan daging..!\u2019\u2019 kata Macan.\n\u2018\u2019Hah ? kau mau memakanku? <em>Siapa<\/em> takut ? boleh saja !\u2019\u2019 kata Kancil tanpa rasa takut.\n\u2018\u2019Betulkah Cil ? kau mau aku makan? Tanya Macan dengan gembira.\n\u2018\u2019Aku maklum, aku kan hewan kecil. Mau menolak pun bagaimana ! aku pasrah saja. Tapi\u2026\u2026\u201d\u201d\n\u2018\u2019Kenapa Cil..?\n\u2018\u2019Sebelum aku mati, bolehkah aku meminta sesuatu?\u2019\u2019\n\u2018\u2019Apa itu Cil?\u2019\u2019\n\u2018\u2019Biarkan aku mencari makanan sebentar saja di sekitar sini.\u2019\u2019\n\u2018\u2019Baiklah Cil, permintaan terakhirmu itu akan aku kabulkan.\u2019\u2019\n\u2018\u2019Terima kasih Macan. Kau memang baik sekali. Tapi sekarang tolong pejamkan matamu sebentar.\u2019\u2019\n\u2018\u2019Loh ko pakai pajam mata segala Cil?\u2019\u2019\n\u2018\u2019Iya Can, tutup mata seperti main petak umpet. Toh aku tidak bisa lari terlalu jauh darimu.\u2019\u2019\n\u2018\u2019Baiklah Cil. Akan aku pejamkan mataku.\u2019\u2019\nKancil langsung berlari dengan sekuat tenaganya.\n\u2018\u2019Sudah Cil?\u2019\u2019 Macan sudah tidak sabar ingin memakan Kancil.\n\u2018\u2019Beluuuuum\u2026!\u2019\u2019\n\u2018\u2019Sudah Cil?\u2019\u2019 Tanya Macan sekali lagi.\n\u2018\u2019Belluuuuuuuuuum!\u2019\u2019 jawab Kancil dari kejauhan.\n\u2018\u2019Sudah Cil?\u2019\u2019\nKancil tidak menjawab lagi. Macan segera membuka matanya.\n\u2018\u2019Wauuuuuw\u2026! Mana si Kancil.? Kurang ajar, dia menipuku!\u2019\u2019\nMacan langsung mencari Kancil kesana kemari. Tapi sudah sekian lama Macan tidak bisa menemukan Kancil.\n\u2018\u2019Bodohnya aku\u2026!geram si Macan.\n\u2018\u2019Seharusnya aku tidak usah menuruti permintaan si Kancil. Coba saja tadi Kancil langsung aku makan.\u2019\u2019 Geram si Kancil.\nDengan marah si Macan terus mencari si Kancil.\n\u2018\u2019Kemana hewan kecil yang licik itu.!\n\u2018\u2019Awas kau Cil !\u2019\u2019\nkancil melihat ada ular besar yang sedang tidur\nkancil melihat ada ular besar yang sedang tidur\nSementara itu Kancil terus berjalan dan mencari persembunyian yang aman. Kancil menoleh kebelakang. Ia takut jika Macan sudah datang menyusulnya.\n\u2018\u2019Mudah-mudahan Macan sakit perut, sakit gigi, tertusuk duri. Sehingga ia tidak bisa mengejarku.\u2019\u2019\nOtaknya terus berputar dengan keras. Kancil terus berpikir bagaimana caranya ia meloloskan diri dari kejaran Macan.\nKarena Kancil sering melihat kebelakang. Ia tidak melihat ada seekor ular didepannya.\n\u2018\u2019Huup! Aduh, hamper saja aku menabrak ular yang sedang tidur ini.\u2019\u2019 Kata Kancil\nKancil istirahat tak jauh dari si Ular yang sedang tidur. Dan terus mencari akal.\nBeberapa saat kemudian \u2026\u2026.\n\u2018\u2019Nah ! ini dia..!! kata Macan dengan gembira setelah menemukan si Kancil.\n\u201cSssst !\u2019\u2019 jangan bicara keras-keras Can.\u2019\u2019\n\u2018\u2019Mau apa lagi ? Mau menipuku ?\u2019\u2019\nmacan dapat menemukan persembunyian si kancil\nmacan dapat menemukan persembunyian si kancil\n\u201cTidaaaaaak..! Tenang sajalah dulu !\u201d kata Kancil dengan santai.\n\u201cAku sudah sangat kelaparan Cil ! Sudahlah Kancil, kau tidak bisa menipuku lagi.\n\u2018\u2019Sabar dulu Can. Aku sedng duduk disini sebenarnya sedang bertugas. Aku diperintahkan Nabi Sulaiman .\u2019\u2019\n\u2018\u2019Jangan ngaco kau ! Apa tugasmu?\u2019\u2019\n\u2018\u2019Mari ikut aku.\u2019\u2019 Kata Kancil mengajak Macan mendekati si Ular yang sedang tidur.\nSepintas ular itu di seperti sabuk yang digulung rapi.\n\u2018\u2019Cil ini kan Ular?\u2019\u2019\n\u201cWah.. bodohnya kau. Ini bukan Ular hidup. Ini adalah sabuknya Baginda Nabi Sulaiman, penguasa para Binatang. Siapapun yang memakai sabuk ini maka dia akan ditakuti seluruh binatang di dunia ini.\u2019\u2019\nmacan dililit ular besar\nmacan dililit ular besar\n\u201cBoleh <em>ku<\/em> coba Cil?\u2019\u2019\n\u201cJangan\u2026!\u201d\n\u2018\u2019Baiklah Cil. Jika tidak boleh kau akan langsung kumakan.\u2019\u2019\n\u201cBa\u2026baiklah kalau begitu.\u201d\nMacan segera menjulurkan lidah dan lehernya. Ia bermaksud mengelus-elus sabuk itu sebelum memakannya.\n\u201cHmm\u2026halus juga sabuk ini\u2026\u201dkata Macan sambil menjilati benda yang dianggapnya sabuk itu.\nTapi\u2026..\n\u201cMacan kurang ajar !\u201d tiba-tiba si Ular itu terbangun dari tidurnya. \u201cBeraninya kau mengganggu waktu istirahatku.\u201d\nSecepat kilat Ular besar itu membelit tubuh Macan dan langsung menggiginya.\nMacan pun membalas menggigit perut Ular dan mencakar tubuh Ular itu. Keduanya bertarung dalam waktu yang lama.\n\u201cHahaa\u2026!\u2019\u2019Kancil tertawa.\u2019\u2019 Aku tidak tau <em>siapa<\/em> yang akan menang dalam pertarungan ini. Lebih bik aku segera pergi dari tempat ini. Selamat tinggal macan yang <em>bodoh.<\/em>\u201d",
+                        "snippet_content": "tidak tau <em>siapa<\/em> yang akan menang dalam pertarungan ini. Lebih bik aku segera pergi dari tempat ini. Selamat tinggal macan yang <em>bodoh.<\/em>\u201d"
+                    },
+                    "responses": [
+                        {
+                            "id": 4511935,
+                            "user_id": 1908921,
+                            "task_id": 3732074,
+                            "points": 13,
+                            "created": "2015-10-02T11:38:02+07:00",
+                            "content": "kisah kancil yang cerdik<br \/><br \/>Setelah bebas dari para buaya yang akan memangsanya , kini kancil harus berhadapan dengan macan yang juga ingin memakannya. Kancil yang cerdik tidak mau bila siang ini harus menjadi makan siangnya macan, ia berfikir mencari ide untuk lari dari macan. Kancil meminta satu permintaan terakhir sebelum macan memakannya yaitu mencari makan karena sudah seharian kancil belum makan. Macan menyetujuinya. Kancil meminta macan menutup mata, awalnya macan menolak namun akhirnya setuju. Kemudian ,\u00a0kancil lari meninggalkan macan dan sampai ia melihat ular yang tertidur pulas. Sedangkan macan yang mulai menyadari jika kancil sudah tidak ada , ia mulai mencari kancil. Dengan larinya yang cepat ia mudah sekali menemukan kancil . Macan marah kepada kancil , ia siap memakannya. Saat akan memakan kancil , kancil berkata bahwa ia sedang menjaga sabuk yang diperintahkan Nabi Sulaiman. Kancil berkata \" siapa yang memakai sabuk ini akan ditakuti dikalangan binatang\" . Macan\u00a0pun menawarkan ia tidak akan memakan kancil asalkan kancil mau tugas itu ke macan. Kancil yang cerdik awalnnya tidak setuju namun karena macan memaksa , ia dengan senang hati memberikannya\u00a0. Sedangkan macan mulai menjilati tubuh ular yang tertidur pulas sontak ular terbangun langsung \u00a0melilit tubuh macan dengan kencang dan macan tak mau kalah ia mulai mencakar menggigit ular. Kancil yang melihat itu langsung meninggalkan mereka dan tidak memperdulikan siapa yang akan menang atau kalah.",
+                            "mark": 4,
+                            "marks_count": 6,
+                            "thanks": 9,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2015-10-22T09:23:47+07:00",
+                                "approver": {
+                                    "id": 1926235,
+                                    "nickname": "ataSHKJ",
+                                    "points": 126709,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/d6c\/1aa646f58e8bdc8ae26fa46c6d838217.jpg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/d9d\/ce2993d6dbe54da3f6a3221a502320ff.jpg"
+                                    },
+                                    "content_approved_count": 5187
+                                }
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 2817794,
+                                        "user_id": 1757158,
+                                        "content": "Tolong paragraf-paragrafnya  N  Struktur teksnya klo bisa",
+                                        "created": "2015-10-02T12:39:19+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1908921,
+                                "nick": "FitriKhusQ",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d46\/2c74c9951d28a621179b066c4d6caf20.png"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 9608610,
+                        "subject_id": 1,
+                        "user_id": 1610787,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 50,
+                            "ptsForResp": 25,
+                            "ptsForBest": 13
+                        },
+                        "content": "1. susunlah naskah sebuah naskah drama berdasarkan cerpen dibawah ini sesuai dengan kaidah penulisan naskah drama!!!<br \/><br \/>                  Benci Geografi<br \/><br \/>Tak ada yang berbeda, beberapa minggu berjalan seperti biasanya, masih malas saja dengan pelajaran ini. Padahal sebentar lagi sudah akan ada mid semester, aku belum belajar sama sekali seperti mereka.<br \/>\"Sin, bagaimana persiapan untuk mid semester ini, bagus?\" tanya Hani kepada ku<br \/>\"Biasa saja, kamu kan tahu bagaimana aku\" jawabku singkat<br \/><br \/>\"Iya aku tahu persis, meski terlihat tidak pernah belajar namun kamu selalu bisa mendapatkan nilai tertinggi di kelas. Bahkan untuk pelajaran yang kamu benci sekalipun...\" ucapnya<br \/><br \/>\"Eits....tidak ada satu pelajaran pun yang aku benci, enak saja!\" ucap ku memprotes perkataannya.<br \/>\"Bagaimana dengan geografi, suka?\" Hani mulai menohok ke persoalan sebenarnya.<br \/>\"Iyaa si....tapi itu bukan benci Han, tapi kurang mood aja\" ucapku membela diri.<br \/><br \/>Saat itu aku tahu persisi bahwa Hani sahabatku itu akan memberikan ceramah gratis kepadaku. Aku pun sudah siap-siap menebalkan daun telingaku untuk menerima dan mendengarkan berbagai nasehatnya. Aku juga terkadang heran, meski otaknya pas-pasan namun dalam hal wawasan Hani seperti orang dewasa, bahkan seperti ayahku. Ia benar-benar tahu mana yang baik dan mana yang buruk, bahkan sering kali membuktikan bahwa ucapannya benar. Tapi kali ini ceramah Hani sudah terlalu panjang, sudah hampir 1 jam tapi belum ada tanda mau selesai, akhirnya aku pun punya ide.<br \/><br \/>Dia tengah asyik menceramahi aku tentang bagaimana seharusnya aku menyiapkan diri untuk ulangan mid semester. Ia mengatakan bahwa meski aku selalu juara namun bukan mustahil aku bisa dikalahkan oleh dia yang rajin belajar. Aku tahu, aku paham tapi saat itu entah kenapa aku sedang tidak ingin dia mengomel terus sampai akhirnya terpaksa aku mengalihkan pembicaraan itu.<br \/><br \/>\"Eh...ngomong-ngomong bagaimana dengan puisi yang kamu buat, sudah selesai, lihat dong?\" tanyaku mengalihkan pembicaraan. Baca juga cerita legenda asal mula bukit catu<br \/><br \/>\"Emm....ya, sudah si tapi masih acak-acakan, belum di tulis ulang\" jawabnya serius, \"tapi buat apa kamu lihat, kan gak ada gunanya kalau dilihat tapi tak di baca\" lanjutnya mengkritik bahasa yang aku gunakan.<br \/>\"Ya...maksudku di baca kalee....\" sahut ku sambil menjambak rambutnya, \"aku punya satu puisi yang aku buat kemarin, di buat sekali jadi tapi bagus kok\" lanjutku.<br \/>\"Apa....kamu buat puisi, tidak salah, memang kamu bisa?\" jawabnya meledek<br \/><br \/>Sedikit kesal aku di buatnya, ya memang sih untuk urusan karya sastra aku kurang begitu peka, kurang begitu peka tapi bukan bodoh lho... Wajar saja jika sahabatku yang satu ini langsung sewot ketika aku bilang bahwa aku membuat puisi. Tanpa bertanya lagi apa dia mau membaca atau tidak, aku langsung menyodorkan puisi pelajaran yang aku buat kemarin.<br \/><br \/>Belajar Geografi sangat sulit<br \/>Materinya sesolid batuan beku<br \/>Membuat semua pusing<br \/>Seperti otak terkena gempa tektonik<br \/>Perasaan meluap seperti erupsi eksplosif<br \/>Meletus-letus tak beraturan<br \/>Menghasilkan seisme di otak<br \/><br \/>Belajar Geografi sangat sulit<br \/>Serasa seperti gunung api maar<br \/>Bahan ulangan sangat banyak<br \/>Pikiran menjadi sedalam horizon R<br \/><br \/><br \/>30 halaman sangatlah banyak<br \/>Membuat otak menjadi lempung<br \/>Geografi seperti tanah pasir, sulit ditanami<br \/>Ada satu permintaan saya<br \/>Mohon bahan ulangan dikurangi<br \/>Dan puisi ini jangan dipajang<br \/><br \/>\"Haa.aaaa.aaa.....\" Ia berteriak begitu keras, ia benar-benar terbahak-bahak sambil memegang perutnya. Tahu, apa yang ia katakan saat itu? Ia memuji ku, ini adalah kali pertama ia memuji diriku, benar-benar kali pertama selama ia menjadi sahabatku. Kadang aku juga heran kenapa ia sama sekali tak mau memujiku, padahal jelas sekali aku layak untuk itu.<br \/><br \/>\"Puisi mu benar-benar bagus, bagus sekali\" ucapnya sembari masih memegang perutnya. \"Itu adalah untaian kata yang lumayan rumit, maaf jika aku harus tertawa, bukan karena puisi mu yang lucu namun aku benar-benar heran kamu bisa segitunya sama mata pelajaran yang satu ini, kenapa sih?\"<br \/><br \/>Tolong dijawab secepatnya ya bsok dibawa makasihh :)",
+                        "created": "2017-02-27T16:58:04+07:00",
+                        "responses": 1,
+                        "tickets": 15,
+                        "first_resp": "2017-06-26T11:11:57+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "1. susunlah naskah sebuah naskah drama berdasarkan cerpen dibawah ini sesuai dengan kaidah penulisan naskah drama!!!                  Benci GeografiTak ada yang berbeda, beberapa minggu berjalan seperti biasanya, masih malas saja dengan pelajaran ini. Padahal sebentar lagi sudah akan ada mid semester, aku belum belajar sama sekali seperti mereka.\"Sin, bagaimana persiapan untuk mid semester ini, bagus?\" tanya Hani kepada <em>ku<\/em>\"Biasa saja, kamu kan tahu bagaimana aku\" jawabku singkat\"Iya aku tahu persis, meski terlihat tidak pernah belajar namun kamu selalu bisa mendapatkan nilai tertinggi di kelas. Bahkan untuk pelajaran yang kamu benci sekalipun...\" ucapnya\"Eits....tidak ada satu pelajaran pun yang aku benci, enak saja!\" ucap <em>ku<\/em> memprotes perkataannya.\"Bagaimana dengan geografi, suka?\" Hani mulai menohok ke persoalan sebenarnya.\"Iyaa si....tapi itu bukan benci Han, tapi kurang mood aja\" ucapku membela diri.Saat itu aku tahu persisi bahwa Hani sahabatku itu akan memberikan ceramah gratis kepadaku. Aku pun sudah <em>siap<\/em>-<em>siap<\/em> menebalkan daun telingaku untuk menerima dan mendengarkan berbagai nasehatnya. Aku juga terkadang heran, meski otaknya pas-pasan namun dalam hal wawasan Hani seperti orang dewasa, bahkan seperti ayahku. Ia benar-benar tahu mana yang baik dan mana yang buruk, bahkan sering kali membuktikan bahwa ucapannya benar. Tapi kali ini ceramah Hani sudah terlalu panjang, sudah hampir 1 jam tapi belum ada tanda mau selesai, akhirnya aku pun punya ide.Dia tengah asyik menceramahi aku tentang bagaimana seharusnya aku menyiapkan diri untuk ulangan mid semester. Ia mengatakan bahwa meski aku selalu juara namun bukan mustahil aku bisa dikalahkan oleh dia yang rajin belajar. Aku tahu, aku paham tapi saat itu entah kenapa aku sedang tidak ingin dia mengomel terus sampai akhirnya terpaksa aku mengalihkan pembicaraan itu.\"Eh...ngomong-ngomong bagaimana dengan puisi yang kamu buat, sudah selesai, lihat dong?\" tanyaku mengalihkan pembicaraan. Baca juga cerita legenda asal mula bukit catu\"Emm....ya, sudah si tapi masih acak-acakan, belum di tulis ulang\" jawabnya serius, \"tapi buat apa kamu lihat, kan gak ada gunanya kalau dilihat tapi tak di baca\" lanjutnya mengkritik bahasa yang aku gunakan.\"Ya...maksudku di baca kalee....\" sahut <em>ku<\/em> sambil menjambak rambutnya, \"aku punya satu puisi yang aku buat kemarin, di buat sekali jadi tapi bagus kok\" lanjutku.\"Apa....kamu buat puisi, tidak salah, memang kamu bisa?\" jawabnya meledekSedikit kesal aku di buatnya, ya memang sih untuk urusan karya sastra aku kurang begitu peka, kurang begitu peka tapi bukan <em>bodoh<\/em> lho... Wajar saja jika sahabatku yang satu ini langsung sewot ketika aku bilang bahwa aku membuat puisi. Tanpa bertanya lagi apa dia mau membaca atau tidak, aku langsung menyodorkan puisi pelajaran yang aku buat kemarin.Belajar Geografi sangat sulitMaterinya sesolid batuan bekuMembuat semua pusingSeperti otak terkena gempa tektonikPerasaan meluap seperti erupsi eksplosifMeletus-letus tak beraturanMenghasilkan seisme di otakBelajar Geografi sangat sulitSerasa seperti gunung api maarBahan ulangan sangat banyakPikiran menjadi sedalam horizon R30 halaman sangatlah banyakMembuat otak menjadi lempungGeografi seperti tanah pasir, sulit ditanamiAda satu permintaan sayaMohon bahan ulangan dikurangiDan puisi ini jangan dipajang\"Haa.aaaa.aaa.....\" Ia berteriak begitu keras, ia benar-benar terbahak-bahak sambil memegang perutnya. Tahu, apa yang ia katakan saat itu? Ia memuji <em>ku<\/em>, ini adalah kali pertama ia memuji diriku, benar-benar kali pertama selama ia menjadi sahabatku. Kadang aku juga heran kenapa ia sama sekali tak mau memujiku, padahal jelas sekali aku layak untuk itu.\"Puisi mu benar-benar bagus, bagus sekali\" ucapnya sembari masih memegang perutnya. \"Itu adalah untaian kata yang lumayan rumit, maaf jika aku harus tertawa, bukan karena puisi mu yang lucu namun aku benar-benar heran kamu bisa segitunya sama mata pelajaran yang satu ini, kenapa sih?\"Tolong dijawab secepatnya ya bsok dibawa makasihh :)",
+                        "snippet_content": "Hani sahabatku itu akan memberikan ceramah gratis kepadaku. Aku pun sudah <em>siap<\/em>-<em>siap<\/em> menebalkan daun telingaku untuk menerima dan mendengarkan berbagai nasehatnya"
+                    },
+                    "responses": [
+                        {
+                            "id": 13335916,
+                            "user_id": 5167462,
+                            "task_id": 9608610,
+                            "points": 25,
+                            "created": "2017-06-26T11:11:57+07:00",
+                            "content": "itu panjang amat sih cerpennya,  Sebel bacanya",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5167462,
+                                "nick": "febianescalade",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/ddf\/7e1d2e7fa79dff08985172183cb492ae.png"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 9592634,
+                        "subject_id": 1,
+                        "user_id": 1610787,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 35,
+                            "ptsForResp": 18,
+                            "ptsForBest": 9
+                        },
+                        "content": "1. Susunlah sebuah naskah drama berdasarkan cerpen dibawah ini dengan kaidah penulisan naskah drama!<br \/><br \/>2. Beri judul yang sesuai<br \/><br \/>Tak ada yang berbeda, beberapa minggu berjalan seperti biasanya, masih malas saja dengan pelajaran ini. Padahal sebentar lagi sudah akan ada mid semester, aku belum belajar sama sekali seperti mereka.<br \/>\"Sin, bagaimana persiapan untuk mid semester ini, bagus?\" tanya Hani kepada ku<br \/>\"Biasa saja, kamu kan tahu bagaimana aku\" jawabku singkat<br \/><br \/>\"Iya aku tahu persis, meski terlihat tidak pernah belajar namun kamu selalu bisa mendapatkan nilai tertinggi di kelas. Bahkan untuk pelajaran yang kamu benci sekalipun...\" ucapnya<br \/><br \/>\"Eits....tidak ada satu pelajaran pun yang aku benci, enak saja!\" ucap ku memprotes perkataannya.<br \/>\"Bagaimana dengan geografi, suka?\" Hani mulai menohok ke persoalan sebenarnya.<br \/>\"Iyaa si....tapi itu bukan benci Han, tapi kurang mood aja\" ucapku membela diri.<br \/><br \/>Saat itu aku tahu persisi bahwa Hani sahabatku itu akan memberikan ceramah gratis kepadaku. Aku pun sudah siap-siap menebalkan daun telingaku untuk menerima dan mendengarkan berbagai nasehatnya. Aku juga terkadang heran, meski otaknya pas-pasan namun dalam hal wawasan Hani seperti orang dewasa, bahkan seperti ayahku. Ia benar-benar tahu mana yang baik dan mana yang buruk, bahkan sering kali membuktikan bahwa ucapannya benar. Tapi kali ini ceramah Hani sudah terlalu panjang, sudah hampir 1 jam tapi belum ada tanda mau selesai, akhirnya aku pun punya ide.<br \/><br \/>Dia tengah asyik menceramahi aku tentang bagaimana seharusnya aku menyiapkan diri untuk ulangan mid semester. Ia mengatakan bahwa meski aku selalu juara namun bukan mustahil aku bisa dikalahkan oleh dia yang rajin belajar. Aku tahu, aku paham tapi saat itu entah kenapa aku sedang tidak ingin dia mengomel terus sampai akhirnya terpaksa aku mengalihkan pembicaraan itu.<br \/><br \/>\"Eh...ngomong-ngomong bagaimana dengan puisi yang kamu buat, sudah selesai, lihat dong?\" tanyaku mengalihkan pembicaraan. Baca juga cerita legenda asal mula bukit catu<br \/><br \/>\"Emm....ya, sudah si tapi masih acak-acakan, belum di tulis ulang\" jawabnya serius, \"tapi buat apa kamu lihat, kan gak ada gunanya kalau dilihat tapi tak di baca\" lanjutnya mengkritik bahasa yang aku gunakan.<br \/>\"Ya...maksudku di baca kalee....\" sahut ku sambil menjambak rambutnya, \"aku punya satu puisi yang aku buat kemarin, di buat sekali jadi tapi bagus kok\" lanjutku.<br \/>\"Apa....kamu buat puisi, tidak salah, memang kamu bisa?\" jawabnya meledek<br \/><br \/>Sedikit kesal aku di buatnya, ya memang sih untuk urusan karya sastra aku kurang begitu peka, kurang begitu peka tapi bukan bodoh lho... Wajar saja jika sahabatku yang satu ini langsung sewot ketika aku bilang bahwa aku membuat puisi. Tanpa bertanya lagi apa dia mau membaca atau tidak, aku langsung menyodorkan puisi pelajaran yang aku buat kemarin.<br \/><br \/>Belajar Geografi sangat sulit<br \/>Materinya sesolid batuan beku<br \/>Membuat semua pusing<br \/>Seperti otak terkena gempa tektonik<br \/>Perasaan meluap seperti erupsi eksplosif<br \/>Meletus-letus tak beraturan<br \/>Menghasilkan seisme di otak<br \/><br \/>Belajar Geografi sangat sulit<br \/>Serasa seperti gunung api maar<br \/>Bahan ulangan sangat banyak<br \/>Pikiran menjadi sedalam horizon R<br \/><br \/>30 halaman sangatlah banyak<br \/>Membuat otak menjadi lempung<br \/>Geografi seperti tanah pasir, sulit ditanami<br \/>Ada satu permintaan saya<br \/>Mohon bahan ulangan dikurangi<br \/>Dan puisi ini jangan dipajang<br \/><br \/>\"Haa.aaaa.aaa.....\" Ia berteriak begitu keras, ia benar-benar terbahak-bahak sambil memegang perutnya. Tahu, apa yang ia katakan saat itu? Ia memuji ku, ini adalah kali pertama ia memuji diriku, benar-benar kali pertama selama ia menjadi sahabatku. Kadang aku juga heran kenapa ia sama sekali tak mau memujiku, padahal jelas sekali aku layak untuk itu.<br \/><br \/>\"Puisi mu benar-benar bagus, bagus sekali\" ucapnya sembari masih memegang perutnya. \"Itu adalah untaian kata yang lumayan rumit, maaf jika aku harus tertawa, bukan karena puisi mu yang lucu namun aku benar-benar heran kamu bisa segitunya sama mata pelajaran yang satu ini, kenapa sih?\"<br \/><br \/>jawab secepatnya ya kalo bisa make foto aja jawabannya biar ga cape ketiknya makasih:)",
+                        "created": "2017-02-26T17:06:12+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2017-02-27T21:17:35+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "1. Susunlah sebuah naskah drama berdasarkan cerpen dibawah ini dengan kaidah penulisan naskah drama!2. Beri judul yang sesuaiTak ada yang berbeda, beberapa minggu berjalan seperti biasanya, masih malas saja dengan pelajaran ini. Padahal sebentar lagi sudah akan ada mid semester, aku belum belajar sama sekali seperti mereka.\"Sin, bagaimana persiapan untuk mid semester ini, bagus?\" tanya Hani kepada <em>ku<\/em>\"Biasa saja, kamu kan tahu bagaimana aku\" jawabku singkat\"Iya aku tahu persis, meski terlihat tidak pernah belajar namun kamu selalu bisa mendapatkan nilai tertinggi di kelas. Bahkan untuk pelajaran yang kamu benci sekalipun...\" ucapnya\"Eits....tidak ada satu pelajaran pun yang aku benci, enak saja!\" ucap <em>ku<\/em> memprotes perkataannya.\"Bagaimana dengan geografi, suka?\" Hani mulai menohok ke persoalan sebenarnya.\"Iyaa si....tapi itu bukan benci Han, tapi kurang mood aja\" ucapku membela diri.Saat itu aku tahu persisi bahwa Hani sahabatku itu akan memberikan ceramah gratis kepadaku. Aku pun sudah <em>siap<\/em>-<em>siap<\/em> menebalkan daun telingaku untuk menerima dan mendengarkan berbagai nasehatnya. Aku juga terkadang heran, meski otaknya pas-pasan namun dalam hal wawasan Hani seperti orang dewasa, bahkan seperti ayahku. Ia benar-benar tahu mana yang baik dan mana yang buruk, bahkan sering kali membuktikan bahwa ucapannya benar. Tapi kali ini ceramah Hani sudah terlalu panjang, sudah hampir 1 jam tapi belum ada tanda mau selesai, akhirnya aku pun punya ide.Dia tengah asyik menceramahi aku tentang bagaimana seharusnya aku menyiapkan diri untuk ulangan mid semester. Ia mengatakan bahwa meski aku selalu juara namun bukan mustahil aku bisa dikalahkan oleh dia yang rajin belajar. Aku tahu, aku paham tapi saat itu entah kenapa aku sedang tidak ingin dia mengomel terus sampai akhirnya terpaksa aku mengalihkan pembicaraan itu.\"Eh...ngomong-ngomong bagaimana dengan puisi yang kamu buat, sudah selesai, lihat dong?\" tanyaku mengalihkan pembicaraan. Baca juga cerita legenda asal mula bukit catu\"Emm....ya, sudah si tapi masih acak-acakan, belum di tulis ulang\" jawabnya serius, \"tapi buat apa kamu lihat, kan gak ada gunanya kalau dilihat tapi tak di baca\" lanjutnya mengkritik bahasa yang aku gunakan.\"Ya...maksudku di baca kalee....\" sahut <em>ku<\/em> sambil menjambak rambutnya, \"aku punya satu puisi yang aku buat kemarin, di buat sekali jadi tapi bagus kok\" lanjutku.\"Apa....kamu buat puisi, tidak salah, memang kamu bisa?\" jawabnya meledekSedikit kesal aku di buatnya, ya memang sih untuk urusan karya sastra aku kurang begitu peka, kurang begitu peka tapi bukan <em>bodoh<\/em> lho... Wajar saja jika sahabatku yang satu ini langsung sewot ketika aku bilang bahwa aku membuat puisi. Tanpa bertanya lagi apa dia mau membaca atau tidak, aku langsung menyodorkan puisi pelajaran yang aku buat kemarin.Belajar Geografi sangat sulitMaterinya sesolid batuan bekuMembuat semua pusingSeperti otak terkena gempa tektonikPerasaan meluap seperti erupsi eksplosifMeletus-letus tak beraturanMenghasilkan seisme di otakBelajar Geografi sangat sulitSerasa seperti gunung api maarBahan ulangan sangat banyakPikiran menjadi sedalam horizon R30 halaman sangatlah banyakMembuat otak menjadi lempungGeografi seperti tanah pasir, sulit ditanamiAda satu permintaan sayaMohon bahan ulangan dikurangiDan puisi ini jangan dipajang\"Haa.aaaa.aaa.....\" Ia berteriak begitu keras, ia benar-benar terbahak-bahak sambil memegang perutnya. Tahu, apa yang ia katakan saat itu? Ia memuji <em>ku<\/em>, ini adalah kali pertama ia memuji diriku, benar-benar kali pertama selama ia menjadi sahabatku. Kadang aku juga heran kenapa ia sama sekali tak mau memujiku, padahal jelas sekali aku layak untuk itu.\"Puisi mu benar-benar bagus, bagus sekali\" ucapnya sembari masih memegang perutnya. \"Itu adalah untaian kata yang lumayan rumit, maaf jika aku harus tertawa, bukan karena puisi mu yang lucu namun aku benar-benar heran kamu bisa segitunya sama mata pelajaran yang satu ini, kenapa sih?\"jawab secepatnya ya kalo bisa make foto aja jawabannya biar ga cape ketiknya makasih:)",
+                        "snippet_content": "Hani sahabatku itu akan memberikan ceramah gratis kepadaku. Aku pun sudah <em>siap<\/em>-<em>siap<\/em> menebalkan daun telingaku untuk menerima dan mendengarkan berbagai nasehatnya"
+                    },
+                    "responses": [
+                        {
+                            "id": 11508801,
+                            "user_id": 4354751,
+                            "task_id": 9592634,
+                            "points": 18,
+                            "created": "2017-02-27T21:17:35+07:00",
+                            "content": "1 lol<br \/>2 cemewek<br \/>3 epriting is okay<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "6",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4354751,
+                                "nick": "adryan77",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d42\/5084a5cd92b2f22cd0d88c880271a801.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 11,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 5077526,
+            "nick": "dhini59",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#000000",
+                "names": [],
+                "count": 0
+            },
+            "ranks_ids": null
+        },
+        {
+            "id": 5075173,
+            "nick": "sherin69",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 15,
+                "comments": 6
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d8a\/c7e83e6678b66ab6d45750fd9e2ec2e8.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d8e\/cbf818688fc3de3d6d653be5c52c29d3.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d8a\/c7e83e6678b66ab6d45750fd9e2ec2e8.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d8e\/cbf818688fc3de3d6d653be5c52c29d3.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4980886,
+            "nick": "ProfNoName",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 275,
+                "comments": 73
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d83\/35988678224233a35a051b6582cb56c9.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d13\/4131ef517244133d33edbda21b7c0528.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d83\/35988678224233a35a051b6582cb56c9.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d13\/4131ef517244133d33edbda21b7c0528.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 3049818,
+            "nick": "jinjiminkookie",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 3050102,
+            "nick": "FKA1",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 6,
+                "comments": 7
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d35\/a4a37bc8cf3cd5d37b4d8f5d1dfad02a.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ddd\/163d27eedeb7fd1438a39c6694e244d5.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d35\/a4a37bc8cf3cd5d37b4d8f5d1dfad02a.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ddd\/163d27eedeb7fd1438a39c6694e244d5.png"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 2998715,
+            "nick": "MaulanaYusuf1999",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 29,
+                "comments": 18
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d97\/e4995290533ad7346e74cfc09f6b9252.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da0\/c3aadcd04b2bb05426707d6b0c44eacf.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d97\/e4995290533ad7346e74cfc09f6b9252.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da0\/c3aadcd04b2bb05426707d6b0c44eacf.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 2771140,
+            "nick": "kas1",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 2406031,
+            "nick": "cheriel1314",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 40,
+                "comments": 22
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d66\/4136f1b618fdd61c3352f68e70c9a195.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de0\/528ef2053178309aa9976e56dcaa0e87.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d66\/4136f1b618fdd61c3352f68e70c9a195.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de0\/528ef2053178309aa9976e56dcaa0e87.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 2735573,
+            "nick": "MansurAj",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 2,
+                "comments": 2
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 772382,
+            "nick": "madebudiardana",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 8,
+                "answers": 38,
+                "comments": 3
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc2\/380c1f2fb7bb3249949a1f1971da16c3.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d18\/06a1ccf5df87889cc5a2b2213dc69f0d.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc2\/380c1f2fb7bb3249949a1f1971da16c3.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d18\/06a1ccf5df87889cc5a2b2213dc69f0d.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 955009,
+            "nick": "ellyafaamanah",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 131,
+                "comments": 20
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da8\/f23a2063223c58a1501b5c8b911b88c0.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dba\/40cbac557b138aec4bdd8abc41a230f6.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da8\/f23a2063223c58a1501b5c8b911b88c0.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dba\/40cbac557b138aec4bdd8abc41a230f6.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 1368838,
+            "nick": "charajuliarta",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 15,
+                "answers": 6,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#000000",
+                "names": [],
+                "count": 0
+            },
+            "ranks_ids": null
+        },
+        {
+            "id": 3351062,
+            "nick": "syarif038",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 17,
+                "answers": 13,
+                "comments": 1
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db0\/1f4b231f51f370a72dc8b7aa8801e9ec.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc1\/fe1ca213e5d53108b89ea3ff01de930c.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db0\/1f4b231f51f370a72dc8b7aa8801e9ec.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc1\/fe1ca213e5d53108b89ea3ff01de930c.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 78095,
+            "nick": "BtgZelo",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 6,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4858579,
+            "nick": "805sahirsair",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 1,
+                "comments": 3
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 3657449,
+            "nick": "Ganisyarihma",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 13,
+                "comments": 2
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d3a\/f8c3cc5318baca1877d1f76133dc59da.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d2d\/24d2864baa248db5684d1c57dd037ad1.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d3a\/f8c3cc5318baca1877d1f76133dc59da.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d2d\/24d2864baa248db5684d1c57dd037ad1.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 2217826,
+            "nick": "aesmnr",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 13,
+                "answers": 4,
+                "comments": 2
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 3181660,
+            "nick": "misteranswer1",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 1033,
+                "comments": 13
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d25\/6ff2338a96e24560b0574487bd631b8c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d00\/ce90d96f66c7403efa6116ad56ed5ebc.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d25\/6ff2338a96e24560b0574487bd631b8c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d00\/ce90d96f66c7403efa6116ad56ed5ebc.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Guru",
+                    "Moderator",
+                    "Si Hebat"
+                ],
+                "count": 3
+            },
+            "ranks_ids": [
+                12,
+                19,
+                6
+            ]
+        },
+        {
+            "id": 1757158,
+            "nick": "manianiokto445",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 14,
+                "answers": 1,
+                "comments": 2
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 1908921,
+            "nick": "FitriKhusQ",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 29,
+                "comments": 1
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d24\/01b2d3fc15e554a3e4e31eab7eea1e65.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d46\/2c74c9951d28a621179b066c4d6caf20.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d24\/01b2d3fc15e554a3e4e31eab7eea1e65.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d46\/2c74c9951d28a621179b066c4d6caf20.png"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 1610787,
+            "nick": "bimboy55",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 20,
+                "answers": 8,
+                "comments": 19
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 5167462,
+            "nick": "febianescalade",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 10,
+                "comments": 15
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df2\/5cbfc800181f12ee87a48c0cb8f5dbbe.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ddf\/7e1d2e7fa79dff08985172183cb492ae.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df2\/5cbfc800181f12ee87a48c0cb8f5dbbe.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ddf\/7e1d2e7fa79dff08985172183cb492ae.png"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4354751,
+            "nick": "adryan77",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 12,
+                "answers": 7,
+                "comments": 10
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d3b\/99538484e70aeb3b1eff2ddb84845e33.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d42\/5084a5cd92b2f22cd0d88c880271a801.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d3b\/99538484e70aeb3b1eff2ddb84845e33.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d42\/5084a5cd92b2f22cd0d88c880271a801.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        }
+    ],
+    "validated": false
+}

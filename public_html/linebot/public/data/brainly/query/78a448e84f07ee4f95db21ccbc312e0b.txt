@@ -1,0 +1,251 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 2532995,
+                        "subject_id": 1,
+                        "user_id": 1391321,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 30,
+                            "ptsForResp": 15,
+                            "ptsForBest": 8
+                        },
+                        "content": "1.Perisai dari Irian Barat berwarna putih, hitam, dan sedikit merah disebut ....<br \/>\nA. Ko-Bem<br \/>\nB. Mamasa<br \/>\nC. Gaib<br \/>\nD. Meander<br \/><br \/>\n2. Pertunjukan musik dengan penyanyi lebih dari 3 orang dan kurang dari 20 orang disebut ...<br \/>\nA. Kuarnet<br \/>\nB. Duo<br \/>\nC. Vocal grup<br \/>\nD. Paduan suara<br \/><br \/>",
+                        "created": "2015-04-22T20:16:47+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2015-04-22T20:24:16+07:00",
+                        "the_best_resp_id": "3237497",
+                        "source": "10",
+                        "client_type": "2",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "1.Perisai dari Irian Barat berwarna putih, hitam, dan <em>sedi<\/em>kit merah disebut ....\nA. <em>Ko<\/em>-Bem\nB. Mamasa\nC. Gaib\nD. Meander\n2. Pertunjukan musik dengan penyanyi lebih dari 3 orang dan kurang dari 20 orang disebut ...\nA. Kuarnet\nB. Duo\nC. Vocal <em>grup<\/em>\nD. Paduan suara",
+                        "snippet_content": "1.Perisai dari Irian Barat berwarna putih, hitam, dan <em>sedi<\/em>kit merah disebut ....\nA. <em>Ko<\/em>-Bem\nB. Mamasa\nC. Gaib\nD. Meander\n2"
+                    },
+                    "responses": [
+                        {
+                            "id": 3237497,
+                            "user_id": 1386753,
+                            "task_id": 2532995,
+                            "points": 15,
+                            "created": "2015-04-22T20:24:16+07:00",
+                            "content": "1 B.....<br \/>2 C.....<br \/>semoga membantu ..................<br \/>",
+                            "mark": 5,
+                            "marks_count": 2,
+                            "thanks": 4,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 2057455,
+                                        "user_id": 1391321,
+                                        "content": "terima kasih :)",
+                                        "created": "2015-04-22T20:25:50+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        },
+                        {
+                            "id": 3237769,
+                            "user_id": 1236517,
+                            "task_id": 2532995,
+                            "points": 15,
+                            "created": "2015-04-22T20:37:16+07:00",
+                            "content": "1. B. mamasa <br \/>2. c. vokal group <br \/><br \/>",
+                            "mark": 1,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1386753,
+                                "nick": "jinjuriken",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d91\/60b9e5eb160c81d576af1b6ff2e82e37.jpg"
+                            },
+                            {
+                                "id": 1236517,
+                                "nick": "yohanasihaloho",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/df5\/ab3fcca8a1c22515afd142fbc9743ab9.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 1,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 1391321,
+            "nick": "caitleendevina",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 46,
+                "comments": 29
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 1386753,
+            "nick": "jinjuriken",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 27,
+                "answers": 31,
+                "comments": 70
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d3e\/e283a48438784e80890bba4185bad902.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d91\/60b9e5eb160c81d576af1b6ff2e82e37.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d3e\/e283a48438784e80890bba4185bad902.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d91\/60b9e5eb160c81d576af1b6ff2e82e37.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 1236517,
+            "nick": "yohanasihaloho",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 19,
+                "answers": 68,
+                "comments": 27
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dbf\/1b8b4ce2fd5abf1e1350bcee292e785b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df5\/ab3fcca8a1c22515afd142fbc9743ab9.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dbf\/1b8b4ce2fd5abf1e1350bcee292e785b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df5\/ab3fcca8a1c22515afd142fbc9743ab9.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        }
+    ],
+    "validated": false
+}

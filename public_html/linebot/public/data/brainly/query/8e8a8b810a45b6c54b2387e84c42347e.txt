@@ -1,0 +1,3019 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 10775047,
+                        "subject_id": 1,
+                        "user_id": 4993068,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Maksud undang teman Apa sih dalam brainly",
+                        "created": "2017-05-24T18:40:31+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2017-05-24T18:42:17+07:00",
+                        "the_best_resp_id": "13073223",
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "<em>Maksud<\/em> undang <em>teman<\/em> <em>Apa<\/em> sih dalam brainly",
+                        "snippet_content": "<em>Maksud<\/em> undang <em>teman<\/em> <em>Apa<\/em> sih dalam brainly"
+                    },
+                    "responses": [
+                        {
+                            "id": 13073223,
+                            "user_id": 5020801,
+                            "task_id": 10775047,
+                            "points": 5,
+                            "created": "2017-05-24T18:42:17+07:00",
+                            "content": "Mengundang seseorang untuk bergabung pada brainly dengan cara mengakses apk tersebut,",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 3,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2017-05-25T10:52:17+07:00",
+                                "approver": {
+                                    "id": 2663844,
+                                    "nickname": "Mahaguru",
+                                    "points": 2237,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/db6\/c5fb7b6a68ce26ccea00dc12cb60d96f.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/df7\/fe8fb6dfa0d217a5d3fafa2a27e269ba.png"
+                                    },
+                                    "content_approved_count": 718253
+                                }
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 7183139,
+                                        "user_id": 4626223,
+                                        "content": "mantab",
+                                        "created": "2017-05-26T13:43:22+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 7183142,
+                                        "user_id": 4626223,
+                                        "content": "hahahaha",
+                                        "created": "2017-05-26T13:43:33+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 2
+                            }
+                        },
+                        {
+                            "id": 13073227,
+                            "user_id": 5050834,
+                            "task_id": 10775047,
+                            "points": 5,
+                            "created": "2017-05-24T18:42:31+07:00",
+                            "content": "mengajak teman untuk bergabung pada aplikasi brainly dengan mendownload aplikasi brainly \u2714",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 3,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5020801,
+                                "nick": "Meatball",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/da4\/83fa3c6896e784c5ec26f7215ee3e503.jpg"
+                            },
+                            {
+                                "id": 5050834,
+                                "nick": "Babangharitsganteng",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d6d\/55061e5182ff2de0b208bf55b30719c7.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10692402,
+                        "subject_id": 4,
+                        "user_id": 5053885,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "apakah maksud tekanan darah orang normal adalah 120\/80 mmHg!",
+                        "created": "2017-05-17T20:45:05+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2017-05-17T20:46:36+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "<em>apa<\/em>kah <em>maksud<\/em> <em>tekanan<\/em> darah orang normal adalah 120\/80 mmHg!",
+                        "snippet_content": "<em>apa<\/em>kah <em>maksud<\/em> <em>tekanan<\/em> darah orang normal adalah 120\/80 mmHg!"
+                    },
+                    "responses": [
+                        {
+                            "id": 12958078,
+                            "user_id": 854637,
+                            "task_id": 10692402,
+                            "points": 5,
+                            "created": "2017-05-17T20:46:36+07:00",
+                            "content": "120 itu tekanan sistolik<br \/>80 itu tekanan diastolik<br \/><br \/>semoga membantu ^_^",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 7106989,
+                                        "user_id": 5053885,
+                                        "content": "makasih",
+                                        "created": "2017-05-17T20:47:01+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        },
+                        {
+                            "id": 12958116,
+                            "user_id": 781309,
+                            "task_id": 10692402,
+                            "points": 5,
+                            "created": "2017-05-17T20:47:26+07:00",
+                            "content": "120 mksud nya adalah sistol yaitu tekanan darah dipompa keluar. sedangkan 80 adalah diastol yaitu tekanan darah mengalir ke dalam jantung<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 7107008,
+                                        "user_id": 5053885,
+                                        "content": "suwun yooo",
+                                        "created": "2017-05-17T20:47:43+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 854637,
+                                "nick": "paul29",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d04\/84c08cc7d28f7494ffdd887a3367b8da.jpg"
+                            },
+                            {
+                                "id": 781309,
+                                "nick": "Ramizers",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/da3\/b1aaceeb207f93e0869a311e51160778.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10930313,
+                        "subject_id": 4,
+                        "user_id": 5150302,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "setelah dilakukan pengukuran tekanan darah terhadap seseorang tenaga medis mengatakn bahwa tekanan arah adalah 110\/90.jelakan maksud hasil pengukuran itu berdasarkan yabg terkait dalam tekanan darah dan kondisinya",
+                        "created": "2017-06-11T12:49:23+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2017-06-11T12:55:52+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "setelah dilakukan pengukuran <em>tekanan<\/em> darah terhadap seseorang tenaga medis mengatakn bahwa <em>tekanan<\/em> <em>ara<\/em>h adalah 110\/90.jelakan <em>maksud<\/em> hasil pengukuran itu berdasarkan yabg terkait dalam <em>tekanan<\/em> darah dan kondisinya",
+                        "snippet_content": "setelah dilakukan pengukuran <em>tekanan<\/em> darah terhadap seseorang tenaga medis mengatakn bahwa <em>tekanan<\/em> <em>ara<\/em>h adalah 110\/90.jelakan <em>maksud<\/em> hasil pengukuran itu berdasarkan"
+                    },
+                    "responses": [
+                        {
+                            "id": 13289619,
+                            "user_id": 4787102,
+                            "task_id": 10930313,
+                            "points": 5,
+                            "created": "2017-06-11T12:55:52+07:00",
+                            "content": "hasil pengukuran tersebut menyatakan tekanan darah yg diukur tersebut 110\/90 artinya darah tersebut merupakan darah rendah yang dimana darah orang dewasa yg normal tersebut berkisar 120\/60. nilai 110 menyatakan bahwa ketika otot jantung berkontraksi yg dikenal dengan sistol. nilai 90 menyatakan bahwa ketika otot jantung berileksasi yg dikenal diastol. kondisi darah tersebut darah rendah.",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 13290688,
+                            "user_id": 3812303,
+                            "task_id": 10930313,
+                            "points": 5,
+                            "created": "2017-06-11T16:17:56+07:00",
+                            "content": "Dalam tensimeter jika nilai atas menunjukkan tekanan sistolenya dan dibawah merupakan tekanan diastolenya. Tekanan atas 110 menyatakan bahwa tekanan sistolenya 110 mmHg sedangkan yang bawah merupakan tekanan diastolenya dengan 90 mmHg.",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 7,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4787102,
+                                "nick": "tri307",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/ddd\/056d4b061b77dd6866dbd3314b028990.jpg"
+                            },
+                            {
+                                "id": 3812303,
+                                "nick": "Ryder11",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d49\/4ff4088e425279925b8fdabfb3f1f737.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10772335,
+                        "subject_id": 1,
+                        "user_id": 3453816,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 15,
+                            "ptsForResp": 8,
+                            "ptsForBest": 4
+                        },
+                        "content": "11 (1) Gempa yang terjadi dalam perut bumi akan mengakibatkan munculnya tekanan ke arah vertikal sehingga dasar lautan akan naik dan turun dalam rentang waktu yang singkat. (2) Hal ini kemudian akan memicu ketidakseimbangan pada air lautan yang kemudian terdorong menjadi gelombang besar yang bergerak mencapai wilayah daratan.<br \/>\nTeks di atas adalah \u2026<br \/>\nA. Penyebab gempa<br \/>\nB. Penyebab terjadinya tsunami<br \/>\nC. Akibat tsunami<br \/>\nD. Akibat gempa<br \/>\nE. Proses terjadinya laut<br \/><br \/><br \/>\n12 Maksud kata Hal ini pada kalimat (2) adalah \u2026<br \/>\nA. naik dan turunya dasar laut<br \/>\nB. tekanan ke arah vertikal dalam perut bumi<br \/>\nC. Gempa<br \/>\nD. Tsunami<br \/>\nE. Gelombang besar yang bergerak",
+                        "created": "2017-05-24T09:01:48+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2017-05-24T09:08:42+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "11 (1) Gempa yang terjadi dalam perut bumi <em>aka<\/em>n mengakibatkan munculnya <em>tekanan<\/em> ke arah vertikal sehingga dasar lautan <em>aka<\/em>n naik dan turun dalam rentang waktu yang singkat. (2) Hal ini kemudian <em>aka<\/em>n memicu ketidakseimbangan pada air lautan yang kemudian terdorong menjadi gelombang besar yang bergerak mencapai wilayah daratan.\nTeks di atas adalah \u2026\nA. Penyebab gempa\nB. Penyebab terjadinya tsunami\nC. Akibat tsunami\nD. Akibat gempa\nE. Proses terjadinya laut\n12 <em>Maksud<\/em> kata Hal ini pada kalimat (2) adalah \u2026\nA. naik dan turunya dasar laut\nB. <em>tekanan<\/em> ke arah vertikal dalam perut bumi\nC. Gempa\nD. Tsunami\nE. Gelombang besar yang bergerak",
+                        "snippet_content": "11 (1) Gempa yang terjadi dalam perut bumi <em>aka<\/em>n mengakibatkan munculnya <em>tekanan<\/em> ke arah vertikal sehingga dasar lautan <em>aka<\/em>n naik dan turun"
+                    },
+                    "responses": [
+                        {
+                            "id": 13068177,
+                            "user_id": 4967725,
+                            "task_id": 10772335,
+                            "points": 8,
+                            "created": "2017-05-24T09:08:42+07:00",
+                            "content": "no 11 = b.penyebab terjadinya tsunami.<br \/>no 12 = c.tsunami.",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 7168881,
+                                        "user_id": 3453816,
+                                        "content": "terima kasih",
+                                        "created": "2017-05-24T09:49:17+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 7168950,
+                                        "user_id": 4967725,
+                                        "content": "ya sama sama",
+                                        "created": "2017-05-24T10:03:34+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 2
+                            }
+                        },
+                        {
+                            "id": 13068184,
+                            "user_id": 4151232,
+                            "task_id": 10772335,
+                            "points": 8,
+                            "created": "2017-05-24T09:09:21+07:00",
+                            "content": "11. jawabannya B. penyebab terjadinya tsunami<br \/>12. jawabannya C. gempa<strong><\/strong><strong><\/strong> <br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2017-05-24T13:19:29+07:00",
+                                "approver": {
+                                    "id": 769860,
+                                    "nickname": "FinandaAzzahra",
+                                    "points": 229259,
+                                    "grade": 3,
+                                    "gender": 1,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/d0c\/6ee04d2ff577ac4bf43151589bf9b495.jpg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/d97\/12b9ab0379cd174d2da341b2a25835ee.jpg"
+                                    },
+                                    "content_approved_count": 15368
+                                }
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 7168882,
+                                        "user_id": 3453816,
+                                        "content": "terima kasih",
+                                        "created": "2017-05-24T09:49:25+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 7169180,
+                                        "user_id": 4151232,
+                                        "content": "ya sama2",
+                                        "created": "2017-05-24T10:49:31+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 2
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4967725,
+                                "nick": "iftanminpantonlabu",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d15\/4c118b2076605573df86452a4e3b4b1d.jpg"
+                            },
+                            {
+                                "id": 4151232,
+                                "nick": "cutersz",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d66\/b3861c974a0606d2eb7b0c1aa714d261.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10584343,
+                        "subject_id": 1,
+                        "user_id": 4813045,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 19,
+                            "ptsForResp": 10,
+                            "ptsForBest": 5
+                        },
+                        "content": "Ubahlah kalimat berikut menjadi kalimat bahasa Indonesia yang komunikatif saat ini!<br \/>\n1. \"Asal sabar, yakin dan tawakal, tentulah sampai maksud yang kekal,\" jawab Bakhtiar dengan perlahan-lahan, sebagai seorang yang alim.<br \/>\n2. \"Ah, dengan engkau memang tak dapat bercakap-cakap; lebih baik aku pergi ke sana,\" sahut Bakhtiar dengan sebalnya, lalu keluar rumah perhentian itu, pergi ke buaian.<br \/>\n3. Pikirannya sebagi tak ada dekat teman-temannya, melainkan jauh dibalik gunung yang tinggi, diseberang lautan yang dalam.<br \/>\n4.. Setelah sejurus lamanya Samsulbahri termenung sedemikian itu, tiba-tiba terperanjatlah ia, sebagai terbangun daripada tidurnya, karena dirasainya bahunya dipegang orang dari belakang.<br \/>\n5. \"Ah, tidak, Nur,\" jawab Samsu, \"penglihatan disini sesungguhnya amat elok. Lihatlah pohon pohon kelapa itu, hampir tak ada hingganya dan diantaranya.\"<br \/><br \/>\nTolong dijawab yaa, ga ngerti nih ",
+                        "created": "2017-05-09T18:09:37+07:00",
+                        "responses": 1,
+                        "tickets": 5,
+                        "first_resp": "2017-05-15T21:21:16+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "6",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Ubahlah kalimat berikut menjadi kalimat bahasa Indonesia yang komunikatif saat ini!\n1. \"<em>Asa<\/em>l sabar, yakin dan tawakal, tentulah sampai <em>maksud<\/em> yang kekal,\" jawab Bakhtiar dengan perlahan-lahan, sebagai seorang yang alim.\n2. \"Ah, dengan engkau memang tak dapat bercakap-cakap; lebih baik aku pergi ke sana,\" sahut Bakhtiar dengan sebalnya, lalu keluar rumah perhentian itu, pergi ke buaian.\n3. Pikirannya sebagi tak ada dekat <em>teman<\/em>-temannya, melainkan jauh dibalik gunung yang tinggi, diseberang lautan yang dalam.\n4.. Setelah sejurus lamanya Samsulbahri termenung sedemikian itu, tiba-tiba terperanjatlah ia, sebagai terbangun daripada tidurnya, karena dirasainya bahunya dipegang orang dari belakang.\n5. \"Ah, tidak, Nur,\" jawab Samsu, \"penglihatan disini sesungguhnya amat elok. Lihatlah pohon pohon kelapa itu, hampir tak ada hingganya dan diantaranya.\"\nTolong dijawab yaa, ga ngerti nih ",
+                        "snippet_content": "Ubahlah kalimat berikut menjadi kalimat bahasa Indonesia yang komunikatif saat ini!\n1. \"<em>Asa<\/em>l sabar, yakin dan tawakal, tentulah sampai <em>maksud<\/em> yang kekal"
+                    },
+                    "responses": [
+                        {
+                            "id": 12916295,
+                            "user_id": 5042200,
+                            "task_id": 10584343,
+                            "points": 10,
+                            "created": "2017-05-15T21:21:16+07:00",
+                            "content": "1. selama kita yakin sabar dan tawakal, pasti ada hasilnya, usaha tidak pernah membohongi hasil. kata bahtiar <br \/>2.Ah, males ngomong sama kamu, ngga nyambung, mending saya kesana saja. sahut bahtiar<br \/>3.nomor 3 typo ya? <br \/>4.Setelah termenung sekian lama samsulbahri terkejut dan terbangun dari tidurnya karena seseorang memegang bahunya.<br \/>5.ah tidak nur. jawab samsul. pemandangan disini tentu sangat indah, lihatlah pohon2 kelapa itu, terbentang luas tak terhingga. <br \/><br \/>mudah2an bener yaa~ ",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5042200,
+                                "nick": "babybanana",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/da7\/ea0a05bf6a1a17caad0e6881ad5ab703.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10911508,
+                        "subject_id": 7,
+                        "user_id": 5140743,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "bu indra pergi ke dokter untuk melakukan pengecekan tekanan darahnya. setelah dilakukan pengecekan tekanan darah, dokter mengatakan tekanan darah bu indra adalah 110\/90. jelaskan maksud sari hasil tekanan darah bu indra",
+                        "created": "2017-06-08T07:24:00+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2017-06-08T07:25:05+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "bu indra pergi ke dokter untuk melakukan pengecekan <em>tekanan<\/em> darahnya. setelah dilakukan pengecekan <em>tekanan<\/em> darah, dokter mengatakan <em>tekanan<\/em> darah bu indra <em>ada<\/em>lah 110\/90. jelaskan <em>maksud<\/em> sari hasil <em>tekanan<\/em> darah bu indra",
+                        "snippet_content": "melakukan pengecekan <em>tekanan<\/em> darahnya. setelah dilakukan pengecekan <em>tekanan<\/em> darah, dokter mengatakan <em>tekanan<\/em> darah bu indra <em>ada<\/em>lah 110\/90. jelaskan <em>maksud<\/em> sari hasil"
+                    },
+                    "responses": [
+                        {
+                            "id": 13264466,
+                            "user_id": 4992396,
+                            "task_id": 10911508,
+                            "points": 5,
+                            "created": "2017-06-08T07:25:05+07:00",
+                            "content": "110 adalah diastole dan 90 adalah sistole",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 13264476,
+                            "user_id": 5140801,
+                            "task_id": 10911508,
+                            "points": 5,
+                            "created": "2017-06-08T07:26:08+07:00",
+                            "content": "kalau tekanan darahnya 100-120 normal. Tpi klo 90 kebawah rendah.",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4992396,
+                                "nick": "firdaalfi21",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d45\/6934064b2c2ff5625322a398a528f3b4.jpg"
+                            },
+                            {
+                                "id": 5140801,
+                                "nick": "Wand25",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d53\/da6587d55b2423b07ed643e7fa2eb538.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10580297,
+                        "subject_id": 7,
+                        "user_id": 2079306,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "bu indra pergi ke dokter untuk melakukan pengecekan tekanan darahnya.setelah dilakukan pengukuran tekanan darah,dokter mengatakan bahwa tekanan darah bu indera adalah 110\/90.jelaskan maksud dari hasil pengukuran tekana darah tersebut! kaitkan jawaban mu dengan tekanan darah dan kondisi pembuluh darah pda saat itu?",
+                        "created": "2017-05-09T12:12:13+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2017-05-09T12:13:42+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "bu indra pergi ke dokter untuk melakukan pengecekan <em>tekanan<\/em> darahnya.setelah dilakukan pengukuran <em>tekanan<\/em> darah,dokter mengatakan bahwa <em>tekanan<\/em> darah bu indera <em>ada<\/em>lah 110\/90.jelaskan <em>maksud<\/em> dari hasil pengukuran tekana darah tersebut! kaitkan jawaban mu dengan <em>tekanan<\/em> darah dan kondisi pembuluh darah pda saat itu?",
+                        "snippet_content": "pengecekan <em>tekanan<\/em> darahnya.setelah dilakukan pengukuran <em>tekanan<\/em> darah,dokter mengatakan bahwa <em>tekanan<\/em> darah bu indera <em>ada<\/em>lah 110\/90.jelaskan <em>maksud<\/em> dari hasil"
+                    },
+                    "responses": [
+                        {
+                            "id": 12807408,
+                            "user_id": 4915816,
+                            "task_id": 10580297,
+                            "points": 5,
+                            "created": "2017-05-09T12:13:42+07:00",
+                            "content": "Nomor atas (110) menunjukkan tekanan ke atas pembuluh arteri akibat denyutan jantung, dan disebut tekanan sistole. Nomor bawah (90) menunjukkan tekanan saat jantung beristirahat di antara pemompaan, dan disebut tekanan diastole.\u00a0 dari peryataan di atas dokter menyatakan bahwa sistoliknya adalah 110 dan distoliknya adalah 90 bererti Bu Indra mengalami hipertensi(tekanan darah tinggi)\u00a0<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 7014582,
+                                        "user_id": 4915816,
+                                        "content": "jadikan yg terbaik kalo perlu\\",
+                                        "created": "2017-05-09T12:14:02+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4915816,
+                                "nick": "Harfian123",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d59\/8cf5d0b453fa6973adfbfdb2f7e8fb1a.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10936961,
+                        "subject_id": 4,
+                        "user_id": 5152544,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Bu Indra pergi ke dokter untuk melakukan pengecekan tekanan darahnya. Setelah dilakukan pengukuran tekanan darah, dokter mengatakan bahwa tekanan darah ibu indra adalah 110\/90. Jelaskan maksud dari hasil pengukuran tekanan darah tersebut! Kaitkan jawabanmu dengan tekanan darah dan kondisi pembuluh darah pada saat itu??? ",
+                        "created": "2017-06-12T18:46:45+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-06-12T19:06:52+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "6",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Bu Indra pergi ke dokter untuk melakukan pengecekan <em>tekanan<\/em> darahnya. Setelah dilakukan pengukuran <em>tekanan<\/em> darah, dokter mengatakan bahwa <em>tekanan<\/em> darah ibu indra <em>ada<\/em>lah 110\/90. Jelaskan <em>maksud<\/em> dari hasil pengukuran <em>tekanan<\/em> darah tersebut! Kaitkan jawabanmu dengan <em>tekanan<\/em> darah dan kondisi pembuluh darah pada saat itu??? ",
+                        "snippet_content": "pengecekan <em>tekanan<\/em> darahnya. Setelah dilakukan pengukuran <em>tekanan<\/em> darah, dokter mengatakan bahwa <em>tekanan<\/em> darah ibu indra <em>ada<\/em>lah 110\/90. Jelaskan <em>maksud<\/em> dari hasil"
+                    },
+                    "responses": [
+                        {
+                            "id": 13297483,
+                            "user_id": 5151855,
+                            "task_id": 10936961,
+                            "points": 5,
+                            "created": "2017-06-12T19:06:52+07:00",
+                            "content": "dokter mengatakan bahwa tekanan darah ibu indra = 110\/90 jadi tekanan darah ibu indra normal atau stabil yaitu 110 per 90 ( jika tekanan darah 0 - 60 maka darah itu disebut darah rendah . kalau tekanan darah 70-110 darah itu dinamakan darah normal. jika tekanan darah 120-200 atau lebih tinggi namanya tekanan darah tinggi ).<br \/><br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5151855,
+                                "nick": "alfiandaeng27",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dff\/25df100da56a6f1ad0304d5ce6ff938a.png"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10631291,
+                        "subject_id": 10,
+                        "user_id": 4856127,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 40,
+                            "ptsForResp": 20,
+                            "ptsForBest": 10
+                        },
+                        "content": "1.jelaskan dan berilah ciri ciri manusia purba yang di temukan di indonesia<br \/>2.berilah contoh tindakan manusia sebagai makhluk ekonomi sekaligus makhluk sosial yang bermoral<br \/>3.jelaskan manfaat krativitas bagi manusia <br \/>4.uraika 3 contoh tradisi hindu-budha dan islam yang masih di lakukan oleh masyarakat Indonesia <br \/>5.apakah yg di maksud jalur sutera<br \/>6.berikan 3 bentuk akulturasi <br \/>7. sebutkan dan beri penjelasan contoh hasil akulturasi antara hindu-budha dengan kebudayaan indonesia <br \/><br \/><br \/>kalo ngawor jawabnya ato tdk semuanya saya akan laporkan ke pihak branly ",
+                        "created": "2017-05-13T15:46:55+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-05-13T16:13:32+07:00",
+                        "the_best_resp_id": "12878172",
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "1.jelaskan dan berilah ciri ciri manusia purba yang di <em>temukan<\/em> di indonesia2.berilah contoh tindakan manusia sebagai makhluk ekonomi sekaligus makhluk sosial yang bermoral3.jelaskan manfaat krativitas bagi manusia 4.uraika 3 contoh tradisi hindu-budha dan islam yang masih di lakukan oleh masyarakat Indonesia 5.<em>apa<\/em>kah yg di <em>maksud<\/em> jalur sutera6.berikan 3 bentuk akulturasi 7. sebutkan dan beri penjelasan contoh hasil akulturasi antara hindu-budha dengan kebudayaan indonesia kalo ngawor jawabnya ato tdk semuanya saya akan laporkan ke pihak branly ",
+                        "snippet_content": "budha dan islam yang masih di lakukan oleh masyarakat Indonesia 5.<em>apa<\/em>kah yg di <em>maksud<\/em> jalur sutera6.berikan 3 bentuk akulturasi 7"
+                    },
+                    "responses": [
+                        {
+                            "id": 12878172,
+                            "user_id": 4768210,
+                            "task_id": 10631291,
+                            "points": 20,
+                            "created": "2017-05-13T16:13:32+07:00",
+                            "content": "1.pithecantropus erectus: tonjolan kening tebal, hidung lebar, tulang pipi kuat menonjol, tinggi 165-180,pemakan segala, rahang kuat,\u00a0<br \/>homo wajakensis dan soloensis: muka lebar , hidung lebar, mulut menonjol, dahi menonjol, sperti manusia sekarang, \u00a0 tinggi 130 -210 cm, bb 30 - 150 kg<br \/>2.makhluk ekonomi : setiap hari manusia melakukan aktifitas jual beli dan tawar menawar untuk memenuhi kebutuhan hidupnya,\u00a0<br \/>sosial : saling membantu dalam kesusahan, komunikasi antar masyarakat.<br \/>3.dengan adanya kreatifitas maka kita tidak monoton dalam hidup, dapat memunculkan sesuatu yang baru yang dapat meningkatkan taraf hidup kita jika kita memanfaatkannya dalam ekonomi.<br \/>4.seni bangunan yang masih bercorak hindu budah, sistem pemerintahan, kalender\u00a0<br \/>5.jalur sutra :jalur perdagangan pada zaman dahulu , dinamakan sutra karena komoditas yang banyak diperdagangkan adalah sutra.<br \/>6.bentuk akulturasi : subtitusi, sinkretisme, adisi, dekulturasi, originasi, penolakan.<br \/>7.relief pahatan candi borobudur, candi borobudur, cerita wayang ramayana ,candi gedung songo,kasta kedudukan,\u00a0",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 7057713,
+                                        "user_id": 4856127,
+                                        "content": "mksh",
+                                        "created": "2017-05-13T16:14:05+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 7057724,
+                                        "user_id": 4768210,
+                                        "content": "sama-sama:D",
+                                        "created": "2017-05-13T16:14:42+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 2
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4768210,
+                                "nick": "intan17gege",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d22\/d1a2a59b601de2f09cd974166015b9a1.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10569941,
+                        "subject_id": 2,
+                        "user_id": 4174664,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "1. perilaku berikut ini yang perlu diterapkan ketika memutuskan keputusan bersama adalah =<br \/>A. sesuai dengan keinginan pemimpin sidang <br \/>B. melaksanakan dengan keberanian <br \/>C. melaksanakan dengan hati bersih <br \/>D. sepanjang menguntungkan diri sendiri <br \/><br \/>2. mengutamakan kepentingan bersama daripada kepentingan pribadi dalam pelaksanaan musyawarah sangat penting karena keputusan bersama itu =<br \/>A. apa menyangkut kepentingan pemimpin<br \/>B. untuk kepentingan bersama <br \/>C. akan menyangkut kepentingan anggota <br \/>D. untuk kepentingan anggota <br \/><br \/>3.kita bisa saja memberikan kritik terhadap hasil keputusan bersama selama sesuai dengan=<br \/>A. maksud dan tujuan <br \/>B. keinginan kelompoknya <br \/>C. keinginan diri sendiri <br \/>D. keinginan orang banyak <br \/><br \/>4.sikap pro dan kontra terhadap keputusan bersama muncul karena =<br \/>A. mereka menganggap hasil musyawarah kurang bermanfaat <br \/>B. keputusan itu belum memenuhi aspirasi bersama <br \/>C. keputusan bersama disetujui semua pihak <br \/>D. mereka mengakui kebenaran pendapat sendiri <br \/><br \/>5. ketika kita akan menentukan suatu keputusan maka yang dilakukan terlebih dahulu adalah =<br \/>A. mempertimbangkan kemungkinan yang terjadi <br \/>B. mendengarkan pendapat kedua orang tua <br \/>C. mendengarkan pendapat teman lain <br \/>D. mempertimbangkan baik dan buruk ",
+                        "created": "2017-05-08T19:03:48+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-05-08T19:13:09+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "1. perilaku berikut ini yang perlu diterapkan ketika memutuskan keputusan bersama <em>ada<\/em>lah =A. sesuai dengan keinginan pemimpin sidang B. melaksanakan dengan keberanian C. melaksanakan dengan hati bersih D. sepanjang menguntungkan diri sendiri 2. mengutamakan kepentingan bersama daripada kepentingan pribadi dalam pelaksanaan musyawarah sangat penting karena keputusan bersama itu =A. apa menyangkut kepentingan pemimpinB. untuk kepentingan bersama C. akan menyangkut kepentingan anggota D. untuk kepentingan anggota 3.kita bisa saja memberikan kritik terhadap hasil keputusan bersama selama sesuai dengan=A. <em>maksud<\/em> dan tujuan B. keinginan kelompoknya C. keinginan diri sendiri D. keinginan orang banyak 4.sikap pro dan kontra terhadap keputusan bersama muncul karena =A. mereka menganggap hasil musyawarah kurang bermanfaat B. keputusan itu belum memenuhi aspirasi bersama C. keputusan bersama disetujui semua pihak D. mereka mengakui kebenaran pendapat sendiri 5. ketika kita akan menentukan suatu keputusan maka yang dilakukan terlebih dahulu <em>ada<\/em>lah =A. mempertimbangkan kemungkinan yang terjadi B. mendengarkan pendapat kedua orang tua C. mendengarkan pendapat <em>teman<\/em> lain D. mempertimbangkan baik dan buruk ",
+                        "snippet_content": "<em>ada<\/em>lah =A. mempertimbangkan kemungkinan yang terjadi B. mendengarkan pendapat kedua orang tua C. mendengarkan pendapat <em>teman<\/em> lain D. mempertimbangkan baik dan buruk "
+                    },
+                    "responses": [
+                        {
+                            "id": 12795503,
+                            "user_id": 4413728,
+                            "task_id": 10569941,
+                            "points": 5,
+                            "created": "2017-05-08T19:13:09+07:00",
+                            "content": "1.  c. melaksanakan dengan hati bersih<br \/>2. b. untuk kepentingan bersama<br \/>3. a. maksud dan tujuan<br \/>4. d. mereka mengakui kebenaran pendapat sendiri<br \/>5. a. mempertimbangkan kemungkinan yang terjadi<br \/><br \/><br \/>maaf kalau salah",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4413728,
+                                "nick": "icha2912",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/da5\/f96af3951dc4e5925d287b78de4abfc0.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10796431,
+                        "subject_id": 1,
+                        "user_id": 5090856,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Semua Istimewa<br \/><br \/>Ulu, seekor katak hijau, sedang berdiri di pinggir kolam. Hari itu langit sangat gelap dan hari seperti itulah yang Ulu sukai. Tidak lama kemudian, air mulai menetes perlahan-lahan dari angkasa.<br \/><br \/>\u201cHujan telah tiba!\u201d Ulu berteriak dengan girang. Ulu pun mulai bersenandung sambil melompat-lompat mengitari kolam. Ia melihat semut yang kecil sedang berteduh di balik bunga matahari.<br \/><br \/>\u201cWahai semut, hujan telah tiba jangan bersembunyi!\u201d seru Ulu kepada semut yang sedang berusaha keras menghindari tetesan air hujan.\u00a0Isi Cerita Fabel\u00a0<br \/><br \/>Semut menghela napas dan menatap Ulu dalam-dalam. \u201cUlu, aku tidak suka dengan hujan. Kamu lihat betapa mungilnya tubuhku? Air hujan akan menyeret dan menenggelamkanku ke kolam! Aku tidak bisa berenang sepertimu, makanya aku berteduh,\u201d sahut Semut.<br \/><br \/>\u201cMakanya Semut, kau harus berlatih berenang! Aku sejak berupa berudu sudah bisa berenang, masa kau tidak bisa? Berenang itu sangat mudah, julurkan saja kakimu,\u201d Ulu menjulurkan kakinya, \u201cdan tendang ke belakang seperti ini! Ups, maaf, kakimu kan pendek.\u201d Sambil tertawa, Ulu melompat meninggalkan semut.<br \/><br \/>Semut hanya bisa menatap Ulu dengan kesal. Semut tidak dapat berenang karena ia berjalan.<br \/><br \/>Ulu kembali berseru, \u201cHujan telah tiba! Hujan telah tiba! Oh, hai Ikan! Aku sangat suka dengan hujan, bagaimana denganmu? Ulu berhenti di pinggir kolam dan berbicara kepada Ikan yang sedang berenang di dalam kolam. Ikan mendongakkan kepalanya ke atas dan berbicara kepada Ulu. \u201cAku tidak dapat merasakan hujan Ulu. Lihatlah, aku tinggal bersama air. Bagaimana caranya aku dapat menikmati hujan seperti kamu Ulu?\u201d Ikan pun kembali berputar-putar di dalam kolam.<br \/><br \/>\u201cHah! Sedih sekali hidupmu Ikan! Seandainya kamu seperti aku, dapat hidup di dalam dua dunia, darat dan air, mungkin kamu akan dapat merasakan kebahagiaan ini. Nikmati saja air kolammu sebab kamu tidak akan dapat pernah merasakan rintikan hujan di badanmu!\u201d<br \/><br \/>Apa yang Ulu katakan sangat menusuk hati Ikan. Ikan menatap ke arah tubuhnya yang bersisik, lalu menatap ke arah tubuh licin Ulu. Ikan yang bersedih hati pun berenang meninggalkan Ulu ke sisi kolam yang lain. Ulu pun kembali melompat-lompat di sekitar kolam dan kembali bersenandung.<br \/><br \/>Saat Ulu tiba di bawah pohon, ia melihat Burung sedang bertengger di dahan pohon dan membersihkan bulunya. Ulu mengira Burung juga sama seperti Semut dan Ikan yang tidak dapat menikmati hujan.<br \/><br \/>\u201cHai Burung, kenapa kau tidak mau keluar dan menikmati hujan? Apakah kamu takut bulumu basah? Atau apakah kamu takut tenggelam ke dalam kolam seperti semut? Ataukah memang kamu tidak bisa menikmati indahnya hujan seperti Ikan?\u201d Setelah berkata demikian, Ulu tertawa kencang-kencang.<br \/><br \/>Burung menatap ke arah Ulu yang masih tertawa,\u201d Hai Ulu, apakah kau bisa naik kemari?\u201d<br \/><br \/>Ulu kebingungan.\u201d Apa maksudmu burung?\u201d<br \/><br \/>\u201cApakah kau bisa memanjat naik kemari Ulu?\u201d<br \/><br \/>\u201cApa yang kau maksud Burung? Tentu saja aku tidak bisa!\u201d Ulu cemberut dan menatap kearah dua kakinya. Ulu menyesal punya kaki yang pendek sehingga tidak bisa terbang.<br \/><br \/>\u201cUlu, tidakkah kamu tahu bahwa Sang Pencipta membuat kita dengan keunikan yang berbeda-beda? Aku tidak bisa berenang sepertimu dan ikan, tetapi aku bisa terbang mengitari angkasa. Burung kembali berkata dengan bijak, \u201cItulah yang kumaksud Ulu, kita masing-masing memiliki kelebihan sendiri. Semut tidak bisa berenang sepertimu, tetapi ia bisa menyusup ke tempat-tempat kecil yang tidak dapat kau lewati. Ikan tidak dapat melompat-lompat sepertimu, tetapi ia bernapas di bawah air. Kamu tidak seharusnya menghina mereka!\u201d<br \/><br \/>Ulu mulai menyadari bahwa tindakannya salah. Diam-diam Ulu berpikir bahwa tindakannya itu tidak benar. Ia seharusnya tidak menyombongkan kelebihan dan menghina teman-temannya.<br \/><br \/>\u201cMaafkan aku Burung.\u201d ucap Ulu seraya menatap sendu kearah Semut dan Ikan yang sejak tadi memperhatikan pembicaraan mereka. \u201cMaafkan aku Semut, Ikan, selama ini aku telah menyinggung perasaanmu.\u201d Sejak saat itu, Ulu mulai menghargai teman-temannya dan mereka pun menyukainya kembali.   <br \/>1. watak tokoh dan bukti pada teks <br \/>ulu=<br \/>ikan=<br \/>semut=<br \/>burung=<br \/>2. apa latar fabel di atas?Apakah mungkin latar fabel di atas di ubah menjadi rumah atau sekolah<br \/>3.pesan apa yqng ingin disampaikan oleh pengarang melalui fabel di atas? <br \/>",
+                        "created": "2017-05-28T08:53:06+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-05-28T09:12:52+07:00",
+                        "the_best_resp_id": "13109706",
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Semua IstimewaUlu, seekor katak hijau, sedang berdiri di pinggir kolam. Hari itu langit sangat gelap dan hari seperti itulah yang Ulu sukai. Tidak lama kemudian, air mulai menetes perlahan-lahan dari angkasa.\u201cHujan telah tiba!\u201d Ulu berteriak dengan girang. Ulu pun mulai bersenandung sambil melompat-lompat mengitari kolam. Ia melihat semut yang kecil sedang berteduh di balik bunga matahari.\u201cWahai semut, hujan telah tiba jangan bersembunyi!\u201d seru Ulu kepada semut yang sedang berusaha keras menghindari <em>tetesan<\/em> air hujan.\u00a0Isi Cerita Fabel\u00a0Semut menghela napas dan menatap Ulu dalam-dalam. \u201cUlu, aku tidak suka dengan hujan. Kamu lihat betapa mungilnya tubuhku? Air hujan <em>aka<\/em>n menyeret dan menenggelamkanku ke kolam! Aku tidak bisa berenang sepertimu, makanya aku berteduh,\u201d sahut Semut.\u201cMakanya Semut, kau harus berlatih berenang! Aku sejak berupa berudu sudah bisa berenang, masa kau tidak bisa? Berenang itu sangat mudah, julurkan saja kakimu,\u201d Ulu menjulurkan kakinya, \u201cdan tendang ke belakang seperti ini! Ups, maaf, kakimu kan pendek.\u201d Sambil tertawa, Ulu melompat meninggalkan semut.Semut hanya bisa menatap Ulu dengan kesal. Semut tidak dapat berenang karena ia berjalan.Ulu kembali berseru, \u201cHujan telah tiba! Hujan telah tiba! Oh, hai Ikan! Aku sangat suka dengan hujan, bagaimana denganmu? Ulu berhenti di pinggir kolam dan berbicara kepada Ikan yang sedang berenang di dalam kolam. Ikan mendongakkan kepalanya ke atas dan berbicara kepada Ulu. \u201cAku tidak dapat merasakan hujan Ulu. Lihatlah, aku tinggal bersama air. Bagaimana caranya aku dapat menikmati hujan seperti kamu Ulu?\u201d Ikan pun kembali berputar-putar di dalam kolam.\u201cHah! Sedih sekali hidupmu Ikan! Seandainya kamu seperti aku, dapat hidup di dalam dua dunia, darat dan air, mungkin kamu <em>aka<\/em>n dapat merasakan kebahagiaan ini. Nikmati saja air kolammu sebab kamu tidak <em>aka<\/em>n dapat pernah merasakan rintikan hujan di badanmu!\u201dApa yang Ulu katakan sangat menusuk hati Ikan. Ikan menatap ke arah tubuhnya yang bersisik, lalu menatap ke arah tubuh licin Ulu. Ikan yang bersedih hati pun berenang meninggalkan Ulu ke sisi kolam yang lain. Ulu pun kembali melompat-lompat di sekitar kolam dan kembali bersenandung.Saat Ulu tiba di bawah pohon, ia melihat Burung sedang bertengger di dahan pohon dan membersihkan bulunya. Ulu mengira Burung juga sama seperti Semut dan Ikan yang tidak dapat menikmati hujan.\u201cHai Burung, kenapa kau tidak mau keluar dan menikmati hujan? Apakah kamu takut bulumu basah? Atau apakah kamu takut tenggelam ke dalam kolam seperti semut? Ataukah memang kamu tidak bisa menikmati indahnya hujan seperti Ikan?\u201d Setelah berkata demikian, Ulu tertawa kencang-kencang.Burung menatap ke arah Ulu yang masih tertawa,\u201d Hai Ulu, apakah kau bisa naik kemari?\u201dUlu kebingungan.\u201d Apa maksudmu burung?\u201d\u201cApakah kau bisa memanjat naik kemari Ulu?\u201d\u201cApa yang kau <em>maksud<\/em> Burung? Tentu saja aku tidak bisa!\u201d Ulu cemberut dan menatap kearah dua kakinya. Ulu menyesal punya kaki yang pendek sehingga tidak bisa terbang.\u201cUlu, tidakkah kamu tahu bahwa Sang Pencipta membuat kita dengan keunikan yang berbeda-beda? Aku tidak bisa berenang sepertimu dan ikan, tetapi aku bisa terbang mengitari angkasa. Burung kembali berkata dengan bijak, \u201cItulah yang kumaksud Ulu, kita masing-masing memiliki kelebihan sendiri. Semut tidak bisa berenang sepertimu, tetapi ia bisa menyusup ke tempat-tempat kecil yang tidak dapat kau lewati. Ikan tidak dapat melompat-lompat sepertimu, tetapi ia bernapas di bawah air. Kamu tidak seharusnya menghina mereka!\u201dUlu mulai menyadari bahwa tindakannya salah. Diam-diam Ulu berpikir bahwa tindakannya itu tidak benar. Ia seharusnya tidak menyombongkan kelebihan dan menghina teman-temannya.\u201cMaafkan aku Burung.\u201d ucap Ulu seraya menatap sendu kearah Semut dan Ikan yang sejak tadi memperhatikan pembicaraan mereka. \u201cMaafkan aku Semut, Ikan, selama ini aku telah menyinggung perasaanmu.\u201d Sejak saat itu, Ulu mulai menghargai teman-temannya dan mereka pun menyukainya kembali.   1. watak tokoh dan bukti pada teks ulu=ikan=semut=burung=2. apa latar fabel di atas?Apakah mungkin latar fabel di atas di ubah menjadi rumah atau sekolah3.pesan apa yqng ingin disampaikan oleh pengarang melalui fabel di atas? ",
+                        "snippet_content": "jangan bersembunyi!\u201d seru Ulu kepada semut yang sedang berusaha keras menghindari <em>tetesan<\/em> air hujan.\u00a0Isi Cerita Fabel\u00a0Semut menghela napas dan menatap"
+                    },
+                    "responses": [
+                        {
+                            "id": 13109706,
+                            "user_id": 3344602,
+                            "task_id": 10796431,
+                            "points": 5,
+                            "created": "2017-05-28T09:12:52+07:00",
+                            "content": "\u2022\u2022 Mengidentifikasi Fabel \u2022\u2022<br \/><br \/>1) Watak tokoh dan bukti pada teks :<br \/>\u2022\u2022 Ulu = sombong<br \/>Bukti : Ketika Ulu berkata pada semut terletak pada paragraf tiga : Wahai semut, hujan telah tiba jangan bersembunyi!\u201d seru Ulu kepada semut yang sedang berusaha keras menghindari tetesan air hujan.\u00a0<br \/><br \/>\u2022\u2022 Ikan = Rendah hati dan lapang dada<br \/>Bukti : \u201cAku tidak dapat merasakan hujan Ulu. Lihatlah, aku tinggal bersama air. Bagaimana caranya aku dapat menikmati hujan seperti kamu Ulu?\u201d<br \/><br \/>\u2022\u2022 Semut = Rendah hati dan lapang dada<br \/>Bukti :Ulu, aku tidak suka dengan hujan. Kamu lihat betapa mungilnya tubuhku? Air hujan akan menyeret dan menenggelamkanku ke kolam! Aku tidak bisa berenang sepertimu, makanya aku berteduh,\u201d sahut Semut.<br \/><br \/>\u2022\u2022 Burung = Bijaksana<br \/>Bukti : \u201cUlu, tidakkah kamu tahu bahwa Sang Pencipta membuat kita dengan keunikan yang berbeda-beda? Aku tidak bisa berenang sepertimu dan ikan, tetapi aku bisa terbang mengitari angkasa. Burung kembali berkata dengan bijak, \u201cItulah yang kumaksud Ulu, kita masing-masing memiliki kelebihan sendiri<br \/><br \/>2) Latar terdapat di pinggir kolam dan di sekitar pohon , latar tersebut tidak dapat diubah ke latar rumah maupun sekolah karena pengarang telah menetapkannya melalui teks , lagipula hewan tersebut tidak hidup di rumah maupun sekolah<br \/><br \/>3) Pesannya ialah : Kita tidak boleh sombong kepada orang lain atas kelebihan kita dikarenkan semua makhluk mempunyai kelebihan masing masing .",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 2,
+                            "user_best_rank_id": 7,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2017-05-28T09:51:49+07:00",
+                                "approver": {
+                                    "id": 769860,
+                                    "nickname": "FinandaAzzahra",
+                                    "points": 229259,
+                                    "grade": 3,
+                                    "gender": 1,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/d0c\/6ee04d2ff577ac4bf43151589bf9b495.jpg",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/d97\/12b9ab0379cd174d2da341b2a25835ee.jpg"
+                                    },
+                                    "content_approved_count": 15368
+                                }
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 7194633,
+                                        "user_id": 5090856,
+                                        "content": "saya sangat terbantu terima kasih akn ku jadikan jawaban terbaik",
+                                        "created": "2017-05-28T10:02:26+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 7194846,
+                                        "user_id": 3344602,
+                                        "content": ":)",
+                                        "created": "2017-05-28T10:30:46+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 2
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3344602,
+                                "nick": "king747",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/de8\/e9be27f67155689bf9e85f3c5803670a.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10795606,
+                        "subject_id": 1,
+                        "user_id": 5090856,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 30,
+                            "ptsForResp": 15,
+                            "ptsForBest": 8
+                        },
+                        "content": "Semua Istimewa<br \/><br \/>Ulu, seekor katak hijau, sedang berdiri di pinggir kolam. Hari itu langit sangat gelap dan hari seperti itulah yang Ulu sukai. Tidak lama kemudian, air mulai menetes perlahan-lahan dari angkasa.<br \/><br \/>\u201cHujan telah tiba!\u201d Ulu berteriak dengan girang. Ulu pun mulai bersenandung sambil melompat-lompat mengitari kolam. Ia melihat semut yang kecil sedang berteduh di balik bunga matahari.<br \/><br \/>\u201cWahai semut, hujan telah tiba jangan bersembunyi!\u201d seru Ulu kepada semut yang sedang berusaha keras menghindari tetesan air hujan.\u00a0Isi Cerita Fabel\u00a0<br \/><br \/>Semut menghela napas dan menatap Ulu dalam-dalam. \u201cUlu, aku tidak suka dengan hujan. Kamu lihat betapa mungilnya tubuhku? Air hujan akan menyeret dan menenggelamkanku ke kolam! Aku tidak bisa berenang sepertimu, makanya aku berteduh,\u201d sahut Semut.<br \/><br \/>\u201cMakanya Semut, kau harus berlatih berenang! Aku sejak berupa berudu sudah bisa berenang, masa kau tidak bisa? Berenang itu sangat mudah, julurkan saja kakimu,\u201d Ulu menjulurkan kakinya, \u201cdan tendang ke belakang seperti ini! Ups, maaf, kakimu kan pendek.\u201d Sambil tertawa, Ulu melompat meninggalkan semut.<br \/><br \/>Semut hanya bisa menatap Ulu dengan kesal. Semut tidak dapat berenang karena ia berjalan.<br \/><br \/>Ulu kembali berseru, \u201cHujan telah tiba! Hujan telah tiba! Oh, hai Ikan! Aku sangat suka dengan hujan, bagaimana denganmu? Ulu berhenti di pinggir kolam dan berbicara kepada Ikan yang sedang berenang di dalam kolam. Ikan mendongakkan kepalanya ke atas dan berbicara kepada Ulu. \u201cAku tidak dapat merasakan hujan Ulu. Lihatlah, aku tinggal bersama air. Bagaimana caranya aku dapat menikmati hujan seperti kamu Ulu?\u201d Ikan pun kembali berputar-putar di dalam kolam.<br \/><br \/>\u201cHah! Sedih sekali hidupmu Ikan! Seandainya kamu seperti aku, dapat hidup di dalam dua dunia, darat dan air, mungkin kamu akan dapat merasakan kebahagiaan ini. Nikmati saja air kolammu sebab kamu tidak akan dapat pernah merasakan rintikan hujan di badanmu!\u201d<br \/><br \/>Apa yang Ulu katakan sangat menusuk hati Ikan. Ikan menatap ke arah tubuhnya yang bersisik, lalu menatap ke arah tubuh licin Ulu. Ikan yang bersedih hati pun berenang meninggalkan Ulu ke sisi kolam yang lain. Ulu pun kembali melompat-lompat di sekitar kolam dan kembali bersenandung.<br \/><br \/>Saat Ulu tiba di bawah pohon, ia melihat Burung sedang bertengger di dahan pohon dan membersihkan bulunya. Ulu mengira Burung juga sama seperti Semut dan Ikan yang tidak dapat menikmati hujan.<br \/><br \/>\u201cHai Burung, kenapa kau tidak mau keluar dan menikmati hujan? Apakah kamu takut bulumu basah? Atau apakah kamu takut tenggelam ke dalam kolam seperti semut? Ataukah memang kamu tidak bisa menikmati indahnya hujan seperti Ikan?\u201d Setelah berkata demikian, Ulu tertawa kencang-kencang.<br \/><br \/>Burung menatap ke arah Ulu yang masih tertawa,\u201d Hai Ulu, apakah kau bisa naik kemari?\u201d<br \/><br \/>Ulu kebingungan.\u201d Apa maksudmu burung?\u201d<br \/><br \/>\u201cApakah kau bisa memanjat naik kemari Ulu?\u201d<br \/><br \/>\u201cApa yang kau maksud Burung? Tentu saja aku tidak bisa!\u201d Ulu cemberut dan menatap kearah dua kakinya. Ulu menyesal punya kaki yang pendek sehingga tidak bisa terbang.<br \/><br \/>\u201cUlu, tidakkah kamu tahu bahwa Sang Pencipta membuat kita dengan keunikan yang berbeda-beda? Aku tidak bisa berenang sepertimu dan ikan, tetapi aku bisa terbang mengitari angkasa. Burung kembali berkata dengan bijak, \u201cItulah yang kumaksud Ulu, kita masing-masing memiliki kelebihan sendiri. Semut tidak bisa berenang sepertimu, tetapi ia bisa menyusup ke tempat-tempat kecil yang tidak dapat kau lewati. Ikan tidak dapat melompat-lompat sepertimu, tetapi ia bernapas di bawah air. Kamu tidak seharusnya menghina mereka!\u201d<br \/><br \/>Ulu mulai menyadari bahwa tindakannya salah. Diam-diam Ulu berpikir bahwa tindakannya itu tidak benar. Ia seharusnya tidak menyombongkan kelebihan dan menghina teman-temannya.<br \/><br \/>\u201cMaafkan aku Burung.\u201d ucap Ulu seraya menatap sendu kearah Semut dan Ikan yang sejak tadi memperhatikan pembicaraan mereka. \u201cMaafkan aku Semut, Ikan, selama ini aku telah menyinggung perasaanmu.\u201d Sejak saat itu, Ulu mulai menghargai teman-temannya dan mereka pun menyukainya kembali.<br \/>Tolong di jawab. besok dikumpul nih . kalo bisa jawab nih tak kasi 30 poin<br \/>",
+                        "created": "2017-05-28T06:41:02+07:00",
+                        "responses": 1,
+                        "tickets": 7,
+                        "first_resp": "2017-05-28T08:06:51+07:00",
+                        "the_best_resp_id": "13109017",
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [
+                            {
+                                "full": "https:\/\/id-static.z-dn.net\/files\/d0d\/9d706dad39666d1e9cf5c32b329b2618.jpg",
+                                "thumbnail": "https:\/\/id-static.z-dn.net\/files\/d6f\/94e65d3ae1751f189f39e51c033db94e.jpg",
+                                "type": "image\/jpeg",
+                                "size": 164433,
+                                "hash": "9d706dad39666d1e9cf5c32b329b2618",
+                                "id": 5282649,
+                                "extension": "jpg"
+                            }
+                        ],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Semua IstimewaUlu, seekor katak hijau, sedang berdiri di pinggir kolam. Hari itu langit sangat gelap dan hari seperti itulah yang Ulu sukai. Tidak lama kemudian, air mulai menetes perlahan-lahan dari angkasa.\u201cHujan telah tiba!\u201d Ulu berteriak dengan girang. Ulu pun mulai bersenandung sambil melompat-lompat mengitari kolam. Ia melihat semut yang kecil sedang berteduh di balik bunga matahari.\u201cWahai semut, hujan telah tiba jangan bersembunyi!\u201d seru Ulu kepada semut yang sedang berusaha keras menghindari <em>tetesan<\/em> air hujan.\u00a0Isi Cerita Fabel\u00a0Semut menghela napas dan menatap Ulu dalam-dalam. \u201cUlu, aku tidak suka dengan hujan. Kamu lihat betapa mungilnya tubuhku? Air hujan <em>aka<\/em>n menyeret dan menenggelamkanku ke kolam! Aku tidak bisa berenang sepertimu, makanya aku berteduh,\u201d sahut Semut.\u201cMakanya Semut, kau harus berlatih berenang! Aku sejak berupa berudu sudah bisa berenang, masa kau tidak bisa? Berenang itu sangat mudah, julurkan saja kakimu,\u201d Ulu menjulurkan kakinya, \u201cdan tendang ke belakang seperti ini! Ups, maaf, kakimu kan pendek.\u201d Sambil tertawa, Ulu melompat meninggalkan semut.Semut hanya bisa menatap Ulu dengan kesal. Semut tidak dapat berenang karena ia berjalan.Ulu kembali berseru, \u201cHujan telah tiba! Hujan telah tiba! Oh, hai Ikan! Aku sangat suka dengan hujan, bagaimana denganmu? Ulu berhenti di pinggir kolam dan berbicara kepada Ikan yang sedang berenang di dalam kolam. Ikan mendongakkan kepalanya ke atas dan berbicara kepada Ulu. \u201cAku tidak dapat merasakan hujan Ulu. Lihatlah, aku tinggal bersama air. Bagaimana caranya aku dapat menikmati hujan seperti kamu Ulu?\u201d Ikan pun kembali berputar-putar di dalam kolam.\u201cHah! Sedih sekali hidupmu Ikan! Seandainya kamu seperti aku, dapat hidup di dalam dua dunia, darat dan air, mungkin kamu <em>aka<\/em>n dapat merasakan kebahagiaan ini. Nikmati saja air kolammu sebab kamu tidak <em>aka<\/em>n dapat pernah merasakan rintikan hujan di badanmu!\u201dApa yang Ulu katakan sangat menusuk hati Ikan. Ikan menatap ke arah tubuhnya yang bersisik, lalu menatap ke arah tubuh licin Ulu. Ikan yang bersedih hati pun berenang meninggalkan Ulu ke sisi kolam yang lain. Ulu pun kembali melompat-lompat di sekitar kolam dan kembali bersenandung.Saat Ulu tiba di bawah pohon, ia melihat Burung sedang bertengger di dahan pohon dan membersihkan bulunya. Ulu mengira Burung juga sama seperti Semut dan Ikan yang tidak dapat menikmati hujan.\u201cHai Burung, kenapa kau tidak mau keluar dan menikmati hujan? Apakah kamu takut bulumu basah? Atau apakah kamu takut tenggelam ke dalam kolam seperti semut? Ataukah memang kamu tidak bisa menikmati indahnya hujan seperti Ikan?\u201d Setelah berkata demikian, Ulu tertawa kencang-kencang.Burung menatap ke arah Ulu yang masih tertawa,\u201d Hai Ulu, apakah kau bisa naik kemari?\u201dUlu kebingungan.\u201d Apa maksudmu burung?\u201d\u201cApakah kau bisa memanjat naik kemari Ulu?\u201d\u201cApa yang kau <em>maksud<\/em> Burung? Tentu saja aku tidak bisa!\u201d Ulu cemberut dan menatap kearah dua kakinya. Ulu menyesal punya kaki yang pendek sehingga tidak bisa terbang.\u201cUlu, tidakkah kamu tahu bahwa Sang Pencipta membuat kita dengan keunikan yang berbeda-beda? Aku tidak bisa berenang sepertimu dan ikan, tetapi aku bisa terbang mengitari angkasa. Burung kembali berkata dengan bijak, \u201cItulah yang kumaksud Ulu, kita masing-masing memiliki kelebihan sendiri. Semut tidak bisa berenang sepertimu, tetapi ia bisa menyusup ke tempat-tempat kecil yang tidak dapat kau lewati. Ikan tidak dapat melompat-lompat sepertimu, tetapi ia bernapas di bawah air. Kamu tidak seharusnya menghina mereka!\u201dUlu mulai menyadari bahwa tindakannya salah. Diam-diam Ulu berpikir bahwa tindakannya itu tidak benar. Ia seharusnya tidak menyombongkan kelebihan dan menghina teman-temannya.\u201cMaafkan aku Burung.\u201d ucap Ulu seraya menatap sendu kearah Semut dan Ikan yang sejak tadi memperhatikan pembicaraan mereka. \u201cMaafkan aku Semut, Ikan, selama ini aku telah menyinggung perasaanmu.\u201d Sejak saat itu, Ulu mulai menghargai teman-temannya dan mereka pun menyukainya kembali.Tolong di jawab. besok dikumpul nih . kalo bisa jawab nih tak kasi 30 poin",
+                        "snippet_content": "jangan bersembunyi!\u201d seru Ulu kepada semut yang sedang berusaha keras menghindari <em>tetesan<\/em> air hujan.\u00a0Isi Cerita Fabel\u00a0Semut menghela napas dan menatap"
+                    },
+                    "responses": [
+                        {
+                            "id": 13109017,
+                            "user_id": 5064930,
+                            "task_id": 10795606,
+                            "points": 15,
+                            "created": "2017-05-28T08:06:51+07:00",
+                            "content": "awalnya=<br \/>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Awalnya Ulu sedang berdiri dipinggir kolam menunggu hujan<br \/>tiba-tiba=<br \/>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Tiba tiba hujan turun. ulu senang dan \u00a0ia melompat lompat mengitari kolam<br \/>lalu=<br \/>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Lalu ia melihat seekor semut yang sedang berteduh dibalik bunga matahari. Ia pun mengejeknya karena tidak bisa berenang dan takut hujan<br \/>selanjutnya=<br \/>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Selanjutnya, ia melihat ikan yang sedang berenang didalam kolam.<br \/>Ulu juga mengejek ikan karena tidak bisa menikmati hujan<br \/>kemudian=<br \/>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Kemudian ulu juga melihat burung yang sedang membersihkan bulunya. Ulu juga menejek burung itu karena takut bulunya basah. tetapi burung menasehati ulu bahwa setiap makhluk diciiptakan dengan kemampuan berbeda beda\u00a0agar ia tidak mengejek lagi.<br \/>akhirnya=<br \/>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Akhirnya ulu\u00a0sadar bahwa yang ia lakukan adalah salah. ia pun memita maafkepada burung, ikan, dan semut juga berjanji agar tidak mengejek lagi<br \/><br \/>semoga bermanfaat..<br \/><br \/><br \/>",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 7193933,
+                                        "user_id": 5064930,
+                                        "content": "jadikan yang terbaik ya",
+                                        "created": "2017-05-28T08:07:50+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5064930,
+                                "nick": "aorensa",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dda\/f39d9b18bcd17aa27f4b644f64672365.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10803719,
+                        "subject_id": 1,
+                        "user_id": 5090856,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "menentikan rangkaian peristiwa<br \/>Semua Istimewa<br \/><br \/>Ulu, seekor katak hijau, sedang berdiri di pinggir kolam. Hari itu langit sangat gelap dan hari seperti itulah yang Ulu sukai. Tidak lama kemudian, air mulai menetes perlahan-lahan dari angkasa.<br \/><br \/>\u201cHujan telah tiba!\u201d Ulu berteriak dengan girang. Ulu pun mulai bersenandung sambil melompat-lompat mengitari kolam. Ia melihat semut yang kecil sedang berteduh di balik bunga matahari.<br \/><br \/>\u201cWahai semut, hujan telah tiba jangan bersembunyi!\u201d seru Ulu kepada semut yang sedang berusaha keras menghindari tetesan air hujan.\u00a0Isi Cerita Fabel\u00a0<br \/><br \/>Semut menghela napas dan menatap Ulu dalam-dalam. \u201cUlu, aku tidak suka dengan hujan. Kamu lihat betapa mungilnya tubuhku? Air hujan akan menyeret dan menenggelamkanku ke kolam! Aku tidak bisa berenang sepertimu, makanya aku berteduh,\u201d sahut Semut.<br \/><br \/>\u201cMakanya Semut, kau harus berlatih berenang! Aku sejak berupa berudu sudah bisa berenang, masa kau tidak bisa? Berenang itu sangat mudah, julurkan saja kakimu,\u201d Ulu menjulurkan kakinya, \u201cdan tendang ke belakang seperti ini! Ups, maaf, kakimu kan pendek.\u201d Sambil tertawa, Ulu melompat meninggalkan semut.<br \/><br \/>Semut hanya bisa menatap Ulu dengan kesal. Semut tidak dapat berenang karena ia berjalan.<br \/><br \/>Ulu kembali berseru, \u201cHujan telah tiba! Hujan telah tiba! Oh, hai Ikan! Aku sangat suka dengan hujan, bagaimana denganmu? Ulu berhenti di pinggir kolam dan berbicara kepada Ikan yang sedang berenang di dalam kolam. Ikan mendongakkan kepalanya ke atas dan berbicara kepada Ulu. \u201cAku tidak dapat merasakan hujan Ulu. Lihatlah, aku tinggal bersama air. Bagaimana caranya aku dapat menikmati hujan seperti kamu Ulu?\u201d Ikan pun kembali berputar-putar di dalam kolam.<br \/><br \/>\u201cHah! Sedih sekali hidupmu Ikan! Seandainya kamu seperti aku, dapat hidup di dalam dua dunia, darat dan air, mungkin kamu akan dapat merasakan kebahagiaan ini. Nikmati saja air kolammu sebab kamu tidak akan dapat pernah merasakan rintikan hujan di badanmu!\u201d<br \/><br \/>Apa yang Ulu katakan sangat menusuk hati Ikan. Ikan menatap ke arah tubuhnya yang bersisik, lalu menatap ke arah tubuh licin Ulu. Ikan yang bersedih hati pun berenang meninggalkan Ulu ke sisi kolam yang lain. Ulu pun kembali melompat-lompat di sekitar kolam dan kembali bersenandung.<br \/><br \/>Saat Ulu tiba di bawah pohon, ia melihat Burung sedang bertengger di dahan pohon dan membersihkan bulunya. Ulu mengira Burung juga sama seperti Semut dan Ikan yang tidak dapat menikmati hujan.<br \/><br \/>\u201cHai Burung, kenapa kau tidak mau keluar dan menikmati hujan? Apakah kamu takut bulumu basah? Atau apakah kamu takut tenggelam ke dalam kolam seperti semut? Ataukah memang kamu tidak bisa menikmati indahnya hujan seperti Ikan?\u201d Setelah berkata demikian, Ulu tertawa kencang-kencang.<br \/><br \/>Burung menatap ke arah Ulu yang masih tertawa,\u201d Hai Ulu, apakah kau bisa naik kemari?\u201d<br \/><br \/>Ulu kebingungan.\u201d Apa maksudmu burung?\u201d<br \/><br \/>\u201cApakah kau bisa memanjat naik kemari Ulu?\u201d<br \/><br \/>\u201cApa yang kau maksud Burung? Tentu saja aku tidak bisa!\u201d Ulu cemberut dan menatap kearah dua kakinya. Ulu menyesal punya kaki yang pendek sehingga tidak bisa terbang.<br \/><br \/>\u201cUlu, tidakkah kamu tahu bahwa Sang Pencipta membuat kita dengan keunikan yang berbeda-beda? Aku tidak bisa berenang sepertimu dan ikan, tetapi aku bisa terbang mengitari angkasa. Burung kembali berkata dengan bijak, \u201cItulah yang kumaksud Ulu, kita masing-masing memiliki kelebihan sendiri. Semut tidak bisa berenang sepertimu, tetapi ia bisa menyusup ke tempat-tempat kecil yang tidak dapat kau lewati. Ikan tidak dapat melompat-lompat sepertimu, tetapi ia bernapas di bawah air. Kamu tidak seharusnya menghina mereka!\u201d<br \/><br \/>Ulu mulai menyadari bahwa tindakannya salah. Diam-diam Ulu berpikir bahwa tindakannya itu tidak benar. Ia seharusnya tidak menyombongkan kelebihan dan menghina teman-temannya.<br \/><br \/>\u201cMaafkan aku Burung.\u201d ucap Ulu seraya menatap sendu kearah Semut dan Ikan yang sejak tadi memperhatikan pembicaraan mereka. \u201cMaafkan aku Semut, Ikan, selama ini aku telah menyinggung perasaanmu.\u201d Sejak saat itu, Ulu mulai menghargai teman-temannya dan mereka pun menyukainya kembali.<br \/><br \/>1.mengapa ulu meremehkan teman temannya?<br \/>2.daftarlah karakter manusia yang diibaratkan pada binatang dan karakter binatang asli pada fabel diatas <br \/>3.ceritakan proses ulu akhirnya menyadari kesalahannya!!<br \/>tolong dijawab besok di kumpul",
+                        "created": "2017-05-28T19:59:48+07:00",
+                        "responses": 2,
+                        "tickets": 3,
+                        "first_resp": "2017-05-28T20:02:37+07:00",
+                        "the_best_resp_id": "13119780",
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "menentikan rangkaian peristiwaSemua IstimewaUlu, seekor katak hijau, sedang berdiri di pinggir kolam. Hari itu langit sangat gelap dan hari seperti itulah yang Ulu sukai. Tidak lama kemudian, air mulai menetes perlahan-lahan dari angkasa.\u201cHujan telah tiba!\u201d Ulu berteriak dengan girang. Ulu pun mulai bersenandung sambil melompat-lompat mengitari kolam. Ia melihat semut yang kecil sedang berteduh di balik bunga matahari.\u201cWahai semut, hujan telah tiba jangan bersembunyi!\u201d seru Ulu kepada semut yang sedang berusaha keras menghindari <em>tetesan<\/em> air hujan.\u00a0Isi Cerita Fabel\u00a0Semut menghela napas dan menatap Ulu dalam-dalam. \u201cUlu, aku tidak suka dengan hujan. Kamu lihat betapa mungilnya tubuhku? Air hujan <em>aka<\/em>n menyeret dan menenggelamkanku ke kolam! Aku tidak bisa berenang sepertimu, makanya aku berteduh,\u201d sahut Semut.\u201cMakanya Semut, kau harus berlatih berenang! Aku sejak berupa berudu sudah bisa berenang, masa kau tidak bisa? Berenang itu sangat mudah, julurkan saja kakimu,\u201d Ulu menjulurkan kakinya, \u201cdan tendang ke belakang seperti ini! Ups, maaf, kakimu kan pendek.\u201d Sambil tertawa, Ulu melompat meninggalkan semut.Semut hanya bisa menatap Ulu dengan kesal. Semut tidak dapat berenang karena ia berjalan.Ulu kembali berseru, \u201cHujan telah tiba! Hujan telah tiba! Oh, hai Ikan! Aku sangat suka dengan hujan, bagaimana denganmu? Ulu berhenti di pinggir kolam dan berbicara kepada Ikan yang sedang berenang di dalam kolam. Ikan mendongakkan kepalanya ke atas dan berbicara kepada Ulu. \u201cAku tidak dapat merasakan hujan Ulu. Lihatlah, aku tinggal bersama air. Bagaimana caranya aku dapat menikmati hujan seperti kamu Ulu?\u201d Ikan pun kembali berputar-putar di dalam kolam.\u201cHah! Sedih sekali hidupmu Ikan! Seandainya kamu seperti aku, dapat hidup di dalam dua dunia, darat dan air, mungkin kamu <em>aka<\/em>n dapat merasakan kebahagiaan ini. Nikmati saja air kolammu sebab kamu tidak <em>aka<\/em>n dapat pernah merasakan rintikan hujan di badanmu!\u201dApa yang Ulu katakan sangat menusuk hati Ikan. Ikan menatap ke arah tubuhnya yang bersisik, lalu menatap ke arah tubuh licin Ulu. Ikan yang bersedih hati pun berenang meninggalkan Ulu ke sisi kolam yang lain. Ulu pun kembali melompat-lompat di sekitar kolam dan kembali bersenandung.Saat Ulu tiba di bawah pohon, ia melihat Burung sedang bertengger di dahan pohon dan membersihkan bulunya. Ulu mengira Burung juga sama seperti Semut dan Ikan yang tidak dapat menikmati hujan.\u201cHai Burung, kenapa kau tidak mau keluar dan menikmati hujan? Apakah kamu takut bulumu basah? Atau apakah kamu takut tenggelam ke dalam kolam seperti semut? Ataukah memang kamu tidak bisa menikmati indahnya hujan seperti Ikan?\u201d Setelah berkata demikian, Ulu tertawa kencang-kencang.Burung menatap ke arah Ulu yang masih tertawa,\u201d Hai Ulu, apakah kau bisa naik kemari?\u201dUlu kebingungan.\u201d Apa maksudmu burung?\u201d\u201cApakah kau bisa memanjat naik kemari Ulu?\u201d\u201cApa yang kau <em>maksud<\/em> Burung? Tentu saja aku tidak bisa!\u201d Ulu cemberut dan menatap kearah dua kakinya. Ulu menyesal punya kaki yang pendek sehingga tidak bisa terbang.\u201cUlu, tidakkah kamu tahu bahwa Sang Pencipta membuat kita dengan keunikan yang berbeda-beda? Aku tidak bisa berenang sepertimu dan ikan, tetapi aku bisa terbang mengitari angkasa. Burung kembali berkata dengan bijak, \u201cItulah yang kumaksud Ulu, kita masing-masing memiliki kelebihan sendiri. Semut tidak bisa berenang sepertimu, tetapi ia bisa menyusup ke tempat-tempat kecil yang tidak dapat kau lewati. Ikan tidak dapat melompat-lompat sepertimu, tetapi ia bernapas di bawah air. Kamu tidak seharusnya menghina mereka!\u201dUlu mulai menyadari bahwa tindakannya salah. Diam-diam Ulu berpikir bahwa tindakannya itu tidak benar. Ia seharusnya tidak menyombongkan kelebihan dan menghina teman-temannya.\u201cMaafkan aku Burung.\u201d ucap Ulu seraya menatap sendu kearah Semut dan Ikan yang sejak tadi memperhatikan pembicaraan mereka. \u201cMaafkan aku Semut, Ikan, selama ini aku telah menyinggung perasaanmu.\u201d Sejak saat itu, Ulu mulai menghargai teman-temannya dan mereka pun menyukainya kembali.1.mengapa ulu meremehkan teman temannya?2.daftarlah karakter manusia yang diibaratkan pada binatang dan karakter binatang asli pada fabel diatas 3.ceritakan proses ulu akhirnya menyadari kesalahannya!!tolong dijawab besok di kumpul",
+                        "snippet_content": "jangan bersembunyi!\u201d seru Ulu kepada semut yang sedang berusaha keras menghindari <em>tetesan<\/em> air hujan.\u00a0Isi Cerita Fabel\u00a0Semut menghela napas dan menatap"
+                    },
+                    "responses": [
+                        {
+                            "id": 13119654,
+                            "user_id": 5070706,
+                            "task_id": 10803719,
+                            "points": 5,
+                            "created": "2017-05-28T20:02:37+07:00",
+                            "content": "1.Karena teman-teman ulu tidak bisa menikmati hujan seperti yang dilakukan oleh ulu<br \/>2.Sombong,bijaksana,rendah diri<br \/>3.Mulai dari ulu mengejek burung lalu burung menasehati ulu sampai terakhir",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 13119780,
+                            "user_id": 5096192,
+                            "task_id": 10803719,
+                            "points": 5,
+                            "created": "2017-05-28T20:08:16+07:00",
+                            "content": "1. Karena Ulu bisa\u00a0melakukan hal yang tidak bisa dilakukan oleh ikan dan semut. Maka dari itu, Ulu sombong.<br \/>2. Sombong<br \/>3. Ringkas apa engga? kalau iya : Ulu senang hari hujan. Ketika hari hujan, Ulu ketemu Semut. Dan Ulu mengejek semut karena tidak bisa menikmati hujan. Lalu, bertemu lagi dengan ikan. Ikan pun tidak bisa menikmati hujan. Jadinya Ulu mengjek juga. Dan ulu bertemu burung. Burung menasihatinya dan Ulu sadar akan kesalahannya",
+                            "mark": 5,
+                            "marks_count": 2,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5070706,
+                                "nick": "HelloNeighbour",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/da0\/387af022a73a307bf2771d8abbaec655.jpg"
+                            },
+                            {
+                                "id": 5096192,
+                                "nick": "KimKiki",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d59\/c2a5ad98f7aee974c66046ea959fce1f.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10680904,
+                        "subject_id": 1,
+                        "user_id": 3976286,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Seorang diri ditengah ladang. Seruling bambu selalu kau bawa. Kerbau hitam kau jadikan teman. Jelaskan maksud kau dalam puisi itu",
+                        "created": "2017-05-17T09:15:17+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2017-05-17T09:17:58+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "6",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Seorang diri ditengah ladang. Seruling bambu selalu kau bawa. Kerbau hitam kau <em>ja<\/em>dikan <em>teman.<\/em> Jelaskan <em>maksud<\/em> kau dalam puisi itu",
+                        "snippet_content": "Seorang diri ditengah ladang. Seruling bambu selalu kau bawa. Kerbau hitam kau <em>ja<\/em>dikan <em>teman.<\/em> Jelaskan <em>maksud<\/em> kau dalam puisi itu"
+                    },
+                    "responses": [
+                        {
+                            "id": 12942648,
+                            "user_id": 5043730,
+                            "task_id": 10680904,
+                            "points": 5,
+                            "created": "2017-05-17T09:17:58+07:00",
+                            "content": "Kau di puisi itu menceritakan seorang penggembala kerbau ",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 12942671,
+                            "user_id": 5038718,
+                            "task_id": 10680904,
+                            "points": 5,
+                            "created": "2017-05-17T09:19:29+07:00",
+                            "content": "Seseorang yang sedang kesepian atau larut dalam kesendirian",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5043730,
+                                "nick": "Zhelkunx",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dfb\/5e0f0d366ed47bcb56e4cffc8f8795eb.jpg"
+                            },
+                            {
+                                "id": 5038718,
+                                "nick": "Dindatree",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d9b\/70091cba35729b0857af22a4ac18b5cf.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10722969,
+                        "subject_id": 6,
+                        "user_id": 5065756,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "apa kah yang di maksd tekanan udara<br \/>",
+                        "created": "2017-05-20T05:16:19+07:00",
+                        "responses": 2,
+                        "tickets": 4,
+                        "first_resp": "2017-05-20T05:18:24+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "<em>apa<\/em> kah yang di <em>maksd<\/em> <em>tekanan<\/em> udara",
+                        "snippet_content": "<em>apa<\/em> kah yang di <em>maksd<\/em> <em>tekanan<\/em> udara"
+                    },
+                    "responses": [
+                        {
+                            "id": 13000336,
+                            "user_id": 5051107,
+                            "task_id": 10722969,
+                            "points": 5,
+                            "created": "2017-05-20T05:18:24+07:00",
+                            "content": "tekanan udara adalah berat massa yang dikandung oleh udara.tekanan udara selalu berlawanan dengan suhu udara.contoh jika suhu udara tinggi maka tekanan udara rendah<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 13000347,
+                            "user_id": 5057931,
+                            "task_id": 10722969,
+                            "points": 5,
+                            "created": "2017-05-20T05:20:41+07:00",
+                            "content": "Tekanan udara adalah\u00a0tenaga yang bekerja untuk menggerakkan massa udara dalam setiap satuan luas tertentu. Diukur dengan menggunakan barometer. ",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5051107,
+                                "nick": "sabilasabrina",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/db3\/2ffb5ecfffa063dac2966eb5dc931562.jpg"
+                            },
+                            {
+                                "id": 5057931,
+                                "nick": "buyungya",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/df5\/b86f660cb85e755360bc426f7c4d05c7.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 15,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 4993068,
+            "nick": "SyawaLiSaputro",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 96,
+                "answers": 53,
+                "comments": 265
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d1b\/fa11b008c423fb9206930759b62d9a3b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d9c\/888927bbd8ff3c8b6f4d66ae8938f915.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d1b\/fa11b008c423fb9206930759b62d9a3b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d9c\/888927bbd8ff3c8b6f4d66ae8938f915.jpg"
+            },
+            "ranks": {
+                "color": "#000000",
+                "names": [],
+                "count": 0
+            },
+            "ranks_ids": null
+        },
+        {
+            "id": 4626223,
+            "nick": "galang1233",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 21,
+                "answers": 800,
+                "comments": 587
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d36\/fcc366c9a07d86fd337fc423d94a7f8f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d01\/1da0040a58a3315b4d165d72097de2fa.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d36\/fcc366c9a07d86fd337fc423d94a7f8f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d01\/1da0040a58a3315b4d165d72097de2fa.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        },
+        {
+            "id": 5020801,
+            "nick": "Meatball",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 1052,
+                "comments": 404
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dfc\/e3af7806cbbaec6357b157afead77075.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da4\/83fa3c6896e784c5ec26f7215ee3e503.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dfc\/e3af7806cbbaec6357b157afead77075.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da4\/83fa3c6896e784c5ec26f7215ee3e503.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Spam Fighter ",
+                    "BrainlyElite",
+                    "Si Hebat"
+                ],
+                "count": 3
+            },
+            "ranks_ids": [
+                17,
+                27,
+                6
+            ]
+        },
+        {
+            "id": 5050834,
+            "nick": "Babangharitsganteng",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 134,
+                "comments": 52
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d59\/8035cdb3328859a48379ea4dd93e0cbe.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6d\/55061e5182ff2de0b208bf55b30719c7.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d59\/8035cdb3328859a48379ea4dd93e0cbe.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6d\/55061e5182ff2de0b208bf55b30719c7.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 5053885,
+            "nick": "ilhameka15",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 2
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9d\/f1796882da499d5a72e810b76ed4b06f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d3e\/a0e33bf7e9947e988d7103274d51e79a.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9d\/f1796882da499d5a72e810b76ed4b06f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d3e\/a0e33bf7e9947e988d7103274d51e79a.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 854637,
+            "nick": "paul29",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 149,
+                "comments": 65
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9b\/82c9d7374821ebeaea346b3f80f6a9b6.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d04\/84c08cc7d28f7494ffdd887a3367b8da.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9b\/82c9d7374821ebeaea346b3f80f6a9b6.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d04\/84c08cc7d28f7494ffdd887a3367b8da.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 781309,
+            "nick": "Ramizers",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 71,
+                "comments": 12
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d38\/8f13e1203bb3d893ddca408c7e9c0fc8.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da3\/b1aaceeb207f93e0869a311e51160778.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d38\/8f13e1203bb3d893ddca408c7e9c0fc8.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da3\/b1aaceeb207f93e0869a311e51160778.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 5150302,
+            "nick": "sofianagnt04",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4787102,
+            "nick": "tri307",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 266,
+                "comments": 84
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d94\/afa9e7be284a04f547a130dba68c61b0.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ddd\/056d4b061b77dd6866dbd3314b028990.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d94\/afa9e7be284a04f547a130dba68c61b0.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/ddd\/056d4b061b77dd6866dbd3314b028990.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 3812303,
+            "nick": "Ryder11",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 44,
+                "answers": 6289,
+                "comments": 279
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d71\/eb971e9bc871d177b40c1f5959f27cca.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d49\/4ff4088e425279925b8fdabfb3f1f737.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d71\/eb971e9bc871d177b40c1f5959f27cca.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d49\/4ff4088e425279925b8fdabfb3f1f737.jpg"
+            },
+            "ranks": {
+                "color": "#ffbe32",
+                "names": [
+                    "Apprentice",
+                    "Spam Fighter ",
+                    "KsatriaBrainly",
+                    "BrainlyElite",
+                    "GameMaker",
+                    "Jenius"
+                ],
+                "count": 6
+            },
+            "ranks_ids": [
+                20,
+                17,
+                23,
+                27,
+                24,
+                7
+            ]
+        },
+        {
+            "id": 3453816,
+            "nick": "putridias23",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 14,
+                "comments": 8
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d5a\/1e85f761112d2a0824fc736044f4214f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd0\/b61de8e37174e075aee81c933e583091.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d5a\/1e85f761112d2a0824fc736044f4214f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd0\/b61de8e37174e075aee81c933e583091.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 4967725,
+            "nick": "iftanminpantonlabu",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 12,
+                "answers": 449,
+                "comments": 326
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d49\/49e4ffd5f9cf8981e3910656f44a826b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d15\/4c118b2076605573df86452a4e3b4b1d.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d49\/49e4ffd5f9cf8981e3910656f44a826b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d15\/4c118b2076605573df86452a4e3b4b1d.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        },
+        {
+            "id": 4151232,
+            "nick": "cutersz",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 18,
+                "comments": 6
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dce\/48dcf52377a39eab2a6d93ca6cb04bed.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d66\/b3861c974a0606d2eb7b0c1aa714d261.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dce\/48dcf52377a39eab2a6d93ca6cb04bed.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d66\/b3861c974a0606d2eb7b0c1aa714d261.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4813045,
+            "nick": "Jovannynh",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 2,
+                "comments": 2
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc5\/20ac72203e953522f60510464b6b0892.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6d\/ed26ab846b29cdc8b14fd04768378bb4.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc5\/20ac72203e953522f60510464b6b0892.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6d\/ed26ab846b29cdc8b14fd04768378bb4.png"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 5042200,
+            "nick": "babybanana",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 9,
+                "comments": 3
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df0\/673fac4201b8e0a5881481f41030fc0c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da7\/ea0a05bf6a1a17caad0e6881ad5ab703.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df0\/673fac4201b8e0a5881481f41030fc0c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da7\/ea0a05bf6a1a17caad0e6881ad5ab703.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 5140743,
+            "nick": "luthfi0708",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d88\/2db86d23ab1bb8422ed3ef00e392d573.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d2e\/2242829fd3b4fe9aed1da5ffdb81a87a.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d88\/2db86d23ab1bb8422ed3ef00e392d573.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d2e\/2242829fd3b4fe9aed1da5ffdb81a87a.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4992396,
+            "nick": "firdaalfi21",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 23,
+                "comments": 4
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d23\/911266f68911c38cfe194fec10077f67.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d45\/6934064b2c2ff5625322a398a528f3b4.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d23\/911266f68911c38cfe194fec10077f67.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d45\/6934064b2c2ff5625322a398a528f3b4.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 5140801,
+            "nick": "Wand25",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 8,
+                "comments": 3
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d2d\/57e2ec3713ef3de6f3f0aa5043c75a92.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d53\/da6587d55b2423b07ed643e7fa2eb538.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d2d\/57e2ec3713ef3de6f3f0aa5043c75a92.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d53\/da6587d55b2423b07ed643e7fa2eb538.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 2079306,
+            "nick": "yunitaanggun1",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 1,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4915816,
+            "nick": "Harfian123",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 190,
+                "comments": 45
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d96\/51d9a18f9326c6af602c71b44f3c7e13.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d59\/8cf5d0b453fa6973adfbfdb2f7e8fb1a.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d96\/51d9a18f9326c6af602c71b44f3c7e13.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d59\/8cf5d0b453fa6973adfbfdb2f7e8fb1a.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 5152544,
+            "nick": "Kartinidewisinta",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd2\/d5fd846afa0992e684ad8b49bd6c8be4.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d21\/7fe2785102551112f37b0ee3a652d692.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd2\/d5fd846afa0992e684ad8b49bd6c8be4.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d21\/7fe2785102551112f37b0ee3a652d692.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 5151855,
+            "nick": "alfiandaeng27",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 2,
+                "comments": 4
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df8\/8d7fec44713bb8c1701db5820a68d578.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dff\/25df100da56a6f1ad0304d5ce6ff938a.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df8\/8d7fec44713bb8c1701db5820a68d578.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dff\/25df100da56a6f1ad0304d5ce6ff938a.png"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4856127,
+            "nick": "hanim8",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 12,
+                "answers": 29,
+                "comments": 18
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d23\/43426ee9217e534564e810113343ef40.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df3\/46cff8f6d98073018dc0ba9c7d40ff99.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d23\/43426ee9217e534564e810113343ef40.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df3\/46cff8f6d98073018dc0ba9c7d40ff99.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 4768210,
+            "nick": "intan17gege",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 147,
+                "comments": 25
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dcc\/345ca63dc603ccf08759e563c605cae4.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d22\/d1a2a59b601de2f09cd974166015b9a1.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dcc\/345ca63dc603ccf08759e563c605cae4.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d22\/d1a2a59b601de2f09cd974166015b9a1.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 4174664,
+            "nick": "arielalayidrus",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 76,
+                "answers": 44,
+                "comments": 46
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d01\/02e0cc0fa6af013dead1ae09f9644398.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d0f\/8f602afcf58fafb4225319066e5bfb77.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d01\/02e0cc0fa6af013dead1ae09f9644398.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d0f\/8f602afcf58fafb4225319066e5bfb77.jpg"
+            },
+            "ranks": {
+                "color": "#000000",
+                "names": [],
+                "count": 0
+            },
+            "ranks_ids": null
+        },
+        {
+            "id": 4413728,
+            "nick": "icha2912",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 178,
+                "comments": 52
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dbd\/3c2bdc9b50fe4d9e4723fce13bfca749.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da5\/f96af3951dc4e5925d287b78de4abfc0.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dbd\/3c2bdc9b50fe4d9e4723fce13bfca749.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da5\/f96af3951dc4e5925d287b78de4abfc0.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 5090856,
+            "nick": "igederangga",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 12,
+                "answers": 14,
+                "comments": 25
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d78\/8757136f652548b6a9622a54f35b7ded.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dab\/962a6b50bacccb58818cef5b64eac297.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d78\/8757136f652548b6a9622a54f35b7ded.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dab\/962a6b50bacccb58818cef5b64eac297.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 3344602,
+            "nick": "king747",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 22,
+                "answers": 4446,
+                "comments": 541
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d23\/39925569b665b317a035b58bf68cb12f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de8\/e9be27f67155689bf9e85f3c5803670a.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d23\/39925569b665b317a035b58bf68cb12f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de8\/e9be27f67155689bf9e85f3c5803670a.jpg"
+            },
+            "ranks": {
+                "color": "#ffbe32",
+                "names": [
+                    "KsatriaBrainly",
+                    "Spam Fighter ",
+                    "Jenius"
+                ],
+                "count": 3
+            },
+            "ranks_ids": [
+                23,
+                17,
+                7
+            ]
+        },
+        {
+            "id": 5064930,
+            "nick": "aorensa",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 41,
+                "comments": 40
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d50\/58b561635889004e2fa6ee2f9acdaa76.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dda\/f39d9b18bcd17aa27f4b644f64672365.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d50\/58b561635889004e2fa6ee2f9acdaa76.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dda\/f39d9b18bcd17aa27f4b644f64672365.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 5070706,
+            "nick": "HelloNeighbour",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 8,
+                "answers": 319,
+                "comments": 73
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d85\/87286e3a1a47c5c935577124b074af49.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da0\/387af022a73a307bf2771d8abbaec655.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d85\/87286e3a1a47c5c935577124b074af49.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da0\/387af022a73a307bf2771d8abbaec655.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 5096192,
+            "nick": "KimKiki",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 9,
+                "comments": 6
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d6f\/06464bf951931f1c025197865caf8373.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d59\/c2a5ad98f7aee974c66046ea959fce1f.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d6f\/06464bf951931f1c025197865caf8373.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d59\/c2a5ad98f7aee974c66046ea959fce1f.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 3976286,
+            "nick": "davinakhairani",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 8,
+                "answers": 0,
+                "comments": 1
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 5043730,
+            "nick": "Zhelkunx",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 9,
+                "answers": 28,
+                "comments": 7
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d03\/1180e0256ed883e01a757ac032eeb8ba.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dfb\/5e0f0d366ed47bcb56e4cffc8f8795eb.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d03\/1180e0256ed883e01a757ac032eeb8ba.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dfb\/5e0f0d366ed47bcb56e4cffc8f8795eb.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 5038718,
+            "nick": "Dindatree",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 69,
+                "comments": 5
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd0\/1e0d9196ed8300058e85828ad0a354b8.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d9b\/70091cba35729b0857af22a4ac18b5cf.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dd0\/1e0d9196ed8300058e85828ad0a354b8.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d9b\/70091cba35729b0857af22a4ac18b5cf.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 5065756,
+            "nick": "Emaida",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d71\/8417d85ca3620118f2553a37e26a7332.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d9f\/5939729c49a75f9d26603c44147ccb13.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d71\/8417d85ca3620118f2553a37e26a7332.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d9f\/5939729c49a75f9d26603c44147ccb13.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 5051107,
+            "nick": "sabilasabrina",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 193,
+                "comments": 45
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d01\/b6d0906e0e12711f74bf96cf0d98d872.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db3\/2ffb5ecfffa063dac2966eb5dc931562.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d01\/b6d0906e0e12711f74bf96cf0d98d872.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db3\/2ffb5ecfffa063dac2966eb5dc931562.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 5057931,
+            "nick": "buyungya",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 1,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d27\/052240762ae9177da6bbdb5f9da08156.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df5\/b86f660cb85e755360bc426f7c4d05c7.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d27\/052240762ae9177da6bbdb5f9da08156.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df5\/b86f660cb85e755360bc426f7c4d05c7.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        }
+    ],
+    "validated": false
+}

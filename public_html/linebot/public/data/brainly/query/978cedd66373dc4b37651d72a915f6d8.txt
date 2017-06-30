@@ -1,0 +1,830 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 9905013,
+                        "subject_id": 1,
+                        "user_id": 4743811,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 21,
+                            "ptsForResp": 11,
+                            "ptsForBest": 6
+                        },
+                        "content": "apa itu graphic novel , visual novel , light novel dan novel",
+                        "created": "2017-03-18T15:27:23+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-03-18T15:32:50+07:00",
+                        "the_best_resp_id": "11896746",
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "apa itu graphic <em>novel<\/em> , <em>visual<\/em> <em>novel<\/em> , light <em>novel<\/em> dan <em>novel<\/em>",
+                        "snippet_content": "apa itu graphic <em>novel<\/em> , <em>visual<\/em> <em>novel<\/em> , light <em>novel<\/em> dan <em>novel<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 11896746,
+                            "user_id": 4743443,
+                            "task_id": 9905013,
+                            "points": 11,
+                            "created": "2017-03-18T15:32:50+07:00",
+                            "content": "graphic novel  = novel tp ada kek gambar berupa komik strip<br \/>visual novel = biasanya berupa game, kek otome. buat menyenangkan hati cwe cwe (cth: mystic messenger, keknya sih)<br \/>light novel= novel yg ga terlalu tebal, biasanya ada gmbrnya juga, cuma gambarnya bukan kayak komik strip.<br \/>novel= karangan yang biasanya berisi tentang kehidupan seseorang dan org2 di sekitanya",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2017-03-25T07:31:26+07:00",
+                                "approver": {
+                                    "id": 4247928,
+                                    "nickname": "justizyach",
+                                    "points": 161820,
+                                    "grade": 2,
+                                    "gender": 1,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/d11\/85b1f437af5d8145abce05dad6b137c8.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/deb\/b0ae2e573253fb1ac7ee79ba211665fe.png"
+                                    },
+                                    "content_approved_count": 6645
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4743443,
+                                "nick": "kazucchi",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/daf\/7a7a5f5eea164f5b5a145c3cad4bfe4a.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 3277663,
+                        "subject_id": 11,
+                        "user_id": 1787665,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 12,
+                            "ptsForResp": 6,
+                            "ptsForBest": 3
+                        },
+                        "content": "Apa engine dan bahasa yg digunakan untuk membuat visual novel?",
+                        "created": "2015-08-31T23:23:00+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2015-08-31T23:26:22+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Apa engine dan bahasa yg digunakan untuk membuat <em>visual<\/em> <em>novel<\/em>?",
+                        "snippet_content": "Apa engine dan bahasa yg digunakan untuk membuat <em>visual<\/em> <em>novel<\/em>?"
+                    },
+                    "responses": [
+                        {
+                            "id": 4032514,
+                            "user_id": 1774027,
+                            "task_id": 3277663,
+                            "points": 6,
+                            "created": "2015-08-31T23:26:22+07:00",
+                            "content": "Ren'py engine. bisa download secara gratis. bahasanya pake phyton.",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 1774027,
+                                "nick": "Fiorendy",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dcb\/b50c9585a3abdb7b5720e919940d943f.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 5864241,
+                        "subject_id": 19,
+                        "user_id": 2854128,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 50,
+                            "ptsForResp": 25,
+                            "ptsForBest": 13
+                        },
+                        "content": "1.Mencari Pemain Sebagai Pemeran Dalam Sebuah Teater Disebut....      A.Hunting                                          B.Tracking<br \/>\nC.Shooting<br \/>\nD.Casting<br \/>\n2.Berikut ini adalah unsur-unsur yang perlu dipersiapkan dalam sebuah pertunjukan,kecuali...<br \/>\nA.pemain<br \/>\nB.sutradara<br \/>\nC.sponsor<br \/>\nD.naskah<br \/>\n3.Berikut ini adalah unsur-unsur drama yang menarik dari segi visual...<br \/>\nA.setting<br \/>\nB.tata cahaya<br \/>\nC.vokal pemain<br \/>\nD.busana<br \/>\n4.Ilustrasi musik dimaksudkan agar sebuah drama terlihat...<br \/>\nA.dinamis<br \/>\nB.lebih menarik<br \/>\nC.tidak monoton<br \/>\nD.sungguh-sungguh<br \/>\n5.Orang yang memegang kendali dan sebuah pementasan adalah...<br \/>\nA.pemain<br \/>\nB.tokoh utama<br \/>\nC.sponsorship<br \/>\nD.sutradara<br \/>\n6.Modal utama seorang pemain teater adalah...<br \/>\nA.tubuh dan suara<br \/>\nB.suara dan gerak<br \/>\nC.tubuh dan gerak<br \/>\nD.pikiran dan suara<br \/>\n7.Merancang sebuah karya teater sangat membutuhkan...<br \/>\nA.dana<br \/>\nB.kreativitas<br \/>\nC.pemain<br \/>\nD.tempat pertumjukan<br \/>\n8.Membeli perubahan pada wajah pemain sehingga sesuai dengan watak yang diperankan adalah tugas dari...<br \/>\nA.sutradara<br \/>\nB.tata rias<br \/>\nC.ilustrasi musik<br \/>\nD.tata punggung<br \/>\n9.Dalam drama tradisional,pemilihan peran lebih didasarkan pada...<br \/>\nA.kecocokan fisik<br \/>\nB.keterampilan<br \/>\nC.kreativitas<br \/>\nD.keinginan sutradara<br \/>\n10.Berikut ini cara untuk menjadi pemain yang berbobot,kecuali...<br \/>\nA.latihan secara rutin<br \/>\nB.menjiwai peran<br \/>\nC.mencari popularitas<br \/>\nD.memiliki wawasan yang luas<br \/>\n11.Berikut ini fumgai teater,kecuali...<br \/>\nA.media ekspresi<br \/>\nB.media komunikasi<br \/>\nC.media provokas<br \/>\nD.media informasi<br \/>\n12.Peran pelengkap dalam pertunjukan drama sering disebut peran...<br \/>\nA.figuran<br \/>\nB.utama<br \/>\nC.tritagonis<br \/>\nD.antagonis<br \/>\n13.Berikut ini adalah alat musik yang mengiringi drama bonjet,kecuali...<br \/>\nA.Gong<br \/>\nB.kendang<br \/>\nC.kromong<br \/>\nD.kecrek<br \/>\n14.Berikut ini merupakan latihan olah tubuh yaitu...<br \/>\nA.artikulasi<br \/>\nB.relaksasi<br \/>\nC.membuka mulut<br \/>\nD.irama<br \/>\n15.Ludruk berasa dari daerah...<br \/>\nA.sumatra<br \/>\nB.jawa timur<br \/>\nC.bali<br \/>\nD.kalimantan<br \/>\n16.ciri dari teater daerah jawa tengah adalah...<br \/>\nA.memiliki alur yang panjang<br \/>\nB.tidak ada peran protagonisnya<br \/>\nC.diperankan oleh wanita<br \/>\nD.tidak memiliki alur<br \/>\n17.kata teater berasal dari bahasa...<br \/>\nA.inggris<br \/>\nB.jerman<br \/>\nC.belanda<br \/>\nD.yunani<br \/>\n18.Teater mandiri disutradai oleh<br \/>\nA.N.riantirno<br \/>\nB.putu wijaya<br \/>\nC.teguh karya<br \/>\nD.arifin c.noor<br \/>\n19.Tokoh kejam dan jahat dalam pertunjukan barong bernama...<br \/>\nA.calon arang<br \/>\nB.dasamuka<br \/>\nC.rangda\/leak<br \/>\nD.hanoman<br \/>\n20.berikut ini adalah bentuk-bentuk teater dari daerah jawa harat adalah,kecuali...<br \/>\nA.longser<br \/>\nB.bonjet<br \/>\nC.lenong<br \/>\nD.anklung badud<br \/>\n21.ide cerita wayang orang diambil dari cerita...<br \/>\nA.ramayana<br \/>\nB.mitos<br \/>\nC.keseharian<br \/>\nD.novel<br \/>\n22.tolok ukur dari keberhasilan teater sebagai sebuah pertunjukan adalah...<br \/>\nA.penonton<br \/>\nB.waktu<br \/>\nC.tempat<br \/>\nD.pemain<br \/>\n23.Dalam sebuah teater bercakup beberapa seni lain,di antaranya sebagai berikut,kecuali...<br \/>\nA.seni peran <br \/>\nB.seni rupa<br \/>\nC.seni sastra<br \/>\nD.seni rancang bangun<br \/>\n24.sifat atau watak dalam seni teater disebut dengan<br \/>\nA.karakter<br \/>\nB.plot<br \/>\nC.premis<br \/>\nD.peran<br \/>\n25.peran pelengkap yang secara tidak langsung terlibat dalam konflik yang terjadi tetapi sangtlat diperlukan untuk penyelesaian cerita disebut...<br \/>\nA.protagonis<br \/>\nB.antagonis<br \/>\nC.tritagonis<br \/>\nD.figuran",
+                        "created": "2016-04-21T19:38:34+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2016-04-21T20:34:31+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "1.Mencari Pemain Sebagai Pemeran Dalam Sebuah Teater Disebut....      A.Hunting                                          B.Tracking\nC.Shooting\nD.Casting\n2.Berikut ini adalah unsur-unsur yang perlu dipersiapkan dalam sebuah pertunjukan,kecuali...\nA.pemain\nB.sutradara\nC.sponsor\nD.naskah\n3.Berikut ini adalah unsur-unsur drama yang menarik dari segi <em>visual...<\/em>\nA.setting\nB.tata cahaya\nC.vokal pemain\nD.busana\n4.Ilustrasi musik dimaksudkan agar sebuah drama terlihat...\nA.dinamis\nB.lebih menarik\nC.tidak monoton\nD.sungguh-sungguh\n5.Orang yang memegang kendali dan sebuah pementasan adalah...\nA.pemain\nB.tokoh utama\nC.sponsorship\nD.sutradara\n6.Modal utama seorang pemain teater adalah...\nA.tubuh dan suara\nB.suara dan gerak\nC.tubuh dan gerak\nD.pikiran dan suara\n7.Merancang sebuah karya teater sangat membutuhkan...\nA.dana\nB.kreativitas\nC.pemain\nD.tempat pertumjukan\n8.Membeli perubahan pada wajah pemain sehingga sesuai dengan watak yang diperankan adalah tugas dari...\nA.sutradara\nB.tata rias\nC.ilustrasi musik\nD.tata punggung\n9.Dalam drama tradisional,pemilihan peran lebih didasarkan pada...\nA.kecocokan fisik\nB.keterampilan\nC.kreativitas\nD.keinginan sutradara\n10.Berikut ini cara untuk menjadi pemain yang berbobot,kecuali...\nA.latihan secara rutin\nB.menjiwai peran\nC.mencari popularitas\nD.memiliki wawasan yang luas\n11.Berikut ini fumgai teater,kecuali...\nA.media ekspresi\nB.media komunikasi\nC.media provokas\nD.media informasi\n12.Peran pelengkap dalam pertunjukan drama sering disebut peran...\nA.figuran\nB.utama\nC.tritagonis\nD.antagonis\n13.Berikut ini adalah alat musik yang mengiringi drama bonjet,kecuali...\nA.Gong\nB.kendang\nC.kromong\nD.kecrek\n14.Berikut ini merupakan latihan olah tubuh yaitu...\nA.artikulasi\nB.relaksasi\nC.membuka mulut\nD.irama\n15.Ludruk berasa dari daerah...\nA.sumatra\nB.jawa timur\nC.bali\nD.kalimantan\n16.ciri dari teater daerah jawa tengah adalah...\nA.memiliki alur yang panjang\nB.tidak ada peran protagonisnya\nC.diperankan oleh wanita\nD.tidak memiliki alur\n17.kata teater berasal dari bahasa...\nA.inggris\nB.jerman\nC.belanda\nD.yunani\n18.Teater mandiri disutradai oleh\nA.N.riantirno\nB.putu wijaya\nC.teguh karya\nD.arifin c.noor\n19.Tokoh kejam dan jahat dalam pertunjukan barong bernama...\nA.calon arang\nB.dasamuka\nC.rangda\/leak\nD.hanoman\n20.berikut ini adalah bentuk-bentuk teater dari daerah jawa harat adalah,kecuali...\nA.longser\nB.bonjet\nC.lenong\nD.anklung badud\n21.ide cerita wayang orang diambil dari cerita...\nA.ramayana\nB.mitos\nC.keseharian\nD.<em>novel<\/em>\n22.tolok ukur dari keberhasilan teater sebagai sebuah pertunjukan adalah...\nA.penonton\nB.waktu\nC.tempat\nD.pemain\n23.Dalam sebuah teater bercakup beberapa seni lain,di antaranya sebagai berikut,kecuali...\nA.seni peran \nB.seni rupa\nC.seni sastra\nD.seni rancang bangun\n24.sifat atau watak dalam seni teater disebut dengan\nA.karakter\nB.plot\nC.premis\nD.peran\n25.peran pelengkap yang secara tidak langsung terlibat dalam konflik yang terjadi tetapi sangtlat diperlukan untuk penyelesaian cerita disebut...\nA.protagonis\nB.antagonis\nC.tritagonis\nD.figuran",
+                        "snippet_content": "3.Berikut ini adalah unsur-unsur drama yang menarik dari segi <em>visual...<\/em>\nA.setting\nB.tata cahaya\nC.vokal pemain\nD.busana"
+                    },
+                    "responses": [
+                        {
+                            "id": 6962492,
+                            "user_id": 2923272,
+                            "task_id": 5864241,
+                            "points": 25,
+                            "created": "2016-04-21T20:34:31+07:00",
+                            "content": "1.D<br \/>2.C<br \/>3.C<br \/>4.B<br \/>5.D<br \/>6.B<br \/>7.B<br \/>8.B<br \/>9.A<br \/>10.C<br \/>11.D<br \/>12.A<br \/>13.A<br \/>14.A<br \/>15.B<br \/>16.A<br \/>17.D<br \/>18.D<br \/>19.C<br \/>20.A<br \/>21.A<br \/>22.A<br \/>23.D<br \/>24.A<br \/>25.D<br \/><br \/><br \/>",
+                            "mark": 4,
+                            "marks_count": 7,
+                            "thanks": 12,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 6519193,
+                                        "user_id": 4679008,
+                                        "content": "18 B .",
+                                        "created": "2017-03-24T17:15:25+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2923272,
+                                "nick": "HafizManchunian",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/de6\/302e9a956931866a7c571033db74e75c.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 5863959,
+                        "subject_id": 6,
+                        "user_id": 2854128,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "1.Mencari Pemain Sebagai Pemeran Dalam Sebuah Teater Disebut....      A.Hunting                                          B.Tracking<br \/>\nC.Shooting<br \/>\nD.Casting<br \/><br \/><br \/>\n2.Berikut ini adalah unsur-unsur yang perlu dipersiapkan dalam sebuah pertunjukan,kecuali...<br \/>\nA.pemain<br \/>\nB.sutradara<br \/>\nC.sponsor<br \/>\nD.naskah<br \/><br \/><br \/>\n3.Berikut ini adalah unsur-unsur drama yang menarik dari segi visual...<br \/>\nA.setting<br \/>\nB.tata cahaya<br \/>\nC.vokal pemain<br \/>\nD.busana<br \/><br \/>\n4.Ilustrasi musik dimaksudkan agar sebuah drama terlihat...<br \/>\nA.dinamis<br \/>\nB.lebih menarik<br \/>\nC.tidak monoton<br \/>\nD.sungguh-sungguh<br \/><br \/><br \/>\n5.Orang yang memegang kendali dan sebuah pementasan adalah...<br \/>\nA.pemain<br \/>\nB.tokoh utama<br \/>\nC.sponsorship<br \/>\nD.sutradara<br \/><br \/><br \/>\n6.Modal utama seorang pemain teater adalah...<br \/>\nA.tubuh dan suara<br \/>\nB.suara dan gerak<br \/>\nC.tubuh dan gerak<br \/>\nD.pikiran dan suara<br \/><br \/><br \/>\n7.Merancang sebuah karya teater sangat membutuhkan...<br \/>\nA.dana<br \/>\nB.kreativitas<br \/>\nC.pemain<br \/>\nD.tempat pertumjukan<br \/><br \/><br \/>\n8.Membeli perubahan pada wajah pemain sehingga sesuai dengan watak yang diperankan adalah tugas dari...<br \/>\nA.sutradara<br \/>\nB.tata rias<br \/>\nC.ilustrasi musik<br \/>\nD.tata punggung<br \/><br \/><br \/>\n9.Dalam drama tradisional,pemilihan peran lebih didasarkan pada...<br \/>\nA.kecocokan fisik<br \/>\nB.keterampilan<br \/>\nC.kreativitas<br \/>\nD.keinginan sutradara<br \/><br \/><br \/>\n10.Berikut ini cara untuk menjadi pemain yang berbobot,kecuali...<br \/>\nA.latihan secara rutin<br \/>\nB.menjiwai peran<br \/>\nC.mencari popularitas<br \/>\nD.memiliki wawasan yang luas<br \/><br \/><br \/>\n11.Berikut ini fumgai teater,kecuali...<br \/>\nA.media ekspresi<br \/>\nB.media komunikasi<br \/>\nC.media provokas<br \/>\nD.media informasi<br \/><br \/><br \/>\n12.Peran pelengkap dalam pertunjukan drama sering disebut peran...<br \/>\nA.figuran<br \/>\nB.utama<br \/>\nC.tritagonis<br \/>\nD.antagonis<br \/><br \/><br \/>\n13.Berikut ini adalah alat musik yang mengiringi drama bonjet,kecuali...<br \/>\nA.Gong<br \/>\nB.kendang<br \/>\nC.kromong<br \/>\nD.kecrek<br \/><br \/><br \/>\n14.Berikut ini merupakan latihan olah tubuh yaitu...<br \/>\nA.artikulasi<br \/>\nB.relaksasi<br \/>\nC.membuka mulut<br \/>\nD.irama<br \/><br \/><br \/>\n15.Ludruk berasa dari daerah...<br \/>\nA.sumatra<br \/>\nB.jawa timur<br \/>\nC.bali<br \/>\nD.kalimantan<br \/><br \/><br \/>\n16.ciri dari teater daerah jawa tengah adalah...<br \/>\nA.memiliki alur yang panjang<br \/>\nB.tidak ada peran protagonisnya<br \/>\nC.diperankan oleh wanita<br \/>\nD.tidak memiliki alur<br \/><br \/><br \/>\n17.kata teater berasal dari bahasa...<br \/>\nA.inggris<br \/>\nB.jerman<br \/>\nC.belanda<br \/>\nD.yunani<br \/><br \/><br \/>\n18.Teater mandiri disutradai oleh<br \/>\nA.N.riantirno<br \/>\nB.putu wijaya<br \/>\nC.teguh karya<br \/>\nD.arifin c.noor<br \/><br \/><br \/>\n19.Tokoh kejam dan jahat dalam pertunjukan barong bernama...<br \/>\nA.calon arang<br \/>\nB.dasamuka<br \/>\nC.rangda\/leak<br \/>\nD.hanoman<br \/><br \/><br \/><br \/>\n20.berikut ini adalah bentuk-bentuk teater dari daerah jawa harat adalah,kecuali...<br \/>\nA.longser<br \/>\nB.bonjet<br \/>\nC.lenong<br \/>\nD.anklung badud<br \/><br \/><br \/>\n21.ide cerita wayang orang diambil dari cerita...<br \/>\nA.ramayana<br \/>\nB.mitos<br \/>\nC.keseharian<br \/>\nD.novel<br \/><br \/><br \/>\n22.tolok ukur dari keberhasilan teater sebagai sebuah pertunjukan adalah...<br \/>\nA.penonton<br \/>\nB.waktu<br \/>\nC.tempat<br \/>\nD.pemain<br \/><br \/><br \/>\n23.Dalam sebuah teater bercakup beberapa seni lain,di antaranya sebagai berikut,kecuali...<br \/>\nA.seni peran <br \/>\nB.seni rupa<br \/>\nC.seni sastra<br \/>\nD.seni rancang bangun<br \/><br \/><br \/>\n24.sifat atau watak dalam seni teater disebut dengan<br \/>\nA.karakter<br \/>\nB.plot<br \/>\nC.premis<br \/>\nD.peran<br \/><br \/><br \/>\n25.peran pelengkap yang secara tidak langsung terlibat dalam konflik yang terjadi tetapi sangtlat diperlukan untuk penyelesaian cerita disebut...<br \/>\nA.protagonis<br \/>\nB.antagonis<br \/>\nC.tritagonis<br \/>\nD.figuran<br \/><br \/>",
+                        "created": "2016-04-21T19:28:27+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2016-04-21T19:36:22+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "1.Mencari Pemain Sebagai Pemeran Dalam Sebuah Teater Disebut....      A.Hunting                                          B.Tracking\nC.Shooting\nD.Casting\n2.Berikut ini adalah unsur-unsur yang perlu dipersiapkan dalam sebuah pertunjukan,kecuali...\nA.pemain\nB.sutradara\nC.sponsor\nD.naskah\n3.Berikut ini adalah unsur-unsur drama yang menarik dari segi <em>visual...<\/em>\nA.setting\nB.tata cahaya\nC.vokal pemain\nD.busana\n4.Ilustrasi musik dimaksudkan agar sebuah drama terlihat...\nA.dinamis\nB.lebih menarik\nC.tidak monoton\nD.sungguh-sungguh\n5.Orang yang memegang kendali dan sebuah pementasan adalah...\nA.pemain\nB.tokoh utama\nC.sponsorship\nD.sutradara\n6.Modal utama seorang pemain teater adalah...\nA.tubuh dan suara\nB.suara dan gerak\nC.tubuh dan gerak\nD.pikiran dan suara\n7.Merancang sebuah karya teater sangat membutuhkan...\nA.dana\nB.kreativitas\nC.pemain\nD.tempat pertumjukan\n8.Membeli perubahan pada wajah pemain sehingga sesuai dengan watak yang diperankan adalah tugas dari...\nA.sutradara\nB.tata rias\nC.ilustrasi musik\nD.tata punggung\n9.Dalam drama tradisional,pemilihan peran lebih didasarkan pada...\nA.kecocokan fisik\nB.keterampilan\nC.kreativitas\nD.keinginan sutradara\n10.Berikut ini cara untuk menjadi pemain yang berbobot,kecuali...\nA.latihan secara rutin\nB.menjiwai peran\nC.mencari popularitas\nD.memiliki wawasan yang luas\n11.Berikut ini fumgai teater,kecuali...\nA.media ekspresi\nB.media komunikasi\nC.media provokas\nD.media informasi\n12.Peran pelengkap dalam pertunjukan drama sering disebut peran...\nA.figuran\nB.utama\nC.tritagonis\nD.antagonis\n13.Berikut ini adalah alat musik yang mengiringi drama bonjet,kecuali...\nA.Gong\nB.kendang\nC.kromong\nD.kecrek\n14.Berikut ini merupakan latihan olah tubuh yaitu...\nA.artikulasi\nB.relaksasi\nC.membuka mulut\nD.irama\n15.Ludruk berasa dari daerah...\nA.sumatra\nB.jawa timur\nC.bali\nD.kalimantan\n16.ciri dari teater daerah jawa tengah adalah...\nA.memiliki alur yang panjang\nB.tidak ada peran protagonisnya\nC.diperankan oleh wanita\nD.tidak memiliki alur\n17.kata teater berasal dari bahasa...\nA.inggris\nB.jerman\nC.belanda\nD.yunani\n18.Teater mandiri disutradai oleh\nA.N.riantirno\nB.putu wijaya\nC.teguh karya\nD.arifin c.noor\n19.Tokoh kejam dan jahat dalam pertunjukan barong bernama...\nA.calon arang\nB.dasamuka\nC.rangda\/leak\nD.hanoman\n20.berikut ini adalah bentuk-bentuk teater dari daerah jawa harat adalah,kecuali...\nA.longser\nB.bonjet\nC.lenong\nD.anklung badud\n21.ide cerita wayang orang diambil dari cerita...\nA.ramayana\nB.mitos\nC.keseharian\nD.<em>novel<\/em>\n22.tolok ukur dari keberhasilan teater sebagai sebuah pertunjukan adalah...\nA.penonton\nB.waktu\nC.tempat\nD.pemain\n23.Dalam sebuah teater bercakup beberapa seni lain,di antaranya sebagai berikut,kecuali...\nA.seni peran \nB.seni rupa\nC.seni sastra\nD.seni rancang bangun\n24.sifat atau watak dalam seni teater disebut dengan\nA.karakter\nB.plot\nC.premis\nD.peran\n25.peran pelengkap yang secara tidak langsung terlibat dalam konflik yang terjadi tetapi sangtlat diperlukan untuk penyelesaian cerita disebut...\nA.protagonis\nB.antagonis\nC.tritagonis\nD.figuran",
+                        "snippet_content": "3.Berikut ini adalah unsur-unsur drama yang menarik dari segi <em>visual...<\/em>\nA.setting\nB.tata cahaya\nC.vokal pemain\nD.busana"
+                    },
+                    "responses": [
+                        {
+                            "id": 6960687,
+                            "user_id": 2926931,
+                            "task_id": 5863959,
+                            "points": 5,
+                            "created": "2016-04-21T19:36:22+07:00",
+                            "content": "1.D<br \/>2.C<br \/>3.D<br \/>4.B<br \/>5.D<br \/>6.C<br \/>7.A<br \/>8.B<br \/>9.B<br \/>10.C<br \/>11.C<br \/>12.A<br \/>13.?<br \/>14.C<br \/>15.B<br \/>16.?<br \/>17.A<br \/>18.?<br \/>19.?<br \/>20.C<br \/>21.C<br \/>22.?<br \/>23.D<br \/>24.A<br \/>25.",
+                            "mark": 1,
+                            "marks_count": 4,
+                            "thanks": 7,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 4010526,
+                                        "user_id": 2926931,
+                                        "content": "25.C maaf klo salah",
+                                        "created": "2016-04-21T19:36:58+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 4010527,
+                                        "user_id": 2926931,
+                                        "content": "25.C maaf klo salah",
+                                        "created": "2016-04-21T19:36:59+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 4010602,
+                                        "user_id": 2854128,
+                                        "content": "oke thanks ya",
+                                        "created": "2016-04-21T19:40:38+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 4010684,
+                                        "user_id": 2926931,
+                                        "content": "sma2",
+                                        "created": "2016-04-21T19:44:51+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 4
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2926931,
+                                "nick": "NadyaPutriHapsari",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d9c\/06a9611f516fec49057a012585a51db9.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 8389343,
+                        "subject_id": 19,
+                        "user_id": 4144823,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "untuk memberikan gambaran secara viksual tenang suatu bentuk atau suatu proses kejadian,seperti pertumbuhan makhuk,merupakan tujuan ilustri pada...A.novel dan cerita pendek..B.cerita komik dan cerita fisik..C.buku ilmu pengetahuan..D.sampul buku.",
+                        "created": "2016-11-14T23:25:02+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2016-11-14T23:31:06+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "untuk memberikan gambaran secara <em>viksual<\/em> tenang suatu bentuk atau suatu proses kejadian,seperti pertumbuhan makhuk,merupakan tujuan ilustri pada...A.<em>novel<\/em> dan cerita pendek..B.cerita komik dan cerita fisik..C.buku ilmu pengetahuan..D.sampul buku.",
+                        "snippet_content": "untuk memberikan gambaran secara <em>viksual<\/em> tenang suatu bentuk atau suatu proses kejadian,seperti pertumbuhan makhuk,merupakan tujuan ilustri pada...A.<em>novel<\/em> dan"
+                    },
+                    "responses": [
+                        {
+                            "id": 9953709,
+                            "user_id": 4140416,
+                            "task_id": 8389343,
+                            "points": 5,
+                            "created": "2016-11-14T23:31:06+07:00",
+                            "content": "C.buku ilmu pengetahuan",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4140416,
+                                "nick": "Nndaaae",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d14\/60a13dcb866fc42a4391a32e5ff6ffff.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 5,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 4743811,
+            "nick": "bagus863",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 1,
+                "comments": 3
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d25\/d252e7fd82273564de75a2fdb1b68a93.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd5\/ee4ddb16b2a06571cc6fa561b350ccc5.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d25\/d252e7fd82273564de75a2fdb1b68a93.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd5\/ee4ddb16b2a06571cc6fa561b350ccc5.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4743443,
+            "nick": "kazucchi",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 139,
+                "comments": 19
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d39\/e523b384e2fb2979a6daf020aaa2f33e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/daf\/7a7a5f5eea164f5b5a145c3cad4bfe4a.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d39\/e523b384e2fb2979a6daf020aaa2f33e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/daf\/7a7a5f5eea164f5b5a145c3cad4bfe4a.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 1787665,
+            "nick": "OmOtong",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 3,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 1774027,
+            "nick": "Fiorendy",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 240,
+                "comments": 12
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/ded\/40ee8c2d83f7cd4f2d7e48936a2aee5c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dcb\/b50c9585a3abdb7b5720e919940d943f.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/ded\/40ee8c2d83f7cd4f2d7e48936a2aee5c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dcb\/b50c9585a3abdb7b5720e919940d943f.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 2854128,
+            "nick": "AdamS1",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 6,
+                "answers": 0,
+                "comments": 4
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4679008,
+            "nick": "hartiningsihkiki",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 0,
+                "comments": 3
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d88\/d0087b9e8255281236158e2638e9f15e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d64\/f556d6698c18e4d6e0de1862bc1a258c.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d88\/d0087b9e8255281236158e2638e9f15e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d64\/f556d6698c18e4d6e0de1862bc1a258c.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 2923272,
+            "nick": "HafizManchunian",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 11,
+                "comments": 6
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d78\/fd47eb083027180c7dbbb98824b33bc6.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de6\/302e9a956931866a7c571033db74e75c.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d78\/fd47eb083027180c7dbbb98824b33bc6.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de6\/302e9a956931866a7c571033db74e75c.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 2926931,
+            "nick": "NadyaPutriHapsari",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 32,
+                "comments": 18
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df5\/8bbfe5c55c84d562f0597336179bcf35.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d9c\/06a9611f516fec49057a012585a51db9.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df5\/8bbfe5c55c84d562f0597336179bcf35.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d9c\/06a9611f516fec49057a012585a51db9.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 4144823,
+            "nick": "vidia6439",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4140416,
+            "nick": "Nndaaae",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 56,
+                "comments": 7
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d37\/ae43749a692e374089d077551730303b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d14\/60a13dcb866fc42a4391a32e5ff6ffff.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d37\/ae43749a692e374089d077551730303b.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d14\/60a13dcb866fc42a4391a32e5ff6ffff.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        }
+    ],
+    "validated": false
+}

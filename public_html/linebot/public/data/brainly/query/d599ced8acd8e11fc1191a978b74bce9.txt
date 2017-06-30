@@ -1,0 +1,2545 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 4926303,
+                        "subject_id": 14,
+                        "user_id": 1978366,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "1 kapan suatu kata atau kalimat dibaca mad jaiz munfasil dan mad wajib muttasil?jelaskan!<br \/>\n2 bagaimana cara membaca ayat yg bertanda waqaf mu' annaqah?<br \/>\n3. tuliskan macam2 hukum bacaan nun mati!<br \/>",
+                        "created": "2016-01-27T19:31:59+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2016-01-27T19:46:20+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "1 <em>kapan<\/em> suatu kata atau kalimat dibaca <em>mad<\/em> jaiz munfasil dan <em>mad<\/em> wajib muttasil?jelaskan!\n2 bagaimana cara membaca ayat yg bertanda waqaf mu' annaqah?\n3. tuliskan macam2 hukum bacaan nun <em>mati<\/em>!",
+                        "snippet_content": "1 <em>kapan<\/em> suatu kata atau kalimat dibaca <em>mad<\/em> jaiz munfasil dan <em>mad<\/em> wajib muttasil?jelaskan!\n2 bagaimana cara membaca ayat yg bertanda"
+                    },
+                    "responses": [
+                        {
+                            "id": 5843652,
+                            "user_id": 2512179,
+                            "task_id": 4926303,
+                            "points": 5,
+                            "created": "2016-01-27T19:46:20+07:00",
+                            "content": "1.mad jaiz apabila ada mad thobi'i bertemu hamzah dalam kalimat terpisah. mad wajib apabila ada mad thobi'i bertemu hamzah dalam satu kalimat.<br \/>2.berhenti sejenak disalah satu tanda waqaf mu'annaqah.<br \/>3.idzghom bighunah, idzghom bilaghunah, ikhfa haqiqi, iqlab, idzhar halqi.",
+                            "mark": 1,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 5846012,
+                            "user_id": 2076247,
+                            "task_id": 4926303,
+                            "points": 5,
+                            "created": "2016-01-27T20:59:02+07:00",
+                            "content": "1. Mad munfasil jaiz: Apabila ada salah satu huruf mad tab'i bertemu dengan alif dalam 2 kalimat, sedangkan mad muttasil wajib: Apabila ada salah satt huruf mad tab'i bertemu dengan hamzah dalam 1 kalimat\n2. Membacanya yaitu berhenti sejenak pada tanda waqaf\n3. Izhar halqi, ikhfa haqiqi, iqlab, idgham bigunnah, dan idgham bilagunnah",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2512179,
+                                "nick": "lol88",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dd2\/3fbdef603f64a2909d45c38e6eecdfd1.jpg"
+                            },
+                            {
+                                "id": 2076247,
+                                "nick": "sabrinasyifaurrahmah",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10637272,
+                        "subject_id": 1,
+                        "user_id": 4383135,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Pada suatu hari ada seekor kelinci yang sangat sombong. Ia menyombongkan diri sebagai kelinci yang paling baik sedunia. Si kelinci selalu membanggakan betapa cepat larinya. Ia mempunyai kaki belakang yang sangat kuat untuk berlari seperti angin. Ia selalu memperlihatkan keahliannya berlari cepat kepada teman-temannya.<br \/>Pada suatu hari si kelinci membual di depan teman-temannya dan menunjukkan betapa cepat larinya. Ketika ia berlari, ia melompat di atas sebuah cangkang di jalanan. Perlahan-lahan sebuah kepala dan empat kaki keluar dari cangkang tersebut dan mulai bergerak di jalanan. Barulah si kelinci sadar, bahwa cangkang itu adalah kura-kura yang tampak merangkak perlahan-lahan dijalanan.<br \/>\u2019\u2019Betapa lambatnya kamu,\u2019\u2019kata kelinci kepada kura-kura. \u2018\u2019kamu sangat lambat. Saya tidak mengerti mengapa kamu tidak terganggu dengan gerakkan lambatmu.\u2019\u2019 Si kelinci tertawa mendengar leluconnya sendiri mengenai kura-kura.<br \/>Kura-kura menatap dingin pada kelinci dan berkata, \u2018\u2019Setiap hewan bergerak dengan langkahnya sendiri. Saya mungkin bergerak lambat, tetapi saya dapat pergi kemana saja yang saya mau. Pada kenyataannya, saya dapat mencapai tujuan lebih cepat dari pada kamu dan lebih kencang dari pada kamu.\u2019\u2019<br \/>Si kelinci berpikir, bahwa kata-kata si kura-kura sangat lucu. Ia tertawa mendengar, bahwa kura-kura berlari lebih kencang darinya. \u2018\u2019Tidak mungkin,\u2019\u2019 kata si kelinci. \u2018\u2019Bagaimana mungkin kamu lebih cepat dari saya? Saya dapat berlari secepat angin. Sementara kamu merangkak sangat lambat, sehingga sulit dikatakan, bahwa kamu bergerak lebih cepat dari saya. Saya mau lihat.\u2019\u2019<br \/>Si kelinci kemudian menantang si kura-kura untuk lomba lari, sehingga mereka akan lihat siapa yang lebih cepat. Lomba lari akan di adakan keesokkan harinya. Setiap hewan ingin melihat perlombaan lari antara si kelinci yang cepat dan si kura-kura yang lambat.<br \/>Serigala yang menghitung mundur saat mulai perlombaan. \u2018\u2019Lima, empat, tiga, dua, satu, lari\u2026\u2019\u2019 Dengan satu loncatan, si kelinci dengan cepat hilang dari pandangan mata. Si kura-kura melangkahkan kakinya perlahan-lahan, selangkah demi selangkah, sementara tatapan matanya terus bertuju pada jalan didepannya. Si kelinci berlari sepanjang jalan. Setiap kali melihat kerumunan penonton di pinggir jalan, ia membalikkan tubuhya dan melambaikan tangannya. Ia ingin mereka tau siapa yang paling cepat larinya. Jauh, jau dibelakangnya si kura-kura terus melangkah, selangkah demi selangkah, dengan lambatnya dan matanya yang terus menatap jalan di depannya. Tidak lama kemudian si kelinci tiba pada suatu tanda di jalan. Tanda itu menunjukkan, bahwa ia sudah berlari setengah jarak antara garis start dan finish. Ia pun tidak lagi melihat kura-kura.<br \/>Si kelinci berpikir, \u2018\u2019 Saya sudah jauh di depan dan si kura-kura sangat lambat, sehingga ia masih sangat jauh dibelakang. Perlu waktu lama bagi kura-kura untuk sampai di sini. Saya kira saya dapat berbaring dulu di sini dan beristirahat sebentar dibawah sinar matahari yang sangat hangat. Masih banyak waktu untuk memenangkan pertandingan ini saat saya bangun nanti.\u2019\u2019<br \/>Sementara itu, si kura-kura terus merangkak perlahan-lahan tanpa berhenti. Ia terus bergerak. Waktu terus berlalu, si kelinci masih tertidur dengan lelapnya. Dengan perlahan-lahan dan mantap, si kura-kura meneruskan langkahnya tanpa beristirahat. Ia bergerakperlahan-lahan sepanjang jalan. Akhirnya si kura-kura melewati si kelinci yang masih tertidur di tepi jalan. Si kelinci tertidur lelap, sehingga ia tidak mendengar saat si kura-kura melewatinya. Ketika kelinci terbangun dari tidur lelapnya, ia melihat kea rah belakang untuk mengetahui keberadaan si kura-kura. Namun ia tidak melihat kura-kura. Namun, ia tidak melihat kura-kura. Ia berkata , \u2018\u2019 Ternyata si kura-kura lebih lambat dari yang saya kira. Mungkin baru tengah malam ia tiba di garis finish.\u2019\u2019<br \/>Si kelinci merenggangkan kakinya dan kembalu ke jalan untuk melanjutkan perlombaan lari. Si kelinci berlari dan menaiki bukit. Kemudian ia melihat pemandangan yang menakjubkan. Di garis finish tampak si kura-kura. Penonton bersuka ria, karena si kura-kura memutuskan pita garis finish. Si kura-kura di umumkan sebagai pemenang. Si kelinci menghela nafas panjang dan si kura-kura tersenyum. \u201c Bagaimana\u2026kapan\u2026 di mana?\u2019\u2019 gumam si kelinci.<br \/>Si kura-kura berkata, \u2018\u2019 Saya menyusul kamu ketika kamu sedang tertidur. Saya mungkin saja lambat, tetapi mata saya menatap tujuan. Dengan pelan dan mantap, saya memenangkan perlombaan lari ini.\u2019\u2019<br \/><br \/>1)tokoh,ciri tokoh,penokohan pda fabel kelinci dan kura kura<br \/><br \/>tlong di jwb ya,bsk di kmpul mksih...",
+                        "created": "2017-05-14T11:41:16+07:00",
+                        "responses": 2,
+                        "tickets": 4,
+                        "first_resp": "2017-05-14T11:43:37+07:00",
+                        "the_best_resp_id": "12887641",
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Pada suatu hari ada seekor kelinci yang sangat sombong. Ia menyombongkan diri sebagai kelinci yang paling baik sedunia. Si kelinci selalu membanggakan betapa cepat larinya. Ia mempunyai kaki belakang yang sangat kuat untuk berlari seperti angin. Ia selalu memperlihatkan keahliannya berlari cepat kepada teman-temannya.Pada suatu hari si kelinci membual di depan teman-temannya dan menunjukkan betapa cepat larinya. Ketika ia berlari, ia melompat di atas sebuah cangkang di jalanan. Perlahan-lahan sebuah kepala dan empat kaki keluar dari cangkang tersebut dan mulai bergerak di jalanan. Barulah si kelinci sadar, bahwa cangkang itu adalah kura-kura yang tampak merangkak perlahan-lahan dijalanan.\u2019\u2019Betapa lambatnya kamu,\u2019\u2019kata kelinci kepada kura-kura. \u2018\u2019kamu sangat lambat. Saya tidak mengerti mengapa kamu tidak terganggu dengan gerakkan lambatmu.\u2019\u2019 Si kelinci tertawa mendengar leluconnya sendiri mengenai kura-kura.Kura-kura menatap dingin pada kelinci dan berkata, \u2018\u2019Setiap hewan bergerak dengan langkahnya sendiri. Saya mungkin bergerak lambat, tetapi saya dapat pergi kemana saja yang saya <em>mau.<\/em> Pada kenyataannya, saya dapat mencapai tujuan lebih cepat dari pada kamu dan lebih kencang dari pada kamu.\u2019\u2019Si kelinci berpikir, bahwa kata-kata si kura-kura sangat lucu. Ia tertawa mendengar, bahwa kura-kura berlari lebih kencang darinya. \u2018\u2019Tidak mungkin,\u2019\u2019 kata si kelinci. \u2018\u2019Bagaimana mungkin kamu lebih cepat dari saya? Saya dapat berlari secepat angin. Sementara kamu merangkak sangat lambat, sehingga sulit dikatakan, bahwa kamu bergerak lebih cepat dari saya. Saya <em>mau<\/em> lihat.\u2019\u2019Si kelinci kemudian menantang si kura-kura untuk lomba lari, sehingga mereka akan lihat siapa yang lebih cepat. Lomba lari akan di adakan keesokkan harinya. Setiap hewan ingin melihat perlombaan lari antara si kelinci yang cepat dan si kura-kura yang lambat.Serigala yang menghitung mundur saat mulai perlombaan. \u2018\u2019Lima, empat, tiga, dua, satu, lari\u2026\u2019\u2019 Dengan satu loncatan, si kelinci dengan cepat hilang dari pandangan <em>mata.<\/em> Si kura-kura melangkahkan kakinya perlahan-lahan, selangkah demi selangkah, sementara tatapan matanya terus bertuju pada jalan didepannya. Si kelinci berlari sepanjang jalan. Setiap kali melihat kerumunan penonton di pinggir jalan, ia membalikkan tubuhya dan melambaikan tangannya. Ia ingin mereka tau siapa yang paling cepat larinya. Jauh, jau dibelakangnya si kura-kura terus melangkah, selangkah demi selangkah, dengan lambatnya dan matanya yang terus menatap jalan di depannya. Tidak lama kemudian si kelinci tiba pada suatu tanda di jalan. Tanda itu menunjukkan, bahwa ia sudah berlari setengah jarak antara garis start dan finish. Ia pun tidak lagi melihat kura-kura.Si kelinci berpikir, \u2018\u2019 Saya sudah jauh di depan dan si kura-kura sangat lambat, sehingga ia masih sangat jauh dibelakang. Perlu waktu lama bagi kura-kura untuk sampai di sini. Saya kira saya dapat berbaring dulu di sini dan beristirahat sebentar dibawah sinar matahari yang sangat hangat. Masih banyak waktu untuk memenangkan pertandingan ini saat saya bangun nanti.\u2019\u2019Sementara itu, si kura-kura terus merangkak perlahan-lahan tanpa berhenti. Ia terus bergerak. Waktu terus berlalu, si kelinci masih tertidur dengan lelapnya. Dengan perlahan-lahan dan mantap, si kura-kura meneruskan langkahnya tanpa beristirahat. Ia bergerakperlahan-lahan sepanjang jalan. Akhirnya si kura-kura melewati si kelinci yang masih tertidur di tepi jalan. Si kelinci tertidur lelap, sehingga ia tidak mendengar saat si kura-kura melewatinya. Ketika kelinci terbangun dari tidur lelapnya, ia melihat kea rah belakang untuk mengetahui keberadaan si kura-kura. Namun ia tidak melihat kura-kura. Namun, ia tidak melihat kura-kura. Ia berkata , \u2018\u2019 Ternyata si kura-kura lebih lambat dari yang saya kira. Mungkin baru tengah malam ia tiba di garis finish.\u2019\u2019Si kelinci merenggangkan kakinya dan kembalu ke jalan untuk melanjutkan perlombaan lari. Si kelinci berlari dan menaiki bukit. Kemudian ia melihat pemandangan yang menakjubkan. Di garis finish tampak si kura-kura. Penonton bersuka ria, karena si kura-kura memutuskan pita garis finish. Si kura-kura di umumkan sebagai pemenang. Si kelinci menghela nafas panjang dan si kura-kura tersenyum. \u201c Bagaimana\u2026<em>kapan<\/em>\u2026 di mana?\u2019\u2019 gumam si kelinci.Si kura-kura berkata, \u2018\u2019 Saya menyusul kamu ketika kamu sedang tertidur. Saya mungkin saja lambat, tetapi <em>mata<\/em> saya menatap tujuan. Dengan pelan dan mantap, saya memenangkan perlombaan lari ini.\u2019\u20191)tokoh,ciri tokoh,penokohan pda fabel kelinci dan kura kuratlong di jwb ya,bsk di kmpul mksih...",
+                        "snippet_content": "mungkin bergerak lambat, tetapi saya dapat pergi kemana saja yang saya <em>mau.<\/em> Pada kenyataannya, saya dapat mencapai tujuan lebih cepat dari pada"
+                    },
+                    "responses": [
+                        {
+                            "id": 12887559,
+                            "user_id": 4901617,
+                            "task_id": 10637272,
+                            "points": 5,
+                            "created": "2017-05-14T11:43:37+07:00",
+                            "content": "tokohnya kelinci dan kura kura<br \/>sifatnya kelinci itu sombong dan suka menghina kekurangan orang lain.<br \/>sifatnya kura kura itu baik hati dan tidak sombong.",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 12887641,
+                            "user_id": 5034429,
+                            "task_id": 10637272,
+                            "points": 5,
+                            "created": "2017-05-14T11:48:44+07:00",
+                            "content": "1. Tokoh: kelinci dan kura-kura<br \/>2. Ciri tokoh: Kelinci= sombong, merendahkan hewan lain<br \/>kura-kura= baik, sabar, fokus, rendah hati.<br \/>3. Penokohan= kelinci: di tokohkan sebagai hewan yg sombong.<br \/>kura-kura: sebagai hewan yg rendah hati.<br \/>",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 4,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4901617,
+                                "nick": "ningsih80",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d6a\/f4460059ba283a36e763514e5a2a96f2.jpg"
+                            },
+                            {
+                                "id": 5034429,
+                                "nick": "ecaesternesia",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d0d\/4360212500640d101bb6b1a457b69448.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 1181204,
+                        "subject_id": 2,
+                        "user_id": 646382,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 12,
+                            "ptsForResp": 6,
+                            "ptsForBest": 3
+                        },
+                        "content": "Nah,mari ngumpul bapak ibu dan anak anak kawan kawan .<br \/>\nnih gimana gan sob ngerjain soal<br \/>\n2+4+6+8...+100<br \/>\nsama<br \/>\n1+2+3+4...+100<br \/>\n...(titik-titik artinya sampai dengan)<br \/>\ncara simpel kalo ngitungnya gk usah cara simpel aja gan sob<br \/>\nkalo jawaban menggunakan iklan contoh mah google atau yohohooho ane gk suka dan ane blokir",
+                        "created": "2014-10-22T21:39:16+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2014-10-22T21:47:56+07:00",
+                        "the_best_resp_id": "1518926",
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Nah,<em>mari<\/em> ngumpul bapak ibu dan anak anak <em>kawan<\/em> <em>kawan<\/em> .\nnih gimana gan sob ngerjain soal\n2+4+6+8...+100\nsama\n1+2+3+4...+100\n...(titik-titik artinya sampai dengan)\ncara simpel kalo ngitungnya gk usah cara simpel aja gan sob\nkalo jawaban menggunakan iklan contoh <em>mah<\/em> google atau yohohooho ane gk suka dan ane blokir",
+                        "snippet_content": "Nah,<em>mari<\/em> ngumpul bapak ibu dan anak anak <em>kawan<\/em> <em>kawan<\/em> .\nnih gimana gan sob ngerjain soal\n2+4+6+8...+100\nsama"
+                    },
+                    "responses": [
+                        {
+                            "id": 1518897,
+                            "user_id": 180347,
+                            "task_id": 1181204,
+                            "points": 6,
+                            "created": "2014-10-22T21:47:56+07:00",
+                            "content": "2+4+6+....+100<br \/>rumusnya n.(n+1)<br \/>maka, 50.(50+1) = 50.51 = 2550<br \/><br \/>yg1+2+3+4+...+100<br \/>Sn = n\/2(2a+((n-1)b)<br \/>maka, S100 = 100\/2 (2.1+(100-1)1)<br \/>                        50 (2+(99.1)<br \/>                        50(2+99)<br \/>                        50.101<br \/>                        5050",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 7,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2015-07-15T19:41:58+07:00",
+                                "approver": {
+                                    "id": 6207,
+                                    "nickname": "dimastoro",
+                                    "points": 616759,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/d73\/f507e424ab0f43ea249f15444f629c7e.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/df0\/892f4c3acd542092ee335aef0bd2cb68.png"
+                                    },
+                                    "content_approved_count": 109447
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 1518926,
+                            "user_id": 603523,
+                            "task_id": 1181204,
+                            "points": 6,
+                            "created": "2014-10-22T21:49:45+07:00",
+                            "content": "Ini merupakan deret aritmatika<br \/>Deret aritmatika dirumuskan dengan<br \/>Sn = n\/2 (2a + (n-1) b)<br \/>Sehingga <br \/>1) 2+4+6+8+...+100<br \/>a = 2<br \/>b = U2-U1<br \/>b = 4-2<br \/>b = 2<br \/>Un = a + (n-1) b<br \/>100 = 2 + (n-1) 2<br \/>100 = 2 + 2n - 2<br \/>100 = 2n<br \/>50 = n<br \/>Sn = n\/2 (2a + (n-1) b)<br \/>Sn = 50\/2 (2(2) + (50 - 1) (2))<br \/>Sn = 25 (4 + (49) 2)<br \/>Sn = 25 (4 + 98)<br \/>Sn = 25 (102)<br \/>Sn = 2550<br \/><br \/>Untuk 1+2+3+4+...+100<br \/>Ada cara yang lebih cepat yaitu<br \/>Sn = n(n + 1)\/2<br \/>Di sini n = 100<br \/>Jadi, Sn = 100(100 + 1)\/2<br \/>Sn = 50(101)<br \/>Sn = 5050<br \/>Kalau gak paham bisa dengan cara deret geometri tadi<br \/>",
+                            "mark": 5,
+                            "marks_count": 2,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 180347,
+                                "nick": "Beta27",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/de0\/485e92fe1fc170c04b5955026874b6d5.jpg"
+                            },
+                            {
+                                "id": 603523,
+                                "nick": "HilmyAzizirrahim",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/da8\/c68a22871308381c3aaa873523bf15fa.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10422533,
+                        "subject_id": 1,
+                        "user_id": 4954038,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Pada suatu hari, Monyet dan Kelinci sedang duduk di pinggir sungai. Kelinci suka mendengarkan cerita Monyet. Tapi satu hal, Kelinci merasa terganggu dengan gerakkan menggaruk Monyet saat berbicara. Ia menggaruk kepalanya, rambut di dagunya, menggaruk tangan kanan dan kiri.<br \/><br \/>Monyet pun suka mengobrol dengan Kelinci. Kecuali satu hal. Monyet sering terganggu dengan gerakan mengendus, menggerakan hidung, menggerakan kupingnya dari sisi satu sisi ke sisi yang lain.<br \/><br \/>Akhirnya Monyet berkata. \u2018\u2019 Hei Kelinci, dapatkah kamu menghentikan kebiasaan buruk itu?\u2019\u2019 kata Monyet<br \/><br \/>\u2018\u2019 Menghentikan apa ?\u2019\u2019 Tanya kelinci<br \/><br \/>\u2018\u2019 Berhenti mengendus udara, menggerakan hidung, dan menggeraka kupingmu yang panjang itu. Betapa buruknya kebiasaanmu itu?\u2019\u2019<br \/><br \/>\u2018\u2019 Kebiasaan buruk saya? Bagaimana kebiasaan kamu? Setiap kali kita mengobrol, kamu selalu menggaruk. Pertama kamu menggaruk kepala mu. Kemudian dagu, lengan kiri dan kananmu. Kamu selalu menggaruk. Betapa buruknya kebiasaan kamu!\u2019\u2018\u2019 Yah. Saya tidak harus menggaruk. Saya tidak dapat menghentikan menggaruk setiap kali saya mau.\u2019\u2019 Kata monyet<br \/><br \/>\u2018\u2019 Yah. Saya juga tidak harus mengendus, menggerakan hidung dan menggerakakn kuping saya.\u2019\u2019 Kata kelinci\u2019\u2019<br \/><br \/>Kemudian Monyet menantang Kelinci dalam suatu pertandingan. \u2018\u2019 Kita lihat saja. Saya tidak akan menggaruk sepanjang hari, jika kamu juga tidak mengendus, menggerakan hidung, dan menggerakan kupingmu sepanjang hari. Sekarang masih pagi. Jika kita dapat diam sepanjang hari hingga matahari terbenam. Pasti kita dapat menghilangkan kebiasaan buruk ini.\u2019\u2019<br \/><br \/>Sejak saat itu Monyet dan Kelinci duduk diam. Monyet tidak bergerak sama sekali. Tetapi kulitnya sangat gatal. Ia ingin menggaruk rambut di dagunya. Lengan kiri dan kanannya sangat gatal, tetapi Monyet tetap diam.<br \/><br \/>Kelinci juga tidak bergerak sama sekali, tetapi Kelinci ingin sekali mengendus udara. Menggerakan hidung, menggerakan kupingnya dari satu sisi ke sisi yang lain. Kelinci pun duduk diam.<br \/><br \/>Akhirnya Kelinci berkata. \u2018\u2019 Monyet. Saya punya aide. Kita akan duduk diam disini sangat lama. Saya mulai bosan. Mari kita bercerita untuk menghabiskan waktu.\u2019\u2019<br \/><br \/>\u2018\u2019 Ide yang sangat bagus. Mengapa kamu tidak bercerita terlebih dahulu.<br \/><br \/>Kelinci mulai bercerita. \u2018\u2019 Kemarin, ketik saya akan datang ke tepi sungai menemuimu, saya pikir saya mencium bau Singa di balik rumput. Oleh karena itu, saya mengendus udara, tetapi Singa tidak ada disana. Untuk memastikannya, saya menggerakan hidung saya beberapa kali, tetapi tidak ada Singa disana, kemudian saya menggerakan kuping saya untuk mendengarkan, tetapi tidak ada Singa di sana. Saya baru yakin, bahwa tidak ada bahaya di sana. Kemudian saya melanjutkan perjalanan ke tepi sungai untuk menemuimu, temanku.\u2019\u2019<br \/><br \/>Monyet, memperhatikan Kelinci yang bercerita dengan gerakan mengendus, menggerakan hidung, menggerakan telinganya.<br \/><br \/>Monyet berkata. \u2018\u2019 kemarin, dalam perjalanan saya ke tepi sungai untuk menemuimu, saya berpapasan dengan beberapa anak-anak. Salah satu anak melemparkan kelapa dan mengenai kepala saya, tepat di sini. Anak laki-laki melemparkan batok kelapa dan tepat mengenai dagu saya, dan dua anak perempuan melempar batok kelapa dan mengenai tangan kanan dan kiri saya. Kemudian saya lari secepat mungkin ke tepi sungai dan bertemu denganmu, sahabatku.\u2019\u2019<br \/><br \/>Kelinci mulai cekikikan. Monyet mulai tertawa lebar. Kelinci tahu apa yang dilakukan Monyet, dan Monyet tahu apa yang di lakukan Kelinci.<br \/><br \/>\u2018\u2019 Yah. Itu benar-benar cerita yang bagus, tetapi kamu kalah dalam pertandingan ini. Monyet, kamu menggaruk selama bercerita.\u2019\u2019 Kata kelinci<br \/><br \/>\u2018\u2019 Yah. Ceritamu juga sangat bagus. Kelinci, tetapi kamu mengendus, menggerakan hidung dan menggerakan kuping selama kamu bercerita.\u2019\u2019 Kata monyet<br \/><br \/>\u2018\u2019 Saya kira tidak ada di antara kita yang dapat diam saja sepanjang hari. Saya tidak dapat menghilangkan kebiasaan buruk ini.\u2019\u2019 Kata Kelinci sambil mengendus, menggerakan hidungnya dan menggerakan telinganya.\u2019\u2019<br \/><br \/>\u2018\u2019 Saya juga tidak dapat menghilangkan kebiasaan buruk ini.\u2019\u2019 Kata Monyet sambil menggaruk kepalanya. Kemudian menggaruk dagunya dan menggaruk lengan kiri dan kanannya.<br \/><br \/>Kebiasaan buruk Monyet dan Kancil sukar dihilangkan. Keduanya setuju. Monyet tetap menggaruk dan Kelinci mengendus, menggerakan hidung dan menggerakan telinganya.",
+                        "created": "2017-04-26T18:27:33+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2017-06-21T04:50:33+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [
+                                {
+                                    "id": 6862429,
+                                    "user_id": 4954038,
+                                    "content": "pertanyaan nya: apa watak kelinci dan monyet pada teks diatas dan bukti pada teks nya??",
+                                    "created": "2017-04-26T18:30:15+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                }
+                            ],
+                            "last_id": 0,
+                            "count": 1
+                        },
+                        "highlighted_content": "Pada suatu hari, Monyet dan Kelinci sedang duduk di pinggir sungai. Kelinci suka mendengarkan cerita Monyet. Tapi satu hal, Kelinci merasa terganggu dengan gerakkan menggaruk Monyet saat berbicara. Ia menggaruk kepalanya, rambut di dagunya, menggaruk tangan <em>kanan<\/em> dan kiri.Monyet pun suka mengobrol dengan Kelinci. Kecuali satu hal. Monyet sering terganggu dengan gerakan mengendus, menggerakan hidung, menggerakan kupingnya dari sisi satu sisi ke sisi yang lain.Akhirnya Monyet berkata. \u2018\u2019 Hei Kelinci, dapatkah kamu menghentikan kebiasaan buruk itu?\u2019\u2019 kata Monyet\u2018\u2019 Menghentikan apa ?\u2019\u2019 Tanya kelinci\u2018\u2019 Berhenti mengendus udara, menggerakan hidung, dan menggeraka kupingmu yang panjang itu. Betapa buruknya kebiasaanmu itu?\u2019\u2019\u2018\u2019 Kebiasaan buruk saya? Bagaimana kebiasaan kamu? Setiap kali kita mengobrol, kamu selalu menggaruk. Pertama kamu menggaruk kepala mu. Kemudian dagu, lengan kiri dan kananmu. Kamu selalu menggaruk. Betapa buruknya kebiasaan kamu!\u2019\u2018\u2019 Yah. Saya tidak harus menggaruk. Saya tidak dapat menghentikan menggaruk setiap kali saya <em>mau.\u2019\u2019<\/em> Kata monyet\u2018\u2019 Yah. Saya juga tidak harus mengendus, menggerakan hidung dan menggerakakn kuping saya.\u2019\u2019 Kata kelinci\u2019\u2019Kemudian Monyet menantang Kelinci dalam suatu pertandingan. \u2018\u2019 Kita lihat saja. Saya tidak akan menggaruk sepanjang hari, jika kamu juga tidak mengendus, menggerakan hidung, dan menggerakan kupingmu sepanjang hari. Sekarang masih pagi. Jika kita dapat diam sepanjang hari hingga matahari terbenam. Pasti kita dapat menghilangkan kebiasaan buruk ini.\u2019\u2019Sejak saat itu Monyet dan Kelinci duduk diam. Monyet tidak bergerak sama sekali. Tetapi kulitnya sangat gatal. Ia ingin menggaruk rambut di dagunya. Lengan kiri dan kanannya sangat gatal, tetapi Monyet tetap diam.Kelinci juga tidak bergerak sama sekali, tetapi Kelinci ingin sekali mengendus udara. Menggerakan hidung, menggerakan kupingnya dari satu sisi ke sisi yang lain. Kelinci pun duduk diam.Akhirnya Kelinci berkata. \u2018\u2019 Monyet. Saya punya aide. Kita akan duduk diam disini sangat lama. Saya mulai bosan. <em>Mari<\/em> kita bercerita untuk menghabiskan waktu.\u2019\u2019\u2018\u2019 Ide yang sangat bagus. Mengapa kamu tidak bercerita terlebih dahulu.Kelinci mulai bercerita. \u2018\u2019 Kemarin, ketik saya akan datang ke tepi sungai menemuimu, saya pikir saya mencium bau Singa di balik rumput. Oleh karena itu, saya mengendus udara, tetapi Singa tidak ada disana. Untuk memastikannya, saya menggerakan hidung saya beberapa kali, tetapi tidak ada Singa disana, kemudian saya menggerakan kuping saya untuk mendengarkan, tetapi tidak ada Singa di sana. Saya baru yakin, bahwa tidak ada bahaya di sana. Kemudian saya melanjutkan perjalanan ke tepi sungai untuk menemuimu, temanku.\u2019\u2019Monyet, memperhatikan Kelinci yang bercerita dengan gerakan mengendus, menggerakan hidung, menggerakan telinganya.Monyet berkata. \u2018\u2019 kemarin, dalam perjalanan saya ke tepi sungai untuk menemuimu, saya berpapasan dengan beberapa anak-anak. Salah satu anak melemparkan kelapa dan mengenai kepala saya, tepat di sini. Anak laki-laki melemparkan batok kelapa dan tepat mengenai dagu saya, dan dua anak perempuan melempar batok kelapa dan mengenai tangan <em>kanan<\/em> dan kiri saya. Kemudian saya lari secepat mungkin ke tepi sungai dan bertemu denganmu, sahabatku.\u2019\u2019Kelinci mulai cekikikan. Monyet mulai tertawa lebar. Kelinci tahu apa yang dilakukan Monyet, dan Monyet tahu apa yang di lakukan Kelinci.\u2018\u2019 Yah. Itu benar-benar cerita yang bagus, tetapi kamu kalah dalam pertandingan ini. Monyet, kamu menggaruk selama bercerita.\u2019\u2019 Kata kelinci\u2018\u2019 Yah. Ceritamu juga sangat bagus. Kelinci, tetapi kamu mengendus, menggerakan hidung dan menggerakan kuping selama kamu bercerita.\u2019\u2019 Kata monyet\u2018\u2019 Saya kira tidak ada di antara kita yang dapat diam saja sepanjang hari. Saya tidak dapat menghilangkan kebiasaan buruk ini.\u2019\u2019 Kata Kelinci sambil mengendus, menggerakan hidungnya dan menggerakan telinganya.\u2019\u2019\u2018\u2019 Saya juga tidak dapat menghilangkan kebiasaan buruk ini.\u2019\u2019 Kata Monyet sambil menggaruk kepalanya. Kemudian menggaruk dagunya dan menggaruk lengan kiri dan kanannya.Kebiasaan buruk Monyet dan Kancil sukar dihilangkan. Keduanya setuju. Monyet tetap menggaruk dan Kelinci mengendus, menggerakan hidung dan menggerakan telinganya.",
+                        "snippet_content": "tidak harus menggaruk. Saya tidak dapat menghentikan menggaruk setiap kali saya <em>mau.\u2019\u2019<\/em> Kata monyet\u2018\u2019 Yah. Saya juga tidak harus mengendus, menggerakan hidung"
+                    },
+                    "responses": [
+                        {
+                            "id": 13326078,
+                            "user_id": 5163744,
+                            "task_id": 10422533,
+                            "points": 5,
+                            "created": "2017-06-21T04:50:33+07:00",
+                            "content": "CERITA YG SANGAT BAGUS SEKALII",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 13326731,
+                            "user_id": 5154749,
+                            "task_id": 10422533,
+                            "points": 5,
+                            "created": "2017-06-21T11:12:03+07:00",
+                            "content": "Cerita yg indah <br \/>ini namanya cerita fabel",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5163744,
+                                "nick": "HaloMyFrend",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d10\/a001698efe124076880cc433fcb399e4.jpg"
+                            },
+                            {
+                                "id": 5154749,
+                                "nick": "DwiLarasH431",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d6a\/d0467dec57c87a44268f55663bf1d3aa.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 260290,
+                        "subject_id": 12,
+                        "user_id": 166559,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 53,
+                            "ptsForResp": 27,
+                            "ptsForBest": 14
+                        },
+                        "content": "<span>salam,<br \/><br \/>\nsaya Riki seorang mahasiswa fakultas ekonomi di salah satu universitas <br \/>\nyang ada di Riau. Saya ingin sekali memahami peraturan-peraturan dalam <br \/>\nperpajakan guna menghindari kasus-kasus mafia perpajakan yang sempat <br \/>\nterkuak belakangan ini. Saya sering berdiskusi kasus-kasus\/contoh soal <br \/>\nperpajakan dengan beberapa kawan yang juga tertarik mengenai Perpajakan.<br \/>\n Namun untuk contoh soal \/ kasus berikut ini saya ingin berdiskusi di <br \/>\nmilis ini. oleh karena itu saya sangat berterima kasih sekali jika ada <br \/>\nyang membantu\/membimbing saya untuk lebih memahami lagi <br \/>\nperaturan-peraturan dalam perpajakan.<br \/><br \/><br \/><br \/>\nSoal 01<br \/><br \/>\nPT ABC menyampaikan SPT PPh badan tahun Pajak 2008 (tahun<br \/><br \/>\ntakwim) yang menyatakan lebih bayar pada tanngal 27 Maret 2009. Atas SPT<br \/><br \/>\ntersebut Kantor Pajak melakukan pemerikasaan dan telah diterbitkan SKPKB<br \/><br \/>\ntertanggal 19 Maret\u00a0 2010 dengan<br \/><br \/>\nperincian sebagai berikut:<br \/><br \/>\nPokok Pajak terhutang\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Rp.<br \/><br \/>\n800.000.000,-<br \/><br \/>\nKredit Pajak\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Rp.\u00a0 80.000.000,-<br \/><br \/>\nJumlah Kekurangan pembayaran pajak\u00a0 Rp.720.000.000,-<br \/><br \/>\nSanksi pasal 13 ayat 2\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Rp.216.200.000,-<br \/><br \/>\nJumlah yang masih harus dibayar\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Rp.936.200.000,-<br \/><br \/>\nPT ABC baru melunasi sebesar Rp.600.000.000. Dari jumlah yang masih harus dibayar yang tercantum<br \/><br \/>\ndalam SKPKB tersebut pada tanggal 20 Mai 2010. Bunga penagihan atas<br \/><br \/>\nketerlambatan tersebut tidak diterbitkan oleh KPP dengan alasan menunggu proses<br \/><br \/>\nkeberatan dqn penagihan. PT.ABC mengajukan keberatan atas SKPKB tersebut pada<br \/><br \/>\ntanggal 24 Mai 2010. Keputusan<br \/><br \/>\nkeberatan tersebut terbit tanggal 20<br \/><br \/>\nJuli 2010 dengan perincian sebagai berikut<br \/><br \/>\nPokok Pajak terhutang\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Rp.<br \/><br \/>\n660.000.000,-<br \/><br \/>\nKredit Pajak\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Rp.\u00a0\u00a0 80.000.000,-<br \/><br \/>\nJumlah Kekurangan pembayaran pajak\u00a0 Rp. 580.000.000,-<br \/><br \/>\nSanksi pasal 13 ayat 2\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Rp.\u00a0 174.000.000,-<br \/><br \/>\nJumlah yang masih harus dibayar\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Rp.754.000.000,-<br \/><br \/>\nMeskipun telah diterbitkan SK Keberatan. PT ABC tetap<br \/><br \/>\ntidak melunasi kekurangan pembayaran pajak tersebut, dan proses penagihan terus<br \/><br \/>\nberjalan. Kekurangan pembayaran pajak tersebut dilunasi seluruhnya pada tanggal 24 Agustus 2010 bersamaan dengan<br \/><br \/>\npelaksanaan lelang atas aktiva milik PT ABC yang telah disita. STP atas bunga<br \/><br \/>\npenagihan diterbitkan bersamaan dengan pelaksanaan lelang. <br \/><br \/>\nSebelumnya pada tanggal 27 Juli 2010 PT ABC mengajukan banding. Putusan banding terbit<br \/><br \/>\ntanggal 19 Juni 2011\u00a0 dengan putusan sebagai berikut:<br \/><br \/>\nPokok Pajak terhutang\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Rp.\u00a0 50.000.000,-<br \/><br \/>\nKredit Pajak\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Rp.\u00a0 80.000.000,-<br \/><br \/>\nJumlah Lebihpembayaran pajak\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Rp.\u00a0 30.000.000,-<br \/><br \/>\nAkibat adanya putusan banding tersebut, maka atas STP<br \/><br \/>\nBunga Penagihan diterbitkan Keputusan Penghapusan Sanksi Administrasipada<br \/><br \/>\ntanggal 20 Juni 2011. Selanjutnya<br \/><br \/>\nditerbitkan SPMKP atas kelebihan pembayaran pajak atas SPMIB atas imbalan bunga<br \/><br \/>\ntanggal 14 Juli 2012<br \/><br \/>\nPertanyaan<br \/><br \/>\na.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Buatlah kronologis tahapan penagihan<br \/><br \/>\npajak dengan surat paksa terhadap kasus tersebut dengan disertai tanggal paling<br \/><br \/>\ncepat dilaksanakannya setiap tahapan penagihan sampai dengan pelaksanaan<br \/><br \/>\nlelang. (Dalam Bentuk Sket)<br \/><br \/>\nb.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Hitung bunga penagihan yang tercantum<br \/><br \/>\ndalam STP Bunga Penagihan yang terbit bersamaan dengan pelaksanaan lelang<br \/><br \/>\ntanggal 24 Agustus 2010<br \/><br \/>\nc.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Hitunglah <br \/><br \/>\n\u00fckelebihan pembayaran pajak dan <br \/><br \/>\n\u00fckelebihan bunga serta<br \/><br \/>\n\u00fcimbalan bunga yang diterima PT.ABC sehubungan dengan<br \/><br \/>\nputusan banding<br \/><br \/>\nd.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Upaya\u00a0 hukum apa yang dapat dilakukan oleh PT ABC yang tidak puas terhadap<br \/><br \/>\nproses penagihan ?? Apa saja syaratnya.<br \/><br \/>\ne.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Dapatkan penagihan pajak tersebut<br \/><br \/>\ndapat ditunda. Jelaskan<br \/><br \/>\nf.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Apakah PT ABC yang tidak membayar<br \/><br \/>\nutang pajaknya (600.000.000) artinya pelunasan dilakukan seluruhnya dengan cara<br \/><br \/>\nlelang sebagaimanan karena tersebut? Dapatkah PT ABC mengajukan banding?? Apa<br \/><br \/>\nsaja persyaratan banding.<br \/><br \/><\/span><br \/>",
+                        "created": "2014-06-12T16:42:49+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2014-07-02T06:49:29+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "salam,\nsaya Riki seorang mahasiswa fakultas ekonomi di salah satu universitas \nyang ada di Riau. Saya ingin sekali memahami peraturan-peraturan dalam \nperpajakan guna menghindari kasus-kasus mafia perpajakan yang sempat \nterkuak belakangan ini. Saya sering berdiskusi kasus-kasus\/contoh soal \nperpajakan dengan beberapa <em>kawan<\/em> yang juga tertarik mengenai Perpajakan.\n Namun untuk contoh soal \/ kasus berikut ini saya ingin berdiskusi di \nmilis ini. oleh karena itu saya sangat berterima kasih sekali jika ada \nyang membantu\/membimbing saya untuk lebih memahami lagi \nperaturan-peraturan dalam perpajakan.\nSoal 01\nPT ABC menyampaikan SPT PPh badan tahun Pajak 2008 (tahun\ntakwim) yang menyatakan lebih bayar pada tanngal 27 Maret 2009. Atas SPT\ntersebut Kantor Pajak melakukan pemerikasaan dan telah diterbitkan SKPKB\ntertanggal 19 Maret\u00a0 2010 dengan\nperincian sebagai berikut:\nPokok Pajak terhutang\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Rp.\n800.000.000,-\nKredit Pajak\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Rp.\u00a0 80.000.000,-\nJumlah Kekurangan pembayaran pajak\u00a0 Rp.720.000.000,-\nSanksi pasal 13 ayat 2\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Rp.216.200.000,-\nJumlah yang masih harus dibayar\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Rp.936.200.000,-\nPT ABC baru melunasi sebesar Rp.600.000.000. Dari jumlah yang masih harus dibayar yang tercantum\ndalam SKPKB tersebut pada tanggal 20 <em>Mai<\/em> 2010. Bunga penagihan atas\nketerlambatan tersebut tidak diterbitkan oleh KPP dengan alasan menunggu proses\nkeberatan dqn penagihan. PT.ABC mengajukan keberatan atas SKPKB tersebut pada\ntanggal 24 <em>Mai<\/em> 2010. Keputusan\nkeberatan tersebut terbit tanggal 20\nJuli 2010 dengan perincian sebagai berikut\nPokok Pajak terhutang\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Rp.\n660.000.000,-\nKredit Pajak\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Rp.\u00a0\u00a0 80.000.000,-\nJumlah Kekurangan pembayaran pajak\u00a0 Rp. 580.000.000,-\nSanksi pasal 13 ayat 2\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Rp.\u00a0 174.000.000,-\nJumlah yang masih harus dibayar\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Rp.754.000.000,-\nMeskipun telah diterbitkan SK Keberatan. PT ABC tetap\ntidak melunasi kekurangan pembayaran pajak tersebut, dan proses penagihan terus\nberjalan. Kekurangan pembayaran pajak tersebut dilunasi seluruhnya pada tanggal 24 Agustus 2010 bersamaan dengan\npelaksanaan lelang atas aktiva milik PT ABC yang telah disita. STP atas bunga\npenagihan diterbitkan bersamaan dengan pelaksanaan lelang. \nSebelumnya pada tanggal 27 Juli 2010 PT ABC mengajukan banding. Putusan banding terbit\ntanggal 19 Juni 2011\u00a0 dengan putusan sebagai berikut:\nPokok Pajak terhutang\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Rp.\u00a0 50.000.000,-\nKredit Pajak\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Rp.\u00a0 80.000.000,-\nJumlah Lebihpembayaran pajak\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Rp.\u00a0 30.000.000,-\nAkibat adanya putusan banding tersebut, maka atas STP\nBunga Penagihan diterbitkan Keputusan Penghapusan Sanksi Administrasipada\ntanggal 20 Juni 2011. Selanjutnya\nditerbitkan SPMKP atas kelebihan pembayaran pajak atas SPMIB atas imbalan bunga\ntanggal 14 Juli 2012\nPertanyaan\na.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Buatlah kronologis tahapan penagihan\npajak dengan surat paksa terhadap kasus tersebut dengan disertai tanggal paling\ncepat dilaksanakannya setiap tahapan penagihan sampai dengan pelaksanaan\nlelang. (Dalam Bentuk Sket)\nb.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Hitung bunga penagihan yang tercantum\ndalam STP Bunga Penagihan yang terbit bersamaan dengan pelaksanaan lelang\ntanggal 24 Agustus 2010\nc.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Hitunglah \n\u00fckelebihan pembayaran pajak dan \n\u00fckelebihan bunga serta\n\u00fcimbalan bunga yang diterima PT.ABC sehubungan dengan\nputusan banding\nd.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Upaya\u00a0 hukum apa yang dapat dilakukan oleh PT ABC yang tidak puas terhadap\nproses penagihan ?? Apa saja syaratnya.\ne.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Dapatkan penagihan pajak tersebut\ndapat ditunda. Jelaskan\nf.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Apakah PT ABC yang tidak membayar\nutang pajaknya (600.000.000) artinya pelunasan dilakukan seluruhnya dengan cara\nlelang sebagaimanan karena tersebut? Dapatkah PT ABC mengajukan banding?? Apa\nsaja persyaratan banding.",
+                        "snippet_content": "ini. Saya sering berdiskusi kasus-kasus\/contoh soal \nperpajakan dengan beberapa <em>kawan<\/em> yang juga tertarik mengenai Perpajakan.\n Namun untuk contoh soal \/ kasus"
+                    },
+                    "responses": [
+                        {
+                            "id": 421970,
+                            "user_id": 93348,
+                            "task_id": 260290,
+                            "points": 27,
+                            "created": "2014-07-02T06:49:29+07:00",
+                            "content": "ini kompleks skali.perlu.byk baca buku.sya msih sma .maaf tdk bsa membantu",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 93348,
+                                "nick": "linne",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dbd\/e5bb6f26e6b68d32327f042641507b1d.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10734292,
+                        "subject_id": 19,
+                        "user_id": 3889122,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "INI PELAJARAN SBK ( SENI BUDAYA DAN KETERAMPILAN )<br \/><br \/>Tolong Ya Di Bantu Kawan Yang Baik Hati Bantu Jawab Soal Yang Di Bawah Ini Pliss<br \/><br \/>1. Pola lantai diperlukan untuk membuat .....<br \/>A. Permainan garis<br \/>B. Formasi kelompok<br \/>C. Tatanan yang rumit<br \/>D. Gerakan yang berputar putar<br \/>2. Sifat dari gerakan tari yang memakai pola lantai asimetris adalah .....<br \/>A. Tidak kokoh<br \/>B. Kuat<br \/>C. Lembut<br \/>D. Sederhana<br \/>3. Pola tari melengkung dapat dikembangkan menjadi beberapa pola baru,kecuali .....<br \/>A. Lingkaran<br \/>B. Lengkung ke depan<br \/>C. Angka delapan<br \/>D. Huruf z<br \/>4. Gerakan para penari melingkar atau membentuk garis lengkung mengesankan .....<br \/>A. Keindahan<br \/>B. Kesederhanaan<br \/>C. Ketegasan<br \/>D. Kejujuran<br \/>5. Salah satu tari yang menggunakan pola gerak lengkung ialah ....<br \/>A. Tari saman<br \/>B. Tari bedhaya<br \/>C. Tari randai<br \/>D. Tari baris gede<br \/>6 - 7 Sudah Di Isi<br \/>8. Arah gerak menyamping kiri kanan disebut ....<br \/>A. Gerak diagonal<br \/>B. Gerak vertical<br \/>C. Gerak horizontal<br \/>D. Gerak lurus<br \/>9. Gerak horizontal dipadukan gerakan tangan membawa senjata dan diayunkan, merupakan ciri khas tarian dari ....<br \/>A. Kalimantan<br \/>B. Jawa timur<br \/>C. Sulawesi<br \/>D. Sumatera<br \/>10. Gerak pergeseran penari menganut garis lurus disebut pola lantai ....<br \/>A. Garis lurus<br \/>B. Lingkaran<br \/>C. Garis lengkung<br \/>D. Campuran<br \/>11. Gerak pergeseran penari yang dilakukan dengan menggunakan gerak garis lengkung disebut ....<br \/>A. Garis lurus<br \/>B. Lingkaran<br \/>C. Garis lengkung<br \/>D. Campuran<br \/>12. Fungsi pendidikan yang positif dari kegiatan menari ditinjau berdasarkan sikap dan kepribadian adalah ....<br \/>A. Membantuk tubuh yang indah dan lentur<br \/>B. Penari sikapnya menjadi lemah gemulai<br \/>C. Bersikap percaya diri dan disiplin<br \/>D. Lebih bersikap luwes seperti artis<br \/>13. Tari saman gerakannya lebih menekankan keindahan dan dominan pada gerakan ....<br \/>A. tangan-kepala<br \/>B. tangan-pinggul<br \/>C. kaki-tangan<br \/>D. kaki-kepala<br \/>14 Sudah Di Isi<br \/>15. Contoh tarian dengan level sedang ialah ....<br \/>A. Tari Jaipong<br \/>B. Tari Cakalele<br \/>C. Tari Seudati<br \/>D. Tari Serampang dua belas<br \/><br \/>Tolong ya kawan yang baik hati tolong dijawab semua soal soal nya Pliss Kawan<br \/><br \/>Ini soalnya besok mau dikumpulkan Kawan. Bagi Kawan Kawan Semuanya yang sudah menemukan jawaban nya tolong di isi secepatnya ya kawan Dan ngisinya jangan Salah Salahan Ya Kawan Pliss<br \/>",
+                        "created": "2017-05-21T15:35:22+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2017-05-21T15:52:58+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "INI PELAJARAN SBK ( SENI BUDAYA DAN KETERAMPILAN )Tolong Ya Di Bantu <em>Kawan<\/em> Yang Baik <em>Hati<\/em> Bantu Jawab Soal Yang Di Bawah Ini Pliss1. Pola lantai diperlukan untuk membuat .....A. Permainan garisB. Formasi kelompokC. Tatanan yang rumitD. Gerakan yang berputar putar2. Sifat dari gerakan tari yang memakai pola lantai asimetris adalah .....A. Tidak kokohB. KuatC. LembutD. Sederhana3. Pola tari melengkung dapat dikembangkan menjadi beberapa pola baru,kecuali .....A. LingkaranB. Lengkung ke depanC. Angka delapanD. Huruf z4. Gerakan para penari melingkar atau membentuk garis lengkung mengesankan .....A. KeindahanB. KesederhanaanC. KetegasanD. Kejujuran5. Salah satu tari yang menggunakan pola gerak lengkung ialah ....A. Tari samanB. Tari bedhayaC. Tari randaiD. Tari baris gede6 - 7 Sudah Di Isi8. Arah gerak menyamping kiri kanan disebut ....A. Gerak diagonalB. Gerak verticalC. Gerak horizontalD. Gerak lurus9. Gerak horizontal dipadukan gerakan tangan membawa senjata dan diayunkan, merupakan ciri khas tarian dari ....A. KalimantanB. Jawa timurC. SulawesiD. Sumatera10. Gerak pergeseran penari menganut garis lurus disebut pola lantai ....A. Garis lurusB. LingkaranC. Garis lengkungD. Campuran11. Gerak pergeseran penari yang dilakukan dengan menggunakan gerak garis lengkung disebut ....A. Garis lurusB. LingkaranC. Garis lengkungD. Campuran12. Fungsi pendidikan yang positif dari kegiatan menari ditinjau berdasarkan sikap dan kepribadian adalah ....A. Membantuk tubuh yang indah dan lenturB. Penari sikapnya menjadi lemah gemulaiC. Bersikap percaya diri dan disiplinD. Lebih bersikap luwes seperti artis13. Tari saman gerakannya lebih menekankan keindahan dan dominan pada gerakan ....A. tangan-kepalaB. tangan-pinggulC. kaki-tanganD. kaki-kepala14 Sudah Di Isi15. Contoh tarian dengan level sedang ialah ....A. Tari JaipongB. Tari CakaleleC. Tari SeudatiD. Tari Serampang dua belasTolong ya <em>kawan<\/em> yang baik <em>hati<\/em> tolong dijawab semua soal soal nya Pliss KawanIni soalnya besok <em>mau<\/em> dikumpulkan <em>Kawan.<\/em> Bagi <em>Kawan<\/em> <em>Kawan<\/em> Semuanya yang sudah menemukan jawaban nya tolong di isi secepatnya ya <em>kawan<\/em> Dan ngisinya jangan Salah Salahan Ya <em>Kawan<\/em> Pliss",
+                        "snippet_content": "<em>hati<\/em> tolong dijawab semua soal soal nya Pliss KawanIni soalnya besok <em>mau<\/em> dikumpulkan <em>Kawan.<\/em> Bagi <em>Kawan<\/em> <em>Kawan<\/em> Semuanya yang sudah menemukan jawaban"
+                    },
+                    "responses": [
+                        {
+                            "id": 13019655,
+                            "user_id": 4155303,
+                            "task_id": 10734292,
+                            "points": 5,
+                            "created": "2017-05-21T15:52:58+07:00",
+                            "content": "1.a<br \/>2b<br \/>3 D<br \/>4a<br \/>5c<br \/>8a<br \/>9a<br \/>10.a<br \/>11c<br \/>12c<br \/>13b<br \/>15c<br \/>nomor 2 tapi saya kurang yakin",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 7142577,
+                                        "user_id": 4155303,
+                                        "content": "10.A",
+                                        "created": "2017-05-21T15:54:25+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 7142640,
+                                        "user_id": 3889122,
+                                        "content": "Maksih Ya Kawan. Gpp kok Cuma segitu tok jawaban nya",
+                                        "created": "2017-05-21T15:57:36+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 7142731,
+                                        "user_id": 4155303,
+                                        "content": "sudah ditambah ya",
+                                        "created": "2017-05-21T16:04:31+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 7142793,
+                                        "user_id": 3889122,
+                                        "content": "Ya GPP Kok Kawan Thanks Ya Atas Jawaban nya",
+                                        "created": "2017-05-21T16:09:13+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 4
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4155303,
+                                "nick": "rasyidalhakim",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d95\/1f1948cbad65a50e530f6abb3a15f171.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10734501,
+                        "subject_id": 19,
+                        "user_id": 3889122,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "TOLONG YA KAWAN YANG BAIK HATI TOLONG DI JAWAB SOAL SOAL DI BAWAH INI<br \/><br \/>A. Berilah tanda silang pada huruf a, b, c atau d yang dianggap paling benar!<br \/><br \/>1. Gerak menggunakan level tinggi dapat dijumpai pada salah satu tari tradisi di indonesia, yaitu ....<br \/>A. Tari perang dari Pulau Kalimantan<br \/>B. Jemparingan Mataram dari Yogyakarta<br \/>C. joget Mataram dari Yogyakarta<br \/>D. gambyong parijotho dari Surakarta<br \/>2. Ketinggian minimal yang dicapai penari pada gerak level rendah adalah saat penari dalam posisi ....<br \/>A. Jongkok<br \/>B. Membungkuk<br \/>C. Rebah di lantai<br \/>D. Mengambil sesuatu<br \/>3. Tinggi rendahnya gerak tari yang dilakukan disebut ....<br \/>A. Level gerak<br \/>B. Desain gerak<br \/>C. Pola gerak<br \/>D. Urutan gerak<br \/>4. Contoh tarian dengan level rendah ialah ....<br \/>A. Tari Saman<br \/>B. Tari Janget<br \/>C. Tari bambangan cakil<br \/>D. Tari Jaipong<br \/><br \/>B. Isilah titik titik di bawah ini dengan benar!<br \/>1. Seorang yang menarikan gerakan tari disebut ....<br \/>2. Tari Yospan berasal dari Papua dengan pola lantai ialah ....<br \/>3. Bentuk pola lantai dalam tari tayub ialah ....<br \/>4. Tarian Perang berasal dari daerah ....<br \/>5. Pola lantai dengan menggunakan Garis Lurus dan Garis <br \/>Lengkung biasanya Tarian yang berhubungan dengan hal ....<br \/>6. Pola Lantai yang dipergunakan dalam Tari Piring adalah Garis Lengkung dan membentuk yaitu ....<br \/><br \/>Tolong ya kawan yang baik hati di jawab secepatnya ini soal nya mau dikumpulkan besok pagi<br \/><br \/>Tolong dijawab yang benar ya kawan Pliss",
+                        "created": "2017-05-21T15:55:19+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-05-21T16:19:19+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "TOLONG YA <em>KAWAN<\/em> YANG BAIK <em>HATI<\/em> TOLONG DI JAWAB SOAL SOAL DI BAWAH INIA. Berilah tanda silang pada huruf a, b, c atau d yang dianggap paling benar!1. Gerak menggunakan level tinggi dapat dijumpai pada salah satu tari tradisi di indonesia, yaitu ....A. Tari perang dari Pulau KalimantanB. Jemparingan Mataram dari YogyakartaC. joget Mataram dari YogyakartaD. gambyong parijotho dari Surakarta2. Ketinggian minimal yang dicapai penari pada gerak level rendah adalah saat penari dalam posisi ....A. JongkokB. MembungkukC. Rebah di lantaiD. Mengambil sesuatu3. Tinggi rendahnya gerak tari yang dilakukan disebut ....A. Level gerakB. Desain gerakC. Pola gerakD. Urutan gerak4. Contoh tarian dengan level rendah ialah ....A. Tari SamanB. Tari JangetC. Tari bambangan cakilD. Tari JaipongB. Isilah titik titik di bawah ini dengan benar!1. Seorang yang menarikan gerakan tari disebut ....2. Tari Yospan berasal dari Papua dengan pola lantai ialah ....3. Bentuk pola lantai dalam tari tayub ialah ....4. Tarian Perang berasal dari daerah ....5. Pola lantai dengan menggunakan Garis Lurus dan Garis Lengkung biasanya Tarian yang berhubungan dengan hal ....6. Pola Lantai yang dipergunakan dalam Tari Piring adalah Garis Lengkung dan membentuk yaitu ....Tolong ya <em>kawan<\/em> yang baik <em>hati<\/em> di jawab secepatnya ini soal nya <em>mau<\/em> dikumpulkan besok pagiTolong dijawab yang benar ya <em>kawan<\/em> Pliss",
+                        "snippet_content": "Tolong ya <em>kawan<\/em> yang baik <em>hati<\/em> di jawab secepatnya ini soal nya <em>mau<\/em> dikumpulkan besok pagiTolong dijawab yang benar ya <em>kawan<\/em> Pliss"
+                    },
+                    "responses": [
+                        {
+                            "id": 13020057,
+                            "user_id": 557436,
+                            "task_id": 10734501,
+                            "points": 5,
+                            "created": "2017-05-21T16:19:19+07:00",
+                            "content": "1.a<br \/>2.b<br \/>3.c<br \/>4.d<br \/>==&gt;B;~<br \/>1.Penari<br \/>2.Tari Yospan berasal dari Papua dengan pola lantai garis lurus<br \/>3.<span>Tari Tayub dari Jawa, tari Gandrung dari Sasak, Joged Bumbung dari Bali, Gareng Lamen dari Flores, dan hampir semua tarian perang dari Papua menggunakan pola lantai garis lurus dan garis lengkung.<\/span><br \/>4.Maluku<br \/>5.\u00a0kegiatan Menari<br \/>6.Lingkaran<br \/><br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 557436,
+                                "nick": "riokalakonday",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d05\/16e0935d6a99e5172bdd0188e5edf2be.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10777753,
+                        "subject_id": 3,
+                        "user_id": 3889122,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Tolong Bantu Jawab Ya Kawan Yang Baik Hati Soal Yang Dibawah ini<br \/><br \/>Tati nyuwun dhuwit ibu,nanging ora diparingi.<br \/>Ukara mau nggunakake basa ....<br \/>A. Krama lugu<br \/>B. Krama alus<br \/>C. Ngoko lugu<br \/>D. Ngoko alus<br \/><br \/>Tolong Jangan Dijawab Salah Salahan Ya Kawan Di Jawab Yang Betul Ya Kawan Yang Baik Hati Pliss<br \/><br \/>Tolong Di Jawab Secepatnya Ya Kawan Yang Baik Hati<br \/><br \/>MATA PELAJARAN = BAHASA JAWA",
+                        "created": "2017-05-25T11:38:53+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2017-05-25T11:40:23+07:00",
+                        "the_best_resp_id": "13078806",
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [
+                                {
+                                    "id": 7175975,
+                                    "user_id": 5084182,
+                                    "content": "B.",
+                                    "created": "2017-05-25T12:07:45+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                },
+                                {
+                                    "id": 7175976,
+                                    "user_id": 5084182,
+                                    "content": "krama alus",
+                                    "created": "2017-05-25T12:07:56+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                }
+                            ],
+                            "last_id": 0,
+                            "count": 2
+                        },
+                        "highlighted_content": "Tolong Bantu Jawab Ya <em>Kawan<\/em> Yang Baik <em>Hati<\/em> Soal Yang Dibawah iniTati nyuwun dhuwit ibu,nanging ora diparingi.Ukara <em>mau<\/em> nggunakake basa ....A. Krama luguB. Krama alusC. Ngoko luguD. Ngoko alusTolong Jangan Dijawab Salah Salahan Ya <em>Kawan<\/em> Di Jawab Yang Betul Ya <em>Kawan<\/em> Yang Baik <em>Hati<\/em> PlissTolong Di Jawab Secepatnya Ya <em>Kawan<\/em> Yang Baik HatiMATA PELAJARAN = BAHASA JAWA",
+                        "snippet_content": "Tolong Bantu Jawab Ya <em>Kawan<\/em> Yang Baik <em>Hati<\/em> Soal Yang Dibawah iniTati nyuwun dhuwit ibu,nanging ora diparingi.Ukara <em>mau<\/em> nggunakake basa"
+                    },
+                    "responses": [
+                        {
+                            "id": 13078806,
+                            "user_id": 5063112,
+                            "task_id": 10777753,
+                            "points": 5,
+                            "created": "2017-05-25T11:40:23+07:00",
+                            "content": "Ini sepertinya A. yaitu krama lugu.<br \/>karena nyuwun itu bahasa krama.<br \/>jadi, yg ngoko udah ngg mungkin.. gitu jadikan jawaban terbaik ya and follow aku",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 7175796,
+                                        "user_id": 3889122,
+                                        "content": "oww",
+                                        "created": "2017-05-25T11:45:32+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 7175813,
+                                        "user_id": 3889122,
+                                        "content": "Fotonya kamu yang mana?",
+                                        "created": "2017-05-25T11:47:10+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 7175815,
+                                        "user_id": 3889122,
+                                        "content": "soalnya di ig itu ada dua nama nisrinathyra",
+                                        "created": "2017-05-25T11:47:37+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 7175818,
+                                        "user_id": 3889122,
+                                        "content": "jadinya aq bingung mau follow yang mana?",
+                                        "created": "2017-05-25T11:47:57+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 7175836,
+                                        "user_id": 3889122,
+                                        "content": "Kamu juga Follow aku ya",
+                                        "created": "2017-05-25T11:50:41+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 7175796,
+                                "count": 10
+                            }
+                        },
+                        {
+                            "id": 13078833,
+                            "user_id": 5082530,
+                            "task_id": 10777753,
+                            "points": 5,
+                            "created": "2017-05-25T11:42:33+07:00",
+                            "content": "kalo menurut aq ini jawabanx D... soalnya kata Ora itu udah masuk dalam bahasa ngoko...<br \/><br \/>#Itu yg saya tau.. maaf kalo salah",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 7175770,
+                                        "user_id": 3889122,
+                                        "content": "Thanks Ya Kawan",
+                                        "created": "2017-05-25T11:43:28+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 7175875,
+                                        "user_id": 5082530,
+                                        "content": "iya masama",
+                                        "created": "2017-05-25T11:55:08+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 2
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 5063112,
+                                "nick": "Nisrinathyra",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d7f\/24e72b8324110f0f10b634951db2c57b.jpg"
+                            },
+                            {
+                                "id": 5082530,
+                                "nick": "araf5",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d48\/3f842728d82aa8d51b4e4332f35d54ac.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10002650,
+                        "subject_id": 13,
+                        "user_id": 4630855,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "                           Nyarita ka Saluhureun<br \/>Nadia:\"Tadi mah ameng teh sareng Lia sareng Tanti.<br \/>            Janten,rada lami amengna.\"<br \/>Ceu Mira:\" Nya dimana kitu arameng teh,Nadia?\"<br \/>Nadia:\"Di bumina Lia,Ceu.Rada tebih ti dieu mah,<br \/>           kinten kinten sapuluh menitan.\"<br \/>Ceu Mira:\" Nanaonan bae di bumi Lia teh.\"<br \/>Nadia:\"Em...., ngadon prang pring,bunggaya,sareng<br \/>           encrak!\" Mani resep teh,Ceu!Ceu Mira,<br \/>           seneng henteu kana prang pring?\"<br \/>Ceu Mira:\"Nuju sasama Nadia mah Ceu Mira oge <br \/>                 resep atuh.Ayeuna mah henteu patos, da<br \/>                 Ceuceuna parantos dewasa.\"<br \/>Nadia:\"Abdi sok resep upami paenggal enggal <br \/>           nilepkeun sampean ka pengker.Anu pangpa-<br \/>           yunna,eta anu kenging. Upami anu pangpe-<br \/>           pengkema,nya janten anak bawang.\"<br \/>Ceu Mira:\"Ulah kamalinaan teuing upami ameng<br \/>                 teh! Kedah terang kana waktos wangsul<br \/>                 nya!\"<br \/>Nadia:\"Muhun,tadi oge apan henteu lami teuing.<br \/>           Padahal, masih hoyong keneh ameng. Da <br \/>           bilih diseuseulan ku Ibu,nya enggal bae <br \/>           wangsul.\"<br \/>Ceu Mira:\"Tah,leres kedah kitu!\" Nadia oge kedah <br \/>                 diajar tumut kana piwuruk ti sepuh.\"<br \/><br \/>Soalnya:<br \/>1) saha anu aya dina guneman di luhur?<br \/>2) saha anu bebeja tas ulin teh?<br \/>3) dimana ulinna Nadia teh?<br \/>4) jeung saha bae ulinna Nadia teh?<br \/>5) ulin naon bae Nadia teh?<br \/>6) ulah kumah lamun ulin teh?<br \/>7) kaulinna naon anu dipikaresep ku Nadia?<br \/>8) kaulinna naon anu dipikaresep ku Ceu Mira <br \/>    waktu leutik?<br \/>9) kudu kumaha urang kana piwuruk sepuh?<br \/>10) make ragam basa naon guneman di luhur? ",
+                        "created": "2017-03-24T20:24:11+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2017-03-24T20:30:50+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "                           Nyarita ka SaluhureunNadia:\"Tadi <em>mah<\/em> ameng teh sareng Lia sareng Tanti.            Janten,rada lami amengna.\"Ceu Mira:\" Nya dimana kitu arameng teh,Nadia?\"Nadia:\"Di bumina Lia,Ceu.Rada tebih ti dieu <em>mah<\/em>,           kinten kinten sapuluh menitan.\"Ceu Mira:\" Nanaonan bae di bumi Lia teh.\"Nadia:\"Em...., ngadon prang pring,bunggaya,sareng           encrak!\" <em>Mani<\/em> resep teh,Ceu!Ceu Mira,           seneng henteu kana prang pring?\"Ceu Mira:\"Nuju sasama Nadia <em>mah<\/em> Ceu Mira oge                  resep atuh.Ayeuna <em>mah<\/em> henteu patos, da                 Ceuceuna parantos dewasa.\"Nadia:\"Abdi sok resep upami paenggal enggal            nilepkeun sampean ka pengker.Anu pangpa-           yunna,eta anu kenging. Upami anu pangpe-           pengkema,nya janten anak bawang.\"Ceu Mira:\"Ulah kamalinaan teuing upami ameng                 teh! Kedah terang kana waktos wangsul                 nya!\"Nadia:\"Muhun,tadi oge <em>apan<\/em> henteu lami teuing.           Padahal, masih hoyong keneh ameng. Da            bilih diseuseulan ku Ibu,nya enggal bae            wangsul.\"Ceu Mira:\"Tah,leres kedah kitu!\" Nadia oge kedah                  diajar tumut kana piwuruk ti sepuh.\"Soalnya:1) saha anu aya dina guneman di luhur?2) saha anu bebeja tas ulin teh?3) dimana ulinna Nadia teh?4) jeung saha bae ulinna Nadia teh?5) ulin naon bae Nadia teh?6) ulah kumah lamun ulin teh?7) kaulinna naon anu dipikaresep ku Nadia?8) kaulinna naon anu dipikaresep ku Ceu Mira     waktu leutik?9) kudu kumaha urang kana piwuruk sepuh?10) make ragam basa naon guneman di luhur? ",
+                        "snippet_content": "Mira,           seneng henteu kana prang pring?\"Ceu Mira:\"Nuju sasama Nadia <em>mah<\/em> Ceu Mira oge                  resep atuh.Ayeuna <em>mah<\/em> henteu patos, da"
+                    },
+                    "responses": [
+                        {
+                            "id": 12024036,
+                            "user_id": 4783161,
+                            "task_id": 10002650,
+                            "points": 5,
+                            "created": "2017-03-24T20:30:50+07:00",
+                            "content": "pakai bahasa yg jelas ya supaya di mengerti",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 12024175,
+                            "user_id": 4784482,
+                            "task_id": 10002650,
+                            "points": 5,
+                            "created": "2017-03-24T20:36:30+07:00",
+                            "content": "1) nadia sareng ceu mira<br \/>2) nadia<br \/>3) dibumina lia<br \/>4) lia sareng tanti<br \/>5) prang pring, bunggaya sareng encrak<br \/>6)ulah kamalinaan teuing <br \/>7) prang pring<br \/>8) prang pring<br \/>9) kedah terang kana waktos wangsul<br \/>10)basa sunda anu lemes",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 6522060,
+                                        "user_id": 4630855,
+                                        "content": "terima kasih kak!",
+                                        "created": "2017-03-24T20:38:56+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 6522364,
+                                        "user_id": 4784482,
+                                        "content": "iyaa sama sama:)",
+                                        "created": "2017-03-24T20:57:45+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 2
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4783161,
+                                "nick": "jones31",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dd8\/031dfb0852c4d8d2fe2533aab388859e.jpg"
+                            },
+                            {
+                                "id": 4784482,
+                                "nick": "nurrositasalma",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10623941,
+                        "subject_id": 1,
+                        "user_id": 4251883,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "ide pokok dari<br \/>\"setelah mendengar cerita kawan tersebut,saya berkomentar dalam hati itu kan dijepang, negara yang sudah maju. mau dicontoh apanya? sulit diterapkan dinegara kita . terutama isi aturannya yang aneh dan lucu. dalam hal ini masih jauh dari kondisi negara kita saat ini. namun, kita tidak boleh pesimis,semua kuncinya ada pada kemauan. kalau kita mau dan semua orang juga mau. apa yg tidak mungkin ? jepang saja bisa kenapa kita tidak bisa. betul tidak ??\" ",
+                        "created": "2017-05-12T20:11:52+07:00",
+                        "responses": 2,
+                        "tickets": 3,
+                        "first_resp": "2017-05-12T20:18:08+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "ide pokok dari\"setelah mendengar cerita <em>kawan<\/em> tersebut,saya berkomentar dalam <em>hati<\/em> itu kan dijepang, negara yang sudah maju. <em>mau<\/em> dicontoh apanya? sulit diterapkan dinegara kita . terutama isi aturannya yang aneh dan lucu. dalam hal ini masih jauh dari kondisi negara kita saat ini. namun, kita tidak boleh pesimis,semua kuncinya ada pada kemauan. kalau kita <em>mau<\/em> dan semua orang juga <em>mau.<\/em> apa yg tidak mungkin ? jepang saja bisa kenapa kita tidak bisa. betul tidak ??\" ",
+                        "snippet_content": "ide pokok dari\"setelah mendengar cerita <em>kawan<\/em> tersebut,saya berkomentar dalam <em>hati<\/em> itu kan dijepang, negara yang sudah maju. <em>mau<\/em> dicontoh apanya"
+                    },
+                    "responses": [
+                        {
+                            "id": 12867868,
+                            "user_id": 363785,
+                            "task_id": 10623941,
+                            "points": 5,
+                            "created": "2017-05-12T20:18:08+07:00",
+                            "content": "kita tidak boleh menyalahkan keadaan, tidak ada yang tidak mungkin jika kita selalu berpikiran optimis. dengan begitu dalam keadaan sesulit apapun, tujuan kita akan tercapai.",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        },
+                        {
+                            "id": 12869849,
+                            "user_id": 5029055,
+                            "task_id": 10623941,
+                            "points": 5,
+                            "created": "2017-05-12T21:51:16+07:00",
+                            "content": "Kita tidak boleh pesimis, semua kuncinya ada pada kemauan. kalau kita mau dan semua orang juga mau. apa yg tidak mungkin ? <br \/>Itu merupakan kalimat utamanya dan ide pokonya adalah <br \/>Kita tidak boleh pesimis, kuncinya ada pada kemauan.",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "6",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 363785,
+                                "nick": "ImamSutono",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d86\/c708556dbe6fc69265fdb4b0eb4c7231.jpg"
+                            },
+                            {
+                                "id": 5029055,
+                                "nick": "Halaadit",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/db7\/6e4b4d2f32d137d55531fa60dc2691f1.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 2139755,
+                        "subject_id": 13,
+                        "user_id": 1149052,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 11,
+                            "ptsForResp": 6,
+                            "ptsForBest": 3
+                        },
+                        "content": "Anu rumasa U.S.A ( Urang Sunda Asli ) bantuan urang <br \/><br \/>\nTerangkeun maksudna kalimah anu ngandung gaya basa rautan di handap!<br \/>\n1. Lain sing ngahinakeun, kolotna mah jalma kurang mampuh<br \/>\n2. Geulisna mah geulis manehna teh, ngan uteukna rada kurang<br \/>\n3. Lantara tadina sombong, apan wawalesna teh ayeuna manehna teu boga nanaon<br \/>\n4. Nu mawi, tuang putra teh kirang majeng dina pangajaranana<br \/>\n5. Di dinya mah masih keneh loba masarakat anu kakurangan dahareun",
+                        "created": "2015-02-24T13:11:43+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-03-12T22:14:30+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [
+                                {
+                                    "id": 1749346,
+                                    "user_id": 1023662,
+                                    "content": "maaf kalau itu di terjemahkan ke dalam bahsa indonesia bkn",
+                                    "created": "2015-02-24T13:58:13+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                },
+                                {
+                                    "id": 1779183,
+                                    "user_id": 1236025,
+                                    "content": "1.bukan bermaksud menghina, orang tuanya mah bkan orang mampu.. 2. cakepmah cakep dia mah, cuman otaknya agak kurang.. 3. berhubung tadinya sombog,balesanya sekarang tiak punya apa\".. 4. seumpa, anak laki\" kurang maju di belajarnya.. 5. disitu mah masih banyak oranng kekurangan makanan",
+                                    "created": "2015-03-01T22:31:23+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                }
+                            ],
+                            "last_id": 0,
+                            "count": 2
+                        },
+                        "highlighted_content": "Anu rumasa U.S.A ( Urang Sunda Asli ) bantuan urang \nTerangkeun maksudna kalimah anu ngandung gaya basa rautan di handap!\n1. Lain sing ngahinakeun, kolotna <em>mah<\/em> jalma kurang mampuh\n2. Geulisna <em>mah<\/em> geulis manehna teh, ngan uteukna rada kurang\n3. Lantara tadina sombong, <em>apan<\/em> wawalesna teh ayeuna manehna teu boga nanaon\n4. Nu <em>mawi<\/em>, tuang putra teh kirang majeng dina pangajaranana\n5. Di dinya <em>mah<\/em> masih keneh loba masarakat anu kakurangan dahareun",
+                        "snippet_content": "geulis manehna teh, ngan uteukna rada kurang\n3. Lantara tadina sombong, <em>apan<\/em> wawalesna teh ayeuna manehna teu boga nanaon\n4. Nu <em>mawi<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 11780499,
+                            "user_id": 4008198,
+                            "task_id": 2139755,
+                            "points": 6,
+                            "created": "2017-03-12T22:14:30+07:00",
+                            "content": "Gaya basa rautan nyaeta ngaganti hiji kecap ku kecap atawa kekecapan sejen anu harti jeung maksudna sarua tapi karasa jeung kadengena leuwih ngeunah jeung lemes atawa leuwih sopan.<br \/><br \/>1. Lain sing ngahinakeun, kolotna mah jalma kurang mampuh. Kurang mampuh hartina miskin.<br \/>2. Geulisna mah geulis manehna teh, ngan uteukna rada kurang. Rada kurang hartina bodo.<br \/>3. Lantaran tadina sombong, apan wawalesna teh ayeuna manehna teu boga nanaon. Teu boga nanaon hartina miskin.<br \/>4. Nu mawi, tuang putra teh kirang majeng dina pangajaranana. Kirang majeung hartina bodo.<br \/>5. Di dinya mah masih keneh loba masarakat anu kakurangan dahareun. Kakurangan dahareun hartina kalaparan.<br \/>",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 0,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": true,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": "2017-03-17T00:10:17+07:00",
+                                "approver": {
+                                    "id": 2663844,
+                                    "nickname": "Mahaguru",
+                                    "points": 1857,
+                                    "grade": 3,
+                                    "gender": 2,
+                                    "avatars": {
+                                        "64": "https:\/\/id-static.z-dn.net\/files\/db6\/c5fb7b6a68ce26ccea00dc12cb60d96f.png",
+                                        "100": "https:\/\/id-static.z-dn.net\/files\/df7\/fe8fb6dfa0d217a5d3fafa2a27e269ba.png"
+                                    },
+                                    "content_approved_count": 718187
+                                }
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4008198,
+                                "nick": "ilukman",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 10719988,
+                        "subject_id": 20,
+                        "user_id": 5064369,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "1..\tPerkelahian dan tawuran antarpelajar sering diawali oleh perasaan tidak senang terhadap anggota kelompok lain. Ketika ada anggota yang sakit hati hati akibat perilaku seseorang dari kelompok lain, besar kemungkinan akan terjadi konflik. Konflik semacam itu muncul Karena adanya\u2026.<br \/>\na.\tPerubahan budaya<br \/>\nb.\tSolidaritas budaya<br \/>\nc.\tDekadensi moral<br \/>\nd.\tSosialisasi tidak sempurna<br \/>\ne.\tKecemburuan pribadi<br \/>\n2.\tDalam persidangan kasus wisma atlet yang menyeret petinggi partai politik terjadi perdebatan a lot antara jaksa penuntut umum dan pengacara tersangka. Dalam proses tersebut dapat dikatakan telah terjadi konflik\u2026<br \/>\nA.\tTerbuka dan horizontal<br \/>\nB.\tVertikal dan horizontal<br \/>\nC.\tKonstruktif dan destruktif<br \/>\nD.\tVertikal dan tertutup<br \/>\nE.\tIndividu dan antarkelompok<br \/>\n3.\tPernyataan berikut yang menunjukkan konflik positif-positf adalah\u2026.<br \/>\nA.\tSelepas menamatkan masa sekolahnya, lolik bingung akan meneruskan kuliah atau langsung bekerja Karena dua hal tersebut sama-sama penting baginya<br \/>\nB.\tDina harus tinggal diasrama meskipun ia mengingingkan tetap ikut orang tuanya<br \/>\nC.\tOla senang ketika mendapat beasiswa belajar keluar negeri setelah sebelumnya bingung mencari biaya sekolah<br \/>\nD.\tDila harus memeilih jurusan yang disarankan oleh orang tuanya meskipun ia tidak menyukainya<br \/>\nE.\tNono bertengkar dengan Ali gara-gara Nono tidak mau mengembalikan alat tulis milik Ali<br \/>\n4.\tKonflik yang kebablasan dapat meyebabkan kerusakan fisik dan mental. Meskipun demikian, konflik juga dapat berdampak positif, misalnya\u2026\u2026<br \/>\nA.\tMembuka kesempatan adanya perubahan yang lebih baik<br \/>\nB.\tMempertahankan orang lama yang berkualitas<br \/>\nC.\tMerombak tatanan sistem yang sudah mapan<br \/>\nD.\tMerenovasi bangunan lama yang sudah tidak kukuh<br \/>\nE.\tMemberi kesemptan untuk mendapatkan keuntungan pribadi<br \/>\n5.\tPandangan bahwa konflik bersifat negatif Karena dapat merusak solidaritas kelompok merupakan pandangan dari kelompok\u2026.<br \/>\na.\tModern<br \/>\nb.\tNeomodern<br \/>\nc.\tNetral<br \/>\nd.\tTradisional<br \/>\ne.\tKonservatif<br \/>\n6.\tDilingkungan rumahnya, Boni dikenal sebagai individu yang lemah lembut dan santun. Akan tetapi, sifat yang selama ini dikenal oleh masyarakat berubah ketika Boni bertikai dengan temannya. Ia menjadi pribadi yang kasar dank eras kepala. Hal tersebut menunjukkan dampak negative konflik, yaitu\u2026<br \/>\na.\tMemunculkan dominasi kelompok pemenang<br \/>\nb.\tMerusak hubungan dengan sesame<br \/>\nc.\tMengubah kepribadian individu<br \/>\nd.\tMenghilangkan nyawa seseorang<br \/>\ne.\tMenghilangkan harta benda<br \/>\n7.\tKetika konflik antara Indonesia dan Malaysia mengenai perbatasan memuncak, rakyat Indonesia memberikan dukungan penuh kepada pemerintah. Hal ini menunjukkan bahwa konflik dapat berperan sebagai\u2026<br \/>\na.\tPeningkat solidaritas<br \/>\nb.\tPemicu peran antarnegara<br \/>\nc.\tPemicu persaingan yang sehat<br \/>\nd.\tSarana balas dendam<br \/>\ne.\tDukungan bagi pemerintah<br \/>\n8.\tTerjadinya pertikaian yang hanya merugikan pihak-pihak yang bertikai terdapat pada pernyataan\u2026.<br \/>\nA.\tKonflik antaretnik Dayak dan Madura di Kalimanta<br \/>\nB.\tBuruh melakukan blokade jalan selama tuntutan mereka tidak dipenuhi oleh pemilik usaha<br \/>\nC.\tDua kelompok geng motor bentrok di jalan Karena salah satu anggota tidak sengaja menyenggol motor geng lain<br \/>\nD.\tVino menerima tantangan Ciko untuk melakukan balapan liar di jalan baru yang masih sepi<br \/>\nE.\tPelajar dari dua sekolah yang berdekatan terlibat tawuran gara-gara perebutan tempat nongkrong<br \/>\n9.\tIndonesia menjadi penengah dalam konflik antarfraksi-fraksi di Kamboja, juga antara pemerintah Filipina dan pemberontak Moro. Dalam kasus tersebut peran Indonesia sebagai ...<br \/>\nA.\tKonsiliasi<br \/>\nB.\tFasilitator<br \/>\nC.\tStalemate<br \/>\nD.\tMediator<br \/>\nE.\tMediasi<br \/>\n10.\tUpaya menyelesaikan konflik yang didasarkan pada pemahaman perbedaan disebut ...<br \/>\nA.\tToleransi<br \/>\nB.\tMediasi<br \/>\nC.\tAkomodasi<br \/>\nD.\tAdvokasi<br \/>\nE.\tKonsolidasi<br \/>",
+                        "created": "2017-05-19T20:10:03+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-05-19T20:28:51+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "1..\tPerkelahian dan tawuran antarpelajar sering diawali oleh perasaan tidak senang terhadap anggota kelompok lain. Ketika ada anggota yang sakit <em>hati<\/em> <em>hati<\/em> akibat perilaku seseorang dari kelompok lain, besar kemungkinan akan terjadi konflik. Konflik semacam itu muncul Karena adanya\u2026.\na.\tPerubahan budaya\nb.\tSolidaritas budaya\nc.\tDekadensi moral\nd.\tSosialisasi tidak sempurna\ne.\tKecemburuan pribadi\n2.\tDalam persidangan kasus wisma atlet yang menyeret petinggi partai politik terjadi perdebatan a lot antara jaksa penuntut umum dan pengacara tersangka. Dalam proses tersebut dapat dikatakan telah terjadi konflik\u2026\nA.\tTerbuka dan horizontal\nB.\tVertikal dan horizontal\nC.\tKonstruktif dan destruktif\nD.\tVertikal dan tertutup\nE.\tIndividu dan antarkelompok\n3.\tPernyataan berikut yang menunjukkan konflik positif-positf adalah\u2026.\nA.\tSelepas menamatkan masa sekolahnya, lolik bingung akan meneruskan kuliah atau langsung bekerja Karena dua hal tersebut sama-sama penting baginya\nB.\tDina harus tinggal diasrama meskipun ia mengingingkan tetap ikut orang tuanya\nC.\tOla senang ketika mendapat beasiswa belajar keluar negeri setelah sebelumnya bingung mencari biaya sekolah\nD.\tDila harus memeilih jurusan yang disarankan oleh orang tuanya meskipun ia tidak menyukainya\nE.\tNono bertengkar dengan Ali gara-gara Nono tidak <em>mau<\/em> mengembalikan alat tulis milik Ali\n4.\tKonflik yang kebablasan dapat meyebabkan kerusakan fisik dan mental. Meskipun demikian, konflik juga dapat berdampak positif, misalnya\u2026\u2026\nA.\tMembuka kesempatan adanya perubahan yang lebih baik\nB.\tMempertahankan orang lama yang berkualitas\nC.\tMerombak tatanan sistem yang sudah <em>mapan<\/em>\nD.\tMerenovasi bangunan lama yang sudah tidak kukuh\nE.\tMemberi kesemptan untuk mendapatkan keuntungan pribadi\n5.\tPandangan bahwa konflik bersifat negatif Karena dapat merusak solidaritas kelompok merupakan pandangan dari kelompok\u2026.\na.\tModern\nb.\tNeomodern\nc.\tNetral\nd.\tTradisional\ne.\tKonservatif\n6.\tDilingkungan rumahnya, Boni dikenal sebagai individu yang lemah lembut dan santun. Akan tetapi, sifat yang selama ini dikenal oleh masyarakat berubah ketika Boni bertikai dengan temannya. Ia menjadi pribadi yang kasar dank eras kepala. Hal tersebut menunjukkan dampak negative konflik, yaitu\u2026\na.\tMemunculkan dominasi kelompok pemenang\nb.\tMerusak hubungan dengan sesame\nc.\tMengubah kepribadian individu\nd.\tMenghilangkan nyawa seseorang\ne.\tMenghilangkan harta benda\n7.\tKetika konflik antara Indonesia dan Malaysia mengenai perbatasan memuncak, rakyat Indonesia memberikan dukungan penuh kepada pemerintah. Hal ini menunjukkan bahwa konflik dapat berperan sebagai\u2026\na.\tPeningkat solidaritas\nb.\tPemicu peran antarnegara\nc.\tPemicu persaingan yang sehat\nd.\tSarana balas dendam\ne.\tDukungan bagi pemerintah\n8.\tTerjadinya pertikaian yang hanya merugikan pihak-pihak yang bertikai terdapat pada pernyataan\u2026.\nA.\tKonflik antaretnik Dayak dan Madura di Kalimanta\nB.\tBuruh melakukan blokade jalan selama tuntutan mereka tidak dipenuhi oleh pemilik usaha\nC.\tDua kelompok geng motor bentrok di jalan Karena salah satu anggota tidak sengaja menyenggol motor geng lain\nD.\tVino menerima tantangan Ciko untuk melakukan balapan liar di jalan baru yang masih sepi\nE.\tPelajar dari dua sekolah yang berdekatan terlibat tawuran gara-gara perebutan tempat nongkrong\n9.\tIndonesia menjadi penengah dalam konflik antarfraksi-fraksi di Kamboja, juga antara pemerintah Filipina dan pemberontak Moro. Dalam kasus tersebut peran Indonesia sebagai ...\nA.\tKonsiliasi\nB.\tFasilitator\nC.\tStalemate\nD.\tMediator\nE.\tMediasi\n10.\tUpaya menyelesaikan konflik yang didasarkan pada pemahaman perbedaan disebut ...\nA.\tToleransi\nB.\tMediasi\nC.\tAkomodasi\nD.\tAdvokasi\nE.\tKonsolidasi",
+                        "snippet_content": "1..\tPerkelahian dan tawuran antarpelajar sering diawali oleh perasaan tidak senang terhadap anggota kelompok lain. Ketika ada anggota yang sakit <em>hati<\/em> <em>hati<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 12996630,
+                            "user_id": 4981341,
+                            "task_id": 10719988,
+                            "points": 5,
+                            "created": "2017-05-19T20:28:51+07:00",
+                            "content": "1.D<br \/>2.A<br \/>3.C<br \/>4.A<br \/>5.E<br \/>6.B<br \/>7.B<br \/>8.C<br \/>9.E<br \/>10.tidak tau<br \/><br \/>maaf jika salah maaf sekali",
+                            "mark": 1,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4981341,
+                                "nick": "ricky301",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d5b\/eb55ef93d2b01b6223a9fc3c56d84869.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 12,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 1978366,
+            "nick": "nur1990",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 232,
+                "answers": 161,
+                "comments": 109
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df7\/4b5fababdb91875e7f4b7d3e47d4cfdd.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da1\/1f5a29cc5790810a04c7a2cc39a69350.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df7\/4b5fababdb91875e7f4b7d3e47d4cfdd.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da1\/1f5a29cc5790810a04c7a2cc39a69350.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 2512179,
+            "nick": "lol88",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 12,
+                "comments": 5
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d3c\/d96360b6deffecfcf756e104ece855cc.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd2\/3fbdef603f64a2909d45c38e6eecdfd1.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d3c\/d96360b6deffecfcf756e104ece855cc.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd2\/3fbdef603f64a2909d45c38e6eecdfd1.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 2076247,
+            "nick": "sabrinasyifaurrahmah",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 12,
+                "answers": 78,
+                "comments": 15
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 4383135,
+            "nick": "03chubby",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 6,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4901617,
+            "nick": "ningsih80",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 54,
+                "answers": 421,
+                "comments": 153
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d75\/f1771028d4d445516e90c53b8220b902.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6a\/f4460059ba283a36e763514e5a2a96f2.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d75\/f1771028d4d445516e90c53b8220b902.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6a\/f4460059ba283a36e763514e5a2a96f2.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 5034429,
+            "nick": "ecaesternesia",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 94,
+                "comments": 78
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/ded\/c2be66ec90a9fd0bf974a64bce2f688c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d0d\/4360212500640d101bb6b1a457b69448.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/ded\/c2be66ec90a9fd0bf974a64bce2f688c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d0d\/4360212500640d101bb6b1a457b69448.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 646382,
+            "nick": "alfredonajogi",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 15,
+                "answers": 30,
+                "comments": 33
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 180347,
+            "nick": "Beta27",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 60,
+                "answers": 7962,
+                "comments": 4704
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dee\/911e6dd42c159e7494ccb1c247a2b68f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de0\/485e92fe1fc170c04b5955026874b6d5.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dee\/911e6dd42c159e7494ccb1c247a2b68f.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de0\/485e92fe1fc170c04b5955026874b6d5.jpg"
+            },
+            "ranks": {
+                "color": "#ffbe32",
+                "names": [
+                    "BrainlyDoctor",
+                    "BrainlyElite",
+                    "Jenius"
+                ],
+                "count": 3
+            },
+            "ranks_ids": [
+                32,
+                27,
+                7
+            ]
+        },
+        {
+            "id": 603523,
+            "nick": "HilmyAzizirrahim",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 48,
+                "comments": 29
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d0a\/34d03b69baf9fae5a917170e91d40f8a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da8\/c68a22871308381c3aaa873523bf15fa.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d0a\/34d03b69baf9fae5a917170e91d40f8a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/da8\/c68a22871308381c3aaa873523bf15fa.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 4954038,
+            "nick": "Lusy129",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 0,
+                "comments": 2
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d2f\/f192583ddb60ffce0fe386bdd9005fa2.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6e\/ad0649c12b1dee9e21d64d956b6651f4.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d2f\/f192583ddb60ffce0fe386bdd9005fa2.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6e\/ad0649c12b1dee9e21d64d956b6651f4.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 5163744,
+            "nick": "HaloMyFrend",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 2,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d6c\/b09644328c381c6d14c2ce742a3cd292.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d10\/a001698efe124076880cc433fcb399e4.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d6c\/b09644328c381c6d14c2ce742a3cd292.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d10\/a001698efe124076880cc433fcb399e4.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 5154749,
+            "nick": "DwiLarasH431",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 139,
+                "comments": 80
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d82\/abb858830cdef20c675dededead94e8d.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6a\/d0467dec57c87a44268f55663bf1d3aa.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d82\/abb858830cdef20c675dededead94e8d.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d6a\/d0467dec57c87a44268f55663bf1d3aa.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 166559,
+            "nick": "lailatulrahmah",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 93348,
+            "nick": "linne",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 436,
+                "answers": 131,
+                "comments": 395
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d90\/cb49576392a160690364e8f58ab98f48.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dbd\/e5bb6f26e6b68d32327f042641507b1d.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d90\/cb49576392a160690364e8f58ab98f48.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dbd\/e5bb6f26e6b68d32327f042641507b1d.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 3889122,
+            "nick": "vivianfrederika",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 78,
+                "answers": 87,
+                "comments": 213
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d65\/7636a4852e51f5e5b7b898cc83df0076.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d2a\/35224226f3326a82f1e8bc79959a1438.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d65\/7636a4852e51f5e5b7b898cc83df0076.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d2a\/35224226f3326a82f1e8bc79959a1438.jpg"
+            },
+            "ranks": {
+                "color": "#000000",
+                "names": [],
+                "count": 0
+            },
+            "ranks_ids": null
+        },
+        {
+            "id": 4155303,
+            "nick": "rasyidalhakim",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 48,
+                "comments": 5
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d24\/7ac21bb128a554fcef2863f987cb5550.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d95\/1f1948cbad65a50e530f6abb3a15f171.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d24\/7ac21bb128a554fcef2863f987cb5550.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d95\/1f1948cbad65a50e530f6abb3a15f171.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 557436,
+            "nick": "riokalakonday",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 8,
+                "comments": 3
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d00\/41b0ee76b4ed603fdafe3edac75f3cf0.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d05\/16e0935d6a99e5172bdd0188e5edf2be.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d00\/41b0ee76b4ed603fdafe3edac75f3cf0.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d05\/16e0935d6a99e5172bdd0188e5edf2be.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 5084182,
+            "nick": "bianda2",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 33,
+                "answers": 110,
+                "comments": 189
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d1f\/45218964ef59ff34c04c037916126ea4.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dfb\/70ef7c8fd1d34beab8ea768b527c1b7e.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d1f\/45218964ef59ff34c04c037916126ea4.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dfb\/70ef7c8fd1d34beab8ea768b527c1b7e.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 5063112,
+            "nick": "Nisrinathyra",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 9,
+                "answers": 207,
+                "comments": 54
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db7\/23abfd4ddcd9670c57a1f5fce5e6e789.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7f\/24e72b8324110f0f10b634951db2c57b.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/db7\/23abfd4ddcd9670c57a1f5fce5e6e789.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7f\/24e72b8324110f0f10b634951db2c57b.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 5082530,
+            "nick": "araf5",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 42,
+                "comments": 23
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d87\/e1f82ffcec55978a75c350793f7f0a6e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d48\/3f842728d82aa8d51b4e4332f35d54ac.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d87\/e1f82ffcec55978a75c350793f7f0a6e.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d48\/3f842728d82aa8d51b4e4332f35d54ac.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 4630855,
+            "nick": "nisa7771",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 17,
+                "answers": 0,
+                "comments": 2
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d50\/a3a528c3f0acd09319fdc4ef35c2b7b3.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc6\/a7fcc1feccf7761ad851ed5f861c9154.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d50\/a3a528c3f0acd09319fdc4ef35c2b7b3.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc6\/a7fcc1feccf7761ad851ed5f861c9154.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4783161,
+            "nick": "jones31",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 18,
+                "answers": 23,
+                "comments": 1
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d1c\/81a14ac64a6b2c27e325be4d5ede1e90.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd8\/031dfb0852c4d8d2fe2533aab388859e.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d1c\/81a14ac64a6b2c27e325be4d5ede1e90.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd8\/031dfb0852c4d8d2fe2533aab388859e.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4784482,
+            "nick": "nurrositasalma",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 4,
+                "comments": 3
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4251883,
+            "nick": "riswidianti",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 45,
+                "answers": 267,
+                "comments": 53
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d92\/e9698b98e9430281f0d0b94052f59f72.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d1a\/be2128272fc18a7bd1aedc99bfa1b438.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d92\/e9698b98e9430281f0d0b94052f59f72.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d1a\/be2128272fc18a7bd1aedc99bfa1b438.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Terpelajar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                4
+            ]
+        },
+        {
+            "id": 363785,
+            "nick": "ImamSutono",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 59,
+                "comments": 10
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d23\/67e26a181a6e236653853913a0f3fd63.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d86\/c708556dbe6fc69265fdb4b0eb4c7231.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d23\/67e26a181a6e236653853913a0f3fd63.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d86\/c708556dbe6fc69265fdb4b0eb4c7231.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 5029055,
+            "nick": "Halaadit",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 8,
+                "comments": 4
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d75\/d327b690dc5cd5b34b80b836909b0485.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db7\/6e4b4d2f32d137d55531fa60dc2691f1.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d75\/d327b690dc5cd5b34b80b836909b0485.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/db7\/6e4b4d2f32d137d55531fa60dc2691f1.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 1149052,
+            "nick": "Pakmanggu",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 24,
+                "answers": 0,
+                "comments": 1
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 1236025,
+            "nick": "UwiKhusnul",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 4,
+                "comments": 2
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df9\/bb7f36c58721b9c0483a850996cdfbcf.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d8b\/5488180290cc6b24a46f6555d4abcfe9.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/df9\/bb7f36c58721b9c0483a850996cdfbcf.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d8b\/5488180290cc6b24a46f6555d4abcfe9.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 1023662,
+            "nick": "amalianursyifa1",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 82,
+                "answers": 44,
+                "comments": 64
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d01\/f9103cce508061baef1334082048834c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7b\/72d72c00cdfcab5e842869663af6cad4.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d01\/f9103cce508061baef1334082048834c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7b\/72d72c00cdfcab5e842869663af6cad4.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 4008198,
+            "nick": "ilukman",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 1172,
+                "comments": 4
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "BrainlyTeacher",
+                    "EthnicGroupLiterature-ButetManurung",
+                    "Ambisius"
+                ],
+                "count": 3
+            },
+            "ranks_ids": [
+                91,
+                116,
+                3
+            ]
+        },
+        {
+            "id": 5064369,
+            "nick": "aldiarham99",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d93\/9db9ffb4f0a633622925012aa39989a1.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df2\/2e3f7fa885a272c1d77a0991dede00c1.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d93\/9db9ffb4f0a633622925012aa39989a1.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df2\/2e3f7fa885a272c1d77a0991dede00c1.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4981341,
+            "nick": "ricky301",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 15,
+                "answers": 28,
+                "comments": 37
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc4\/44dcbbba555a9415f073238268b70ac3.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d5b\/eb55ef93d2b01b6223a9fc3c56d84869.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dc4\/44dcbbba555a9415f073238268b70ac3.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d5b\/eb55ef93d2b01b6223a9fc3c56d84869.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        }
+    ],
+    "validated": false
+}

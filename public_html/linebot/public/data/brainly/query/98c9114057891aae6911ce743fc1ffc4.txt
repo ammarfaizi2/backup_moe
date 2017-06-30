@@ -1,0 +1,714 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 5968488,
+                        "subject_id": 1,
+                        "user_id": 2977940,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "tentui struktur teks dari rumah kecil di bukit sunyi , ikan hias yang digemari, cerita rakyat populer di indonesia , dampak kemacetan lalu lintas , teka teki kematian michael jacksonl ceritanya ada di buku bahasa indonesia k13 kelas 7 ",
+                        "created": "2016-05-01T18:32:42+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2017-04-29T09:56:03+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "tentui struktur teks dari <em>rumah<\/em> kecil di bukit sunyi , ikan hias yang digemari, cerita rakyat populer di indonesia , dampak kemacetan lalu lintas , teka teki kematian <em>michael<\/em> jacksonl ceritanya ada di buku bahasa indonesia k13 kelas 7 ",
+                        "snippet_content": "tentui struktur teks dari <em>rumah<\/em> kecil di bukit sunyi , ikan hias yang digemari, cerita rakyat populer di indonesia , dampak kemacetan lalu lintas"
+                    },
+                    "responses": [
+                        {
+                            "id": 12634804,
+                            "user_id": 4967316,
+                            "task_id": 5968488,
+                            "points": 5,
+                            "created": "2017-04-29T09:56:03+07:00",
+                            "content": "teks eksposisi<br \/>struktur : orientasi, argumentasi, penegasan ulang<br \/><br \/><br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 0,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4967316,
+                                "nick": "kiky200201",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/de2\/0d8e6e1c1028f25ae29f308a363c1754.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 1495836,
+                        "subject_id": 1,
+                        "user_id": 401575,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 16,
+                            "ptsForResp": 8,
+                            "ptsForBest": 4
+                        },
+                        "content": "Tentukan apakah teks dibawah ini termasuk teks eksposisi\/bukan beri alasannya<br \/><br \/>\nSejak ayahnya yang seorang tentara meninggal dunia, ibunya menjadi tulang punggung keluarga, kalau hanya mengandalkan pensiunan ayahnya mana mungkin mereka hidup serba berkecukupan seperti sekarang ini punya rumah bagus, mobil bagus, dan segala yang bagus-bagus yang hanya mungkin diangankan kalau ibunya hanya mengandalkan hidup dari uang pensiunan ayahnya. Bahkan berkat usaha kateringnya dia bisa menyekolahkan mba mukti dan mas depo keluar negri! kalau lulus SMA nanti, Har akan menyusul kedua kakaknya yang sudah lebih dulu menimba ilmu di negri Michael Jordan<br \/><br \/>\nTeks 2<br \/>\nKoruptor itu kini jadi tukang roti. Mendorong gerobak berkeliling dari lorong permukiman mewah. Siapa lagi bisa menduga bahwa ia dulunya seorang koruptor? sebab wajahnya dirias gelap, topi pandan compang camping menutup sebagian besar dahi dan kedua matanya. Ia berjalan menekur ketanah. Dari pagi hingga petang ia berjualan roti dengan berteriak ''roti , roti'' suaranya dibuat agak berirama agar menarik pembeli<br \/><br \/>\nTerimakasih",
+                        "created": "2014-11-18T20:53:23+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2014-11-18T20:58:41+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Tentukan apakah teks dibawah ini termasuk teks eksposisi\/bukan beri alasannya\nSejak ayahnya yang seorang tentara meninggal dunia, ibunya menjadi tulang punggung keluarga, kalau hanya mengandalkan pensiunan ayahnya mana mungkin mereka hidup serba berkecukupan seperti sekarang ini punya <em>rumah<\/em> bagus, mobil bagus, dan segala yang bagus-bagus yang hanya mungkin diangankan kalau ibunya hanya mengandalkan hidup dari uang pensiunan ayahnya. Bahkan berkat usaha kateringnya dia bisa menyekolahkan mba mukti dan mas depo keluar negri! kalau lulus SMA nanti, Har akan menyusul kedua kakaknya yang sudah lebih dulu menimba ilmu di negri <em>Michael<\/em> Jordan\nTeks 2\nKoruptor itu kini jadi tukang roti. Mendorong gerobak berkeliling dari lorong permukiman mewah. Siapa lagi bisa menduga bahwa ia dulunya seorang koruptor? sebab wajahnya dirias gelap, topi pandan compang camping menutup sebagian besar dahi dan kedua matanya. Ia berjalan menekur ketanah. Dari pagi hingga petang ia berjualan roti dengan berteriak ''roti , roti'' suaranya dibuat agak berirama agar menarik pembeli\nTerimakasih",
+                        "snippet_content": "ayahnya mana mungkin mereka hidup serba berkecukupan seperti sekarang ini punya <em>rumah<\/em> bagus, mobil bagus, dan segala yang bagus-bagus yang hanya"
+                    },
+                    "responses": [
+                        {
+                            "id": 1908335,
+                            "user_id": 898984,
+                            "task_id": 1495836,
+                            "points": 8,
+                            "created": "2014-11-18T20:58:41+07:00",
+                            "content": "Teks pertama bukan karena tidak mengandung data (fakta) yg mendukung\n",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 3,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 898984,
+                                "nick": "Aiisyah21",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d8e\/a8b89309baf94ed94ea6755111a03761.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 5244094,
+                        "subject_id": 2,
+                        "user_id": 2647598,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Saya akan Tanya Beberapa Soal !(7 soal)<br \/>\ndan kalo cuma jawab 1 soal boleh silakan!! : )<br \/><br \/>\n1. Pak Morgana berangkat ke kantor<br \/>\ndengan mengendarai motor dari rumahnya pada pukul 06.15 dan tiba di kantor pukul 07.45. jika jarak rumah Pak Morgana ke kantornya 75 km, kecepatan rata-rata motor yang dikendarai Pak Morgana adalah.....<br \/>\na. 45 km\/jam<br \/>\nb. 50 km\/jam<br \/>\nc. 60 km\/jam<br \/>\nd. 75 km\/jam<br \/><br \/>\n2. Pak Rudi memiliki lahan seluas 4 ha. Lahan tersebut ditanami tanaman buah-buahan seluas 120 are, tanaman sayur-sayuran seluas 6.500 m persegi (pangkat 2),dan sisanya akan dibuat kolam pemancingan ikan. Luas lahan untuk<br \/>\nkolam pemancingan ikan adalah.......<br \/>\n(m2 arti=m pangkat 2)<br \/>\na. 16.500 m2<br \/>\nb. 18.000 m2<br \/>\nc. 21.500 m2<br \/>\nd. 23.000 m2<br \/><br \/>\n3.Sebuah Bak Kamar Mandi berbentuk balok dengan ukuran panjang dan lebar berturut-turut 160 cm dan 90 cm. Bak tersebut terisi penuh oleh air. Jika Volume Air dalam bak 1.080 liter, tinggi bak tersebut adalah.......<br \/>\na. 65 cm<br \/>\nb. 70 cm<br \/>\nc. 75 cm<br \/>\nd. 80 cm<br \/><br \/>\n4. Sebuah lampu hias terdiri atas lampu kuning yang menyala setiap 4 detik sekali, lampu hijau 12 detik sekali, dan lampu biru setiap 20 detik sekali. Jika ketiga lampu tersebut menyala bersamaan pertama kali pada pukul 12.29, ketiga lampu tersebut akan menyala bersamaan untuk kedua kalinya pada pukul.........<br \/>\na. 12.30<br \/>\nb. 12.39<br \/>\nc. 13.29<br \/>\nd. 13.39<br \/><br \/>\n5. Pada Tahun 2013, Paman berusia 4 dasawarsa 1 windu. Jika usia Bibi 3 tahun lebih muda dari Paman, Usia Bibi pada Tahun 2015 adalah.......<br \/>\na. 55 tahun<br \/>\nb. 53 tahun<br \/>\nc. 50 tahun<br \/>\nd. 47 tahun<br \/><br \/>\n(no.6 cm2,m2,dm2 artinya pangkat 2)<br \/><br \/>\n6. Luas lantai kamar Michael 100.000 cm2. Michael menempatkan rak buku dengan luas alas 1.600 cm2 dan tempat tidur dengan luas alas 240 dm2. Luas lantai kamar Michael yang masih kosong adalah.......<br \/>\na. 75,4 m2<br \/>\nb. 74,4 m2<br \/>\nc. 7,54 m2<br \/>\nd. 7,44 m2<br \/><br \/>\n7. Pak Lurah akan membagikan bantuan kepada warganya berupa 150 kantong beras, 90 botol minyak goreng, dan 180 kaleng sarden.<br \/>\nJika setiap RT menerima bantuan sama banyak, jumlah RT paling banyak yang<br \/>\nmendapat bantuan dari Pak Lurah adalah.......<br \/>\na. 26 RT<br \/>\nb. 28 RT<br \/>\nc. 30 RT<br \/>\nd. 32 RT<br \/><br \/>\nthx cuma itu saja <br \/>\npake cara juga ya plz<br \/>\njawab 1 soal boleh<br \/>\nok bye ! ^_' jawaban terbaik adalah jawab semua soal ! bye : )",
+                        "created": "2016-02-26T14:27:02+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2016-02-26T14:40:24+07:00",
+                        "the_best_resp_id": "6199307",
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Saya akan Tanya Beberapa Soal !(7 soal)\ndan kalo cuma jawab 1 soal boleh silakan!! : )\n1. Pak Morgana berangkat ke kantor\ndengan mengendarai motor dari rumahnya pada pukul 06.15 dan tiba di kantor pukul 07.45. jika jarak <em>rumah<\/em> Pak Morgana ke kantornya 75 km, kecepatan rata-rata motor yang dikendarai Pak Morgana adalah.....\na. 45 km\/jam\nb. 50 km\/jam\nc. 60 km\/jam\nd. 75 km\/jam\n2. Pak Rudi memiliki lahan seluas 4 ha. Lahan tersebut ditanami tanaman buah-buahan seluas 120 are, tanaman sayur-sayuran seluas 6.500 m persegi (pangkat 2),dan sisanya akan dibuat kolam pemancingan ikan. Luas lahan untuk\nkolam pemancingan ikan adalah.......\n(m2 arti=m pangkat 2)\na. 16.500 m2\nb. 18.000 m2\nc. 21.500 m2\nd. 23.000 m2\n3.Sebuah Bak Kamar Mandi berbentuk balok dengan ukuran panjang dan lebar berturut-turut 160 cm dan 90 cm. Bak tersebut terisi penuh oleh air. Jika Volume Air dalam bak 1.080 liter, tinggi bak tersebut adalah.......\na. 65 cm\nb. 70 cm\nc. 75 cm\nd. 80 cm\n4. Sebuah lampu hias terdiri atas lampu kuning yang menyala setiap 4 detik sekali, lampu hijau 12 detik sekali, dan lampu biru setiap 20 detik sekali. Jika ketiga lampu tersebut menyala bersamaan pertama kali pada pukul 12.29, ketiga lampu tersebut akan menyala bersamaan untuk kedua kalinya pada pukul.........\na. 12.30\nb. 12.39\nc. 13.29\nd. 13.39\n5. Pada Tahun 2013, Paman berusia 4 dasawarsa 1 windu. Jika usia Bibi 3 tahun lebih muda dari Paman, Usia Bibi pada Tahun 2015 adalah.......\na. 55 tahun\nb. 53 tahun\nc. 50 tahun\nd. 47 tahun\n(no.6 cm2,m2,dm2 artinya pangkat 2)\n6. Luas lantai kamar <em>Michael<\/em> 100.000 cm2. <em>Michael<\/em> menempatkan rak buku dengan luas alas 1.600 cm2 dan tempat tidur dengan luas alas 240 dm2. Luas lantai kamar <em>Michael<\/em> yang masih kosong adalah.......\na. 75,4 m2\nb. 74,4 m2\nc. 7,54 m2\nd. 7,44 m2\n7. Pak Lurah akan membagikan bantuan kepada warganya berupa 150 kantong beras, 90 botol minyak goreng, dan 180 kaleng sarden.\nJika setiap RT menerima bantuan sama banyak, jumlah RT paling banyak yang\nmendapat bantuan dari Pak Lurah adalah.......\na. 26 RT\nb. 28 RT\nc. 30 RT\nd. 32 RT\nthx cuma itu saja \npake cara juga ya plz\njawab 1 soal boleh\nok bye ! ^_' jawaban terbaik adalah jawab semua soal ! bye : )",
+                        "snippet_content": "6 cm2,m2,dm2 artinya pangkat 2)\n6. Luas lantai kamar <em>Michael<\/em> 100.000 cm2. <em>Michael<\/em> menempatkan rak buku dengan luas alas"
+                    },
+                    "responses": [
+                        {
+                            "id": 6199307,
+                            "user_id": 2579460,
+                            "task_id": 5244094,
+                            "points": 5,
+                            "created": "2016-02-26T14:40:24+07:00",
+                            "content": "2. 4ha - (120 are+6.500m\u00b2) = .....<br \/>4 ha = 4 x 10000 = 40000m<br \/>120 are = 120 x 100 = 12000m<br \/>6.500m = 6500m<br \/>40000 -(1200+6500)<br \/>40000 - 18500<br \/>21500m\u00b2<br \/><strong>Jadi jawabannya C.21500m\u00b2<br \/><\/strong>3. <strong>B.70<br \/>4<\/strong>.<strong>C.13.29<br \/>krna kpk dr 4,12,20 = 60 .60+12.29 = 13.29<br \/>semoga membantu :)<br \/><\/strong>",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 5,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2579460,
+                                "nick": "dilaanaksulung",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/d56\/f3257f1ade93f6b57793f9ad3b0d350f.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 7747548,
+                        "subject_id": 1,
+                        "user_id": 3865669,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "anyak sekali manfaat listrik yang mempermudah kehidupan manusia. Adalah Nikola Tesla, seorang berkebangsaan Yugoslavia, yang menemukan sistem pembangkit dan transmisi listrik pada tahun 1895. Sejak kecil Nikola memiliki rasa ingin tahu yang besar tentang berbagai hal. Ia sangat menyukai matematika dan fisika. Ia pernah bekerjasama dengan Thomas Alva Edison dan merancang 24 jenis dinamo. Setelah Michael Faraday menemukan energi listrik, Nikola mengembangkan penemuan tersebut dengan membangun pembangkit listrik tenaga air (PLTA) pertama di dunia. PLTA tersebut memanfaatkan air terjun Niagara di Amerika. Maka sejak saat itu listrik pun menerangi dunia hingga sekarang.<br \/><br \/>\nBegitu banyak manfaat listrik bagi kehidupan kita. Dengan listrik kita dapat menonton telivisi, mendengarkan radio, menyalakan lampu, dan lain-lain. Kita tidak dapat membayangkan apa yang akan terjadi dengan kehidupan kita jika tidak ada listrik. Lalu bagaimana listrik dapat sampai di rumah kita? Dari mana asalnya serta bagaimana rute perjalanannya? Perhatikan gambar berikut;<br \/><br \/>\nGambar diatas merupakan gambar transmisi dan distribusi listrik sehingga listrik bisa sampai dirumah kita. Berikut penjelasannya;<br \/>\nTahap I Di Pembangkit Listrik <br \/>\nDi pusat pembangkit listrik, terjadi proses perubahan energi menjadi energi listrik. Turbin dan generator merupakan komponen utama dalam beberapa jenis pembangkit listrik. Contohnya di PLTA (Pembangkit Listrik Tenaga Air). Energi kinetik yang dihasilkan oleh aliran air diubah menjadi energi listrik oleh generator.<br \/>\nTahap 2 Di Transformator Penaik Tegangan <br \/>\nDi sini energi listrik dinaikkan tegangannya hingga 500 kV oleh generator. Hal ini diperlukan agar arus listrik yang mengalir di saluran tidak terlalu tinggi. Dengan demikian perpindahan arus listrik berlangsung secara efektif dan efisien.<br \/>\nTahap 3 Di Gardu Induk<br \/>\nMelalui SUTET (Saluran Udara Tegangan Ekstra Tinggi), listrik dialirkan ke Gardu Induk. Di sini tegangan listrik diturunkan menjadi tegangan menengah 20 kV oleh transformator penurun tegangan.<br \/>\nTahap 4 Di Gardu Distribusi<br \/>\nDi sini, energi listrik kembali diturunkan lagi tegangannya menjadi tegangan rendah 220 Volt. Tegangan listrik sebesar ini sudah sesuai dengan kebutuhan di rumah. Setelah itu, energi listrik dialirkan ke rumah-rumah dan industri melalui jaringan distribusi.<br \/>\nTahap 5 Di Rumah kita<br \/>\nNah, energi listrik sudah sampai di rumah. Kita dapat memanfaatkannya untuk menonton TV, mendinginkan lemari es, menyerika, penerang ruangan, dan lain-lain. Perjalanan yang panjang, dan tentunya membutuhkan biaya yang juga besar. Itulah mengapa, kita harus bijak dan hemat dalam pemakaian listrik.<br \/><br \/>\nPada tahap 3 dijelaskan bahwa listrik dialirkan ke gardu induk melalui SUTET (Saluran Udara Tegangan Ekstra Tinggi). Itulah manfaat SUTET, yaitu untuk mengalirkan listrik dari transformator penaik tegangan ke gardu induk sehingga energi listrik bisa disalurkan dengan lebih efisien.<br \/>\nMengapa SUTET di bangun? Jadi apabila listrik ditransmisikan pada jarak yang jauh melalui suatu penghantar atau konduktor, makin lama energi listrik tersebut akan semakin berkurang karena telah berubah menjadi energi panas pada kebel listrik. Dan untuk menghindari hal tersebut maka salah satu cara yang dilakukan oleh PLN yaitu dengan menaikan tegangan listrik. Tujuan penaikan tegangan listrik tersebut tidak lain adalah untuk mengurangi energi listrik yang terbuang akibat diubah menjadi energi panas saat melewati kabel, hal ini sesuai dengan hukum fisika yaitu pada tegangan yang sangat tinggi dan kuat arus yang rendah maka listrik tidak akan berubah menjadi energi panas saat dilewatkan pada suatu konduktor. Dengan wilayah negara kita yang sangat luas sehingga jarak yang dibutuhkan dari sumber pembangkit listrik ke daerah tujuan juga sangat jauh maka dibangunlah SUTET.",
+                        "created": "2016-10-06T19:15:27+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2016-10-06T19:32:22+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "anyak sekali manfaat listrik yang mempermudah kehidupan manusia. Adalah Nikola Tesla, seorang berkebangsaan Yugoslavia, yang menemukan sistem pembangkit dan transmisi listrik pada tahun 1895. Sejak kecil Nikola memiliki rasa ingin tahu yang besar tentang berbagai hal. Ia sangat menyukai matematika dan fisika. Ia pernah bekerjasama dengan Thomas Alva Edison dan merancang 24 jenis dinamo. Setelah <em>Michael<\/em> Faraday menemukan energi listrik, Nikola mengembangkan penemuan tersebut dengan membangun pembangkit listrik tenaga air (PLTA) pertama di dunia. PLTA tersebut memanfaatkan air terjun Niagara di Amerika. Maka sejak saat itu listrik pun menerangi dunia hingga sekarang.\nBegitu banyak manfaat listrik bagi kehidupan kita. Dengan listrik kita dapat menonton telivisi, mendengarkan radio, menyalakan lampu, dan lain-lain. Kita tidak dapat membayangkan apa yang akan terjadi dengan kehidupan kita jika tidak ada listrik. Lalu bagaimana listrik dapat sampai di <em>rumah<\/em> kita? Dari mana asalnya serta bagaimana rute perjalanannya? Perhatikan gambar berikut;\nGambar diatas merupakan gambar transmisi dan distribusi listrik sehingga listrik bisa sampai dirumah kita. Berikut penjelasannya;\nTahap I Di Pembangkit Listrik \nDi pusat pembangkit listrik, terjadi proses perubahan energi menjadi energi listrik. Turbin dan generator merupakan komponen utama dalam beberapa jenis pembangkit listrik. Contohnya di PLTA (Pembangkit Listrik Tenaga Air). Energi kinetik yang dihasilkan oleh aliran air diubah menjadi energi listrik oleh generator.\nTahap 2 Di Transformator Penaik Tegangan \nDi sini energi listrik dinaikkan tegangannya hingga 500 kV oleh generator. Hal ini diperlukan agar arus listrik yang mengalir di saluran tidak terlalu tinggi. Dengan demikian perpindahan arus listrik berlangsung secara efektif dan efisien.\nTahap 3 Di Gardu Induk\nMelalui SUTET (Saluran Udara Tegangan Ekstra Tinggi), listrik dialirkan ke Gardu Induk. Di sini tegangan listrik diturunkan menjadi tegangan menengah 20 kV oleh transformator penurun tegangan.\nTahap 4 Di Gardu Distribusi\nDi sini, energi listrik kembali diturunkan lagi tegangannya menjadi tegangan rendah 220 Volt. Tegangan listrik sebesar ini sudah sesuai dengan kebutuhan di <em>rumah.<\/em> Setelah itu, energi listrik dialirkan ke <em>rumah<\/em>-<em>rumah<\/em> dan industri melalui jaringan distribusi.\nTahap 5 Di <em>Rumah<\/em> kita\nNah, energi listrik sudah sampai di <em>rumah.<\/em> Kita dapat memanfaatkannya untuk menonton TV, mendinginkan lemari es, menyerika, penerang ruangan, dan lain-lain. Perjalanan yang panjang, dan tentunya membutuhkan biaya yang juga besar. Itulah mengapa, kita harus bijak dan hemat dalam pemakaian listrik.\nPada tahap 3 dijelaskan bahwa listrik dialirkan ke gardu induk melalui SUTET (Saluran Udara Tegangan Ekstra Tinggi). Itulah manfaat SUTET, yaitu untuk mengalirkan listrik dari transformator penaik tegangan ke gardu induk sehingga energi listrik bisa disalurkan dengan lebih efisien.\nMengapa SUTET di bangun? Jadi apabila listrik ditransmisikan pada jarak yang jauh melalui suatu penghantar atau konduktor, makin lama energi listrik tersebut akan semakin berkurang karena telah berubah menjadi energi panas pada kebel listrik. Dan untuk menghindari hal tersebut maka salah satu cara yang dilakukan oleh PLN yaitu dengan menaikan tegangan listrik. Tujuan penaikan tegangan listrik tersebut tidak lain adalah untuk mengurangi energi listrik yang terbuang akibat diubah menjadi energi panas saat melewati kabel, hal ini sesuai dengan hukum fisika yaitu pada tegangan yang sangat tinggi dan kuat arus yang rendah maka listrik tidak akan berubah menjadi energi panas saat dilewatkan pada suatu konduktor. Dengan wilayah negara kita yang sangat luas sehingga jarak yang dibutuhkan dari sumber pembangkit listrik ke daerah tujuan juga sangat jauh maka dibangunlah SUTET.",
+                        "snippet_content": "sesuai dengan kebutuhan di <em>rumah.<\/em> Setelah itu, energi listrik dialirkan ke <em>rumah<\/em>-<em>rumah<\/em> dan industri melalui jaringan distribusi.\nTahap 5 Di <em>Rumah<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 9178693,
+                            "user_id": 3673708,
+                            "task_id": 7747548,
+                            "points": 5,
+                            "created": "2016-10-06T19:32:22+07:00",
+                            "content": "Tesla merupakan seorang perintis elektromekanik tanpa kabel dan daya listrik.<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 5284407,
+                                        "user_id": 3839146,
+                                        "content": "Apabila zat cair di panaskan ,maka akan mengalami?",
+                                        "created": "2016-10-25T18:52:43+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 5292216,
+                                        "user_id": 3673708,
+                                        "content": "maaf gak tau",
+                                        "created": "2016-10-26T14:10:50+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 5407433,
+                                        "user_id": 4101938,
+                                        "content": "-_- ini penjelasan proses aliran listrik bukan lampu hemat energi",
+                                        "created": "2016-11-08T19:52:43+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    },
+                                    {
+                                        "id": 5407450,
+                                        "user_id": 3673708,
+                                        "content": "oh",
+                                        "created": "2016-11-08T19:53:20+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 4
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 3673708,
+                                "nick": "69GMAIL",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/df2\/f5af0e3d4282224d2c05096c9cc1ebe5.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 4,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 2977940,
+            "nick": "putri1915",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 7,
+                "answers": 0,
+                "comments": 2
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 4967316,
+            "nick": "kiky200201",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 5,
+                "comments": 40
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d2e\/dd4275cfb2bc3e41c85f85fd65fd7e5a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de2\/0d8e6e1c1028f25ae29f308a363c1754.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d2e\/dd4275cfb2bc3e41c85f85fd65fd7e5a.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de2\/0d8e6e1c1028f25ae29f308a363c1754.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 401575,
+            "nick": "Kimberlyelleazer",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 14,
+                "answers": 13,
+                "comments": 8
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d1e\/8e7146bf5ea4ee22f9160f211f16d3f4.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd4\/4b2d885682c6241fffbc38f866b84971.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d1e\/8e7146bf5ea4ee22f9160f211f16d3f4.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dd4\/4b2d885682c6241fffbc38f866b84971.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 898984,
+            "nick": "Aiisyah21",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 12,
+                "answers": 40,
+                "comments": 3
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dce\/ee9ceeb26ef07e01b51b4d0a65c86b3c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d8e\/a8b89309baf94ed94ea6755111a03761.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dce\/ee9ceeb26ef07e01b51b4d0a65c86b3c.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d8e\/a8b89309baf94ed94ea6755111a03761.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 2647598,
+            "nick": "Vanness23",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 14,
+                "answers": 5,
+                "comments": 21
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d59\/cd553864440ef9288cdf214521f62a7e.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d79\/377783a5dcc669bfec0f63bc5af2bb4f.png"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d59\/cd553864440ef9288cdf214521f62a7e.png",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d79\/377783a5dcc669bfec0f63bc5af2bb4f.png"
+            },
+            "ranks": {
+                "color": "#000000",
+                "names": [],
+                "count": 0
+            },
+            "ranks_ids": null
+        },
+        {
+            "id": 2579460,
+            "nick": "dilaanaksulung",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 6,
+                "answers": 369,
+                "comments": 152
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d1a\/d431647bb0aeaa36b4f28bd68faff0d5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d56\/f3257f1ade93f6b57793f9ad3b0d350f.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d1a\/d431647bb0aeaa36b4f28bd68faff0d5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d56\/f3257f1ade93f6b57793f9ad3b0d350f.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Pakar"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                5
+            ]
+        },
+        {
+            "id": 3865669,
+            "nick": "Azrajajut",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 5,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da4\/912ab9ffaaaaf417e1e0649e749b3ab5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7d\/eb27201d8263cd8ccd958f0762da8f74.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/da4\/912ab9ffaaaaf417e1e0649e749b3ab5.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/d7d\/eb27201d8263cd8ccd958f0762da8f74.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 3673708,
+            "nick": "69GMAIL",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 33,
+                "answers": 549,
+                "comments": 276
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dbc\/f5ab27df7ffaccd4376167ffd294e3bc.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df2\/f5af0e3d4282224d2c05096c9cc1ebe5.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/dbc\/f5ab27df7ffaccd4376167ffd294e3bc.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df2\/f5af0e3d4282224d2c05096c9cc1ebe5.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        },
+        {
+            "id": 4101938,
+            "nick": "aryaputra517",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 9,
+                "answers": 14,
+                "comments": 13
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 3839146,
+            "nick": "11021",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 1,
+                "comments": 1
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d7e\/4e470026b05b9ea18399c4670e2dbcdc.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dfd\/c21f332fb3cc3d64892178ccf19df395.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d7e\/4e470026b05b9ea18399c4670e2dbcdc.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dfd\/c21f332fb3cc3d64892178ccf19df395.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        }
+    ],
+    "validated": false
+}

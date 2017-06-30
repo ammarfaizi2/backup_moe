@@ -1,0 +1,847 @@
+{
+    "protocol": "28",
+    "impl": "27",
+    "schema": "task\/responses\/task.suggest.res",
+    "success": true,
+    "data": {
+        "tasks": {
+            "items": [
+                {
+                    "task": {
+                        "id": 8892726,
+                        "subject_id": 13,
+                        "user_id": 3697904,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "1.lemah.......sang kaca nunas ajah<br \/>2.buka sasonggane ilang belus teka...<br \/>3.bah....cerik cerike nguber layangan mamegat<br \/>4.dugas bom baline cenik......pada jejehbayune kadaut<br \/>5.i dogler mula belog bengkung,tusing pesan nawang munyi pait<br \/>6.yan suba sarat,joh.....tusing marasa kenyel<br \/>7.i meme nyaruk meli siap,gede....patuhajine<br \/>8.keto suba anak bengkung tusingnawang kangin......<br \/>9.yening tangkil kapuri,apang nawang sor.....basa<br \/>10.yening nulis baliapang melah isinin tabel...<br \/>jawabin yang lengkap jangan ngawur",
+                        "created": "2016-12-29T08:57:31+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2016-12-30T04:25:33+07:00",
+                        "the_best_resp_id": "10631692",
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "1.lemah.......sang kaca nunas ajah2.buka sasonggane ilang belus teka...3.bah....cerik cerike nguber layangan mamegat4.dugas bom baline cenik......pada jejehbayune kadaut5.i dogler mula belog bengkung,tusing pesan nawang munyi pait6.yan <em>suba<\/em> sarat,joh.....tusing marasa kenyel7.i meme nyaruk <em>meli<\/em> <em>siap<\/em>,gede....patuhajine8.keto <em>suba<\/em> anak bengkung tusingnawang kangin......9.yening tangkil kapuri,apang nawang sor.....basa10.yening nulis baliapang melah isinin tabel...jawabin yang lengkap jangan ngawur",
+                        "snippet_content": "pait6.yan <em>suba<\/em> sarat,joh.....tusing marasa kenyel7.i meme nyaruk <em>meli<\/em> <em>siap<\/em>,gede....patuhajine8.keto <em>suba<\/em> anak bengkung tusingnawang kangin......9"
+                    },
+                    "responses": [
+                        {
+                            "id": 10631692,
+                            "user_id": 4336800,
+                            "task_id": 8892726,
+                            "points": 5,
+                            "created": "2016-12-30T04:25:33+07:00",
+                            "content": "1.peteng<br \/>2.tuh<br \/>3.bangun<br \/>4.kelih<br \/>5.manis<br \/>6.paak<br \/>7.cenik<br \/>8.kauh<br \/>9.singgih<br \/>10.sorry sing nawang",
+                            "mark": 5,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 2,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": true,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 4336800,
+                                "nick": "jordhanag",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dc5\/eb3cb1a97c7115b185ae752788b84391.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 383835,
+                        "subject_id": 13,
+                        "user_id": 265588,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 54,
+                            "ptsForResp": 27,
+                            "ptsForBest": 14
+                        },
+                        "content": "ubahlah cerpen di bawah ini menjadi bahasa jawa krama inggil<br \/>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0Kucing<br \/>\nSing Pinter Ngalembana<br \/><br \/>\n\u00a0<br \/><br \/><br \/>\nSuwijining ndina Kucing sing endah banget wulune<br \/>\nmlaku-mlaku ning ngomah. Dheweke weruh ana anak thekek lagi nggondol daging<br \/>\nempal mbuh seka ngendi. Dadi dheweke dadi kepengin melu mangan, terus golek<br \/>\ncara supaya bisa ngrebut daging empal kuwi. Kanthi modal wulune sing apik lan<br \/>\nrupane sing ayu, Kucing rumangsa isa ngrebut empal saka anak thekek sing kurang<br \/>\npengalaman.<br \/><br \/>\n\u201cHai Thekek, awakmu iku kethok pengkuh, rosa<br \/>\nbanget, lan kulitmu kandel ora tipis kaya kulit cecak. Apa tho rahasiane?<br \/><br \/>\nThekek bungah banget dialembana dening Kucing kang<br \/>\nelok rupane. Nanging dheweke meneng wae amarga sumelang menawa mangsuli<br \/>\npitakone Kucing, empale bakalan tiba ning njobin.<br \/><br \/>\nKucing ora kurang akal, banjur takon meneh<br \/><br \/>\n\u201cHai Thekek, kowe iso ora ngajari aku mlaku ning<br \/>\ntembok. Kok ya ampuh tenan kowe ki iso mlaku ning tembok, sing ngajari sapa<br \/>\ntho?<br \/><br \/>\nThekek meneng wae, sakjane dheweke pingin ngejawab<br \/>\nmenawa isa mlaku ning tembok kuwi ora ana sing ngajari. Dheweke kuwi pinter<br \/>\ndadi isa mlaku dhewe rasah diajari sapa-sapa.<br \/><br \/>\nKucing nyoba ngalembana meneh marang si anak<br \/>\nThekek.<br \/><br \/>\n\u201cHai Thekek, suaramu kuwi tak akoni\u00a0 pancen<br \/>\nmerdu tenan. Mbok kowe nyanyi sak lagu wae ben tambah kasengsem athiku marang<br \/>\nsliramu\u201d<br \/><br \/>\nAnak Thekek ora iso ngampet meneh, kepingin eksis. Dheweke mbukak<br \/>\ncangkeme arep nyanyi. Mesthi wae empale tiba ning njobin. Untunge ana Mbokne<br \/>\nThekek sing nyaut empal sing tiba mau, banjur ngajak anak Thekek lunga ngedohi<br \/>\nKucing kang rupane mranani kuwi. Mbokne rumangsa dheweke kurang anggone ngajari<br \/>\nanake supaya ora gampang klenthir nalika dialembana dening liyan.<br \/><br \/><span>\u00a0<br \/><br \/><br \/><\/span>",
+                        "created": "2014-08-18T20:42:51+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2014-08-19T12:14:12+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "ubahlah cerpen di bawah ini menjadi bahasa jawa krama inggil\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0Kucing\nSing Pinter Ngalembana\n\u00a0\nSuwijining ndina Kucing sing endah banget wulune\nmlaku-mlaku ning ngomah. Dheweke weruh ana anak thekek lagi nggondol daging\nempal mbuh seka ngendi. Dadi dheweke dadi kepengin <em>melu<\/em> mangan, terus golek\ncara supaya bisa ngrebut daging empal kuwi. Kanthi modal wulune sing apik lan\nrupane sing ayu, Kucing rumangsa isa ngrebut empal <em>saka<\/em> anak thekek sing kurang\npengalaman.\n\u201cHai Thekek, awakmu iku kethok pengkuh, rosa\nbanget, lan kulitmu kandel ora tipis kaya kulit cecak. Apa tho rahasiane?\nThekek bungah banget dialembana dening Kucing kang\nelok rupane. Nanging dheweke meneng wae amarga sumelang menawa mangsuli\npitakone Kucing, empale bakalan tiba ning njobin.\nKucing ora kurang akal, banjur takon meneh\n\u201cHai Thekek, kowe iso ora ngajari aku mlaku ning\ntembok. Kok ya ampuh tenan kowe ki iso mlaku ning tembok, sing ngajari <em>sapa<\/em>\ntho?\nThekek meneng wae, sakjane dheweke pingin ngejawab\nmenawa isa mlaku ning tembok kuwi ora ana sing ngajari. Dheweke kuwi pinter\ndadi isa mlaku dhewe rasah diajari <em>sapa<\/em>-<em>sapa.<\/em>\nKucing nyoba ngalembana meneh marang si anak\nThekek.\n\u201cHai Thekek, suaramu kuwi tak akoni\u00a0 pancen\nmerdu tenan. Mbok kowe nyanyi sak lagu wae ben tambah kasengsem athiku marang\nsliramu\u201d\nAnak Thekek ora iso ngampet meneh, kepingin eksis. Dheweke mbukak\ncangkeme arep nyanyi. Mesthi wae empale tiba ning njobin. Untunge ana Mbokne\nThekek sing nyaut empal sing tiba mau, banjur ngajak anak Thekek lunga ngedohi\nKucing kang rupane mranani kuwi. Mbokne rumangsa dheweke kurang anggone ngajari\nanake supaya ora gampang klenthir nalika dialembana dening liyan.\u00a0",
+                        "snippet_content": "sing ngajari. Dheweke kuwi pinter\ndadi isa mlaku dhewe rasah diajari <em>sapa<\/em>-<em>sapa.<\/em>\nKucing nyoba ngalembana meneh marang si anak\nThekek.\n\u201cHai"
+                    },
+                    "responses": [
+                        {
+                            "id": 562072,
+                            "user_id": 264855,
+                            "task_id": 383835,
+                            "points": 27,
+                            "created": "2014-08-19T12:14:12+07:00",
+                            "content": "akhrnya kucing bahagia",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 3,
+                            "user_best_rank_id": null,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 264855,
+                                "nick": "Rhakaa",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 5722280,
+                        "subject_id": 18,
+                        "user_id": 2865728,
+                        "grade_id": 1,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Rikala jaman samana ing klanah ponorogo ana pawongn loro padha sektine. Wong loro iku sak peguron ora tahu rukun ing babakan apa wae, arane singo barong lan kalana sewandono. <br \/><br \/>\nSingo barong lan kelana sewandana iku wong loro sak piguron nanging dadi mungsuh bebuyutan. Memungsuhane kalorone saya nemen prikolo kalorone bebarengan ngleboni sayemboro sing sarate ono telu sapa sing menang sayemboro iku bisa nikah karo putri ayu saka Kediri yaiku dewi sanggalangit.Dene sarate yaiku :<br \/>\n1.      Jaran satus patang puluh papat kembar lan sing nunggangi pisan<br \/>\n2.      Janmo aneh sing endase loro<br \/>\n3.      Lan tontonan anyar sing durung nate ono.<br \/><br \/>\nSengite singo barong soyo dadi banget bareng weroh mungsue bisa oleh jaran satus patang puluh papat ora mung kembar nanging duwe buntut warno emas. Kanthi licik singo barong kongkonan uwong kepercayaane supoyo ngrebut syarat sing nomer siji wau marang kelana siwandono.<br \/><br \/>\nAkhire dadi perang rame banget sing gowo korban akeh ing kaloro \u2013 lorone mbanjur singo barong lan kalana sewandana adep \u2013 adepan perang. Singo barong meh wae menang ananging wis para isuk srengenge wis metu iku njalari singa barong kekuatane entek.<br \/><br \/>\nWektu sing kaya ngono iku di werui dene kelono sewandono mulo terus singo barong di sabdho dadi makhluk aneh sing endhase loro endhas sing nomer siji singo sing nomer loro merak, kewan sing dadi ingon \u2013 ingone singo barong sak lawase manggon ing endhase singo barong mangani tumo.<br \/><br \/>\nSapa nyana, singo barong sing uwes awujud singo lan merak dadekake kelono sewandono kasil ing syarat kaloro. Syaray katelune kelono sewandono ngarak singo barong sing wis rubah wujud dadi singo karo diiringi gamelan aneh sing digawe saka kayu lan pring iku dadi tontonan sing aneh.<br \/><br \/>\nWusanane ing carito kelano kelandono dadi pemenange terus nikah karo dewi songgolangit lan dadi panguasa kediri, deweke uga marisi kesenian arak \u2013 arakan singo lan gamelan sing tumekan saiiki di jenengi reong ponorogo.",
+                        "created": "2016-04-09T21:38:50+07:00",
+                        "responses": 2,
+                        "tickets": 2,
+                        "first_resp": "2016-04-09T21:45:09+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "5",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [
+                                {
+                                    "id": 3926032,
+                                    "user_id": 2865728,
+                                    "content": "tolong dijawab pakai bahasa jawa krama alus ya...",
+                                    "created": "2016-04-09T21:45:52+07:00",
+                                    "deleted": false,
+                                    "can_mark_abuse": false,
+                                    "is_marked_abuse": false
+                                }
+                            ],
+                            "last_id": 0,
+                            "count": 1
+                        },
+                        "highlighted_content": "Rikala jaman samana ing klanah ponorogo ana pawongn loro padha sektine. Wong loro iku sak peguron ora tahu rukun ing babakan apa wae, arane singo barong lan kalana sewandono. \nSingo barong lan kelana sewandana iku wong loro sak piguron nanging dadi mungsuh bebuyutan. Memungsuhane kalorone saya nemen prikolo kalorone bebarengan ngleboni sayemboro sing sarate ono telu <em>sapa<\/em> sing menang sayemboro iku bisa nikah karo putri ayu <em>saka<\/em> Kediri yaiku dewi sanggalangit.Dene sarate yaiku :\n1.      Jaran satus patang puluh papat kembar lan sing nunggangi pisan\n2.      Janmo aneh sing endase loro\n3.      Lan tontonan anyar sing durung nate ono.\nSengite singo barong soyo dadi banget bareng weroh mungsue bisa oleh jaran satus patang puluh papat ora mung kembar nanging duwe buntut warno emas. Kanthi licik singo barong kongkonan uwong kepercayaane supoyo ngrebut syarat sing nomer siji wau marang kelana siwandono.\nAkhire dadi perang rame banget sing gowo korban akeh ing kaloro \u2013 lorone mbanjur singo barong lan kalana sewandana adep \u2013 adepan perang. Singo barong meh wae menang ananging wis para isuk srengenge wis metu iku njalari singa barong kekuatane entek.\nWektu sing kaya ngono iku di werui dene kelono sewandono <em>mulo<\/em> terus singo barong di sabdho dadi makhluk aneh sing endhase loro endhas sing nomer siji singo sing nomer loro merak, kewan sing dadi ingon \u2013 ingone singo barong sak lawase manggon ing endhase singo barong mangani tumo.\n<em>Sapa<\/em> nyana, singo barong sing uwes awujud singo lan merak dadekake kelono sewandono kasil ing syarat kaloro. Syaray katelune kelono sewandono ngarak singo barong sing wis rubah wujud dadi singo karo diiringi gamelan aneh sing digawe <em>saka<\/em> kayu lan pring iku dadi tontonan sing aneh.\nWusanane ing carito kelano kelandono dadi pemenange terus nikah karo dewi songgolangit lan dadi panguasa kediri, deweke uga marisi kesenian arak \u2013 arakan singo lan gamelan sing tumekan saiiki di jenengi reong ponorogo.",
+                        "snippet_content": "saya nemen prikolo kalorone bebarengan ngleboni sayemboro sing sarate ono telu <em>sapa<\/em> sing menang sayemboro iku bisa nikah karo putri ayu <em>saka<\/em>"
+                    },
+                    "responses": [
+                        {
+                            "id": 6787085,
+                            "user_id": 360891,
+                            "task_id": 5722280,
+                            "points": 5,
+                            "created": "2016-04-09T21:45:09+07:00",
+                            "content": "ini cerita reog ponorogo ya saya suka.trimakasih:)<br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 4,
+                            "user_best_rank_id": 6,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [
+                                    {
+                                        "id": 3926608,
+                                        "user_id": 2865728,
+                                        "content": "iya,, sama sama",
+                                        "created": "2016-04-10T05:32:46+07:00",
+                                        "deleted": false,
+                                        "can_mark_abuse": false,
+                                        "is_marked_abuse": false
+                                    }
+                                ],
+                                "last_id": 0,
+                                "count": 1
+                            }
+                        },
+                        {
+                            "id": 6788273,
+                            "user_id": 2756037,
+                            "task_id": 5722280,
+                            "points": 5,
+                            "created": "2016-04-10T07:04:55+07:00",
+                            "content": "makasih. bagus deh ceritanya...",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 2,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "1",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 360891,
+                                "nick": "putritias152putri",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/de0\/24be3e97c66ea0de643839447abe2beb.jpg"
+                            },
+                            {
+                                "id": 2756037,
+                                "nick": "naima2",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 5482469,
+                        "subject_id": 25,
+                        "user_id": 2725663,
+                        "grade_id": 2,
+                        "points": {
+                            "ptsForTask": 10,
+                            "ptsForResp": 5,
+                            "ptsForBest": 3
+                        },
+                        "content": "Aku paling suthik yen kudu adu arep karo Bu Woro ing ruang BK. Wis kaping telu aku didhawuhi sowan. iki sing kaping papat.\u201cApa ya mung aku kang nyandhang lelakon kaya ngene? Yen karepku ngono kepingin urip kang prasaja tanpa ginubet ing prakara.\u201d ujarku ing batin.Bu lik wis nate crita yen wiwit umur pitung sasi aku dititipake ana ing Depok Sleman, daleme Bu lik amarga ibuku dherek bapak kang wektu semana bara menyang Jakarta. Kebeneran bu lik anggone mbangun bebrayan karo pak lik wis 5 taun durung kaparingan momongan. dadi anggone nggula wentah kaya anake dhewe.Gantalan taun aku kelas pitu SMP kulawargane bu lik keparingan momongan. Rumangsaku pangrenguhe bulik lan paklik malih grembyang. Gagah putrane bulik kang umure limang sasi luwih digatekake. mulane anggonku mulih sekolah tekan ngomah jam papat sore. yeng didangu wangsulanku ana kegiatan ing sekolahan.Suwe-suwe pak lik sujana marang alasanku. mulane pak lik ngelegakake rawuh ing sekolah nemoni Bu Woro\u00a0saperlu ngaruhake kok anggone mulih saben dina mesthi sore. sapungkure pak lik bu woro nimbali aku.\u201cBu Wara kepengin Tiffa jujur! Apa sebabe meh saben dina mulih sore? kamangka Tiffa mung melu kegiatan ekstra kerawitan kang digladhi dening pak Triman. Iku wae kegiatane mung dina rebo?\u201d piakone Bu Wara nalika sepisan aku mlebu ruang BK.Aku banjur crita bab diri pribadiku. nganti ora kuwawa ngendheg lakune luh kang ndlewer ing pipiku.\u201cKudune Tiffa ora kena darbe panyakrabawa ala marang bulik utawa paklik. iki ora ateges bu wara mbelani bulik lan paklikmu. nanging putrane bulik rak bocah cilik mesthine buttuh katresnan lan pambiyantu. yen sarane bu wara luwih becik Tiffa asring mbiyantu bot repote kulawarga!\u201d ngendikane bu wara.Yen dak nalar lan dak gagas bener uga ngendikane bu Woro. mula perkaraku bisa diudhari. nanging ana bab kang dadi panguneg-uneging pikirku. ing ngatase udakara wis 12 taun wong tuwaku ora kondur ing Yogya.Ing klas 8 aku uga didhawuhi ngadhep bu Woro ing ruang BK. \u201cIki rak mesthi masalah dhuwit jaket ekstra kang wis dakgunakake?\u201d gunemku sakroning ati.\u201cJebul dhuwit jaket kok gunakake karo pacarmu, Tiffa.. Tiffa kok nganti tekan semono tumindhakmu banjur kanggo apa?\u201d ngendikane bu Woro karo gedheg-gedheg.akeh banget kang dingendikakake bu Woro marang aku. Sing baku aku kudu mbalekake dhuwit jaket lan kudu medhot pacarku. judhegku nganti kelas 9 aku ora iso nyaur.genep seminggu aku ora mangkat sekolah. ndadekake bu lik lan paklik uga pihak saka sekolahan bingung jalaran kurang sesasi aku ujian malah tanpa kabar kang gumathok.\u201cdingapura iki ibu mau mulang kelas 8 dadi rada sauntara nunggu ana ing ruang BK.\u201d ngendikane Bu Woro karo ndelehake buku lan tase ing nduwur mejane.ora let suwe pak likku mlebu ing ruang BK dikanthi karo pawongan loro lanang wadon banjur lungguh ana ing kursi kang wis cumepak.\u201cmesthi Bu Wara kang ngabari pak likku yeng aku ana ing sekolahan.\u201d panggraitaku ing jero ati.\u201cana ngendi wae ta Tiff, seminggu iki?\u201d pitakone pak lik gawe cingak pawongan loro mau.Dadi iki Tiffani Saraswati bocah kang dak titipake sliramu ta dhik?\u201d pitakone wong wadon mau karo nyawang lan banjur arep ngekep aku. nanging aku endha rumangsaku ora tepung karo dheweke.\u201cApuranen wong tuwamu Tiff? amarga kahanan ndadekake wong tuwamu kudu nitipake kowe marang paklikmu. Yen arep ngajak kowe menyang Jakarta durung cekel gawe. mula bareng paklikmu kirim kabar yen kowe lunga saka ngomah lan sekolah, ibu lan bapak kagungan krenteging ati. sawise lulus bakal dak boyong menyang Jakarta, dak sekolahake ana kana?\u201d\u201cngendikanipun ibu mboten kangge ngeyem-eyemu ati kula ingkang tatu menika?\u201dibu banjur nyedhakilan ngekep aku. ngesokake kangen kang wis suwe ora tau dipupuk rasa tresna.\u201cnyuwun pangapunten kula Pak Pon ingkang dipuntangisi Tiffani seminggu kapengker.\u201dTembunge Pak Pon kang mlebu ruang BK kebak kringet pating dlewer.kabeh pating plenggong ora \u00a0ngerti tegese karo guneme Pak Pon. wusanane banjur blaka yen seminggu iki aku nyambut gawe ing omahe pak Pon kang duwe usaha kantin, asile angonku nyambut gawe arep daknggo mbayar utangku.krungu crita meh kabeh pada trenyuh, sawangsinawang tanpa guneman.wiwit kedadean ing ruang BK anggonku nglakoni urip kebak pangarep-arep, kebak katresnan saka wong tuwaku, sangsaya mantep jumangkag ngranggeh impenkku.<br \/><br \/><br \/><br \/>\nsoal<br \/><br \/>\n1) aranana sapa wae paraga cerkak ing ruang bk<br \/><br \/><br \/>\n2) kepriye watake tiffa<br \/><br \/>\n3) apa tema kang digunakake ana ing cerkak ing ruang Bk iku ?<br \/><br \/>\n4) Watake Tiffa iku bisa dadi pemimpin ? terangna alasan mu !<br \/><br \/><br \/>\n5) Aranana ana utawa ora budi pekerti saka cerkak ing ruang bk , menawa ana budi pekerti ne cobo andharna !<br \/><br \/><br \/>\n6) gawea ukara migunaake tembung<br \/><br \/>\n     a) panguneg-uneg<br \/><br \/>\n     b) panggraitaku",
+                        "created": "2016-03-18T00:11:12+07:00",
+                        "responses": 1,
+                        "tickets": 2,
+                        "first_resp": "2016-03-27T17:57:17+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Aku paling suthik yen kudu adu arep karo Bu Woro ing ruang BK. Wis kaping telu aku didhawuhi sowan. iki sing kaping papat.\u201cApa ya mung aku kang nyandhang lelakon kaya ngene? Yen karepku ngono kepingin urip kang prasaja tanpa ginubet ing prakara.\u201d ujarku ing batin.Bu lik wis nate crita yen wiwit umur pitung sasi aku dititipake ana ing Depok Sleman, daleme Bu lik amarga ibuku dherek bapak kang wektu semana bara menyang Jakarta. Kebeneran bu lik anggone mbangun bebrayan karo pak lik wis 5 taun durung kaparingan momongan. dadi anggone nggula wentah kaya anake dhewe.Gantalan taun aku kelas pitu SMP kulawargane bu lik keparingan momongan. Rumangsaku pangrenguhe bulik lan paklik malih grembyang. Gagah putrane bulik kang umure limang sasi luwih digatekake. mulane anggonku mulih sekolah tekan ngomah jam papat sore. yeng didangu wangsulanku ana kegiatan ing sekolahan.Suwe-suwe pak lik sujana marang alasanku. mulane pak lik ngelegakake rawuh ing sekolah nemoni Bu Woro\u00a0saperlu ngaruhake kok anggone mulih saben dina mesthi sore. sapungkure pak lik bu woro nimbali aku.\u201cBu Wara kepengin Tiffa jujur! Apa sebabe meh saben dina mulih sore? kamangka Tiffa mung <em>melu<\/em> kegiatan ekstra kerawitan kang digladhi dening pak Triman. Iku wae kegiatane mung dina rebo?\u201d piakone Bu Wara nalika sepisan aku mlebu ruang BK.Aku banjur crita bab diri pribadiku. nganti ora kuwawa ngendheg lakune luh kang ndlewer ing pipiku.\u201cKudune Tiffa ora kena darbe panyakrabawa ala marang bulik utawa paklik. iki ora ateges bu wara mbelani bulik lan paklikmu. nanging putrane bulik rak bocah cilik mesthine buttuh katresnan lan pambiyantu. yen sarane bu wara luwih becik Tiffa asring mbiyantu bot repote kulawarga!\u201d ngendikane bu wara.Yen dak nalar lan dak gagas bener uga ngendikane bu Woro. mula perkaraku bisa diudhari. nanging ana bab kang dadi panguneg-uneging pikirku. ing ngatase udakara wis 12 taun wong tuwaku ora kondur ing Yogya.Ing klas 8 aku uga didhawuhi ngadhep bu Woro ing ruang BK. \u201cIki rak mesthi masalah dhuwit jaket ekstra kang wis dakgunakake?\u201d gunemku sakroning ati.\u201cJebul dhuwit jaket kok gunakake karo pacarmu, Tiffa.. Tiffa kok nganti tekan semono tumindhakmu banjur kanggo apa?\u201d ngendikane bu Woro karo gedheg-gedheg.akeh banget kang dingendikakake bu Woro marang aku. Sing baku aku kudu mbalekake dhuwit jaket lan kudu medhot pacarku. judhegku nganti kelas 9 aku ora iso nyaur.genep seminggu aku ora mangkat sekolah. ndadekake bu lik lan paklik uga pihak <em>saka<\/em> sekolahan bingung jalaran kurang sesasi aku ujian malah tanpa kabar kang gumathok.\u201cdingapura iki ibu mau mulang kelas 8 dadi rada sauntara nunggu ana ing ruang BK.\u201d ngendikane Bu Woro karo ndelehake buku lan tase ing nduwur mejane.ora let suwe pak likku mlebu ing ruang BK dikanthi karo pawongan loro lanang wadon banjur lungguh ana ing kursi kang wis cumepak.\u201cmesthi Bu Wara kang ngabari pak likku yeng aku ana ing sekolahan.\u201d panggraitaku ing jero ati.\u201cana ngendi wae ta Tiff, seminggu iki?\u201d pitakone pak lik gawe cingak pawongan loro mau.Dadi iki Tiffani Saraswati bocah kang dak titipake sliramu ta dhik?\u201d pitakone wong wadon mau karo nyawang lan banjur arep ngekep aku. nanging aku endha rumangsaku ora tepung karo dheweke.\u201cApuranen wong tuwamu Tiff? amarga kahanan ndadekake wong tuwamu kudu nitipake kowe marang paklikmu. Yen arep ngajak kowe menyang Jakarta durung cekel gawe. mula bareng paklikmu kirim kabar yen kowe lunga <em>saka<\/em> ngomah lan sekolah, ibu lan bapak kagungan krenteging ati. sawise lulus bakal dak boyong menyang Jakarta, dak sekolahake ana kana?\u201d\u201cngendikanipun ibu mboten kangge ngeyem-eyemu ati kula ingkang tatu menika?\u201dibu banjur nyedhakilan ngekep aku. ngesokake kangen kang wis suwe ora tau dipupuk rasa tresna.\u201cnyuwun pangapunten kula Pak Pon ingkang dipuntangisi Tiffani seminggu kapengker.\u201dTembunge Pak Pon kang mlebu ruang BK kebak kringet pating dlewer.kabeh pating plenggong ora \u00a0ngerti tegese karo guneme Pak Pon. wusanane banjur blaka yen seminggu iki aku nyambut gawe ing omahe pak Pon kang duwe usaha kantin, asile angonku nyambut gawe arep daknggo mbayar utangku.krungu crita meh kabeh pada trenyuh, sawangsinawang tanpa guneman.wiwit kedadean ing ruang BK anggonku nglakoni urip kebak pangarep-arep, kebak katresnan <em>saka<\/em> wong tuwaku, sangsaya mantep jumangkag ngranggeh impenkku.\nsoal\n1) aranana <em>sapa<\/em> wae paraga cerkak ing ruang bk\n2) kepriye watake tiffa\n3) apa tema kang digunakake ana ing cerkak ing ruang Bk iku ?\n4) Watake Tiffa iku bisa dadi pemimpin ? terangna alasan mu !\n5) Aranana ana utawa ora budi pekerti <em>saka<\/em> cerkak ing ruang bk , menawa ana budi pekerti ne cobo andharna !\n6) gawea ukara migunaake tembung\n     a) panguneg-uneg\n     b) panggraitaku",
+                        "snippet_content": "<em>saka<\/em> wong tuwaku, sangsaya mantep jumangkag ngranggeh impenkku.\nsoal\n1) aranana <em>sapa<\/em> wae paraga cerkak ing ruang bk\n2) kepriye watake tiffa"
+                    },
+                    "responses": [
+                        {
+                            "id": 6592858,
+                            "user_id": 2799148,
+                            "task_id": 5482469,
+                            "points": 5,
+                            "created": "2016-03-27T17:57:17+07:00",
+                            "content": "what's the language man????<br \/><br \/>",
+                            "mark": 0,
+                            "marks_count": 0,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "5",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 2799148,
+                                "nick": "adanigithrif19",
+                                "avatar": "https:\/\/id-static.z-dn.net\/files\/dc2\/0c6c39229cd6d2063a7e117a57216972.jpg"
+                            }
+                        ],
+                        "tickets": []
+                    }
+                },
+                {
+                    "task": {
+                        "id": 3235961,
+                        "subject_id": 13,
+                        "user_id": 1761367,
+                        "grade_id": 3,
+                        "points": {
+                            "ptsForTask": 17,
+                            "ptsForResp": 9,
+                            "ptsForBest": 5
+                        },
+                        "content": "Aku paling suthik yen kudu adu arep karo Bu Woro ing ruang BK. Wis kaping telu aku didhawuhi sowan. iki sing kaping papat.\u201cApa ya mung aku kang nyandhang lelakon kaya ngene? Yen karepku ngono kepingin urip kang prasaja tanpa ginubet ing prakara.\u201d ujarku ing batin.Bu lik wis nate crita yen wiwit umur pitung sasi aku dititipake ana ing Depok Sleman, daleme Bu lik amarga ibuku dherek bapak kang wektu semana bara menyang Jakarta. Kebeneran bu lik anggone mbangun bebrayan karo pak lik wis 5 taun durung kaparingan momongan. dadi anggone nggula wentah kaya anake dhewe.Gantalan taun aku kelas pitu SMP kulawargane bu lik keparingan momongan. Rumangsaku pangrenguhe bulik lan paklik malih grembyang. Gagah putrane bulik kang umure limang sasi luwih digatekake. mulane anggonku mulih sekolah tekan ngomah jam papat sore. yeng didangu wangsulanku ana kegiatan ing sekolahan.Suwe-suwe pak lik sujana marang alasanku. mulane pak lik ngelegakake rawuh ing sekolah nemoni Bu Woro\u00a0saperlu ngaruhake kok anggone mulih saben dina mesthi sore. sapungkure pak lik bu woro nimbali aku.\u201cBu Wara kepengin Tiffa jujur! Apa sebabe meh saben dina mulih sore? kamangka Tiffa mung melu kegiatan ekstra kerawitan kang digladhi dening pak Triman. Iku wae kegiatane mung dina rebo?\u201d piakone Bu Wara nalika sepisan aku mlebu ruang BK.Aku banjur crita bab diri pribadiku. nganti ora kuwawa ngendheg lakune luh kang ndlewer ing pipiku.\u201cKudune Tiffa ora kena darbe panyakrabawa ala marang bulik utawa paklik. iki ora ateges bu wara mbelani bulik lan paklikmu. nanging putrane bulik rak bocah cilik mesthine buttuh katresnan lan pambiyantu. yen sarane bu wara luwih becik Tiffa asring mbiyantu bot repote kulawarga!\u201d ngendikane bu wara.Yen dak nalar lan dak gagas bener uga ngendikane bu Woro. mula perkaraku bisa diudhari. nanging ana bab kang dadi panguneg-uneging pikirku. ing ngatase udakara wis 12 taun wong tuwaku ora kondur ing Yogya.Ing klas 8 aku uga didhawuhi ngadhep bu Woro ing ruang BK. \u201cIki rak mesthi masalah dhuwit jaket ekstra kang wis dakgunakake?\u201d gunemku sakroning ati.\u201cJebul dhuwit jaket kok gunakake karo pacarmu, Tiffa.. Tiffa kok nganti tekan semono tumindhakmu banjur kanggo apa?\u201d ngendikane bu Woro karo gedheg-gedheg.akeh banget kang dingendikakake bu Woro marang aku. Sing baku aku kudu mbalekake dhuwit jaket lan kudu medhot pacarku. judhegku nganti kelas 9 aku ora iso nyaur.genep seminggu aku ora mangkat sekolah. ndadekake bu lik lan paklik uga pihak saka sekolahan bingung jalaran kurang sesasi aku ujian malah tanpa kabar kang gumathok.\u201cdingapura iki ibu mau mulang kelas 8 dadi rada sauntara nunggu ana ing ruang BK.\u201d ngendikane Bu Woro karo ndelehake buku lan tase ing nduwur mejane.ora let suwe pak likku mlebu ing ruang BK dikanthi karo pawongan loro lanang wadon banjur lungguh ana ing kursi kang wis cumepak.\u201cmesthi Bu Wara kang ngabari pak likku yeng aku ana ing sekolahan.\u201d panggraitaku ing jero ati.\u201cana ngendi wae ta Tiff, seminggu iki?\u201d pitakone pak lik gawe cingak pawongan loro mau.Dadi iki Tiffani Saraswati bocah kang dak titipake sliramu ta dhik?\u201d pitakone wong wadon mau karo nyawang lan banjur arep ngekep aku. nanging aku endha rumangsaku ora tepung karo dheweke.\u201cApuranen wong tuwamu Tiff? amarga kahanan ndadekake wong tuwamu kudu nitipake kowe marang paklikmu. Yen arep ngajak kowe menyang Jakarta durung cekel gawe. mula bareng paklikmu kirim kabar yen kowe lunga saka ngomah lan sekolah, ibu lan bapak kagungan krenteging ati. sawise lulus bakal dak boyong menyang Jakarta, dak sekolahake ana kana?\u201d\u201cngendikanipun ibu mboten kangge ngeyem-eyemu ati kula ingkang tatu menika?\u201dibu banjur nyedhakilan ngekep aku. ngesokake kangen kang wis suwe ora tau dipupuk rasa tresna.\u201cnyuwun pangapunten kula Pak Pon ingkang dipuntangisi Tiffani seminggu kapengker.\u201dTembunge Pak Pon kang mlebu ruang BK kebak kringet pating dlewer.kabeh pating plenggong ora \u00a0ngerti tegese karo guneme Pak Pon. wusanane banjur blaka yen seminggu iki aku nyambut gawe ing omahe pak Pon kang duwe usaha kantin, asile angonku nyambut gawe arep daknggo mbayar utangku.krungu crita meh kabeh pada trenyuh, sawangsinawang tanpa guneman.wiwit kedadean ing ruang BK anggonku nglakoni urip kebak pangarep-arep, kebak katresnan saka wong tuwaku, sangsaya mantep jumangkag ngranggeh impenkku.<br \/><br \/><br \/>\nsoal<br \/>\n1) aranana sapa wae paraga cerkak ing ruang bk<br \/><br \/>\n2) kepriye watake tiffa<br \/>\n3) apa tema kang digunakake ana ing cerkak ing ruang Bk iku ?<br \/>\n4) Watake Tiffa iku bisa dadi pemimpin ? terangna alasan mu !<br \/><br \/>\n5) Aranana ana utawa ora budi pekerti saka cerkak ing ruang bk , menawa ana budi pekerti ne cobo andharna !<br \/><br \/>\n6) gawea ukara migunaake tembung<br \/>\n     a) panguneg-uneg<br \/>\n     b) panggraitaku",
+                        "created": "2015-08-28T22:30:20+07:00",
+                        "responses": 1,
+                        "tickets": 1,
+                        "first_resp": "2015-08-28T22:32:32+07:00",
+                        "the_best_resp_id": null,
+                        "source": "10",
+                        "client_type": "1",
+                        "settings": {
+                            "is_closed": true,
+                            "can_edit": false,
+                            "can_mark_abuse": true,
+                            "can_moderate": false,
+                            "is_marked_abuse": false,
+                            "is_answer_button": false,
+                            "is_confirmed": false,
+                            "can_comment": true,
+                            "can_follow": false,
+                            "can_unfollow": false,
+                            "is_following": false,
+                            "is_deleted": false
+                        },
+                        "attachments": [],
+                        "comments": {
+                            "items": [],
+                            "last_id": 0,
+                            "count": 0
+                        },
+                        "highlighted_content": "Aku paling suthik yen kudu adu arep karo Bu Woro ing ruang BK. Wis kaping telu aku didhawuhi sowan. iki sing kaping papat.\u201cApa ya mung aku kang nyandhang lelakon kaya ngene? Yen karepku ngono kepingin urip kang prasaja tanpa ginubet ing prakara.\u201d ujarku ing batin.Bu lik wis nate crita yen wiwit umur pitung sasi aku dititipake ana ing Depok Sleman, daleme Bu lik amarga ibuku dherek bapak kang wektu semana bara menyang Jakarta. Kebeneran bu lik anggone mbangun bebrayan karo pak lik wis 5 taun durung kaparingan momongan. dadi anggone nggula wentah kaya anake dhewe.Gantalan taun aku kelas pitu SMP kulawargane bu lik keparingan momongan. Rumangsaku pangrenguhe bulik lan paklik malih grembyang. Gagah putrane bulik kang umure limang sasi luwih digatekake. mulane anggonku mulih sekolah tekan ngomah jam papat sore. yeng didangu wangsulanku ana kegiatan ing sekolahan.Suwe-suwe pak lik sujana marang alasanku. mulane pak lik ngelegakake rawuh ing sekolah nemoni Bu Woro\u00a0saperlu ngaruhake kok anggone mulih saben dina mesthi sore. sapungkure pak lik bu woro nimbali aku.\u201cBu Wara kepengin Tiffa jujur! Apa sebabe meh saben dina mulih sore? kamangka Tiffa mung <em>melu<\/em> kegiatan ekstra kerawitan kang digladhi dening pak Triman. Iku wae kegiatane mung dina rebo?\u201d piakone Bu Wara nalika sepisan aku mlebu ruang BK.Aku banjur crita bab diri pribadiku. nganti ora kuwawa ngendheg lakune luh kang ndlewer ing pipiku.\u201cKudune Tiffa ora kena darbe panyakrabawa ala marang bulik utawa paklik. iki ora ateges bu wara mbelani bulik lan paklikmu. nanging putrane bulik rak bocah cilik mesthine buttuh katresnan lan pambiyantu. yen sarane bu wara luwih becik Tiffa asring mbiyantu bot repote kulawarga!\u201d ngendikane bu wara.Yen dak nalar lan dak gagas bener uga ngendikane bu Woro. mula perkaraku bisa diudhari. nanging ana bab kang dadi panguneg-uneging pikirku. ing ngatase udakara wis 12 taun wong tuwaku ora kondur ing Yogya.Ing klas 8 aku uga didhawuhi ngadhep bu Woro ing ruang BK. \u201cIki rak mesthi masalah dhuwit jaket ekstra kang wis dakgunakake?\u201d gunemku sakroning ati.\u201cJebul dhuwit jaket kok gunakake karo pacarmu, Tiffa.. Tiffa kok nganti tekan semono tumindhakmu banjur kanggo apa?\u201d ngendikane bu Woro karo gedheg-gedheg.akeh banget kang dingendikakake bu Woro marang aku. Sing baku aku kudu mbalekake dhuwit jaket lan kudu medhot pacarku. judhegku nganti kelas 9 aku ora iso nyaur.genep seminggu aku ora mangkat sekolah. ndadekake bu lik lan paklik uga pihak <em>saka<\/em> sekolahan bingung jalaran kurang sesasi aku ujian malah tanpa kabar kang gumathok.\u201cdingapura iki ibu mau mulang kelas 8 dadi rada sauntara nunggu ana ing ruang BK.\u201d ngendikane Bu Woro karo ndelehake buku lan tase ing nduwur mejane.ora let suwe pak likku mlebu ing ruang BK dikanthi karo pawongan loro lanang wadon banjur lungguh ana ing kursi kang wis cumepak.\u201cmesthi Bu Wara kang ngabari pak likku yeng aku ana ing sekolahan.\u201d panggraitaku ing jero ati.\u201cana ngendi wae ta Tiff, seminggu iki?\u201d pitakone pak lik gawe cingak pawongan loro mau.Dadi iki Tiffani Saraswati bocah kang dak titipake sliramu ta dhik?\u201d pitakone wong wadon mau karo nyawang lan banjur arep ngekep aku. nanging aku endha rumangsaku ora tepung karo dheweke.\u201cApuranen wong tuwamu Tiff? amarga kahanan ndadekake wong tuwamu kudu nitipake kowe marang paklikmu. Yen arep ngajak kowe menyang Jakarta durung cekel gawe. mula bareng paklikmu kirim kabar yen kowe lunga <em>saka<\/em> ngomah lan sekolah, ibu lan bapak kagungan krenteging ati. sawise lulus bakal dak boyong menyang Jakarta, dak sekolahake ana kana?\u201d\u201cngendikanipun ibu mboten kangge ngeyem-eyemu ati kula ingkang tatu menika?\u201dibu banjur nyedhakilan ngekep aku. ngesokake kangen kang wis suwe ora tau dipupuk rasa tresna.\u201cnyuwun pangapunten kula Pak Pon ingkang dipuntangisi Tiffani seminggu kapengker.\u201dTembunge Pak Pon kang mlebu ruang BK kebak kringet pating dlewer.kabeh pating plenggong ora \u00a0ngerti tegese karo guneme Pak Pon. wusanane banjur blaka yen seminggu iki aku nyambut gawe ing omahe pak Pon kang duwe usaha kantin, asile angonku nyambut gawe arep daknggo mbayar utangku.krungu crita meh kabeh pada trenyuh, sawangsinawang tanpa guneman.wiwit kedadean ing ruang BK anggonku nglakoni urip kebak pangarep-arep, kebak katresnan <em>saka<\/em> wong tuwaku, sangsaya mantep jumangkag ngranggeh impenkku.\nsoal\n1) aranana <em>sapa<\/em> wae paraga cerkak ing ruang bk\n2) kepriye watake tiffa\n3) apa tema kang digunakake ana ing cerkak ing ruang Bk iku ?\n4) Watake Tiffa iku bisa dadi pemimpin ? terangna alasan mu !\n5) Aranana ana utawa ora budi pekerti <em>saka<\/em> cerkak ing ruang bk , menawa ana budi pekerti ne cobo andharna !\n6) gawea ukara migunaake tembung\n     a) panguneg-uneg\n     b) panggraitaku",
+                        "snippet_content": "<em>saka<\/em> wong tuwaku, sangsaya mantep jumangkag ngranggeh impenkku.\nsoal\n1) aranana <em>sapa<\/em> wae paraga cerkak ing ruang bk\n2) kepriye watake tiffa"
+                    },
+                    "responses": [
+                        {
+                            "id": 3994632,
+                            "user_id": 603608,
+                            "task_id": 3235961,
+                            "points": 9,
+                            "created": "2015-08-28T22:32:31+07:00",
+                            "content": "Tati menika dipukul ACC<br \/>",
+                            "mark": 3,
+                            "marks_count": 1,
+                            "thanks": 1,
+                            "user_best_rank_id": 3,
+                            "source": "10",
+                            "client_type": "2",
+                            "best": false,
+                            "settings": {
+                                "can_mark_as_best": false,
+                                "can_edit": false,
+                                "is_to_correct": false,
+                                "can_mark_abuse": true,
+                                "is_marked_abuse": false,
+                                "can_moderate": false,
+                                "is_deleted": false,
+                                "can_comment": true,
+                                "is_confirmed": false,
+                                "is_excellent": false
+                            },
+                            "attachments": [],
+                            "approved": {
+                                "date": null,
+                                "approver": null
+                            },
+                            "comments": {
+                                "items": [],
+                                "last_id": 0,
+                                "count": 0
+                            }
+                        }
+                    ],
+                    "presence": {
+                        "observing": [],
+                        "answering": [],
+                        "solved": [
+                            {
+                                "id": 603608,
+                                "nick": "dhafindavinci",
+                                "avatar": null
+                            }
+                        ],
+                        "tickets": []
+                    }
+                }
+            ]
+        },
+        "info": {
+            "current_page": 0,
+            "total_hits": 5,
+            "total_pages": 1,
+            "hits_per_page": 100
+        }
+    },
+    "users_data": [
+        {
+            "id": 3697904,
+            "nick": "jemmy7",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 35,
+                "answers": 29,
+                "comments": 39
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9a\/077957223f1aea2d94aa003eb425f4fd.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df2\/a7cf81eaaa61123134169cfc0f85c1c7.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d9a\/077957223f1aea2d94aa003eb425f4fd.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/df2\/a7cf81eaaa61123134169cfc0f85c1c7.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 4336800,
+            "nick": "jordhanag",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 19,
+                "comments": 17
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d60\/4cf69af92941d0ef7469da162c21f208.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc5\/eb3cb1a97c7115b185ae752788b84391.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d60\/4cf69af92941d0ef7469da162c21f208.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc5\/eb3cb1a97c7115b185ae752788b84391.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Gemar Membantu"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                2
+            ]
+        },
+        {
+            "id": 265588,
+            "nick": "ndaruu",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 1,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 264855,
+            "nick": "Rhakaa",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 18,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 2865728,
+            "nick": "widyanitya07",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 2,
+                "answers": 0,
+                "comments": 3
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 360891,
+            "nick": "putritias152putri",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 102,
+                "answers": 1093,
+                "comments": 272
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d67\/2ee618823a8a079d3903f239abad86f1.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de0\/24be3e97c66ea0de643839447abe2beb.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d67\/2ee618823a8a079d3903f239abad86f1.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/de0\/24be3e97c66ea0de643839447abe2beb.jpg"
+            },
+            "ranks": {
+                "color": "#5bb8ff",
+                "names": [
+                    "Si Hebat"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                6
+            ]
+        },
+        {
+            "id": 2756037,
+            "nick": "naima2",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 10,
+                "answers": 58,
+                "comments": 40
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 2725663,
+            "nick": "gungrai",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 2799148,
+            "nick": "adanigithrif19",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 0,
+                "answers": 17,
+                "comments": 4
+            },
+            "avatars": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d48\/1f7494a45913481570dc99c107015a53.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc2\/0c6c39229cd6d2063a7e117a57216972.jpg"
+            },
+            "avatar": {
+                "64": "https:\/\/id-static.z-dn.net\/files\/d48\/1f7494a45913481570dc99c107015a53.jpg",
+                "100": "https:\/\/id-static.z-dn.net\/files\/dc2\/0c6c39229cd6d2063a7e117a57216972.jpg"
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Ambisius"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                3
+            ]
+        },
+        {
+            "id": 1761367,
+            "nick": "lalalili5",
+            "gender": 1,
+            "is_deleted": false,
+            "stats": {
+                "questions": 4,
+                "answers": 0,
+                "comments": 0
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#6ed6a0",
+                "names": [
+                    "Pemula"
+                ],
+                "count": 1
+            },
+            "ranks_ids": [
+                1
+            ]
+        },
+        {
+            "id": 603608,
+            "nick": "dhafindavinci",
+            "gender": 2,
+            "is_deleted": false,
+            "stats": {
+                "questions": 57,
+                "answers": 30,
+                "comments": 27
+            },
+            "avatar": null,
+            "avatars": {
+                "64": null,
+                "100": null
+            },
+            "ranks": {
+                "color": "#000000",
+                "names": [],
+                "count": 0
+            },
+            "ranks_ids": null
+        }
+    ],
+    "validated": false
+}
